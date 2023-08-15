@@ -28,8 +28,12 @@ o---------------------------------------------------------------------o
 PLANETARYNEWS.ORG TEMPORARILY DOWN
 
 Due to technical issues the planetarynews.org website and the 
-Planetary Exploration Newsletter listserv are temporarily down. We are 
-working to resolve and restore both as quickly as possible. We 
+Planetary Exploration Newsletter listserv are temporarily down. The 
+website is temporarily available at:
+
+https://planetarynews.github.io/
+
+We are working to resolve and restore both as quickly as possible. We 
 apologize for the inconvenience and thank you for your patience.
 
 The Editors
