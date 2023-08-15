@@ -1,0 +1,462 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 38 (August 28, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Cassini Radar Science  
+2. Mars Recent Climate Change Workshop Rescheduled
+3. [NASA] August 2011 Discovery and New Frontiers Newsletter Released
+4. Plan to Attend the IAU Party at the EPSC-DPS Meeting In Nantes
+5. The NASA Postdoctoral Program Welcomes Applications for the 
+   November Cycle
+6. Hands-On ISIS Workshop
+7. [NASA] PDS: Mars Exploration Rovers Data Release 29  
+8. Postdoctoral Researcher: Petrology of Planetary Materials
+9. Postdoctoral Researchers in Lunar Science
+10. Job: Tenure-Track Assistant Prof. in Space Physics or Planetary  
+    Sciences at University of Washington, Seattle
+11. [NASA] Public Invitation for Potential Members to Serve on NASA 
+    Federal Advisory Committees
+12. [NASA] SALMON-2 AO Released for Community Comment
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CASSINI RADAR SCIENCE 
+
+Cassini RADAR data users: note that Titan's rotation axis is now known
+to be inclined to its orbital plane, reducing location errors from 10s
+of km pre-Cassini to ~ 1-2 km. At present, two rotation models are 
+used for RADAR products.  Flybys TA through T30 used a precessing/
+nonsynchronous model that cannot be extrapolated.  T36 onward used the
+same pole but synchronous rotation and no precession.  Users are 
+warned that feature coordinates based on these two models are 
+different at the 1-2 km level and that analyses such as stereoanalysis
+and rotational modeling must take account.  Cassini may reprocess 
+TA-T30 products to be consistent with later data and may reprocess 
+all data once a definitive model exists.
+
+Also, BIDR products may have parallax distortions resulting from 
+topography.  BIDRs georeference onto a sphere, and features located
+above or below appear displaced horizontally.  In particular, 
+features in Titan's polar regions can be in error by 1-5 km, and 
+the apparent offset between opposite-side images can be ~ 2-10 km. 
+These differences can be exploited for stereomapping but also must
+be accounted for in analyses such as change detection and rotation 
+modeling).
+
+For details consult:
+Stiles et al., Astronomical Journal, 135, 5, May 2008.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS RECENT CLIMATE CHANGE WORKSHOP RESCHEDULED
+
+The wokshop originally scheduled for Nov. 15-17, 2011 has been
+rescheduled. 
+
+New Dates: May 22-24, 2012
+
+http://spacescience.arc.nasa.gov/mars-climate-workshop-2012/
+
+NASA/Ames Research Center
+Moffett Field, CA
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] AUGUST 2011 DISCOVERY AND NEW FRONTIERS NEWSLETTER RELEASED
+
+-Juno's spectacular launch on August 5
+-Dawn: first spacecraft to orbit a main belt asteroid 
+-Vesta Fiestas celebrate Dawn's milestone
+-MESSENGER enters orbit about Mercury
+-GRAIL prepares for September launch
+-New Horizons adds new target to Pluto system flyby 
+-OSIRIS-REx selected as the third New Frontiers mission
+-Three new Discovery mission candidates announced
+-Highlights from the Thrill of Discovery educator workshop 
+-"Space School Musical" - a Telly award, new activity guide, and more
+
+View and subscribe at:
+
+http://discovery.nasa.gov/newsletter/newsletter.cfml
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLAN TO ATTEND THE IAU PARTY AT THE EPSC-DPS MEETING IN NANTES
+
+EPSC-DPS meeting attendees are invited to an International Astronomical 
+Union gathering ("IAU Party") on Wednesday 5 October from 12:00 to 
+1:30pm to learn about and discuss the role of the IAU in the area of
+(exo)planetary sciences:
+   - what it is (Divisions, Commissions, Working Groups, etc.)
+   - what it does
+   - what you would like it to be/do
+
+Application forms (due December 1, 2011) will be available for those
+interested in becoming IAU members (required for attendance at next 
+year's General Assembly in Beijing).
+
+Box lunches will be available for purchase (cost is 17 euros).
+Please register and select a menu if you would like to buy lunch:
+
+http://bit.ly/IAU_Party
+
+The conveners:
+Regis Courtin (Past-President of Commission 16)
+Melissa McGrath (President of Commission 16)
+
+Regis Courtin
+LESIA - CNRS / Observatoire de Paris
+92195 Meudon Principal Cedex (France)
+Tel: +33-(0)145077729
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+THE NASA POSTDOCTORAL PROGRAM WELCOMES APPLICATIONS FOR THE NOVEMBER 
+CYCLE
+ 
+The next deadline to apply for a NASA Postdoctoral Program (NPP) 
+fellowship is November 1, 2011.  These competitive one- to three-year
+appointments advance NASA's missions in space science, earth science,
+aeronautics, space operations, exploration systems, lunar science, 
+and astrobiology.
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens and foreign nationals who hold Lawful 
+Permanent Resident status or who are eligible for J-1 status as a 
+Research Scholar may apply.  An H-1B Visa status is not acceptable 
+because the NPP is not an employment program.
+ 
+Stipend rates for Postdoctoral Fellows start at $50,000 per year, 
+with moderate supplements for high cost-of-living areas and for 
+certain academic specialties. Funds are available for relocation 
+expenses, up to a specified limit, and health insurance is available 
+through the program. Fellows also receive $8,000 per appointment year
+to support travel to conferences, meetings, and other activities that
+directly support their research.
+ 
+Applications for the NASA Postdoctoral Program are accepted three 
+times each year: March 1, July 1, and November 1.
+ 
+For further information and to apply online, visit: 
+ 
+http://nasa.orau.org/postdoc/description/index.htm 
+ 
+Questions: nasapostdoc@orau.org 
+ 
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+HANDS-ON ISIS WORKSHOP
+
+A two-day introductory workshop on the Integrated Software for Imager
+and Spectrometers (ISIS) is being hosted by the John Hopkins University
+Applied Physics Laboratory. Expert developers and users from the U.S.
+Geological Survey will present a series of hands-on lessons covering
+fundamental cartographic and digital image processing of planetary data
+using ISIS. The tentative course outline includes:
+
+Basic visualization tools
+ISIS GUI and utility tools
+Importing data into ISIS
+Camera and Photogrammetric tools
+Map projecting images
+Creating uncontrolled digital mosaics
+Exporting data from ISIS
+Co-registration of data sets
+Photometric normalization tools
+Advanced visualization tools
+Installing ISIS
+
+Dates: October 25-26, Tuesday and Wednesday
+Location: Johns Hopkins University, Applied Physics Laboratory, Laurel,
+Maryland
+
+Prerequisites: Basic Unix command line knowledge and a Mac, Windows, or
+Unix laptop with wireless 802.11g/n
+
+Class limit: 20 slots
+There is no fee for the workshop; however, all travel and lodging costs
+are the responsibility of the attendee.
+
+Registration: Please send an email to ssides@usgs.gov with a subject
+line of "ISIS Workshop at JHU/APL". Attendees will be accepted on a
+first come first serve basis.
+
+Stuart C. Sides
+Astrogeology Science Center
+US Geological Survey
+ssides@usgs.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: MARS EXPLORATION ROVERS DATA RELEASE 29  
+
+The Planetary Data System is pleased to announce Release 29 of Mars 
+Exploration Rover data.  This release includes primarily data from 
+Sols 2431 through 2520 and includes data only from Opportunity, MER1/B.
+It includes data from the following instruments:  APXS, HAZCAM, NAVCAM,
+MI, Moessbauer, PANCAM, Rock Abrasion Tool, Rover Motion Counter, and
+SPICE.
+
+There are no Atmospheric Opacity or Mini-TES data in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110824.html
+  
+The following special services are provided for accessing MER data:
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+ 
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCHER: PETROLOGY OF PLANETARY MATERIALS
+
+The Lunar and Planetary Institute (LPI), part of the Universities 
+Space Research Association, invites applications for a postdoctoral 
+fellowship in the petrology of planetary materials.
+
+The successful candidate will work with Dr. Allan Treiman in NASA-
+funded efforts, focusing on planetary crusts and magmas, and their 
+volatiles constituents; target materials include lunar highlands 
+rocks, Martian meteorites, and terrestrial analogs.  These efforts 
+focus on planetary samples, starting with analyses by optical 
+microscopy and electron microprobe; other instruments are available 
+at nearby Johnson Space Center or with external collaborators.  The 
+candidate will be encouraged to design and conduct their own research 
+in planetary science, propose for external funding, participate in 
+grant review panels and analysis groups, and become involved with 
+spacecraft missions.
+
+The successful candidate will have a recent Ph.D. in petrology or 
+geochemistry; experience with planetary materials is helpful, but 
+not required.  The position would be for two years, with possible 
+extension to a third year.  Review of candidates will begin on 
+November 15, 2011, with a hiring decision as soon as possible 
+thereafter. Further information can be found on our website:
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity
+Employer.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL RESEARCHERS IN LUNAR SCIENCE
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI) invites applications for lunar science and exploration 
+postdoctoral fellowships.  Opportunities include:
+
+Lunar Surface Geology and Remote Sensing - Using new LRO data; 
+integrating it with existing lunar data to evaluate processes 
+associated with impact cratering and/or planetary differentiation.  
+Experience with orbital remote sensing methods, photometry of lunar 
+materials, and photogeology of lunar or lunar-like terrains preferred. 
+
+Experimental and/or Analytical Petrology and Geochemistry - Using 
+Apollo and lunar meteorite samples (or synthetic analogues) to 
+evaluate processes associated with impact cratering and/or planetary 
+differentiation.  Experience with electron and ion microprobes, 
+and/or LA-ICPMS techniques preferred.
+
+Modeling of Impact Cratering Processes - Using hydrocodes and 
+relevant analytical techniques to evaluate different cratering 
+processes on the Moon, to model specific crater or basin-forming 
+events, and potentially guide future exploration scenarios. 
+
+The successful candidate will be a member of the new LPI-JSC Center
+for Lunar Science and Exploration (http://www.lpi.usra.edu/nlsi/),
+one of the core teams within the NASA Lunar Science Institute. 
+           
+Further information, including submission requirements are found at:
+
+http://www.lpi.usra.edu
+
+Questions regarding science involved in the position, contact 
+Dr. David Kring (kring@lpi.usra.edu). 
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JOB: TENURE-TRACK ASSISTANT PROF. IN SPACE PHYSICS OR PLANETARY  
+SCIENCES AT UNIVERSITY OF WASHINGTON, SEATTLE
+
+The Department of Earth & Space Sciences at the University of  
+Washington invites applications for a full-time tenure-track faculty  
+member whose research focuses in space and planetary sciences.
+We are especially interested in scholars with expertise in the design,  
+fabrication and operation of spacecraft or ground-based experiments  
+associated with solar, planetary, magnetospheric, and ionospheric  
+sciences, and/or aeronomy.   The candidate will be expected to  
+participate in the development of hardware/experiential learning  
+courses within a space sciences and technology option in the BS  
+program.  Opportunities for collaboration exist with Aeronautics and  
+Astronautics, Electrical Engineering and the Washington NASA Space  
+Grant Consortium.
+
+It is anticipated the position will be filled at the Assistant  
+Professor level.  Priority will be given to applications received  
+before November 1, 2011.
+
+For full details and how to apply, please see: 
+
+http://www.washington.edu/admin/acadpers/ads/aa2872.html
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PUBLIC INVITATION FOR POTENTIAL MEMBERS TO SERVE ON NASA 
+FEDERAL ADVISORY COMMITTEES
+
+NASA announces an invitation for the public to nominate individuals 
+and also submit self-nominations for consideration as potential 
+members of NASA's Federal advisory committees. 
+
+Deadline: September 20, 2011
+
+ADDRESSES: Nominations and self-nominations from interested 
+individuals must be sent to NASA in letter form, be signed, and must
+include the name of the specific NASA Federal advisory committee of
+interest for consideration. Such letters must be accompanied by the 
+following additional information:
+(1) Resume and/or curriculum vitae; 
+(2) Professional biography (one page maximum). 
+Letters may be submitted electronically, in hard-copy, or both. 
+Send all letters and accompanying information to: 
+  Ms. Susan Burch
+  Advisory Committee Management Division
+  Office of International and Interagency Relations
+  NASA Headquarters
+  Washington, DC 20546
+ or electronically to: susan.burch@nasa.gov
+
+NASA's currently chartered Federal advisory committees include:
+   NASA Advisory Council  
+   Aerospace Safety Advisory Panel 
+   International Space Station (ISS) Advisory Committee
+   International Space Station (ISS) National Laboratory Advisory 
+    Committee
+   National Space-Based Positioning, Navigation and Timing (PNT) 
+    Advisory Board 
+
+To view charters for each of the above-listed NASA Federal advisory
+committees, and for additional information, please visit: 
+
+http://oiir.hq.nasa.gov/acmd.html
+
+or contact:
+Ms. Susan Burch
+202-358-0550
+susan.burch@nasa.gov
+
+[Editor Note: Shortened for length.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] SALMON-2 AO RELEASED FOR COMMUNITY COMMENT
+
+Comments Due: September 16, 2011
+Identification Number: NNH11ZDA017J
+
+The full text of the draft solicitation is available at:
+
+http://nspires.nasaprs.com/
+
+The draft SALMON-2 AO provides a solicitation and procurement base 
+for opportunities for modest investigations requiring space flight 
+that advance the high priority science, exploration, and technology 
+objectives of NASA's Science Mission Directorate, Human Exploration 
+and Operations Mission Directorate, and the Office of the Chief 
+Technologist. This draft SALMON-2 AO represents a restructuring of 
+the 2008 SALMON AO (NNH08ZDA009O; http://go.nasa.gov/SALMON-AO) to 
+incorporate the standard format and processes that have been developed 
+for the NASA Science Mission Directorate's Standard AO:
+
+http://soma.larc.nasa.gov/StandardAO/sao_templates.html
+ 
+NASA welcomes comments and suggestions on this DRAFT standardized 
+SALMON-2 AO. Comments are welcome on any topic, but are especially 
+welcome where they identify policies, practices, or specific language 
+that are unclear, ambiguous, nonoptimal, or unnecessary. Please 
+include the phrase "SALMON-2 AO COMMENT" (without quotes) in the 
+subject line of any comment submitted.
+
+Questions or requests for further information may be addressed to:
+Dr. Paul Hertz
+Chief Scientist
+Science Mission Directorate, NASA
+Washington, DC 20546
+202-358-0986
+paul.hertz@nasa.gov
+
+[Editor Note: Shortened for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+        
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 13-15, 2011
+Conference on Life Detection in Extraterrestrial Samples
+http://www.lpi.usra.edu/meetings/lifedetection2012/
+San Diego, CA
+
+July 23-27, 2011
+2012 Sagan Summer Workshop: Working with Exoplanet Light Curves
+http://nexsci.caltech.edu/workshop/2012/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*
+* To unsubscribe, send an email to pen_editor at psi.edu
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements.  Title plus text is limited to 200 words.  Go to
+* http://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu).
+***********************************************************************

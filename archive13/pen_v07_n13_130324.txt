@@ -1,0 +1,598 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 13 (March 24, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EDITORIAL - A Budget
+2. NASA Planetary Science Subcommittee Meeting, April 4-5, 2013
+3. Origin of the Moon
+4. John Bahcall Public Policy Fellowship
+5. [NASA] PDS Releases Additional LRO Data
+6. NASA Postdoctoral Fellowships
+7. International Conference "Cosmic Dust VI"
+8. Max Planck Research Group Leader in Cometary Science
+8. [NASA] Planetary Science Division Technology Infusion Request for 
+   Information (RFI)
+10. [NASA] EPO Point of Contact Change
+11. [NASA] PDS MSL Data Release
+12. Characterizing Luna Incognita
+13. Cosmochemistry and Planet Formation Theme at Goldschmidt 2013 
+    Meeting
+14. [NASA] Travel Restrictions Update
+15. Planetary Atmospheres Researcher (GSFC/CRESST/University of 
+    Maryland)
+16. International Scientific Workshop on Golden Spike Human Lunar 
+    Expeditions, 3-4 October 2013
+17. IPEWG 2013: Second Announcement 
+18. Reminder: Call for Chapters for Asteroids IV, Deadline March 31st, 
+    2013
+19. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL - A BUDGET
+
+On March 21, Congress passed a full year FY13 CR to which sequestration
+will be applied. For the past six months, the Administration has 
+implemented a 20% reduction in the planetary budget (to $1.2B), but 
+Congress has raised that to $1.415B. Even with sequestration, planetary 
+should do significantly better than Administration plans. Further, 
+Congressional direction to increase research and Discovery budgets over 
+Administration request sends a strong message about the importance of 
+these foundational programs that should be heeded by the Administration 
+and NASA management. Record low selection rates over the past two years 
+were the predictable consequence of PSD management removing ~$25M from 
+research programs in 2010 through "rephasing" to help cover MSL cost 
+overruns. The Discovery program has been decimated since the selection 
+of Dawn and Kepler in 2001 (the end of a decade selecting two missions 
+for flight every two years). The Administration and NASA management 
+need to move away from their focus on back-room deals on large projects 
+for special interests and pay attention to getting the basics right and 
+making them stable. Without this, our solar system exploration program 
+and the national capabilities supporting it will irreversably decline.
+
+Mark V. Sykes
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA PLANETARY SCIENCE SUBCOMMITTEE MEETING, APRIL 4-5, 2013
+
+The agenda for the meeting includes the following topics:
+
+Planetary Science Division Update
+Mars Exploration Program Update
+Mars Science Laboratory/Curiosity Update
+Research and Analysis Update
+Reports from Assessment Groups
+
+Location: NASA HQ, Washington, DC
+
+To attend in person or by telecon and Webex, go to:
+
+http://www.gpo.gov/fdsys/pkg/FR-2013-03-11/html/2013-05486.htm
+
+[Editor's Note: NASA Assessment Group chairs are no longer automatic
+members of this committee. To date, the Small Bodies Assessment Group,
+Lunar Exploration Analysis Group, and Mars Exploration Program Analysis
+Group chairs have been removed.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ORIGIN OF THE MOON
+
+Two contiguous meetings sponsored by the Royal Society. Organized by
+David Stevenson (Caltech) and Alex Halliday (Oxford). The first will 
+be September 23-24 in London and the second will be at the Kavli 
+center (about 90 minutes from London), September 25-26. There will be a 
+poster session for contributed papers at the second meeting only. For 
+more information, visit:
+
+http://royalsociety.org/events/2013/origin-moon/
+
+for the London meeting, and go to:
+
+http://royalsociety.org/events/2013/moon-origin-satellite/
+
+for the follow-on meeting.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+ 
+JOHN BAHCALL PUBLIC POLICY FELLOWSHIP
+
+The John Bahcall Public Policy Fellowship is a full-year postdoctoral 
+level position, renewable for a second year. In partnership with the 
+Director of Public Policy, the John Bahcall Public Policy Fellow will 
+be responsible for a wide range of AAS public policy activities. The 
+AAS The deadline to apply is May 1, 2013. The position begins September 
+2013. Go to:
+
+http://jobregister.aas.org/job_view?JobID=44466
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS RELEASES ADDITIONAL LRO DATA
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+CRaTER, DLRE, LAMP, LEND, LOLA, LROC and SPICE. In general, LRO Release 
+13 includes data collected between September 15, 2012 and December 14, 
+2012. To access the above data, please visit the following link:  
+
+http://pds.nasa.gov/subscription_service/SS-20130315.html
+
+PDS offers two services for searching the LRO archives: The Planetary 
+Image Atlas at the Imaging Node allows selection of LRO data by 
+specific search criteria:   
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+     
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector):    
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data may be obtained here:
+
+http://naif.jpl.nasa.gov/naif/data_archived.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+INTERNATIONAL CONFERENCE "COSMIC DUST VI"
+
+August 5-9, 2013
+
+Center for Planetary Science (CPS), Kobe, Japan.
+
+This series of Cosmic Dust meetings aims finding a consensus among 
+experts on the formation and evolution of cosmic dust: where it comes 
+from and where it goes. The primary objectives of the meeting are to 
+bring together professionals who deal with cosmic dust and to provide 
+an opportunity for participants to develop human relations and 
+interactions between the participants. The meeting considers all kinds 
+of cosmic dust: intergalactic and interstellar dust, protoplanetary and 
+debris disk dust, cometary, interplanetary and circumplanetary dust, 
+planetary aerosols, regolith, micrometeorites, meteors and meteoroids, 
+presolar grains and stellar nebular condensates. The meeting is open 
+for any aspects of dust research by means of in-situ and laboratory 
+measurements, astronomical observations, laboratory and numerical 
+analogue simulations, theoretical modeling, data analysis, etc. Any 
+dust-related topics, for example, formation of molecules and their 
+reactions on and desorption from the surface of dust particles, are 
+also welcome. Publishing the proceedings of this meeting is currently 
+being planned as a special issue of a peer-reviewed journal.
+
+Deadline for admissions application: 13 May 2013.
+
+For online registration and more details go to the meeting website:
+
+https://www.cps-jp.org/~dust/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MAX PLANCK RESEARCH GROUP LEADER IN COMETARY SCIENCE
+
+The Max Planck Institute for Solar System Research (MPS) offers 
+outstanding young scientists the opportunity to set up and lead a Max 
+Planck Research Group (MPRG) in the field of cometary research.
+
+In order to foster the scientific exploitation of the Rosetta mission, 
+arriving in 2014 at its target comet, the MPS intends to establish a 
+new MPRG dedicated to cometary science. The new MPRG leader will have 
+the unique chance to play a leading role in the research that is based 
+on the Rosetta data. In close collaboration with the several instrument 
+teams at the MPS he/she is expected to take advantage of the multiple 
+involvements of the MPS in the Rosetta mission and to utilize the 
+corresponding synergies in order to answer the key science questions.
+
+The successful candidate will be offered a MPRG for a period of five 
+years with the possibility of twice a 2-years extension after 
+successful evaluation and subject to financial and legal conditions. 
+The group leader will hold a temporary W2 position equivalent to the 
+associate professor level. In exceptional cases a tenured W2 position 
+can be offered.
+
+For more information visit: 
+
+http://www.mps.mpg.de/de/aktuelles/jobs/job_20130321.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PLANETARY SCIENCE DIVISION TECHNOLOGY INFUSION REQUEST FOR
+INFORMATION (RFI)
+
+Solicitation Number: NNH13ZDA008L
+Response Date: April 19, 2013
+
+Through the Technology Infusion RFI the Planetary Science Division at 
+NASA seeks to better understand how to realize a scientific return on 
+spacecraft system technology investments by soliciting recommendations 
+on how to effectively infuse new spacecraft systems technologies that 
+it develops into future competed missions, enabling increased 
+scientific discoveries, lower mission cost, or both. We are collecting 
+input on how to maximize the return on and benefits from current 
+technology investments and thereby improve the prospects of the 
+inclusion of these investments within future competed missions 
+opportunities. We are requesting the community's assessment of 
+barriers to technology infusion, e.g., as related to approach, 
+technology readiness, documentation, integration, risk considerations, 
+and system level impacts. The call contains a series of specific 
+questions to be answered, but other volunteered will also be considered.
+
+The full text of this RFI, which contains points of contact, details on 
+the contents and the format of the response, and other details, can be 
+downloaded as a PDF file from: 
+
+http://science.nasa.gov/researchers/sara/grant-solicitations/ 
+
+under the heading "Community Announcements".
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] EPO POINT OF CONTACT CHANGE
+
+The point of contact for the ROSES 2013 Opportunities in Education and 
+Public Outreach for Earth and Space Sciences has changed to Therese 
+Kucera, who's email address is therese.a.kucera@nasa.gov. The text of 
+the call has been updated to reflect this change.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS MSL DATA RELEASE
+
+The NASA Planetary Data System announces Release 1, Part 2, from the 
+Mars Science Laboratory (MSL) mission, covering data from Sols 0-89, 
+August 6 - November 5, 2012. Part 1 took place on February 27, 2013, 
+and consisted of raw data products.
+
+Part 2 consists of derived data from the following instruments: APXS,
+CheMin, Hazcam, Navcam, REMS and SAM. It also includes CheMin raw data.  
+Data for the following is delayed and will be released soon: ChemCam, 
+DAN and RAD. Release 1 does not include data from the MAHLI, MARDI, or 
+Mastcam instruments.
+
+Links to MSL data sets are on the PDS Geosciences Node web site:
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+and on the PDS home page:
+
+http://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and 
+Ancillary Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives: The Planetary 
+Image Atlas at the Imaging Node allows selection of MSL image data by 
+specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows access to 
+all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+To receive future announcements of MSL releases, subscribe at:
+
+http://pds.jpl.nasa.gov/tools/subscription_service/top.cfm
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CHARACTERIZING LUNA INCOGNITA
+
+Monday, April 15, 2013 9:00AM PDT, 12:00 Noon EDT, 16:00 UTC 
+Ben Bussey, JHU/APL
+
+The goal of our team is to advance our scientific understanding of the 
+Moon's poles and to fill in strategic knowledge gaps that facilitate 
+the robotic and human exploration of these areas. Our results provide 
+useful data for planning future lunar surface missions. For example we 
+have located places near both poles that are constantly illuminated 
+for several months around mid-summer. Such locations permit 
+long-duration missions that do not have to survive periods of darkness. 
+We have mapped regions of permanent shadow as far from the poles as 58 
+degrees latitude. This new result dramatically increases the 
+opportunities for missions wishing to investigate if these areas 
+contain volatiles, a useful resource for future robotic and human 
+explorers.
+
+Participation instructions:
+
+Web Browser: The slides and audio/video for this meeting will be 
+presented using Adobe Connect. To join the meeting, connect to:
+
+http://connect.arc.nasa.gov/nlsi_directors_seminar/
+
+Videoconference: Please  RSVP to Ricky Guest (Ricky.Guest@nasa.gov) 
+if you will be joining by Polycom or other standards based Video 
+Teleconferencing System. Slides will be viewable by logging in to: 
+
+http://connect.arc.nasa.gov/nlsi_directors_seminar/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+COSMOCHEMISTRY AND PLANET FORMATION THEME AT GOLDSCHMIDT 2013 MEETING
+
+Goldschmidt 2013 will be held August 25-30 in Florence, Italy, and 
+feature a Cosmochemistry and Planet Formation Theme, with the following 
+special sessions:
+
+- Refractory Grains, Volatiles, and Organic Molecules Inherited from 
+  the Interstellar Medium
+- Martian Evolution; Ancient Messengers and Modern Measurements
+- Planet Formation and Bombardment
+- Comparative Planetology of Crust Formation
+- Accretion and Differentiation of Primitive Parent Bodies
+- Chronology of Molecular Cloud Collapse, First Solids Formation, and 
+  Earliest Accretion
+- Origins of Life: Environments, Mineral Surfaces, and Prebiotic
+- Dynamics and Chemistry in Protoplanetary Disks
+- The Volatile Inventory of the Moon and Mercury        
+- In Situ, High Spatial Resolution Isotopic Measurements Applied to 
+  Extraterrestrial Materials
+
+Abstract deadline: April 12, 2013
+
+Additional details available at:
+
+http://goldschmidt.info/2013/program/programViewThemes#theme02
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] TRAVEL RESTRICTIONS UPDATE
+
+Several grantees have indicated that they thought that the 
+Administrator's memo on travel restrictions under the sequester applied 
+to their grants. For various reasons this is not the case. The memo 
+specified only NASA Civil Servants and contractors (especially JPL), it 
+did not mention grantees. Those who are on grants are not required to 
+skip travel. If anything changes the grantees will be contacted by the 
+NASA Shared Services Center. Until then scientists should continue 
+their research projects in the normal, fiscally responsible manner they 
+did before.
+
+Max Bernstein, HQ-Senior Advisor for Research and Analysis
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY ATMOSPHERES RESEARCHER (GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+The NASA Goddard Space Flight Center's (GSFC) Planetary Environments
+Laboratory, in conjunction with the Center for Research and Exploration 
+in Space Science and Technology (CRESST), is soliciting applications 
+for a researcher in the field of Planetary Atmospheres to support Mars 
+upper atmosphere investigations with the MAVEN mission. Additional 
+details are available at: 
+
+http://www.astro.umd.edu/employment/
+
+Candidates should have a Ph.D. in a relevant discipline with a strong 
+and demonstrated interest in and understanding of upper atmospheric 
+physics. IDL skills and experience in acquisition and analysis of data 
+from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Monday, April 29, 2013 will receive full 
+consideration.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+INTERNATIONAL SCIENTIFIC WORKSHOP ON GOLDEN SPIKE HUMAN LUNAR
+EXPEDITIONS, 3-4 OCTOBER 2013
+
+Golden Spike and the Lunar and Planetary Institute (LPI) have 
+announced a two-day workshop for the US and international scientific 
+community to explore the planned capabilities of Golden Spike human 
+lunar expeditions planned to begin in 2020.
+
+The workshop will be held at the Lunar and Planetary Science Institute 
+(LPI) in Houston, Texas on October 3rd and 4th, 2013. The workshop will 
+focus on landing site selection, surface experiment packages, sample 
+return capabilities, and surface traverse planning.
+
+The workshop's program committee includes Dr. Alan Stern, CEO and 
+President of Golden Spike, Dr. Steve Mackwell, Director of the Lunar 
+and Planetary Institute, Dr. Clive Neal/Notre Dame University, 
+Dr. William McKinnon/Washington University at St. Louis, Dr. Amand 
+Mahesh/The Open University in the UK, and Dr. James Carpenter/European 
+Space Agency.
+
+More information about this workshop, an expression of interest form 
+can be found at: 
+
+http://www.lpi.usra.edu/meetings/gs2013/ 
+
+More information about Golden Spike can be found at: 
+
+http://www.goldenspikecompany.com
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+IPEWG 2013: SECOND ANNOUNCEMENT 
+
+Dear Colleagues:
+
+The on-line registration to the third Meeting of the International 
+Primitive Body Exploration Working Group (IPEWG 2013) on May 29-31, 
+2013, in Nice, France, is now open. Information regarding how to 
+register, the program (based on solicited speakers only), the meeting 
+goals, the logistics are indicated on the following web site (click on 
+the Registration Menu for explanations on how to register):
+
+http://www.oca.eu/michel/IPEWG2013/
+
+Discussions held at IPEWG 2013 are expected to impact and improve 
+international collaboration activities for primitive body space 
+exploration. We hope you will be interested in participating to this 
+workshop and to the discussions that will encourage efficient 
+international coordinations and efforts to improve our knowledge of 
+these fascinating primitive bodies. 
+
+The deadline for registration is May 10th, 2013 and we encourage 
+interested persons to register (and book their Hotel; see the web site 
+for information) as soon as possible as the workshop is limited to a 
+maximum of 100 participants. Please contact Patrick Michel, LOC Chair 
+(michelp@oca.eu) with any questions.
+
+We look forward to welcoming you on the "Nice" Côte d'Azur!
+
+Sincerely,
+
+Patrick Michel
+michelp@oca.eu
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+REMINDER: CALL FOR CHAPTERS FOR ASTEROIDS IV, DEADLINE MARCH 31st, 2013
+
+Dear Colleagues,
+
+This message is a solicitation for ideas for chapter topics and a
+solicitation for volunteers for chapter authors for the book Asteroids 
+IV. If you would like to recommend chapters for the book, or would like 
+to volunteer to write a particular chapter as a first author, we would 
+like to know no later than March 31st, 2013. The Asteroids IV web site 
+includes the call for chapters and instructions that can be seen and 
+downloaded:
+
+http://www.oca.eu/michel/ASTEROIDSIV/
+
+The SOC will then make the final choice of chapters, based on the
+received ideas and its own conclusions. Your participation would be an
+extremely valuable service to the asteroid and planetary science
+community. It is our intention to make Asteroids IV as useful as
+Asteroids (1979), Asteroids II (1989), and Asteroids III (2002) such
+that it becomes the science community's primary reference manual for at
+least the next decade, and we hope you will volunteer to participate to
+this challenge.
+
+On behalf of the co-Editors and SOC,
+
+Best regards,
+
+Patrick Michel
+Editor, Asteroids IV
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 4-5
+NASA Planetary Science Subcommittee Meeting
+http://www.gpo.gov/fdsys/pkg/FR-2013-03-11/html/2013-05486.htm
+Washington, DC
+
+CANCELLED
+April 29 - May 2
+Habitable Worlds Across Time and Space
+http://www.stsci.edu/institute/conference/habitable-worlds
+Baltimore, MD
+
+June 20-21, 2013
+Interplanetary Small Satellite Conference
+http://www.intersmallsatconference.org/
+Pasadena, CA
+
+August 25-30, 2013
+Goldschmidt 2013 Conference
+goldschmidt.info/2013/index
+Florence, Italy
+
+September 23-24, 2013
+Origin of the Moon
+http://royalsociety.org/events/2013/origin-moon/
+London, United Kingdom
+
+September 25-26, 2013
+Origin of the Moon - Challenges and Prospects
+http://royalsociety.org/events/2013/moon-origin-satellite/
+Chicheley, United Kingdom
+
+October 3-4, 2013
+Workshop on Golden Spike Human Lunar Expeditions
+http://www.lpi.usra.edu/meetings/gs2013/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

@@ -1,0 +1,493 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 54 (November 10, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: NASA Planetary R&A Reorganization
+2. Request for Questions Regarding Planetary Science R&A Restructuring
+3. 2014 Pierazzo International Student Travel Award Proposal Deadline 
+   Approaching
+4. Icarus Special Issue - The Pluto System
+5. Biosignatures Across Space and Time
+6. Planetary Geomorphology Image of the Month
+7. Call for Letters of Application for Membership in the ExoMars 2018 
+   Landing Site Selection Working Group
+8. NASA Postdoctoral Fellowships - Next Application Deadline Extended 
+   to Friday, November 15, 2013
+9. Planetary Mission Research Scientist at NASA JSC: Applicants Must
+   Reapply
+10. FameLab: Exploring Earth and Beyond
+11. Free Smartphone App for Tracking Fireballs
+12. Assistant Professor Position, UA Theoretical Astrophysics Program
+13. Register Today for the 2014 Humans to Mars Summit (H2M)
+14. ALMA Cycle 2 Call for Proposals
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+        
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL - NASA PLANETARY R&A REORGANIZATION
+
+Mark V. Sykes
+Planetary Science Institute
+
+NASA (and the Administration) has not had a good track record of late, 
+putting the cart way before the horse with the recent EPO 
+reorganization debacle, Mars 2020, and the Asteroid Retrieval Mission. 
+Sometimes plans can go awry, as with the rephasing of research awards
+in 2010 to free up money to cover an MSL cost overrun. Failure to cover 
+those rephased obligations in subsequent years was the primary reason 
+for a collapse in proposal selection rates.
+
+The planetary research and analysis programs, along with mission data 
+analysis programs, support most of the US planetary community. Their
+streamlining could provide benefits. A misstep could permanently damage 
+US solar system exploration capability. The plan laid out by Jim Green 
+is very vague:
+
+http://www.lpi.usra.edu/pss/nov2013/Green__Rall_PSS_Nov%20_2013.pdf
+ 
+(beginning on slide 41). Its implementation is premature. So, it is 
+very good that NASA is reaching out to the community for input. This 
+should be the first step in a more extended process that will 
+transparently and iteratively add important details and well-defined 
+improvements to any reorganization plan. It is far more important to 
+get it right, than to rush and cause harm.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+REQUEST FOR QUESTIONS REGARDING PLANETARY SCIENCE R&A RESTRUCTURING
+
+At the Planetary Science Subcommittee (PSS) meeting on November 5, 
+there was a presentation describing a plan to restructure the existing 
+planetary science R&A programs. The slides that were presented are 
+online:
+
+http://www.lpi.usra.edu/pss/nov2013 /
+
+The slides discussing the plan are contained in the presentation 
+listed for Jim Green and start on slide #41.
+
+The PSS has suggested that each Assessment Group (AG) gather and 
+compile questions, comments, and concerns that the community may 
+have regarding the R&A restructuring plan and for each AG to send the 
+compilation to Jim Green. 
+
+All questions, big and small, general or specific, are welcomed.
+
+For CAPTEM, email Hap McSween  (mcsween@utk.edu)
+For LEAG, email Jeff Plescia (Jeffrey.Plescia@jhuapl.edu)
+For MEPAG, email Serina Diniega (Serina.Diniega@jpl.nasa.gov)
+For OPAG, email: Candy Hansen (cjhansen@psi.edu)
+For SBAG, email: Nancy Chabot (Nancy.Chabot@jhuapl.edu)
+For VEXAG, email: Lori Glaze (Lori.S.Glaze@nasa.gov)
+
+In the compilation, the identities of those providing the comments 
+will be removed, but the final compiled reports may be posted on AG 
+websites. Please indicate in your reply if you do not want your 
+comment included in a compilation (with identities removed) on the web.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2014 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD PROPOSAL DEADLINE 
+APPROACHING
+
+Deadline: November 15, 2013
+
+Awards will be announced on or about December 15, 2013
+
+This award is established by the Planetary Science Institute in memory 
+of Senior Scientist Betty Pierazzo to support and encourage graduate 
+students to build international collaborations and relationships in 
+planetary science. Two awards will be made each year, contingent upon 
+there being meritorious applications. One will be awarded to a graduate 
+student working on his or her Ph.D. at an institution within the U.S. 
+This is to support travel to a planetary science related meeting 
+(conferences and workshops) outside of the U.S. The second award will 
+be to a graduate student working on his or her Ph.D. at an institution 
+outside of the U.S. This is to support travel to a planetary science 
+related meeting within the U.S. These include general meetings that 
+have planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ICARUS SPECIAL ISSUE - THE PLUTO SYSTEM
+
+An Icarus special issue on Pluto system science will be published in
+2014. The pace of discovery about the Pluto system has accelerated
+continually since its discovery in 1930, and we are now on the doorstep
+of the most dramatic advances yet, with the system's exploration by
+NASA's New Horizons probe in 2015. New Horizons, equipped with a
+powerful suite of scientific instruments, will explore Pluto and its
+complex system of moons and potential rings/dust assemblages. The
+encounter will herald the exploration of the newly recognized planetary
+class called ice dwarfs, prevalent in the outer solar system.  This
+special issue sets the stage for the encounter, with scientific papers
+on:
+
++ New results from observations, theoretical modeling, and laboratory
+  studies relevant to the Pluto system
++ Pre-encounter predictions of Pluto system properties and processes
++ Investigations into the implications of Pluto system science for
+  broader outer Solar System studies
+
+All are welcome to contribute.
+
+The submission deadline is December 20. Go to:
+
+http://ees.elsevier.com/icarus 
+
+and select "Special Issue: Pluto System" under manuscript type. 
+
+Special issue editors: Will Grundy, Alan Stern, Fran Bagenal, Randy
+Gladstone, and Bonnie Buratti.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+BIOSIGNATURES ACROSS SPACE AND TIME
+
+Bergen, Norway, 20-22 May 2014
+
+This meeting will to bring together astronomers, geologists, biologists 
+and other interested scientists to share interdisciplinary approaches 
+to detect signs of life on early Earth and other celestial bodies 
+(including exoplanets) and to elucidate the environmental limits and 
+origins of life.
+ 
+Scientific sessions are planned for the following subjects:  
+
+-Formation and detection of complex molecules in the interstellar 
+ medium
+-Organic molecules in planetary and satellite atmospheres
+-Remote sensing of planetary surfaces
+-Characterization of exoplanets and their atmospheres
+-Meteorite bombardment and prebiotic chemistry on the Hadean Earth
+-Early Earth habitable environments: Oceans, atmosphere & crustal 
+ growth
+-Earliest fingerprints for life on Earth
+-Impacts and their role in the evolution transfer and possible 
+ detection of life
+-Biomineralization & life in sediments
+-Deep sea hydrothermal vents & biomarkers from sub-seafloor life
+-Archea & biomarkers for life in extreme environments
+
+The meeting is co-organized by the Nordic Network of Astrobiology 
+and the Centre of Geobiology at the University of Bergen and will 
+take place from 20 to 22 May 2014 at the Egget Auditorium at the 
+University of Bergen. For further information about the event, go to:
+
+http://www.nordicastrobiology.net/Biosignatures2014 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The November 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http://wp.me/p3HIca-7O
+ 
+This Month's topic is on "Recent vents and channels on the Cerberus 
+plains of Mars: Lava or water?"
+
+Image and caption contributed by Rebecca Thomas, Department of Physical 
+Sciences, The Open University, UK.
+ 
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR LETTERS OF APPLICATION FOR MEMBERSHIP IN THE EXOMARS 2018
+LANDING SITE SELECTION WORKING GROUP
+
+Dear Colleagues,
+
+The Call for Letters of Application for Membership in the ExoMars 2018 
+Landing Site Selection Working Group (LSSWG) was released by ESA on 
+Nov. 1, with an application deadline of Monday, 25 November 2013 
+(12:00 CET). Interested parties will find the relevant documentation 
+at:
+
+http://exploration.esa.int/mars/53129-call-for-membership-of-exomars
+-2018-landing-site-selection-working-group/
+
+Announcement provided by:
+
+Dr. Jorge L. Vago
+ExoMars Project Scientist
+Directorate of Science and Robotic Exploration
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA POSTDOCTORAL FELLOWSHIPS - NEXT APPLICATION DEADLINE EXTENDED TO
+FRIDAY, NOVEMBER 15, 2013
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17903     
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are generally accepted three times each year: March 1, 
+July 1, and November 1.
+
+The latest NPP Newsletter: http://bit.ly/18GSlHK
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MISSION RESEARCH SCIENTIST AT NASA JSC: APPLICANTS MUST 
+REAPPLY
+ 
+Because of the government shutdown, applicants for our Planetary 
+Mission Research Scientist position in NASA Johnson Space Center's 
+Astromaterials Research Office must, unfortunately, reapply to a new 
+position number within USAJobs.gov. The previous position posting has 
+been cancelled and a new (identical) one is now available until 12 
+November 2013 at the link below. APPLICANTS MUST REAPPLY REGARDLESS OF 
+WHETHER THEY SUCCESSFULLY SUBMITTED PRIOR TO THE SHUTDOWN. In addition, 
+no record of who applied was acquired while USAJobs.gov was unmonitored 
+during the shutdown, so there is no way for the Agency to contact those 
+applicants to inform them of this situation. Accordingly please share 
+this notice so that we can give all applicants the opportunity to have 
+their materials properly received. Thanks!
+
+The new position number is JS14D0002 and the position posting for 
+application can be accessed at:
+
+http://www.usajobs.gov/GetJob/ViewDetails/354580300
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+FAMELAB: EXPLORING EARTH AND BEYOND
+
+FameLab is something like American Idol for scientists. Sponsored by 
+NASA and National Geographic, it's a fun-filled day of competition, 
+coaching, and camaraderie that's all about science communication! Early 
+career scientists from diverse scientific disciplines craft a 3-minute, 
+powerpoint-free talk on their research or a related topic and deliver 
+it in a supportive environment to judges who give only constructive 
+feedback. No slides, no charts - just the power of words and any prop 
+you can hold in your hands. The heart of the whole thing is a workshop 
+conducted by communication professionals to help participants enrich 
+their skills.
+
+See video clips of prior FameLabbers: 
+
+http://famelab-eeb.arc.nasa.gov/competitions/
+
+We've had 4 regional competitions so far in "Season 2" here in the US, 
+and our next one is at the AGU annual meeting in San Francisco on 
+Sunday, December 8th.
+
+Winners from the regional competitions advance to the Final at National 
+Geographic in DC in April, 2014, and the winner there goes on to 
+FameLab International Final in the UK in June, 2014.
+
+Even if you're not planning to attend AGU, you're welcome to 
+participate.  
+
+Register today at: 
+
+http://famelab-eeb.arc.nasa.gov/competitions/2013-agu-december/
+
+Contact: Daniella Scalice (daniella.m.scalice@nasa.gov)
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+FREE SMARTPHONE APP FOR TRACKING FIREBALLS
+
+We've developed a smartphone app that allows anyone to report a 
+fireball sighting anywhere in the world. Its designed so that we can 
+potentially get data of sufficient quality to create a crowd source 
+smartphone fireball network. Its free, fun to use (we hope!), and it 
+has a very easy interface - simply point at the sky where you think 
+the fireball started and click on your phone, and do the same for where 
+you think it ended. You can then input a variety of other data. If we 
+get enough observations we can determine a trajectory and send that 
+information back to you - for instance, you might get a message that 
+the rock that made your fireball came from the outer asteroid belt, or 
+that it was a chunk of a comet. The app also includes images and 
+updates from our project: 
+
+http://www.fireballsinthesky.com.au 
+
+It is available for both iOS and Android: 
+
+https://itunes.apple.com/au/app/fireballs-in-the-sky/id709019924?mt=8
+https://play.google.com/store/apps/details?id=com.tw.fireballs 
+
+or just search for 'fireballs in the sky' on app stores. Let us know if 
+you have any problems, or suggestions for improvements. Hope you have 
+fun with it!
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ASSISTANT PROFESSOR POSITION, UA THEORETICAL ASTROPHYSICS PROGRAM
+
+The University of Arizona's Theoretical Astrophysics Program invites 
+applications for a tenure-track faculty position to begin in Fall 2014. 
+The Theoretical Astrophysics Program is an interdisciplinary program 
+that fosters academic and scientific links among the Departments of 
+Astronomy, Physics and Planetary Sciences at the University, to 
+complement with a strong theory program the world-renowned 
+astronomical facilities in Tucson, AZ. The Program consists of five 
+core faculty and about 25 affiliate members working in a range of 
+topics spanning solar system astrophysics to cosmology. In addition to 
+the typical facilities available at a research university, the UA's 
+Research Data Center provides our faculty access to local high-end 
+supercomputing resources including distributed, shared-memory and 
+GPU architectures. Review of applications will begin on December 2, 
+2013 and will continue until the position is filled.  For full position 
+details and to apply online, please see: 
+
+http://www.hr.arizona.edu 
+
+and reference job #53843. The University of Arizona is an 
+EEO/AA employer - M/W/D/V.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+REGISTER TODAY FOR THE 2014 HUMANS TO MARS SUMMIT (H2M)
+
+Join us at the Humans to Mars Summit (H2M). Co-sponsored by Explore 
+Mars, the George Washington University, and the Space Policy Institute 
+at GW, H2M will be held on April 22-24, 2014 at at George Washington 
+University in Washington, DC. H2M will be a comprehensive Mars 
+exploration conference to address the major technical, scientific, and 
+policy related challenges that need to be overcome to send humans to 
+Mars by 2030. Topics will include Mars mission architecture and 
+challenges, science goals, planetary protection, International 
+cooperation, space and US competitiveness, ISRU, and many other topics.
+
+Some of the tentative speakers already include William Gerstenmaier, 
+James Garvin, Doug McCuistion, Penelope Boston, Sam Scimemi, 
+Mike Raftery, Marc Kaufman, Buzz Aldrin, Joel Levine, Rebecca Keiser, 
+and many more.
+
+Take advantage of our special early registration today and save money 
+before the registration fee increases after January 1, 2014: 
+
+http://h2m2014.eventbrite.com/
+
+or visit our website at:  
+
+http://www.exploremars.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ALMA CYCLE 2 CALL FOR PROPOSALS
+
+The ALMA Director, on behalf of the partner organizations and all the
+personnel in Chile, East Asia, Europe, and North America involved in
+bringing ALMA to Early Science readiness, is pleased to issue the Cycle
+2 Call for Proposals.
+
+We invite members of the astronomy community to propose programs to be 
+scheduled within the ALMA Early Science Cycle 2 period which will start 
+in June 2014. This provides a new important opportunity for Early 
+Science from this cutting edge facility. The Cycle 2 period will span 
+17 months and users of any professional background, nationality, or 
+affiliation may submit proposals. It is anticipated that about 2000 
+hours of 12-m Array time and ACA time will be available for Cycle 2 
+projects and highest priority projects transferred from Cycle 1. A list 
+of the metadata from Cycle 1 proposals designated for transfer into 
+Cycle 2 has been posted to the ALMA Science Portal, so that Cycle 2 
+PIs can avoid duplicating these observations.
+
+The ALMA Cycle 2 proposal submission deadline is 15:00 UT, 5 December 
+2013.
+
+For details, please see the ALMA Call for Proposals: 
+
+https://almascience.nrao.edu/proposing/call-for-proposals
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

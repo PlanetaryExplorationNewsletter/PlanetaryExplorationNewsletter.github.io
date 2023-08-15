@@ -1,0 +1,538 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 19 (May 3, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. The 6th International Planetary Dunes Workshop Goes Virtual
+2. Instrument Scientist at NASA GSFC
+3. Update for Astrobiology2020
+4. Writing White Papers for the Decadal Survey on Planetary Science and
+   Astrobiology: Webinar for Early Career Professionals
+5. NASA Planetary Data System (PDS) Annual Customer Satisfaction
+   Survey 2020 Extended Due To Pandemic
+6. Seeking Subject-Matter Experts for Space Apps COVID-19 Challenge
+7. 4th COSPAR Meeting on Refining Planetary Protection Requirements for
+   Human Missions to Mars
+8. [NASA] Research Announcement (NRA): Early Stage Innovations Appendix 
+9. Virtual Meeting on Current Results of the InSight Mission
+10. [NASA] Aperiodic PDS Data Releases in 2020.04
+11. Planetary Geomorphology Image of the Month
+12. Python in Planetary Science Survey Results
+13. Research Scientist II at the Jet Propulsion Laboratory (1/2)
+14. Research Scientist II at the Jet Propulsion Laboratory (2/2)
+15. Planetary Science Journal - New Papers
+16. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THE 6TH INTERNATIONAL PLANETARY DUNES WORKSHOP GOES VIRTUAL
+
+In response to the COVID-19 pandemic, the 6th International Planetary
+Dunes Workshop is going virtual. The revised dates are: May 12-13,
+2020. The focus will be white papers and white paper concepts. Day 1
+will be contributed science talks with a focus on the Decadal and day 2
+will be a series of white paper presentations with extended
+discussions. Registration is open and free but you must register to get
+the virtual meeting pass code. More information can be found at:
+
+https://www.hou.usra.edu/meetings/dunes2020/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+INSTRUMENT SCIENTIST AT NASA GSFC
+ 
+The Planetary Environments Lab (PEL) at NASA's Goddard Space Flight
+Center, is seeking an instrument scientist, with an emphasis on mass
+spectrometry, for a civil servant position opening. The candidate must
+have expertise in a variety of mass spectrometry techniques, with
+experience in the development, testing, and implementation of current
+and next generation mass spectrometer techniques. The PEL has developed
+mass spectrometers and sampling systems for a variety of planetary
+missions, including: Sample Analysis at Mars (SAM) on the Curiosity
+rover, MOMA on the ExoMars rover, MAVEN NGIMS, Cassini-Huygens GCMS,
+Cassini INMS, LADEE NMS, and is presently developing mass spectrometers
+for lunar missions and the mass spectrometer on the Dragonfly mission
+to Titan.
+ 
+Information on NASA GSFC's Planetary Environment Lab:
+
+https://science.gsfc.nasa.gov/solarsystem/atmosenvironments/
+ 
+Application Process
+
+A full vacancy announcement, which contains further information
+including qualification requirements and application instructions, will
+be posted on May 18 to:
+
+https://www.usajobs.gov/
+
+and remain open for five days. The short period that the announcement
+is open is due to the type of hiring authority, and is not a reflection
+of the openness of the position.
+
+Questions may be directed to the Chief of the Planetary Environments
+Lab: Charles Malespin, charles.a.malespin@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+UPDATE FOR ASTROBIOLOGY2020
+
+Registration for Astrobiology2020 and the Early Earth workshop remains
+closed until July 1 to allow more time for monitoring of the
+coronavirus pandemic. The organizing committee thus remains cautiously
+optimistic that we can beat the pandemic and hold a successful
+conference in November. Please revisit the Registration site on July 1
+for an update on whether this meeting will go ahead as planned.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+WRITING WHITE PAPERS FOR THE DECADAL SURVEY ON PLANETARY SCIENCE AND
+ASTROBIOLOGY: WEBINAR FOR EARLY CAREER PROFESSIONALS
+
+The National Academies' Decadal Survey on Planetary Science and
+Astrobiology:
+
+https://www.nationalacademies.org/our-work/planetary-science-and-astrobiology-decadal-survey-2023-2032
+
+will assess key scientific questions in planetary science
+and astrobiology, identify priority medium- and large-class missions
+and other initiatives, and present a comprehensive research strategy
+for the 2023-2032 timeframe. Community participation is critical for
+the success of the survey, and we invite early career professionals to
+join us for a webinar on how to write and submit white papers to the
+decadal survey:
+
+https://www.eventbrite.com/e/writing-white-papers-for-the-decadal-survey-on-planetary-science-and-astrobiology-registration-103339629614
+
+on May 7, 2020 from 1:30-3:00pm ET (10:30am-12:00pm PT).
+
+The webinar will feature a keynote presentation from Dr. Phil
+Christensen of Arizona State University, a panel session with invited
+speakers, and a Q&A session with the audience. Speakers will discuss
+their experiences with writing and submitting white papers for past
+decadal surveys, and how white papers are reviewed during panel
+deliberations. While this event is designed for early career
+professionals, everyone who wants to learn more about the white paper
+submission process is welcome to attend. If you have further questions
+about the event, please contact Mia Brown at mbrown@nas.edu. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA PLANETARY DATA SYSTEM (PDS) ANNUAL CUSTOMER SATISFACTION SURVEY
+2020 EXTENDED DUE TO PANDEMIC
+
+NASA's PDS customer satisfaction survey of the Planetary Data System
+(PDS) remains open to ensure the widest response possible. This survey
+will be used to set priorities for the PDS and identify areas for
+improvement. In particular, the survey includes specific questions to
+determine user experience with search tools and web services that will
+be invaluable to the PDS discipline nodes for improving their services.
+
+The survey is available at the following link:
+
+https://feedback.app.cfigroup.com/l/r/NASAPDSGen 
+
+This survey link may also be posted to any website.
+
+Your support in helping to improve the PDS is greatly appreciated.
+Please contact the PDS at pds-operator@jpl.nasa.gov with questions on
+the survey.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SEEKING SUBJECT-MATTER EXPERTS FOR SPACE APPS COVID-19 CHALLENGE
+ 
+Calling all subject-matter experts to volunteer:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeYJLxyCbTkRgFy1Rxn3wRo1sD5mnu44w0099o6TC8bOppXxg/viewform
+
+From May 30-31, 2020, citizen scientists around the world will solve
+challenges related to COVID-19 using NASA's open-source data in an
+all-virtual, global hackathon.
+
+https://www.spaceappschallenge.org
+
+The focus will be on the following four themes. 
+
+1. Learning about the virus and its spread using Space-based data
+2. Local response/change and solution 
+3. Impacts of COVID-19 on the Earth system/Earth system response
+4. Economic opportunity, impact, and recovery during and following
+   COVID-19
+
+All NASA, ESA, and JAXA civil servants, contractors, and current and
+past awardees and their teams are eligible to serve as subject-matter
+experts. Personnel from other US government agencies are also eligible.
+
+You are invited to participate in the following ways:
+
+* Engage with participants in the chat rooms over hackathon weekend
+  (May 30-31).
+* Judge project submissions (June to mid-July, exact dates TBD).
+
+The Space Apps team will offer the following information sessions:
+
+* Thursday, April 30, 3pm (Eastern)
+* Tuesday, May 5, 12pm (Eastern)
+* Join by Webex: https://bahmeet.webex.com/meet/hemmings_sarah
+* Join by phone: +15404436236 (access code: 644 448 419)
+
+Questions: Sarah Hemmings (sarah.n.hemmings@nasa.gov) and Julie
+Chamberlain (julie.n.chamberlain@nasa.gov)
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+4TH COSPAR MEETING ON REFINING PLANETARY PROTECTION REQUIREMENTS FOR
+HUMAN MISSIONS TO MARS
+
+19-20 May 2020
+
+This meeting series is to address knowledge gaps in planetary
+protection in the timeframe between now and the first crewed flight to
+the Martian surface. The meeting output will feed into subsequent
+COSPAR reporting on this topic. The 2020 meeting is on "Technology and
+operations for contamination control" and will be in two parts: a
+virtual meeting on 19-20 May (~4hr programs on each day, starting at
+9:00am EDT) followed by an in-person meeting on TBD date. Day one of
+the virtual meeting, to be held via WEBEX, will present updates in
+planetary protection and spaceflight programs, and an overview of
+workshop findings to date. Day two will focus on spacecraft hardware
+and operations technologies, particularly emphasizing the interface
+between hardware performance and contamination control/planetary
+protection issues.
+
+Contact Valerie Chabot (valerie.a.chabot@nasa.gov) for access
+information.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] RESEARCH ANNOUNCEMENT (NRA): EARLY STAGE INNOVATIONS APPENDIX
+ 
+NOI Due: May 20, 2020 at 5:00pm ET
+Proposal Due: June 17, 2020 at 5:00pm ET
+ 
+NASA has released a solicitation, titled "Space Technology Research
+Grants Program, Early Stage Innovations Appendix"
+(80HQTR20NOA01-20ESI_B2), as an appendix to the Space Technology
+Mission Directorate (STMD) umbrella NASA Research Announcement (NRA)
+titled "Space Technology - Research, Development, Demonstration, and
+Infusion 2020" (SpaceTech-REDDI-2020) on April 29, 2020. The
+solicitation is available by visiting the URL: 
+
+https://tinyurl.com/NASA-ESI20
+ 
+This solicitation seeks proposals to develop unique, disruptive, or
+transformational space technologies currently at low technology
+readiness levels that have the potential to lead to dramatic
+improvements at the system level. Specifically, the proposals must
+address one of the following six topics:
+ 
+* Topic 1 - Advanced High-Capacity Cryogenic Refrigeration Components
+
+* Topic 2 - Modeling of Lunar Dust Behavior and Mitigation Techniques
+
+* Topic 3 - Micromachining of Optical Structures for Remote Sensing
+Applications
+
+* Topic 4 - Modeling and Model Validation of Parachute Dynamics During
+Inflation and Descent
+
+* Topic 5 - Methodologies for Assessing Space Technology Portfolio
+Investments
+
+* Topic 6 - Advancement of Additive Manufacturing Techniques for High
+Temperature Materials
+ 
+Technical and programmatic comments and questions: Claudia Meyer, at
+hq-esi-call@mail.nasa.gov.
+
+Procurement questions: Kimberly Cone, at hq-esi-call@mail.nasa.gov.
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VIRTUAL MEETING ON CURRENT RESULTS OF THE INSIGHT MISSION
+
+A virtual meeting on current InSight results will take place on Monday,
+May 4, 20:00 CEST (11:00 PST). This meeting is extending the online
+EGU InSight Session that will take place on the same day (Monday May
+4th) between 16:15 - 18:00 CEST.
+
+The Zoom link for the InSight virtual meeting on Monday May 4th, 20:00
+CEST (11:00 PST) is:
+
+https://ethz.zoom.us/j/99691510985
+Meeting-ID: 996 9151 0985
+
+During this webinar, we will host presentations on current research
+topics, including:
+
+Tom Pike et al:
+Results from the InSight mission after a year and a half on Mars
+
+Domenico Giardini et al:
+Seismicity of Mars
+
+Martin Knapmeyer et al.:
+Is there a seasonality of the martian seismic event rate?
+
+Nienke Brinkman et al.:
+Source mechanisms of marsquakes
+
+Tilman Spohn et al.:
+Mars regolith properties as constrained by HP3
+
+Claire Newman et al.:
+The winds of Mars
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] APERIODIC PDS DATA RELEASES IN 2020.04
+
+In April 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+  2020.04.01 Mars Express HRSC (again on 2020.04.20)
+  2020.04.03 Mars Express OMEGA
+  2020.04.08 Mars Express ASPERA-3 IMA
+  2020.04.20 Rosetta OSINAC and OSIWAC
+  2020.04.20 Mars Express SPICAM
+  2020.04.21 Mars Express HRSC
+  2020.04.30 photometric observations of Uranus and Neptune
+  2020.04.30 Rosetta MIRO
+  2020.04.30 New Horizons KEM ALICE
+  2020.04.30 New Horizons KEM LEISA
+  2020.04.30 New Horizons KEM LORRI
+  2020.04.30 New Horizons KEM MVIC
+  2020.04.30 New Horizons KEM PEPSSI
+  2020.04.30 New Horizons KEM REX
+  2020.04.30 New Horizons KEM SDC
+  2020.04.30 New Horizons KEM SWAP
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200430.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The May image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "Quantification of ice blockfall activity at a
+north polar scarp on Mars". Contributed by Ernst Hauber and Lida
+Fanara, Institute of Planetary Research, German Aerospace Center (DLR),
+Berlin, Germany.
+ 
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+ 
+http://www.facebook.com/PlanetaryGeomorphology
+ 
+or Twitter: @PlanetGeomorpho
+ 
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PYTHON IN PLANETARY SCIENCE SURVEY RESULTS
+
+A summary of results from the Python in Planetary Science survey
+conducted last year has been posted to the OpenPlanetary Forum.
+
+https://forum.openplanetary.org/t/2019-planetary-science-software-survey/258/2
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+RESEARCH SCIENTIST II AT THE JET PROPULSION LABORATORY (1/2)
+
+The Jet Propulsion Laboratory invites applications for a Scientist who 
+will bring new expertise to and ensure continuity of existing 
+capabilities at JPL in planetary science. The successful candidate will 
+develop models for the chemical evolution of Europa, Enceladus, Titan, 
+Ganymede, and other ocean worlds in support of the Icy Worlds, Titan, 
+and Vital Signs teams. The candidate will investigate the detailed 
+chemical evolution of Europa's interior and its ice. Perform NASA 
+funded research, including setting up and conducting novel experiments 
+to measure chemical properties and processes applicable to planetary 
+interiors. Investigate the metamorphic evolution of Ceres's rocky 
+mantle and support mission formulation as a subject matter expert on
+ocean world chemistry.
+
+Qualifications:
+
+* Ph.D. in geochemistry, planetary geophysics, or a related field.
+* 3-4 years expertise in applying meteoritics, petrology, aqueous 
+  geochemistry to problems in astrobiology.
+
+The following qualifications are preferred:
+
+* Knowledge of geophysical forward modeling and inverse theory, 
+  high-pressure experimental design and implementation.
+
+Applications are due by May 26, 2020 or until filled and should be 
+submitted at:
+
+https://jpl.jobs/jobs/2020-11799-Research-Scientist-II
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+RESEARCH SCIENTIST II AT THE JET PROPULSION LABORATORY (2/2)
+
+The successful candidate will develop an independently funded research 
+program, provide scientific leadership and support research conducted 
+within the laboratory studies group. The candidate will publish in 
+peer reviewed scientific journals, and present papers at scientific 
+conferences.
+
+Qualifications:
+
+* Ph.D. degree in experimental chemistry or physics.
+* Demonstrated working knowledge at the forefront of experimental 
+  laboratory studies with direct planetary science applications (i.e, 
+  relevance to icy moons, Kuiper Belt Objects, dwarf planets, 
+  asteroids, comets, and Solar System evolution).
+* Demonstrated experience with a range of relevant experimental 
+  techniques (e.g., matrix isolation, UV an IR spectroscopy, mass 
+  spectroscopy, temperature programmed desorption) and apparatus (e.g., 
+  cryogenic systems, UHV systems).
+* Demonstrated reputation as a productive researcher with a track 
+  record of publications in peer-reviewed journals.
+
+The following qualifications are preferred:
+
+* 3-5 years of related post-doc experience.
+* History of writing successful external research funding proposals.
+* Demonstrated working knowledge of planning, execution, and analysis 
+  of astronomical observations.
+
+Applications are due by May 3, 2020 or until filled and should be 
+submitted at:
+
+https://jpl.jobs/jobs/2020-11716-Research-Scientist-II-Laboratory-Studies
+
+[Edited for length.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Creation and Evolution of Impact-generated Reduced Atmospheres of Early
+Earth
+Zahnle et al. 2020 PSJ 1:11
+http://doi.org/10.3847/PSJ/ab7e2c
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 12-13, 2020
+Sixth International Planetary Dunes Workshop
+https://www.hou.usra.edu/meetings/dunes2020/
+Virtual
+
+May 14, 2020
+2020 In Situ Science and Instrumentation Workshop for the Exploration of Europa and Ocean Worlds
+https://www.europa-insitu.caltech.edu
+Virtual
+
+August 7-16, 2020
+GAIA & TESS: Tools for Understanding of the Local Universe
+https://gate.physics.muni.cz
+Brno, Czech Republic
+
+October 18-23, 2020
+European Conference on Laboratory Astrophysics
+https://www.frcongressi.it/ecla2020/
+Anacapri, Italy
+
+April 12-16, 2021
+16th Spacecraft Charging and Technology Conference
+https://www.hou.usra.edu/meetings/sctc2021/
+Cocoa Beach, FL
+
+May 3-5, 2021
+Stars and Planets in the Ultraviolet: A Cross-Community Symposium
+https://na.eventscloud.com/website/9538/
+Tempe, AZ
+
+June 21-24, 2021
+The First Penn State SETI Symposium
+https://sites.psu.edu/setisymposium2020/
+State College, PA
+
+October 12-14, 2021
+72nd International Astronautical Conference
+http://www.iafastro.org/events/iac/iac-2021/
+Dubai, United Arab Emirates
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

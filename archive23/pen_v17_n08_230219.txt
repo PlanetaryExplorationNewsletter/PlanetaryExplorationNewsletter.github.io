@@ -1,0 +1,722 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 8 (February 19, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Release of Research Opportunities in Space and Earth Science 
+   (ROSES)-2023
+2. [NASA] ROSES-22 Amendment 89: F.5 FINESST Graduate Student Research 
+   Proposal Due Date Delay
+3. [NASA] ROSES-23 Amendment 1: Final Text and Due Dates for B.7 Space 
+   Weather Science Application Research-to-Operations-to-Research
+4. [NASA] Reviewers Needed for MUREP Space Technology Artemis Research 
+   (M-STAR)
+5. SSERVI Award Nominations Due March 31, 2023
+6. Call for DPS Prize Nominations
+7. Become a SUPPR Mentor: Apply by February 27, 2023
+8. Postdoc in Experimental Icy Moons Geochemistry, Open University, UK
+9. Postdoctoral Opportunity at CRESS/York University
+10. Postdoctoral Research Opportunity on Small Bodies
+11. 2023 NASA Planetary Science Summer School Applications Due March 27
+12. Join Us For the Upcoming NASA PI Launchpad Pre-application 
+    Information Session
+13. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 32
+14. Lunar Surface Innovation Consortium (LSIC) Spring Meeting
+15. Lunar Surface Innovation Consortium (LSIC) Funding Workshop
+16. 2023 NASA Exploration Science Forum (NESF2023) Abstracts Due March 
+    31
+17. Planetary Science Advisory Committee (PAC) Meeting
+18. 2023 European Lunar Symposium (ELS) Registration and Abstract 
+    Submission Now Open
+19. Abstract Submission Reminder for Apophis T-6 Workshop
+20. Planetary Meeting Calendar Additions
+21. Planetary Science Journal - New Papers 
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] RELEASE OF RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCE 
+(ROSES)-2023
+
+NASA's Science Mission Directorate (SMD) announces the release of its 
+annual omnibus solicitation for basic and applied research, Research 
+Opportunities in Space and Earth Science (ROSES) 2023 as NNH23ZDA001N 
+on or about February 14, 2023, at:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Together, these program elements cover the wide range of basic and 
+applied supporting research and technology in space and Earth sciences 
+supported by SMD.
+
+Notices of intent to propose and Step-1 Proposals will be due starting 
+in March 28, 2023, and Full (Step-2) Proposals will be due no earlier 
+than May 16, 2023. See Table 2 for due dates:
+
+https://solicitation.nasaprs.com/ROSES2023table2
+
+Frequently asked questions about ROSES-2023 will be posted at:
+
+https://science.nasa.gov/researchers/sara/faqs/
+
+Questions concerning the individual program elements in ROSES should 
+be directed to the point(s) of contact at:
+
+https://science.nasa.gov/researchers/sara/program-officers-list/
+
+Subject matter experts are encouraged to sign up to be a volunteer 
+reviewer at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels
+
+Questions concerning general ROSES-2023 policies and procedures may be 
+directed to Max Bernstein, Lead for Research, Science Mission 
+Directorate, at sara@nasa.gov.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-22 AMENDMENT 89: F.5 FINESST GRADUATE STUDENT RESEARCH 
+PROPOSAL DUE DATE DELAY
+
+Future Investigators in NASA Earth and Space Science and Technology 
+(FINESST F.5) solicits proposals from accredited U.S. universities and 
+other eligible organizations for graduate student-designed and 
+performed research projects that contribute to the Science Mission 
+Directorate's (SMD) science, technology, and exploration goals. The 
+graduate student shall have the primary initiative to define the 
+proposed FINESST research project and must be the primary author, with 
+input or supervision from the proposal's Principal Investigator (PI) 
+or mentor, as appropriate. The proposal must present a well-defined 
+research problem/activity and a justification of its scientific 
+significance to NASA. FINESST awards are research grants for up to 
+three years and up to $50K per year.
+
+ROSES-2022 Amendment 89 delays the due date for FINESST proposals. 
+Proposals are due February 21, 2023.
+
+On or about February 14, 2023, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2022" (NNH22ZDA001N) will be posted on the NASA research 
+opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+The short URL for the NSPIRES page for this program element is:
+
+https://go.nasa.gov/FINESST22
+
+Questions concerning F.5 FINESST should be directed to 
+hq-finesst@mail.nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-23 AMENDMENT 1: FINAL TEXT AND DUE DATES FOR B.7 SPACE 
+WEATHER SCIENCE APPLICATION RESEARCH-TO-OPERATIONS-TO-RESEARCH
+
+The primary goal of any proposal to B.7 Space Weather Science 
+Application Research-to-Operations-to-Research (SWR2O2R) must be to 
+support research to improve application-oriented models and forecast 
+tools that directly enable advances in the areas described below and, 
+in doing so, could also lead to improved scientific understanding. 
+Proposed work must have a clear path forward to benefit an identified 
+end user (e.g., operational agencies or an industry with a 
+well-established space weather need) and must establish both the value 
+of the proposed work to the end user as well as the viability of 
+delivering a usable capability within the lifetime of the R2O2R award. 
+The single application-oriented focus area for this opportunity is 
+Data Assimilation for Neutral Density Forecasting. In addition to this 
+single focus area, SWR2O2R also invites submissions on any subject 
+that is of demonstrable relevance to the program.
+
+ROSES-2023 Amendment 1 releases final text and due dates for B.7 
+SWR2O2R. Step-1 proposals are due April 6, 2023 and Step-2 proposals 
+are due June 7, 2023.
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions may be directed to Jim Spann at jim.spann@nasa.gov.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] REVIEWERS NEEDED FOR MUREP SPACE TECHNOLOGY ARTEMIS RESEARCH 
+(M-STAR)
+
+NASA NRESS is seeking persons willing to serve as peer reviewers for 
+the Engagement Opportunities in NASA STEM 2023 (EONS-2023) MUREP Space 
+Technology Artemis Research (M-STAR). Information can be found in 
+NSPIRES:
+
+https://tinyurl.com/2p8vu2jw
+
+The peer review process is completed in two stages:
+
+1. THE ONLINE REVIEW is scheduled for April 21-May 1, 2023
+Online reviewers will be expected to carefully read each proposal 
+assigned and complete an online evaluation form. Every effort will be 
+made to assign no more than 5 proposals per online reviewer. Non-civil 
+servant online reviewers will receive $75 for each proposal review 
+completed and submitted prior to the close of the review period.
+
+2. THE PANEL REVIEW is scheduled for May 16-18, 2023
+The panel will be comprised of a group of peers. The duration of the 
+panel might change depending on the number of proposals being 
+reviewed, but for scheduling purposes, plan on a full-day commitment 
+for all three days. Non-civil servant panelists will receive a 
+$200/per day honorarium.
+
+If you are interested in serving as a virtual online reviewer and/or 
+panelist, please register by March 31, 2023.
+
+Link to registration form:
+
+https://forms.gle/6LFbxBm2z16FENKq5
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SSERVI AWARD NOMINATIONS DUE MARCH 31, 2023
+
+SSERVI awards range in scope from early career contributions to 
+lifetime achievements in Exploration Science:
+
+- Shoemaker Award (lifetime career achievement award in lunar and 
+  planetary sciences), 
+- Wargo Award (scientist or engineer who has focused on integrating 
+  science and exploration throughout their career), 
+- Coradini Award (mid-career award for significant, lasting 
+  accomplishments related to exploration science), 
+- Niebur Award (early-career award for significant contributions to 
+  exploration science).
+
+Nominations from the community are strongly encouraged. A detailed 
+summary of each award, nomination criteria, and online submission form 
+can be found at:
+
+https://sservi.nasa.gov/awards/
+
+Nominees do not need to reside in the U.S. nor be a U.S. citizen; nor 
+do they need to be a member of SSERVI Teams. The Director of SSERVI, 
+upon recommendations by a community-based SSERVI Awards Committee, is 
+responsible for selecting award recipients. Any nominee who is not 
+selected will automatically be considered the following two years if 
+they still meet the award criteria. 
+
+Thanks in advance for your nominations and recognition of those who 
+have contributed so substantially to our field!
+
+Please contact gregory.k.schmidt@nasa.gov or Kristina.gibbs@nasa.gov 
+if you have any questions regarding NESF2023, student competitions 
+and/or award nominations. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CALL FOR DPS PRIZE NOMINATIONS
+
+Deadline: April 15, 2023
+
+Every year the DPS recognizes exceptional achievement in our field. 
+Please consider nominating a respected colleague for one of the annual 
+DPS prizes. 
+
+The DPS sponsors six prizes:
+(1) The Gerard P. Kuiper Prize recognizes and honors outstanding 
+    contributors to the field of planetary science.
+(2) The Claudia J. Alexander Prize recognizes excellence and 
+    achievements by a mid-career scientist.
+(3) The Harold C. Urey Prize recognizes and encourages outstanding 
+    achievements in planetary research by an early-career scientist.
+(4) The Harold Masursky Award recognizes and honors individuals who 
+    have rendered outstanding service to planetary science and 
+    exploration.
+(5) The Carl Sagan Medal recognizes and honors outstanding 
+    communication by an active planetary scientist to the general 
+    public.
+(6) The Jonathan Eberhart Planetary Sciences Journalism Award 
+    recognizes distinguished popular writing on planetary sciences.
+
+DPS members and the planetary science community-at-large are 
+encouraged to submit nominations for DPS prizes. Please fill out the 
+nomination form and it will be submitted to the prize subcommittee:
+
+https://dps.aas.org/prizes/eberhart#Nomination
+
+Questions: Email dpsprize@aas.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+BECOME A SUPPR MENTOR: APPLY BY FEBRUARY 27, 2023
+
+The Summer Undergraduate Program for Planetary Research (SUPPR) will 
+pay qualified undergraduate students to work with NASA-sponsored 
+planetary geology and geophysics investigators at research locations 
+around the country for eight weeks during the summer. We are seeking 
+mentors for the upcoming program dates beginning June 1 and ending 
+August 31, 2023. The program is open to all current SSW grantees. 
+Mentors should request an intern by submitting an online application 
+at:
+
+https://www.lpi.usra.edu/suppr/app_mentor/application_form/index.cfm
+
+Mentors should describe the project for which the intern will apply 
+and any necessary skills the intern needs to have. The deadline to 
+request an intern is February 27, 2023.
+
+More information and sign up here:
+
+https://www.lpi.usra.edu/suppr/mentors/
+
+Contact Tracy Gregg (tgregg@buffalo.edu) with questions. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC IN EXPERIMENTAL ICY MOONS GEOCHEMISTRY, OPEN UNIVERSITY, UK
+
+This is an opportunity to build new understanding of the geochemistry 
+of the ice shell on Jupiter's moon Europa, using ultra-low-temperature 
+experiments and cutting-edge cryo-analytical techniques.
+
+You will use an experimental approach to explore the formation of 
+salt-rich ices generated by dynamic processes such as brine-and-ice 
+volcanism, building a comprehensive picture of their potential 
+diversity and relationship to the subsurface ocean. You will combine 
+cryogenic laboratory experiments with analytical tools to investigate 
+composition and structure of ices delivered to Europa's surface, 
+informing observations by upcoming missions such as the Jupiter ICy 
+moons Explorer (JUICE) and Europa Clipper. You will be welcomed into 
+the Open University's vibrant planetary science and astrobiology 
+research communities, joining an interdisciplinary team investigating 
+the potential for life beyond Earth.
+
+Closing date for applications: 8 March
+
+See here for more information and person specifications:
+
+https://tinyurl.com/bddncn3a
+
+Contact Mark Fox-Powell (mark.fox-powell@open.ac.uk) for any queries 
+and to discuss the role.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL OPPORTUNITY AT CRESS/YORK UNIVERSITY
+
+A postdoctoral researcher is sought at the Planetary Volatiles Lab 
+(PVL) within the Centre for Research in Earth and Space Science 
+(CRESS) at York University in Toronto, Canada to:
+
+- Support the development of a novel trace-gas spectrometer (MAGE) for 
+  flight on a stratospheric balloon in 2024 with the goal of advancing 
+  this instrument towards flight on a planetary space mission.
+- Lead investigations into planetary atmospheres using 
+  spacecraft/experimental data and/or numerical modeling
+- Support activities within the Planetary Volatiles Laboratory 
+  research group.
+
+For more details, please consult:
+
+https://tinyurl.com/5xpwa9ne
+
+How to apply: Please send jmoores@yorku.ca (1) a detailed C.V., (2) 
+the names and contact information for two references and (3) one or 
+two examples of published work that you have led. For full 
+consideration, please send these materials by March 1, 2023.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOCTORAL RESEARCH OPPORTUNITY ON SMALL BODIES
+
+The State Key Laboratory of Lunar and Planetary Science at Macau
+University of Science and Technology welcomes applications for a 
+postdoctoral research position working with Dr. Man-To Hui to study 
+the physical and dynamical properties of asteroids and comets. 
+Applicants with experience in data reduction/analysis of astronomical 
+observations and/or numerical simulations of orbital 
+dynamics/thermodynamics will be prioritised. The position has a 
+two-year term, starting as early as possible in 2023. Depending on the 
+funding availability, an extension of the position is possible. The 
+salary will be 25,000 MOP per month, and there will be additional 
+support for publication charges and conference trips. Prospective 
+applicants should obtain a Ph.D. degree in astronomy, planetary 
+sciences, or other relevant fields, with proof of research competence 
+and enthusiasm, such as a strong record of publication. The successful 
+applicant will be encouraged to pursue independent research.
+
+To apply for the position, the applicant should submit a cover letter,
+CV, research statement, and contact details of two referees who will
+write a recommendation to Dr. Man-To Hui at mthui@must.edu.mo by 30
+April 2023 for full consideration. Should you have more questions,
+feel free to contact Dr. Man-To Hui.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+2023 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE MARCH 27
+
+Offered by NASA's Jet Propulsion Laboratory in Pasadena, CA, PSSS is a 
+3-month long career development experience to learn the development of 
+a hypothesis-driven robotic space mission in a concurrent engineering 
+environment while getting an in-depth, first-hand look at mission 
+design, life cycle, costs, schedule & the inherent trade-offs.
+
+Science & engineering doctoral candidates, recent PhDs, postdocs, & 
+junior faculty who are U.S. Citizens or legal permanent residents (& a 
+very limited number of Foreign Nationals from non-designated counties) 
+are eligible. Applicants from diverse backgrounds are particularly 
+encouraged to apply - we highly value diversity, equity, and inclusion.
+
+Session 1: May 11 - August 4
+
+Session 2: May 25 - August 18
+
+With workload of a rigorous 3-credit graduate-level course, 
+participants act as a planetary science mission team during the first 
+10 weeks of preparatory webinars, with the final culminating week 
+mentored by JPL's Advance Project Design Team for refining the mission 
+concept design & presenting it to a mock expert review board. The 
+culminating week is planned to be at JPL.
+
+https://go.nasa.gov/missiondesignschools
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JOIN US FOR THE UPCOMING NASA PI LAUNCHPAD PRE-APPLICATION INFORMATION 
+SESSION
+
+This pre-application session will offer insight into the process on 
+how to apply to be part of the PI Launchpad Workshop on July 24-27, 
+2023. The one-hour session will delve into the application 
+instructions, requirements for applicants, deadlines, and what to 
+expect. Please see the pre-application Information Session page and 
+come ready with any questions you may have:
+
+https://tinyurl.com/4cswkhvn
+
+Who: Interested Applicants to the PI Launchpad
+
+What: PI Launchpad Pre-application Information Session
+
+When: Friday, February 24, 2023 1:00 pm - 2:00 pm Eastern Time (US & 
+      Canada)
+
+Where: Via WebEx
+
+Answers to FAQs and an accessibility statement are available at:
+
+https://science.nasa.gov/researchers/pi-launchpad
+
+Please share this message with others who may be interested. For 
+questions, please contact Erika Hamden at hamden@arizona.edu
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 32
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution) 
+Release 32, nominally with data to November 2022:
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from ACCEL (Accelerometer).
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230215.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+LUNAR SURFACE INNOVATION CONSORTIUM (LSIC) SPRING MEETING
+
+The Lunar Surface Innovation Consortium (LSIC) Spring meeting will be 
+held on April 24-25, 2023, at the Johns Hopkins Applied Physics Lab 
+and online. The event will focus on the technology developments needed 
+to enable a sustained presence on the lunar surface. Panels, 
+discussions, and working sessions will include topics such as 
+long-term use cases for infrastructure on the lunar surface, 
+technology developments, and discussing a community white paper aimed 
+to capture the community's perspective on the infrastructure and 
+technology developments needed to support transition from a mostly 
+NASA-supported presence to industry or other public or private 
+participants. Abstract submission is open till February 15, 2023. 
+Registration Deadlines: 10 April (in-person attendance); 17 April 
+(virtual attendance). The registration portal will open soon. For more 
+information on the agenda and venue, or to register for the event, 
+please visit:
+
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=380
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+LUNAR SURFACE INNOVATION CONSORTIUM (LSIC) FUNDING WORKSHOP
+
+A Lunar Surface Innovation Consortium (LSIC) funding workshop centered 
+around NASA STMD (i.e., SpaceTech) solicited proposal opportunities 
+and community resources is set to take place following the 2023 LSIC 
+Spring Meeting. Workshop content will focus on:
+
+- The components and requirements of various NASA STMD proposal 
+  opportunities
+- An advice-based panel discussion and Q&A from previously successful 
+  SpaceTech proposal awardees
+- General knowledge about the NASA funding process. 
+
+Space is limited for this in-person, first come and first serve event. 
+We therefore encourage early registration upon opening. Please find 
+more information at:
+
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=441
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+2023 NASA EXPLORATION SCIENCE FORUM (NESF2023) ABSTRACTS DUE MARCH 31
+
+Continuing the same exploration science theme as past years, this 
+conference will focus on basic and applied scientific questions 
+fundamental to understanding the Moon, Near Earth Asteroids, the moons 
+of Mars, and the environments of these bodies; a particular emphasis 
+will be placed on the Moon. In addition, SSERVI is requesting 
+abstracts on topics such as Sustainable Exploration or Equity, 
+Diversity, Accessibility, and Inclusion. 
+
+Abstracts are due March 31 and can be submitted at:
+
+https://sservi.nasa.gov/nesf2023/
+
+Student & Postdoc Poster and Oral Presentation Competitions 
+
+The Student Poster Competition will be expanded to include a Student 
+Oral Presentation Competition. In addition, SSERVI will include for 
+the first time a special poster/oral competition for postdoctoral 
+fellows. Winners of both the student poster and oral competitions, as 
+well as the Postdoc competition, will receive a $1500 travel award. 
+Those placing in 2nd and 3rd place will each receive $1000 travel 
+awards. Interested students and postdocs must indicate which 
+competition they want to participate in when submitting their 
+abstracts. Note that a single person can only win one of the 
+competitions.
+
+[Edited for length]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE ADVISORY COMMITTEE (PAC) MEETING
+
+The next Planetary Science Advisory Committee (PAC) meeting will take 
+place February 28 and March 1, as a hybrid meeting (at NASA 
+Headquarters and on WebEx). The agenda is posted online, with WebEx 
+connection information:
+
+https://tinyurl.com/53h9wt2y
+
+Accessibility: Captioning will be provided for this meeting. NASA is 
+committed to providing equal access to this meeting for all 
+participants. If you need alternative formats or other reasonable 
+accommodations, please contact Ms. KarShelia Kinard, Science Mission 
+Directorate, NASA Headquarters, (202) 358-2355 or 
+karshelia.kinard@nasa.gov.
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+2023 EUROPEAN LUNAR SYMPOSIUM (ELS) REGISTRATION AND ABSTRACT 
+SUBMISSION NOW OPEN
+
+Held virtually and in-person at Padua, Italy from June 27-29, 2023, 
+the 2023 European Lunar Symposium (ELS) aims to bring together the 
+European scientific community involved in lunar science and 
+exploration and the international experts engaged in lunar missions. 
+The conference consists of both oral presentations and posters, with 
+particular emphasis on the science and technology of future 
+explorative missions, in-situ resource utilization, and results from 
+mission studies in preparation for future human exploration on the 
+lunar surface. ELS2023 will be held under the umbrella of the European 
+nodes of the Solar System Exploration Research Virtual Institute 
+(SSERVI).
+
+Registration and Abstract Submission is now open at:
+
+https://sservi.nasa.gov/els2023/ 
+
+Please register at your earliest convenience.
+
+Abstract submission deadline: February 22, 2023
+
+Registration deadlines:
+March 31, 2023 (in-person)
+April 30, 2023 (virtual attendance)
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+ABSTRACT SUBMISSION REMINDER FOR APOPHIS T-6 WORKSHOP
+
+Abstracts are due 23 February 2023 17:00 CST (GMT-6) for the upcoming 
+workshop "Apophis T-6 Years: Knowledge Opportunities for the Science 
+of Planetary Defense".
+
+The dates for this virtual-only workshop are 10-12 May, 2023. 
+Abstracts are most highly encouraged focusing on international 
+collaboration opportunities for both Earth-based observations and 
+potential in situ investigations, following the prioritized 
+recommendations of the Apophis Specific Action Team (SAT).
+
+Apophis SAT report is available here:
+
+https://www.lpi.usra.edu/sbag/documents/Apophis_SAT.pdf
+
+Workshop Website:
+
+https://www.hou.usra.edu/meetings/apophis2023/
+
+Indication of Interest:
+
+https://www.hou.usra.edu/meetings/apophis2023/iofi/
+
+Abstract Submission:
+
+https://www.hou.usra.edu/meetings/apophis2023/abstracts/
+
+Inquiries may be directed to Richard Binzel (MIT): rpb at mit.edu
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+June 27-29
+11th European Lunar Symposium (ELS) 
+https://sservi.nasa.gov/els2023/
+Padua, Italy
+
+July 18-21, 2023
+2023 NASA Exploration Science Forum (NESF2023) 
+https://sservi.nasa.gov/nesf2023/ 
+College Park, MD 
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY SCIENCE JOURNAL - NEW OPEN ACCESS PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Reaction between Hydrogen and Ferrous/Ferric Oxides at High Pressures
+and High Temperatures-Implications for Sub-Neptunes and Super-Earths
+H. W. Horn et al. 2023 PSJ 4:30
+https://doi.org/10.3847/PSJ/acab03
+
+Redox Evolution of the Crystallizing Terrestrial Magma Ocean and Its
+Influence on the Outgassed Atmosphere
+Maxime Maurice et al. 2023 PSJ 4:31
+https://doi.org/10.3847/PSJ/acb2ca
+
+Early Water Delivery to Terrestrial Planet Regions during the Stages
+of Jupiter's Formation and Migration in the Grand Tack Model
+Masahiro Ogihara et al. 2023 PSJ 4:32
+https://doi.org/10.3847/PSJ/acb64b
+
+Mercury's Circumsolar Dust Ring as an Imprint of a Recent Impact
+Petr Pokorny et al. 2023 PSJ 4:33
+https://doi.org/10.3847/PSJ/acb52e
+
+Moist Convection Is Most Vigorous at Intermediate Atmospheric Humidity
+Jacob T. Seeley and Robin D. Wordsworth 2023 PSJ 4:34
+https://doi.org/10.3847/PSJ/acb0cb
+
+Dark Comets? Unexpectedly Large Nongravitational Accelerations on a
+Sample of Small Asteroids
+Darryl Z. Seligman et al. 2023 PSJ 4:35
+https://doi.org/10.3847/PSJ/acb697
+
+Io's Optical Aurorae in Jupiter's Shadow
+Carl Schmidt et al. 2023 PSJ 4:36
+https://doi.org/10.3847/PSJ/ac85b0
+
+The Optical Aurorae of Europa, Ganymede, and Callisto
+Katherine de Kleer et al. 2023 PSJ 4:37
+https://doi.org/10.3847/PSJ/acb53c
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

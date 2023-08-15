@@ -1,0 +1,601 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 31 (July 29, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Geosciences Special Issue: Recent Advances in Lunar Studies
+2. AGU Session DI019: The Archean Earth and its Venusian Analog
+3. AGU Session P006: Carbon Across the Solar System
+4. AGU Session P009: Chasing Life with a Sample Size of One - From
+   Understanding the Signs of Life in Earth's Atmosphere Through Time
+   to Detecting Biosignatures on Exoplanets
+5. AGU Session P016: Enceladus - A World Awaiting
+6. AGU Session P020: From the Earth to the Moons
+7. AGU Session P033: Planet Mercury - Present Understanding and Promise
+   for Future Discovery
+8. AGU Session P040: Saturn's Seasonally Evolving Atmosphere During the
+   Cassini Era and Beyond
+9. Call for Expressions of Interest to Organise Symposia, Special
+   Sessions, and Lunch Sessions at EWASS 2019
+10. ROSES-18 Amendment 21: New Opportunity in Mars 2020 Returned Sample
+    Science Participating Scientist Program
+11. ESA Call for Mission Proposals
+12. WFIRST Solar System Working Group Findings in Press
+13. Ice Giants and KBOs White Paper
+14. MAPSIT Special Action Team Solicits Feedback on ISIS
+15. On the Insensitive Use of the Term "Planet 9" for Objects Beyond 
+    Pluto
+16. Thematic School - Fluid-Rock Interactions in the Solar System
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+GEOSCIENCES SPECIAL ISSUE: RECENT ADVANCES IN LUNAR STUDIES
+
+Dear Colleagues,
+
+The journal Geosciences is accepting papers for a Special Issue related
+to recent advances in studies of the Moon. The deadline has been
+extended until the end of September 2018.
+
+Since the Apollo era, sample studies, remote analyses, and dynamical
+models continue to tease out details related to the Moon's formation
+and evolution. Additionally, the international lunar science community
+is eager to continue its presence on the Moon, as evidenced by recent,
+upcoming, and future lunar missions. All of these topics are of great
+interest to the broader geoscience community.
+
+The Special Issue welcomes papers that describe studies related to any
+of the above topics and will be an outlet for rapid, accessible, and
+peer-reviewed publications. The editors especially welcome papers from
+young investigators.
+
+Additional details are available at:
+
+http://www.mdpi.com/journal/geosciences/special_issues/lunar_studies
+
+Dr. Nicolle E. B. Zellner
+Dr. Karen R. Stockstill-Cahill
+Guest Editors
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION DI019: THE ARCHEAN EARTH AND ITS VENUSIAN ANALOG
+
+Is Venus a once and future Earth? You are invited to submit abstracts
+on interior evolution, subduction, continental curst formation, and
+the parameters needed for plate tectonics.
+
+Plate tectonics, continents, the oxygen atmosphere - the beginnings of
+Earth as we know it today - began to take shape in the Archean. What
+caused Earth to transition to plate tectonics? How was the first step,
+subduction, initiated? How is continent formation related? How did the
+formation of crust differ? Venus' lithosphere today is hot due to the
+greenhouse atmosphere, potentially providing a good analog to
+lithospheric conditions on early Earth. Plume-induced subduction
+appears to be operating today, yet plate tectonics is absent. Large,
+highly deformed plateaus could be analogs of continents. What caused
+these twin planets to evolve to such different end members? Is the
+interior of Venus dry, and is that the reason it lacks plate tectonics?
+Or is temperature the key factor? Studies of planetary evolution,
+convection, crust formation, geologic processes, and links between
+interior, surface and atmosphere on Venus and Earth are invited.
+ 
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/52448
+ 
+Conveners: Sue Smrekar, Anne Davaille, Brad Foley         
+ 
+Abstracts deadline: August 1.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P006: CARBON ACROSS THE SOLAR SYSTEM
+
+We invite you to submit an abstract to our session on carbon in the
+Solar System at the 2018 AGU Fall Meeting in Washington, DC, December
+10-14, 2018.
+
+Recent results ranging from the Pluto system, the Saturn system, other
+locations beyond 5 AU, all the way to Mercury in the inner Solar
+System, and nearly all points in between, raise questions abut the
+state of carbon in the Solar System: how do carbonaceous compounds
+become weathered in response to thermal processes and irradiation? How
+do we recognize carbon compounds and their various weathering products?
+The synthesis of these results improves our scientific understanding of
+the role of carbon in the Solar System, how it evolves and how to
+recognize it. The carbonaceous near-Earth asteroids 162173 Ryugu and
+101955 Bennu will be sampled in the next few years; the analyses of
+these samples will provide context for the presence of carbon. In this
+session, abstracts covering observational, laboratory and modeling work
+related to carbon and carbonaceous species on Solar System bodies are
+welcome. 
+
+Please see:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/52635
+
+Conveners:
+
+Faith Vilas
+Amanda Hendrix
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P009: CHASING LIFE WITH A SAMPLE SIZE OF ONE - FROM
+UNDERSTANDING THE SIGNS OF LIFE IN EARTH'S ATMOSPHERE THROUGH TIME TO
+DETECTING BIOSIGNATURES ON EXOPLANETS
+
+Please consider submitting an abstract to our AGU session on exoplanet
+habitability:
+
+Because Earth is the only planet known to harbor life, the search
+should start here. From Earth, we can continue to identify potential
+biosignatures and ponder the challenges that exist for detecting these
+conditions on exoplanets. Using Earth as a first-approximation,
+atmospheric climate models of exoplanets are being developed, and
+researchers are imagining how those models would be different under
+various conditions by incorporating data from exoplanet observations.
+We solicit new research in: using remote sensing datasets for Earth as
+a reference case, studying the evolution of life's detectability on
+Earth, mitigating observational and biosignature detectability
+challenges, and assessing how the Earth-model may be expected to change
+for a planet formed under different circumstances around another star
+(e.g., how increased stellar activity and extreme events may impact
+climate, habitability, and the detectability of biosignatures,
+especially work that uses Earth-Sun interactions as an analog, for the
+present day and early Earth).
+
+Conveners: 
+Cindy Young and Guillaume Gronoff (NASA LaRC)
+Vladimir Airapetian and William Danchi (NASA Goddard)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P016: ENCELADUS - A WORLD AWAITING
+
+Section/Focus Group: Planetary Sciences
+
+Though the Cassini mission at Saturn is now over, this long-standing
+special session on Saturn's geysering moon, Enceladus - 13 years in
+the running - continues. Our goal is to bring together researchers
+studying topics in planetary science, microbiology, oceanography,
+organic chemistry, astrobiology, and origin of life that are relevant
+in understanding the nature of the moon's subsurface ocean and its
+extensive south polar plume, and in assessing its biological potential
+and the best means to examine it.
+
+As in years past, we will focus on the most recent Enceladus-specific
+observational, theoretical and modeling efforts and we encourage
+submissions in the above-mentioned areas. Presentations on concepts for
+future missions back to Enceladus will also be considered. 
+
+Join us!
+
+Abstract submission:   
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/43922 
+
+The Enceladus keyword is 6282. 
+
+The deadline for all submissions is Wednesday, 1 August 23:59 EDT. 
+
+Conveners:
+Carolyn Porco, UC Berkeley; Space Science Institute
+Julie Huber, Woods Hole Oceanographic Institution
+
+Looking forward to seeing you at the Fall AGU in December! 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P020: FROM THE EARTH TO THE MOONS
+
+Hi everyone, just a reminder that AGU abstracts are due August 1!
+
+We'd like to remind you about our session and invite you to consider
+submitting your work. It's cross-listed in Planetary Sciences,
+Cryosphere, and Ocean Sciences.
+
+Session P020, "From the Earth to the Moons: Unraveling the Geologic,
+Oceanographic and Chemical Mysteries of Ice and Ocean Worlds" brings
+together studies of ice and ocean worlds (including Earth!) and the
+associated geological, geochemical and oceanographic processes that
+might contribute to the evolution (habitability included) of ices,
+oceans and their interactions.
+
+Link for more info:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/45706
+
+We have exciting invited talks planned from Peter Girguis (Harvard) and
+Krista Soderlund (UT-Austin), and we hope to see you there in
+Washington, DC!
+
+Catherine Walker (JPL), Chris German (WHOI), Steve Vance (JPL), Britney
+Schmidt (Georgia Tech)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P033: PLANET MERCURY - PRESENT UNDERSTANDING AND PROMISE
+FOR FUTURE DISCOVERY
+
+Please consider submitting an abstract to the Mercury session at the
+2018 AGU Fall Meeting in Washington, DC, December 10-14, 2018.
+
+Our understanding of Mercury's surface, interior, exosphere, and
+magnetosphere has been revolutionized by data returned by NASA's
+MESSENGER mission. With the launch of the ESA-JAXA BepiColombo dual
+spacecraft mission to Mercury in October this year, that understanding
+will take another substantial step forward. We solicit contributed
+papers on data analysis, laboratory measurements, ground-based
+observations, and theoretical developments that build on the current
+state of knowledge of Mercury. We also welcome papers on how questions
+raised by MESSENGER findings can be addressed by future observations
+expected from BepiColombo.
+
+For more information,visit:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/43603
+
+The submission deadline is this coming Wednesday, August 1, 2018.
+
+Conveners: 
+Paul Byrne (North Carolina State University) 
+Johannes Benkhoff (European Space Agency) 
+Sean Solomon (Columbia University)
+
+We look forward to seeing you in December!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P040: SATURN'S SEASONALLY EVOLVING ATMOSPHERE DURING THE
+CASSINI ERA AND BEYOND
+
+We solicit new research findings about the troposphere and stratosphere
+of Saturn. A special focus of our session is the seasonal evolution of
+Saturn's atmosphere observed during Cassini's thirteen years in orbit,
+up-close observations obtained during Cassini's final orbits, and new
+features observed after the end of Cassini. We especially encourage
+submissions of Earth-based observations that extend the valuable
+temporal coverage beyond Cassini to study the dynamic seasonal
+evolution after the solstice of 2017. In addition, we solicit long-term
+monitoring using ground- and space-based telescopes as well as modeling
+and theoretical presentations that address these observational
+findings. Lastly, we solicit surveys that identify paths to carry the
+legacy of the Cassini mission into the future by advocating for new
+missions as well as observational and theoretical investigations in
+preparation for the next Planetary Science Decadal Survey.
+
+Submit here before August 1, 2018, 11:59 PM EDT:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/52869
+
+Conveners: Scott Edgington, Kunio Sayanagi, Rohini Giles, John Blalock
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+CALL FOR EXPRESSIONS OF INTEREST TO ORGANISE SYMPOSIA, SPECIAL
+SESSIONS, AND LUNCH SESSIONS AT EWASS 2019
+
+The European Week of Astronomy and Space Science will take place in
+Lyon, France, on 24-28 June 2019. The meeting is organized by the
+European Astronomical Society (EAS) and Societe Francaise d'Astronomie
+et d'Astrophysique. The venue, Manufacture des Tabacs, is located in
+the city center near the UNESCO World Heritage site of the Old Lyon.
+The Astronomical Society of India is an invited participant to shed
+light on collaborations between India and Europe.
+
+We invite proposals from colleagues who are interested in organizing a
+Symposium, a Special Session, or a Lunch Session. Planetary science
+sessions are encouraged.
+
+A broad range of parallel sessions can be accommodated as:
+
+- Symposia (which normally consist of up to 6 blocks of 1.5 hours,
+  stretching over 2 days, although exceptionally and in well-justified
+  cases these symposia can be longer)
+
+- Special Sessions (consisting of up to 3 blocks of 1.5 hours on the
+  same day)
+
+- Lunch Sessions (taking place during the lunch break for 1-1.5 hours
+  on one day)
+
+The deadline for submitting Expressions of Interest is Sunday, 9
+September 2018.
+
+Details and information: 
+
+http://eas.unige.ch/EWASS2019/call.jsp
+
+(Edited for length.)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ROSES-18 AMENDMENT 21: NEW OPPORTUNITY IN MARS 2020 RETURNED SAMPLE
+SCIENCE PARTICIPATING SCIENTIST PROGRAM
+
+The preparation of a cache of Martian rock and regolith samples for
+possible return to Earth via a future mission is a central objective of
+the Mars 2020 mission. The Returned Sample Science Participating
+Scientist (RSS PS) program seeks individuals whose addition to the
+mission's science team will enhance the value of the samples to be
+selected, characterized, and cached by the Mars 2020 Rover. The
+selected investigators should anticipate the needs of future
+investigators who may analyze these samples for a very diverse range of
+studies in Earth-based laboratories. Selected RSSPSs will become
+members of the Mars 2020 Science Team and are expected to contribute
+collaboratively to any and all aspects of the surface science mission.
+
+Mandatory NOIs due by August 24, 2018, and proposals are due by October
+24, 2018.
+
+See announcement NNH18ZDA001N at:
+
+http://nspires.nasaprs.com/
+
+Questions concerning this program element may be directed to Mitch
+Schulte at Mitchell.D.Schulte@nasa.gov.
+
+[Edited for length.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ESA CALL FOR MISSION PROPOSALS
+
+The ESA Director of Science solicits proposals from the scientific
+community in ESA Member States for a Fast (F) mission to be launched in
+the 2026-2028 timeframe.
+
+This Call for a Fast mission aims at defining a mission of modest size
+(wet mass less than 1000 kg) to be launched towards the Sun-Earth L2
+Lagrange point as a co-passenger to the ARIEL M mission, or possibly
+the PLATO M mission. From L2 the mission should reach its target orbit
+or destination with its own propulsion system.
+
+The Call is open to all areas of space science. Any scientific goal and
+spacecraft technical configuration will be considered, including
+missions aiming at multi-point scientific measurements, for example,
+Near-Earth Objects or Main Belt comets, considered in the studies
+performed by ESA following the Call for New Science Ideas issued in
+2016.
+
+Full details of this Call, including all documentation, are on the
+dedicated web page at:
+
+http://www.cosmos.esa.int/web/call-for-fast-mission-2018 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+WFIRST SOLAR SYSTEM WORKING GROUP FINDINGS IN PRESS
+
+The WFIRST Solar System Working Group would like to bring your
+attention to a paper of general interest that was recently accepted for
+publication in the Journal of Astronomical Telescopes, Instrumentation,
+and Systems. This paper presents a wide range of solar system science
+cases for WFIRST, NASA's next-generation space telescope, including the
+detection of the first objects orbiting in the Inner Oort Cloud,
+efficient searches for irregular satellites around the giant planets,
+and identification of additional Ida/Dactyl-like asteroid binary
+systems, among others. A preprint can be found at: 
+
+https://arxiv.org/abs/1709.02763
+
+-Bryan Holler, on behalf of the WFIRST SSWG
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ICE GIANTS AND KBOS WHITE PAPER
+ 
+Ice giants and KBOs are high priority science targets for future
+missions. A white paper (http://arxiv.org/abs/1807.08769) has been
+prepared which presents an integrated strategy for their exploration.
+This two-spacecraft plan is proposed for inclusion in the next
+Planetary Science Decadal Survey as a practical way to achieve
+high-priority science objectives across the outer solar system. Those
+wishing to be added as co-signers should contact the authors.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MAPSIT SPECIAL ACTION TEAM SOLICITS FEEDBACK ON ISIS
+
+NASA has chartered the Mapping and Planetary Spatial Infrastructure
+Team (MAPSIT) to create a special action team to execute a review of
+the present state of the U.S. Geological Survey's (USGS's) Integrated
+Software for Imagers and Spectrometers (ISIS) capabilities and
+development to provide findings relevant to future development of those
+capabilities and others funded by NASA at the USGS's Astrogeology
+Science Center.
+
+This form is a way for you to provide input into that process:
+
+https://goo.gl/forms/iLJSRKu4sivLSqmu1
+
+You may enter questions for which you think the special action team
+should get answers, comments about your previous experience with ISIS,
+and suggestions for future NASA-funded software development in this
+area.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ON THE INSENSITIVE USE OF THE TERM "PLANET 9" FOR OBJECTS BEYOND PLUTO
+
+We the undersigned wish to remind our colleagues that the IAU planet
+definition adopted in 2006 has been controversial and is far from
+universally accepted. Given this, and given the incredible
+accomplishment of the discovery of Pluto, the harbinger of the solar
+system's third zone - the Kuiper Belt - by planetary astronomer Clyde
+W. Tombaugh in 1930, we the undersigned believe the use of the term
+"Planet 9" for objects beyond Pluto is insensitive to Professor
+Tombaugh's legacy.
+
+We further believe the use of this term should be discontinued in favor
+of culturally and taxonomically neutral terms for such planets, such as
+Planet X, Planet Next, or Giant Planet Five. 
+
+Paul Abell
+Michael Allison
+Nadine Barlow
+James Bauer
+Gordon Bjoraker 
+
+Paul Byrne
+Eric Christiansen
+Rajani Dhingra
+Timothy Dowling
+David Dunham
+
+Tony L. Farnham
+Harold Geller
+Alvero Gonzalez
+David Grinspoon
+Will Grundy
+
+George Hindman
+Kampalayya M. Hiremath
+Brian Holler
+Stephanie Jarmak
+Martin Knapmeyer
+
+Rosaly Lopes
+Amy Lovell
+Ralph McNutt
+Phil Metzger
+Sripada Murty
+
+Michael Paul
+Kirby Runyon
+Ray Russell
+John Stansberry
+Alan Stern
+
+Mike Summers
+Henry Throop
+Hal Weaver
+Larry Wasserman
+Sloane Wiktorowicz
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+THEMATIC SCHOOL - FLUID-ROCK INTERACTIONS IN THE SOLAR SYSTEM
+
+The Laboratoire de Planetologie et Geodynamique organises the second
+GeoPlaNet thematic school on Fluid-Rock Interactions in the Solar
+System. The event will take place in Nantes (France) from this November
+12th to 16th.
+
+This school in Planetary Geosciences will present to participants
+various techniques for observing, analysing, experimenting and
+modelling the compositional and morphological aspects of fluid-rock
+interactions in rocky and icy bodies of all sizes of the Solar System.
+
+The school will include lectures and practicals, as well as poster
+presentations by attendees. It will be organised along two themes:
+
+1) Fluid-rock interactions on planetary surfaces
+   - Fluid-related rock deformation, rock weathering, sedimentation,
+     hydrothermalism
+   - Spectroscopy of rocks and minerals, field excursion, experimental
+     modelling, laboratory analyses
+  
+2) Fluid-rock interactions in planetary interiors
+   - Icy ocean worlds, mantle dynamics, volatile cycle, metasomatism, 
+     deep magmatic source
+   - Petrology, geochemistry, geophysics, laboratory analyses,
+     experimentation, numerical modelling
+
+This high-level training program is open to 80 international Master
+students, PhD students and young researchers with a background in
+geosciences and/or in planetary science.
+
+https://lpg-umr6112.fr/TS-GeoPlaNet
+
+O. Bourgeois, O. Verhoeven and S. Lheritier
+
+Laboratoire de Planetologie et Geodynamique UMR CNRS 6112 - University
+of Nantes
+ 
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 13, 2018
+Survive and Operate Through the Lunar Night Workshop
+https://www.hou.usra.edu/meetings/survivethenight2018/
+Columbia, MD
+
+January 29-February 1, 2019
+Mars Extant Life: What’s Next?
+https://www.hou.usra.edu/meetings/lifeonmars2019/
+Carlsbad, NM
+
+March 10-13, 2019
+Large Surveys with Small Telescopes: Past, Present, and Future
+https://www.sternwarte.uni-erlangen.de/large-surveys-2019
+Bamberg, Germany
+
+June 17-20, 2019
+From Stars to Planets II
+http://cosmicorigins.space/fstpii
+Gothenburg, Sweden
+
+December 9-12, 2019
+The First International Orbital Debris Conference (IOC)
+https://www.hou.usra.edu/meetings/orbitaldebris2019/
+Houston, TX
+
+July 27-31, 2020
+Exoplanets III
+http://mpia.de
+Heidelberg, Germany
+
+Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,478 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 32 (July 6, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. AGU Session PS1871 - Recent Solar System Discoveries Using the Deep 
+   Space Network
+2. AGU Session PS2464 - Icy World Eruptions and Their Analogues
+3. 2014 COSPAR Awards to be Bestowed at Forthcoming Scientific 
+   Assembly in Moscow
+4. Impact Geology Research Opportunity of a Master of Science Degree
+5. [NASA] Schedule for Hayabusa 2 Participating Scientist Program
+6. [NASA] PDS - Gravity Recovery and Interior Laboratory (GRAIL) Data
+   Release 5
+7. [NASA] PDS - Odyssey Data Release 48
+8. [NASA] PDS - LADEE LDEX Data Release 1
+9. [NASA] PDS - Cassini Data Release 38
+10. NASA Postdoctoral Fellowships
+11. Latest Venus Exploration Documents Now Posted on VEXAG Website
+12. [NASA] Draft Discovery 2014 Announcement of Opportunity
+13. ESO Workshop - Ground and Space Observatories: A Joint Venture to 
+    Planetary Science
+14. Planetary Meeting Calendar Additions
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION PS1871 - RECENT SOLAR SYSTEM DISCOVERIES USING THE DEEP 
+SPACE NETWORK
+
+The Deep Space Network is well known for its role in commanding and 
+communicating with planetary spacecraft that are producing a steady 
+stream of new discoveries. The antennas within the Deep Space Network 
+also can be used as science instruments in their own right to 
+complement and extend the observations conducted with spacecraft. Using 
+radio science techniques that link a spacecraft and ground antenna, the 
+atmospheres and interiors of solar system objects ranging from 
+asteroids to planets can be probed. Using radar transmissions, surface 
+and sub-surface characteristics of asteroids, moons, and planets can 
+be probed and orbits determined to high precision. This session invites 
+papers that highlight recent discoveries or that illustrate the future 
+potential for discoveries on the interiors, surfaces, and 
+characteristics of solar system bodies obtained by using the Deep 
+Space Network.
+
+Deadline for abstract submission: 6 August 23:59 EDT/03:59 +1 GMT
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/Session1871.html
+
+Conveners:
+Joseph Lazio, Jet Propulsion Laboratory
+Sami W Asmar, Jet Propulsion Laboratory
+Lance Benner, Jet Propulsion Laboratory
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION PS2464 - ICY WORLD ERUPTIONS AND THEIR ANALOGUES
+
+AGU Fall Meeting in San Francisco, CA, December 15-19, 2014.
+
+The potential existence of large plumes of water emitted from Europa's 
+surface has exciting implications for assessing the habitability of 
+this icy world. While the evidence from Hubble Space Telescope 
+observations presently awaits confirmation, the analogy to active 
+plumes at Enceladus motivates discussion of how to detect and 
+characterize plumes, and how to understand eruptive features in the 
+solar system in general. This session examines the mechanisms for plume 
+formation and dispersal; geological signatures of eruptions; inorganic 
+and organic composition of materials ejected from the surface and 
+subsurface; and implications for habitability and life detection. 
+Comparisons with eruptive features and activity on bodies such as 
+Ceres, Enceladus, Io, Triton, Venus, and Earth are encouraged.
+
+Conveners: 
+Steve Vance (svance@jpl.nasa.gov)
+Cynthia Phillips (phillips@seti.org)
+
+Abstract submission is now open, with a deadline of August 6:
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/Session2464.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2014 COSPAR AWARDS TO BE BESTOWED AT FORTHCOMING SCIENTIFIC ASSEMBLY 
+IN MOSCOW
+
+For a list of recipients and the complete citations, please see the 
+press release at:
+
+https://cosparhq.cnes.fr/sites/default/files/press_release_2014.pdf
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+IMPACT GEOLOGY RESEARCH OPPORTUNITY OF A MASTER OF SCIENCE DEGREE
+
+Presently, there is an opening for a geology student holding a BS in 
+geology to enter the Masters (M.S.) in geology program at Auburn 
+University’s Department of Geology and Geography and study impact 
+geology for his or her thesis research project. Auburn has a small 
+impact and planetary geology program, where the emphasis is on marine 
+impact craters and impact-related stratigraphy. The candidate must 
+have a BS in geology or equivalent degree in hand by January 2015,
+must have gained admission to the Graduate School at Auburn, and must 
+agree to move to Auburn, Alabama and take up an available teaching 
+assistantship and impact-geology research project by the onset of the 
+spring semester 2015 (i.e., January 14, 2015). Learn more about 
+Auburn at: 
+
+http://www.auburn.edu 
+
+and about the G&G department at: 
+
+http://www.auburn.edu/academic/cosam/departments/geology/index.htm
+
+For more information on this opportunity, please contact Prof. David 
+King (kingdat@auburn.edu; 1 334 844 4882).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SCHEDULE FOR HAYABUSA 2 PARTICIPATING SCIENTIST PROGRAM
+
+NASA intends to release ROSES-2014 C.19, the call for Participating 
+Scientist and Sample Scientist proposals to enhance the scientific 
+return from the Hayabusa2 mission in December 2014.
+ 
+The purpose of this call is to broaden participation in the Hayabusa2 
+mission, augment the existing science team to include new 
+investigations that enhance and/or complement the currently funded 
+investigations, and maximize the contribution of the mission to the 
+scientific understanding and future exploration of asteroids. Equally 
+important this will increase the number of scientists supporting 
+mission planning and execution. While a large fraction of the planned 
+observations will be planned in advance, real-time response to a 
+brand-new set of observations is expected to result in an ongoing 
+requirement for significant replanning.
+  
+The due date for Step-2 proposals will be no less than 90 days after 
+the release of the call. NASA anticipates that instrument scientist 
+awards from proposals submitted to C.19 will receive funding starting 
+in FY 2016 and the Sample Scientist awards starting with a small 
+amount in 2017.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS - GRAVITY RECOVERY AND INTERIOR LABORATORY (GRAIL) DATA 
+RELEASE 5
+
+The Planetary Data System (PDS) announces the fifth release of GRAIL 
+data:
+
+LGRS RDR - Derived lunar gravitational field data from the GRAIL 
+mission, along with SPICE geometry and navigation kernels created by 
+the GRAIL Science Data System (SDS).
+
+This release includes new spherical harmonic models comprising data 
+from both the primary and extended missions. In addition, all SPK 
+data products have been revised and now include data from both the 
+primary and extended missions.
+
+To receive email announcements of future releases of GRAIL data, 
+please use the PDS Subscription Service at:
+
+http://pds.nasa.gov/tools/subscription_service/top.cfm
+
+To access the above data, please visit:
+
+http://pds-geosciences.wustl.edu/missions/grail/
+
+For information about this release, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20140630.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+
+http://pds.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS – ODYSSEY DATA RELEASE 48
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 48, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 142-144)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue 
+to operate.
+
+Note that the VISGEO, IRPBT, and IRGEO datasets of THEMIS will be
+released at the end of July.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20140701.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS – LADEE LDEX DATA RELEASE 1
+
+The Planetary Data System (PDS) is pleased to announce the 
+availability of the Lunar Atmosphere and Dust Environment Explorer 
+(LADEE) Lunar Dust Experiment (LDEX) reduced and calibrated data from 
+the first 100 days of the science phase of the mission.
+
+These data have been certified and released with minor liens. To 
+access the LADEE LDEX data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/ldex.html
+
+Other LADEE data sets coming soon:
+Neutral Mass Spectrometer (NMS)
+UV-Vis Spectrometer (UVS)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS – CASSINI DATA RELEASE 38
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 38, July to September 2013, for instruments:
+
+CIRS
+HRD
+INMS
+ISS
+MAG  
+MIMI
+RADAR  
+RSS
+SPICE
+UVIS
+VIMS
+
+RPWS data for this period was delivered in release 37. CDA data will 
+soon be available.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20140704.html
+
+To access the latest PDS Data Releases, please visit:
+  
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+  
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+  
+http://pds.nasa.gov/
+
+Thank you for subscribing to the PDS Notification Service,
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17585     
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter:  http://bit.ly/1iUrK4I
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LATEST VENUS EXPLORATION DOCUMENTS NOW POSTED ON VEXAG WEBSITE
+
+At the Venus Exploration Analysis Group (VEXAG) meeting in November 
+2012, it was resolved to update the scientific priorities and 
+strategies for Venus exploration. To achieve this goal, three major 
+tasks were defined and resulted in the following three documents:
+
+(1)  Update to the document prioritizing Goals, Objectives, and 
+     Investigations for Venus Exploration,
+
+(2)  Develop a Roadmap for Venus Exploration that is consistent with 
+     VEXAG priorities as well as Planetary Decadal Survey priorities, 
+     and
+
+(3)  Develop a white paper on technologies for Venus missions, a 
+     Venus Technology Plan. 
+
+If you haven’t done so already, please visit the VEXAG Website: 
+
+http://www.lpi.usra.edu/vexag/ 
+
+and endorse these 3 documents.
+ 
+In addition, a Venus Exploration Themes document was prepared as an 
+adjunct to these three VEXAG documents in order to preserve important 
+extracts from previous versions of VEXAG’s Venus Exploration Goals 
+and Objectives documents - Venus Exploration Themes.
+ 
+The latest versions of all four of these documents are available now 
+at the VEXAG Website: 
+
+http://www.lpi.usra.edu/vexag/
+ 
+Lori Glaze, VEXAG Chair
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] DRAFT DISCOVERY 2014 ANNOUNCEMENT OF OPPORTUNITY
+
+The National Aeronautics and Space Administration (NASA) Science
+Mission Directorate (SMD) is releasing draft text for an Announcement 
+of Opportunity (AO) to solicit Principal Investigator (PI) led space 
+science investigations for the Discovery Program. The draft text can 
+be downloaded from the NSPIRES web page either by going to: 
+
+https://nspires.nasaprs.com/ 
+
+selecting "Solicitations", then "Open" under the "View Solicitations" 
+heading and searching for Discovery 2014 or NNH14ZDA009J. Comments on 
+this draft text are due to the point of contact below by July 16, 
+2014. It is anticipated that Step-1 proposals will be due late in 
+calendar year 2014.
+ 
+The goal of NASA’s Discovery Program is to provide frequent flight 
+opportunities for high quality, high value, focused, planetary science 
+investigations that can be accomplished under a not to exceed cost cap.
+ 
+The AO Cost Cap for a Discovery mission is $450M in Fiscal Year (FY) 
+2015 dollars, not including the cost of the Expendable Launch Vehicle 
+(ELV) or any contributions. Any selected mission will launch no later 
+than December 31, 2021.
+ 
+Proposers should be aware of major changes in this AO from previous 
+Discovery Program AOs.       
+ 
+Dr. Michael H. New
+(202) 358-1766
+michael.h.new@nasa.gov
+
+[Edited for length]
+ 
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ESO WORKSHOP - GROUND AND SPACE OBSERVATORIES: A JOINT VENTURE TO 
+PLANETARY SCIENCE
+
+We are pleased to announce that registration will soon open for an ESO 
+workshop on "Ground and Space Observatories: A Joint Venture to 
+Planetary Science" to be held March 2-5, 2015 in Santiago, Chile. For
+more information, please see:
+
+http://www.eso.org/sci/meetings/2015/Planets2015.html
+
+The goal of this workshop is to explore synergies between ground and 
+space-based observatories with planetary missions for exploring the 
+Solar System and planets, and to foster collaborations between the 
+different communities by sharing scientific and technical knowledge, 
+needs, requirements, and techniques. Scientific topics include, e.g., 
+planetary atmospheres, surfaces and rings, moons, asteroids, TNOs and 
+comets.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+March 2-5, 2015
+Ground and Space Observatories: A Joint Venture to Planetary Science
+http://www.eso.org/sci/meetings/2015/Planets2015.html
+Santiago, Chile
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,572 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 23 (June 7, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. SBAG Steering Committee Open Positions
+2. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 33
+3. [NASA] PDS - Mars Atmosphere and Volatile Evolution Data Release 1
+4. MAVEN Data Available
+5. Science Communication Workshop
+6. K2 Science Conference (K2SCICON)
+7. New Leaders in Space Science: Deadline Extended
+8. Nuclear Power Assessment Study Final Report Available
+9. Planetary Geomorphology 'Image of the Month'
+10. Mars Exploration Science Monthly Newsletter: June 2015
+11. NASA Postdoctoral Fellowships
+12. Lunar and Small Bodies Graduate Conference 2015 - Announcement
+    and Abstract Submission Deadline
+13. Suggesting Reviewers for NASA Roses Proposals
+14. [NASA] ROSES-15 WFIRST Science Investigation Teams for Community 
+    Comment
+15. DPS Member William J. Borucki Wins 2015 Shaw Prize in Astronomy
+16. GSA Session T177 - When Water Meets Rock: Aqueous Alteration in 
+    the Solar System
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SBAG STEERING COMMITTEE OPEN POSITIONS
+
+The SBAG Steering Committee is composed of members that represent the 
+diverse nature of the SBAG community, and each member serves a 
+multi-year term. There are three positions open on the SBAG Steering 
+Committee starting in August 2015. We are looking for candidates in 
+the following areas:
+
+* SBAG Technology Lead - Responsible for leading SBAG roadmap 
+activities related to technology, for contributing technology 
+input to guide SBAG meeting agendas, and for providing technology 
+expertise at SBAG meetings and Steering Committee discussions. 
+Three-year term.
+
+* Comet Science Expert - Serve as a SBAG Steering Committee member 
+and provide specific expertise on topics and issues related to 
+cometary science, to complement the expertise of the continuing 
+Steering Committee members. Three-year term.
+
+* Early Career Secretary - An individual who recently received an 
+advanced degree or an exceptional graduate student, with 
+responsibilities to assist the chair with logistical details 
+associated with SBAG and SBAG meetings. Two-year term.
+
+To indicate your willingness to serve in any of these positions, 
+please email Nancy Chabot (Nancy.Chabot@jhuapl.edu) and include 
+a CV by June 22, 2015. From more information about SBAG, visit 
+the website: 
+
+http://www.lpi.usra.edu/sbag/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 33
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SHARAD
+SPICE
+
+With this release SHARAD data deliveries from team members in Italy 
+have resumed, after a hiatus since December 2012, bringing the data 
+coverage up through June 2, 2012. Also with this release, another 
+batch of SHARAD radargrams from U.S. team members has been delivered, 
+with coverage through October 5, 2014.
+
+In general, MRO Release 33 includes data collected from August 9, 
+2014, through November 8, 2014. The release includes HiRISE data 
+for January 30, 2015, to May 3, 2015. To access the above data:
+
+http://pds.nasa.gov/subscription_service/SS-20150601.html
+
+To access the latest PDS Data Releases:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+818-393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 1
+
+The Planetary Data System (PDS) is pleased to announce the first part
+of Release 1 of MAVEN (Mars Atmosphere and Volatile Evolution) data.
+This consists of data from the following instruments:
+
+NGIMS (Neutral Gas and Mass Spectrometer)
+ANC (Ancillary)
+MAG (Magnetometer)
+SWEA (Solar Wind Electron Analyzer)
+SWIA (Solar Wind Ion Analyzer)
+
+The second part of release 1 of MAVEN data is scheduled for July 1,
+2015, and will consist of data from other MAVEN instruments.
+
+To receive email announcements of future releases of MAVEN data, please
+sign up on the PDS Subscription Service at:
+
+http://pds.nasa.gov/tools/subscription_service/top.cfm.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150603.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+818-393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MAVEN DATA AVAILABLE
+
+The MAVEN Science Data Center is pleased to announce the availability 
+of MAVEN data for the following instruments: SWIA, SWEA, NGIMS, and 
+MAG, as well as a set of ancillary data. This release includes data 
+collected between the start of MAVEN's science operations on 
+November 15, 2014, and February 15, 2015. 
+
+To access this data, please visit:
+
+https://lasp.colorado.edu/maven/sdc/public/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SCIENCE COMMUNICATION WORKSHOP
+
+The RIS4E SSERVI Team and experts from the Alan Alda Center for 
+Communicating Science a world-renowned leader in the field of science
+communication, will facilitate a (free!) Science Communication 
+Workshop on Sunday, July 19 at NASA Ames, right before the SSERVI 
+Exploration Science Forum. The Alda Center has helped hundreds of 
+scientists around the country improve their communication skills and 
+are in high demand by universities and professional agencies 
+nationwide, including NASA's Office of the Chief Scientist. 
+
+This one-day workshop is designed to help scientists learn to connect 
+with different audiences and to convey the meaning of complex 
+material in vivid, clear language those audiences can understand.
+
+For more information about the workshop, to see videos of Alan Alda 
+discussing the importance of effective science communication as well 
+as testimonies of past participants - and to apply! - visit:
+
+http://www.centerforcommunicatingscience.org/sservi-science-
+communication-workshop/
+
+The password is (case sensitive): comm_sservi
+
+For more information about the Alan Alda Center or Communicating 
+Science, please see:
+
+http://www.centerforcommunicatingscience.org
+
+Questions?
+
+Contact Andrea Jones (Andrea.J.Jones@nasa.gov).
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+K2 SCIENCE CONFERENCE (K2SCICON)
+
+Save the date for the K2 Science Conference (K2SCICON)!  
+November 2-5, 2015
+
+The LCOGT invites the whole astronomical community to celebrate the 
+science from the first year of the K2 mission in sunny Santa Barbara!
+
+All K2 users are welcome to present early scientific results from all 
+areas of research, from our own Solar System and exoplanets to young 
+stars and distant galaxies. We will hear updates on the mission and 
+discuss the latest in data processing techniques. We also encourage 
+contributions on results from the Kepler prime mission and the future 
+TESS mission. 
+
+Check the conference website in the coming weeks for updates and 
+registration: 
+
+http://lcogt.net/k2scicon/
+
+Questions: k2scicon-loc@lcogt.net
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NEW LEADERS IN SPACE SCIENCE: DEADLINE EXTENDED
+
+The Space Studies Board of U.S. National Academy of Sciences National 
+Research Council and the National Space Science Center of the Chinese 
+Academy of Sciences invite applications for the 2015-16 Forum for 
+New Leaders in Space Science. The Forum's 2015-2016 session will 
+provide opportunities for a highly select group of young Earth and 
+planetary scientists from the United States and China to discuss 
+their research activities in an intimate and collegial environment 
+at meetings to be held in Shanghai, China (9-10 October, 2015) and 
+Irvine, California (16-17 May, 2016). The application deadline has 
+been extended to 15 June, 2015. Details can be found at:
+
+http://sites.nationalacademies.org/SSB/SSB_086017
+          
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NUCLEAR POWER ASSESSMENT STUDY FINAL REPORT AVAILABLE
+
+The objective of this study was to "Discuss a sustainable strategy 
+and present findings for the provisioning of safe, reliable, and 
+affordable nuclear power systems that enable NASA Science Mission 
+Directorate (SMD) missions and is extensible to Human Exploration 
+and Operations Mission Directorate (HEOMD) needs in the next 20 
+years."
+
+It is posted by NASA at: 
+
+http://rps.nasa.gov/npas
+
+which is accessible via the page at: 
+ 
+http://rps.nasa.gov 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+This month's image is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+The topic is on dust storms in Hellas Planatia, Mars. Contributed by 
+Mr Martin Voelker and Dr. Daniela Tirsch, Institute of Planetary 
+Research, German Aerospace Center, Berlin.
+
+This is the 86th post and will be the last one from me as I hand over 
+this blog to the very capable hands of Dr. Susan Conway, Open 
+University.
+
+Thanks for your support over the past 9 years. Your emails, comments 
+and the visits to the page (27,400 in the past 3 years) have made 
+it a very worthwhile experience.
+
+Dr. Mary C. Bourke
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: JUNE 2015
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the June 2015 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in Earth science, heliophysics, astrophysics, planetary 
+science, astrobiology, space bioscience, aeronautics and engineering, 
+human exploration and operations, and space technology.
+ 
+A sample research opportunity is:
+
+https://www3.orau.gov/NPDoc/Catalog/17702  
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar 
+may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. 
+Financial assistance is available for relocation and health 
+insurance, and $8,000 per year is provided for professional 
+travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1JkwABH
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+LUNAR AND SMALL BODIES GRADUATE CONFERENCE 2015 - ANNOUNCEMENT
+AND ABSTRACT SUBMISSION DEADLINE
+
+Registration is now open for the 6th Annual Lunar and Small Bodies 
+Graduate Conference (LunGradCon 2015) to be held on Monday, July 20, 
+2015 at the NASA Ames Research Center, preceding the NASA Exploration 
+Science Forum (ESF). With the expanded interests of the Solar System 
+Exploration Research Virtual Institute (SSERVI), the scope of this 
+year's LunGradCon is expanded to include both lunar and small bodies 
+science. LunGradCon provides an opportunity for grad students and
+early-career postdocs to present their research on lunar and small 
+body science in a low-stress, friendly environment, being critiqued 
+only by their peers. In addition to oral presentations, the conference 
+presents opportunities for professional development and networking 
+with fellow grad students and postdocs, as well as senior members of
+SSERVI. A limited amount of funding will be provided for travel and 
+lodging costs. The deadline for registration and abstract submission 
+is June 5th 2015, 11:59 PM PDT.
+
+For more details, please visit:
+
+http://impact.colorado.edu/lungradcon/2015/
+
+or email any questions to: lungradcon@gmail.com.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+SUGGESTING REVIEWERS FOR NASA ROSES PROPOSALS
+
+You may suggest reviewers for your proposals at:
+
+http://science.nasa.gov/researchers/suggested-reviewers/roses-
+planetary-science-proposals/
+
+Use the comments box at the bottom of the form to note anything 
+about conflicts of interest. You may also use this space to identify 
+anyone who should NOT be a reviewer of your proposal.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] ROSES-15 WFIRST SCIENCE INVESTIGATION TEAMS FOR COMMUNITY 
+COMMENT
+
+Element D.11 of ROSES-2015 will solicit proposals for Science 
+Investigation Teams (SITs) for the Wide-Field InfraRed Survey Telescope 
+(WFIRST), which will result in the formation of a Formulation Science 
+Working Group (FSWG) for the mission. WFIRST is the top-ranked large 
+space mission recommended by the National Research Council (NRC) 
+decadal survey of astronomy and astrophysics for 2012-2021, New 
+Worlds, New Horizons in Astronomy and Astrophysics (NWNH, National 
+Academies Press:
+
+http://www.nap.edu/catalog.php?record_id=12951
+
+Selected teams will be funded by contract and shall be responsible 
+for the following tasks in support of the proposed scientific 
+investigations with WFIRST:
+
+- Development of scientific performance requirements;
+- Design of observing program(s);
+- Development of science data analysis techniques; and
+- Development of simulations and data challenges to validate the 
+  above items.
+
+This amendment releases the draft text for community comment. 
+Questions and comments must be addressed to Dominic Benford at 
+Dominic.Benford@nasa.gov (subject line to read "WFIRST NRA Draft"
+without quotes) by 5:00 pm ET on June 26, 2015, in order to 
+receive consideration for incorporation into the final text.
+
+Announcement #: NNH15ZDA001N
+
+Posted at:
+
+http://nspires.nasaprs.com/ 
+
+and on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2015
+
+[Edited for length.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+DPS MEMBER WILLIAM J. BORUCKI WINS 2015 SHAW PRIZE IN ASTRONOMY
+
+Congratulations to DPS member William J. Borucki of NASA Ames Research
+Center who was announced on Monday as the 2015 winner of the Shaw 
+Prize in Astronomy for his conceiving and leading the Kepler mission, 
+which greatly advanced knowledge of both extrasolar planetary systems 
+and stellar interiors. When contacted, he said of winning the prize 
+that "it has been a pleasure to see the science community use the 
+Kepler results to produce a cornucopia of discoveries." 
+
+The Shaw Prize 
+
+http://www.shawprize.org/
+
+has been called "The Asian Nobel", and has awarded prizes of 
+$1,000,000 in Astronomy, Biology, and Mathematics since 2002. Present 
+DPS members who have prevously won the Shaw Prize include Geoff Marcy 
+in 2005 and Peter Goldreich in 2007.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+GSA SESSION T177 - WHEN WATER MEETS ROCK: AQUEOUS ALTERATION IN THE 
+SOLAR SYSTEM
+
+We want to call your attention to a session at the GSA Annual Meeting 
+on water-rock interactions.
+
+On Earth reaction pathways of water-rock reactions can be observed 
+directly, but elsewhere in the solar system we are often left with 
+the mineralogical and geochemical products of these interactions to 
+interpret the processes. On Mars, orbital and rover observations 
+along with analyses of meteorites point to a rich history of 
+water-rock interactions. Carbonaceous chondrites are typified by 
+nearly complete alteration through the action of water. The Dawn 
+and Rosetta missions are exploring solar system bodies that have 
+been modified by water. For planetary aqueous environments, big
+picture questions include: 
+ 
+(1) whether observed aqueous minerals formed at the surface or in the 
+    subsurface and under ambient or hydrothermal conditions and 
+(2) the durations and volumes of liquid water involved. 
+
+The goal is to explore how exciting new results from mineralogic and 
+geochemical studies based on orbital and landed measurements integrate 
+with field, laboratory, meteoritical, and modeling investigations 
+that address aqueous processes on planetary bodies.
+
+Abstracts are due August 11:
+
+http://community.geosociety.org/gsa2015/science-careers/sessions
+
+Advocates: Rebecca Greenberger and Jack Mustard
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 29 - July 3, 2015
+Humans in Space Symposium
+http://www.his2015.com
+Prague, Czech Republic
+
+July 20, 2015
+Lunar and Small Bodies Graduate Conference 2015
+http://impact.colorado.edu/lungradcon/2015/
+Mountain View, CA
+
+August 12-14, 2015
+Planetary Crater Consortium Meeting
+http://www.planetarycraterconsortium.nau.edu
+
+October 26 - November 6, 2015
+COSPAR Capacity Building Workshop on Planetary Data Mission Analysis
+http://cbw.cosparbrazil2015.org/
+Guaratingueta, Brazil
+
+November 2-5, 2015
+K2 Science Conference (K2SCICON)
+http://lcogt.net/k2scicon/
+Santa Barbara, CA
+
+November 11-13, 2015
+The First 10 Million Years of the Solar System (DFG SPP 1385)
+http://www.paneth.eu/PanethKolloquium/Home.html
+Nordlingen, Germany
+
+July 3-8, 2016
+International Symposium and Workshop on Astrochemistry
+http://www1.univap.br/gaa/iswa/
+Campinas, Brazil
+
+August 1-4, 2016
+The Diversity of Planetary Atmospheres (IV)
+http://www.exoclimes.org
+Squamish, Canada
+Flagstaff, AZ
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

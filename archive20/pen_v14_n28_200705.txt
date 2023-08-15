@@ -1,0 +1,601 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 28 (July 5, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Fall Meeting Session: Titan - Past, Present and Future
+   Investigations of Saturn's Giant Moon
+2. AGU Fall Meeting Session: Concepts for Future Planetary Science
+   Missions and Instruments (e-lightning)
+3. AGU Fall Meeting Session: Magnetospheres in the Inner Solar System
+4. Call for Peer Review Panelists: NASA MUREP INCLUDES Planning Grant
+5. [NASA] ROSES-20: XRISM Guest Scientist Program Deferred to 2021
+6. [NASA] PDS: Aperiodic PDS Data Releases in 2020.06
+7. White Paper on Triton as a Compelling Destination for Exploration
+8. Planetary Geomorphology Image of the Month
+9. [NASA] Science Virtual Community Town Hall July 9
+10. [NASA] ROSES-20: Release of Draft Text of Citizen Science Seed
+    Funding Program for Community Comment
+11. Mars Exploration Science Monthly Newsletter for July 2020
+12. [NASA] Assistant Deputy Associate Administrator for Research Job
+    Announcement
+13. [NASA] Program Scientist Job Announcements in Astrophysics,
+    Heliophysics Divisions and the Exploration Science Strategy and
+    Integration Office
+14. [NASA] PDS: Mars InSight Data Release 5
+15. [NASA] PDS: Odyssey Data Release 72
+16. [NASA] ROSES-20: Final Text Released for D.16 "Astrophysics
+    Pioneers" Soliciting Astrophysics Space and Suborbital Science
+    Investigations
+17. Postdoctoral Researcher in Planetary Magnetospheric Physics
+18. Postdoctoral Researcher in Asteroid Ceres Evolution at NISER, India
+19. Planetary Meeting Calendar Additions
+20. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU FALL MEETING SESSION: TITAN - PAST, PRESENT AND FUTURE
+INVESTIGATIONS OF SATURN'S GIANT MOON
+
+Titan's unique standing as the only moon in the Solar System with a
+dense atmosphere provides an environment like no other. Its complex
+meteorology of rainfall, wind, rivers, lakes and seas interacting with
+a solid surface is reminiscent of the planets of the inner solar
+system, while its icy crust and deep liquid water interior provide
+comparison to outer Solar System ocean worlds, such as Europa, Ganymede
+and Enceladus. Titan alone straddles these diverse environments,
+providing a fertile natural laboratory for studying one-of-a-kind
+chemistry, dynamics, geology and more. This session welcomes new
+results from past missions including Voyager and Cassini-Huygens;
+present day modeling, observations and experiments; and on-going
+scientific research to prepare for future missions including Dragonfly.
+
+The conveners invite abstracts to be submitted through July 29: 
+
+https://www.agu.org/Fall-Meeting/2020/Present/Abstracts 
+
+We look forward to a session filled with exciting new results.
+
+Conor Nixon, Alex Hayes, Kathy Mandt and Christophe Sotin
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU FALL MEETING SESSION: CONCEPTS FOR FUTURE PLANETARY SCIENCE
+MISSIONS AND INSTRUMENTS (E-LIGHTNING)
+
+Today planetary science missions are exploring the Solar System as
+never before. NASA spacecraft are headed to targets from Mercury to the
+Kuiper Belt, and aiming to return the first samples from Mars and
+asteroid Bennu. ESA spacecraft are reaching new targets from Mercury to
+Jupiter, and a wave of other missions from countries around the world
+are targeting the Moon, Mars, near-Earth asteroids and beyond, with an
+dizzying array of orbiters, rovers and landers. It is an exciting,
+dynamic time for planetary scientists with new opportunities to propose
+mission concepts ranging from small Cubesats to traditional large
+missions. This session solicits interactive electronic poster
+(e-Lightning) presentations on novel mission and instrument concepts
+designed for future planetary science missions.
+
+Abstract submissions are encouraged on all relevant mission and
+instrument concepts by July 29 at: 
+
+https://www.agu.org/Fall-Meeting/2020/Present/Abstracts 
+
+We look forward to another very interesting session in December.
+
+Conor Nixon, Morgan Cable, Charles Hibbits, Melissa Trainer
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU FALL MEETING SESSION: MAGNETOSPHERES IN THE INNER SOLAR SYSTEM
+
+We are pleased to announce the following session and would like to
+invite the community to consider submitting an abstract to it for the
+upcoming AGU Fall Meeting 2020.
+
+Session description:
+
+The structure and dynamics of each planetary magnetosphere (intrinsic
+and induced) in the inner solar system are driven by a unique set of
+factors including the nature of its magnetization,
+atmosphere-ionosphere coupling, and local solar wind parameters. To
+provide a forum for discussion of recent data analysis and modeling
+efforts concerning the inner planet magnetospheres, this session
+welcomes submissions on the intrinsic magnetospheres of Mercury and
+Earth, as well as the induced magnetospheres of Venus and Mars. It will
+focus on general magnetospheric processes including, but not limited
+to: solar wind-magnetosphere interactions, magnetosphere-ionosphere
+coupling, plasma acceleration and transport, magnetic reconnection,
+wave instabilities, magnetotail dynamics, and bow shock physics. We
+strongly encourage comparative studies of these inner solar system
+magnetospheres with each other or with other planetary magnetospheres
+throughout the solar system.
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/102030
+
+Conveners:
+Leonardo Regoli (JHU Applied Physics Laboratory)
+Gina Di Braccio (NASA Goddard Space Flight Center)
+Daniel Gershman (NASA Goddard Space Flight Center)
+Marissa Vogt (Boston University)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR PEER REVIEW PANELISTS: NASA MUREP INCLUDES PLANNING GRANT
+
+NASA Research and Education Support Services (NRESS) is seeking persons
+willing to serve as peer review panelists for the NASA MUREP INCLUDES
+Planning Grant program element listed under Engagement Opportunities in
+NASA STEM 2020 (EONS-2020). Information about the opportunity, proposal
+requirements and evaluation criteria can be found on the NASA MUREP
+INCLUDES Planning Grant page in the NASA Solicitation and Proposal
+Integrated Review and Evaluation System (NSPIRES):
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B969EDF98-B0C4-B79A-8ED7-925819CDEFFC%7D&path=open&method=init
+
+The virtual panel will be held July 7-9, 2020 to discuss the submitted
+proposals and identify those recommended for funding. Panelist are
+expected to be present for the entirety of the panel.
+
+Each proposal is approximately 10 pages in length and every effort will
+be made to assign no more than 5 proposals to each panelist.
+
+Non-civil servant panelists will receive a $200/per day honorarium.
+
+If you are interested in serving as a virtual panelist, please complete
+the information at the URL below and send it to
+NASAMUREP-INCLUDES@nasaprs.com by June 30, 2020:
+
+http://www.spaceref.com/news/viewsr.html?pid=53822
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-20: XRISM GUEST SCIENTIST PROGRAM DEFERRED TO 2021
+ 
+The objective of the X-Ray Imaging and Spectroscopy Mission (XRISM)
+Guest Scientist (XGS) program (D.12 of ROSES-2020) is to enhance the
+scientific return during the Performance Verification (PV) phase of
+this Japan Aerospace Exploration Agency Mission by opening the
+opportunity to participate in the analysis of data collected on
+individual targets during the XRISM PV phase to U.S.-based scientists
+who are not members of the NASA-appointed instrument team. The
+intention was that following the selection of PV-phase targets this
+year, this element would be finalized and include a list of the
+PV-phase targets, provide a due date for proposals and describe the
+process and criteria used in their evaluation. However, since the XRISM
+PV phase targets are now expected to be selected and announced during
+the 2021 calendar year, NASA will solicit for XRISM Guest Scientists in
+ROSES-2021.
+
+This Amendment(NNH20ZDA001N) is posted at:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+Questions concerning the X-Ray Imaging and Spectroscopy Mission Guest
+Scientist program and this amendment may be directed to Valerie
+Connaughton at valerie.connaughton@nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PSDS: APERIODIC PDS DATA RELEASES IN 2020.06
+
+In June 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+Mars Express SPICAM
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200630.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+WHITE PAPER ON TRITON AS A COMPELLING DESTINATION FOR EXPLORATION
+
+A draft of a white paper for the upcoming Decadal Survey detailing the 
+scientific reasons for studying Neptune's moon Triton is available at 
+this link:
+
+http://planetarynews.org/decadal/Triton_case_6_26_2020.pdf
+
+Endorsers are welcome! (The current list of co-signers is from the OPAG 
+website.) Comments are welcome too. Please contact Candy Hansen at 
+cjhansen@psi.edu to sign up or provide comments.
+
+This white paper will be submitted to the National Academies on July 
+15.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The July image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Superposed glaciers on Mars: what, where, when,
+and why?", and was contributed by Adam J. Hepburn, Aberystwyth
+University.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+ 
+http://www.facebook.com/PlanetaryGeomorphology
+ 
+or Twitter: @PlanetGeomorpho
+ 
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA SCIENCE VIRTUAL COMMUNITY TOWN HALL JULY 9
+ 
+NASA's Science Mission Directorate will hold a virtual community town
+hall with Associate Administrator for Science Thomas Zurbuchen and
+other members of the Science leadership team at 3 p.m. EDT Thursday,
+July 9, to discuss updates on the agency's science activities.
+
+Members of the science community, academia, the media, and the public
+are invited to participate via Adobe connect by joining at:
+
+https://asuitehqnasa.acms.com/smdcommunitytownhall
+
+To ask a question, participants can go to:
+
+https://arc.cnf.io/sessions/ab9h/#!/dashboard
+
+Participants must provide their first and last name and organization
+and can submit questions or vote up questions submitted by others. The
+hosts will try to answer as many of the questions as possible.
+
+Charts for the meeting will be available for download within Adobe
+Connect during the meeting, and a recording will be available later
+that day at: 
+
+https://science.nasa.gov
+
+To test your connection, go to:
+
+https://itcdhqnasa.acms.com/common/help/en/support/meeting_test.htm
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-20: RELEASE OF DRAFT TEXT OF CITIZEN SCIENCE SEED FUNDING
+PROGRAM FOR COMMUNITY COMMENT
+ 
+The Citizen Science Seed Funding Program (CSSFP) Element of ROSES aims
+to support scientists and other experts to develop citizen science
+projects relevant to NASA's Astrophysics, Heliophysics and Planetary
+Science Research Programs. The CSSFP aims to advance the use of citizen
+science by incubating citizen science projects as they are being
+conceived or during critical transitions, like the year when they are
+first launched or beta tested (i.e., when the first group of volunteers
+is invited to try the project) or when the project changes scientific
+direction. CSSFP awards require relatively short proposals to encourage
+new proposers to experiment with citizen science techniques; the
+Science/Technical/Management section has a limit of 6 pages.
+ 
+CSSFP awards have a duration of up to one year only.
+ 
+Draft text for E.9 Citizen Science Seed Funding Program:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b73E33D11-0450-859C-9DBA-E15443A63773%7d&path=&method=init
+
+Comments are due no later than July 30, 2020 via email to
+marc.kuchner@nasa.gov (with subject = "CSSFP comments").
+ 
+This Amendment (NNH20ZDA001N) is posted at:
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+ 
+Questions: Marc Kuchner, marc.kuchner@nasa.gov.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JULY 2020
+
+To the Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi
+Carrier, and Dave Beaty of the Mars Program Science Office, the July
+2020 edition of the Mars Exploration Science Monthly Newsletter can be
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings. We hope everyone remains safe and healthy within these
+stressful, rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] ASSISTANT DEPUTY ASSOCIATE ADMINISTRATOR FOR RESEARCH JOB
+ANNOUNCEMENT
+
+NASA's Science Mission Directorate anticipates releasing a USAJOBS
+announcement to fill the position of Assistant Deputy Associate
+Administrator for Research (ADAAR) in Washington, DC. The ADAAR will
+work as part of a diverse and agile team whose core values include
+excellence, integrity, transparency, and teamwork. 
+ 
+The USAJOBS announcement will open on July 20, 2020 and close on July
+27, 2020.
+ 
+NASA recognizes that candidates with non-traditional career paths, or
+individuals who are at earlier stages of their careers may have
+demonstrated experience in different ways. NASA encourages applications
+from such individuals.
+ 
+Further Information:
+ 
+Candidates interested in this opportunity are encouraged to contact
+NASA well in advance so they can make a well-informed decision on
+submitting an application during the very short (7 day) window when the
+job opportunity will be open for applications. 
+ 
+See full ad text:
+
+https://www.lpi.usra.edu/planetary_news/2020/07/01/assistant-deputy-associate-administrator-for-research-job-announcement/
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PROGRAM SCIENTIST JOB ANNOUNCEMENTS IN ASTROPHYSICS,
+HELIOPHYSICS DIVISIONS AND THE EXPLORATION SCIENCE STRATEGY AND
+INTEGRATION OFFICE
+
+NASA's Science Mission Directorate anticipates releasing a USAJOBS
+announcement to fill multiple Program Scientist positions across the
+directorate at Headquarters in Washington, D.C., including the
+Heliophysics division, Astrophysics division, and Exploration Science
+Strategy and Integration Office (ESSIO). SMD Program Scientist(s) will
+work as part of a diverse and agile team whose core values include
+excellence, integrity, transparency, and teamwork. 
+ 
+The USAJOBS announcement opened on June 29 and closes on July 6.
+
+See full ad text:
+
+http://www.spaceref.com/news/viewsr.html?pid=53826
+
+[Edited for length.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] PDS: MARS INSIGHT DATA RELEASE 5
+
+The NASA Planetary Data System announces Release 5 of data from the
+InSight Lander mission to Mars. This release contains raw and
+calibrated data products covering the time period from January 1, 2020,
+through March 31, 2020. The data are archived at various PDS nodes.
+
+SEIS (Seismometer) at the Geosciences Node
+RAD (Radiometer) at the Geosciences Node
+RISE (Radio Science) at the Geosciences Node
+IDA (Instrument Deployment Arm) at the Geosciences Node
+APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+IFG (Insight Fluxgate Magnetometer) at the PPI Node
+ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at 
+ the Cartography and Imaging Sciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from 
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is
+scheduled for October 1, 2020.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] PDS: ODYSSEY DATA RELEASE 72
+
+The NASA Planetary Data System announces Release 72 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period October 1,
+2019, through December 31, 2019 for the GRS/HEND/NS suite, and
+September 4 through December 4, 2019, for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data
+may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200701.shtml
+
+Odyssey releases occur every three months. The next release is
+scheduled for October 1, 2020.
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] ROSES-20: FINAL TEXT RELEASED FOR D.16 "ASTROPHYSICS PIONEERS"
+SOLICITING ASTROPHYSICS SPACE AND SUBORBITAL SCIENCE INVESTIGATIONS
+
+D.16 "Astrophysics Pioneers" program element of ROSES solicits
+proposals for Astrophysics space and sub-orbital science investigations
+that are greater in cost, scope and capability than normally possible
+within ROSES, e.g., the Astrophysics Research and Analysis (APRA)
+program (D.3 of ROSES-2020), but of lesser cost than the Astrophysics
+Explorers Mission of Opportunity (MO) program (e.g., PEA O of SALMON-3
+for the 2019 opportunity). Investigations using platforms that include
+CubeSats (including constellations), SmallSats, Major Balloon Missions,
+and International Space Station (ISS)-attached payloads will be
+solicited. Technology development and maturation within the proposed
+project will be allowed, but the primary review criterion for selection
+will be the merit of the proposed science investigation.
+
+Mandatory Notices of Intent are due August 13, 2020 and proposals are
+due October 1, 2020. The text has been revised in response to community
+comments. Please refer to the bold notice at the top of the program
+element for a list of major change and read the text carefully.
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B0E11C629-2FB1-CF8B-15AA-744BB8CC5D86%7D&path=&method=init
+
+Questions: Michael Garcia at michael.r.garcia@nasa.gov.
+
+[Edited for length]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing the magnetometer results. In addition, the candidate will
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to
+develop a data production pipeline for future magnetometer missions.
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest. Candidates for this position should have earned a Ph.D. in
+physics, astronomy, planetary science, space physics, geosciences, or
+related fields. Successful candidates should also have expertise with
+one or more programming languages commonly used in space science and a
+demonstrated track record in analyzing spaceflight data, especially
+magnetometer data and experience with the NAIF SPICE software package
+is highly desired. Applications received by July 15, 2020 will receive
+the best consideration. Link to full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+POSTDOCTORAL RESEARCHER IN ASTEROID CERES EVOLUTION AT NISER, INDIA
+
+Looking for a postdoc for 3+2 years to work on Dawn mission spectral
+data and geochemical models investigating the geologic evolution of
+asteroid Ceres. PhDs with Planetary Science / Geoscience /
+Cosmochemistry / Astronomy or relevant background may apply.
+
+The project Max Planck India Partner Group is funded by
+Max-Planck-Society (MPG). It is primarily in collaboration with MPS,
+Germany, and others from France, US and Canada. Opportunities to visit
+the collaborators' lab and also attend international conferences shall
+be provided.
+
+For more information, please contact Guneshwar Thangjam, School of
+Earth and Planetary Sciences, NISER (National Institute of Science
+Education and Research), Bhubaneswar, India, thangjam@niser.ac.in,
+
+https://www.niser.ac.in/users/thangjam
+ 
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 21-25, 2020
+Virtual Annual Meeting of the German Astronomical Society
+http://ag2020.astronomische-gesellschaft.de
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+High-fidelity Modeling of Rotationally Fissioned Asteroids
+Alex B. Davis and Daniel J. Scheeres 2020 PSJ 1:25
+http://doi.org/10.3847/PSJ/ab9a39
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org  
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

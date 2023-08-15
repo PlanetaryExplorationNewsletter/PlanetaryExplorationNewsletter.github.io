@@ -1,0 +1,683 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 2 (January 9, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Aperiodic PDS Data Releases in 2021.12
+2. [NASA] PDS: OSIRIS-REx OLA Bennu Release 10
+3. [NASA] PDS: JUNO Data Release 17
+4. [NASA] PDS: Insight Data Release 11
+5. [NASA] PDS: Odyssey Data Release 78
+6. ExMAG Call for Applications for 2022 Membership
+7. 26th NASA Small Bodies Assessment Group (SBAG) Meeting
+8. Outer Planets Assessment Group (OPAG) Steering Committee Positions 
+   Open
+9. COSPAR Session: C3.1 Planetary Atmospheres
+10. ICPAE Monthly Webinar
+11. EGU2022 Session: Planet-Biogeo-Climate-Geomorph-Ocean Science
+12. EGU2022 Session PS4.5: Mars Science and Exploration
+13. AbSciCon 2022 Session: Origins, Inventories, and Geologic Settings 
+    of the Building Blocks of Life
+14. AbSciCon 2022 Session: Interstellar Small Bodies and Exocomets and 
+    the Distribution of Ices and Organics
+15. AbSciCon 2022 Session: Taphonomic Windows in Planetary Environments
+16. AbSciCon 2022 Session: Prebiotic/Abiotic Chemistry in Alternative 
+    Solvents
+17. AbSciCon 2022 Session: Chemometric, Chemoinformatic, and Machine 
+    Learning Strategies to Characterize Complex Organic and Inorganic 
+    Mixtures
+18. AbSciCon 2022 Session: Origins of Biologic Homochirality
+19. AbSciCon 2022 Session: Initiatives within and Resources for the 
+    Early Career Astrobiology Community
+20. AbSciCon 2022 Session: Planetary Caves and Voids as Targets for 
+    Astrobiology Science
+21. Assistant Researchers in the Planetary/Space Sciences Related to
+    Astrobiology at the University of Hawai'i
+22. Planetary Meeting Calendar Additions
+23. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2021.12
+
+In December 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2021.12.21 Dust Devil Field Study, Nevada, Jackson and Lorenz, 2015
+- 2021.12.13 RELAB Spectral Library
+- 2021.12.07 MRO MARS SHARAD 5 RADARGRAM V2.0
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211231.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: OSIRIS-REX OLA BENNU RELEASE 10
+
+This release of OSIRIS-REx data includes the following data, through
+May 10, 2021 (end of Bennu encounter):
+
+- OLA raw and calibrated
+- Mission information bundle with updated Bennu coordinate system
+
+These data are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220103.shtml
+
+or more directly at:
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.ola
+
+and
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.mission
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: JUNO DATA RELEASE 17
+
+The Planetary Data System announces the 17th release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2021-02-21 and 2021-06-07, which covers Juno Orbits 33 and 34.
+Data sets from the following experiments are now available:
+
+- FGM (magnetometer)
+- Gravity
+- JADE (plasma)
+- JEDI (energetic particle detector)
+- JIRAM (infrared auroral mapper)
+- JunoCam (camera)
+- MWR (microwave radiometer)
+- SPICE
+- UVS (ultraviolet imaging spectrometer)
+- Waves (radio and plasma wave science)
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220103b.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: INSIGHT DATA RELEASE 11
+
+The NASA Planetary Data System announces Release 11 of data from the
+InSight Lander mission to Mars. This release contains raw, calibrated,
+and derived data products covering the time period from July 1 -
+September 30, 2021. The data are archived at various PDS nodes:
+
+- SEIS (Seismometer) at the Geosciences Node
+- HP3/RAD (Heat Flow and Physical Properties Package / Radiometer) at 
+  the Geosciences Node
+- RISE (Radio Science) at the Geosciences Node
+- IDA (Instrument Deployment Arm) at the Geosciences Node
+- APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+- IFG (Insight Fluxgate Magnetometer) at the PPI Node
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at 
+  the Cartography and Imaging Sciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is 
+scheduled for April 1, 2022.
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: ODYSSEY DATA RELEASE 78
+
+The NASA Planetary Data System announces Release 78 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period April 1, 2021,
+through June 30, 2021, for the GRS/HEND/NS suite, and February 27,
+2021, through May 29, 2021, for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data
+may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or from a dataset-centered view:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220104.shtml
+
+Odyssey releases occur every three months. The next release is
+scheduled for April 1, 2022.
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EXMAG CALL FOR APPLICATIONS FOR 2022 MEMBERSHIP
+
+The Extraterrestrial Materials Analysis Group (ExMAG) is a
+community-based, interdisciplinary group providing a forum for
+discussion and analysis of matters concerning the collection, curation,
+and analysis of extraterrestrial samples. ExMAG is seeking applications
+for volunteers to serve on the regular committee, Secretary,
+Exploration Hardware, Lunar Subcommittee, and Microparticle
+subcommittee. Applications are due January 14 for three-year
+appointments starting in early 2022. All applications will be
+normalized to career stage and ExMAG strives to include many voices.
+The full call, including position descriptions and application
+instructions, may be found at:
+
+https://docs.google.com/document/d/1Slhku_TC1bN8GaXIzo9GgIjkrOOCmu5oR1CZmJBzm4k/ 
+
+Questions may be directed to ExMAG.community@gmail.com
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+26TH NASA SMALL BODIES ASSESSMENT GROUP (SBAG) MEETING
+
+The agenda and registration form for the 26th NASA Small Bodies
+Assessment Group (SBAG) meeting January 24-25, 2022 are now posted at:
+
+https://www.lpi.usra.edu/sbag/meetings/
+
+There are no registration fees, but you must register to attend the
+virtual meeting.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OUTER PLANETS ASSESSMENT GROUP (OPAG) STEERING COMMITTEE POSITIONS OPEN
+
+The OPAG Steering Committee would like to announce three upcoming
+committee position openings and asks for the community's help to reach
+out to potential candidates who can serve the OPAG community.
+
+We seek candidates who are interested in supporting OPAG's mission
+(Scientific Goals for Exploration of the Outer Solar System,
+Exploration Strategy for the Outer Planets 2023-2032) and who desire to
+support the community.
+
+For more information, including a link to the application, visit the 
+OPAG Announcement page:
+
+https://www.lpi.usra.edu/opag/announcements/ 
+
+Applications are due by January 15, 2022.
+
+Inquiries about OPAG Steering Committee membership should be directed
+to Jeff Moore jeff.moore.mail@gmail.com and/or Linda Spilker
+linda.j.spilker@jpl.nasa.gov.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+COSPAR SESSION: C3.1 PLANETARY ATMOSPHERES
+
+Abstracts are currently being accepted for the Planetary Atmospheres
+Session (COSPAR-22-C3.1) at the 44th COSPAR Scientific Assembly (16-24
+July 2022, hybrid - Athens, Greece and virtual). This session is
+focused on the planetary atmospheres of the inner and outer planets and
+their moons. Presentations of results from recent and ongoing planetary
+missions, ground-based observations, modeling, and theoretical studies
+are welcomed. Solicited talks, contributed presentations, and posters
+will be included in this session which encompasses all Solar System
+bodies except the Earth.
+
+Abstract deadline is February 11, 2022 at 23:59 UTC. Abstracts may be
+submitted at:
+
+https://www.cospar-assembly.org/assembly.php
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ICPAE MONTHLY WEBINAR
+
+International Commission on Planetary Atmospheres and Evolution
+(ICPAE), which is one of the commissions of the International
+Association of Meteorology and Atmospheric Sciences (IAMAS), organizes
+a monthly webinar. The primary objective of our webinar series is to
+provide researchers with updates on new findings and techniques on
+planetary atmospheres from across the world.
+
+Monday January 17 at 17:00-18:00 UTC
+Speaker: Martin Turbet (LMD/CNRS, France)
+Title: Day-Night Cloud Asymmetry Inhibits Early Ocean Formation on
+Terrestrial Planets
+
+We welcome your attendance. Details can be found in the link below:
+
+https://www.iamas.org/icpae/2021/12/23/icpae-monthly-webinar-jan-17th-2022/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+EGU2022 SESSION: PLANET-BIOGEO-CLIMATE-GEOMORPH-OCEAN SCIENCE
+
+3-8 April 2022 at Vienna, Austria and Gather Online hybrid format
+
+From the Environment of the Earth to the Environment of the Solar
+System
+
+We invite geoscientists, environmental scientists, planetary
+scientists, engineers, and policy makers to think about the following
+question: What have we learned by studying the effect of human
+activities on Earth at planet scales, and knowing that, how will the
+advancing space programs impact the state of objects in the Solar
+System?
+
+Suggested topics include but are not limited to; review of
+environmental problems on Earth with implications to other planetary
+bodies; overview of new missions and assessment of their footprints;
+analog studies; past climate on Earth and other planets; case studies
+of how geoscientists have hypothesized, designed experiments, measured,
+and assessed the impact of human activities on Earth. Field-based,
+remote sensing, experimental, modeling, and theoretical works are
+welcome.
+
+Co-organized by PS11.1, BG7, CL3.2, GM11, OS4
+
+Abstract submission deadline: 12 January 2022 13:00 CET
+ 
+https://meetingorganizer.copernicus.org/EGU22/session/42718
+
+[Edited for length]
+ 
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+EGU2022 SESSION PS4.5: MARS SCIENCE AND EXPLORATION
+
+With exciting new and ongoing Mars missions taking place this year, we
+would like to invite you to participate in the next Mars session at
+EGU2022 (April 3-8, Vienna). Please note that EGU2022 will be in
+hybrid format with a virtual component, therefore everybody is welcome
+to attend remotely or in-person.
+
+Abstract deadline is set to January 12, but submission are already open 
+at:
+
+https://meetingorganizer.copernicus.org/EGU22/abstractsubmission/44170
+
+We hope to see you soon in Vienna,
+The conveners: Benjamin Bultel, Agata Krzesinska, Arianna Piccialli, 
+Long Xiao and Jessica Flahaut
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ABSCICON 2022 SESSION: ORIGINS, INVENTORIES, AND GEOLOGIC SETTINGS OF 
+THE BUILDING BLOCKS OF LIFE
+
+Abstract Submission Deadline: January 19, 2022.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/111949
+
+The prebiotic inventory of the early Earth established the foundation
+for subsequent complex organic chemistry and the emergence of life on
+Earth. Thus, understanding the sources, inventories, and geologic
+settings that were most likely involved in Earth's prebiotic chemistry
+is fundamental for exploring the origin of terrestrial life. Areas of
+particular interest are (1) the significance of and the evidence for
+various sources of prebiotic compounds on the early Earth, including
+endogenous origins (e.g., hydrothermal vent systems, shallow marine
+environments, and atmospheric reactions) and exogenous sources (e.g.,
+meteoritic and cometary delivery), and (2) the reaction mechanisms
+involved in the synthesis, stability and/or reactivity of prebiotic
+compounds within these early Earth environments. This session will
+focus on the synthesis and distribution of monomers and "building
+blocks" including amino acids, lipids, nucleotides, and other organics
+that can potentially lead to the formation of complex molecules.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ABSCICON 2022 SESSION: INTERSTELLAR SMALL BODIES AND EXOCOMETS AND THE
+DISTRIBUTION OF ICES AND ORGANICS
+
+Abstract Submission deadline January 19, 2022.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112074
+
+Comet nuclei contain clues about the abundance of the ices and organics
+that were present in the era of planet formation, can deliver volatiles
+to planets, and may have played a role in the distribution of water in
+our Solar System. Recently, the first unambiguous interstellar comet
+(2I/Borisov) was discovered passing through our Solar System. Its
+highly eccentric orbit provided unambiguous evidence that it was an
+interloper from another system. Enabling the interstellar distribution
+of materials, the discovery of 2I/Borisov has major astrobiological
+consequences and provides a glimpse into the formation and evolution of
+another star system. At the same time, growing evidence for exocomets
+orbiting other stars has opened up the possibility to study the
+dynamics, origin, and compositions of comets across planetary systems.
+In this session, we will combine studies of Solar System comets,
+interstellar comets, exocomets, and disks to encourage
+interdisciplinary understanding and collaboration.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ABSCICON 2022 SESSION: TAPHONOMIC WINDOWS IN PLANETARY ENVIRONMENTS
+
+We invite abstracts investigating the potential for biosignature
+preservation within environments relevant to planetary exploration. 
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112257
+
+Taphonomy is the study of the processes that enable the preservation of
+traces of life from organismal death to mineral capture, retention, and
+modification over geologic timescales. As we explore the Solar System
+for traces of life, and in particular, evidence of past microbial life,
+it is necessary to identify the environments and conditions amenable to
+biosignature preservation (i.e., "taphonomic windows") to aid in
+prioritizing measurements and sample collection. It is also imperative
+to recognize the modifications that an organism and its byproducts
+undergo during fossilization to more accurately interpret fossil
+remains and establish their biogenicity. This session aims to bring
+together research exploring taphonomic processes in environments
+analogous to those that might be found on astrobiological targets
+throughout the Solar System, and to highlight the varieties of fossil
+biosignatures preserved, the environmental conditions in which they
+occur, and their accurate interpretation.
+
+Conveners: Jon Lima-Zaloumis, Marisol Juarez-Rivera, Kelsey Moore,
+Nikki Parenteau, Ashley Manning-Berg, Jeff Osterhout
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+ABSCICON 2022 SESSION: PREBIOTIC/ABIOTIC CHEMISTRY IN ALTERNATIVE 
+SOLVENTS
+
+Please consider applying to our session on prebiotic/abiotic chemistry
+in alternative solvents or solvents with very low water activity.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/111829
+
+While much of prebiotic chemistry is focused on reactions systems in
+water, as that is the primary solvent on Earth, other solvent systems
+may be possible and some have been argued to be potentially more
+conducive to origin of life (e.g. formamide). Examples where other
+solvents are available on a sufficient scale include Titan, exoplanets,
+and locations with low water activity. This session invites abstracts
+to showcase the current state of knowledge in this area, including
+laboratory and modelling studies on the potential for abiotic chemistry
+under these conditions that may represent the first steps towards
+biological processes.
+
+Abstract Deadline: January 19, 2022 at 23:59 EDT/03:59 +1 GMT.
+
+Conveners: Jessica Weber, Laura Rodriguez, Melissa Trainer, Paul
+Bracher
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+ABSCICON 2022 SESSION: CHEMOMETRIC, CHEMOINFORMATIC, AND MACHINE
+LEARNING STRATEGIES TO CHARACTERIZE COMPLEX ORGANIC AND INORGANIC
+MIXTURES
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112057
+
+Astrobiological studies of complex samples often target specific
+analytes such as compounds used in contemporary biochemistry. As a
+result, the majority of other analytes (which often constitute the
+majority of the sample) remain unstudied. Thus, deep understanding of
+the extent to which abiotic processes and geochemical conditions drive
+(geo)chemical complexity is not fully realized. Such understanding may
+be critical for work aimed at deciphering geologic history, elucidating
+conditions conducive for abiogenesis, and detecting biosignatures. This
+session will highlight chemometric techniques used to characterize
+complex organic and/or inorganic mixtures such as those generated from
+laboratory simulations (e.g., Miller-Urey reactions,
+tholins/astrophysical ice analogs) or within (astro-)geological
+materials, including meteorites, Archean rocks, and planetary samples.
+Examples of relevant topics include investigations incorporating
+multivariate techniques and machine learning tools (including
+supervised, unsupervised, and deep learning-based approaches). Work
+aimed towards generating databases useful to the
+chemometrics/astrobiology community are also welcomed.
+
+Abstract Deadline: January 19, 2022 at 23:59 EDT/03:59 +1 GMT.
+
+Conveners: Laura Rodriguez, Bethany Theiling, Jim Cleaves, Lu Chou
+
+[Edited for length]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+ABSCICON 2022 SESSION: ORIGINS OF BIOLOGIC HOMOCHIRALITY
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112138
+
+The origin of homochirality is a central unresolved issue in the origin
+of life. We invite papers on the topic of homochirality in all of its
+manifestations, and via all methods of inquiry including laboratory
+experiments, sample analytical measurements, astronomical observations,
+and theory and modeling. A non-exhaustive list of topics includes: (1)
+spectropolarimetry observations of circularly polarized light in star
+formation regions; (2) observations of chiral molecules and circularly
+polarized light in space; (3) measurement of enantiomeric excess in
+chiral molecules extracted from meteorites; (4) photoelectron circular
+dichroism (PECD); (5) spontaneous emergence of homochiral chemical
+systems in early Earth environments; (6) chiral-selective adsorption or
+catalysis; (7) magneto-chiral processes; (8) the role of spin-polarized
+electrons in electron transport; (9) formation and emergence of chiral
+structures that transport spin-polarized electrons; (10) the influence
+of the chirality-induced spin selectivity (CISS) effect on
+spin-selective chemistry and chiral discrimination.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+ABSCICON 2022 SESSION: INITIATIVES WITHIN AND RESOURCES FOR THE EARLY
+CAREER ASTROBIOLOGY COMMUNITY
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112409
+
+Early career networking, collaboration, and exposure to diversity are
+critical to developing the next generation of Astrobiologists and
+Leaders. Early career astrobiologists around the world have developed
+initiatives to build and maintain networks, advance the science of
+astrobiology, and diversify the astrobiology community. This session
+seeks to highlight these initiatives, advertise collaboration
+opportunities, and share resources available to early career
+researchers and those involved with training the next generation of
+astrobiologists. We invite abstracts from individuals and groups
+describing initiatives designed for or by early career astrobiologists
+and/or non-traditional pathways towards an astrobiology career. The
+organizers particularly seek abstracts that will promote interactive
+discussion, increase networking and knowledge sharing, showcase the
+interdisciplinary and intergenerational nature of astrobiology, and
+further the development of an individually and professionally diverse
+astrobiology community. Non-traditional (e.g. activity-based)
+presentations are encouraged.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+ABSCICON 2022 SESSION: PLANETARY CAVES AND VOIDS AS TARGETS FOR
+ASTROBIOLOGY SCIENCE
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112206
+
+This session invites contributions on all topics related to the
+astrobiology of caves and other subterranean planetary void spaces,
+including, though not limited to, detection and characterization using
+remote technologies, the distribution of candidate caves in our Solar
+System, astrobiology mission concepts, terrestrial analog studies of
+life in caves, characterization of biosignatures found in caves, water
+and rock energy sources that support microbial life in caves, and
+metabolic pathways of microbial communities living in caves.
+
+Co-Conveners: 
+Jen Blank (Blue Marble Space Institute of Science | NASA Ames Research 
+Center) 
+Dan Jones (New Mexico Institute of Mining & Technology | National Cave 
+& Karst Research Institute) 
+Charity Lander-Phillips (Southwest Research Institute) 
+Ceth Parker (NASA Jet Propulsion Laboratory | California Institute of 
+Technology)
+
+Index Terms: 
+0419 Biomineralization 
+0463 Microbe/mineral interactions
+0465 Microbiology: ecology, physiology and genomics 
+5499 General or Miscellaneous
+
+Related: Subsurface habitability and life
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+ASSISTANT RESEARCHERS IN THE PLANETARY/SPACE SCIENCES RELATED TO
+ASTROBIOLOGY AT THE UNIVERSITY OF HAWAI'I
+
+The School of Ocean and Earth Sciences and Technology and the Institute
+for Astronomy at the University of Hawai'i at Manoa have embarked on a
+NASA/NSF-funded mission to understand the behavior of light elements
+critical to habitability and life during planet formation, and the
+origin of Earth-like worlds around other stars. We are recruiting
+outstanding postdoctoral researchers to join our team of astronomers,
+cosmochemists, planetary scientists, and geophysicists in this pursuit,
+particularly candidates in the fields of high-pressure mineral physics,
+cosmochemistry/meteoritics, protoplanetary disks/planet formation, and
+exoplanet astronomy. Benefits include a competitive salary with full
+benefits, interaction with a team of experts in diverse fields of
+astronomy, planetary science, and Earth science, and access to all
+astronomical facilities on Maunakea and cutting-edge laboratory
+instruments for isotopic, chemical, and mineralogical investigation of
+planetary materials. Successful applications will join a
+multi-institutional, NASA-funded Interdisciplinary Consortium for
+Astrobiology Research. Applications must have a PhD in
+astronomy/astrophysics, or planetary or Earth sciences. Appointments
+are initially for one year, with additional two years based on
+satisfactory performance. For inquiries and application information
+contact Eric Gaidos (gaidos@hawaii.edu).
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+January 17-29, 2022
+Mars Science and Engineering
+https://www.marsu.space/mars-science-and-engineering-course
+Boston, MA
+
+May 17-20, 2022
+The 7th International Planetary Dunes Workshop
+https://www.hou.usra.edu/meetings/dunes2022/
+Alamosa, CO
+
+June 6-July 25, 2022
+Mars Studies Program
+https://www.marsu.space/mars-studies-program
+Tucson, AZ
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+No new PSJ papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

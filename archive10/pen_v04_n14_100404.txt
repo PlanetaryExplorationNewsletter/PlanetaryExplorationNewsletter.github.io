@@ -1,0 +1,257 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 14 (April 4, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Nic Richmond, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Dusty Visions 2010:  Second Announcement
+2. Fourth MSL Landing Site Community Workshop:  First Announcement
+3. Io Workshop 2010:  Second Announcement
+4. Invitation to Contribute to a Special Issue of Planetary and Space 
+   Science Devoted to "Mercury after Three MESSENGER Flybys"
+5. Planetary Data System (PDS) Odyssey Data Release 31
+6. Planetary Geomorphology Image of the Month
+7. [NASA] Small Bodies Assessment Group Meetings Scheduled
+8. [NASA] Outer Planets Assessment Group (OPAG) Meeting Scheduled
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+DUSTY VISIONS 2010:  SECOND ANNOUNCEMENT
+
+A workshop on Dust Spectroscopy and Dust Astronomy will be held from
+July 14-16, 2010 in Goettingen, Germany
+
+Abstract submission is now open (deadline 15 May 2010):
+
+http://www.mpi-hd.mpg.de/dustgroup/dusty_visions_2010/submission.php
+
+Objectives: 
+In a workshop style we want to discuss the present state and new 
+venues in cosmic dust research. Fields that will be covered include: 
+
+Circumplanetary Dust and Dusty Rings 
+Cometary Dust
+Interplanetary Meteoroids, Kuiper Belt Dust and Solar Dust
+Lunar Dust
+Interstellar Dust
+Extrasolar Dust Rings
+Dust Compositional Analysis
+Laboratory Measurements
+Missions and Techniques
+
+Conference web page:
+
+http://www.mpi-hd.mpg.de/dustgroup/dusty_visions_2010/
+
+Scientific Organizing Committee:
+Juergen Blum (Universitaet Braunschweig)
+Cecile Engrand (CSNSM CNRS-Univ. Paris Sud)
+Simon Geen (Open University, Milton Keynes)
+Amara Graps (SwRI, Boulder)
+Eberhard Gruen (MPIK Heidelberg)
+Mihaly Horanyi (LASP & Univ. of Colorado)
+Alexander Krivov (Universitaet Jena)
+Harald Krueger (MPS Katlenburg-Lindau)
+Juergen Schmidt (Universitaet Potsdam)
+Ralf Srama (MPIK Heidelberg)
+Mario Trieloff (Universitaet Heidelberg)
+
+Local Host: 
+Harald Krueger (krueger@mps.mpg.de) 
+Max-Planck-Institut fuer Sonnensystemforschung, Katlenburg-Lindau
+
+For further information contact: dv2010@mpi-hd.mpg.de
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FOURTH MARS SCIENCE LABORATORY LANDING SITE COMMUNITY WORKSHOP:  
+FIRST ANNOUNCEMENT
+
+The fourth landing site workshop for the 2011 Mars Science Laboratory 
+(MSL) workshop will be held in the vicinity of Pasadena, California, 
+on September 27-29, 2010. This workshop is expected to focus on the
+outstanding science questions and relative merits of the final MSL 
+landing sites remaining under consideration and will begin the process 
+of developing testable hypotheses that can be accomplished at each site 
+using the MSL science payload. We anticipate a final, fifth landing 
+site workshop will be held in the early spring of 2011 and focus mostly 
+on compilation of a detailed set of testable hypotheses.
+
+http://marsoweb.nas.nasa.gov/landingsites/
+http://webgis.wr.usgs.gov/msl/
+
+All members of the scientific community are encouraged to participate 
+in this important activity. Input from the science community is 
+critical to identification of optimal landing sites for the MSL. We 
+look forward to your continued involvement in these activities!
+
+Sincerely,
+John Grant and Matt Golombek 
+Co-Chairs, Mars Landing Site Steering Committee
+
+[Editor Note:  Shortened in length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+IO WORKSHOP 2010:  SECOND ANNOUNCEMENT
+
+The second announcement is available for the Io Workshop 2010 at
+
+http://pirlwww.lpl.arizona.edu/~jani/ioworkshop2010/secondannouncement/
+
+The meeting will be held on May 25-26, 2010 in Provo, UT
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+INVITATION TO CONTRIBUTE TO A SPECIAL ISSUE OF PLANETARY AND SPACE 
+SCIENCE DEVOTED TO "MERCURY AFTER THREE MESSENGER FLYBYS"
+
+The Editors of Planetary and Space Science and the MESSENGER Science 
+Team invite contributions to a special issue devoted to new findings 
+on the planet Mercury.  The MESSENGER team will be contributing a set 
+of papers reporting results from that spacecraft's three flybys of 
+Mercury, particularly the third flyby in September 2009, as well as
+models that account for those observations.  The special issue is 
+also open to other papers reporting new results on Mercury science.  
+These could be papers analyzing observations from the Mariner 10 or
+MESSENGER flybys, reporting on new models, or presenting appropriate
+ground-based or laboratory measurements.  The submission deadline for 
+all papers in the special issue is 30 June 2010.
+ 
+To assist in planning for the editorial review of papers for the 
+special issue, contributors from outside the MESSENGER team are asked 
+to send a brief electronic letter of intent by the end of May to the
+Managing Guest Editor for the special issue, Sean Solomon 
+(scs@dtm.ciw.edu), with a copy to the Editor-in-Chief of Planetary 
+and Space Science, Rita Schulz (rschulz@rssd.esa.int).
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY DATA SYSTEM (PDS) ODYSSEY DATA RELEASE 31
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 31, for the following instruments-- GRS, 
+THEMIS, SPICE.  THEMIS data will be available shortly.
+
+To access the data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100401.html
+
+
+To access the latest PDS Data Releases, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The April 'Image of the month' is now available at the IAG's Planetary
+Geomorphology web page
+
+http://www.psi.edu/pgwg/images/apr10image.html
+
+This month's topic is "Catastrophic flood bedforms on Earth and Mars"
+contributed by Goro Komatsu, International Research School of 
+Planetary Sciences, Pescara, Italy
+ 
+Past images and captions are available at 
+
+http://www.psi.edu/pgwg/images/index.html
+ 
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] SMALL BODIES ASSESSMENT GROUP MEETINGS SCHEDULED
+
+The next two SBAG meetings have been scheduled for
+
+July 13-14, 2010 in Pasadena, CA
+January 25-26, 2011 in the Washington, DC, area
+
+Specific venues are in the process of being arranged and will be 
+posted along with agendas at
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+Presentations and Findings from the first two SBAG Meetings are also 
+found at this site.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] OUTER PLANETS ASSESSMENT GROUP (OPAG) MEETING SCHEDULED
+
+Boulder, Colorado, Sept 16-17, 2010
+
+Reports from the Feb 7-8 (SN)OPAG Meeting are posted at
+
+http://www.lpi.usra.edu/opag/reports.html
+
+Contact: William B. McKinnon, mckinnon@wustl.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 23-24, 2010
+Two-day Field Trip to Santa Fe Impact Structure and Valles Caldera
+http://epswww.unm.edu/sftrip/
+Albuquerque, NM
+
+September 2, 2010
+Eighth Meeting of the Venus Exploration and Analysis Group (VEXAG)
+http://www.lpi.usra.edu/vexag/meetings.shtml
+Madison, WI
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

@@ -1,0 +1,188 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 16 (April 5, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Nic Richmond, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Post-doctoral Research Associate on the Cassini-Huygens Mission
+2. Community Letter for Outer Planet Flagship Mission
+3. [NASA] Announcement of Opportunity for New Frontiers 2009
+4. [NASA] PDS Releases Tables of Mean Motion Resonances of Saturn's 
+   Main Rings
+5. Geomorphology Image of the Month
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POST-DOCTORAL RESEARCH ASSOCIATE ON THE CASSINI-HUYGENS MISSION
+
+University College London's Mullard Space Science Laboratory
+is seeking a postdoctoral Research Associate to work on Cassini data 
+analysis within the Planetary Science Group.  MSSL is the UK's largest 
+university-based space science research institution and is involved in 
+many leading space research missions (http://www.mssl.ucl.ac.uk/). 
+
+The post is concerned with the scientific analysis of data from the 
+Electron Spectrometer, part of the Cassini Plasma Spectrometer.  
+The successful candidate will join a team working on data analysis of 
+physical processes at work in Saturn's rapidly rotating magnetosphere 
+(sources, transport, reconnection, high latitude effects), in the 
+magnetosphere's interactions with moons (particularly Titan, Enceladus 
+and other icy satellites), and with neutral particles and dust (e.g. 
+E-ring and main ring populations). Responsibilities involve the 
+structure and dynamics of Saturn's magnetosphere, and/or its 
+interactions with Titan and other bodies. 
+
+PhD in physics or a closely-related field (ideally planetary or space 
+plasma physics) required. Experience in particle or plasma data 
+analysis an advantage.  Appointment will nominally commence 1 October 
+2009, is funded until March 2010 with possible extension to 2012 and 
+later. Salary will be on UCL salary Grade 7. Further information at  
+http://www.mssl.ucl.ac.uk/jobs.
+Closing date Friday, 1st May 2009
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COMMUNITY LETTER FOR OUTER PLANET FLAGSHIP MISSION
+
+The Europa Jupiter System Mission is first priority for the Outer 
+Planet Flagship Missions and involves the NASA Jupiter Europa Orbiter, 
+ESA Jupiter Ganymede Orbiter, and possibly other elements, such as a 
+JAXA Magnetospheric Orbiter. In addition to Europa and Ganymede, 
+substantial Jupiter system science will be conducted.
+
+The science objectives were defined (http://opfm.jpl.nasa.gov/library/)
+and the mission is in the next stage of development. Goals include 
+strengthening the science return, encouraging planetary community 
+involvement, and ensuring support by relevant space agencies. Workshops 
+are planned to assist potential instrument providers for addressing 
+radiation and planetary protection issues, with the first workshop 
+July 15-17 at the Applied Physics Laboratory, Maryland. In addition, 
+Jupiter-system sessions are planned for near-term meetings, such as 
+the European Planetary Science Conference this fall in Potsdam. More 
+broadly, next year marks the 400th anniversary of Galileo's discovery 
+of Jupiter's moons, and special events could mark the occasion. Your 
+ideas, help, and participation in related activities is encouraged.
+
+On behalf of the Joint Science Definition Team, please contact 
+Greeley@asu.edu <mailto:Greeley@asu.edu>  if you have ideas for 
+activities and/or would like to get involved in some capacity.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ANNOUNCEMENT OF OPPORTUNITY FOR NEW FRONTIERS 2009
+
+Release Date:  April 20, 2009
+Notice of Intent Due:  June 12, 2009
+Proposals Due:  July 31, 2009
+
+NASA expects to select up to three New Frontiers mission proposals for 
+a 10 month Phase A study.  Following evaluation of Phase A reports, 
+NASA expects to approve one New Frontiers mission to proceed into Phase 
+B and subsequent mission phases.  Launch will occur no earlier than 
+late CY 2016 and no later than CY 2018.  Proposed missions must address 
+the science objectives of one of the eight mission concepts identified 
+in the National Research Council's 2007 report, Opening New Frontiers 
+in Space: Choices for the Next New Frontiers Announcement of 
+Opportunity.
+
+Participation is open to all categories of organizations (U.S. and 
+non-U.S), including educational, industrial, and not-for-profit 
+organizations, FFRDCs, University Affiliated Research Centers, NASA 
+Centers, JPL, and other Government agencies.  Upon the release date, 
+the full text of the AO and all appendices will be available 
+electronically at http://nspires.nasaprs.com/. A preproposal conference 
+will be held June 3, 2009, in the Washington, DC, area; see 
+http://newfrontiers.larc.nasa.gov/ for details.
+
+Direct questions to:  
+
+Dr. Thomas H. Morgan, 
+New Frontiers Program Scientist
+(202) 358-0828 
+Thomas.H.Morgan@nasa.gov (subject: "NEW FRONTIERS AO")
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS RELEASES TABLES OF MEAN MOTION RESONANCES OF SATURN'S MAIN
+RINGS
+
+Tables of mean motion resonances in the main rings of Saturn are 
+available through the NASA Planetary Data System. The tables give 
+resonance locations and the low order terms from the expansion of the 
+disturbing function for resonances up to 4th order (2nd order for Pan 
+and Daphnis). You can obtain more information and browse or download 
+the tables at http://pds-rings.seti.org/resonance/.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The April 'Image of the month' is now available at the IAG's Planetary 
+Geomorphology web page
+
+http://www.psi.edu/pgwg/images/apr09image.html
+
+This month's topic is on Linear-Lee Dunes on Mars and Earth
+
+Past images and captions are available at 
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 1-6, 2009
+Summer School in Statistics for Astronomers V
+http://astrostatistics.psu.edu/su09
+University Park, PA
+
+June 29-July 3, 2009
+ASTROCAM School: Young Stellar Objects: From Cool Stars to Exoplanets
+http://www.astrocam.es/school09/
+Madrid, Spain
+
+August 10-13, 2009
+Astronomy and Civilization
+http://www.konkoly.hu/AC2009/
+Budapest, Hungary
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************

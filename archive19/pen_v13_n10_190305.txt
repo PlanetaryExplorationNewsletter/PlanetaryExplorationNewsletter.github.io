@@ -1,0 +1,108 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 10 (March 5, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor at psi.edu
+Twitter: @pen2tweets
+
+o--------------------------SPECIAL EDITION----------------------------o
+
+ICEMAG UPDATE ON EUROPA CLIPPER
+
+After months of deliberations and analyzing various options, I recently 
+made the difficult decision to terminate the Interior Characterization 
+of Europa using Magnetometry (ICEMAG) investigation on the Europa 
+Clipper mission. I believe this decision was necessary as a result of 
+continued, significant cost growth and remaining high cost risk for 
+this investigation, and aligned with Academy guidance received for this 
+important mission.
+ 
+During Phase A the entire Europa Clipper payload experienced 
+significant resource growth, (including cost growth) due to 
+accommodation challenges. This is expected due to system and 
+environmental challenges for this mission, and typically confined to 
+Phase A. However, during the System Requirements Review/Mission 
+Definition Review and at the subsequent KDP B gate review concerns 
+were raised that further growth was probable. This was a concern for 
+NASA because of the guidance from the National Academies received 
+directing NASA to keep Clipper cost in check due to the importance of 
+program balance across all of planetary sciences. 
+ 
+This is why in 2017 NASA implemented a process to monitor resource 
+usage for each Europa Clipper instrument. As part of the process, cost 
+triggers were defined for each instrument with the understanding that 
+exceeding the trigger would escalate the situation from the PI to the 
+project and eventually to NASA Headquarters until a resolution was 
+found.
+ 
+In part, due to the implementation of these processes, payload resource 
+growth soon came under control, a success I credit to the hard work of 
+the PIs and mission teams. However, in March 2018, the ICEMAG 
+investigation began to steadily approach its cost trigger, and three 
+months later exceeded it. During this time and into early 2019, the 
+ICEMAG team worked hard to address the cost growth and solve technical 
+challenges, primarily related to the scalar vector helium sensors and 
+their accommodation. The cost trigger was repeatedly increased to 
+compensate for spacecraft accommodation. But cost growth continued to 
+outpace increases to the cost trigger. At a briefing on February 14, 
+2019, the Principal Investigator presented a full status of the 
+investigation to NASA Headquarters. This briefing included a current 
+cost estimate from the ICEMAG PI of $45.6M for Phases A-D. This latest 
+cost estimate is $8.3M above the cost trigger set in January 2019 and 
+$16M above the original cost trigger set in February 2017. Altogether 
+this represents a cost approximately three times the cost estimate 
+presented in the original ICEMAG proposal.
+ 
+The level of cost growth on ICEMAG is not acceptable, and NASA 
+considers the investigation to possess significant potential for 
+additional cost growth. As a result, I decided to terminate the ICEMAG 
+investigation.
+ 
+The PI and Europa Clipper Project Scientist diligently and thoroughly 
+explained to me the role ICEMAG plays in achieving the Europa Clipper 
+science objectives. It is clear to me that a magnetometer investigation 
+brings significant value to Europa science and exploration. I am 
+committed to finding a way to include a simpler, less complex 
+magnetometer on the mission as a facility instrument, recognizing the 
+importance of ease of integration onto the spacecraft provided boom. 
+Furthermore, all ICEMAG Co-Investigators will be invited to remain on 
+the Europa Clipper science team to support the mission. I have directed 
+Dr. Lori Glaze, the director for the Planetary Science Division, to 
+present plans within the next two weeks to achieve this goal.
+ 
+Finally, NASA remains fully committed to Europa Clipper as an 
+investigation to explore Europa with particular focus on its 
+habitability. We consider it a critical part of the mission portfolio 
+of NASA Science, and am looking forward to see this development mature 
+towards flight.
+ 
+Regards,
+ 
+Thomas H. Zurbuchen
+Associate Administrator, Science Mission Directorate
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

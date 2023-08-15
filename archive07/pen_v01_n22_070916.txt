@@ -1,0 +1,366 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 22 (September 16, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  [NASA] SARA Service Problem
+2.  [NASA] Small Explorers (SMEX) and Missions of Opportunity
+3.  [NASA] Cancellation of Living With a Star Space Environment 
+    Testbeds Program
+4.  [NASA] PDS Announces Second MRO Data Release (September 10, 2007)
+5.  Dawn Mission Requests Observations of Spacecraft
+6.  Japan Launches its First Lunar Orbiter
+7.  MARS Journal Open for Submissions
+8.  New Mars Community Conference Reports
+9.  Planet Definition 2 Conference and Book Being Organized, 
+    May 8-10, 2008
+10. IAU Symposium 251: Organic Matter in Space, Hong Kong,
+    China, February 18-22, 2008
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SARA SERVICE PROBLEM
+
+NASA's Science Mission Directorate (SMD) Research and Analysis (R&A) 
+website at:
+
+http://science.hq.nasa.gov/research/sara.html
+
+the SARA website, solicits comments through a "contact SARA" link on 
+each webpage.  The "contact SARA" link page was not working properly 
+during the first week of website operations. All messages sent to  
+NASA through the "contact SARA" link prior to September 12, 2007,  
+were lost and cannot be recovered. The problem with the "contact SARA"
+link page has now been corrected. If you sent messages through  the
+"contact SARA" link during this period, please send them again.  We
+apologize for the inconvenience.
+
+Additional updates in content have been made to the SARA website
+since it was first released, and a new letter from SARA will be
+uploaded on September 14, 2007. In order to receive future notices 
+concerning SMD's R&A program, please subscribe to the update notice  
+list through the "contact SARA" page. This NSPIRES mailing list will
+not be used to distribute R&A updates in the future.
+
+For questions or further information about the NASA SMD R&A program
+or the SARA website, please contact Dr. Yvonne Pendleton, Senior
+Advisor for Research and Analysis (SARA), Science Mission
+Directorate, Washington, DC, 20546:
+
+Email sara@nasa.gov.
+
+[Editor Note: The new SARA letter can be accessed at
+http://science.hq.nasa.gov/research/sara_letters.html]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SMALL EXPLORERS (SMEX) AND MISSIONS OF OPPORTUNITY
+
+Released:  September 28, 2007
+Notice of Intent:  November 16, 2007
+Proposals Due:  January 15, 2008
+
+The National Aeronautics and Space Administration (NASA) Science 
+Mission Directorate (SMD) is releasing a NASA Announcement of 
+Opportunity (NNH07ZDA003O), for the Explorer Program: Small Explorers 
+(SMEX) and Missions of Opportunity.  NASA expects to select up to three 
+SMEX missions to proceed into Phase B and subsequent mission phases.  
+NASA desires to launch the first SMEX mission by late 2011 or 2012; the 
+launch-by date for all SMEX missions is April 30, 2014.  One or more 
+Missions of Opportunity, including participation in non-SMD space 
+missions, small complete missions and new science missions using 
+existing spacecraft, may also be selected.  The science objectives 
+covered by the AO include those of the SMD heliophysics research 
+program and the astrophysics research program.  Refer to the SMD World 
+Wide Web homepage at:
+
+http://science.hq.nasa.gov/
+
+for further information about these programs.
+
+[Editor Note: For the remainder of this announcement, go to
+http://nspires.nasaprs.com/. For information about a preproposal
+conference go to http://explorers.larc.nasa.gov/smexacq.html. For
+other program information email Hashima Hasan at smexao@nasa.gov.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] CANCELLATION OF LIVING WITH A STAR SPACE ENVIRONMENT TESTBEDS 
+PROGRAM
+
+This amendment cancels the program element in Appendix B.6 entitled 
+"Living With a Star Space Environment Testbeds." The Living With a 
+Star (LWS) program has recently announced that NASA will be providing 
+contributions to ESA's Solar Orbiter mission.  A Focused Opportunity 
+for the Solar Orbiter mission will be a part of the SMEX AO. See: 
+
+http://explorers.larc.nasa.gov/smexacq.html
+
+At this time, the LWS program can not support new SET investigations 
+in addition to the Solar Orbiter focused opportunity.  The LWS 
+program is proceeding with the SET-1 mission and all previously 
+selected SET investigations. However no further SET investigations 
+will be solicited at this time.
+
+[Editor Note: For the remainder of this notice, go to
+http://nspires.nasaprs.com/ (select "Solicitations" then 
+"Open Solicitations" then "NNH07ZDA001N").]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS ANNOUNCES SECOND MRO DATA RELEASE (SEPTEMBER 10, 2007)
+
+The Planetary Data System announces the second release of data
+from the Mars Reconnaissance Orbiter (MRO) mission. This release
+includes data acquired during months 2 and 3 of the Primary 
+Science Phase, December 8, 2006 - February 7, 2007.  
+
+Data sets from the following experiments are included in this 
+release: CRISM (Compact Reconnaissance Imaging Spectrometer for
+Mars), HiRISE (High Resolution Imaging Science Experiment),
+Gravity/Radio Science, MCS (Mars Climate Sounder), CTX
+(Context Imager), and MARCI (Mars Color Imager).  SPICE
+kernels for all instruments are also available.  New data from 
+the Accelerometer and SHARAD (Shallow Radar) will also be 
+released shortly.
+
+MRO data are archived at the PDS Geosciences, Imaging, Atmospheres,
+and NAIF Nodes, and can be accessed from these nodes' web sites and
+from the main PDS home page:
+
+http://pds.nasa.gov.
+
+Interested users may sign up to receive email announcements of
+MRO releases using the Subscription Manager on the PDS home page.
+
+The next release will be on December 8, 2007. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DAWN MISSION REQUESTS OBSERVATIONS OF SPACECRAFT
+
+NASA is preparing to launch Dawn between September 26 and October 15 
+on an ambitious mission to orbit both 4 Vesta and 1 Ceres, the two 
+most massive asteroids.
+
+The Dawn project invites all readers with telescope time during the 
+first week or two after launch to try to image the spacecraft.  Other 
+spacecraft have been seen at ranges of several million kilometers.
+
+See an example at:
+
+http://www.jpl.nasa.gov/releases/98/ds1palomar.html.
+
+The project believes such views can be quite inspiring to the public.
+
+If Dawn launches at its first opportunity, it should be near 
+RA = 6h 20m and dec = 28.5 deg within a day of launch. Launches at 
+later times or on subsequent days may shift this a few degrees. 
+Up-to-date coordinates will be available in JPL's HORIZONS system.  
+Go to:
+
+http://ssd.jpl.nasa.gov/horizons.cgi
+
+and change the target body to "Dawn".
+
+UCLA Professor Christopher T. Russell is the PI for this ninth mission
+in NASA's Discovery Program.  Instruments were contributed by DLR/MPS
+and ASI/INAF and delivered by LANL.  JPL manages the project, and 
+Orbital Sciences Corporation built the spacecraft.  More information 
+is available at:
+
+http://dawn.jpl.nasa.gov.
+
+Please contact ctrussel@igpp.ucla.edu if you have any questions or if 
+you obtain some images of Dawn's early light.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JAPAN LAUNCHES ITS FIRST LUNAR ORBITER
+
+The launch of the Japanese lunar orbiter Kaguya (also known as SELENE)
+on 13th September marks the latest advance in the international 
+exploration of the moon.
+
+For more information see:
+
+http://www.jaxa.jp/index_e.html
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS JOURNAL OPEN FOR SUBMISSIONS
+
+The MARS Journal, a new online peer reviewed open access journal, is 
+now open for submission of manuscripts. The MARS Journal will publish
+scholarly papers in three general categories:
+
+Mars Science: Observations, data, theory, models, and reviews of
+scientific literature
+Mars Technology: Instruments, spacecraft, missions, tools and 
+techniques,and software
+Mars Policy: Exploration strategy, economics, planetary protection,
+history, and commentary
+Be among the first to publish (for free) in The MARS Journal:
+
+http://marsjournal.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NEW MARS COMMUNITY CONFERENCE REPORTS
+
+During the summer, two major Mars meetings were held, each of which 
+generated short reports. These reports have now been posted on the 
+MEPAG web sites below, where they can now be referenced. Both of these 
+reports are of relevance to our forward planning processes.
+
+2007 Colloquium on Astrobiology and Mars Exploration, Pasadena,
+July 8, 2007. See:
+
+http://mepag.jpl.nasa.gov/workshop/Mars_Colloquium_07-08-07.pdf
+
+7th International Mars Conference, Caltech, July 9-13, 2007. See:
+
+http://mepag.jpl.nasa.gov/workshop/7thMars_Discussion_Notes_D39753.doc
+
+Debbie Calderon
+MEPAG Communications
+Email: debbie.calderon@jpl.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANET DEFINITION 2 CONFERENCE AND BOOK BEING ORGANIZED, MAY 8-10, 2008
+
+Last year, the International Astronomical Union issued a definition for
+the term 'planet' that remains controversial, as does the process by
+which it was adopted. Some planetary scientists embrace the IAU 
+definition, while many reject it. Educators are confused about what to
+teach.
+
+A conference is being planned to provide the first open forum to
+discuss the underpinnings of the IAU perspective and alternative views.
+This will be a great opportunity to discuss science as a process and 
+what we have learned about planets in over 40 years of solar system 
+exploration and a decade of exoplanet discovery. An accompanying book
+is planned.
+
+Science Meeting: May 8-9, 2008
+Educator Workshop: May 10, 2008
+Location: Applied Physics Lab, Johns Hopkins University, Maryland
+
+Program Chair: Mark Sykes, Planetary Science Institute
+Local Organizers: Hal Weaver, Louise Proctor, Applied Physics Lab
+
+Likely topics:
+The IAU Planet Definition
+Historical Views of Planets
+Ceres
+Predicting Outer Planets
+The Sociology and Science of Pluto and Charon
+Jovian Planets
+Earth - The Ultimate Planet
+Other Terrestrial Planets
+Life
+Extrasolar Planets
+A Geophysical Definition for Planet Planetary Nomenclature
+
+Please indicate your interest in attending by emailing sykes@psi.edu.
+Input on topics is welcome. A website is under development. Thank you.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+IAU SYMPOSIUM 251: ORGANIC MATTER IN SPACE, HONG KONG, CHINA, 
+FEBRUARY 18-22, 2008
+
+Recent infrared spectroscopic observations have found evidence of 
+complex carbonaceous compounds with aromatic and aliphatic structures 
+in circumstellar and interstellar media. Laboratory isotopic analysis 
+of meteorites and interplanetary dust collected in the upper 
+atmosphere have revealed the presence of pre-solar grains similar to 
+those formed in evolved stars. These solar system dust particles also 
+contain complex organics, at least some of which show isotopic 
+evidence that they have an interstellar heritage. Spectroscopic 
+studies of comets and asteroids also show spectral signatures of
+organics. The direct link between star dust and the solar system 
+therefore suggests that the early solar system was chemically 
+enriched by both stellar ejecta and the products of interstellar 
+processing.
+
+In this symposium, to be held at the University of Hong Kong, 
+Hong Kong, China, we intend to bring together observational 
+astronomers, laboratory spectroscopists, and solar system scientists 
+to share their expertise in order to come up with new ideas for the 
+solution to the many unsolved mysteries associated with the origin, 
+evolution, and distribution of organic matter in space.
+
+Sun Kwok and Scott Sandford.
+
+The Second Announcement can be found at
+
+http://www.hku.hk/science/iau251
+
+Contact email: iau251@hku.hk
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 7-10, 2007
+Pacific International Space Center for Exploration Systems (PISCES) 
+2007 Conference
+http://pisces07.com/
+Hilo, HI
+
+November 13-14, 2007
+American Astronautical Society National Conference and 54th Annual 
+Meeting
+http://astronautical.org/nationalconf_07/register_national07.php
+League City, TX
+
+March 3-8, 2008
+38th Saas-Fee Advanced Course: Millimeter Astronomy
+http://obswww.unige.ch/saas-fee2008
+Les Diablerets, Switzerland
+
+August 17-September 7, 2008
+Characteristics and Habitability of Super Earths
+http://aspenphys.org/documents/program/summer08.html
+Aspen, CO
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

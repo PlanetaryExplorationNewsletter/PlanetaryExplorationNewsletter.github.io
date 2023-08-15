@@ -1,0 +1,385 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 37 (September 3, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Assistant Professor of Astronomy, Cornell University
+2. PDS: JUNO Data Release 2
+3. PDS: Mars Atmosphere and Volatile Evolution Data Release 10
+4. PDS: Mars Reconnaissance Orbiter Data Release 42
+5. [NASA] ROSES-17: Hurricane Harvey Causes Delay of ROSES Due Dates
+6. Two Postdoctoral Positions in Mars Science
+7. Science of Primitive Asteroid Sample Return Missions
+8. Six Postdoc Positions in Origins of Life Research
+9. [NASA] Outer Planets Assessment Group Meeting
+10. Planetary Geomorphology 'Image of the Month' 
+11. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. HE Space Rockets to 200 Employees
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ASSISTANT PROFESSOR OF ASTRONOMY, CORNELL UNIVERSITY
+
+ 
+The Cornell University Astronomy Department invites applications for a 
+tenure-track assistant professor appointment to begin July 1, 2018. We 
+will consider applications from observers, experimentalists and 
+theorists working in any area of extrasolar and solar system planetary
+science.
+ 
+Applicants should upload their applications, including a CV, list of 
+publications, statement of research interests, and statement on 
+teaching plans and philosophy to:
+ 
+https://academicjobsonline.org/ajo/jobs/9548
+
+Applicants should also arrange to have three letters of recommendation 
+submitted to Academic Jobs Online.
+ 
+Inquiries may be sent to Jill Tarbell (jtm14@cornell.edu), assistant 
+to the Chair of the Department.
+ 
+Applications are due by November 1, 2017.
+ 
+Cornell University is an Equal Opportunity/Affirmative Action Employer 
+and Educator. The Department of Astronomy, and the College of Art & 
+Sciences at Cornell embrace diversity and seek candidates who will 
+create a climate that attracts students of all races, nationalities and
+genders. We strongly encourage women and underrepresented minorities 
+to apply.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PDS: JUNO DATA RELEASE 2
+
+The Planetary Data System announces the second release of data from 
+the JUNO mission. The release includes EDR and RDR level data acquired 
+between 2016-10-20 and 2017-02-03, which covers Juno Orbits 3 and 4.
+
+Data sets from the following experiments are now available:
+
+FGM (magnetometer)
+Gravity
+JADE (plasma)
+JEDI (energetic particle detector)
+JIRAM (infrared auroral mapper)
+JunoCam (camera)
+MWR (microwave radiometer)
+SPICE
+UVS (ultraviolet imaging spectrometer)
+Waves (radio and plasma wave science)
+
+This announcement is the final one that will be sent to all PDS users.
+To receive future announcements of JUNO releases, please subscribe at:
+
+https://pds.nasa.gov/tools/subscription_service/top.cfm
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170828.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 10
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 10:
+
+ACCEL (accelerometer)
+ANC (ancillary)
+EUV (Extreme Ultraviolet Monitor)
+IUVS (Imaging Ultraviolet Spectrograph)
+KP (key parameters)
+LPW (Langmuir Probe and Waves)
+MAG (Magnetometer)
+NGIMS (Neutral Gas and Ion Mass Spectrometer)
+SEP (Solar Energetic Particle)
+SPICE
+STATIC (Supra-Thermal and Thermal Ion Composition Instrument)
+SWEA (Solar Wind Electron Analyzer)
+SWIA (Solar Wind Ion Analyzer)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170815.shtml
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 42
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+MARCI
+MCS
+RSS
+SHARAD
+SPICE
+
+There is no derived gravity data in this release. Previous releases of 
+HiRISE data cover this period, and HiRISE's next three months of data 
+are not all available yet.
+
+In general, MRO Release 42 includes data collected from November 9, 
+2016, to February 8, 2017.
+
+To access the above data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170901.shtml
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-17: HURRICANE HARVEY CAUSES DELAY OF ROSES DUE DATES
+
+To give more time to proposers who are without power because of 
+Hurricane Harvey, the following due dates for ROSES program elements 
+have been delayed [planetary programs listed below]:
+
+C.15 Planetary Protection Research has been delayed to September 21, 
+2017.
+
+For both C.11 Discovery Data Analysis and C.20 Rosetta Data Analysis 
+Program the Step-1 proposal due date is now September 21, 2017 and 
+the Step-2 proposal due date is November 21, 2017.
+
+Questions concerning these program elements may be directed to the 
+point of contacts listed in the summary table of key information and 
+at: 
+
+https://science.nasa.gov/researchers/sara/program-officers-list
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TWO POSTDOCTORAL POSITIONS IN MARS SCIENCE
+
+The Department of Planetology and Habitability at the Centro de 
+Astrobiologia (CAB) invites applications for two postdoctoral positions 
+to support investigations on the nature of the early Mars environments. 
+The successful candidate will work with Dr. Alberto Fairen in the 
+ERC-funded Project "icyMARS".
+
+Applicants should have a recent Ph.D. in the field of Planetary 
+Science or related discipline, and background in sedimentology of 
+ice-covered lakes, or in biology of psychrophilic microorganisms.
+
+The positions, placed in Madrid, would be for one year, with possible 
+extension to a second year contingent upon funding availability and 
+satisfactory performance. Benefits include working in a young 
+enthusiastic team at one of the leading Planetary Sciences institutions 
+in Europe, full social benefits according to the Spanish social care 
+system, and a very competitive salary.
+
+Applicants should send a letter of interest, a curriculum with a list 
+of publications, a brief (maximum two pages) statement of research 
+interests, and a list of three references, no later than September 10, 
+2017, to Alberto Fairen (agfairen@cab.inta-csic.es).
+
+The starting date is negotiable, but should be no later than Jan 1, 
+2018. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SCIENCE OF PRIMITIVE ASTEROID SAMPLE RETURN MISSIONS
+
+We invite you to our Royal Astronomical Society Specialist Discussion 
+meeting entitled 'Science of Primitive Asteroid Sample Return Missions' 
+on Friday, October 13th. The meeting will be held in the Royal 
+Astronomical Society Lecture Theatre at Burlington House. Tea and 
+coffee will be served at 10 am and the meeting will begin at 10:30 am.
+
+Confirmed speakers include Harold Connolly Jr., Shogo Tachibana, 
+Queenie Chan, Richard Greenwood, Jamie Gilmour, Alex Halliday and 
+Pierre Beck.
+
+Further information can be found at: 
+
+https://www.ras.org.uk/component/gem/?id=481  
+
+Questions regarding the meeting including the displaying of posters can 
+be emailed to Kerri.DonaldsonHanna@physics.ox.ac.uk
+
+Warm regards,
+
+Kerri Donaldson Hanna, Neil Bowles, Ian Franchi, Ashley King, 
+Ben Rozitis and Sara Russell
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SIX POSTDOC POSITIONS IN ORIGINS OF LIFE RESEARCH
+
+The Origins Center is a recent, multidisciplinary and multi-institute, 
+Netherlands Organisation for Scientific Research NWO funded initiative 
+of a large number of top tier scientists in the Netherlands. Over 17 
+Dutch universities and research institutes participate in the Center 
+that is coordinated by the University of Groningen, the Netherlands.
+
+Within the Center we are now recruiting postdoctoral research fellows 
+for five three-year pathfinder projects that together should lay the 
+groundwork for a future, far larger research programme which aims at 
+game-changing understanding of the origin of life and of life-bearing 
+planets, predicting evolution, building and steering life from molecule 
+to biosphere, finding extra-terrestrial life and of the mathematical 
+concepts needed for bridging large spatial, temporal and organisatorial 
+scale differences:
+
+http://www.origins-center.nl/vacancies
+
+Fellowships are available within each of the following five projects:
+
+Developing, testing and operating the Origins Simulator
+Identifying factors enabling predictability of evolution
+Building and directing life
+Modelling planet earth as an exoplanet
+Mathematically understanding downward causation
+
+Candidates should have a strong background in astronomy, biophysics, 
+chemistry, microbiology, ecology, evolutionary biology, mathematics, 
+computational science, molecular biosciences or planetary and 
+geosciences, and be able to perform innovative and multidisciplinary 
+research. 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] OUTER PLANETS ASSESSMENT GROUP MEETING
+
+The next OPAG meeting is scheduled for Wednesday, Sept. 6, and 
+Thursday, Sept. 7. The meeting will support remote attendance via 
+webex. The login information is below.
+ 
+Meeting link: 
+https://nasa.webex.com/nasa/j.php?MTID
+=m06f9fc6d92cb1b1bc61f668d94a5ecb3
+
+Meeting number: 398 419 323
+
+Meeting password: W@lc0m31
+
+Toll Free Number: 1-312-470-7337
+
+Freephone/Toll Numbers: 1-888-994-8792
+
+Participant Passcode: 5637426
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The September image of the month is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Pit chains on Enceladus", contributed by 
+Dr. Emily S. Martin, Center for Earth and Planetary Studies, 
+Smithsonian Institution, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or Twitter 
+@PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 20-24, 2017
+Numerical Simulations of Planet-Disc Interactions
+https://www.fis.unam.mx/~masset/workshop/numpdi.html
+Cuernavaca, Mexico
+
+January 25-28, 2018
+22nd International Microlensing Conference 
+https://www.physics.auckland.ac.nz/en/about
+/international-microlensing-conference.html
+Auckland, New Zealand
+ 
+May 14-15, 2018
+2018 European Lunar Symposium
+https://els2018.arc.nasa.gov
+Toulouse, France
+
+April 15-Jun 28, 2019
+Better Stars, Better Planets: Exploiting the Stellar-Exoplanetary 
+Synergy
+https://www.kitp.ucsb.edu/activities/exostar19
+Santa Barbara, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+HE SPACE ROCKETS TO 200 EMPLOYEES
+
+Europe's leading specialist in personnel services for space will
+shortly be welcoming its 200th employee, who will work as a planetary
+scientist on ESA's BepiColombo project.
+
+This exciting new position is another example of the wide-ranging
+support and capabilities that HE Space is able to offer to the European
+space sector. HE Space recently won a five year extension of the frame
+contract it has with ESA for the supply of manpower services. This was
+achieved by out-performing all its rivals in open competition.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

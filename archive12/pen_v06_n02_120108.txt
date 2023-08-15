@@ -1,0 +1,452 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 2 (January 8, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Small Bodies Assessment Group Meeting #6
+2. Tenure-track Position in Planetary Physics
+3. Planetary Geomorphology Image of the Month
+4. Call for Abstracts, EGU Session: Aurora and Airglow in Planetary 
+   Atmospheres
+5. Call for Abstracts, EGU Session: Polarimetry as an Invaluable Tool 
+   to Study the Solar System and Beyond
+6. GSA 2012 Annual Meeting Session Proposals Due January 10
+7. January MEPAG Newsletter Available
+8. [NASA] Postdoctoral Fellowships
+9. Last Call for Abstracts: Planetary Geomorphology at EGU 2012, Vienna
+10. [NASA] PDS Cassini Data Release 28
+11. [NASA] PDS Odyssey Data Release 38
+12. Undergraduate, Graduate, and Postdoctoral Fellowships in 
+    Exploration
+13. Postdoctoral Position Available - Washington University
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SMALL BODIES ASSESSMENT GROUP MEETING #6
+
+SBAG 6 will be held in Washington DC, January 17-18, at the Mandarin
+Oriental Hotel. Go to:
+
+http://www.cvent.com/events/6th-meeting-of-the-nasa-small-bodies
+-assessment-group/event-summary-a1d124ba1df848b2b529793fbd60798b.aspx
+
+for directions, reservations, and registration (upper right of page).
+
+Agenda items include:
+
+The latest from the Dawn mission
+OSIRIX-Rex
+Finding small bodies data in the PDS
+Prioritizing funding for technology development
+Driving requirements for balloon-based facilities
+Identifying strategic knowledge gaps for human exploration
+Recent and ongoing human asteroid mission simulations
+
+For more information about SBAG, go to:
+
+http://www.lpi.usra.edu/sbag/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+TENURE-TRACK POSITION IN PLANETARY PHYSICS
+
+The Department of Physical and Environmental Sciences (DPES) at the 
+University of Toronto Scarborough invites applications for a full-time, 
+tenure-stream Assistant Professor position in Theoretical and 
+Computational Planetary Physics. Applications will be accepted until 
+February 15, 2012. For more details on the position, please go to:
+
+http://www.utsc.utoronto.ca/~physsci/docs/planetarysearch.pdf
+
+Applications can be submitted online at the following site with 
+Requisition ID 1101091 at:
+
+https://utoronto.taleo.net/careersection/10050/moresearch.ftl?lang=en
+
+or all documents can be emailed to: 
+
+dyer@astro.utoronto.ca.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The January 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Jan12Image.html
+
+This month's topic is on "Weathering Profiles on Earth and Mars". 
+Images and caption contributed by Anne Gaudin, University Nantes, 
+CNRS, Laboratoire LPGN, France.
+
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR ABSTRACTS, EGU SESSION: AURORA AND AIRGLOW IN PLANETARY 
+ATMOSPHERES
+
+Dear Colleagues,
+
+We kindly invite you to the EGU session PS5.2/AS4.19/ST6.3 "Aurora and 
+Airglow in Planetary Atmospheres", which will be held in Vienna, 
+Austria, 22-27 April 2012.
+
+Emission processes are phenomena of critical importance for the 
+understanding of the physico-chemistry, the dynamics, the evolution, 
+and the thermal equilibrium of planetary upper atmospheres and 
+mesospheres. Depending on the nature of the emissions several 
+mechanisms may be invoked, including particle precipitation (electrons, 
+protons, cosmic rays, etc.), photoexcitation, chemical processes and 
+transport of atoms. 
+
+This session focuses on the comparison between numerical models, 
+theory and observations of various types of airglow and aurorae.  
+We invite presentations on the atmospheres of Mars, Venus, Titan, 
+Jupiter, Saturn, Mercury, comets and Earth.  Recent results from 
+planetary missions such as Mars Express, Venus Express and Cassini 
+(not an exhaustive list) are welcome. Laboratory and joint developments 
+between theoreticians and experimentalists will also be addressed, as 
+a critical step towards a better understanding of airglow/aurorae 
+phenomena at Earth and the other planets.
+
+Abstract submission deadline: 17 January 2012
+
+http://meetingorganizer.copernicus.org/EGU2012/session/9344
+
+The Conveners,
+C.L. Simon Wedlund 
+G. Gronoff 
+T. Slanger 
+Y. Yair 
+M. Barthelemy
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CALL FOR ABSTRACTS, EGU SESSION: POLARIMETRY AS AN INVALUABLE TOOL 
+TO STUDY THE SOLAR SYSTEM AND BEYOND
+
+Dear colleagues,
+
+We invite you to submit an abstract to the EGU 2012 session 
+"PS1.2/AS4.21/ST6.1 Polarimetry as an Invaluable Tool to Study the 
+Solar System and Beyond", to be held in Vienna, Austria, 17-22 April 
+2012. Deadline for abstract submission is January, 17th.
+
+Polarimetry is a powerful tool providing a wealth of information about 
+objects from the Earth atmosphere to the far universe that cannot be 
+obtained by traditional photometric/spectroscopic observations. 
+
+In the solar system polarimetry has been widely used, e.g., to 
+characterize the surface of atmosphereless bodies, dust and aerosols 
+in planetary atmospheres, or to explore the magnetism of the solar 
+atmosphere. 
+
+This session is open to papers about recent polarimetric observations 
+of solar system bodies including the Earth and the Sun, theoretical 
+or experimental investigations and instrumental developments for 
+polarimeters to be included in ground-based facilities or onboard 
+future space missions. Contributions about detection and/or 
+characterization of exoplanets with polarimetry are also welcome. 
+
+http://meetingorganizer.copernicus.org/EGU2012/session/10059
+
+The Conveners,
+M. Barthelemy
+H. Lamy 
+C.L. Simon Wedlund 
+F. Snik 
+S. Bagnulo
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GSA 2012 ANNUAL MEETING SESSION PROPOSALS DUE JANUARY 10
+
+The next Geological Society of America Annual Meeting will be held in
+Charlotte, North Carolina 4-7 November 2012.  In order to make this
+another great gathering for planetary scientists, we encourage you to
+consider submitting a technical session proposal for the meeting. If
+there is a particular topic that you would like to see included in
+the annual meeting program, and that you think would appeal to your
+colleagues, please propose a session!  Here is the website:
+
+http://gsa.confex.com/gsa/2012AM/TopicalRequirements.epl
+
+The deadline for proposing a technical session is next Tuesday,
+January 10 (same day as LPSC abstracts).  To ensure that session
+proposals for PGD don't get overlooked in the rush to get those
+abstracts submitted, please consider submitting a session proposal
+sooner rather than later!  Thank you. We look forward to receiving
+your session proposals and seeing you in Charlotte next November!
+
+Sincerely,
+
+Simon Kattenhorn
+University of Idaho
+2011-2012 Chair, GSA-PGD
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JANUARY MEPAG NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the January 
+2012 edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+P.S. Please note the announcements for the upcoming MEPAG meeting and 
+the Future Landing Site Workshop that are being held in February in the 
+Washington, DC, area.
+
+[Edited for content.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+space operations, exploration systems, lunar science, or astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply. An 
+H-1B Visa status is not acceptable because the NPP is not an employment 
+program.
+
+Stipends for Postdoctoral Fellows start at $50,000 per year, with 
+moderate supplements for high cost-of-living areas and for certain 
+academic specialties. Funds are available for relocation expenses, 
+up to a specified limit, and health insurance is available through the 
+program. Fellows also receive $8,000 per appointment year to support 
+travel to conferences, meetings, and other activities that directly 
+support their research.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+LAST CALL FOR ABSTRACTS: PLANETARY GEOMORPHOLOGY AT EGU 2012, VIENNA
+
+Firstly, Happy New Year! Secondly, the deadline is approaching to 
+submit your abstracts for the Planetary Geomorphology session of the 
+European Geosciences Union General Assembly 2012 (GM10.1) in Vienna, 
+Austria on the 22-27th April. The abstract deadline is the 
+17th January.
+
+Abstracts are welcomed that describe new advances in the study of 
+planetary landscapes and processes, including all solid-surface 
+planetary bodies. Terrestrial studies (either in the field or 
+laboratory) aimed at understanding other planetary bodies are also 
+encouraged. Our invited speakers include Dr. Ernst Hauber (DLR) and 
+Prof. James Head (Brown University), who will be presenting their 
+Earth analogue work.
+
+Please note there is an Abstract Processing Charge of 40 Euros per 
+abstract.
+
+For more details on the session:
+
+http://meetingorganizer.copernicus.org/EGU2012/session/9758
+
+Abstract submission:
+
+http://meetings.copernicus.org/egu2012/abstract_management
+/how_to_submit_an_abstract.html
+
+Best wishes,
+Susan Conway, Matt Balme and Colman Gallagher (Conveners)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS CASSINI DATA RELEASE 28
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 28, January to March 2011, for instruments:
+
+ISS
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+Data for the instruments CAPS, CDA, CIRS, HRD, INMS, MAG, and MIMI
+will be available soon.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20120103.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS ODYSSEY DATA RELEASE 38
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 38, for the following instruments:   
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 112-114) 
+SPICE
+
+The gamma sensor component of the GRS instrument suite will no longer 
+return data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20120105.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+UNDERGRADUATE, GRADUATE, AND POSTDOCTORAL FELLOWSHIPS IN EXPLORATION
+
+Invitations are now being accepted for Undergraduate Student, Graduate 
+Student (MSc and PhD) and Postdoctoral Fellowships in Exploration. 
+These positions are funded through a 6-year NSERC CREATE 
+(Collaborative Research and Training Experience Program) project 
+entitled "Technologies and Techniques for Earth and Space Exploration", 
+led by the Centre for Planetary Science and Exploration (CPSX) at The 
+University of Western Ontario, Canada. Collaborating institutions are 
+the University of British Columbia, Memorial University of 
+Newfoundland, Queen's University, University of Toronto, and York 
+University. Positions may be tenable at any of these 6 universities. 
+Major partners include the Canadian Space Agency, the NASA Lunar 
+Science Institute, and several Canadian space and terrestrial 
+exploration companies. 
+
+A full description of the application process is found at: 
+
+http://create.uwo.ca
+
+Applications are due by January 20, 2012 via email to cpsx@uwo.ca. We 
+expect to award at least four Postdoctoral Fellowships and 12 Graduate 
+Fellowships in the first year. Decisions will be announced in February 
+2012.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOCTORAL POSITION AVAILABLE - WASHINGTON UNIVERSITY
+
+The Department of Earth and Planetary Sciences at Washington University 
+in Saint Louis invites applications for their new Steve Fossett 
+Postdoctoral Fellowship. The Department seeks outstanding candidates 
+who will strengthen and complement existing areas of study, including 
+both terrestrial and planetary geology, geochemistry, and geophysics. 
+Candidates will be encouraged to collaborate directly with faculty and 
+students within the Department, and will be invited to lead a seminar 
+in their area of expertise. Ideal candidates will have 
+trans-disciplinary interests, and will interact scientifically with a 
+broad spectrum of the Department's members.  This competitive postdoc 
+is awarded for a one-year period, which may be extended to a second 
+year. Applicants should contact a potential Faculty sponsor to discuss 
+additional arrangements.  Applications will be considered until the 
+position is filled, but priority will be given to those received 
+before January 15, 2012.  For further information, go to: 
+
+http://eps.wustl.edu/Fossett_Fellowship
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 24-29, 2012
+Earth in Evolution
+http://www.vmgoldschmidt.org/2012/index.htm
+Montreal, Canada
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************
+

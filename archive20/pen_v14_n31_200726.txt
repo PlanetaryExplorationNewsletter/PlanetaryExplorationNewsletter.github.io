@@ -1,0 +1,583 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 31 (July 26, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memorium: Michel Mishchenko (1959-2020)
+2. New Free Resource Guide on "Black Lives in Astronomy"
+3. Arecibo Observatory Town Hall
+4. [NASA] ROSES-20: Payloads and Research Investigations on the Surface
+   of the Moon (PRISM)
+5. [NASA] PDS: Lunar Reconnaissance Orbiter New Diviner PCP Product
+6. [NASA] PDS: JUNO Data Release 12
+7. [NASA] PDS: OSIRIS-REx Bennu Release 5b
+8. 2019 Venera-D Workshop Report Released/2020 Venera-D Workshop Update
+9. Universe is Soliciting White Papers Expanded Into Review Papers
+10. AGU Session EP016: Extraterrestrial Surface Processes Under Alien
+    Boundary Conditions
+11. AGU Session P019: In Situ Science and Instrumentation for the
+    Exploration of Europa and Ocean Worlds
+12. AGU Session P023: Mercury - From MESSENGER to BepiColombo
+13. AGU Session P029: Planetary Atmospheres and Evolution
+14. AGU Session P039: Surface Processes on Active Icy Worlds
+15. AGU Session P044: The Stratospheric Observatory for Infrared
+    Astronomy
+16. Present Planetary Research at GSA 2020 Online
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIUM: MICHAEL MISHCHENKO (1959-2020)
+
+It is with great sadness that we announce the passing of our colleague
+Michael I. Mishchenko. Dr. Michael Mishchenko was a graduate of the
+Moscow Institute of Physics and Technology and received his PhD (with
+honors) and Habilitation Doctoral degrees in physics from the National
+Academy of Sciences of Ukraine (NASU). He worked at the Main
+Astronomical Observatory in Kiev (1987-1992) and then joined the
+research staff of the NASA Goddard Institute for Space Studies in New
+York. Michael's research interests included electromagnetic scattering
+by morphologically complex particles and particle groups, polarimetry,
+aerosol and cloud remote sensing, and ocean optics.
+
+For full obituary, see:
+
+http://planetarynews.org/memoriam/michael_mishchenko.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NEW FREE RESOURCE GUIDE ON "BLACK LIVES IN ASTRONOMY"
+
+"Black Lives in Astronomy," a new 8-page resource guide by
+astronomer/educator Andrew Fraknoi, includes written and video
+resources about and by 25 black astronomers, as well as general
+materials to examine the history and issues facing black members of the
+astronomical community. Both older, established scientists and people
+early in their careers are covered. It is aimed at the Astro 101 and
+amateur astronomer level, and thus does not include any technical
+materials. It is designed to give instructors and students examples of
+authentic black voices that can be shown in class or used in
+assignments. You can find it free of charge at:
+
+http://bit.ly/blackastro 
+ 
+For a broader examination of the astronomy (and astronomers) of
+non-white cultures, see Fraknoi's "Astronomy of Many Cultures" at the
+website of the Astronomical Society of the Pacific, at: 
+
+http://bit.ly/astrocultures
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ARECIBO OBSERVATORY TOWN HALL
+
+Wednesday, July 29 at 2pm EDT
+
+The Arecibo Observatory will host a Virtual Town Hall on Wednesday,
+July 29, 2020 from 2:00 PM - 3:30 PM EDT/AST. The meeting will open
+with several status updates about the observatory and brief science
+highlights from the Astronomy, Space & Atmospheric Sciences, and
+Planetary Sciences groups, followed by a Q&A session with all of the
+attendees. Visit our AO Town Hall website for more information and to
+submit questions in advance.
+
+http://outreach.naic.edu/ao/blog/annoucing-arecibo-observatory-town-hall
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-20: PAYLOADS AND RESEARCH INVESTIGATIONS ON THE SURFACE OF
+THE MOON (PRISM)
+ 
+The PRISM call will seek investigations that address the science goals
+of 1) any SMD division, e.g., Planetary Science, Earth Science,
+Heliophysics, Astrophysics, Biological and Physical Sciences, formerly
+a Division in the Human Exploration and Operations Mission Directorate
+known as Space Life and Physical Sciences Research and Applications; 2)
+Strategic Knowledge Gaps of the HEOMD; or 3) any technology
+demonstration goals of the Space Technology Mission Directorate (STMD)
+that advance capabilities for science, exploration, or commercial
+development of the Moon. PRISM science investigations must address
+NASA's science objectives as described in 2018 NASA Strategic Plan, the
+relevant division Decadal Surveys, and/or the 2019 NASA Science
+Strategy of the Moon. Also of relevance are those objectives outlined
+in the Planetary Science Decadal (Vision and Voyages for Planetary
+Science in the Decade 2013-2022), the Scientific Context for
+Exploration of the Moon, and the Advancing Science of the Moon Specific
+Action Team.
+
+Full text:
+
+http://www.spaceref.com/news/viewsr.html?pid=53886
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER NEW DIVINER PCP PRODUCT
+
+New Diviner Polar Cumulative Products (PCP) are available.
+Nadir-pointing RDR data from July, 5, 2009 to Feb 17, 2019 has been
+compiled at a resolution of 240 m/pix into polar stereographic maps of
+temperatures poleward of 80 degrees latitude at fixed local times and
+fixed subsolar longitudes to provide an overview of diurnal
+temperatures of the polar regions. The data have been divided into
+winter and summer seasons, defined by the times of year when the
+subsolar latitude is above or below the equator, to characterize the
+variations in seasonal temperatures that result from the 1.54 degree
+angle between the Moon's spin pole and the ecliptic plane. Details can
+be found in Williams, J.-P., B. T. Greenhagen, D. A. Paige, N.
+Schorghofer, E. Sefton-Nash, P. O. Hayne, P. G. Lucey, M. A. Siegler,
+and K.-Michael Aye (2019) Seasonal polar temperatures on the Moon,
+Journal of Geophysical Research, 124, 2505-2521,
+https://doi.org/10.1029/2019JE006028.
+
+Data are available here:
+
+https://pds-geosciences.wustl.edu/missions/lro/diviner.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: JUNO DATA RELEASE 12
+
+The Planetary Data System announces the 12th release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2019-09-13 and 2019-12-26, which covers Juno Orbits 23 and 24.
+
+Data sets from the following experiments are now available:
+
+ FGM (magnetometer)
+*Gravity
+ JADE (plasma)
+ JEDI (energetic particle detector)
+*JIRAM (infrared auroral mapper)
+ JunoCam (camera)
+*MWR (microwave radiometer)
+ SPICE
+*UVS (ultraviolet imaging spectrometer)
+ Waves (radio and plasma wave science)
+
+*includes PDS4 versions of metadata
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200722.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+  
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: OSIRIS-REX BENNU RELEASE 5B
+
+This release of OSIRIS-REx data includes OVIRS raw and calibrated data
+through Nov. 17, 2019.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200723.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/ovirs.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+2019 VENERA-D WORKSHOP REPORT RELEASED/2020 VENERA-D WORKSHOP UPDATE
+
+We are happy to share the 2019 Venera-D Landing Sites Selection and
+Cloud Layer Habitability Workshop Report, downloadable from the VEXAG
+and Venera-D websites:
+
+https://www.lpi.usra.edu/vexag/
+http://venera-d.cosmos.ru/ 
+
+The workshop was held at the Space Research Institute (IKI) October
+2-5, 2019.
+
+The report provides science summaries of past and present missions to
+Venus in surface geology and cloud habitability; lists of open
+questions; areas for further study and goals for advancement in surface
+geology and cloud habitability; including presentations summaries.
+
+As an outcome of the 2019 Venera-D workshop, Working Groups were formed
+to follow up this work. We invite those interested to participate and
+to contact the working group leads listed in the report.
+
+A sequel 2020 Venera-D workshop, originally planned to be held in
+parallel with the 11th Moscow Solar System Symposium (11M-S3), was
+postponed to late winter/spring of 2021. We will make an announcement
+for this workshop at a later time. We encourage you to participate in
+11M-S3, currently planned to be held face-to-face and virtually,
+October 5-9, 2020. Sessions are planned on various Solar System objects.
+
+http://ms2020.cosmos.ru
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+UNIVERSE IS SOLICITING WHITE PAPERS EXPANDED INTO REVIEW PAPERS
+
+Universe (ISSN 2218-1997) is a peer-reviewed open access journal,
+focused on principles and new discoveries in the universe.
+
+https://www.mdpi.com/journal/universe
+
+The section "Planetary Sciences" aims to introduce breakthroughs and
+original research in the broad field of planetary sciences. This
+Section publishes original articles and reviews, with regard to
+planetary science and related fields.
+
+Scholars with recent expanded papers from Planetary Science and
+Astrobiology Decadal Survey White Paper Proposals are encouraged to
+submit to this section. 
+
+https://www.lpi.usra.edu/decadal_whitepaper_proposals/
+
+The expanded version should be at least 20 pages long,
+based on the instructions for authors.
+
+https://www.mdpi.com/journal/universe/instructions
+
+Once the paper is ready, you should submit it through the online
+submission system.
+
+http://susy.mdpi.com/user/manuscripts/upload?journal=universe
+
+We also request that you send the abstract, author information, and
+tentative title to our office (universe@mdpi.com) first. We would
+consider APC (Article Processing Charge) discount requests from authors
+who may be unable to find appropriate funding.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION EP016: EXTRATERRESTRIAL SURFACE PROCESSES UNDER ALIEN
+BOUNDARY CONDITIONS
+
+Quantitative surface process models derived for Earth systems are
+commonly applied to other planetary bodies, providing critical insights
+into the geologic history of the Solar System. In return, the diverse
+planetary surfaces across the Solar System offer opportunities to test
+these models under conditions that are often unachievable on Earth or
+in the laboratory. We invite contributions in the field of planetary
+surface processes that use planetary analogs, laboratory experiments,
+theoretical and numerical modeling, and planetary-exploration data from
+robotic spacecraft. This session's goal is to explore the interplays
+between quantitative models of planetary surface processes and the
+challenges imposed on these models by new planetary data. We intend for
+this session to foster more collaboration between members of the PS and
+EPSP sections.
+
+For more information or to submit: 
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/103645
+
+Conveners:
+Marisa Palucis (Dartmouth College)
+Alex Morgan (Smithsonian Institution)
+Sam Birch (MIT)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION P019: IN SITU SCIENCE AND INSTRUMENTATION FOR THE
+EXPLORATION OF EUROPA AND OCEAN WORLDS
+
+We encourage you to submit an abstract for our AGU session "In Situ
+Science and Instrumentation for the Exploration of Europa and Ocean
+Worlds". The session will focus on scientific experiments that can be
+performed from the surface of ocean worlds, novel engineering and
+instrument approaches to surface exploration, and landed mission
+concepts such as Europa Lander.
+
+More information about the scope of the sessions and the link for
+submitting your abstract are below. Don't forget the deadline is next
+Wed July 29!
+ 
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/104619
+ 
+We look forward to "seeing" you in December,
+Cynthia Phillips, Marissa Cameron, Amy Hofmann, and Jennifer Scully
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+AGU SESSION P023: MERCURY - FROM MESSENGER TO BEPICOLOMBO
+
+With the abstract deadline for 2020 AGU Fall Meeting now only days
+away, we invite you to submit an abstract to the Mercury session.
+
+NASA's MESSENGER mission revolutionized our understanding of Mercury's
+surface, interior, exosphere, magnetosphere, and heliospheric
+environment. With the launch to Mercury of the ESA/JAXA BepiColombo
+dual spacecraft mission to Mercury in October 2018, that understanding
+is poised to soon take another major step forward. In this session, we
+welcome contributions on data analysis, laboratory measurements,
+ground-based observations, and theoretical developments that build on
+the current state of knowledge of Mercury. We particularly welcome
+papers on how questions raised by MESSENGER findings can be addressed
+by future observations expected from BepiColombo, as well as how
+measurements by BepiColombo during flybys of Earth and Venus in 2020
+can be used to support investigations at Mercury.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/104481
+
+The submission deadline is this Wednesday, July 29, 2020.
+
+Conveners:
+Paul Byrne (North Carolina State University)
+Johannes Benkhoff (European Space Agency)   
+Masaki Fujimoto (Japan Aerospace Exploration Agency)  
+Sean Solomon (Columbia University)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+AGU SESSION P029: PLANETARY ATMOSPHERES AND EVOLUTION
+
+Conveners: Feng Tian (CU Boulder), Vladimir Airapetian (NASA/GSFC &
+American University, DC, Dedric Gillmann (Royal Observatory of
+Belgium), Yasuhito Sekine (ELSI)
+
+We invite oral and poster contributions to advance our understanding
+of the nature and evolution of (exoplanetary) atmospheres and its
+impact on habitability.
+
+Understanding the nature and variability of (exo)planetary atmospheres,
+the physical mechanisms governing these atmospheres, and their chemical
+evolution are strong driving forces of planetary science and solar
+system exploration mission planning. While the long-term evolution of
+the Earth is constrained by geological studies and isotopic analyses,
+the evolutionary paths of other planets must be reconstructed from data
+obtained through astronomical observations and planetary missions.
+Models of planetary atmospheres use these observations to illuminate
+governing physical processes operating from the Earth to other planets
+in our Solar System and beyond. The rapidly increasing number of
+discovered exoplanets provides a new opportunity for interdisciplinary
+collaborations between heliophysicists, astrophysicists, geoscientists,
+biochemists, planetary and climate scientists concerning the physical
+and chemical evolution of (exo)planetary atmospheres and planetary
+habitability. This session welcomes observational, theoretical,
+experimental, and field studies relevant to the atmospheres, evolution,
+and habitability of planets in and outside of our Solar System. 
+ 
+Abstract deadline: July 29, 2020
+ 
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/104404
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+AGU SESSION P039: SURFACE PROCESSES ON ACTIVE ICY WORLDS
+
+We invite you to submit an abstract to our AGU session P039: Surface
+Processes on Active Icy Worlds. This session focuses on the surfaces
+of outer Solar System bodies. The extreme conditions and exotic
+materials on the surfaces of outer Solar System bodies - such as the
+icy satellites, small bodies, and Kuiper Belt Objects - result in
+unique surface processes not commonly observed on rocky terrestrial
+planets. We invite members of the community to submit abstracts
+covering the range of surface processes from the grain to landscape
+scale, and including remote sensing, laboratory and terrestrial
+analogs, instrumentation and experiments, and theoretical and numerical
+modelling.
+ 
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/102777
+
+Please visit this link for more information and to submit an abstract.
+
+Thanks,
+Cynthia Phillips and Sam Birch
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AGU SESSION P044: THE STRATOSPHERIC OBSERVATORY FOR INFRARED ASTRONOMY
+(SOFIA) - AN ASSET FOR PLANETARY SCIENCE
+
+We invite the community to consider submitting an abstract to the
+following session at the 2020 AGU Fall meeting:
+
+The instrument suite onboard the Stratospheric Observatory for Infrared
+Astronomy (SOFIA) provides unique access to the infrared sky (4-600
+microns) for planetary scientists. This wavelength range is
+particularly relevant to solid surfaces studies, as it contains
+signature bands of mineral groups and organics, observed for example on
+asteroids Ceres and Hygiea. SOFIA provides unique diagnostics of
+crystalline/ amorphous composition, and of cometary dust grain size
+distribution. In addition, its high spectral resolution allows one to
+measure abundances of molecular species in planetary and cometary
+atmospheres, including the D/H ratio in water (Mars, comet Wirtanen).
+Finally, with the ability to deploy anywhere on Earth, SOFIA has been a
+key resource in occultations observing campaigns (Pluto, Triton,
+Varda,...). This session welcomes highlights of the latest SOFIA Solar
+System results. It will include a Q&A on the role of SOFIA for the
+planetary community, and an update on observatory status. 
+
+Abstract submission deadline: July 29, 2020
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/105232
+
+Conveners: Arielle Moullet (SOFIA/USRA), Jim Jackson (SOFIA/USRA)
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PRESENT PLANETARY RESEARCH AT GSA 2020 ONLINE
+
+https://community.geosociety.org/gsa2020/program/technical/topical
+
+T114. Best Practices and Exciting Discoveries in Identifying, Mapping,
+and Analyzing Planetary Landforms and Terrestrial Analogues.
+
+ Focuses on methodology of planetary landform analysis.
+
+T115. Geomorphology and Landscape Evolution of Mars.
+
+ Explores geomorphic landforms on Mars.
+
+T116. Void Spaces on Planetary Bodies.
+
+ Focuses on subsurface void spaces and their formation.
+
+T117. The G. K. Gilbert Award Session: Flowing and Blowing: Volcanic
+and Aeolian Deposits Around the Solar System.
+
+ Celebrates the work of Dr. Jim Zimbelman on volcanism and aeolian
+ processes.
+
+T118. Impact Cratering across the Solar System.
+
+ Focuses on the geologic, geochemical and geophysical signatures of
+ impacts.
+
+T119. Sedimentary Landscapes across the Solar System: Planets, Moons,
+and Terrestrial Analogues.
+
+ Highlights recent exploits in planetary sedimentology and
+ geomorphology.
+
+T122. The Big Picture from Small Worlds: Dwarf Planets, Trans-Neptunian
+Objects, Asteroids, Comets, and More.
+
+ Focuses on the geological, geophysical, and geochemical analysis of
+ small worlds.
+
+T123. Rocks from Space! Using Meteorites to Understand the Physical,
+Chemical, and Mineralogical Evolution of Planetary Bodies.
+
+ Highlights the role of laboratory studies on meteorites.
+
+T124. To Boldly Go: Thoughts, Approaches, and Examples for Teaching
+Planetary Science and Integrating Students into the Research Process.
+
+ Explores approaches used to teach planetary science.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 29-30, 2020
+Lunar Surface Science Workshop - Virtual Sessions on Lunar Volatiles and Samples
+https://www.hou.usra.edu/meetings/lunarsurface2020
+Online
+
+August 3-7, 2020
+51st Annual Meeting of the AAS Division for Dynamical Astronomy
+https://dda.aas.org/meetings/2020
+Online
+
+August 3-7, 2020
+Technoclimes
+https://technoclimes.org/
+Online
+
+September 1-3, 2020
+Outer Planets Assessment Group (OPAG)
+https://www.lpi.usra.edu/opag/
+Online
+
+January 26-27, 2021
+24th Meeting of the Small Bodies Assessment Group
+https://www.lpi.usra.edu/sbag/meetings/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+High Spatial and Spectral Resolution Observations of the Forbidden
+1.707 micron Rovibronic SO Emissions on Io: Evidence for Widespread
+Stealth Volcanism
+Imke de Pater et al. 2020 PSJ 1:29
+http://doi.org/10.3847/PSJ/ab9eb1
+
+Saturn's Atmospheric Helium Abundance from Cassini Composite Infrared
+Spectrometer Data
+Richard K. Achterberg and F. Michael Flasar 2020 PSJ 1:30
+http://doi.org/10.3847/PSJ/ab9cb6
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

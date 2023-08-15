@@ -1,0 +1,538 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 37 (September 11, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2023A NASA Infrared Telescope Facility Observing Proposals
+2. Post-Doctoral Scholarship (Two Years) in Modeling Plasma 
+   Interaction with Planetary Bodies
+3. [NASA] SMD: Space Technology Graduate Research Opportunities 
+   (NSTGRO23) Released
+4. International Observe the Moon Night: October 1, 2022
+5. [NASA] SMD: Two 2022 Heliophysics Explorer Final Announcements of 
+   Opportunity Released
+6. Tenure Track Assistant Professor in Astronomy and Astrophysics at 
+   Cornell University
+7. Fall 2022 Gerald A. Soffen Memorial Fund Travel Grant 
+8. Planetary ReaCH Workshop for Planetary Scientists
+9. Venus Community Input Request
+10. ICPAE Monthly Webinar
+11. Announcing AGU Special Collection: Solar System Science From JWST
+12. Job Opening: Lecturer in Planetary Sciences, University of 
+    Leicester
+13. [NASA] ROSES-22 Amendment 46: F.14 Transform to Open Science 
+    Training Final Text and Due Date
+14. Job Opening at NASA JPL: Research Scientist, Mars Climate Sounder 
+    Team
+15. Workshop on EDIA for Leaders in Planetary Science
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2023A NASA INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS
+
+The due date for the 2023A semester (February 1, 2023 to July 31, 
+2023) is Monday, October 3, 2022. See our online submission form. 
+Information on available facility and visitor instruments and 
+performance can be found at:
+
+https://irtfweb.ifa.hawaii.edu/instruments
+
+Observing on-site or remote observing is available with SpeX, MORIS, 
+iSHELL, MIRSI/MOC, and `Opihi; please see the instrument pages for 
+more information, including the exposure time calculators for SpeX 
+and iSHELL.
+
+The full text is available here:
+
+https://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POST-DOCTORAL SCHOLARSHIP (TWO YEARS) IN MODELING PLASMA INTERACTION 
+WITH PLANETARY BODIES
+
+The Department of Physics at Umea University in Sweden is offering a 
+post-doctoral scholarship in modeling plasma interaction with planetary 
+bodies. The scholarship is full-time for two years and the start date 
+will be 15 February, 2023, or by agreement. The aim of our project is 
+to advance our current understanding on the kinetic interaction 
+between the solar wind and planetary bodies of different sizes and 
+characteristics with the main focus on atmospheric evolution using a 
+hybrid model of plasma. Application deadline is 1 December 2022.
+
+For more information, please see the job advertisement:
+
+https://www.umu.se/en/work-with-us/postdoctoral-scholarships/7-1639-22
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SMD: SPACE TECHNOLOGY GRADUATE RESEARCH OPPORTUNITIES 
+(NSTGRO23) RELEASED
+
+The NASA Space Technology Graduate Research Opportunities - Fall 2023 
+(NSTGRO23), solicits proposals on behalf individuals pursuing or 
+planning to pursue master's or doctoral (Ph.D.) degrees in relevant 
+space technology disciplines at accredited U.S. universities. 
+
+Fellows will perform research at their respective campuses and at NASA 
+Centers. Each recipient will be matched with a technically relevant 
+and community-engaged NASA researcher who will serve as the research 
+collaborator on the award. Graduate students will be able to take 
+advantage of broader and/or deeper space technology research 
+opportunities directly related to their academic and career 
+objectives, acquire a more detailed understanding of the potential end 
+applications of their space technology efforts, and directly 
+disseminate their research results within the NASA community. 
+
+Awards resulting from this competitive selection will be made in the 
+form of grants to accredited U.S. universities with the faculty 
+advisor as the Principal Investigator.
+
+All proposals must be submitted electronically through NSPIRES by a 
+university Authorized Organizational Representative (exceptions may 
+apply; see solicitation for details) and are due by 6 PM ET on 
+November 2, 2022. 
+
+https://www.nasa.gov/directorates/spacetech/strg/nstgro
+
+Comments and questions may be addressed by e-mail to 
+HQ-NSTGRO-Call@mail.nasa.gov.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+INTERNATIONAL OBSERVE THE MOON NIGHT: OCTOBER 1, 2022
+
+International Observe the Moon Night is a worldwide celebration of 
+lunar science and exploration, celestial observation, and the cultural 
+and personal connections we have to the Moon. Everyone, everywhere can 
+participate. You can join by hosting or attending an event, or 
+observing the Moon with your family, friends, or on your own.
+
+Learn more about International Observe the Moon Night, find our 
+program Moon Map and other resources and activities, links to live 
+streams of the Moon from telescopes and a NASA TV Broadcast, and 
+register your participation on:
+
+https://moon.nasa.gov/observe
+
+Raise awareness and share your experience participating on social 
+media, tagging #ObserveTheMoon.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SMD: TWO 2022 HELIOPHYSICS EXPLORER FINAL ANNOUNCEMENTS OF 
+OPPORTUNITY (AO)S RELEASED
+
+The National Aeronautics and Space Administration (NASA) Science 
+Mission Directorate (SMD) has released concurrently two Heliophysics 
+Explorers Science Investigations solicitations or Announcements of 
+Opportunity (AO). The Heliophysics Explorers Program conducts 
+Principal Investigator (PI)-led space science investigations 
+relevant to SMD's Heliophysics programs and manages both 
+solicitations. Heliophysics Explorers investigations must address 
+NASA's strategic heliophysics science goals:
+
+- Explore the physical processes in the space environment from the Sun 
+  to the Earth and throughout the Solar System;
+- Advance our understanding of the connections that link the Sun, the 
+  Earth, planetary space environments, and the outer reaches of our 
+  Solar System; and
+- Develop the knowledge and capability to detect and predict extreme 
+  conditions in space to protect life and society and to safeguard 
+  human and robotic explorers beyond Earth.
+
+AOs Release Date: September 7, 2022
+
+Pre-proposal Conference Date: September 30, 2022
+
+Required Notice(s) of Intent Due: October 24, 2022
+
+Proposal(s) Due: December 8, 2022
+
+2022 Heliophysics Small Explorer (SMEX) AO (NNH22ZDA016O):
+ 
+https://go.nasa.gov/HPSMEX22
+
+2022 Heliophysics Explorers Mission of Opportunity AO (NNH22ZDA017O):
+
+https://go.nasa.gov/hpexmo22
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TENURE TRACK ASSISTANT PROFESSOR IN ASTRONOMY AND ASTROPHYSICS AT 
+CORNELL UNIVERSITY
+
+The Astronomy Department at Cornell University invites applications 
+for a tenure-track faculty position at the assistant professor level. 
+We seek new colleagues to join our highly ranked and vibrant 
+community. We encourage candidates who demonstrate 
+outstanding research and commitment to teaching and community 
+development within any area of astronomy and astrophysics to apply. 
+
+We expect candidates to have an established record of high-impact 
+research and to demonstrate the potential to build an externally 
+funded independent research program. The successful candidate will 
+teach and advise undergraduate and graduate students, and so a record 
+of excellence in and/or commitment to teaching, mentorship and 
+diversity are sought. A Ph.D. in astrophysics, planetary sciences or a 
+closely related field is required, and postdoctoral experience is 
+preferred. 
+
+Interested applicants should submit a cover letter, a curriculum vitae 
+with publications, a statement of research, a statement of teaching 
+and mentoring philosophy, a statement of diversity, equity and 
+inclusion, and three letters of recommendation to:
+
+https://academicjobsonline.org/ajo/jobs/22636
+
+The target start date is July 1, 2023. Review of applications will 
+begin on November 1, 2022 and will continue until the position is 
+filled.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FALL 2022 GERALD A. SOFFEN MEMORIAL FUND TRAVEL GRANT 
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Fall 
+2022 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering. 
+
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant 
+for either virtual or in-person conferences. The Soffen Fund will 
+award up to $1000 in total, with no individual award greater than 
+$500, to cover expenses related to presenting research at either a 
+virtual or in-person conference. The number of awards will depend on 
+applicants' needs.
+
+The Fall 2022 Travel Grant application deadline is October 7, 2022. 
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+https://soffenfund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+help@SoffenFund.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY REACH WORKSHOP FOR PLANETARY SCIENTISTS
+
+Culturally Inclusive Planetary Engagement
+November 3-5, 2022 at the Applied Physics Lab in Laurel, MD
+
+Planetary science and exploration subject matter experts (SMEs; 
+including graduate students, post-doctoral researchers, engineers, and 
+technicians) are invited to apply to attend a Planetary Resources and 
+Content Heroes (ReaCH) workshop to learn strategies for engaging 
+diverse audiences, specifically Black and Latinx youth and their 
+families, in planetary science and exploration. SMEs will be joined by 
+local informal, or out-of-school time, educators.
+
+During the workshop, planetary scientists and informal educators 
+team-up to:
+
+- Learn and share effective practices and strategies to engage Black 
+  and Latinx communities
+- Collaborate with and learn from each other, sharing their expertise 
+  in planetary science and engaging diverse audiences
+- Practice engagement strategies at a community event on Saturday, 
+  November 5
+
+Travel stipends are available for SME participants able to accept one. 
+Space is limited to 15 SMEs and 15 informal educators.
+
+The application to attend the workshop is available online at:
+
+https://www.surveymonkey.com/r/3R37TPS
+
+Please direct questions to Andy Shaner - shaner@lpi.usra.edu.
+
+For more information, visit:
+
+https://www.lpi.usra.edu/planetary-reach/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VENUS COMMUNITY INPUT REQUEST
+
+On September, 7, 2022, NASA released its fifth Community Announcement 
+Advanced Notice regarding the forthcoming release of the New Frontiers 
+5 (NF5) Announcement of Opportunity:
+
+https://tinyurl.com/nhcsfam2
+
+In the announcement, the "Venus In Situ Explorer" ("VISE") theme was 
+omitted from the list of allowed Mission Themes.
+
+VEXAG has requested from the NF5 program office clarification of, and 
+rationale for, this change.
+
+As the Venus Assessment Group, we seek the thoughts and inputs of the 
+Venus science and technology communities regarding the announcement, 
+so that we may accurately represent your views to the upcoming CAPS 
+meeting in late September, and to NASA as they gather feedback for 
+the NF5 Draft AO.
+
+A Google form for comments is here:
+
+https://tinyurl.com/4f98efha
+
+We hope to compile feedback and discuss by Friday September 23, 2022 
+ahead of the CAPS meeting. We'll accept later responses, but can't 
+guarantee we'll be able to consider them before CAPS.
+
+Noam Izenberg, Chair, OBO the VEXAG Steering Committee
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ICPAE MONTHLY WEBINAR
+
+Title: Atmospheric Dynamics of the Ice Giants Uranus and Neptune: 
+Current Data and Future Exploration
+
+Speaker: Ricardo Hueso (University of the Basque Country, Spain)
+September 15, 08:00 UTC (10 AM in Madrid, 4 PM in Beijing, and 4 AM 
+in New York)
+
+Webinar link:
+
+https://us02web.zoom.us/j/83834485477?pwd=M0ZpOWpIVW1xK3AvUC9XYVkrUGhNUT09
+
+Webinar ID: 838 3448 5477, Passcode: 281019
+
+Details can be found in the link below:
+
+https://www.iamas.org/icpae/2022/08/28/icpae-monthly-webinar-sep-15th-0800-utc/
+
+The International Commission on Planetary Atmospheres and Evolution 
+(ICPAE), which is one of the commissions of the International 
+Association of Meteorology and Atmospheric Sciences (IAMAS), organizes 
+a monthly webinar. The primary objective of our webinar series is to 
+provide researchers with updates on new findings and techniques on 
+planetary atmospheres from across the world.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ANNOUNCING AGU SPECIAL COLLECTION: SOLAR SYSTEM SCIENCE FROM JWST
+
+JWST will provide unprecedented new insights into numerous Solar 
+System targets during its first year of science operations. This 
+online AGU special collection, spanning GRL, JGR:Planets and 
+JGR:Space Physics, will bring together a diverse set of scientific 
+discoveries and techniques enabled by the Guaranteed Time, 
+Early-Release, and Guest Observer science observations during Cycle 1. 
+When authors submit a manuscript, they should select the collection's 
+title from the dropdown menu in the Special Collection field of the 
+submission form. The special collection will close at the end of 2023.
+
+Please see details of the Call for Papers here:
+
+https://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/21699100/features/call-for-papers
+
+Author FAQs will be recorded here:
+
+https://jwstgiantplanets.github.io/web/AGU-Collection.html
+
+Please contact leigh.fletcher@le.ac.uk with any queries.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JOB OPENING: LECTURER IN PLANETARY SCIENCES, UNIVERSITY OF LEICESTER
+
+The University of Leicester School of Physics and Astronomy is seeking 
+to make an academic appointment at Lecturer (Grade 8) level with a 
+focus on Planetary Science and/or Planetary Science-related Space 
+Instrumentation and/or technology research. As a Lecturer on a 
+teaching and research contract, the post holder will become a leading 
+member of the Planetary Science research group of the School of 
+Physics and Astronomy and will make significant contributions to the 
+delivery of our high-quality undergraduate and post-graduate teaching 
+programmes.
+
+Advert closes midnight on: 12 October 2022
+
+Interviews are anticipated to take place in early December 2022.
+
+For details please go to:
+
+https://jobs.le.ac.uk/vacancies/5813/lecturer-in-planetary-sciences.html
+
+Informal enquiries are welcome and should be made to Professor Emma 
+Bunce (HoDPhysics@le.ac.uk) and Professor Tim Yeoman (yxo@le.ac.uk)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] ROSES-22 AMENDMENT 46: F.14 TRANSFORM TO OPEN SCIENCE TRAINING 
+FINAL TEXT AND DUE DATE
+
+F.14 Transform to OPen Science Training (TOPST) solicits proposals to 
+advance open science literacy for all who do research on topics 
+relevant to NASA's Science Mission Directorate (SMD) through training 
+and workshops targeting audiences from undergraduate students to 
+established scientists and managers. NASA developed an Open Science 
+curricula, OpenCore, a core curricula that introduces open science to 
+a general community. OpenCore is the initial phase of TOPST material. 
+The second phase is ScienceCore, a curriculum of discipline-specific 
+materials that showcase open-science workflows. This element will 
+support three types of activities: (1) development of ScienceCore 
+materials, (2) implementation of summer schools, and (3) virtual 
+cohorts.
+
+NASA TOPS staff will host an informational session on F.14 TOPST 
+during their regular monthly Community Forum on October 13, 2022 at 1 
+PM ET / 10AM PT. Please register and sign up to the TOPS email list 
+for additional information.
+
+Questions concerning F.14 TOPST may be directed to 
+yaitza.luna-cruz@nasa.gov and chelle.gentemann@nasa.gov.
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+JOB OPENING AT NASA JPL: RESEARCH SCIENTIST, MARS CLIMATE SOUNDER TEAM
+
+The Jet Propulsion Laboratory in Pasadena, California, invites 
+applications for a newly created research position in the Planetary 
+and Exoplanetary Atmospheres Group. The research will involve 
+investigations with the Mars Reconnaissance Orbiter (MRO) for science 
+planning and analysis tasks involving the Mars Climate Sounder (MCS) 
+instrument. A scientist is particularly needed to plan special 
+observations on a campaign basis, such as coordinated observations 
+with other spacecraft experiments. The successful candidate will be 
+part of the Mars Climate Sounder team. Scientific analysis will be 
+focused on cloud observations by the MCS, using radiative-transfer 
+programs to determine the composition of clouds in the atmosphere of 
+Mars. The research will also entail management and maintenance of the 
+citizen-science project "Cloudspotting on Mars" on the "Zooniverse" 
+platform that enables the identification of clouds in MCS data by 
+citizen scientists. This work involves both data management/analysis 
+and interactions with citizen scientists via online communications and 
+webinars. In addition, the successful candidate will support the Mars 
+Sample Return Program office on risk reduction efforts such as optical 
+search scenario modeling.
+
+To view the full description and apply, please visit:
+
+https://www.jpl.jobs/job/R2902/Research-Scientist-Mars-Climate-Sounder-Team
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+WORKSHOP ON EDIA FOR LEADERS IN PLANETARY SCIENCE
+
+November 30 - December 2, 2022
+
+#EDIALPS
+
+We invite planetary scientists in leadership roles to join us for a 
+pilot workshop designed to engage participants with EDIA concepts and 
+strategies. "Leadership" includes: Mission and instrument PIs (and 
+future PIs), department chairs, institute directors, program officers, 
+and group leaders of all kinds. The goal of this workshop is to give 
+participants the basic tools they need to begin to enact positive 
+change in their personal and professional spheres regarding inclusion, 
+diversity, access, and equity. The meeting will be entirely on-line 
+with no registration fee. 
+
+The workshop leaders will be Drs. Julie Rathbun and JA Grier. Dr. 
+Grier will be presenting more information about the conference at 
+this year's DPS meeting. Their poster presentation will be Tuesday, 
+October 4 at 4 pm Eastern time.
+
+For more information go to:
+
+https://edialps.psi.edu
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+November 15-16, 2022
+Outer Planets Assessment Group (OPAG) Meeting
+https://www.lpi.usra.edu/opag/meetings/nov2022/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Shape Modeling of Dimorphos for the Double Asteroid Redirection Test
+(DART)
+R. Terik Daly et al. 2022 PSJ 3:207
+https://doi.org/10.3847/PSJ/ac7523
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

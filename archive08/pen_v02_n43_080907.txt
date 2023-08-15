@@ -1,0 +1,299 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 43 (September 7, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Matt Balme, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. Fall AGU Session on Prospects for Habitability on Noachian Mars
+3. Fall AGU Cassini Oriented Sessions
+4. NASA Proposal Writing Workshop at DPS
+5. [NASA] Mars Odyssey Radio Science Data Release 74                       
+6. [NASA] Stand Alone Mission of Opportunity Notice (SALMON) 
+   Announcement of Opportunity (AO)
+7. [NASA] New Proposal Opportunities for U.S. Participating 
+   Investigators in Earth Science and in Lunar and Planetary Science
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The September 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page
+
+http://www.psi.edu/pgwg/images/sep08image.html
+
+This month's topic is Yardangs on Earth and Mars
+
+The images and information are a free educational resource provided to 
+encourage the inclusion of planetary geomorphology topics in 
+curriculum. They are also intended to stimulate collaboration between 
+geomorphologists studying Earth landforms and those who focus primarily 
+on other planetary surfaces.
+
+If you would like to contribute an image (Earth analogs are welcome) 
+please contact mbourke@psi.edu
+
+Past images and captions are available at 
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FALL AGU SESSION ON PROSPECTS FOR HABITABILITY ON NOACHIAN MARS
+
+One of the highlights of Mars sciece over the last several years is 
+recognition of a diversity of aqueous deposits preserved in Mars' 
+Noachian rocks. 
+
+We are co-convening a session at AGU (P07) entitled "Prospects for 
+Habitability on Noachian Mars". We would like to encourage your 
+contribution of abstracts related to mineralogic, geomorphic and 
+geophysical constraints on Mars' habitability during this period of the 
+planet's history.
+
+A description of the session is below at the url and following it in 
+plain text.
+
+http://www.agu.org/meetings/fm08/index.php/Program/
+SessionSearch/?show=detail&sessid=317
+
+Remember the deadline for AGU abstract submission is 10 Sept 2008, 
+in 6 more days.
+
+Thanks and we look forward to seeing you in San Francisco,
+
+Scott Murchie and John Mustard
+
+[Editor Note: Please note that the URL above extends over two lines.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FALL AGU CASSINI ORIENTED SESSIONS
+
+Abstract Deadline:  23:59UT September 10, 2008.
+
+http://www.agu.org/meetings/fm08/index.php/Program/HomePage
+
+P03: Planetary Rings: Observation and Theory
+Convener: L. Esposito; L. Spilker
+Focus: Theory and observations wrt planetary rings, including their 
+interactions with their surroundings; Earth-based observations and 
+spacecraft observations.  
+
+P05: Blowing Hot, Blowing Cold: The Diversity of Outer Planet Satellites
+Convener: C. Hansen; K. Khurana
+Focus: Icy and rocky outer planet satellites, including those of 
+Jupiter, Saturn, Uranus, and Neptune.  Work of an interdisciplinary 
+nature that has to do with the effects of a moon (e.g. Enceladus) on 
+its environment.
+
+P06: Focus on Enceladus
+Convener: C. Porco, C. McKay
+Focus: Solely Enceladus: its geological activity; south polar 
+morphology; jets/plumes and interior state; and to report of new 
+results.
+
+P17: Titan at the end of the Cassini Prime Mission.
+Convener: C. Alexander; R. Pappalardo
+Focus: Titan: its geological activity; morphology; 
+atmosphere/ionosphere; magnetospheric interaction; interior state.
+
+P18: Outer Planet Systems: Comparisons of Processes Among the Four 
+Giant Worlds of our Solar System
+Convener: C. Alexander; R. Pappalardo
+Focus: Jupiter, Saturn, Uranus, Neptune.
+
+SM09: Outer Planet Auroras: In Situ and Remote Sensing Results
+Convener: John T. Clarke; Jon Nichols; William Kurth
+Focus: Aurora of the following bodies: Jupiter, Saturn, Uranus, 
+Neptune.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA PROPOSAL WRITING WORKSHIP AT DPS
+
+Discipline scientists at NASA Headquarters will host a proposal writing
+workshop at the DPS meeting this fall that may be of interest to you,
+your colleagues, or your graduate students.  The workshop will be held
+on Friday, October 10, from 1-5 pm at the conference hotel in Ithaca.
+The workshop is open to all interested planetary scientists from
+graduate students on up and is free of charge. The workshop will focus
+on understanding NASA's research programs and will include information
+on how to write a research proposal, where to apply for funding, and
+what kind of feedback one can expect. Other opportunities for funding,
+such as participating scientist programs and education/public outreach
+add-on awards, will also be discussed. 
+
+To register, send an e-mail with your name, affiliation, and current 
+position to curt.niebur@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] MARS ODYSSEY RADIO SCIENCE DATA RELEASE 74
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Odyssey Radio Science Data, Release 74.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20080904.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] STAND ALONE MISSION OF OPPORTUNITY NOTICE (SALMON) ANNOUNCEMENT
+OF OPPORTUNITY (AO)
+
+Three proposal opportunities are being 
+released. Two related proposal opportunities are 
+being released for the ROSES-08 NRA. The three SALMON opportunities 
+are:
+
+1. Focused Mission of Opportunity (MO) to provide an in-situ dust 
+detector investigation for the Lunar Atmosphere and Dust Environment 
+Explorer (LADEE). Notices of Intent (NOIs) to propose due September 
+24, 2008. Proposals due November 4, 2008.
+
+2. Partner MOs in lunar and planetary science. NOIs due October 15, 
+2008. Proposals due December 2, 2008.
+
+3. Small complete MOs in astrobiology and fundamental space biology. 
+NOIs due October 15, 2008. Proposals due December 2, 2008.
+
+Upon the AO release, the full text of the AO and all appendices will 
+be available electronically at http://nspires.nasaprs.com/. 
+
+A preproposal conference will be held in Washington, DC for all the 
+solicitations except the LADEE solicitation; for details, see 
+
+http://salmon.larc.nasa.gov/
+
+Direct questions specifically regarding this solicitation to:  
+
+Dr.  Carlos A. Liceaga 
+TEL: (757) 846-5880 
+E-mail: salmonao@nasa.gov (subject line to read "SALMON AO"). 
+
+[Editor Note: Announcement reduced in length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] NEW PROPOSAL OPPORTUNITIES FOR U.S. PARTICIPATING INVESTIGATORS
+IN EARTH SCIENCE AND IN LUNAR AND PLANETARY SCIENCE
+
+Earth Science U.S. Participating Investigator 
+Lunar and Planetary Science U.S. Participating Investigator 
+
+These program elements solicit proposed investigations as a 
+U.S. Participating Investigator (USPI) on a non-NASA space mission; 
+such investigations may be as a Co-Investigator (Co-I) for an 
+instrument, experiment, or technology demonstration that is being built 
+and flown by a sponsor agency other than NASA. USPI investigations are 
+solicited in Earth science and in lunar and planetary science.
+
+Notices of Intent (NOIs) to propose are due October 15, 2008. 
+Proposals are due December 2, 2008.
+
+Go to the NASA Research Announcement "Research Opportunities in Space 
+and Earth Sciences (ROSES) 2008" (NNH08ZDA001N) at 
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then "NNH08ZDA001N").
+
+Questions concerning the Earth Science USPI solicitation may be 
+addressed to 
+
+Dr. Eric Lindstrom 
+Tel: 202-358-4540 
+Email: Eric.J.Lindstrom@nasa.gov. 
+
+Questions concerning the Lunar and Planetary Science USPI solicitation 
+may be addressed to 
+
+Dr. Carlos Liceaga 
+Tel: 202-358-4666 
+Email: Carlos.A.Liceaga@nasa.gov
+
+[Editor Note: Announcement reduced in length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 6-7, 2008
+Outer Planets Assessment Group (OPAG) Meeting
+http://www.lpi.usra.edu/opag/
+Tempe, AZ
+
+February 23-24, 2009
+Venus Geochemistry: Progress, Prospects, and New Missions 
+http://www.lpi.usra.edu/meetings/venus2009/
+Houston, TX
+
+April 6-10, 2009
+Astrophysical Magnetohydrodynamics
+http://agenda.albanova.se/conferenceDisplay.py?confId=884
+Kiljava, Finland
+
+May 24-27, 2009
+Joint Assembly of the AGU, GAC, MAC, CGU: The Meeting of the Americas
+http://www.agu.org/meetings/ja09/
+Toronto, Canada
+
+June 21-26, 2009
+Evolution of Planetary and Stellar Systems: Dynamical Interactions 
+with DNC Lin
+http://users.monash.edu.au/~ro/LinFest/
+Prato, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************

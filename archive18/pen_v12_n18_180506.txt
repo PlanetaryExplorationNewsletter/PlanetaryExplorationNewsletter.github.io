@@ -1,0 +1,347 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 18 (May 6, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC Session: The Gaia Mission - First Data Exploitation for 
+   Asteroid Science
+2. EPSC Session: Atmospheres of Terrestrial Planets
+3. EPSC Session: Mars Interior and Surface
+4. EPSC Session: Observations and Modelling of Exoplanet Atmospheres, 
+   Interiors and Orbits
+5. NASA-ESA Statement of Intent for Mars Sample Return
+6. Planetary Geomorphology Image of the Month
+7. Post-Doctoral Fellowship in Early Mars Research
+8. Postdoctoral Research Scientist in Experimental Planetary Science
+9. Mars Exploration Science Monthly Newsletter for May 2018
+10. Planetary Simulant Database
+11. The Humans to Mars Summit is This Week - Register Today!
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC SESSION: THE GAIA MISSION - FIRST DATA EXPLOITATION FOR ASTEROID
+SCIENCE
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://www.epsc2018.eu/home.html
+
+In April 2018, the first astrometric and photometric data of Gaia for
+asteroids have been published in the second Data Release (DR2), and the
+exploitation by the community has started. A few months later, we have
+the opportunity to review the scientific impact of the impressive
+performance reaching sub-mas accuracy on single epoch positions. We can
+also evaluate the changes induced on the software tools and on specific
+science issues. For instance, coupling Gaia to ground-based data, due
+to a different bias and properties, is a problem in itself. Some
+ground-based activities such as the observations of stellar
+occultations, local astrometry by imaging (on new and ancient data),
+also take a large profit from the dramatic increase of star and
+asteroid positions. In this respect, the astrometry of stars published
+earlier in DR1 has already produced different applications to Solar
+System observations, that are now improved or surpassed by DR2 with 1.3
+billion parallaxes and proper motions. Contributions on the use of Gaia
+data (directly on asteroids or as stellar catalogue) for the science of
+Solar System objects are welcome.
+
+Looking forward to meet you in Berlin!
+
+Convener: Paolo Tanga
+Co-convener: Daniel Hestroffer
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC SESSION: ATMOSPHERES OF TERRESTRIAL PLANETS
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29454
+
+Dear Colleagues,
+
+We invite you to submit abstracts to our session TP5: "Atmospheres of
+terrestrial planets". See you in Berlin!
+
+TP5: Atmospheres of terrestrial planets 
+Convener: Anni Maattanen
+Co-conveners: Olivier Witasse, Francisco Gonzalez-Galindo, Dmitrij
+Titov
+
+Space missions have provided a wealth of data on the atmospheres and
+aeronomy of terrestrial planets, from the lower layers up to the
+external envelopes in direct contact with the solar wind. An emerging
+finding stemming from the last few years' of work by the scientific
+community is the evidence that the atmospheres behaves as a single
+coherent system with complex couplings between layers.
+
+This session solicits contributions that provide insight into the
+processes at work (chemistry, energetics, dynamics, electricity, escape
+etc.) on terrestrial planets Venus, Mars, Titan and into the coupling
+between the lower/middle and upper atmospheres. Contributions based on
+analysis of recent spacecraft and ground-based observations,
+comparative planetology studies, numerical modelling and relevant
+laboratory investigations are particularly welcome. The session will
+consist of oral talks, both invited and contributed, and posters.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC SESSION: MARS INTERIOR AND SURFACE
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29451
+
+This session welcomes all presentations on Mars' interior and surface
+processes. The aim of this session is to bring together disciplines as
+various as geology, geomorphology, geophysics, mineralogy, glaciology,
+and chemistry. We welcome presentations on either present or past Mars
+processes, either pure Mars science or comparative planetology with the
+Earth, either observations or modeling or laboratory experiments (or
+any combination of those). New results on Mars science obtained from
+recent in situ and orbital measurements are particularly encouraged, as
+well as prospective science for the preparation of future missions to
+be exploring Mars (InSight, ExoMars, Rover 2020).
+
+Ernst Hauber, Gino Erkeling, Solmaz Adeli, Ana-Catalina Plesa  
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC SESSION: OBSERVATIONS AND MODELLING OF EXOPLANET ATMOSPHERES,
+INTERIORS AND ORBITS
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://www.epsc2018.eu/home.html
+
+What are the extrasolar planets actually like and why are they as they
+are? To answer these questions, a broad range of skills and expertise
+is required, ranging in topics from Solar System science to statistical
+astrophysics, from ground-based observations to spacecraft
+measurements, and atmospheric/interior/orbital modelling. Abstracts are
+encouraged in all these areas of exoplanet science.
+
+Looking forward to meet you in Berlin!
+
+Co-conveners: Giovanna Tinetti, Olivia Venot, Ravit Helled
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA-ESA STATEMENT OF INTENT FOR MARS SAMPLE RETURN
+
+This has been an exciting and productive week for the Mars Exploration
+Program. On Thursday, April 26th, NASA and ESA signed a Statement of
+Intent to jointly develop a Mars Sample Return plan to be submitted to
+their respective authorities by the end of 2019. Those authorities, the
+United States Congress via President's Budget Request and the ESA
+Ministerial Council via their December 2019 meeting, would be expected
+to act upon this request in 18 months. 
+
+https://mepag.jpl.nasa.gov/announcements.cfm?expand=hq
+
+This signing is historic, as it signals the desire, readiness, and
+willingness to work together to execute this inspiring mission, one
+that many of you have worked towards for many decades. It is the
+product of more than a year of hard work between the partners. I firmly
+believe that we are ready to tackle this grand challenge. We have the
+scientific and operational maturity to identify the right samples, the
+critical technologies are ready to be applied, and with discipline this
+campaign can be executed affordably.
+
+I am excited about this opportunity and ask everyone to join me in
+making the effort successful.
+
+Jim Watzin, NASA Mars Exploration Program Director
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The May image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "Morphological Evidence that Titan's Southern
+Hemisphere Basins are Paleoseas". Contributed by Samuel Birch, Cornell
+University, Ithaca, USA.
+ 
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+ 
+http://www.facebook.com/PlanetaryGeomorphology
+ 
+or Twitter: @PlanetGeomorpho
+ 
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POST-DOCTORAL FELLOWSHIP IN EARLY MARS RESEARCH
+
+Applications are invited to undertake a Marie Sklodowska-Curie
+Individual Fellowship in early Mars studies with the Department of
+Planetology & Habitability at the Centro de Astrobiologia, Madrid.
+
+Details available at:
+
+http://ec.europa.eu/research/mariecurieactions/
+
+https://eshorizonte2020.es/expressions-of-interests/alberto-g.-fairen
+
+Alberto G. Fairen
+Centro de Astrobiologia
+
+http://www.cab.inta-csic.es/en/investigadores/558
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL FELLOWSHIP IN EXPERIMENTAL PLANETARY SCIENCE
+
+Columbia University's Astrophysics Laboratory invites applications for
+a Postdoctoral Research Scientist to perform laboratory simulations of
+solar wind ion irradiation of Mercury's regolith surface. More
+information available at:
+
+https://jobregister.aas.org/ad/35f5a951
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MAY 2018
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the May 2018 edition
+of the Mars Exploration Science Monthly Newsletter can be found on the
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SIMULANT DATABASE
+
+The University of Central Florida and the Center for Lunar & Asteroid
+Surface Science SSERVI node have developed an online listing to track
+the growing number of regolith simulants created in the past and
+currently being developed. The listing is maintained at:
+
+http://sciences.ucf.edu/class/planetary-simulant-database/
+
+Simulants are organized by planetary body and by category (e.g.,
+general purpose, geotechnical). We also highlight those that are
+commercially available, or may be available in small batches from the
+developers, with contact information where available. Each simulant
+page contains literature references, the basic history of the simulant,
+and any data available on mineralogy, bulk chemistry, and physical
+properties.
+
+Some data may be missing or inaccurate, and we welcome community input
+to help make the listing as complete as possible, and to alert us to
+new simulants that have been designed. In the future we plan to add
+more datasets (spectra, particle size distributions), and create a JSON
+backend to organize the simulant information.
+
+Kevin Cannon, cannon@ucf.edu
+Dan Britt, dbritt@ucf.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+THE HUMANS TO MARS SUMMIT IS THIS WEEK - REGISTER TODAY!
+
+Join us at the Humans to Mars Summit (H2M) that will be held from May
+8-10, 2018 at The George Washington University in Washington, DC. 
+Register at: 
+
+https://h2m.exploremars.org
+
+Confirmed and tentative speakers already include Jim Bridenstine (NASA
+Administrator) Thomas Zurbuchen (NASA AA SMD), Senator Ted Cruz,  Ed
+Perlmutter (US House of Representatives), Vint Cerf (Google), Pascale
+Ehrenfreund (DLR). Ellen Stofan (former NASA Chief Scientist), Jim
+Green (NASA), Janet Ivey (Janet's Planet), Ian Steff (U.S. Dept of
+Commerce), Kathleen Boggs (NASA), Mat Kaplan (Planetary Radio), Sam
+Scimemi (NASA), John Connolly (NASA), and many others.
+
+Register today or view the webcast at:
+ 
+https://livestream.com/viewnow/humanstomars2018
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 29, 2018
+Exoplanet Exploration Program Analysis Group Meeting
+https://exoplanets.nasa.gov/exep/events/205/exopag-18/
+Cambridge, MA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

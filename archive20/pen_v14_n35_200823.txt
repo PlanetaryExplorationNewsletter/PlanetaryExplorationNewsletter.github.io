@@ -1,0 +1,340 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 35 (August 23, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] RFI: Information on the Planetary Data Ecosystem Released
+2. [NASA] Artemis Science White Papers Due September 8, 2020
+3. Announcing the Exoplanet Solar System (ExoSS) Tutorial Talk Series
+4. LSST Solar System Science Collaboration
+5. Indication of Interest: Decadal White Paper on the Value of Extended 
+   Missions
+6. GAC-MAC London 2021: Call for Proposals Due September 15
+7. Postdoctoral Opportunities with the SMA
+8. Postdoctoral Position in Data Visualization for Planetary and Space 
+   Sciences
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] RFI: INFORMATION ON THE PLANETARY DATA ECOSYSTEM RELEASED
+
+Response Date: November 9, 2020 (NOTE: NASA will start using responses
+in September. Please respond as early as possible and consult the RFI
+for further details.)
+
+NASA is seeking information and gathering community feedback on the
+Planetary Data Ecosystem (PDE) in preparation for the creation of a PDE
+Independent Review Board (IRB). NASA defines the PDE "as the ad hoc
+connected framework of activities and products that are built upon and
+support the data collected by planetary space missions and research
+programs, primarily those funded by NASA." The PDE includes but is not
+limited to archives, tools, programs, projects, pipelines, and
+stakeholder groups. Responses to this RFI will provide community input
+on the i) ideal, ii) current, and iii) future state of the PDE.
+
+The full text of the RFI and response instructions can be found at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId={F0D635B2-C638-402B-862A-9D56320B4826}&path=&method=init
+
+RFI responses must be submitted through NSPIRES.
+
+Address questions and comments to:
+
+Rebecca McCauley Rench, Program Scientist, Planetary Science Division,
+Science Mission Directorate, email: becky.mccauley@nasa.gov (subject
+line to read "PDE RFI").
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ARTEMIS SCIENCE WHITE PAPERS DUE SEPTEMBER 8, 2020
+
+The Planetary Science Division is forming a Science Definition Team 
+(SDT) that will pull from existing community documents (the LEAG 
+Roadmap, Decadal surveys, SCEM report, ASM report) to develop the 
+detailed science objectives in the Artemis Science Plan.
+
+To aid the SDT, NASA is soliciting short (maximum 2 pages including
+references) white papers on the science to be accomplished with the
+Artemis III human crew. The landing site has not yet been selected but
+will be within 6 degrees of the South Pole. White papers should focus
+on the science objectives to be accomplished and not on instrument or
+technology development recommendations.
+
+Supporting documentation for Human Landing Systems (HLS) can be found
+here:
+
+NextSTEP Appendix H: Human Landing System:
+
+https://www.nasa.gov/nextstep/humanlander2
+
+White papers must be submitted by 5 pm Central Daylight Time on
+September 8, 2020 via:
+
+https://www.hou.usra.edu/meeting_portal/abstract_submission/index.cfm?mtg=664
+
+Technical Note: If you don't already have a user account with USRA's
+meeting services, then you will need to create one in order to submit a
+White Paper.
+
+Questions and comments may be directed to Sarah Noble at
+Sarah.K.Noble@nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ANNOUNCING THE EXOPLANET SOLAR SYSTEM (EXOSS) TUTORIAL TALK SERIES
+
+We would like to invite the planetary science community to join a new
+ExoPAG Science Interest Group (SIG3) effort to enhance interactions
+between the Exoplanet and Solar System communities. 
+
+https://exoplanets.nasa.gov/exep/exopag/sigs/#sig3
+
+We have established a monthly Tutorial Talk aimed at introducing field
+newcomers to important topics or methods in planetary and exoplanetary
+science. The talks will include a 30 minute tutorial from an expert to
+introduce the topic, followed by a 30 minute group discussion of a
+recent paper in which the topic/method features. Each talk will be
+recorded and made available online to create a database for community
+engagement. Talks will meet the first Thursday of the month at 11 AM
+PDT/ 2 PM EDT.
+
+The first ExoSS Tutorial Talk was on August 6th at 11am PDT. The topic
+was Volatile Solubilities in Rocks, by Laura Schaefer (Stanford), with
+a discussion of Kite et al. (2020) Atmosphere Origins for Exoplanet
+Sub-Neptunes.  The recording for this talk can be found here:
+
+https://washington.zoom.us/rec/play/7J15dej6rWk3GYeWuASDUfMtW9S9Jq-s0CAb_PQKnR60WiMEM1H1ZrIUawaBxUKxid7R3ivhk4rgxzk
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LSST SOLAR SYSTEM SCIENCE COLLABORATION
+
+Over its 10 year lifespan, the Rubin Observatory's Legacy Survey of
+Space and Time (LSST) will catalog over 5 million Main Belt asteroids,
+almost 300,000 Jupiter Trojans, over 100,000 NEOs, over 40,000 KBOs,
+tens of interstellar objects, and over 10,000 comets. Many of these
+small bodies will receive hundreds of observations in multiple
+bandpasses. The LSST Solar System Science Collaboration (SSSC) is
+preparing methods and tools to analyze this data, as well as understand
+optimum survey strategies for discovering moving objects throughout the
+Solar System. Over the next year, the SSSC will be giving feedback on
+the possible scenarios for the LSST survey strategy and providing
+suggestions for on-sky observing during Rubin Observatory's
+commissioning that would enhance opportunities for science validation.
+Our current guidelines on membership are focused on building community
+involvement. If you're interested in joining the SSSC, more details can
+be found at:
+
+http://www.lsstsssc.org
+
+If you have any questions, please contact the SSSC Co-Chairs, Meg
+Schwamb (mschwamb.astro@gmail.com) and David Trilling
+(David.Trilling@nau.edu).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INDICATION OF INTEREST: DECADAL WHITE PAPER ON THE VALUE OF EXTENDED
+MISSIONS
+
+Please sign up to be involved in a white paper to be submitted to the 
+Planetary Science and Astrobiology Decadal Survey on the value of
+Extended Missions to planetary science and to the workforce.
+
+https://forms.gle/862Ugz5jdQZfCgBa8
+
+There is a tremendous demonstrated value in Extended Missions. They
+produce excellent science at low incremental cost. Additionally, these
+missions provide early-career scientists opportunities for active
+mission involvement and experience in leadership roles, thus increasing
+diversity at all levels. However, despite NASA's best intentions, there
+are aspects of their handling of Extended Missions that have
+detrimental effects to the success of those missions.
+
+This will be an update to the 2016 National Academies report on
+"Extending Science: NASA's Space Science Mission Extensions and the
+Senior Review Process". We plan to evaluate the recommendations of that
+study, provide a reminder of those recommendations which have not yet
+been addressed, and add new recommendations.
+
+Contact Ingrid Daubar (ingrid_daubar@brown.edu) and/or Ross Beyer
+(rbeyer@seti.org) with any questions or comments.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GAC-MAC LONDON 2021: CALL FOR PROPOSALS DUE SEPTEMBER 15
+
+We invite session, field trip, and short course proposals for the
+GAC-MAC London 2021 Joint Annual Meeting, slated for May 17-19, 2021,
+in London, Onatario, Canada. Following our overall Joint Annual Meeting
+slogan "Exploring Geosciences Through Time and Space :: Explorer les
+geosciences a travers le temps et l'espace" we invite proposals for
+contributions along four Conference Themes:  
+
+Earth & Planetary Systems 
+Life, Climate & Environment 
+Tectonic Processes & Geohazards 
+Resource Geoscience 
+ 
+For Proposals or questions regarding GAC-MAC London 2021, please visit: 
+
+https://gacmac2021.ca/  
+
+We are monitoring the pandemic situation and are working with GAC and
+MAC Councils to plan for GAC-MAC 2021. 
+
+The Proposal deadline is September 15, 2020. Plan now to take part in
+GAC-MAC London 2021 next year! 
+
+Best Regards, 
+Local Organizing Committee Chairs 
+Gordon Osinski and Roberta Flemming 
+
+gacmac2021@uwo.ca 
+#gacmac2021
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL OPPORTUNITIES WITH THE SMA
+
+We are pleased to announce that the applications for the 2021
+Submillimeter Array (SMA) Postdoctoral Fellowship program are now open.
+We anticipate offering one or more SMA Postdoctoral Fellowships
+starting Summer/Fall 2021. Application information and instructions can
+be found at:
+
+http://www.cfa.harvard.edu/opportunities/fellowships/sma
+
+The deadline for applications is October 15, 2020. 
+
+The SMA is a pioneering radio interferometer designed for arcsecond
+imaging in the submillimeter spectrum.
+
+The SMA is a collaboration between the Smithsonian Astrophysical
+Observatory and the Academia Sinica Institute of Astronomy and
+Astrophysics in Taipei, Taiwan.
+
+These positions are aimed chiefly at research, both observational and
+theoretical, in submillimeter astronomy. Successful candidates will
+participate in remote and on-site observations with the SMA, research
+in their interpretation, and/or instrument development. Our main
+offices at the Center for Astrophysics provide Fellows with unique 
+opportunities to develop collaborations within the broader CfA 
+community of 250 Ph.D. staff researchers and with extraordinary
+freedom in structuring their research activities. Applicants must have
+a recent Ph.D. in astronomy or a related field.
+
+Should you have any questions, feel free to contact
+smapostdoc@cfa.harvard.edu.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL POSITION IN DATA VISUALIZATION FOR PLANETARY AND SPACE 
+SCIENCES
+
+https://virtualplanet.wustl.edu/postdoc-position-in-data-visualization-for-planetary-sciences/
+
+The Department of Earth & Planetary Sciences at Washington University
+in St. Louis seeks a postdoctoral research associate to manage a unique
+data visualization program within the Fossett Laboratory for Virtual
+Planetary Exploration. The Fossett Lab is a leader in developing
+applications and outreach experiences that leverage Augmented Reality
+(AR) technology for education and research in Earth, planetary, and
+space sciences. The successful candidate will maintain apps for
+Microsoft HoloLens, iOS, and Android devices; build new AR experiences
+that serve needs of Washington University instructors and scholars; and
+coordinate education and outreach.
+
+The candidate selected for this position will also conduct independent
+research as an associate of the McDonnell Center for the Space Sciences
+(MCSS). In their application, the candidate should describe research
+interests and list potential collaborators from among MCSS faculty.
+
+Candidates must have a Ph.D. in Earth, planetary, or space science. The
+initial appointment is for one year, renewable for a second year.
+Salary is commensurate with experience. To apply, contact Phil
+Skemer, Director of the Fossett Lab, with a statement of interest, CV,
+and names and contact information for three professional references.
+
+pskemer@wustl.edu
+
+http://virtualplanet.wustl.edu
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+A Volatile-poor Formation of LHS 3844b Based on Its Lack of Significant
+Atmosphere
+Stephen R. Kane et al. 2020 PSJ 1:36
+http://doi.org/10.3847/PSJ/abaab5
+
+Distinguishing between Shock-darkening and Space-weathering Trends in
+Ordinary Chondrite Reflectance
+Spectra
+Tomas Kohout et al. 2020 PSJ 1:37
+http://doi.org/10.3847/PSJ/aba7c2
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

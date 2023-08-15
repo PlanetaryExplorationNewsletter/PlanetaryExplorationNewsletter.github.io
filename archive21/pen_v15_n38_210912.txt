@@ -1,0 +1,380 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 38 (September 12, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. ESA Archival Research Visitor Programme
+2. ISSOL Virtual Meeting
+3. Graduate-level position in Cometary Radiative Transfer Modeling
+4. Interstellar Probe Workshop: Calling All Students
+5. September 14 VEXAG Colloquium Announcement
+6. Opportunities for AGU Fall Meeting Caregiver Awards
+7. Section Manager for Astromaterials Curation Group
+8. Tenure-track Faculty Position in Exoplanet Science at LPL 
+9. EANA21 Outstanding Paper Award
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ESA ARCHIVAL RESEARCH VISITOR PROGRAMME
+
+To increase the scientific return from its space science missions, the
+European Space Agency (ESA) welcomes applications from scientists
+interested in pursuing research projects based on data publicly 
+available in the ESA Space Science Archives.
+
+The ESA Archival Research Visitor Programme is open to scientists, at 
+all career levels, affiliated with institutes in ESA Member States and
+Collaborating States. Early-career scientists, including PhD students, 
+are particularly encouraged to apply.
+
+During their stay, visiting scientists will have access to archives and
+mission specialists for help with the retrieval, calibration, and 
+analysis of archival data. In principle, all areas of space research 
+covered by ESA science missions can be supported.
+
+Residence lasts typically between one and three months, also 
+distributed over multiple visits. Research projects can be carried out 
+at ESAC (Madrid, Spain) and at ESTEC (Noordwijk, Netherlands). To 
+offset the expenses incurred by visitors, ESA covers travel costs and 
+provides support for lodging expenses and meals.
+
+Applications received before November 1, 2021, will be considered for 
+visits in spring/summer 2022.
+
+For further details, including areas of research and contact 
+information, write to arvp@cosmos.esa.int, or go to:
+
+https://www.cosmos.esa.int/web/esdc/visitor-programme
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ISSOL VIRTUAL MEETING
+
+ISSOL, the International Society for the Study of the Origin of Life, 
+will host an interim virtual meeting October 18-22, 2021. ISSOL, the 
+premier society for Origins of Life research boasts more than 500 
+members representing over 20 countries in disciplines ranging from 
+astronomy to molecular biology. This exciting meeting will feature 
+diverse speakers from around the world on topics related to the most 
+recent research regarding the origin and emergence of life on Earth and 
+beyond. Speakers were selected by the Scientific Organizing Committee 
+to represent the wide range of scientific approaches to these 
+questions. The meeting will also host two contributed poster sessions 
+which will allow ALL attendees to share their work with the community 
+in an interactive virtual environment.
+
+Meeting session themes will include:
+
+1. Solar systems, exoplanets, and meteorites
+2. The early Earth: Environmental condition and early organic molecules
+3. Chemical evolution towards the transition of life, including the 
+   role of minerals
+4. Self-organization and prebiotic molecular systems
+5. Lipids, compartments, and early metabolism
+6. Nucleic acids, peptides, and other polymers, and their function in 
+   early stages of life
+7. Evolution: before and after LUCA, towards competition, 
+   cooperativity, and complexity
+
+For information:
+
+https://www.universe.com/events/2021-issol-meeting-tickets-5GF84J
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GRADUATE-LEVEL POSITION IN COMETARY RADIATIVE TRANSFER MODELING
+
+Opening for a junior researcher in radiative transfer and spectral 
+analysis of comets in the Astrochemistry Laboratory at NASA Goddard 
+Space Flight Center.
+
+Primary duties will involve C programming to enhance the functionality 
+of our comet coma analysis software. The successful applicant will be 
+responsible for maintaining, improving and releasing the code, 
+including (1) updating the electron collision methodology, (2) working 
+on optimal parameter estimation methods, (3) performing tests and 
+benchmarks and (4) using the code to analyze ALMA observations of 
+comets. Guidance and mentorship will be provided within the NASA GSFC 
+Solar System Exploration Division.
+
+Necessary qualifications:
+
+1. Degree in Physics (or closely related discipline), including 
+   mathematics and quantum mechanics.
+2. Experience coding in C, C++, Java (or a closely related language).
+3. Ability to work independently, including troubleshooting, identifying 
+   and fixing bugs, writing code and constructing numerical algorithms.
+4. Familiarity with Unix-like operating system(s), and working with the 
+   terminal.
+5. Strong desire to participate in cutting-edge astronomical research.
+6. Eligibility to work in the USA.
+
+For further details, including how to apply, please see: 
+
+https://science.gsfc.nasa.gov/691/theory/vacancies.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+INTERSTELLAR PROBE WORKSHOP: CALLING ALL STUDENTS
+
+Are you interested in learning about mission concept development? Are 
+you wanting to learn more about the upcoming Solar and Space Physics 
+Decadal Survey? Do you have a passion for interstellar exploration?
+
+The Interstellar Probe Study team is looking forward to the 4th annual 
+Fall Workshop that will bring together the many science and engineering 
+experts who have been working to answer questions critical to 
+understanding the scope of a potential interstellar probe mission.
+
+The workshop will be held the week of 27 September to October 1, 2021. 
+This event will be held virtually. Registration is required, so sign up 
+today!
+
+Please join us for a special week of lectures and posters, including 
+joining our designated Student Program on Monday, September 27! For 
+more information and to register, visit:
+
+https://interstellarprobe.jhuapl.edu/Resources/Meetings/agenda.php?id=146
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SEPTEMBER 14 VEXAG COLLOQUIUM ANNOUNCEMENT
+
+The VEXAG "Second Planet Second Tuesdays" speaker series continues on 
+September 14 at noon (Eastern) with invited speakers, Hannah 
+Teffeteller and Ngoc Truong, discussing: "The Interaction of Venus' 
+Surface and Atmosphere". Please join us for engaging presentations 
+regarding chemical weathering of surface rock, and the possibility of 
+volcanic origins of phosphine in the atmosphere.
+
+Please join us via WebEx at the following link:
+
+https://oai.webex.com/oai/onstage/g.php?MTID=ebdfa57fde9ad71196b15d868bbf55eea
+
+Password: j2nY2K93S3x
+
+The next seminar will be October 12 at noon (Eastern) with the topic: 
+"Surface Rock Composition Analysis: Status, Needs, and New Approaches"
+
+(Note: Each event uses a unique WebEx link and password. Links from 
+previous announcements will not be functional.)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+OPPORTUNITIES FOR AGU FALL MEETING CAREGIVER AWARDS
+
+In an effort to make attendance at the 2021 Fall AGU Meeting as widely 
+accessible as possible, and to gauge the need of its members, the 
+Planetary Sciences section wants to offer awards for caregivers (child 
+or dependent) to support their Fall Meeting attendance. These monetary 
+awards do not require in-person attendance. At this time, we cannot 
+gauge the level of reimbursement we will be able to provide, or 
+guarantee that all need will be met, but we will strive to support as 
+many people as possible.  
+
+Applications are kindly requested by October 15 and are available at:
+
+https://bit.ly/3mmB8nZ
+
+We plan to notify recipients before the end of Early Bird registration.
+
+Registration rates are at:
+
+https://www.agu.org/Fall%20Meeting/Pages/Register-Housing/Registration-Rates
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SECTION MANAGER FOR ASTROMATERIALS CURATION GROUP
+
+The JETS contract at NASA JSC is hiring a Section Manager for our 
+Astromaterials Curation group. The Section Manager will manage, 
+supervise, and administratively direct the activities of employees on 
+the contract in the Astromaterials Curation Section. Responsibilities 
+include leadership of a diverse team of scientists, engineers, and 
+analysts performing astromaterials curation that includes Collections 
+and Advanced Curation services for the NASA/Astromaterials Research and 
+Exploration Science Division. The entire advert and instructions on how 
+to apply can be found at: 
+
+https://www.wehavespaceforyou.com/careers/ 
+
+The requisition number is ADV00024N. If you have any further questions, 
+please reach out to the hiring manager, Kim Willis 
+(kim.willis-1@nasa.gov). Only open to US citizens.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TENURE-TRACK FACULTY POSITION IN EXOPLANET SCIENCE AT LPL
+
+The Lunar and Planetary Laboratory (LPL) at the University of Arizona 
+seeks to fill a tenure-track faculty position in the area of exoplanet 
+science at the rank of Assistant or Associate Professor. We seek 
+outstanding applicants whose research will focus on processes that are 
+relevant to the properties and evolution of terrestrial exoplanets, 
+their atmospheres, or their habitability. Candidates whose exoplanet 
+research is directly relevant to next-generation exoplanet missions and 
+those focusing on Solar System-exoplanet synergy are of particular 
+interest in this search. Scientists pursuing relevant laboratory, 
+observational, or modeling studies are all encouraged to apply. A 
+commitment to excellence in teaching is expected.
+
+At the University of Arizona we value our inclusive climate. Because we 
+seek a workforce with a wide range of perspectives and experiences, we 
+provide equal employment opportunities to applicants and employees 
+without regard to race, color, religion, sex, national origin, age, 
+disability, veteran status, sexual orientation, gender identity, or 
+genetic information.
+
+The review of applications will begin on October 8, 2021.
+
+For more information on the position, please visit: 
+
+https://www.lpl.arizona.edu/faculty-position
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EANA21 OUTSTANDING PAPER AWARD
+
+The European Astrobiology Network association (EANA) is celebrating its 
+20th anniversary this year. For that reason, EANA organized several 
+special events and activities in 2021. One of these activities was the 
+EANA outstanding paper award contest. The winner has been announced:
+
+Fairen et al., "The Complex Molecules Detector (CMOLD): A 
+fluidic-based instrument suite to search for (bio)chemical complexity 
+on Mars and icy moons". Astrobiology, 20(9), pp.1076-1096 (2020), 
+https://doi.org/10.1089/ast.2019.2167
+
+The paper proposed a novel astrobiologically-focused instrument suite 
+that could be included in future missions to Mars or the icy moons.
+
+The award was presented to the authors, Friday September 10, by Andre 
+Brack, president of the jury and first President of EANA, and by the 
+current President of EANA, Barbara Cavalazzi, during the closing 
+ceremony of the 20th EANA Congress, held from September 7 to 10, 2021.
+
+More info:
+
+https://www.eana-net.eu/
+
+https://email.liebertpub.com/q/13V9ymN3E00a7TZmNhxti/wv
+
+https://astro.cornell.edu/mars-research-paper-wins-award
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+October 18-22, 2021
+International Society for the Study of the Origin of Life Meeting
+https://www.universe.com/events/2021-issol-meeting-tickets-5GF84J
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Morphological Evolution of Ordinary Chondrite Microstructure during 
+Heating: Implications for Atmospheric Entry
+Francesco Panerai et al. 2021 PSJ 2:179
+https://doi.org/10.3847/PSJ/ac1749
+
+Tracking Short-term Variations in the Haze Distribution of Titan's 
+Atmosphere with SINFONI VLT
+Fiona Nichols-Fleming et al. 2021 PSJ 2:180
+https://doi.org/10.3847/PSJ/abffd7
+
+No Evidence for Time Variation in Saturn's Internal Magnetic Field
+Kimberly M. Moore et al. 2021 PSJ 2:181
+https://doi.org/10.3847/PSJ/ac173c
+
+Exploring Ceres's Unusual Regolith Porosity and Its Implications for 
+Volatile Retention
+Elizabeth M. Palmer et al. 2021 PSJ 2:182
+https://doi.org/10.3847/PSJ/ac0b3e
+
+A Comprehensive Revisit of Select Galileo/NIMS Observations of Europa
+Ishan Mishra et al. 2021 PSJ 2:183
+https://doi.org/10.3847/PSJ/ac1acb
+
+Neptune Odyssey: A Flagship Concept for the Exploration of the 
+Neptune-Triton System
+Abigail M. Rymer et al. 2021 PSJ 2:184
+https://doi.org/10.3847/PSJ/abf654
+
+Collisional Evolution of the Inner Zodiacal Cloud
+J. R. Szalay et al. 2021 PSJ 2:185
+https://doi.org/10.3847/PSJ/abf928
+
+Dust Directionality and an Anomalous Interplanetary Dust Population 
+Detected by the Parker Solar Probe
+A. Pusack et al. 2021 PSJ 2:186
+https://doi.org/10.3847/PSJ/ac0bb9
+
+Exploring Tidal Obliquity Variations with SMERCURY-T
+Steven M. Kreyche et al. 2021 PSJ 2:187
+https://doi.org/10.3847/PSJ/ac1ce6
+
+Spectral and Petrographic Properties of Inclusions in Carbonaceous 
+Chondrites and Comparison with In Situ Images from Asteroid Ryugu
+K. A. Otto et al. 2021 PSJ 2:188
+https://doi.org/10.3847/PSJ/ac034b
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

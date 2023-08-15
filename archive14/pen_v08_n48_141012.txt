@@ -1,0 +1,474 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 48 (October 12, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Anticipated Major Changes Between the Draft and Final 
+   Discovery 2014 Announcements of Opportunity
+2. [NASA] Draft Cooperative Agreement Notice (CAN) for SMD Science 
+   Education to be Released
+3. [NASA] Two New Planetary Science Volunteer Reviewer Forms Posted
+4. Postdoctoral Associate - Stony Brook University
+5. CPS Postdoctoral Fellowships in Planetary/Exoplanet Science
+6. Fully Funded PhD Position in Lunar Science - VU University 
+   Amsterdam
+7. Invitation for PDS Reviewers for the OSIRIS-REx Mission
+8. "WISE at 5" Conference
+9. October 2014 MEPAG Newsletter Available
+10. Planetary Geomorphology 'Image of the Month'
+11. [NASA] PDS - Cassini Data Release 39
+12. Large Martian Landforms Website
+13. NASA Postdoctoral Fellowships
+14. [NASA] EPOESS Cancelled
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ANTICIPATED MAJOR CHANGES BETWEEN THE DRAFT AND FINAL DISCOVERY 
+2014 ANNOUNCEMENTS OF OPPORTUNITY
+ 
+On July 2, 2014, NASA’s Science Mission Directorate (SMD) released a 
+Draft Announcement of Opportunity (AO) for Discovery Program missions.
+SMD is now issuing information on anticipated major changes between 
+the Draft and Final AOs.
+ 
+Clarification details can be found in the full announcement document 
+posted at:
+
+http://discovery.larc.nasa.gov/
+
+Topics include: 
+
+Inclusion of a Classified Heritage Appendix
+Use of the Advanced Multi-Mission Operations System
+Engineering Science Investigation on Entry, Descent, and Landing
+Clarification of the Exclusion of "Mission Operations" from the 
+   Pi-Managed Cost Cap
+Clarification of Rules Regarding Allocation of Returned Samples to 
+   Non-U.S. Partners
+Clarification of the Evaluation of the Risk of NASA-Developed 
+   Technologies
+Clarification of the Conjunction Assessment Risk Analysis Requirement
+Clarification of the Requirement for Independent Verification and 
+   Validation (IV&V) of Flight Software
+Addition of a Requirement to Provide an Electronic Version of the 
+   Project Schedule
+
+NASA has not approved the issuance of the Final Discovery AO and this 
+notification does not obligate NASA to issue the AO and solicit 
+proposals. 
+
+Questions may be addressed to Dr. Michael New, NASA
+(202) 358-1766
+michael.h.new@nasa.gov
+
+[Edited for length]
+ 
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DRAFT COOPERATIVE AGREEMENT NOTICE (CAN) FOR SMD SCIENCE 
+EDUCATION TO BE RELEASED
+
+The NASA Science Mission Directorate (SMD) will release a draft 
+Cooperative Agreement Notice (CAN) soliciting team-based proposals for 
+science education by the end of October at:
+
+http://tinyurl.com/npm4tzy 
+
+Comments on this draft text are due to the point of contact below no 
+later than 30 days after release of the draft text. The final CAN will 
+be issued early in calendar year 2015.
+
+The goal of the NASA SMD Science Education CAN is to meet the 
+following NASA SMD Science Education Objectives: Enabling STEM 
+education, improving U.S. science literacy; advancing National 
+education goals; and leveraging science education through partnerships. 
+NASA intends to select one or more focused, science discipline-based 
+team(s). 
+
+Neither the issuance of this Announcement nor the draft CAN obligates
+NASA to issue the final CAN or solicit proposals. The final CAN may 
+contain provisions that differ from the draft CAN, in which case those 
+provisions in the final CAN would take precedence.
+
+All comments and questions should be directed to the Point of Contact:
+
+Kristen Erickson, NASA HQ
+CANsci-ed@hq.nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] TWO NEW PLANETARY SCIENCE VOLUNTEER REVIEWER FORMS POSTED
+
+The Planetary Science Division is seeking subject matter experts to 
+serve as mail-in and/or panel meeting reviewers of ROSES 2014 
+proposals. We have posted two new volunteer reviewer forms for: 
+C.12 Planetary Instrument Concepts for the Advancement of Solar System 
+Observations and C.20 Dawn at Ceres Guest Investigator Program. 
+
+Forms are available at:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/ 
+
+Choose a volunteer form and indicate the fields in which you consider 
+yourself to be a subject matter expert by clicking the boxes. If your 
+skills match our needs for this review we will contact you to discuss 
+scheduling. 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL ASSOCIATE - STONY BROOK UNIVERSITY
+
+Required: PhD, or the equivalent degree from a foreign university, in 
+Geosciences, Planetary Sciences, Astronomy, Physics or related field. 
+Applicant must have successfully defended their dissertation prior to 
+the start date. Course work or research experience in remote sensing 
+and/or geospatial analyses and planetary geology. 
+
+Preferred: Research experience related to geology of Mars. Experience 
+in processing and analyzing infrared spectral datasets from spacecraft. 
+Experience with scientific programming in IDL, Python, Matlab, C+-based 
+language, or similar. Effective writing and verbal communication 
+skills. Demonstrated outstanding research ability, with an emphasis on 
+critical thinking skills and high productivity. 
+
+Duties: Conduct research in Planetary Science, with emphasis on 
+quantitative studies of Martian surface and crustal materials through 
+analysis of spacecraft data. 
+
+Responsible for: Process, analyze and interpret visible and infrared 
+images from Mars. Summarize findings in conference presentations and 
+publications. Process, analyze and interpret supporting data sets and 
+models such as elevation, geologic maps, and general circulation 
+models. Read and synthesize information from relevant scientific 
+literature to inform geologic interpretations of planetary data. 
+
+This position is full-time. 
+
+Application Procedure: For a complete description and instructions on 
+"how to apply", please visit: 
+
+http://www.stonybrook.edu/jobs/ 
+
+and select the reference # WC-R-9213-14-09-S. 
+
+AA/EOE
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CPS POSTDOCTORAL FELLOWSHIPS IN PLANETARY/EXOPLANET SCIENCE
+
+The University of Toronto Centre for Planetary Sciences (CPS) is a 
+centre for the study of all planets. The CPS expects to offer several 
+postdoctoral fellowships of up to three years. The starting date will 
+be September 1, 2015. Salaries and funds for travel/research expenses 
+will be competitive. A Ph.D. in any field of earth and planetary 
+sciences or astrophysics is required. Fellows are expected to carry 
+out original research in observational or theoretical planetary/
+exoplanet science under the general supervision of the CPS-affiliated 
+faculty at U of T.
+
+Electronic submissions only. Applicants are asked to submit a 
+curriculum vitae, statement of research interests (3 pages) and 
+arrange for three letters of recommendation (note that two different 
+websites are used for the application and for the submission of 
+reference letters). 
+
+The deadline for applications and all letters of recommendation is 
+December 1, 2014. The University of Toronto is strongly committed to 
+diversity within its community and especially welcomes applications 
+from visible minority group members, women, Aboriginal persons, 
+persons with disabilities, members of sexual minority groups, and 
+others who may contribute to the further diversification of ideas.
+
+CPS Information Website: 
+
+http://cps.utoronto.ca/
+
+CPS Fellows Application Website:
+
+http://www.utsc.utoronto.ca/webapps/webforms/cps
+/postdoctoralfellows.php
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FULLY FUNDED PHD POSITION IN LUNAR SCIENCE - VU UNIVERSITY AMSTERDAM
+
+The Department of Earth Sciences at VU University Amsterdam, is 
+offering a four-year PhD studentship focused on providing new 
+constraints on the structure and evolution of the crust of the Moon. 
+The studentship is funded by an NWO User Support Programme Space 
+Research grant. You will collaborate with researchers at ESA’s ESTEC 
+(European Space Research and Technology Centre) in Noordwijk 
+(Netherlands) and at the IPGP (Institut de Physique du Globe) in 
+Paris. Candidates need to have completed a MSc degree in the field of 
+planetary science, physics, geophysics, geology, or similar relevant 
+field. Starting date is negotiable, preferably no later than January 
+2015. There is no constraint on citizenship; all applications are 
+welcomed.
+
+More information can be found at:
+
+http://www.vu.nl/en/employment/vacancies/2014/072.asp
+
+Interested candidates are encouraged to contact Dr. Prof. dr. Wim van 
+Westrenen and Dr. Jessica Flahaut for additional information 
+(w.van.westrenen@vu.nl; j.d.flahaut@vu.nl). 
+
+To apply, email Mrs. Fenny Bosse (f.bosse@vu.nl) with the subject 
+"Vacancy #14320". Please provide a cover letter, CV, and the names and 
+contact information of at least three references. 
+
+Deadline for applications is October 30, 2014.
+
+[Edited for length]
+
+ 
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+INVITATION FOR PDS REVIEWERS FOR THE OSIRIS-REX MISSION
+
+The PDS is inviting reviewers for the Origins Spectral Interpretation 
+Resource Identification Security Regolith Explorer (OSIRIS-REx) 
+asteroid sample return mission. The PDS is establishing several review 
+panels for the data products that will be produced during the OSIRIS-
+REx mission. We need reviewers for the optical cameras, spectrometers, 
+and laser altimeter. Initial reviews will begin soon for product and 
+pipeline design, with flight data reviews following after launch and 
+before the spacecraft reaches the asteroid in 2019. This is a 
+valuable opportunity for those interested in learning about and 
+working with OSIRIS-Rex data products.
+
+For more information or to volunteer as a reviewer see:
+
+http://sbn.psi.edu/pds/orexreviewers.html
+
+Contact:  Carol Neese, neese@psi.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+"WISE AT 5" CONFERENCE
+
+We are pleased to announce a conference on "WISE at 5: Legacy and 
+Prospects" to be held February 10-12, 2015, at the Beckman Institute 
+Auditorium of the California Institute of Technology in Pasadena.
+
+The conference will celebrate what has been done with WISE, what is 
+being done with NEOWISE, and what will be done in the future.
+
+NASA's Wide-field Infrared Survey Explorer (WISE) was launched into 
+orbit 5 years ago, and surveyed the entire mid-infrared sky in 2010. 
+The satellite resumed surveying as NEOWISE in December 2013, and by 
+the time of the conference will be on its fifth pass over the sky. 
+Over 1,000 refereed papers based on the data have now been published, 
+with results ranging from the discovery of the first Earth Trojan 
+asteroid, to challenging the standard paradigm for quasar unification.
+
+For further information, see the conference website: 
+
+http://wise5.ipac.caltech.edu/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+OCTOBER 2014 MEPAG NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the October 2014 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+
+http://mepag.jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The October 'Image of the Month' is available on the IAG’s Planetary
+Geology web page at:
+
+http://planetarygeomorphology.wordpress.com
+
+This Month’s topic is on very recent debris flow activity on Mars.
+
+Dr. Andreas Johnsson, Department of Earth Sciences, University of 
+Gothenburg, Sweden.
+
+Dr. M. Bourke
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS - CASSINI DATA RELEASE 39
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 39, October to December 2013, for instruments:
+
+CDA
+CIRS
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+HRD data for this period was announced in release 38.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days beyond 
+the formal release date to be incorporated into these services. Check 
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20141003.html
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+LARGE MARTIAN LANDFORMS WEBSITE
+
+An extensive, organized collection of more than 1100 photos of Martian 
+landforms is now available for education and research. The collection 
+was created by Roger Weller at Cochise College in Sierra Vista, 
+Arizona. Many of the photos not only highlight scientific details of 
+the landforms but also include impressive, oblique scenic views.
+
+The website can be accessed at:
+
+http://skywalker.cochise.edu/wellerr/mars/list.htm
+
+or just Google: "cochise mars landforms".
+
+This collection of Martian photos is a portion of a much larger 
+collection of geological information:
+
+http://skywalker.cochise.edu/wellerr/aawellerweb.htm
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18115
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  http://bit.ly/1u0LcSj
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+ 
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] EPOESS CANCELLATION
+
+SMD is cancelling the Opportunities in Education and Public Outreach 
+for Earth and Space Sceinces (EPOESS). It plans to replace it with a 
+Science Education Cooperative Agreement Notice that covers related 
+subject matter. [Editor: See Item 1] 
+
+Direct questions to Stephanie Stockman at 
+stephanie.a.stockman@nasa.gov. 
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 14-18, 2015
+The Future and Science of Gemini Observatory
+http://www.gemini.edu/fsg15
+Toronto, Canada
+
+August 17-21, 2015
+Cosmic Dust
+https://www.cps-jp.org/~dust/Welcome.html
+Tokyo, Japan
+
+October 9-15, 2015
+OHP 2015: Twenty Years of Giant Exoplanets
+http://ohp2015.sciencesconf.org
+Saint Michelel'Observatoire, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************
+

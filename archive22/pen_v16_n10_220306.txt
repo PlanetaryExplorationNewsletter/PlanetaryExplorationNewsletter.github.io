@@ -1,0 +1,577 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 10 (March 6, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Visiting Lecturer Position at Mount Holyoke College
+2. [NASA] Exoplanets Research Program Correction Regarding Data 
+   Management Plan
+3. Request for Comment: Changes to the ISIS Long Term Support Model
+4. New International Master's Program "Planetary Sciences and Space 
+   Exploration" in Berlin Starting October 2022
+5. Planetary Geomorphology Image of the Month
+6. [NASA] PDS: Aperiodic PDS Data Releases in 2022.02
+7. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 60
+8. Outer Planets Assessment Group (OPAG) Meeting Postponed until June 
+   14-15
+9. 2022 NASA Planetary Science Summer School Applications Due March 30
+10. Deadline Soon: Planetary Geomorphology at the International 
+    Conference on Geomorphology
+11. Three Positions at Purdue to Support Supercam
+12. Mercury Science and Exploration February 2022 Newsletter Released
+13. [NASA] ROSES-22: Planetary Science Enabling Facilities Final Text 
+    and Due Dates
+14. Science Objectives for Human Exploration of Mars Workshop
+15. Mars Exploration Science Monthly Newsletter for March 2022
+16. Nominations Now Open for Membership on the Planetary Science 
+    Advisory Committee
+17. IPA Positions in the Planetary Science Division (PSD) at NASA 
+    Headquarters
+18. Planetary Meeting Calendar Additions
+19. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+VISITING LECTURER POSITION AT MOUNT HOLYOKE COLLEGE
+
+Mount Holyoke College invites applications for a one-year, full-time 
+visiting lecturer position beginning Fall 2022 in Astronomy and 
+Physics. Duration of appointment may be extended. Teaching 
+responsibilities will be two courses in introductory physics and three 
+courses in some combination of introductory astronomy/planetary 
+science, cosmology, and introductory astrophysics.
+
+Mount Holyoke College, located in South Hadley, Massachusetts, is an 
+active member of the Five College Astronomy Department, which provides 
+multiple opportunities for research collaborations. The successful 
+candidate must be dedicated to undergraduate education and enjoy 
+working with students. Candidates must hold a Ph.D. in astronomy, 
+planetary science, physics, or a closely-related field.
+
+To be assured of full consideration, include a letter of interest, CV, 
+and statements covering (1) research interests, (2) teaching 
+philosophy, (3) the mentoring of a diverse student body. Please 
+include contact information for three references as part of your 
+application. Reference letters will be requested at a later date in 
+the search process.
+
+Applications must be made online at:
+
+https://careers.mtholyoke.edu/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] EXOPLANETS RESEARCH PROGRAM CORRECTION REGARDING DATA 
+MANAGEMENT PLAN
+
+The Exoplanets Research Program (XRP) element solicits basic research 
+proposals to conduct scientific investigations that significantly 
+improve our understanding of exoplanets and exoplanet formation.
+
+Table F.3-1 in Section 3.4 of F.3 Exoplanets Research has been 
+corrected to indicate that the anonymized Data Management Plan must be 
+included in the 15-page S/T/M portion of the proposal, not a separate 
+2-page section. New text is in bold and deleted text is struck through.
+
+The due dates remain unchanged: Step-1 proposals are due 03/31/2022 
+and Step-2 proposals are due 05/26/2022. Questions regarding F.3 
+Exoplanets Research may be directed to hq-xrp@mail.nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REQUEST FOR COMMENT: CHANGES TO THE ISIS LONG TERM SUPPORT MODEL
+
+The Integrated Software for Imager and Spectrometers (ISIS) 
+project is considering changing to a long term support model. This 
+would be a significant change to how the software is released and 
+supported; so, the developers are looking for community input and 
+comments on the proposed model. 
+
+The detailed proposal is on the ISIS Github discussion board:
+
+https://github.com/USGS-Astrogeology/ISIS3/discussions/4691
+
+Comments and other input can be left in the discussion thread.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NEW INTERNATIONAL MASTER'S PROGRAM "PLANETARY SCIENCES AND SPACE 
+EXPLORATION" IN BERLIN STARTING OCTOBER 2022
+
+It is the only Master's Program of its kind in Germany. Berlin 
+provides a unique, vibrant teaching and research environment, with 
+professors and lecturers who are world-leading experts in the field of 
+Planetary Sciences and Space Exploration. All courses of the 
+4-semester program are in English (B2 language certificate required). 
+Students from any country, with a Bachelor degrees in most natural 
+sciences or in engineering can apply. Application window opens mid 
+April 2022.
+
+More info here:
+
+https://tinyurl.com/BerlinPlanetaryScience
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is 'Syn-tectonic Sedimentation in Valles Marineris, 
+Mars', contributed by Dr. Joel Davis, Natural History Museum, UK
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho 
+
+or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2022.02
+
+In February 2022, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2022.02.17 Hayabusa AMICA Images with Geometry Backplanes
+- 2022.02.17 Venus Express Cleaned High-Res 128Hz Magnetic Field
+- 2022.02.16 Spacewatch 0.9m Mosaic Camera Survey
+- 2022.02.10 MSL ChemCam Passive Surface Spectra
+- 2022.02.03 MESSENGER Magnetometer KT17 Model Residuals
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220228.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 60
+
+The NASA Planetary Data System announces Release 60 of data from the 
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period May 9 through August 8, 2021. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes.
+
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences 
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220301.shtml
+
+To access the latest PDS Data Releases, please visit the following:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+MRO data releases occur every three months. The next release is 
+scheduled for June 1, 2022.
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OUTER PLANETS ASSESSMENT GROUP (OPAG) MEETING POSTPONED UNTIL 
+JUNE 14-15
+
+Given the delay in the release of the Planetary Science and 
+Astrobiology Decadal Survey, the next Outer Planets Assessment Group 
+meeting currently scheduled for April 19-20 in Washington, DC has been 
+postponed until June 14-15 in Washington, DC (location TBD). The focus 
+of this meeting will be on aspects of the Decadal Survey that are 
+relevant to OPAG. Please visit the OPAG website for additional details 
+including meeting registration.
+
+https://www.lpi.usra.edu/opag/meetings/upcoming/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2022 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE MARCH 30
+
+Offered by the Jet Propulsion Laboratory in Pasadena, CA, PSSS is a 
+3-month long career development experience to learn the development of 
+a hypothesis-driven robotic space mission in a concurrent engineering 
+environment while getting an in-depth, first-hand look at mission 
+design, life cycle, costs, schedule & the inherent trade-offs.
+
+Science & engineering doctoral candidates, recent Ph.D.s, postdocs, & 
+junior faculty who are U.S. Citizens or legal permanent residents (& a 
+very limited number of Foreign Nationals from non-designated counties) 
+are eligible. Applicants from diverse backgrounds are particularly 
+encouraged to apply - we highly value diversity, equity, and inclusion.
+
+Session 1: May 9 - August 5
+
+Session 2: May 23 - August 19
+
+With workload of a rigorous 3-hour graduate-level course, participants 
+act as a planetary science mission team during the first 12 weeks of 
+preparatory webinars, with the final culminating week mentored by 
+JPL's Advance Project Design Team for refining the mission concept 
+design & presenting it to a mock expert review board. The culminating 
+week is typically at JPL, but in 2022 it is likely virtual due to 
+Covid-19 pandemic concerns.
+
+https://go.nasa.gov/missiondesignschools
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DEADLINE SOON: PLANETARY GEOMORPHOLOGY AT THE INTERNATIONAL CONFERENCE 
+ON GEOMORPHOLOGY
+
+Dear Colleagues,
+
+This is a reminder that the abstract deadline is approaching for the 
+International Conference on Geomorphology:
+
+https://www.icg2022.eu/home.html
+
+The meeting will be held in Coimbra, Portugal, 12-16 September 
+2022. The abstract submission deadline is 14 March 2022, 13:00 CET.
+
+Please consider submitting an abstract to the Planetary Geomorphology 
+session, which showcases landscapes and surface processes on solid 
+bodies across the Solar System, including on planets, dwarf planets, 
+moons, comets, and asteroids. The session aims to highlight the 
+diversity of geomorphic processes that have operated on different 
+Solar System bodies through time. This includes fluvial, glacial, 
+periglacial, volcanic, tectonic, aeolian, and impact processes, and 
+their interactions. We encourage submissions on studies that use Earth 
+analogues, laboratory experiments, numerical simulations, remote 
+sensing and/or new techniques to investigate planetary surfaces. We 
+welcome submissions from early career scientists and those who are 
+new to the discipline.
+
+The conference programme includes several field excursion options, and 
+thematic sessions on a wide range of geomorphological topics of 
+interest to planetary geomorphologists.
+
+Planetary Geomorphology session information and abstract submission:
+
+https://meetingorganizer.copernicus.org/ICG2022/session/44363
+
+Best wishes
+
+Frances Butcher and David Vaz
+Planetary Geomorphology Convenors
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+THREE POSITIONS AT PURDUE TO SUPPORT SUPERCAM
+
+Three positions are open at Purdue to support and utilize SuperCam on 
+the Perseverance rover and related investigations. Successful 
+candidates will work directly with Principal Investigator Roger Wiens 
+at Purdue and with the local and extended team. 
+
+The Research Scientist position in science and Mars operations will 
+support Mars science and operations with SuperCam and set up a 
+laboratory for planetary LIBS, Raman, and reflectance spectroscopies. 
+Experience with at least one of these techniques is necessary; 
+experience with rover instrument operations is desirable. The position 
+is long-term, beyond the postdoctoral level.
+
+https://careers.purdue.edu/job-invite/18327/
+
+The position in Data Management entails developing an accessible 
+database of SuperCam images and spectra from both Mars and the 
+laboratory, maintaining and continued development of the SuperCam 
+ground data pipeline, and assembling and validating SuperCam data for 
+submission to NASA's Planetary Data System.
+
+https://careers.purdue.edu/job-invite/18325/
+
+The Postdoctoral Fellow position is for investigations with SuperCam 
+and related data to understand Mars geology and habitability. A 
+planetary geochemistry and mineralogy background is required, with a 
+Ph.D. in the last 5 years, and experience with LIBS, Raman, or 
+reflectance spectroscopy is strongly desired.
+
+https://careers.purdue.edu/job-invite/18106/
+
+Interested persons are encouraged to contact Prof. Wiens 
+(rwiens@purdue.edu).
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MERCURY SCIENCE AND EXPLORATION FEBRUARY 2022 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue 
+6 of "The Mercury Newsletter." The quarterly community newsletter can 
+be accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+In this newsletter, we debrief the Second Annual MExAG meeting, share 
+Mercury science and exploration news, spotlight early-career 
+researchers, highlight recent publications, and note upcoming meetings.
+
+Please send your Mercury community announcements and calendar items 
+for inclusion in the newsletter to the MExAG Steering Committee at 
+mexag.sc@gmail.com.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] ROSES-22: PLANETARY SCIENCE ENABLING FACILITIES FINAL TEXT AND 
+DUE DATES
+
+The Planetary Science Enabling Facilities (PSEF) program solicits 
+proposals for experimental and analytical research facilities to be 
+made available to the community that does research supported by the 
+Planetary Science Division in the Science Mission Directorate of NASA. 
+Proposals must clearly articulate the scientific value of the research 
+facilities that would be made available, as well as demonstrate that 
+there is a significant need and user base for the facility within the 
+community. The PSEF program replaces what was, in prior years, the 
+Planetary Major Equipment and Facilities program.
+
+ROSES-2022 Amendment 3 releases final text and due dates for PSEF. 
+Step-1 proposals are due April 8, 2022, and Step-2 proposals are June 
+3, 2022.
+
+On or about March 4 2022, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2022" (NNH22ZDA001N) will be posted on the NASA research 
+opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2022/
+
+Questions concerning PSEF may be directed to HQ-PSEF@mail.nasa.gov.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+SCIENCE OBJECTIVES FOR HUMAN EXPLORATION OF MARS WORKSHOP
+
+A human mission to Mars will be a landmark achievement and a golden 
+opportunity to conduct groundbreaking science on Mars. This workshop 
+will identify the highest priority science objectives for a human 
+mission to Mars, identify appropriate mission scenarios that best 
+enable the science objectives, and define high-level concepts of 
+operation, including equipment and instrumentation, needed to achieve 
+the science objectives.
+
+The workshop will immediately follow the May MEPAG meeting in Denver 
+and is intended to be an in-person working workshop. Attendance and 
+participation are not contingent on abstract submission, and 
+registration is free.
+
+For more information and to register, please visit the workshop 
+website at:
+
+https://www.hou.usra.edu/meetings/marsexploration2022/abstracts/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MARCH 2022
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Michael 
+Mischna, Brandi Carrier and Jonathan Bapst of the Mars Program Science 
+Office, the March, 2022 edition of the Mars Exploration Science 
+Monthly Newsletter can be found attached and on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+NOMINATIONS NOW OPEN FOR MEMBERSHIP ON THE PLANETARY SCIENCE ADVISORY 
+COMMITTEE
+
+The Planetary Science Advisory Committee (PAC) supports the advisory 
+needs of the Planetary Science Division (PSD), the Science Mission 
+Directorate (SMD), and other mission directorates as required, as well 
+as the NASA Administrator. The advisory scope of the PAC includes all 
+aspects of NASA's planetary science program, including scientific 
+research; considerations of the development of near-term enabling 
+technologies, systems, and computing and information management 
+capabilities; and developments with the potential to provide long-term 
+improvements in future mission operational systems.
+
+Responsibility for biological planetary protection is outside the 
+purview of the PAC. NASA's PSD is extending an invitation for 
+nominations for service on the PAC. Interested members of the 
+community are invited to review the charter and to submit nominations 
+(including self-nominations) for consideration to fill vacancies on 
+the Committee. Additional details can be found at: 
+
+https://science.nasa.gov/science-red/s3fs-public/atoms/files/PACnominations2022.pdf
+
+More information on the PAC may be found at:
+
+https://science.nasa.gov/nac/science-advisory-committees/pac
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+IPA POSITIONS IN THE PLANETARY SCIENCE DIVISION (PSD) AT NASA 
+HEADQUARTERS
+ 
+NASA Program Scientists tackle a wide variety of challenges. These 
+include: developing, operating, and maintaining Research & Analysis 
+grants programs; serving as the Headquarters scientific lead for one 
+or more Planetary Science missions; and helping implement and 
+communicate the Planetary Science Division's strategic goals. Program 
+scientists can have substantial influence on strategic planning and 
+can help shape the long-term scientific direction of missions and 
+programs that they oversee.  
+ 
+The Planetary Science Division (PSD) is looking for one or more new 
+program scientists to join the Division through either a detail or the 
+Intergovernmental Personnel Act (IPA). More information on this 
+opportunity can be found at:
+ 
+https://science.nasa.gov/about-us/job-opportunities
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+May 2-4, 2022
+Mars Upper Atmosphere Network (MUAN) Meeting
+https://sites.google.com/view/muan2022uppsala/home
+Uppsala, Sweden
+
+May 4-6, 2022
+Science Objectives for Human Exploration of Mars Workshop
+https://www.hou.usra.edu/meetings/marsexploration2022/abstracts/
+Denver, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Identifying Impact Melt from the Smythii Basin: Toward an Improved
+Chronology for Lunar Basin Formation
+Kirby D. Runyon et al. 2022 PSJ 3:48
+https://doi.org/10.3847/PSJ/ac51e2
+
+Empirical Photochemical Modeling of Saturn's Ionization Balance
+Including Grain Charging
+E. Vigren et al. 2022 PSJ 3:49
+https://doi.org/10.3847/PSJ/ac4eee
+
+Methane-saturated Layers Limit the Observability of Impact Craters on
+Titan
+Shigeru Wakita et al. 2022 PSJ 3:50
+https://doi.org/10.3847/PSJ/ac4e91
+
+Modeling the Distribution of Organic Carbon and Nitrogen in Impact
+Crater Melt on Titan
+Joshua E. Hedgepeth et al. 2022 PSJ 3:51
+https://doi.org/10.3847/PSJ/ac4d9c
+
+The Arecibo Observatory as an Instrument for Investigating Orbital
+Debris: Legacy and Next Generation Performance
+James Murray and Fredrick Jenet 2022 PSJ 3:52
+https://doi.org/10.3847/PSJ/ac4d96
+
+Probing the Icy Shell Structure of Ocean Worlds with
+Gravity-Topography Admittance
+Ryunosuke Akiba et al. 2022 PSJ 3:53
+https://doi.org/10.3847/PSJ/ac4d2b
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

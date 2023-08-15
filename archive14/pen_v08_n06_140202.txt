@@ -1,0 +1,370 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 6 (February 2, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Request for Information (RFI) for MaterialsLAB Workshop: New 
+   Workshop Dates
+2. [NASA] Mars Critical Data Products Program (Round IX) - Initial 
+   Landing Site Characterization for the Mars 2020 Rover Mission
+3. NASA Postdoctoral Fellowships
+4. [NASA] Cancellation of the Lunar Advanced Science and Exploration 
+   Call
+5. AOGS Special Session PS04: C/ISON and Other Comets of 2013
+6. AOGS Special Session PS05: Polarimetry of Solar System, Exoplanets,
+   Brown Dwarfs and Disks
+7. NASA Solar System Exploration Research Virtual Institute's 
+   Exploration Science Forum
+8. Call for Abstracts for the International Workshop on Instrumentation 
+   for Planetary Missions
+9. Mars Exploration Science Monthly Newsletter: February 2014
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] REQUEST FOR INFORMATION (RFI) FOR MATERIALSLAB WORKSHOP: NEW 
+WORKSHOP DATES
+
+NASA has rescheduled the MaterialsLAB Workshop from the original 
+January dates to April 15-16, 2014. The workshop is being held to 
+advise NASA on future research directions for the microgravity 
+materials science program. The two-day event will bring together 
+scientists and engineers from academia, industry, and other government 
+agencies to assist NASA in identifying key engineering drivers and 
+research priorities for the next generation of materials science 
+experiments to be developed for the International Space Station.
+ 
+The full RFI and submission instructions can be found at: 
+
+http://tinyurl.com/mrhxt9g
+
+Topical areas for the workshop break-out sessions include: Metals, 
+Semiconductors, Polymers, Biomaterials, Nanomaterials, Glasses, 
+Granular Materials, Ceramics, Organics, and Composites.
+ 
+You can register for the workshop at: 
+
+http://icpi.nasaprs.com/NASAmaterialsLABWorkshop2014
+ 
+NASA Primary Point of Contact (POC):
+Patton Downey 
+Technical Manager of Microgravity Materials 
+Marshall Space Flight Center
+patton.downey@nasa.gov
+256.544.6432
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] MARS CRITICAL DATA PRODUCTS PROGRAM (ROUND IX) - INITIAL LANDING
+SITE CHARACTERIZATION FOR THE MARS 2020 ROVER MISSION
+
+The Mars Exploration Program has issued, in January 2014, a Request for 
+Proposal (RFP) for Round IX of the Mars Critical Data Products program. 
+This RFP provides support for initial landing site surface, atmosphere, 
+and gravity characterization for the Mars 2020 rover mission. The 
+intent is to convert mission data and numerical simulations into 
+products focused on specific landing site targets (to be provided by 
+the program) that will be useful for reducing the risk to the Mars 2020 
+rover mission. 
+
+Proposals are due on Wednesday, March 5, 2014.
+ 
+Details of the RFPs are posted at: 
+
+https://acquisition.jpl.nasa.gov/rfp/WH-2691-120313.htm 
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18696         
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar may 
+apply.
+ 
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/18GSlHK
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] CANCELLATION OF THE LUNAR ADVANCED SCIENCE AND EXPLORATION CALL
+
+The Lunar Advanced Science and Exploration Research (LASER) program 
+funds basic and applied lunar science. The objective of the LASER 
+program was to conduct a suite of lunar science investigations spanning 
+the continuum from basic science to applied exploration science. 
+Proposals having significant components of both basic and applied lunar 
+science that further our understanding of the Moon and how to conduct 
+science there are sought and highly encouraged.
+ 
+When ROSES 2013 was released a year ago it included the LASER call with 
+had a due date in spring 2014. Since the Planetary Science Division has 
+reorganized its research program this call is redundant with new calls 
+that will be released this year. See:
+
+http://www.lpi.usra.edu/PSD-RandA/
+
+Proposers to LASER should look for ROSES 2014 Appendix C.8, the Lunar 
+Data Analysis Program (LDAP) program, as well as ROSES 2014 Appendices 
+C.2, Emerging Worlds; C.3, The Solar System Workings program; and C.7, 
+Planetary Data Archiving, Restoration, and Tools.
+ 
+Questions may be directed to:
+
+Robert Fogel 
+202-358-2289
+rfogel@nasa.gov
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS SPECIAL SESSION PS04: C/ISON AND OTHER COMETS OF 2013
+
+The year 2013 saw many interesting comets, from C/PanSTARRS, C/Lemmon, 
+2P/Encke to the globally observed sungrazer, C/ISON, and discovery of 
+C/Lovejoy. With the ROSETTA mission on its way to its target 67P/CG, 
+the field of cometary sciences is providing a rich field for observers, 
+modellers, and experimentalists to expand the field. We invite invited 
+and contributed presentations that address any aspect of these comets 
+of 2013 and other cometary studies. We anticipate a half-day to a full 
+day session.
+
+Abstract Deadline: 11 February 2014
+
+http://www.asiaoceania.org/aogs2014/public.asp?page=abstract.htm
+
+Conveners:
+
+Padma A Yanamandra-Fisher (Space Science Institute, USA) 
+padmayf@gmail.com
+
+Takafumi Oortsubo (Tohulu University, Japan)
+ootsubo@astr.tohuku.ac.jp
+
+Jessica Aggarwal (Max Planck Institute, Germany)
+je.aggarwal@gmail.com
+
+Claudia Alexander (CIT/Jet Propulsion Laboratory, USA)
+claudia.alexander@jpl.nasa.gov
+
+Ludmilla Kolokolova (University of Maryland, USA) 
+ludmilla@astro.umd.edu
+
+Junichi Watanabe (National Astronomical Obs. of Japan, Japan) 
+jun.watanabe@nao.ac.jp
+
+A.-Chantal Levasseur-Regourd (PMC Univ. Paris 6/CNRS-IPSL, France) 
+anny-chantal.levasseur@aerov.jussieu.fr
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AOGS SPECIAL SESSION PS05: POLARIMETRY OF SOLAR SYSTEM, EXOPLANETS,
+BROWN DWARFS AND DISKS
+
+Polarimetry is currently enjoying a rejuvenation in various 
+astronomical applications. As a complementary technique to imaging and 
+spectroscopy, polarization allows the investigation of scattering 
+properties of variety of media ranging from planetary atmospheres, 
+comets, small bodies (planetary satellites, asteroids, Kuiper Belt 
+objects, etc.) to detection and characterization of exoplanets, brown 
+dwarfs, star and planet forming regions; characterization of magnetic 
+fields and search for optically active molecules in a search for 
+habitability elsewhere than our earth. We invite contributions from 
+observers, modellers, laboratory measurements, instrument designers 
+and missions. We anticipate half to one day of presentations including 
+oral and poster contributions. 
+
+Abstract Deadline: 11 February 2014
+
+http://www.asiaoceania.org/aogs2014/public.asp?page=abstract.htm
+
+Conveners:
+
+Motohide Tamura (The University of Tokyo/NAOJ, Japan) 
+motohide.tamura@nao.ac.jp
+
+Padma A Yanamandra-Fisher (Space Science Institute, USA) 
+padmayf@gmail.com
+
+Koji Kawabata (Hiroshima University, Japan) 
+kawabtkj@hiroshima-u.ac.jp
+
+Junichi Watanabe (National Astronomical Observatory of Japan, Japan)
+jun.watanabe@nao.ac.jp
+
+Frans Snik (Leiden University, Netherlands) 
+snik@strw.leidenuniv.nl
+
+Ludmilla Kolokolova (University of Maryland, USA) 
+ludmilla@astro.umd.edu
+
+Sujan Sengupta (Indian Institute of Astrophysics, India) 
+sujan@iiap.res.in
+
+Jun Takahashi (University of Hyogo, Japan) 
+takahashi@nhao.jp
+
+A.-Chantal Levasseur-Regourd (PMC Univ. Paris 6 / CNRS-IPSL, France) 
+anny-chantal.levasseur@aerov.jussieu.fr
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA SOLAR SYSTEM EXPLORATION RESEARCH VIRTUAL INSTITUTE'S EXPLORATION
+SCIENCE FORUM
+
+First Announcement
+
+The Solar System Exploration Research Institute (SSERVI) is pleased to 
+announce the 1st annual NASA Exploration Science Forum (ESF), to be 
+held in person July 21-23, 2014 at NASA Ames Research Center, Moffett 
+Field, CA. This year's forum will feature scientific discussions of 
+exploration targets of interest (the Moon, near-Earth asteroids, and 
+the moons of Mars). Science sessions will focus on recent mission 
+results and in-depth analyses of science and exploration studies. 
+Dedicated side-conferences for graduate students and young 
+professionals (a graduate student conference and Next Generation Lunar 
+Scientists and Engineers, NGLSE) will coincide with the ESF. Public 
+engagement discussions will be interwoven among science topics as well. 
+Additionally, a 1.5-day meeting discussing science and exploration in 
+the Global Exploration Roadmap (GER) will immediately follow the ESF, 
+where the scientific community is welcome to attend. 
+ 
+Abstracts will be accepted February 18 through midnight PDT April 26, 
+2014 at:
+
+http://sservi.nasa.gov/NESF2014/
+
+The next announcement (February 2014) will discuss Exploration Science 
+Forum logistics and details on the GER meeting.  
+  
+We look forward to another exciting meeting focusing on the 
+intersection of science and exploration!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR ABSTRACTS FOR THE INTERNATIONAL WORKSHOP ON INSTRUMENTATION
+FOR PLANETARY MISSIONS
+
+NASA/GSFC will host  the International Workshop on Instrumentation 
+for Planetary Missions November 4-7, 2014,  Greenbelt, Maryland 
+(Washington DC, USA).
+ 
+The objective of the Workshop is to have a broad canvas of 
+instrumentation and technology available to upcoming 'Decadal Survey' 
+missions and those further out. It is also meant to be a forum of 
+collaboration, exchange and discussions where science questions, and 
+the technology needed to address them, are discussed.
+
+Workshop details and abstract submission instructions can be found 
+here:
+ 
+http://ssed.gsfc.nasa.gov/IPM/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: FEBRUARY 2014
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and Amy 
+Hale of the Mars Program Science Office, the latest newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 9-11, 2014
+http://akari.open.ac.uk/
+The Universe in the Light of Akari and Synergy with Future Large Space
+Telescopes
+Oxford, United Kingdom
+
+July 21-23, 2014
+NASA Exploration Science Forum (ESF)
+http://sservi.nasa.gov/NESF2014/
+Moffett Field, CA
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,660 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 28 (July 8, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session P023: Impacts of Space Wather from the Sun and Active
+   Stars on Atmospheric Evolution of Terrestrial (Exo)Planets
+2. AGU Session P026:  Mars Global Climate Modeling: From the Surface
+   to the Exobase
+3. AGU Session P033: Planet Mercury - Present Understanding and
+   Promise for Future Discovery
+4. AGU Session P038: Results from the Investigation of Jupiter's
+   Atmosphere by Juno and a Supporting Campaign of Earth-Based 
+   Observations
+5. AGU Session P049: The Interiors of Jupiter and Saturn in the Era of
+   Juno and Cassini
+6. AGU Session P051: The Role of Extreme Atmospheric Escape from Hot
+   Exoplanets 
+7. AGU Session P056: Titan - Looking Backward, Looking Forward
+8. AGU Session P058: Unanswered Questions in Mars Atmospheric Science
+   - What Future Observations are Best Suited to Addressing Them?
+9. AGU Session SM011: Moon-Plasma Interactions Throughout the Solar
+   System
+10. AGU Session SM013: Our Evolving Understanding of Auroral Processes
+    and Magnetosphere Dynamics at Jupiter Through Juno and Earth-Based
+    Observations
+11. Planetary Geomorphology Image of the Month
+12. Odyssey Data Release 64
+13. Cassini Data Release 54
+14. Mars Exploration Science Monthly Newsletter for July, 2018
+15. LSST Call for White Papers on Survey Strategy
+16. Job Announcement: Faculty Position in Space-Based Instrumentation 
+    at the University of Iowa
+17. Job Announcement: Research Support Specialist II at Cornell
+    University
+18. GSA Annual Meeting 2018 Session T149: Volcanism and Tectonism on
+    Planetary Bodies 
+19. Planetary Meetings Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION P023: IMPACTS OF SPACE WATHER FROM THE SUN AND ACTIVE STARS
+ON ATMOSPHERIC EVOLUTION OF TERRESTRIAL (EXO)PLANETS
+
+Section/Focus Group: Planetary Sciences
+
+Recent explosion of the discovered terrestrial exoplanets around active
+G-M dwarfs raises a fundamental question about how to detect habitable
+worlds. Recently detected superflares on late-type stars and associated
+space weather in the form of XUV emission, coronal mass ejection and
+solar energetic particle events can cause atmospheric erosion and
+chemical changes. These factors may present significant challenges for
+surface habitability. The proposed session invites theoretical,
+observational and laboratory studies that shed light on factors of
+atmospheric ion and neutral escape from the current and early Earth,
+Mars and exoplanetary atmospheres including chemical changes due to
+various factors of space weather.
+
+Session Conveners: 
+Vladimir Airapetian (NASA/GSFC) vladimir.airapetian@nasa.gov
+Shannon Curry (UC Berkeley) smcurry@ssl.berkeley.edu
+Convener Glyn Collinson (NASA/GSFC) glyn.collinson@gmail.com 
+
+Abstract submission:
+
+https://fallmeeting.agu.org/2018/abstract-submissions/ 
+
+Abstracts are due: 1 August 2018, 11:59 PM EDT
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P026:  MARS GLOBAL CLIMATE MODELING: FROM THE SURFACE TO 
+THE EXOBASE
+
+Dear Colleagues,
+
+We invite you to consider submitting an AGU abstract to our special
+session.
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/53132
+
+Global climate models (GCMs) are used in conjunction with a variety of
+observational data sets to address critical questions regarding the
+climate of Mars and how it has evolved over time. There are now many
+groups worldwide that develop and use Mars GCMs, employing a variety of
+representations of relevant physical processes. The goal of this
+session is to bring together scientists from different climate modeling
+groups to discuss the current state of models, future development
+plans, and recent scientific insights from climate modeling efforts.
+Contributions are solicited that focus on modeling strategies as they
+pertain to the development of advanced physics routines, modern
+geophysical fluid global frameworks, and the application of such
+numerical tools toward questions relating to the past, current and
+future climates of Mars. This includes, but is not limited to, the
+physical representation of sub-grid scale mixing, cloud microphysics,
+dust lifting, radiative transfer, and photochemistry.
+
+Abstract submission deadline: 1 August 2018 23:59 EDT
+
+Conveners: 
+
+Robert Michael Haberle 
+Vandana Jha NASA Ames Research Center
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P033: PLANET MERCURY - PRESENT UNDERSTANDING AND PROMISE 
+FOR FUTURE DISCOVERY
+
+We are pleased to announce a session on Mercury at the 2018 AGU Fall
+Meeting in Washington, DC, December 10-14, 2018.
+
+Our understanding of Mercury's surface, interior, exosphere, and
+magnetosphere has been revolutionized by data returned by NASA's
+MESSENGER mission. With the launch of the ESA-JAXA BepiColombo dual
+spacecraft mission to Mercury in October this year, that understanding
+will take another substantial step forward. We solicit contributed
+papers on data analysis, laboratory measurements, ground-based
+observations, and theoretical developments that build on the current
+state of knowledge of Mercury. We also welcome papers on how questions
+raised by MESSENGER findings can be addressed by future observations
+expected from BepiColombo.
+
+Please consider submitting an abstract for this session. For more
+information,visit:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/43603
+
+The submission deadline is Wednesday, August 1, 2018.
+
+Conveners: 
+
+Paul Byrne (North Carolina State University) 
+Johannes Benkhoff (European Space Agency) 
+Sean Solomon (Columbia University)
+
+We look forward to seeing you in December!
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P038: RESULTS FROM THE INVESTIGATION OF JUPITER'S 
+ATMOSPHERE BY JUNO AND A SUPPORTING CAMPAIGN OF EARTH-BASED 
+OBSERVATIONS
+ 
+You are invited to submit abstracts to Juno-related 2018 AGU Fall
+Sessions by the August 1 deadline.
+ 
+Primary convener: Glenn S. Orton
+Conveners: Scott Bolton, Cheng Li, Gordon Bjoraker
+ 
+NASA's Juno mission operates a spacecraft in 53-day polar orbits around
+Jupiter, with the ultimate goals of understanding Jupiter's origin and
+evolution. One specific objective is to establish the structure,
+composition and dynamics of the deep atmosphere and its relationship
+with the upper atmosphere. Juno's polar orbit with close approaches
+near the terminator only a few thousand kilometers above the cloud tops
+provides the opportunity to characterize poorly explored polar regions
+and to study the characteristics of cloud dynamics and composition at
+spatial resolutions as fine as 6 km. An integral part of Juno's
+exploration is a campaign of Earth-based observations that extend and
+enhance spacecraft results by complementing Juno's spatial, temporal
+and spectral coverage. This session welcomes presentations involving
+all results obtained by and in support of the Juno mission, including
+not only results of Juno and Earth-supporting observations but also
+theoretical modeling of atmospheric structure, composition and
+dynamics. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P049: THE INTERIORS OF JUPITER AND SATURN IN THE ERA OF 
+JUNO AND CASSINI
+ 
+You are invited to submit abstracts to Juno-related 2018 AGU Fall
+Sessions by the August 1 deadline.
+      
+Primary Convener: David Stevenson
+Conveners: Hao Cao, Scott Bolton, Luciano Iess
+     
+The ongoing Juno mission and the recently concluded Cassini mission
+have provided a wealth of new measurements (e.g. gravity field,
+magnetic field, composition, seismic waves) revealing key aspects of
+the interiors of Jupiter and Saturn for the first time. Examining these
+new measurements from both planets, separating common themes from
+specific expressions, is a critical step towards a coherent
+understanding of the formation, evolution, and interior dynamics of
+giant planets in the solar system and beyond. This session will bring
+together observation and interpretation of gravity field, magnetic
+field, composition, seismic waves at Jupiter and Saturn. Topics will
+include depth of strong differential rotation (zonal flows), helium and
+heavy element abundance, generation of intrinsic magnetic field,
+existence and properties of the central core, seismic, thermal, and
+magnetic consequences of stable stratification, as well as formation
+scenarios and evolution pathways.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P051: THE ROLE OF EXTREME ATMOSPHERIC ESCAPE FROM HOT 
+EXOPLANETS 
+
+Section/Focus Group: Planetary Sciences 
+
+https://agu.confex.com/agu/fm18/gateway.cgi 
+ 
+One of the most significant advances in planetary science has been the
+discovery of a large and incredibly diverse population of extrasolar
+planets thanks to recent surveys like the Kepler mission. Follow-up
+observations have shown that these planets have a wide range of
+compositions and atmospheric properties. However, these planets are
+also typically on short-period highly irradiated orbits where their
+atmospheres are bombarded by an extreme environment that can include
+intense XUV irradiation, highly energetic giant impacts, strong tidal
+forces, and interactions with stellar winds and CMEs. In order to
+understand these populations it is therefore essential that we examine
+the physical processes that govern the retention or loss of planetary
+atmospheres under extreme conditions, as well as the constraints that
+we can place on these processes from exoplanet observations.
+
+Session Conveners: 
+
+Eric Lopez (NASA GSFC)
+Vladimir Airapetian (NASA/GSFC)
+Katherine Garcia-Sage (NASA/GSFC)
+ 
+Abstract submission:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/52616
+
+Abstracts are due: 1 August 2018, 11:59 PM EDT
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P056: TITAN - LOOKING BACKWARD, LOOKING FORWARD  
+
+During the Cassini-Huygens mission from 2004 to 2017, Titan was
+revealed like never before: from the discovery of surface lakes and
+seas, dune fields and rare impact craters; through the meteorology of
+the neutral atmosphere; to the chemical melting pot of the ionosphere,
+where the seeds of organic particles that cover Titan's surface are
+born. Much of the Cassini-Huygens dataset has only been partially
+explored, and many more discoveries await therein. While the
+Cassini-Huygens dataset is complete, ground and space-based telescopes
+continue to point at Titan, and computer modeling and laboratory
+experimentation continue apace. Looking further ahead, new missions
+such as the proposed APL Dragonfly aerorover, promise that we will not
+be absent from Titan for long. In this session, scientific
+presentations are solicited to cover the whole spectrum of current
+Titan research, from interpretation of past mission data, experimental
+and observational work, and modeling for future missions.
+
+Abstract are due August 1st.
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/47319
+
+Conveners:
+
+Conor A Nixon, NASA Goddard Space Flight Center 
+Alexander Hayes, Cornell University 
+Kathleen Mandt, The Johns Hopkins University Applied Physics Laboratory 
+Christophe Sotin, NASA Jet Propulsion Laboratory
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P058: UNANSWERED QUESTIONS IN MARS ATMOSPHERIC SCIENCE 
+- WHAT FUTURE OBSERVATIONS ARE BEST SUITED TO ADDRESSING THEM?
+
+We invite you to submit an abstract to this session by Wednesday, 1
+August 23:59 EDT.
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/52581
+
+Our understanding of the Martian atmosphere and processes affecting it
+has advanced significantly in the last two decades, thanks in large
+part to the suite of Mars-orbiting sensors that have provided unique
+insights into atmospheric structure and variability. However,
+significant uncertainties remain, particularly related to the role of
+the atmosphere in the Martian dust and water cycles. New observations
+are needed to make progress on many of these issues. For example,
+multiple studies have identified vertical profiles of wind and water
+vapor as two such outstanding measurement needs. This session welcomes
+papers that elucidate the remaining questions and link them to
+observational needs. Studies that quantify performance requirements on
+such observations (resolution, uncertainty, coverage etc.), including
+through reference to model atmospheres and study and/or assimilation of
+simulated measurements, are particularly encouraged. Papers that
+identify specific future measurement approaches and instruments, and
+quantify their capabilities are also solicited.
+
+Conveners: 
+
+Don Banfield (Cornell)
+Nathaniel Livesey (JPL)
+Scot Rafkin (SwRI)
+Leslie Tamppari (JPL)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION SM011: MOON-PLASMA INTERACTIONS THROUGHOUT THE SOLAR SYSTEM
+
+We cordially invite you to submit abstract to the Moon-Plasma
+Interactions Throughout the Solar System Session at the 2018 AGU Fall
+Meeting.
+
+This session is Co-Organized with Planetary Sciences.
+
+Link: https://agu.confex.com/agu/fm18/prelim.cgi/Session/42874
+
+This session will focus on new observational and theoretical studies of
+the interaction between the moons of our solar system and the
+magnetized plasmas incident upon them. This includes plasma
+interactions with the solid surfaces, atmospheres, dust environments,
+and intrinsic and induced magnetic fields of the moons, both inside and
+outside of their parent planets' magnetospheres. Of special interest
+are results related to in-situ field and particle measurements near the
+terrestrial moon and from Cassini's flybys of Saturn's icy satellites
+Enceladus, Rhea and Dione. Studies deepening our understanding of the
+interconnection between Titan's ionosphere and its highly dynamic
+magnetospheric environment are also very welcome. The interaction of
+Jupiter's moons with the ambient magnetospheric plasma will be
+addressed with a view to provide support to the ongoing Juno Mission
+and the planning of synergistic measurements for the upcoming JUICE
+Mission. Comparative studies of the various moon-plasma interaction
+scenarios are particularly welcome.
+
+Conveners: Lucas Liuzzo, Sven Simon, Sean Hsu, Lorenz Roth
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION SM013: OUR EVOLVING UNDERSTANDING OF AURORAL PROCESSES AND
+MAGNETOSPHERE DYNAMICS AT JUPITER THROUGH JUNO AND EARTH-BASED 
+OBSERVATIONS
+
+Session Description: Our view and understanding of Jupiter's auroras
+and magnetosphere are ever-changing as Juno continues to explore these
+regions in situ with coordinated efforts from Earth-based observatories
+such as Hubble, Hisaki, Keck, etc. These new measurements have
+illuminated new and exciting discoveries that are challenging our
+theoretical ideas. This session seeks submissions covering new
+observations and interpretations, theories, and models of Jupiter's
+auroral regions, magnetosphere and/or ionosphere and their connection.
+Specifically, this session will cover the following topics: observation
+and theory of auroral acceleration including wave-particle
+interactions; auroral phenomenology, magnetosphere-ionosphere coupling;
+plasma sheet dynamics; outer boundary structure and dynamics, and
+particle acceleration and transport.
+
+This session aims to share the most recent observations and ideas
+regarding Jupiter's magnetosphere, while providing a forum that takes a
+multidisciplinary approach to furthering our knowledge of this system.
+For more details, please go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/51758
+
+Session Conveners: 
+
+Robert Ebert and Scott Bolton, Southwest Research Institute 
+George Clark, Applied Physics Laboratory
+Masafumi Imai, University of Iowa
+
+Abstract Deadline - August 1, 2018, 11:59 PM EDT
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The July image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "Enigmatic Normal Faults on Ceres". Contributed
+by Kynan Hughson, Department of Earth, Planetary, and Space Sciences,
+University of California, Los Angeles, USA.
+ 
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+ 
+http://www.facebook.com/PlanetaryGeomorphology
+ 
+or Twitter: @PlanetGeomorpho
+ 
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ODYSSEY DATA RELEASE 64
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Odyssey Data, Release 64, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Release 189)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer
+returns data. The HEND and neutron spectrometer components continue to
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180702.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+CASSINI DATA RELEASE 54
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 54, July to September 2017, for instruments:
+
+CDA
+CIRS
+INMS
+ISS
+MIMI
+RADAR
+RPWS
+RSS
+UVIS
+VIMS
+
+MAG data will be available shortly. Previous HRD and SPICE releases
+covered to the end of mission.
+
+Please note that while the data products from this release are
+available online now through the links below, they may not be
+immediately accessible through PDS web services such as the Planetary
+Image Data Atlas. Large data sets may take as long as a few days beyond
+the formal release date to be incorporated into these services. Check
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180705.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818)393-7165
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JULY, 2018
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the July 2018
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+LSST CALL FOR WHITE PAPERS ON SURVEY STRATEGY
+
+Dear Colleagues,
+
+The LSST science community is invited to play a key role in the
+definition of LSST's Observing Strategy. The LSST Project is soliciting
+white papers to help plan various aspects of the survey strategy; more
+details are available at:
+
+http://ls.st/c66
+
+The deadline for white paper submission is November 30, 2018. The
+submission details can be found at the above link.
+
+Sincerely,
+Zeljko Ivezic, Lynne Jones, and Tiago Ribeiro,
+for the LSST Project and LSST Science Advisory Committee
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+JOB ANNOUNCEMENT: FACULTY POSITION IN SPACE-BASED INSTRUMENTATION AT
+THE UNIVERSITY OF IOWA
+
+The Department of Physics and Astronomy at the University of Iowa is
+seeking an outstanding researcher active in experimental space-based
+research to fill a tenure-track faculty position beginning Fall 2019.
+Candidates in all areas of space-based astronomy, heliophysics, and
+planetary science are encouraged to apply. The position may be filled
+at the Assistant or Associate Professor level. To apply, please go to
+the Jobs@UIowa website: 
+
+https://jobs.uiowa.edu/faculty/view/73018
+
+Applications should arrive prior to October 15, 2018 to receive full
+consideration.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+JOB ANNOUNCEMENT: RESEARCH SUPPORT SPECIALIST II AT CORNELL UNIVERSITY
+
+The Cornell Center for Astrophysics and Planetary Science (CCAPS) is
+seeking candidates to fill a position expected to be available this
+summer. The successful candidate is expected to support a three to four
+year project to design, construct, install and commission a 40-beam
+cryogenically cooled phased array feed system operating at a frequency
+of 1.4 GHz (20 cm wavelength) intended for use on the 305 m Arecibo
+radio telescope in Puerto Rico. The responsibilities of the successful
+candidate will be to assist in refining the current design of the 1.4
+meter diameter dewar and its associated cooled dipole and low noise
+amplifier arrays, take a leading role in organizing the fabrication and
+procurement of the dewar, its internal components and the monitor and
+control system, and assist with testing of the instrument and planning
+for its installation on the telescope. 
+
+Qualifications Requirements
+Bachelor's Degree with 3-5 years of Experience 
+CAD Design such as Solid Works Required
+Familiarity with Windows
+Mac OS X
+Linux Systems
+ 
+Apply online at:
+
+https://cornell.wd1.myworkdayjobs.com/en-US/CornellCareerPage/job/
+Ithaca-Main-Campus/Research-Supp-Spec-II_WDR-00015536-1
+ 
+For Additional Information Please Contact:
+Ms. Lynda Sovocool
+607-255-4342
+Lmk3@cornell.edu
+
+[Edited for length.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+GSA ANNUAL MEETING 2018 SESSION T149: VOLCANISM AND TECTONISM ON
+PLANETARY BODIES
+
+We invite contributions to a session on tectonic, volcanic, and
+volcanotectonic processes on solar system bodies at the 2018 GSA Annual
+Meeting in Indianapolis, IN, November 4-7.
+
+Volcanism and tectonism are among the most ubiquitous processes at work
+in the Solar System, substantially shaping the surfaces of worlds as
+diverse as the terrestrial planets, icy satellites, and minor bodies.
+Through a combination of solicited and contributed presentations, this
+session will host observational, laboratory, theoretical, or analogue
+fieldwork research into any aspect of planetary volcanic and tectonic
+activity. We particularly welcome submissions that compare landforms
+and processes on multiple bodies, including Earth, as well as how
+lessons from specific studies can be applied more generally to
+understanding volcanism and tectonism across this and even other solar
+systems.
+
+Please consider submitting an abstract for this session. For more
+information, visit:
+
+https://community.geosociety.org/gsa2018/science-careers/sessions/
+abstracts
+
+The submission deadline is August 14, 2018.
+
+Conveners: 
+
+Paul Byrne (North Carolina State University) 
+Christian Klimczak (University of Georgia)
+
+We look forward to seeing you in Indianapolis.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 3-7, 2019
+Planetary Dynamics 2019
+http://www.mpia.de/homes/dynamics2019
+Heidelberg, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

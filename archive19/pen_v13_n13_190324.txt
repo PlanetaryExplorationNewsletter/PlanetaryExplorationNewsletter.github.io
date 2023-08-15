@@ -1,0 +1,406 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 13 (March 24, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Goldschmidt 2019 Session: Icy Waterworlds - Geochemistry of 
+   Subsurface Oceans in the Solar System
+2. Abstract Submission Open for the 2nd RPI Space Imaging Workshop
+3. EPSC-DPS Session SB4: Planetesimals - Primitive and Differentiated 
+   Small Bodies, Including Vesta and Ceres as Seen After the Dawn 
+   Mission
+4. EPSC-DPS Session SB8: Latest Science Results in Planetary Defense
+5. Announcing the 2019 NASA Planetary Volcanology Workshop in Hawaii:
+   Analogs to Volcanic Features and Processes in Satellite and Rover 
+   Images
+6. Subaru Telescope 20th Anniversary - Optical and Infrared Astronomy 
+   for the Next Decade
+7. First Announcement: Ice Giant Systems 2020
+8. Terrestrial Analog Survey Closing Soon
+9. Planetary Meeting Calendar Additions
+
+Commercial/Donative Announcements:
+
+C1. Dwornik Award GoFundMe Campaign
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+GOLDSCHMIDT 2019 SESSION: ICY WATERWORLDS - GEOCHEMISTRY OF SUBSURFACE
+OCEANS IN THE SOLAR SYSTEM
+
+August 18-23
+Barcelona, Spain 
+Abstract submission deadline: March 29
+
+Session 01c at the following link: 
+
+https://goldschmidt.info/2019/program/programViewThemes
+
+The discovery of vast liquid water oceans under the icy surfaces of 
+moons in the outer Solar System has defined a new priority in planetary 
+exploration. Understanding these oceans will reveal fundamental 
+insights into aqueous geochemistry in the universe, the role of 
+water/rock interaction in planetary evolution, and possibly the origins 
+of life. This session will explore current state of knowledge and 
+pressing questions for constraining the chemistry and habitability of 
+these oceans. We are looking to attract a broad range of investigators, 
+and welcome submission covering: icy moon ocean evolution, water-rock 
+interaction, water-ice interaction, cryovolcanism, the delivery of 
+material to the surface of icy moons or the remote detection of 
+ocean-derived material from Earth or spacecraft-based observation. 
+Chris Glein from Southwest Research Institute will deliver a keynote 
+talk, titled 'Alien Oceans as a New Frontier for Geochemistry'. The 
+deadline for abstract submissions is the 29th March. Come and join us 
+in Barcelona!
+
+https://goldschmidt.info/2019/abstracts
+
+Co-conveners: 
+Mark Fox-Powell (University of St. Andrews) 
+Nisha Ramkissoon (Open University)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABSTRACT SUBMISSION OPEN FOR THE 2ND RPI SPACE IMAGING WORKSHOP
+
+We invite extended abstracts (due April 26, 2019) for the RPI Space 
+Imaging Workshop. The workshop, which addresses all aspects of science 
+and exploration with space imagery, will be held 28-30 October 2019 in 
+Saratoga Springs, NY. More details and the abstract submission webform 
+may be found online at: 
+
+http://seal.rpi.edu/workshop/2019  
+
+Although images of space objects have been used for decades, there are 
+many common challenges in the use of image data for planetary science, 
+optical navigation, and space situational awareness. This workshop aims 
+to facilitate the dissemination of ideas between all of the communities 
+using space image data and to identify areas of common need. The 
+workshop program includes: technical papers and posters, student paper 
+competition, focused breakout sessions, keynote talks from Dr. Andrew 
+Johnson (JPL) and Dr. Carter Emmart (AMNH), and a short course on space 
+image processing with MATLAB taught by instructors from MathWorks.
+
+The workshop is organized by Rensselaer Polytechnic Institute (RPI) in 
+Troy, NY, and is co-sponsored by the American Astronautical Society 
+(AAS).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC-DPS SESSION SB4: PLANETESIMALS - PRIMITIVE AND DIFFERENTIATED
+SMALL BODIES, INCLUDING VESTA AND CERES AS SEEN AFTER THE DAWN MISSION
+
+This session welcomes contributions addressing asteroid science 
+primarily building on data from the Dawn and other spacecraft missions, 
+along with complementary observations from ground and space telescopic 
+assets. Studies on the composition, geological properties, surface and 
+internal processes of Vesta, Ceres, and other Main Belt asteroids in 
+general are encouraged. We also foster studies on the formation of 
+planetesimals, their differentiation, and further evolution, including 
+their collisional break-up and creation of families of new generation 
+asteroids. Contributions shedding new light on the processes driving 
+asteroid accretion, evolution, and the information they bring to early 
+Solar System history, are also welcomed. This session aims to provide 
+an update on the state of knowledge of the Main Belt.
+
+The abstract submission deadline is May 8, 2019, 13:00 CEST:
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34459
+
+Looking forward to seeing you in Geneve,
+
+The conveners,
+
+Mauro Ciarniello
+Julie Castillo-Rogez
+Daniele Fulvio
+Simone Ieva
+Katharina Otto
+Marcel Popescu
+Andrea Raponi
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC-DPS SESSION SB8: LATEST SCIENCE RESULTS IN PLANETARY DEFENSE
+
+We would like to invite you to send an abstract to Session SB8, "Latest 
+Science Results in Planetary Defence" at the EPSC-DPS Joint Meeting on 
+September 15-20, 2019 in Geneva.
+
+Abstracts are invited covering all aspects of planetary defense: 
+Results from space and ground based telescopic data, results from past 
+and ongoing missions that are relevant for planetary defence as well as 
+updates of planned missions that will significantly contribute and 
+enhance the scientific knowledge for the global planetary defence 
+strategy are welcome.
+
+More information about the session and a link to abstract submission 
+can be found at:
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34463
+
+Deadline is the 8th of May.
+
+Best regards, 
+
+The Conveners 
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ANNOUNCING THE 2019 NASA PLANETARY VOLCANOLOGY WORKSHOP IN HAWAII:
+ANALOGS TO VOLCANIC FEATURES AND PROCESSES IN SATELLITE AND ROVER 
+IMAGES
+
+July 11-17, 2019 
+
+This NASA-sponsored workshop will provide field-based experience on 
+Hawaiian volcanoes. We will study volcanic features analogous to those 
+on Mars that have been imaged recently by orbiter and rover missions, 
+comparing their field characteristics to their appearance in 
+remotely-sensed images. The workshop is intended for NASA-funded 
+senior graduate students who are currently working on volcanology 
+problems on Mars (or any other planet besides Earth), but are in need 
+of field experience on volcanoes.
+
+All expenses, including travel, will be covered on a reimbursement 
+basis. Please note that although U.S. citizenship is not required, all 
+applicants MUST be students or employees at a U.S. University or 
+Institution, AND their current study or work must be funded by a NASA 
+planetary research program. Because space is limited, preference will 
+be given to graduate students, but post-docs may also be accepted. 
+Previous Planetary Volcanology Workshop participants cannot be 
+considered. 
+
+For more information and application instructions, please contact 
+Sarah Fagents (fagents@hawaii.edu, 808-956-3163).
+
+Application deadline is April 22, 2019.
+
+Trip leaders: Scott Rowland, Pete Mouginis-Mark, and Sarah Fagents
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SUBARU TELESCOPE 20TH ANNIVERSARY - OPTICAL AND INFRARED ASTRONOMY FOR
+THE NEXT DECADE
+
+Date: November 17-22, 2019
+Venue: Waikoloa Beach, Marriott Resort & Spa, Hawaii, U.S.A.   
+
+The conference webpage: 
+
+https://subarutelescope.org/subaru20anniv/index.html
+
+This symposium will celebrate the 20th anniversary of Subaru and 
+highlight our recent scientific outcomes in parallel sessions. We also 
+aim to share and discuss the on-going/future large programs (to be) 
+conducted on Subaru Telescope including international collaborations 
+in the general session.
+
+Key topics of the General Session
+- Subaru User's Meeting FY2019 (Business session)
+- Subaru Strategic Programs (HSC, IRD, PFS)
+- International partnership
+- Synergy with Space and TMT
+
+Scientific Parallel Sessions
+- Solar System
+- Exoplanet and Star Formation
+- Local Group and Nearby Galaxies
+- Galaxy Formation
+- Supermassive Black Holes
+- Time Domain
+
+Please see the details on the website:
+
+https://subarutelescope.org/subaru20anniv/program.html#header10-1i
+
+For more detail information about Abstract Submission, Registration, 
+Financial Support, VISA issue, etc., please see the the conference 
+webpage.
+
+We look forward to seeing you in Big Island in November! 
+
+LOC: Sakurako Okamoto, Rhythm Shimakawa,
+
+Conference contact email: subaru20anniv_loc <AT> naoj.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FIRST ANNOUNCEMENT: ICE GIANT SYSTEMS 2020
+
+January 20-22, 2020 
+Royal Society, London
+
+Overview: New and ambitious missions to the distant Ice Giants and 
+their satellites will become a key element of our Solar System 
+exploration in the coming decades.
+
+Format: The meeting will consist of two days of invited plenary talks 
+and a third day of splinter workshops, aiming to showcase the cutting 
+edge of Ice Giant system research and the rationale for a return to 
+Uranus and Neptune. Plenaries and splinter workshops will be summarised 
+in a special issue of Philosophical Transactions of the Royal Society 
+A, reviewing state-of-the-art knowledge of the Ice Giant Systems. Go 
+to: 
+
+http://ice-giants.github.io
+
+Funding: The plenary discussion meeting is free to attend, sponsored by 
+the Royal Society. A small fee will be levied for the splinter 
+meetings. The early announcement of the meeting date should allow 
+contributors to seek funding for travel and accommodation in London 
+- US participants might consider the AAS international travel grant 
+program (deadline in June 2019); UK participants could look to the 
+Royal Astronomical Society travel grants (deadline in August 2019).
+
+Registration and Abstracts: A second announcement will be circulated 
+when the registration and abstract submission portals are open.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TERRESTRIAL ANALOG SURVEY CLOSING SOON
+
+Please take a few minutes to fill out this short anonymous survey about 
+Terrestrial Analog Studies! The USGS Astrogeology Science Center is 
+developing a terrestrial analog program, and we are working hard to 
+ensure that the products and services we create meet the needs of the 
+scientific community. Your responses will help identify areas of future 
+development. The survey will close on March 29th. 
+
+https://www.surveymonkey.com/r/X5QD8X3
+
+Please forward the above link as needed to interested community 
+members. If you have further questions or comments, please feel free to 
+contact Lauren Edgar (ledgar@usgs.gov). Thank you in advance for your 
+time.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 24-25, 2019
+NASA Small Bodies Assessment Group Meeting
+https://www.lpi.usra.edu/sbag/
+Washington, DC
+
+July 11-17, 2019
+2019 NASA Planetary Volcanology Workshop in Hawaii: Analogs to Volcanic 
+Features and Processes in Satellite and Rover Images 
+https://www.lpi.usra.edu/planetary_news/2019/03/20/nasa-planetary
+-volcanology-workshop-in-hawaii-analogs-to-volcanic-features-and
+-processes-in-satellite-and-rover-images
+Field sites, HI
+
+October 3-6, 2019
+38th International Meteor Conference
+https://imc2019.imo.net
+Bollmannsruh, Germany
+
+August 18-23, 2019
+Goldschmidt Barcelona 2019
+https://goldschmidt.info/2019
+Barcelona, Spain
+
+November 17-22, 2019
+Subaru Telescope 20th Anniversary - Optical and Infrared Astronomy for 
+the Next Decade
+https://subarutelescope.org/subaru20anniv/index.html
+Waikoloa Village, HI
+
+January 20-22, 2020
+Ice Giand Systems 2020
+http://ice-giants.github.io
+London, United Kingdom
+
+April 19-24, 2020
+European Conference on Laboratory Astrophysics ECLA 2020: Linking Dust, 
+Ice and Gas in Space
+http://frcongressi.net/ecla2020.meet
+Anacapri, Italy
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL/DONATIVE ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+DWORNIK AWARD GOFUNDME CAMPAIGN
+
+The Planetary Geology Division (PGD) of GSA has started a GoFundMe 
+campaign to raise $15,000 to help support the annual Dwornik Award. The 
+Dwornik Award recognizes outstanding graduate and undergraduate student 
+presentations (in both poster and oral categories) at the Lunar and 
+Planetary Science Conference (LPSC) each year. As the number of 
+students entering into the planetary field has increased, the 
+competitiveness of this award has also increased. In order to keep pace 
+with this increasing number, as well as with inflation, the PGD, under
+consultation with the GSA Foundation, aims to secure the future of the 
+Dwornik Award and make it self-sustaining. To do that requires your 
+help and we humbly ask that you consider contributing to help us reach 
+our $15,000 goal. To make a contribution or to learn more about this 
+campaign, the Dwornik Award, and Stephen E. Dwornik himself, please 
+visit:
+
+https://www.gofundme.com/dwornik-award-fund?member=1834286
+
+We thank you in advance for any contribution you can make to help us 
+reach this important goal. If you have any questions about this 
+campaign or the Dwornik Award, please do not hesitate to reach out to 
+myself or any of the PGD officers.
+
+Sincerely,
+Nick Lang, PGD Secretary-Treasurer
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

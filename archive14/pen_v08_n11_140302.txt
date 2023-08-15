@@ -1,0 +1,653 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 11 (March 2, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. Thomas Pierson, 1950-2014
+2. [NASA] ROSES-14: Planetary Science and Technology Through 
+   Analog Research
+3. [NASA] ROSES-14: Discovery Data Analysis Program
+4. [NASA] ROSES-14: Origins of Solar Systems Now Exoplanets Research
+5. [NASA] ROSES-14: Non-Discovery Data Analysis Proposals
+6. [NASA] ROSES-14: Numerous Changes
+7. ISC Session 38: Extraterrestrial Sedimentology
+8. Workshop on the Study of the Ice Giant Planets
+9. Mars Exploration Program Analysis Group (MEPAG) Face-to-Face Meeting
+10. 2014 YSS Undergraduate Research Conference Meeting Mentors
+11. NASA Postdoctoral Fellowships
+12. Student Travel Grants Available for Upcoming Mars Meetings
+13. Archived Presentations Available: Workshop on the Habitability of 
+    Icy Worlds
+14. Extended Submission Deadline: Venus Science and Exploration 
+    Special Issue of Planetary and Space Sciences
+15. Mars Critical Data Products Program (Round IX)
+16. Planetary Geomorphology Image of the Month
+17. LPSC: Planetary Science Undergraduate Faculty Workshop
+18. LPSC: Education and Public Outreach Help Desk
+19. LPSC Town Hall: Observations in the Solar System with HST and JWST
+20. LPSC: User Workshop for Mars ChemCam/LIBS Data
+21. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THOMAS PIERSON, 1950-2014
+
+Tom Pierson, who founded the SETI Institute and went on to become its 
+Chief Executive Officer for most of the organization's first thirty 
+years, died on February 20 of cancer. He had been on medical leave 
+since 2012.
+
+Under Pierson's guidance, the Institute grew from a tiny, narrowly 
+focused research center with a handful of employees to its current 
+status: an internationally known organization that is home to more 
+than 130 scientists, educators, and support staff. While founded to 
+conduct SETI searches, the Institute soon broadened its mandate to 
+encompass all aspects of understanding the nature and prevalence of 
+life beyond Earth.  
+
+For more about Tom, go to:
+
+http://www.seti.org/thomas-pierson-1950-2014
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-14: PLANETARY SCIENCE AND TECHNOLOGY THROUGH ANALOG 
+RESEARCH
+
+Future planetary research associated with solar system exploration 
+requires the development of relevant, miniaturized instrumentation 
+capable of extensive operations on lunar, asteroid, and planetary 
+surfaces throughout the Solar System. To this end, this Planetary 
+Science and Technology Through Analog Research (PSTAR) program solicits 
+proposals for investigations focused on exploring the relevant 
+environments on Earth in order to develop a sound technical and 
+scientific basis to conduct planetary research on other solar system 
+bodies. The PSTAR program is a science-driven exploration program that 
+is expected to result in new science and operational/technological 
+capabilities to enable the next generation of planetary exploration.
+ 
+Proposals to this program will be taken by a two-step process, in which 
+the Notice of Intent is replaced by a required Step-1 proposal 
+submitted by an organization Authorized Organizational Representative. 
+Only proposers who submit a Step-1 proposal are eligible to submit a 
+Step-2 (full) proposal. See Section 2.8 for details. Step-1 proposals 
+are due July 25, 2014, and Step-2 proposals are due September 26, 2014.
+ 
+For more information see:
+
+http://nspires.nasaprs.com/ 
+ 
+Questions may be addressed to:
+Sarah Noble or Mary Voytek
+sarah.noble-1@nasa.gov
+mary.voytek-1@nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-14: DISCOVERY DATA ANALYSIS PROGRAM
+
+The objective of the Discovery Data Analysis Program (DDAP) is to 
+enhance the scientific return of Discovery Program missions by 
+broadening the scientific participation in the analysis of data, both 
+recent and archived, collected by Discovery missions.
+ 
+This amendment changes the name of C.11 to the Discovery Data Analysis 
+Program and presents the final text, which replaces the placeholder 
+text in its entirety. Proposals to this program will be taken by a two-
+step process, in which the Notice of Intent is replaced by a required 
+Step-1 proposal submitted by an Authorized Organizational 
+Representative. Only proposers who submit a Step-1 proposal are 
+eligible to submit a Step-2 (full) proposal. See Section 2 for details. 
+Step-1 proposals are due July 21, 2014, and Step-2 proposals are due 
+September 19, 2014.
+ 
+"Research Opportunities in Space and Earth Sciences (ROSES) 2014" 
+(NNH14ZDA001N) is posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2014
+ 
+Questions concerning C.11, DDAP, may be addressed to:
+Christina Richey
+christina.r.richey@nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-14: ORIGINS OF SOLAR SYSTEMS NOW EXOPLANETS RESEARCH
+
+The Origins of Solar Systems (OSS) program element does not appear in 
+Research Opportunities in Space and Earth Science (ROSES) - 2014. 
+Appendix E.3 is now the Exoplanets Research Program.
+ 
+Proposals with scientific objectives that previously were included in 
+the OSS program element may now be submitted to Exoplanets Research 
+(E.3), Emerging Worlds (C.2), and Habitable Worlds (C.4). For more 
+information see Section 2.2 of Exoplanets Research (E.3). For details 
+on the limitations and requirements for these new program elements, 
+please refer to the text of these calls and the Planetary Science 
+Research Program Overview (Appendix C.1).
+ 
+Proposals to all of these programs must be submitted by a two-step 
+process, in which the Notice of Intent is now a required Step-1 
+proposal submitted by an organization Authorized Organizational 
+Representative. Only proposers who submit a Step-1 proposal are 
+eligible to submit a Step-2 (full) proposal. Step-1 due dates can be 
+found in Tables 2 and 3 of ROSES 2014 that may be found at: 
+
+http://solicitation.nasaprs.com/ROSES2014table2 
+
+and 
+
+http://solicitation.nasaprs.com/ROSES2014table3
+ 
+Questions concerning these changes may be directed to:
+Christina Richey or Larry Petro
+christina.r.richey@nasa.gov
+larry.d.petro@nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-14: NON-DISCOVERY DATA ANALYSIS PROPOSALS
+
+With the announcement of Amendment 3, that released final text for C.11 
+and changed the name to the Discovery Data Analysis Program, questions 
+have arisen as to where to submit proposals that do not fit within the 
+constraints of the Data Analysis Programs (such as non-Discovery 
+Mission data). 
+ 
+PSD solicits proposals for work that is primarily analysis of planetary 
+mission data through the Data Analysis Programs. If a proposal is not 
+appropriate for one of the Data Analysis programs but does fit within 
+the bounds of a Core Research Program (i.e. Solar System Workings or 
+Emerging Worlds), it should be submitted to that Core Program. If a 
+proposal would analyze data within the scope of more than one of the 
+data analysis programs, in order to perform comparative studies across 
+the Solar System, but is not appropriate to any one data analysis 
+program, then submission to a Core Research Program is encouraged. 
+ 
+Questions concerning C.11, DDAP, may be addressed to:
+Christina Richey
+christina.r.richey@nasa.gov
+ 
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-14: NUMEROUS CHANGES
+
+A number of clarifications and corrections were made to calls in 
+Appendix C of ROSES 2014. These include: All references to name of C.11 
+have been changed from the "Planetary Mission Data Analysis" program to 
+the "Discovery Data Analysis" program, consistent with the name change 
+from Amendment 3. Information on the two-step proposal submission 
+process was updated in all calls. A new sub section on data archiving 
+and map publications has been added to the many calls. Finally, in many 
+(but not all) calls the start date for projects given in the summary 
+table of key information has been set to "~6 months after Step-2 
+proposal due date." If a call has been updated there will be a number 
+of indications that this is the case: First, the text of the call will 
+have a dated bold notice at the top summarizing what changes have been 
+made. Second, the PDF version of the file will have "as clarified" at 
+the end of the name. Third, on the web page for each of the program 
+elements under "Notices" it will note that a change was made to that 
+call. Calls that are currently still TBD (e.g., C.4, C.7, C.8, C.19, 
+& C.20) have not yet been changed. As TBD calls are replaced with final 
+text SMD will issue Amendments to ROSES 2014.  
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ISC SESSION 38: EXTRATERRESTRIAL SEDIMENTOLOGY
+
+19th International Sedimentological Conference, Geneva, Switzerland, 
+August 2014
+
+http://www.sedimentologists.org/meetings/isc
+
+Gian Gabriele Ori, Clara Mangili
+
+Data and images from recent planetary missions show that sedimentary 
+processes shaped the surface of many planetary bodies. The rovers on 
+the surface of Mars observed sedimentary structures; orbiters around
+Mars show palaeolakes, rivers and deltas. Chemical conditions could 
+have sustained the origin of life on the planet. While Mars’ rivers 
+and lakes belong to the past, on Titan, its hydrocarbon lakes, rivers 
+and seas, sedimentary processes are presently at work. 
+
+Sedimentology appears to be a key in interpreting the geological 
+history of planetary bodies. Even on the Moon, many surficial processes 
+can be discussed in sedimentological terms. The interpretation of 
+these sedimentary deposits gives us indications for reconstructing 
+past climate conditions on Mars and Titan and a better key to 
+understand also Earth’s past and future.
+
+This session invites contribution on extraterrestrial sedimentology,
+in particular, based on Mars and Titan observations. Earth analogues, 
+a key in understanding the planetary processes, are also addressed. 
+The session accepts all contributions dealing with different 
+depositional environments, sedimentary sequences, facies models, as 
+well as technological and operational aspects of the planetary 
+exploration.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+WORKSHOP ON THE STUDY OF THE ICE GIANT PLANETS
+
+July 28–30, 2014
+Johns Hopkins Applied Physics Lab, Laurel, Maryland
+
+The goal of this 2.5-day workshop is to raise awareness of the 
+uniqueness/importance of ice giants in our solar system and others and 
+lay out key science goals and a potential suite of investigations for 
+New Frontiers-Flagship mission concepts. We will review the current 
+state of knowledge of all aspects of the ice giant planetary systems 
+(planets, satellites, rings, etc.), and how it relates to our knowledge 
+of the gas giants, planetary formation models, and the study of 
+exoplanets, incorporating outcomes of the 2013 Paris Uranus meeting. 
+We will initiate a major effort to prioritize the science goals of 
+future Uranus and Neptune missions and review studied architectures 
+for these mission concepts. Contributed talks/posters are welcome, 
+particularly those that focus on the state of knowledge and mission 
+studies. Abstract submission will open in early May 2014.
+ 
+To subscribe to a mailing list to receive future announcements and 
+updates, please complete the indication of interest form: 
+ 
+www.hou.usra.edu/meetings/icegiants2014/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION PROGRAM ANALYSIS GROUP (MEPAG) FACE-TO-FACE MEETING
+
+1.5 days, May 13-14, 2014, Crystal City Marriott in the Washington, DC 
+area 
+ 
+There have been many developments in Mars exploration over the past 
+year:  Discoveries by Curiosity and other operating Mars missions, the 
+release of the AO and the receipt of instrument proposals for the 2020 
+Mars Rover, the launches of NASA’s MAVEN and ISRO’s MOM missions to 
+Mars, the implications for Mars and Planetary Science of the passage 
+of the FY14 budget and release of the President’s proposed FY15 budget, 
+and the developing vision of human exploration at Mars.
+ 
+This meeting will report on the implications of these events as well 
+as the overall status of Mars exploration. Further, there will be a 
+report from the ongoing MEPAG Special Regions Science Analysis Group.
+ 
+This meeting will be followed by the First Landing Site Workshop for 
+the 2020 Mars Rover mission.
+ 
+The meeting is open to all members of the Mars science community and 
+our international colleagues. We will also broadcast the meeting via 
+Adobe Connect for those who cannot attend in person.
+ 
+Professor Lisa Pratt
+MEPAG Chair
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+2014 YSS UNDERGRADUATE RESEARCH CONFERENCE MEETING MENTORS
+
+LPI is recruiting Meeting Mentors for the 2014 LPSC! A Meeting Mentor 
+is someone that an undergraduate student can 'shadow' through the 
+Monday morning sessions - listening to talks, networking, etc.
+ 
+Responsibilities include:
+* Meeting your student at 8:00 am at the Convention Center and 
+spending 10-15 minutes to get to know each other,
+* Attending the morning sessions with the student, talking about the 
+sessions, and introducing them to colleagues at the coffee break,
+* Encouraging the student to attend the Masursky Lecture and Dwornik
+Award Presentations at 1:30 pm,
+* Your official "Mentor" duties would be completed by the close of the 
+morning session. Any time beyond that is not expected, but can be 
+beneficial to students.
+ 
+If you can find the time to participate in the program this year, 
+please contact Andy Shaner at shaner@lpi.usra.edu, noting your area(s) 
+of expertise and which sessions you plan to attend on Monday morning.
+ 
+Once we know that we have enough Mentors, we will send out more info, 
+including a virtual introduction to your student, as we get closer to 
+LPSC.
+ 
+Thank you for considering participating in this important program!
+ 
+Andy Shaner
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18715
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+STUDENT TRAVEL GRANTS AVAILABLE FOR UPCOMING MARS MEETINGS
+
+Student travel grants are available for (1) the First Landing Site 
+Workshop for the 2020 Mars Rover Mission (May 14-16 in the Washington,
+DC area; due March 19) and (2) the 8th International Mars Conference 
+(July 14-18, Pasadena, CA; due April 11). These opportunities are open 
+to undergraduate and graduate students with Mars-related research 
+interests, who are US citizens or legal residents. Information and the 
+applications are posted on the MEPAG site:
+
+http://mepag.nasa.gov/student.cfm?expand=student
+
+Questions should be directed to Serina Diniega.
+serina.diniega@jpl.nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ARCHIVED PRESENTATIONS AVAILABLE: WORKSHOP ON THE HABITABILITY OF ICY 
+WORLDS
+
+Held on February 5–7, 2014, Pasadena, California
+ 
+The Workshop on the Habitability of Icy Worlds was a great success with 
+~140 attendees and over 40 people on line. The primary objective of 
+this workshop was to focus on the astrobiological potential of icy 
+worlds in the outer solar system–including Europa, Ganymede, Enceladus, 
+Titan and beyond–with discussion on future research directions and 
+spacecraft missions that can best assess that potential. Overview 
+presentations were given on the first morning, while the remainder of 
+the workshop was focused on thematic sessions: water and exotic 
+solvents; chemical energy for life; organics and their detection; ocean 
+physics and chemistry; icy world activity and habitability over time; 
+and continuing and future outer solar system exploration.  
+
+The link to the archived presentations (hosted on the NAI site) is on 
+the meeting webpage: 
+
+http://www.hou.usra.edu/meetings/icyworlds2014/ 
+
+and can also be found directly on the NAI site:  
+
+http://astrobiology.nasa.gov/seminars/featured-seminar-channels/
+conferences-and-workshops/2014/02/05/habitability-of-icy-worlds-
+workshop/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+EXTENDED SUBMISSION DEADLINE: VENUS SCIENCE AND EXPLORATION
+SPECIAL ISSUE OF PLANETARY AND SPACE SCIENCE
+
+The submission deadline for the Special Issue of Planetary and Space  
+Science devoted to Venus Science and Exploration has been extended;  
+the new submission deadline is now *Friday 14 March*.
+
+As a reminder, for this Special Issue we invite papers related to all  
+aspects of Venus science and exploration. We particularly solicit  
+papers arising from the International Venus Conference held in Catania  
+in June 2013, but further papers not presented at that conference are  
+very welcome.
+
+Submission for this journal is via:
+
+http://ees.elsevier.com/pss/default.asp
+
+To ensure that all manuscripts are correctly identified for inclusion 
+into the special issue, please select "SI: Exploration of Venus" when 
+you reach the "Article Type" step in the submission process.
+
+Best regards,
+Hakan Svedhem, Colin Wilson, Giuseppe Piccioni Guest Editors
+ 
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS CRITICAL DATA PRODUCTS PROGRAM (ROUND IX) 
+
+Initial Landing Site Characterization for the Mars 2020 Rover Mission
+ 
+The Mars Exploration Program has issued, in January 2014, a Request for 
+Proposal for round IX of the Mars Critical Data Products program. This 
+RFP provides support for initial landing site surface, atmosphere, and 
+gravity characterization for the Mars 2020 rover mission. The intent is 
+to convert mission data and numerical simulations into products focused 
+on specific landing site targets (to be provided by the program) that 
+will be useful for reducing the risk to the Mars 2020 rover mission. 
+Proposals are due on Wednesday, March 5, 2014.
+ 
+Details of the RFPs are posted at: 
+
+https://acquisition.jpl.nasa.gov/rfp/WH-2691-120313/default.htm 
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is on "Slope streaks on Mars".
+Post contributed by Dr. Norbert Schörghofer, University of Hawaii, 
+Honolulu.
+
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+LPSC: PLANETARY SCIENCE UNDERGRADUATE FACULTY WORKSHOP
+
+Sunday, March 16, 1-5 p.m.
+Spring Room, The Woodlands Waterway Marriott Hotel and Convention 
+Center
+
+Join us to explore a suite of teaching resources for the undergraduate 
+classroom including EarthSpace (an online repository for higher 
+education materials in earth and space science), strategies for using 
+social media to connect and share with your community, and techniques 
+for assessment that will support and help you share the story of your 
+education efforts. Register for this workshop at: 
+
+https://www.surveymonkey.com/s/LPSC2014_undergrad_teaching_workshop
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+LPSC: EDUCATION AND PUBLIC OUTREACH HELP DESK
+
+Scientists are invited to work one-on-one with E/PO professionals to 
+(1) determine ways to get involved in E/PO that match their time and 
+resources, and (2) achieve maximum impact with their E/PO efforts. 
+
+Come join us to talk about E/PO!
+Tuesday, March 18, 1:30-5 p.m.
+Indian Springs Room, The Woodlands Waterway Marriott Hotel and 
+Convention Center
+Wednesday, March 19, 12-1:15 p.m.
+Panther Creek Room, The Woodlands Waterway Marriott Hotel and 
+Convention Center
+Thursday, March 20, 8:30-11:30 a.m.
+Panther Creek Room, The Woodlands Waterway Marriott Hotel and 
+Convention Center
+
+Contact Sanlyn Buxner (buxner@psi.edu) with questions.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+LPSC TOWN HALL: OBSERVATIONS IN THE SOLAR SYSTEM WITH HST AND JWST
+
+Thursday, March 20, 12:00 p.m. to 1:15 p.m., Waterway 1
+Remote participation and other details can be found here:
+
+http://www.stsci.edu/jwst/science/solar-system
+
+This Town Hall meeting is proposed to give the community an 
+opportunity to provide input to the Hubble Space Telescope (HST) solar 
+system committee and a chance to hear the current status of the 
+committee's activities. Additionally, we will present the 
+accomplishments and status of the recommendations provided to the James 
+Webb Space Telescope (JWST) team last year regarding solar system 
+observations and solicits the community for further input. It is 
+envisaged that there would be a half hour of brief presentations from 
+both projects followed by a science talk by Britney Schmidt (Georgia 
+Tech) and discussion. Our goal is to fully engage the solar system 
+community to provide them with the tools they need to propose for time 
+on HST and begin planning their observations with JWST. A key output of 
+the workshop will be capability objectives for the JWST team to 
+consider for further pre-launch operational studies, so that a broad 
+suite of solar system observations will be enabled.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+LPSC: USER WORKSHOP FOR MARS CHEMCAM/LIBS DATA 
+
+3 p.m., March 16, The Woodlands, TX
+
+ChemCam on Curiosity provides a large and varied geochemical dataset 
+available for the planetary community including laser-induced 
+breakdown spectroscopy (LIBS), passive VIS reflectance spectra, and the 
+highest resolution remote micro-images (RMI) from the rover. More than 
+8 GB of data are available at the Planetary Data System (PDS) node 
+including compositions from > 2500 locations along the rover traverse 
+and > 1500 RMI images. Already > 25 submitted papers have included 
+results from this data.
+
+A 3-hour workshop will be held for those interested in using this 
+dataset at 3 pm on Sunday, March 16, in the Alden Bridge Room of The 
+Woodlands conference center, in conjunction with the Lunar and Planetary 
+Science Conference. We will describe the LIBS technique as used on 
+ChemCam and data processing for the levels 1 and 2 provided in the PDS. 
+We also will provide tools to help understand and use the spectra. 
+Attendees are strongly encouraged to RSVP at: 
+
+http://msl-chemcam.com
+
+The contact is Roger Wiens (rwiens@lanl.gov).
+
+The ChemCam data can be found at:
+
+http://pds-geosciences.wustl.edu/missions/msl/chemcam.htm
+
+Presentation materials will also be posted on the PDS at the time of 
+the meeting.
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 23-26, 2014
+Science Results from Pan-STARRS1
+http://www.stsci.edu/institute/conference/panstarrs1
+Baltimore, MD
+
+July 28-30, 2014
+Workshop on the Study of the Ice Giant Planets
+http://www.hou.usra.edu/meetings/icegiants2014/
+Laurel, MD
+
+August 18-22, 2014
+19th International Sedimentological Congress of the International 
+Association of Sedimentologists
+http://www.sedimentologists.org/meetings/isc
+Geneva, Switzerland
+
+September 24-26, 2014
+Joint Workshop on High Pressure, Planetary, and Plasma Physics
+http://indico.desy.de/conferenceDisplay.py?confId=9404
+Rostock, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

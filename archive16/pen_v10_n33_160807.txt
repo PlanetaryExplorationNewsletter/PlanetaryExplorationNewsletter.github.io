@@ -1,0 +1,235 @@
+***********************************************************************
+NETARY EXPLORATION NEWSLETTER
+Volume 10, Number 33 (August 7, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology 'Image of the Month'
+2. Mars Science Laboratory Release 12
+3. Mars Exploration Science Monthly Newsletter for August 2016
+4. [NASA] ROSES-16 Amendment 20: LDAP Proposal Due Dates Delayed
+5. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 3
+6. [NASA] New Education 'Science WOW!' Weekly Email Newsletter
+7. OPAG Meeting WebEx and telephone information
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The August image of the month is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Large aeolian ripples on Mars". Post 
+contributed by Dr. Ryan C. Ewing, Department of Geology and Geophysics, 
+Texas A&M University, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or 
+Twitter @PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS SCIENCE LABORATORY RELEASE 12
+
+The NASA Planetary Data System announces the twelfth data release from
+the Mars Science Laboratory (MSL) mission, covering data acquired from
+Sol 1160 through Sol 1293 (November 10, 2015, to March 27, 2016).
+
+The instruments:
+  Alpha Particle X-ray Spectrometer (APXS)
+  Chemistry & Micro-Imaging (ChemCam)
+  Chemistry and Mineralogy (CheMin)
+  Dynamic Albedo of Neutrons (DAN)
+  Hazard Avoidance Cameras (Hazcam)
+  Mars Hand Lens Imager (MAHLI)
+  Mars Descent Imager (MARDI)
+  Mast-mounted Cameras (Mastcam)
+  Navigation Cameras (Navcam)
+  Position Localization and Attitude Correction Estimate Storage 
+    (PLACES)
+  Radiation Assessment Detector (RAD)
+  Rover Environmental Monitoring Station (REMS)
+  Sample Analysis at Mars (SAM)
+  Spacecraft, Planet, Instrument, Pointing C-Matrix, and Event 
+     kernels (SPICE)
+
+This release's data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160801.shtml
+
+Links to MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+or reached from the main PDS home page: 
+
+http://pds.nasa.gov/. 
+
+MSL data are archived at the PDS Atmospheres, PPI, Geosciences, 
+Imaging, and NAIF Nodes.
+
+Two services for searching the MSL archives:
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria.
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching 
+and downloading of all MSL data in the context of mission events.
+
+http://an.rsl.wustl.edu/msl
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR AUGUST 2016
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the August 2016 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-16 AMENDMENT 20: LDAP PROPOSAL DUE DATES DELAYED
+
+ROSES-16 Amendment 20: Proposal due dates delayed for C.8 the Lunar 
+Data Analysis Program.
+
+The Lunar Data Analysis Program (LDAP) program funds research on the 
+analysis of recent lunar missions in order to enhance their scientific 
+return. LDAP broadens scientific participation in the analysis of 
+mission data sets and funds high-priority areas of research that 
+support planning for future lunar missions.
+
+Step-1 proposals are now due September 8, 2016, and Step-2 proposals 
+are now due by November 10, 2016.
+
+Go to  the NASA research opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+Questions concerning this program element may be directed to Robert 
+Fogel at rfogel@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR AND TER RELEASE 3
+
+PDS announces the third release of Mars Reconnaissance Orbiter derived 
+data. CRISM Map-projected Targeted Reduced Data Record (MTRDR) and 
+Targeted Empirical Data Record (TER) products fill in data from 
+2007-048 through 2008-052. Browse data for Targeted Reduced Data 
+Records (TRDR) are also newly released for that period.
+
+The data may be accessed at:
+
+http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] NEW EDUCATION 'SCIENCE WOW!' WEEKLY EMAIL NEWSLETTER
+
+Are you a science educator or interested in science education? Sign up 
+for the NASA Education "Science WOW!" mailing list. Receive an email 
+with NASA's latest science education offerings delivered "Weekly on 
+Wednesdays."
+
+Science starts with a question, and so does "Science WOW!" Each week's 
+message kicks off with a science question and a link to where you can 
+find the answer. "Science WOW!" also highlights an awesome science 
+education tool each week. These featured resources will include NASA 
+apps, interactive games, 3-D printing templates and more!
+
+Plus, "Science WOW!" delivers - right to your inbox - the latest 
+science education opportunities offered by NASA. It's a simple way to 
+keep up with the latest professional development webinars, student 
+contests, workshops, lectures and other activities.
+
+The first "Science WOW!" message is scheduled to be sent on Aug. 10, 
+2016. 
+
+To register your email address and be added to the list, visit: 
+
+https://www.nasa.gov/education/sciencewow/ 
+
+(Scroll down on the webpage)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPAG MEETING WEBEX AND TELEPHONE INFORMATION
+
+Outer Planets Assessment Group (OPAG) Meeting
+
+http://www.lpi.usra.edu/opag/
+
+Thursday, August 11, 2016 to Friday, August 12, 2016
+8:00 AM Mountain Time (Arizona, GMT-07:00)(same as Pacific time)
+
+Join WebEx meeting
+Meeting number: 999 237 745
+Meeting password: )P@GN@S@123
+
+Join by phone
+Conf number 1-877-971-7311
+Participant Code: 5395257
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings added.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

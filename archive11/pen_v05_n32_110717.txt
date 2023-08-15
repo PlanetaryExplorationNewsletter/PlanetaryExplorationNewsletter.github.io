@@ -1,0 +1,590 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 32 (July 17, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Passing of Tom Gehrels (1925-2011)
+2. AGU Fall 2011 Session: NG05. Extreme Space Weather
+3. AGU Fall 2011 Session: P02. Accretion and Differentiation of 
+   Terrestrial Planets - Experiments and Modeling
+4. AGU Fall 2011 Session: P03. Active Mars Surface Processes and the
+   Role of Volatiles
+5. AGU Fall 2011 Session: P12. Hydrothermal Mars - Analogs and 
+   Observations
+6. AGU Fall 2011 Session: P19. Mercury - The View from Orbit
+7. AGU Fall 2011 Session: P35. Using Topography to Investigate the 
+   Evolution of Solar System Bodies
+8. AGU Fall 2011 Session: SA06. Ionospheres of Unmagnetized Planets - 
+   Venus, Mars, and Titan
+9. AGU Fall 2011 Session: V11. Inferring Processes from Volcanic 
+   Deposits in the Solar System
+10. GSA Session: T212. Impact Cratering on the Earth, Moon, and  
+    Planets - Remote, Field, and Lab Studies
+11. Postdoctoral Researcher: Petrology of Planetary Materials
+12. ESA Postdoctoral Fellowships in Space Science
+13. The NASA Postdoctoral Program Fellowships
+14. Postdoctoral Position in Planetary Geophysics
+15. PhD Position on Martian Alluvial Fans at Utrecht University, 
+    the Netherlands 
+16. Planetary Protection Research Program Submission   
+17. SPICE Training Announcement
+18. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PASSING OF TOM GEHRELS (1925-2011)
+
+Planetary science suffered another loss this week with the passing of 
+Tom Gehrels, 86, a long-time professor at the Lunar and Planetary 
+Laboratory at the University of Arizona. He pioneered the study of 
+wavelength dependence of polarization of stars and planets and was the 
+principal investigator for the Pioneer 10 and 11 Imaging 
+Photopolarimeters. He studied asteroids for much of his career and 
+founded the Spacewatch Project at Kitt Peak. He also founded the 
+highly respected Space Science Series. He will be greatly missed.
+
+Momorials are posted at:
+
+http://www.uanews.org/node/40649
+
+http://www.lpl.arizona.edu/resources/faculty/memoriam/gehrels.php
+
+http://www.skyandtelescope.com/news/125432648.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU FALL 2011 SESSION: NG05. EXTREME SPACE WEATHER
+
+We invite our planetary science colleagues to consider submitting an  
+abstract.
+
+This session will focus on solar, interplanetary, *planetary*,  
+astrophysical, magnetospheric, ionospheric and atmospheric phenomena  
+that can be directly observed, simulated in advanced models, inferred  
+from paleo-data (such as ice cores, rocks, and meteorites) and  
+observed from a multitude of stars like the Sun. The extremes of  
+interest include events like the 1859 Carrington event, as well as the  
+recent deep extended solar minimum. What are the worst cases that we  
+should prepare for in terms of geomagnetic storms, energetic-particle  
+populations, or solar irradiance changes? Should we care about  
+experiencing a modern-day Maunder Minimum? What are the implications  
+for planets and exoplanets, both in the present epoch and in the past?  
+Predictions for the next solar cycle are welcome.
+
+Questions can be directed to any of the session organizers: Bruce  
+Tsurutani (bruce.tsurutani@jpl.nasa.gov), Karel Schrijver, Lika  
+Guhathakurta, Walter Gonzalez, Tony Mannucci, Gibor Basri, Dave 
+Brain (david.brain@lasp.colorado.edu)
+
+Co-sponsors:  Planetary Sciences, Space Physics and Aeronomy
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU FALL 2011 SESSION: P02. ACCRETION AND DIFFERENTIATION OF 
+TERRESTRIAL PLANETS - EXPERIMENTS AND MODELING
+
+The two major events in terrestrial planet formation are accretion and
+differentiation. These processes are best studied through analog
+experiments and theoretical modeling. Experimental approaches include
+exploring melt and fluids phase equilibria, major and trace element 
+partitioning coefficients, isotopic data and physical differentiation
+processes. Computational approaches include models of impact 
+processes, core formation, magma ocean evolution and mantle 
+convection. We invite contributions that advance our understanding
+of terrestrial planet formation or that highlight new concepts for 
+future investigations. Contributions emphasizing a lab-modeling 
+multidisciplinary approach are particularly welcome.
+
+Invited Speakers: 
+- Maria Schonbachler, University of Manchester, UK
+- Laura Schaefer, Washington University, USA
+- James Van Orman, Case Western University, USA
+- Nicolas Dauphas, University of Chicago, USA
+
+Abstract deadline: August 4, 2011
+
+http://sites.agu.org/fallmeeting/
+
+Conveners: 
+Anne Pommier, Massachusetts Institute of Technology
+Allan Treiman, Lunar and Planetary Institute
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU FALL 2011 SESSION: P03. ACTIVE MARS SURFACE PROCESSES AND THE ROLE
+OF VOLATILES
+ 
+One of the most important recent revelations about Mars is the number,
+diversity, and breadth of scale of surface processes that are 
+currently active. The realization that Mars is a geologically and 
+geochemically dynamic planet derives from recent observations and 
+ongoing, multi-year spacecraft monitoring at high spatial, spectral,
+and temporal resolution. The roles of volatiles H2O and CO2 are 
+central to much of this activity, yet are far from understood. 
+Surface activity of interest to the session may involve redistribution
+of volatiles themselves, the direct or indirect influence by volatiles,
+geochemical volatile-surface interaction, or very little apparent
+direct involvement of volatiles. Examples include, but are certainly
+not limited to: Ground ice processes; transient or recurring features
+or events, e.g., slope markings, south polar CO2-frost fans, spiders,
+etc., north polar avalanches, dust devils; geomorphic features such as 
+dunes, other aeolian features, and gullies, especially whose activity
+may involve or be mediated by volatiles; polar residual cap evolution;
+seasonal patterns of ice and frost distribution; surface & near-surface 
+geochemical interactions and weathering processes; change monitoring of
+geomorphic, spectral, and ephemeral features.
+ 
+Conveners: P. Russell, C. Dundas, M. Mellon, S. Cull
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU FALL 2011 SESSION: P12. HYDROTHERMAL MARS - ANALOGS AND 
+OBSERVATIONS
+
+We seek to bring together scientists working on observational and 
+theoretical studies of hydrothermal activity, both on Earth and Mars.
+
+If you are working on a related project, please consider submitting 
+for this session.
+
+Session Description:
+Description: Evidence for the presence of volatiles in the martian 
+past, coupled with a history of volcanic and impact activity, indicate 
+that hydrothermal activity likely occurred on Mars. Recent 
+spectroscopic detection of minerals consistent with high-temperature 
+alteration suggest hydrothermal origins. We wish to combine 
+terrestrial analog studies, laboratory, and modeling experiments to 
+address remote sensing observations of potential hydrothermal products 
+on Mars.
+
+Abstract deadline: August 4, 2011
+
+http://sites.agu.org/fallmeeting/scientific-program/session-search/646
+
+Sponsor: Planetary Sciences (P)
+Co-Sponsor(s): Earth and Planetary Surface Processes (EP), 
+Volcanology, Geochemistry, and Petrology (V)
+
+Organizers:
+E. Noe Dobrea 
+J. Michalski 
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU FALL 2011 SESSION: P19. MERCURY - THE VIEW FROM ORBIT
+
+Conveners:  
+Sean C. Solomon 
+Brian J. Anderson 
+Ralph L. McNutt, Jr. 
+Louise M. Prockter
+
+After three successful flybys of Mercury, NASA's MESSENGER spacecraft 
+began orbiting the innermost planet in March of this year. The orbital 
+phase of the mission is enabling the first global perspective on
+Mercury's geology, surface composition, topography, gravity, and 
+internal magnetic field and the first continuous observations of the 
+planet's exosphere, magnetosphere, and solar-wind interaction. This
+session will highlight the latest results on Mercury from MESSENGER 
+measurements obtained during the initial eight months of orbital 
+operations. The conveners also welcome contributed papers on 
+complementary ground-based observations, laboratory measurements, and 
+theoretical developments relevant to planetary processes at Mercury.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU FALL 2011 SESSION: P35. USING TOPOGRAPHY TO INVESTIGATE THE 
+EVOLUTION OF SOLAR SYSTEM BODIES
+
+We invite abstracts to the session "Using Topography to Investigate 
+the Evolution of Solar System Bodies" for the Fall AGU meeting in 
+San Francisco, December 5-9, 2011. We seek to bring together 
+scientists who use topographic measurements as part of their efforts 
+to better understand the evolution of planets, asteroid and comets.
+ 
+Description: Spacecraft data have enabled the surface topography of 
+many solar system bodies to be determined. These data provide insight 
+into near-surface processes and properties that exist over the 
+visible history of a body, on global and local scales. We invite 
+abstracts on any topic in which topography plays a role. These may
+describe theoretical investigations, laboratory studies or data 
+analysis of any body in the solar system and can include (but are 
+not limited to): topographic measurements that are indicative of the 
+types of surface terrain or environments present; processes that 
+create or erase/erode surface topography at any scale; and subsurface
+processes that are expressed by surface topography.
+ 
+Abstract deadline: August 4, 2011
+ 
+http://sites.agu.org/fallmeeting/scientific-program/session-search/669
+
+Conveners:
+Olivier Barnouin
+Louise Prockter
+Wes Patterson
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU FALL 2011 SESSION: SA06. IONOSPHERES OF UNMAGNETIZED PLANETS - 
+VENUS, MARS, AND TITAN
+
+Dear Colleagues,
+
+We kindly invite you to submit an abstract to the session
+SA06: Ionospheres of Unmagnetized Planets: Venus, Mars and Titan
+at the 2011 AGU Fall Meeting in San Francisco (5-9 December). 
+Abstracts are due August 4.
+
+Atmospheric dynamics, solar photons, energetic particles and induced 
+and intrinsic magnetic fields combine in myriad ways to create 
+planetary ionospheres. Venus has a dense dayside ionosphere and 
+mysterious ionospheric 'holes' on the night side. Locally intense 
+remnant crustal magnetic fields alter Mars' otherwise Venus-like 
+ionosphere to create a plasma laboratory unique in the solar system. 
+Titan is bombarded by solar photons and Kronian energetic electrons, 
+creating a dynamic ionosphere and rich hydrocarbon chemistry. In all 
+cases, these ionospheres are the reservoirs for atmospheric escape. 
+Related contributions are sought covering recent advances or reviews
+of observations, numerical modeling or relevant laboratory 
+experiments.
+
+More information on the session can be found at:
+
+http://sites.agu.org/fallmeeting/scientific-program/session-search/744
+
+Abstract submission:
+
+http://agu-fm11.abstractcentral.com/
+
+We encourage you to share this message with your colleagues.
+
+Sincerely,
+
+Robert Lillis rlillis@ssl.berkeley.edu
+Paul Withers withers@bu.edu
+Matthew Fillingim matt@ssl.berkeley.edu
+Guillaume Gronoff Guillaume.P.Gronoff@nasa.gov
+Cyril Simon Wedlund Cyril.Simon@aeronomie.be
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU FALL 2011 SESSION: V11. INFERRING PROCESSES FROM VOLCANIC DEPOSITS
+IN THE SOLAR SYSTEM
+
+Colleagues,
+
+We would like to draw your attention and encourage your contributions 
+to the Fall 2011 AGU session: V11. Inferring Processes From Volcanic 
+Deposits in the Solar System
+
+This session will bring together physical volcanologists from the 
+planetary and terrestrial geology communities and explore the current
+understanding of explosive and effusive volcanology. Topics may 
+include field and remote-sensing investigations of volcanic deposits 
+that aim to further our understanding of formation or degradation 
+processes (e.g. pyroclastic deposit emplacement, lava flow inflation, 
+deposit erosion). Bringing planetary, terrestrial, explosive and 
+effusive volcanologist together will help to address current problems
+in the field and identify gaps in our current understanding of 
+volcanic processes.
+
+This session is sponsored by: Volcanology, Geochemistry and Petrology
+together with Planetary Sciences.
+
+Please do not hesitate to contact the conveners (below) if you have 
+any questions.
+
+Conveners:
+
+Patrick Whelley 
+University at Buffalo, USA
+pwhelley@buffalo.edu
+
+Brittany Brand
+University of Washington, USA
+bbrand@u.washington.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GSA SESSION: T212. IMPACT CRATERING ON THE EARTH, MOON, AND PLANETS - 
+REMOTE, FIELD, AND LAB STUDIES
+
+The impact cratering community is invited to submit an abstract to
+the following session at the 2011 Geological Society of America
+Annual Meeting (October 9-12, 2011, Minneapolis, MN):
+
+Topical Session T212. Impact Cratering on the Earth, Moon, and
+Planets: Remote, Field, and Lab Studies
+
+Conveners: Christian Koeberl (Univ. Vienna/NHM, Austria), Jeffrey
+Plescia (APL-Johns Hopkins Univ. USA)
+
+This session solicits contributions on any aspect of impact crater
+studies (terrestrial and planetary), including recent observations of
+lunar craters that constrain geologic aspects of craters and provide
+information on the modeling of impacts.
+To submit an abstract to this session:
+
+http://gsa.confex.com/gsa/2011AM/top/papers/index.cgi?sessionid=28353
+
+Abstracts Deadline: 26 July 2011
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL RESEARCHER: PETROLOGY OF PLANETARY MATERIALS
+
+The Lunar and Planetary Institute (LPI), part of the Universities 
+Space Research Association, invites applications for a postdoctoral 
+fellowship in the petrology of planetary materials.
+
+The successful candidate will work with Dr. Allan Treiman in 
+NASA-funded efforts, focusing on planetary crusts and magmas, and 
+their volatiles constituents; target materials include lunar highlands
+rocks, Martian meteorites, and terrestrial analogs.  These efforts 
+focus on planetary samples, starting with analyses by optical 
+microscopy and electron microprobe; other instruments are available at 
+nearby Johnson Space Center or with external collaborators.  The 
+candidate will be encouraged to design and conduct their own research 
+in planetary science, propose for external funding, participate in 
+grant review panels and analysis groups, and become involved with 
+spacecraft missions.
+
+The successful candidate will have a recent Ph.D. in petrology or 
+geochemistry; experience with planetary materials is helpful, but not 
+required.  The position would be for two years, with possible extension 
+to a third year.  Review of candidates will begin on November 15, 2011,
+with a hiring decision as soon as possible thereafter. Further 
+information can be found on our website:
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ESA POSTDOCTORAL FELLOWSHIPS IN SPACE SCIENCE
+
+The European Space Agency awards several postdoctoral fellowships each
+year. The aim of these fellowships is to provide young scientists, 
+holding a PhD or the equivalent degree, with the means of performing 
+space science research in fields related to the ESA Science and 
+Robotic Exploration Programmes. Areas of research include planetary 
+science, astronomy and astrophysics, solar and solar-terrestrial 
+science, plasma physics and fundamental physics. The fellowships have 
+a duration of two years and are tenable at the European Space Research 
+and Technology Centre (ESTEC) in Noordwijk, Netherlands, or at the 
+European Space Astronomy Centre (ESAC) in Villafranca del Castillo, 
+near Madrid, Spain.
+
+Applications are now solicited for fellowships in space science to 
+begin in the fall of 2012. Preference will be given to applications 
+submitted by candidates within five years of receiving their PhD. 
+Candidates not holding a PhD yet are encouraged to apply, but they 
+must provide evidence of receiving their degree before starting the 
+fellowship.
+
+The deadline for applications is 1 October 2011.
+
+More information on the ESA Research Fellowship programme, as well as 
+the application form can be found at:
+
+http://www.rssd.esa.int/fellowship
+
+Questions: Contact Dr. Guido De Marchi, at fellowship@rssd.esa.int
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+THE NASA POSTDOCTORAL PROGRAM FELLOWSHIPS
+
+The next deadline to apply for a NASA Postdoctoral Program fellowship
+is November 1, 2011.  These competitive one- to three-year fellowship 
+appointments advance NASA's missions in space science, Earth science,
+aeronautics, space operations, exploration systems, and astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree
+requirements. U. S. citizens and foreign nationals who hold Lawful 
+Permanent Resident status or who are eligible for J-1 status as a 
+Research Scholar may apply.  An H-1B Visa status is not acceptable
+because the NPP is not an employment program.
+
+Stipend rates for Postdoctoral Fellows start at $50,000 per year, with 
+small supplements for high cost-of-living areas. Funds are available
+for relocation expenses, up to a specified limit.  Fellows also 
+receive $8,000 per appointment year to support travel to conferences,
+meetings, and other activities that directly support their research.
+
+Applications for the NASA Postdoctoral Program are accepted three 
+times each year: March 1, July 1, and November 1.
+
+For further information about this opportunity and to apply online,
+visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions regarding this opportunity may be submitted by e-mail to 
+nasapostdoc@orau.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+POSTDOCTORAL POSITION IN PLANETARY GEOPHYSICS
+
+The broad area of interest is interiors and evolution of satellites 
+(mostly, but not exclusively, in the outer solar system). A strong 
+background in geophysics or a similar quantitative field is required.
+The position is initially for two years, with possibility of 
+extension. Applications will be considered until the post is filled;
+initial starting date is nominally 1st Jan 2012, but this is 
+negotiable. 
+
+For questions or more information, contact Francis Nimmo 
+(fnimmo@es.ucsc.edu) at the Department of Earth & Planetary Sciences,
+University of California Santa Cruz.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PHD POSITION ON MARTIAN ALLUVIAL FANS AT UTRECHT UNIVERSITY, 
+THE NETHERLANDS
+
+The Faculty of Geosciences, Utrecht University, The Netherlands, 
+offers a PhD position < Sorting out formative mechanism and time 
+scales of Martian and Terrestrial alluvial fans from particle size 
+sorting > in a vibrant group as part of the department of Physical 
+Geography in cooperation with the German Aerospace Center (DLR) in 
+Berlin and the geography department at Durham University, UK.
+
+The candidate is expected to process airborne and remote sensing data
+of Mars and Earth, perform morphodynamic experiments in the 
+laboratory, conduct fieldwork on Svalbard, Norway, publish in 
+international peer-reviewed journals, write a (paper) PhD thesis 
+within the project duration of four years and assist some teaching.
+Polar Bear protection course is included.
+
+Highly motivated candidates with an MSc degree in applied physics, 
+physical geography, hydrology, civil engineering, planetary geology 
+or a related field are encouraged to apply. The candidate is offered 
+a fixed-term four year appointment as PhD researcher with one year 
+probation. The gross monthly salary increases from EURO 2,042 in 
+year 1 to EURO 2,612 in year 4. Additional information: 
+
+http://www.geo.uu.nl/fg/mkleinhans
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY PROTECTION RESEARCH PROGRAM SUBMISSION   
+
+Deadline: September 2, 2011.  
+Of particular interest are the following areas:
+
+* Limits of life in laboratory simulations of planetary environments, 
+particularly studies of the distribution and dynamics of organisms 
+in conditions present on Mars (including gullies and ice-rich 
+environments) or within a subsurface ocean as may be present on icy 
+satellites - potentially in the presence of a heat source brought 
+from Earth;
+
+* Modeling of planetary environmental conditions and transport 
+processes that could affect transport of spacecraft-associated 
+contaminants to locations in which Earth organisms might thrive, 
+for example Mars Special Regions or the subsurface of icy bodies 
+such as Europa and other outer planet satellites;
+
+* Development of modern molecular analytical methods to rapidly 
+detect, classify, and/or enumerate the spectrum of Earth microbes 
+carried by spacecraft. Of particular interest are methods capable 
+of identifying microbes with high potential for surviving spacecraft
+flight or planetary environmental conditions (e.g., anaerobes, 
+psychrophiles, radiation-resistant organisms);
+
+* Technologies, and procedures for sterilization compatible with 
+spacecraft materials and assemblies.
+
+Questions concerning the Planetary Protection Program may be addressed 
+to either Dr. Catharine A. Conley; Cassie.Conley@nasa.gov OR to 
+Dr. Michael K. Reddy, (202) 358-7221; michael.k.reddy@nasa.gov
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+SPICE TRAINING ANNOUNCEMENT
+
+The Navigation and Ancillary Information  Facility (NAIF) will conduct 
+a SPICE observation geometry training class on September 13-15, 2011 
+in Monrovia, California. SPICE is described at:
+
+http://naif.jpl.nasa.gov/naif/spiceconcept.html 
+
+The class is free and open to all professionals and students involved 
+in solar system exploration, including foreign nationals and members 
+of the commercial community. Further information about the class and 
+the class registration form are found at: 
+
+http://naif.jpl.nasa.gov/naif/announcement_SPICE-2011
+
+Registration is due by August 12, 2011.
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+January 23-27, 2012
+Planets around Stellar Remnants
+http://www.mpia-hd.mpg.de/PLANETS2012/index.html
+Arecibo, Puerto Rico
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*
+* To unsubscribe, send an email to pen_editor at psi.edu
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements.  Title plus text is limited to 200 words.  Go to
+* http://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu).
+***********************************************************************

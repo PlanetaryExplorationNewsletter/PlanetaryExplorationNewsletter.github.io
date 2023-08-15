@@ -1,0 +1,154 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 51 (October 19, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Evaluation and Selection of Small Complete Missions in
+   Astrobiology and Fundamental Space Biology
+2. [NASA] Asteroid Data Sets Now Available Through the PDS
+3. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] EVALUATION AND SELECTION OF SMALL COMPLETE MISSIONS IN 
+ASTROBIOLOGY AND FUNDAMENTAL SPACE BIOLOGY
+ 
+With this amendment, the NASA Announcement of Opportunity
+NNH08ZDA009O, "Stand Alone Missions of Opportunity Notice (SALMON),"
+has been amended to clarify the evaluation and selection process
+for proposals submitted in response to Program Element Appendix H3:
+Small Complete Missions of Opportunity in Astrobiology and Fundamental
+Space Biology.
+
+For Small Complete Missions in Fundamental Space Biology, the minimum
+unencumbered cost reserve required for Phase A through Phase D is
+reduced to 15%.
+
+An accommodation study performed by the MicroNano Spacecraft and
+Payloads Office at NASA Ames Research Center will take the place of
+the technical, management, and cost (TMC) feasibility, including
+cost risk, evaluation.
+
+The merit of data being added to the Planetary Data System is 
+removed as an evaluation factor.
+
+Technical or scientific questions may be addressed to the 
+points-of-contact given at the end of Program Element Appendix 
+H3 of the SALMON AO.
+
+Programmatic questions concerning the SALMON AO may be addressed 
+to Dr. Carlos Liceaga, (757) 846-5880; salmonao@nasa.gov.
+
+[Editor Note: This announcement was edited slightly for length.
+For more information, see http://nspires.nasaprs.com/ (select
+"Solicitations" then "Open Solicitations" then "NNH08ZDA009O"]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ASTEROID DATA SETS NOW AVAILABLE THROUGH THE PDS
+
+The NASA Planetary Data System announces the availability of the 
+following data sets:
+
+ASTEROID LIGHTCURVE DERIVED DATA V10.0
+http://www.psi.edu/pds/resource/lc.html
+Rotational parameters derived from lightcurve
+data through Feb. 15, 2008.
+
+ASTEROID NAMES AND DISCOVERY V12.0
+http://www.psi.edu/pds/resource/discover.html
+Names, designations, and discovery circumstances for asteroids 
+numbered through April 20, 2008.
+
+ASTEROID OCCULTATIONS V6.0
+http://www.psi.edu/pds/resource/occ.html
+Asteroid occultation timings and axes, through 2007, with
+some events from 2008.
+
+ASTEROID POLARIMETRIC DATABASE V6.0
+http://www.psi.edu/pds/resource/apd.html
+Published and unpublished polarimetry results for
+asteroids through January 22, 2008.
+
+ASTEROID SPIN VECTOR COMPILATION V5.0
+http://www.psi.edu/pds/resource/spin.html
+Compilation by A. Kryszczynska as of Oct. 2007.
+
+GASKELL EROS SHAPE MODEL V1.0
+http://www.psi.edu/pds/resource/erosshape.html
+Derived from NEAR images.
+
+GASKELL ITOKAWA SHAPE MODEL V1.0
+http://www.psi.edu/pds/resource/itokawashape.html
+Derived from Hayabusa images, version of August 2007.
+
+PLUTO-CHARON MUTUAL EVENTS V3.0
+http://www.psi.edu/pds/resource/pcme.html
+Ground-based observations of the 1985-1990 Pluto-Charon mutual 
+events.
+
+SPECTROSCOPY AND PHOTOMETRY OF JUPITER TROJANS V1.0
+http://www.psi.edu/pds/resource/fornasier.html
+From Fornasier et al. (2004) and Fornasier et al. (2007).
+
+SUBMILLIMETER LIGHTCURVES OF ASTEROIDS V1.0
+http://www.psi.edu/pds/resource/submmlc.html
+From Jan. 2003 through May 2004.
+
+TNO AND CENTAUR COLORS V5.0
+http://www.psi.edu/pds/resource/tnocencol.html
+Broadband colors of TNOs and Centaurs, through the end of 2007.
+
+For access to all data archived in the PDS, go to:
+
+http://pds.nasa.gov
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 15-19, 2009
+2009 Joint Assembly - Meetings of the Americas (CGU, GAC, IAH-CNC, 
+MAC, AGU)
+www.agu.org/meetings/ja09/
+Toronto, Canada
+
+July 13-18, 2009
+72nd Annual Meeting of the Meteoritical Society
+http://www.metsoc2009.org/
+Nancy, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

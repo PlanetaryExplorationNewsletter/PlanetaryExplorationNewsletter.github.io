@@ -1,0 +1,328 @@
+LOCATIONNETARY EXPLORATION NEWSLETTER
+Volume 13, Number 22 (May 26, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Simon Lock Wins the 2019 Pellas-Ryder Award for Best Student Paper
+2. Postdoctoral Position in Planetary Sciences
+3. Vote in the 2019 AAS Laboratory Astrophysics Division Election
+4. Second Announcement of Mercury 2020 Conference
+5. [NASA] PDS: Dawn Final Data Release, Part 2
+6. [NASA] PDS: Mars InSight Data Release 1A
+7. [NASA] PDS: JUNO Data Release 8
+8. SBAG Steering Committee Positions
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SIMON LOCK WINS THE 2019 PELLAS-RYDER AWARD FOR BEST STUDENT PAPER
+
+Simon J. Lock was named the 2019 Pellas-Ryder Awardee for his 
+manuscript "The Origin of the Moon within a Terrestrial Synestia", 
+published in the Journal of Geophysical Research Planets in 2018. Simon 
+was a PhD student at Harvard University, and is now a postdoc at 
+California Institute of Technology. This award, which is jointly 
+sponsored by the Meteoritical Society and the Planetary Geology 
+Division of the Geological Society of America, is awarded to an 
+undergraduate or graduate student who is first author of the best 
+planetary science paper published in a peer-reviewed scientific journal 
+during the year prior to the award. Congratulations, Simon!
+
+To access the publication, go to: 
+
+https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333
+
+Meteoritical Society Announcement: 
+
+https://meteoritical.org/news
+
+Past winners and instructions for future Pellas-Ryder submissions: 
+
+https://community.geosociety.org/pgd/awards/pellas-ryder
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL POSITION IN PLANETARY SCIENCES
+
+The Centre de Recherches Petrographiques et Geochimiques (CRPG) Nancy, 
+located in northeast France, is looking for a postdoctoral researcher 
+in Earth and Planetary remote sensing. The 2-year position is supported 
+by a CNRS Momentum grant entitled "Spectral Imagery Unravels the Nature 
+of Planetary Crusts".  
+
+Applications are now open, until June 30, 2019. There is no 
+restriction on citizenship. The position must start between September 
+1 and December 15, 2019.  
+
+For more information and applications, please visit:
+
+http://bit.ly/2JPTMRL
+
+or contact Dr. Jessica Flahaut, at: flahaut@crpg.cnrs-nancy.fr
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VOTE IN THE 2019 AAS LABORATORY ASTROPHYSCIS DIVISION ELECTION
+ 
+The LAD election for Vice-Chair, Secretary, Treasurer, and two 
+Members-at-Large, for terms beginning in 2019 is still open. The 
+elected candidates will assume their positions in June 2019. The 
+elected Vice-Chair will serve for two years as Vice-Chair, followed by
+two years as Chair, and then by two years as Past-Chair. All other open 
+positions are for three year terms.
+ 
+The ballot is now available online at:
+ 
+http://members.aas.org/Services/AAS_Member/Division_Voting
+/LAD_Voting.aspx
+
+LAD voting members will need to log in to access the voting 
+information page and ballot. The ballot will open in a new window so 
+you can toggle between the candidate statements and your ballot. If a 
+member clicks on the "Vote Now" button but does not cast a ballot, 
+then the AAS will need to update the member's record to restore access 
+to the slate. Please contact Diane Frendak at the AAS should you 
+encounter log in or balloting challenges. She can be reached at:
+diane.frendak@aas.org or 202-328-2010 x109.
+ 
+Vote today! Balloting closes at 11:59 pm EDT on Sunday, June 2, 2019.
+ 
+Sincerely,
+ 
+Daniel Wolf Savin
+Outgoing LAD Secretary
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SECOND ANNOUNCEMENT OF MERCURY 2020 CONFERENCE
+
+June 2-4, 2020
+Orleans, France
+ 
+The forthcoming conference "Mercury 2020: Current and Future Science of 
+the Innermost Planet" will focus on all scientific aspects of planet 
+Mercury, including both the current state of knowledge and the 
+prospects for future endeavors. The conference welcomes and encourages 
+participation from the diverse groups of the world-wide Mercury science 
+community, covering topics such as Mercury's:
+
+    Deep interior geophysics and planetary evolution,
+    Surface geology and composition,
+    Exosphere and magnetosphere dynamics,
+    Fundamental physics with BepiColombo. 
+
+In addition, the latest plans and developments from BepiColombo's 
+unprecedented two-spacecraft exploration of Mercury will be shared and 
+discussed.
+
+The number of participants being limited to 120, early registration 
+and abstract submission are warmly suggested.
+
+Detailed information about this meeting can be found at: 
+
+https://mercury2020.ias.u-psud.fr/
+
+Registration deadline: April 15, 2020
+
+Abstract submission deadline: April 15, 2020
+
+The SOC committee
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: DAWN FINAL DATA RELEASE, PART 2
+
+The Planetary Data Systemn (PDS) is pleased to announce the 
+availability of the second part of the final Dawn data release. This 
+includes:
+
+- Dawn Framing Cameras 1 and 2's L1a and L1b for the 2nd extended 
+  mission
+
+Links to these datasets are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190522.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/dawn/dwncfcL1.html
+
+Coming soon is:
+
+- Dawn VIR L1b for the 2nd extended mission
+
+To access all Dawn data, go to:
+
+https://sbn.psi.edu/pds/resource/dawn/
+
+To access all data archived in the PDS, go to:
+
+https://pds.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: MARS INSIGHT DATA RELEASE 1A
+
+The Planetary Data System (PDS) announces the Release 1A of data from 
+the InSight Lander mission to Mars, covering the period from landing 
+through the start of science monitoring (November 26, 2018, through 
+February 28, 2019). This release includes raw data from the following 
+instruments, archived at various PDS nodes:
+
+  SEIS (Seismometer) at the Geosciences Node
+  RAD (Radiometer) at the Geosciences Node
+  TWINS (Temperature and Wind) and Pressure Sensor at the Atmospheres 
+    Node
+  IFG (InSight Fluxgate Magnetometer) at the PPI Node
+  RISE (Radio Science) at the Geosciences Node
+  ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at 
+    the Cartography and Imaging Sciences Node
+  SPICE at the NAIF Node
+
+Data from the HP3 (Heat Flow and Physical Properties Probe) and IDA 
+(Instrument Deployment Arm) will be released later.
+
+To receive future email announcements for Mars InSight data:
+
+https://pds.nasa.gov/datasearch/subscription-service/top.cfm
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/insight/index.htm
+
+SEIS data are also available through the Incorporated Research 
+Institutions for Seismology (IRIS) at: 
+
+http://ds.iris.edu/ds/newsletter/vol21/no1/511
+/mars-insight-mission-data-from-seis-now-open-to-the-public/
+
+The next release of InSight data, Release 1B, is scheduled for 
+June 26, 2019, and will include the calibrated data corresponding to 
+the raw data in this release. 
+
+Access all PDS data:
+
+https://pds.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: JUNO DATA RELEASE 8
+
+The Planetary Data System announces the eighth release of data from the 
+JUNO mission. The release includes EDR and RDR level data acquired
+between 2018-07-16 and 2018-10-29, which covers Juno Orbits 15 and 16.
+
+Data sets from the following experiments are now available:
+
+  FGM (magnetometer)
+  Gravity
+  JADE (plasma)
+  JEDI (energetic particle detector)
+  JunoCam (camera)
+  MWR (microwave radiometer)
+  SPICE
+  UVS (ultraviolet imaging spectrometer)
+  Waves (radio and plasma wave science)
+
+JIRAM data will not be in this release.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190525.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SBAG STEERING COMMITTEE POSITIONS
+
+There are up to four positions open on the Steering Committee of the 
+Small Bodies Assessment Group (SBAG), starting in August 2019. The SBAG 
+Steering Committee organizes SBAG meetings, writes the official SBAG 
+findings, and takes a leadership role in other activities where 
+community input on topics of interest is needed.
+
+We are looking for members with expertise in the following areas:
+
+* SBAG Planetary Defense Lead 
+
+* Early Career Secretary - Assist with meeting and website logistics, 
+  as well as serve as a full member of the Steering Committee. For 
+  early career scientists or engineers (within 3 years of PhD/MS/BS).
+
+* At-large members (1 or 2) - Any member of the small bodies community 
+  is welcome to apply.
+
+If you are interested, please email Tim Swindle 
+(tswindle@lpl.arizona.edu) by June 17, 2019, and include a two-page CV 
+(including participation in SBAG or other small bodies community 
+organizations) and your statement of interest (one page or less). The 
+current Steering Committee will select new members at the 21st Meeting 
+of SBAG, June 24-25, 2019.
+
+A more complete list of the SBAG Steering Committee membership 
+guidelines is at: 
+
+https://www.lpi.usra.edu/sbag/committee/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+October 7-11, 2019
+The Tenth Moscow Solar System Symposium (10M-S3)
+https://ms2019.cosmos.ru
+Moscow, Russia
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,550 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 2 (January 10, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. PhD Opportunities with the Desert Fireball Network
+2. EGU 2016 Session: Subglacial Landforms and ESPL Special Issue
+3. 41st Scientific Assembly of the Committee on Space Research (COSPAR)
+   and Associated Events
+4. Mars Exploration Science Monthly Newsletter: January 2016
+5. OPAG 2016 Winter Meeting - Information Circular
+6. 26th Goldschmidt Conference Moon Session
+7. [NASA] PDS - Odyssey Data Release 54
+8. [NASA] PDS - Cassini Data Release 44
+9. ExoClimes 2016 Workshop - Now Accepting Applications
+10. NAIF SPICE Training Class
+11. Titan Aeronomy and Climate Workshop
+12. [NASA] Draft Announcement of Opportunity (AO) for New Frontiers 
+    Program to be Released
+13. Deadline Approaching for Planetary Geomorphology at EGU 2016 
+14. COSPAR/ISECG Workshop on Science Enabled by Human Exploration 
+15. AOGS 2016 Session PS22 - Call for Abstracts
+16. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PHD OPPORTUNITIES WITH THE DESERT FIREBALL NETWORK
+
+Curtin University, Perth, Australia
+
+The Desert Fireball Network team at Curtin University are seeking two 
+PhD candidates (fully funded) to work within the team to analyse the 
+massive dataset. Potential projects include, but aren't limited to:
+
+* Statistical analysis of asteroidal material arriving at 1 AU;
+* Fireball modelling;
+* Probabilistic orbital dynamics of meteorites (and their parent 
+  asteroids);
+* Tracking space debris;
+* Fitting orbital and compositional data into an overall model of the 
+  compositional structure of the Solar System.
+
+There will be opportunities to become involved in all other areas of 
+the project, including meteorite recovery in Australia, and sample 
+analysis.
+
+More information about the Desert Fireball Network is available on the 
+website:
+
+http://www.fireballsinthesky.com.au
+
+To apply, please send an email (with subject heading DFN PhDs) 
+including a CV and a one-page summary of your research interests to 
+Professor Phil Bland (p.a.bland@curtin.edu.au) by 10th February 2016.
+For more information about how to apply please go to: 
+
+http://www.sserviaustralia.org/project/potential-hdr-projects/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EGU 2016 SESSION: SUBGLACIAL LANDFORMS AND ESPL SPECIAL ISSUE
+
+We would like to draw your attention to the 'Subglacial Landform and 
+Terrain Morphometry, Genesis, and Glaciological Significance' session 
+at the EGU 2016 assembly, and to remind you that the abstract 
+submission deadline is January 13th 2016, 13:00h CET. Full session 
+description at: 
+
+http://meetingorganizer.copernicus.org/EGU2016/session/21463
+
+The session will host two invited talks: 
+
+- Geomorphology of ice stream beds: recent progress and future 
+  challenges, by Chris Stokes (University of Durham); and
+
+- Eskers and other evidence of wet-based glaciation in Phlegra Montes, 
+  Mars, by Colman Gallagher (University College Dublin).
+
+Additionally, the session will lead to a special issue in the 
+journal Earth Surface Processes and Landforms (IF: 2.845) on the 
+subglacial landscapes/landforms and morphogenesis general theme. 
+Participation in this publication will be open to everyone (not 
+restricted to EGU2016 participants). If you plan to contribute with 
+a submission, consider letting us know as soon as possible.
+
+Session conveners: 
+
+Marco Jorge - Simon Fraser University, BC, Canada; mjorge@sfu.ca
+Tracy Brennand - Simon Fraser University, BC, Canada; tabrenna@sfu.ca
+John Hillier - Loughborough University, UK; J.Hillier@lboro.ac.uk
+Matteo Spagnolo - University of Aberdeen, UK; m.spagnolo@abdn.ac.uk
+Robert Storrar - Sheffield Hallam University, UK; R.Storrar@shu.ac.uk
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+41ST SCIENTIFIC ASSEMBLY OF THE COMMITTEE ON SPACE RESEARCH (COSPAR)
+AND ASSOCIATED EVENTS
+
+COSPAR 2016
+30 July - 7 August 2016
+Istanbul, Turkey
+
+http://www.cospar-assembly.org
+
+Abstract Deadline: 12 February 2016
+
+Topics:
+- SC A:  The Earth's Surface, Meteorology and Climate
+- SC B:  The Earth-Moon System, Planets, and Small Bodies of the Solar
+  System
+- SC C:  The Upper Atmospheres of the Earth and Planets Including
+  Reference Atmospheres
+- SC D:  Space Plasmas in the Solar System, Including Planetary
+  Magnetospheres
+- SC E:  Research in Astrophysics from Space
+- SC F:  Life Sciences as Related to Space
+- SC G:  Materials Sciences in Space
+- SC H:  Fundamental Physics in Space
+
+Panels:
+- Satellite Dynamics (PSD)
+- Scientific Ballooning (PSB)
+- Potentially Environmentally Detrimental Activities in Space (PEDAS)
+- Radiation Belt Environment Modelling (PRBEM)
+- Space Weather (PSW)
+- Planetary Protection (PPP)
+- Capacity Building (PCB)
+- Education (PE)
+- Exploration (PEX)
+- Exoplanetary Exploration (PEPE)
+- Special Events: Interdisciplinary lectures, round table, etc.
+ 
+Selected papers published in Advances in Space Research and Life
+Sciences in Space Research, fully refereed journals with no deadlines
+open to all submissions in relevant fields.
+
+Scientific Program Chair:               
+Prof. Ersin Gogus, Sabanci University
+cospar@cosparhq.cnes.fr
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: JANUARY 2016
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the January 2016 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OPAG 2016 WINTER MEETING - INFORMATION CIRCULAR
+
+We cordially invite you to attend the 2016 face-to-face meeting of the 
+Outer Planets Assessment Group (OPAG), scheduled for 2 days, February 
+1-2, 2016, in San Antonio TX.
+
+Key information and discussion topics will include:
+
+* Developments in Outer Planets exploration since the summer 2015 OPAG 
+  meeting, including status of a new "Ocean Worlds" program, potential 
+  Europa mission augmentations, and New Frontiers Announcement of 
+  Opportunity.
+* Overview of latest mission science planning and results:
+    Cassini
+    New Horizons
+    Juno
+    Europa Mission
+* Report from "Ocean Worlds" workshop
+* Formulation of a Science Analysis Group study to explore ocean worlds
+* Next Decadal Survey
+* Ice Giants mission study progress report
+* Department of Energy Pu238 production status
+* Potential High Definition Space Telescope
+* Poster presentations on CubeSats and technology developments
+
+The meeting is open to all members of the planetary science community, 
+including our international colleagues. If you want to present a 
+CubeSat or Technology poster, please send title and authors to Pat 
+Beauchamp, pbeaucha@jpl.nasa.gov. We will also broadcast the meeting 
+via Adobe Connect for those who cannot attend in person.
+
+We look forward to seeing you in San Antonio!
+
+Candice Hansen and Alfred McEwen, Current and incoming OPAG Chair
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+26TH GOLDSCHMIDT CONFERENCE MOON SESSION
+
+We would like to make you aware of our Moon-session at the 26th 
+Goldschmidt Conference that will take place in Yokohama, Japan between 
+the 26th June and 1st of July, 2016. Information about Session 2g 
+(Lunar Evolution: Endogenous and Exogenous Processes) may be found at:
+
+http://goldschmidt.info/2016/program/programViewThemes
+
+This session aims to combine lunar geochemistry, geophysics, 
+thermodynamics, chronology and impact flux data, in order to enhance 
+our understanding of heterogeneity in the lunar crust and mantle, the 
+bulk composition of the Moon, as well as the crust and mantle 
+morphologies associated with impact basins. The convergence of 
+knowledge on endogenous and exogenous processes that shaped up the 
+Moon can help us better understand the early processes of planetary 
+differentiation and evolution in general. 
+
+Abstract submission will open on January 1st and end on February 26th. 
+
+Wishing you all happy Festivities and a great 2016!
+
+Best Regards,
+
+Vera Assis Fernandes,
+Katarina Miljkovic
+Stephanie Werner
+Paul Tackley
+Joshua Snape
+Tomoko Arai
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS - ODYSSEY DATA RELEASE 54
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 54, for the following instruments:
+
+SPICE
+THEMIS
+RADIO SCIENCE (Releases 160-162)
+
+Odyssey HEND and Neutron Spectrometer data for this release have been
+delayed, while the gamma sensor component of the GRS instrument suite
+no longer returns data.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160104.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS - CASSINI DATA RELEASE 44
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 44, January to March 2015, for instruments:
+
+ISS
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+CDA, CIRS, HRD, INMS, MAG data will be available shortly.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160106.shtml
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EXOCLIMES 2016 WORKSHOP - NOW ACCEPTING APPLICATIONS
+
+We are now accepting applications at:
+
+http://www.exoclimes.org/
+
+for the ExoClimes 2016 workshop, 1-4 August 2016, at Quest University 
+in Squamish, BC, Canada. ExoClimes brings together researchers studying 
+terrestrial, solar-system, and exoplanetary atmospheres to present 
+research, learn from one another, assess what exoplanetary climate 
+science is now possible, and form collaborations. Space is limited to 
+125 participants, who will commit to attending the full meeting. 
+Applications received by 15 February 2016 will receive full 
+consideration.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NAIF SPICE TRAINING CLASS
+
+NAIF announces a SPICE training class will be held April 12-14, 2016, 
+at a hotel near Pasadena California. Details about the class and the 
+registration form are available here:  
+
+http://naif.jpl.nasa.gov/naif/WS2016_announcement.html
+
+The class is designed for professionals working in the field of solar 
+system research. It will consist of a combination of lectures, based 
+on the SPICE tutorials, and student-executed programming lessons 
+("open book" style), available in each of the four programming 
+languages supported by NAIF (Fortran 77, C, IDL and Matlab). 
+
+There is no charge for the class, but advance registration is 
+required... the sooner, the better. The 60 seats available will be 
+allocated only upon NAIF receiving a completed registration form. 
+Allocation will be done on a first come, first served basis.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TITAN AERONOMY AND CLIMATE WORKSHOP 
+
+27-29 June 2016 
+Reims, France
+
+The objective of the workshop is to bring together international
+experts from different fields of Titan's research in order to have
+an overview of the current understanding, and to determine the 
+remaining salient scientific issues and the actions that could be 
+implemented to address them. PhD students and post-doc researchers are 
+welcomed to present their studies. This conference aims to be a 
+brainstorming event leaving abundant time for discussion during oral 
+and poster presentations.
+
+** WARNING: This workshop is limited to a maximum of 70 participants
+
+Scientific Committee:
+B. Bezard (LESIA, Obs. Paris-Meudon, FR)
+P. Lavvas (GSMA, Univ. Reims Champagne-Ardenne, FR)
+P. Rannou (GSMA, Univ. Reims Champagne-Ardenne, FR)
+C. Sotin (JPL, NASA/Caltech, USA)
+D. Strobel (J. Hopkin Univ., USA)
+R. West (JPL, NASA/Caltech, USA)
+R. Yelle (LPL, Univ. of Arizona, USA)
+
+More information: 
+
+http://planeto.univ-reims.fr/tac/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] DRAFT ANNOUNCEMENT OF OPPORTUNITY (AO) FOR NEW FRONTIERS PROGRAM
+TO BE RELEASED
+
+NASA has released a community announcement as an advance notice of its 
+plan to release a Draft Announcement of Opportunity (AO) for New 
+Frontiers Program mission investigations with a target release date of 
+July 2016. The New Frontiers Program conducts Principal Investigator 
+(PI)-led space science investigations in SMD's planetary programs under 
+a not-to-exceed cost cap for the PI-Managed Mission Cost (PMMC). At the 
+conclusion of Phase A concept studies, it is planned that one New 
+Frontiers investigation will be selected to continue into subsequent 
+mission phases. The full text of the announcement, including important 
+anticipated AO parameters and schedule, is available on at the New 
+Frontiers Program Acquisition website: 
+
+http://newfrontiers.larc.nasa.gov/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+DEADLINE APPROACHING FOR PLANETARY GEOMORPHOLOGY AT EGU 2016
+
+Vienna, Austria 
+17-22 April 2016  
+GM7.1/PS9.3
+
+Please note that the deadline for EGU abstracts is just 13 hours after 
+the LPSC deadline, namely 13:00 CET 13th January 2016. Late abstracts 
+will be heavily penalised this year. The Planetary Geomorphology 
+session welcomes abstracts concerning landforms and the processes that 
+shape them on all solar system bodies. Earth analogue studies, 
+flume/simulation work and novel approaches using remote sensing data 
+are especially encouraged. This session has always provided a 
+stimulating forum for cross-disciplinary discussion and we hope you'll 
+join us once again to bring geomorphology and planetary science closer 
+together.
+
+Session details and link to abstract submission:
+
+http://meetingorganizer.copernicus.org/EGU2016/session/20807
+
+Abstract instructions:
+
+http://egu2016.eu/abstract_management/how_to_submit_an_abstract.html
+
+Planetary Geomorphology Conveners:
+Susan Conway, Matt Balme, Andreas Johnsson and Davide Baioni
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+COSPAR/ISECG WORKSHOP ON SCIENCE ENABLED BY HUMAN EXPLORATION
+
+CNES HQ, Paris 
+Feb 10/11 2016
+
+Participating space agencies of the International Space Exploration 
+Coordination Group (ISECG) have teamed with the COSPAR Panel for 
+Exploration to organize a workshop on the scientific benefits from the 
+ISECG Global Exploration Roadmap.
+
+The GER provides insights into agencies' exploration planning for 
+potential future human exploration, post-ISS.
+
+In preparation for next version of the GER, a Science White Paper has 
+been in development that articulates and promotes the scientific 
+opportunities of the proposed mission themes. The scientific content 
+of the document has been prepared by representatives of the 
+international scientific communities and has been openly discussed at 
+a number of events.
+
+The COSPAR/ISECG workshop participants will review and discuss 
+appropriate overarching science themes for exploration of the lunar 
+surface, a cislunar habitat, and asteroids, as well as the 
+opportunities of early human-robotic missions. The recommendations 
+of the workshop will directly feed into the ISECG Science White Paper 
+and inform the development of the next version of the GER.
+
+Workshop details can be found at:  
+
+http://sservi.nasa.gov/ger
+
+If you would like to attend please contact Ben Bussey at 
+ben.bussey@nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AOGS 2016 SESSION PS22 - CALL FOR ABSTRACTS
+
+Dear colleagues,
+
+We invite you to submit an abstract to the following session of the 
+13th Annual Meeting of the Asia Oceania Geosciences Society (AOGS) 
+held in Beijing, China, 31 July to 05 August 2016:
+
+PS22: Isotope Ratios Across The Solar System: Origin And Evolution Of 
+Planetary Bodies
+
+"Isotope Ratios across the Solar System" Session will address recent 
+advances in isotope compositions and ratios in different Solar System 
+objects and reservoirs. Isotopes in the Solar System display temporal 
+and sun-distance location heterogeneities. Isotope composition and 
+ratios of planetary bodies (planets, satellites and primitive bodies) 
+convey a unique record of the processes that formed the Solar System 
+and planetary bodies. Their tracers and ratios constituye a powerful 
+diagnostic tool and offer a key to reconstruct the physical and 
+chemical conditions of the early solar system and to unravel the 
+complex dynamics and chemistry associated with the formation and 
+evolution of planetary bodies. Scientific investigations include, but 
+are not limited...
+
+Please read the full session description at:
+
+http://www.meetmatt-svr3.net/aogs/aogs2016/mars2
+/confSessionView.asp?sID=22
+
+Please visit the AOGS Annual Meeting site:
+
+http://www.asiaoceania.org/aogs2016
+
+Deadline for abstract submission is 19 February 2016.
+
+Conveners: M. Rengel, W-H. Ip, P. Hartogh, H. Kawakita
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 10-11, 2016
+COSPAR/ISECG Workshop on Science Enabled by Human Exploration
+http://sservi.nasa.gov/ger
+Paris, France
+
+February 22-25, 2016
+VIII Taller de Ciencias Planetarias
+http://www.if.ufrgs.br/8taller_cienciasplanetarias/br/
+Porto Alegre, Brasil
+
+June 26 - July 1, 2016
+26th Goldschmidt Conference
+http://goldschmidt.info/2016/
+Yokohama, Japan
+
+June 27-29, 2016
+Titan Aeronomy and Climate Workshop
+http://planeto.univ-reims.fr/tac/
+Reims, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

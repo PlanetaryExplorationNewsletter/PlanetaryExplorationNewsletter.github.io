@@ -1,0 +1,397 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 3 (January 17, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. OpenPlanetary Lunch Virtual Talks
+2. Mars Exploration Science Monthly Newsletter for January 2021
+3. MEPAG 2nd Information Circular
+4. Open Meeting About the Independent Review Board for the Planetary 
+   Data Ecosystem
+5. Research opportunities in Space Plasmas at LASP, University of 
+   Colorado Boulder
+6. Research Associate in Planetary Sciences
+7. Postdoctoral Research Associate, University of Washington, Seattle
+8. Postdoctoral Position in Young Stars and Planet Formation at the
+   University of Hawai'i
+9. Postdoc Position: Coupled Interior Atmosphere Evolution of Venus and
+   Venus-like Exoplanets
+10. Applications open for the Summer Exploration Internship Program at 
+    Western University
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OPENPLANETARY LUNCH VIRTUAL TALKS
+
+The OpenPlanetary Lunch virtual talks series will resume shortly. Talks
+occur on Tuesdays at 2pm ET and cover a wide range of topics of general
+interest to planetary scientists. Upcoming talks include:
+
+01/19/21 - Janet Vertesi - "Shaping Science: Organizations, Decisions,
+           and Culture on NASA's Teams"
+01/26/21 - Nahks Tr'Ehnl - "Video games for online astronomy education
+           at Penn State"
+02/02/21 - Hari Nair - "Imaging Inside Mercury's Dark Craters"
+02/09/21 - Nahks Tr'Ehnl - "The Artistic Universe: an Inter-domain
+           Astronomy & Visual Arts Course at Penn State"
+02/16/21 - Vivian Sun - "USGS SIM map of Jezero crater and Nili Planum"
+
+You may sign up to receive future talk announcements and invitations 
+at:
+
+https://www.openplanetary.org/vlunch
+
+If you are interested in speaking in the future, please contact
+chase@openplanetary.org
+
+Learn more about OpenPlanetary or become a member at:
+
+https://www.openplanetary.org/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JANUARY 2021
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi
+Carrier, and Dave Beaty of the Mars Program Science Office, the January
+2021 edition of the Mars Exploration Science Monthly Newsletter can be
+found attached and on the web at: 
+
+http://mepag.jpl.nasa.gov. 
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MEPAG 2ND INFORMATION CIRCULAR
+
+I cordially invite you to participate in the next virtual meeting
+(VM11) of the Mars Exploration Program Analysis Group (MEPAG),
+scheduled on Wednesday, January 27, 2021, at 1:00 pm-5:00 pm EST. 
+The meeting will be recorded and the chat box comments captured for
+those of you who are unable to attend. Those items will be posted at:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=vm11
+
+The agenda includes updates about recent MEPAG, Mars Exploration
+Program, and Mars Sample Return (MSR) status and activities, including
+NASA responses to the recent MSR Independent Review Board (IRB) report.
+There will also be reports on the Decadal Survey Mars Panel activities,
+a Human Exploration & Operations (HEO) update, and a debrief on a
+recent Humans to Mars Conference. We know it is a busy time, but this
+is a chance to catch up on the many changes in Mars exploration
+planning.
+
+This meeting is open to all members of the Mars science community 
+including our international colleagues, and I look forward to your 
+participation.
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+WebEx connection information
+
+https://jpl.webex.com/jpl/j.php?MTID=ma65fd0c6d7fef1cda32ee9b624fd084e
+
+Meeting number (access code): 199 428 2998
+Meeting password: MEPAG
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPEN MEETING ABOUT THE INDEPENDENT REVIEW BOARD FOR THE PLANETARY DATA
+ECOSYSTEM
+
+The NASA Planetary Science Division has established an Independent
+Review Board (IRB) for the Planetary Data Ecosystem (PDE), defined as
+the ad hoc connected framework of activities and products that are
+built upon and support the data collected by planetary space missions
+and research programs which are primarily NASA funded. Many familiar
+tools and archives are part of the PDE, including (but not limited to):
+ADS, AstroMat, DAPs, data policies & standards, JMars, JPL Horizons,
+MAPSIT, NASA Github, PDS, Planetary Geologic Mapping, Planetary
+Photojournal, Quickmap, RPIFs, and USGS Astrogeology ISIS3. The IRB
+will conduct a review of the PDE with the goal of defining the full
+environment, identifying missing or overly redundant elements, and
+providing findings and prioritized, actionable recommendations for
+PSD's long-term planning in support of the PDE. 
+
+The PDE IRB will hold an open meeting on January 21, 2021 from 11am-2pm
+EST. The community is invited to attend as observers (but not as
+participants). The meeting may be joined by using this link or dial-in
+number:
+
+Join with Google Meet:
+
+meet.google.com/fir-ribb-xmm
+
+Join by phone: (US) +1 641-569-8600 (PIN: 777029345) 
+
+Questions or comments may be directed to PDEIRB.Input@nress.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+RESEARCH OPPORTUNITIES IN SPACE PLASMAS AT LASP, UNIVERSITY OF COLORADO
+BOULDER
+
+The Space Plasma Group at the Laboratory for Atmospheric and Space
+Physics (LASP), University of Colorado, Boulder (CU) invites
+applications for multiple open positions for research scientists at
+different rankings (RS-I, RS-II, or RS-III). Research projects include:
+(1) data analysis of Magnetospheric Multiscale (MMS) mission and
+accompanying modeling efforts to study magnetic reconnection,
+turbulence, acceleration, shocks, and/or other kinetic plasma
+processes, (2) application of Machine Learning to space weather,
+especially Earth's radiation belt and ionospheric phenomena, (3)
+analysis of Parker Solar Probe data to study near-Sun solar wind plasma
+and field phenomena, and (4) Mars data analysis with key interest in
+the Langmuir Probe and Waves (LPW) data from the MAVEN mission.
+The candidates must hold Ph.D. in Physics or similar discipline. The
+candidate should indicate their research interests, how they could
+enhance the research projects above, and demonstration of their 
+relevant data analysis skills. MHD/PIC simulation or machine learning 
+is highly desirable.
+
+Application deadline: January 31, 2021.
+Required Materials: Cover Letter, Resume/CV, Contact of three
+professional references, Unofficial transcript
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=27442
+
+For more information: Xiangning.chu@lasp.colorado.edu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+RESEARCH ASSOCIATE IN PLANETARY SCIENCES
+
+Planetary Sciences Group, Freie Universitaet Berlin, Germany
+Application deadline: February 8, 2021
+
+As a Research Associate, the tasks include:
+- Independent research in the field of computer-based and theoretical
+  modelling of processes in the Solar System, especially concerning the
+  dynamics of impacts on planetary surfaces and cosmic dust dynamics.
+- Observation planning and data analysis for space missions in which
+  the research group is involved, especially in the fields of imaging
+  observations (planets, moons, rings, asteroids, comets) and cosmic dust
+  dynamics.
+- Establishing and maintaining scientific collaborations, and
+  interdisciplinary linking of research results, within the university as
+  well as nationally and international colaborators, presentations at
+  internal and international events and conferences.
+- Acquisition of third-party funding.
+- Planning and implementation of courses within the framework of the
+  international Master's programme "Planetary Sciences & Remote Sensing",
+  with focus on planetary physics (e.g. planetary magnetic fields and
+  plasma, celestial mechanics and space missions.)
+- Supervision and advising of doctoral candidates, students and
+  (visiting) scientists.
+
+Requirements of employment:
+- Ph.D. in Planetary Sciences, Physics, Astronomy or Geology.
+- At least 5 years of professional experience
+
+More information:
+
+https://tinyurl.com/y37mejjg
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL RESEARCH ASSOCIATE, UNIVERSITY OF WASHINGTON, SEATTLE
+
+Applications are invited for a postdoctoral position in the Dept. of
+Earth and Space Sciences, University of Washington, to work on
+planetary geochemistry using a combination of lab work and numerical
+modeling. The position will be supervised by Prof. David Catling. The
+postdoctoral researcher will be expected to contribute to NASA-funded
+research about the nature of brines on Mars and the chemistry and
+habitability of Enceladus' ocean. We are also interested in a person
+who can contribute to research about the geochemical environment for
+the origin of life on early Earth and early Mars.
+
+Applicants must hold a PhD in a relevant field, e.g., Planetary
+Science, Chemistry, Geology/ Earth Sciences, Physics. Experience in
+practical work involving geochemistry is strongly desirable, as well as
+experience in - or the confidence to learn - numerical modeling of
+aqueous geochemistry. The successful candidate will also be encouraged
+to cooperate with researchers and students in the university's
+cross-campus Astrobiology Program. Applications received by Feb 15,
+2021, will receive higher priority.
+
+For full details, please see: 
+
+https://ap.washington.edu/ahr/position-details/?job_id=68370
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL POSITION IN YOUNG STARS AND PLANET FORMATION AT THE
+UNIVERSITY OF HAWAI'I
+
+Applications are invited for a postdoctoral position at the University
+of Hawai'i on circumstellar disks, planet formation, and variability
+of young stars. The successful applicant will work with Dr. Eric
+Gaidos and other investigators in the UH node of a NASA
+Interdisciplinary Consortium for Astrobiology Research, and become a
+leading member of a Key Project of the Las Cumbres Observatory. The
+project uses occultation by circumstellar dust to study the inner
+planet-forming regions around young stars, including disks,
+planetesimals, and "exocomets".
+
+A PhD in physics, astrophysics, astronomy or related field is required.
+Applicants with experience with transient astronomy, photometry
+surveys, and/or machine learning are especially welcome. The
+appointment will be for two years, with additional years dependent upon
+funding, satisfactory performance, and compliance with federal/state
+laws. 
+
+Start date: Between August 1 and the end of 2021.
+Annual salary: ~$69,500.
+Deadline: March 12
+
+Submit cover letter with statement of research interests and career
+goals, CV, publication list, and names of three references) should be
+sent to Eric Gaidos (gaidos@hawaii.edu). Applications after that date
+may be considered if the position is still available.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOC POSITION: COUPLED INTERIOR ATMOSPHERE EVOLUTION OF VENUS AND
+VENUS-LIKE EXOPLANETS
+
+The Institute of Planetary Research at the German Aerospace Center
+(DLR) in Berlin invites applications for a postdoc position within the
+framework of a DLR junior research group. The group investigates the
+thermochemical evolution of Mars and Venus and employs an
+interdisciplinary approach that combines large-scale geodynamical
+models of thermal evolution with petrological and geological datasets.
+The successful candidate will use the geodynamical code GAIA and study
+the coupled evolution of the interior and atmosphere of Venus and
+Venus-like exoplanets. The goal of this postdoc project is to
+investigate the effects of partial melting and outgassing processes on
+the interior dynamics, lithosphere and crust of Venus and Venus-like
+exoplanets over their thermochemical history.
+
+Candidates should hold a PhD in Planetary Science, Geophysics or
+closely related fields.
+
+For more information please visit:
+
+https://tinyurl.com/y3xpsse2
+
+Contact information: Dr. Ana-Catalina Plesa (ana.plesa@dlr.de)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+APPLICATIONS OPEN FOR THE SUMMER EXPLORATION INTERNSHIP PROGRAM AT 
+WESTERN UNIVERSITY
+
+Applications are now open for the 2021 Summer Exploration Internship
+Program run by the Institute for Earth and Space Exploration at Western
+University, Canada (deadline is February 5). 
+
+https://space.uwo.ca/
+
+This program will provide students with an opportunity to perform
+cutting-edge, hands-on research on a range of topics in an
+interdisciplinary environment. Students will work on a combination of
+interdisciplinary team-based research projects and focused individual
+research projects with one of the over 60 faculty members of the
+Institute, who cover diverse research areas from planetary science and
+engineering, to space law and health. Topics for the 2021 team-based
+projects are: 1) Lunar science in support of future missions; 2)
+Astronomy with the James Webb Space Telescope; 3) Development of
+CubeSats for Earth and planetary exploration; 4) Delivering healthcare
+in remote environments: From Space to the Arctic; and 5) Asteroids:
+resources and hazards. Stipends will be provided in the amount of
+$7,500.
+
+Complete details of the program, eligibility, and how to apply are
+available here:
+
+https://space.uwo.ca/training/scholarships_and_awards/summer_internship.html
+
+For questions contact westernspace@uwo.ca
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 25-28, 2021
+Brines Across the Solar System: Modern Brines
+https://www.hou.usra.edu/meetings/modernbrines/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new PSJ articles this week.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

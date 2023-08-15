@@ -1,0 +1,291 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 52 (December 27, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AOGS2016 Session PS-09: Planetary Science Data Archiving
+2. International Symposium on Lunar and Planetary Science 2016
+3. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release 24
+4. [NASA] PDS - Mars Exploration Rovers Data Release 46
+5. [NASA] Cancellation of the Participating Scientist Program for the
+   InSight Mission
+6. [NASA] HEOMD Has Released a Request For Information
+7. Call for a Special Issue in Planetary and Space Science
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AOGS2016 SESSION PS-09: PLANETARY SCIENCE DATA ARCHIVING
+
+Asia Oceania Geosciences Conference 2016
+July 31 – Aug 5, Beijing, China
+ 
+http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
+ 
+The focus of this session is planetary science data archives, 
+archiving activities, and future plans. We will invite speakers from 
+the major data archiving organizations from various space agencies to 
+discuss their data archiving facilities and activities, and invite 
+contributed abstracts related to all aspects of planetary science data 
+archiving activities and concepts. It is of great importance and broad 
+community interest to archive and make available to public the data 
+returned by planetary science exploration missions, and related data 
+from Earth-based observing facilities. The ultimate goal is to enable 
+and facilitate combined scientific analyses using data covering long 
+time-baselines and multiple observations for new phenomena and 
+scientific objectives emerging in future times. This session provides 
+a forum for researchers in planetary sciences to discuss and 
+understand the standards, approaches, current progress, and future 
+plans and concepts for effective long-term planetary science data 
+preservation.
+ 
+Conveners:
+Dr. Jian-Yang Li (Planetary Science Institute, United States)
+Dr. Ludmilla Kolokolova (University of Maryland, United States)
+Dr. Daniel Crichton (JPL, Caltech, United States)
+Dr. Sebastien Besse (ESA, Spain)
+Dr. Yukio Yamamoto (JAXA, Japan)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+INTERNATIONAL SYMPOSIUM ON LUNAR AND PLANETARY SCIENCE 2016
+
+International Symposium on Lunar and Planetary Science (ISLPS) is a 
+bi-yearly conference series co-organized by China University of 
+Geosciences (Wuhan) and Macau University of Science and Technology. 
+
+The 2016 meeting will be held on June 9 and 10 in Wuhan, China. The 
+Science Organization Committee is co-chaired by Prof. Wing-Huen Ip 
+(NCU, Taiwan) and Prof. James Head (Brown University). This 
+international symposium aims at the international academic exchange 
+on the topics of processing, analysis, research and application of 
+lunar and planetary exploration data. The scope of the symposium 
+includes, but not limited to, lunar and planetary compositions, 
+topography, surface and internal processes, geology, planetary 
+atmosphere and magnetic fields and plasmas, meteorites and 
+cosmochemistry, asteroids and comets, and future deep space missions.
+
+For more information, go to: 
+
+http://www.must.edu.mo/ISLPS2016/
+
+Authors are invited to submit a full paper in the form of an 
+electronic file in WORD format to zyxiao@cug.edu.cn before March 30, 
+2016. A template is available. All accepted papers will be presented 
+in the symposium, and a special issue in an English journal is under 
+planning.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - LUNAR RECONNAISSANCE ORBITER DATA RELEASE 24
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments:
+
+CRaTER
+DLRE
+LAMP
+LEND
+LOLA
+LROC
+
+In general, LRO Release 24 includes data collected between June 15, 
+2015 and September 14, 2015.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20151215.shtml
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria. 
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 46
+
+The Planetary Data System (PDS) is pleased to announce Release 46
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 3961 through 4050, rover Opportunity (MER1/B), instruments:
+ 
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+ 
+There is no RAT or Radio Science data in this release, no more
+Mini-TES or Moessbauer data is expected, and SPICE data will be
+available soon.
+ 
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20151216.shtml
+ 
+The following special services are provided for accessing MER data:
+ 
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+  
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] CANCELLATION OF THE PARTICIPATING SCIENTIST PROGRAM FOR THE 
+INSIGHT MISSION
+
+ROSES-15 Amendment 38 announces the cancellation of the Participating 
+Scientist Program (PSP) for the Interior Exploration using Seismic 
+Investigations Geodesy and Heat Transport (InSight) Mission.
+ 
+This amendment cancels the PSP due to the suspension of InSight’s 
+March 2016 launch. Please see: 
+
+http://www.nasa.gov/press-release/nasa-suspends-2016-launch-of-
+insight-mission-to-mars-media-teleconference-today
+
+NASA will evaluate the path forward for the InSight mission, and the 
+re-issuance of this opportunity in a future ROSES solicitation will be 
+part of that evaluation.
+ 
+This Amendment is posted on the NASA research opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2015
+
+Questions concerning this program element may be directed to: 
+
+Robert A. Fogel at rfogel@nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] HEOMD HAS RELEASED A REQUEST FOR INFORMATION
+
+Advanced Exploration Systems of NASA’s HEOMD has released a RFI seeking 
+information on payloads that could acquire data to help us better 
+understand the nature of lunar volatiles. This RFI requests details for 
+instruments that would fly in a lunar polar orbit to provide new 
+knowledge on the location, amount, movement, and habitability of 
+volatiles in sunlight, or in the permanently shadowed regions. Details 
+can be found at:
+ 
+http://prod.nais.nasa.gov/cgi-bin/eps/bizops.cgi?gr=D&pin=04#168502
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR A SPECIAL ISSUE IN PLANETARY AND SPACE SCIENCE
+
+The Special Issue entitled "Solar Wind Interaction with the Terrestrial 
+Planets" just published in Planetary and Space Science journal was a 
+really successful experience with 13 contributing papers. We decided 
+to propose again a Special Issue with same topic for 2016.
+
+The covered topics will include all aspects of planetary plasma 
+physics and interactions in the inner Solar System, e.g.,:
+
+- Magnetospheres, ionospheres, auroras
+- The solar wind interaction with planets (Mercury, Venus, Earth, 
+  Mars) 
+  and their moons, or with asteroids / comets
+- Plasma interactions with exospheres, dust and surfaces
+- Intercomparisons of planetary environments
+
+Contributions are welcome which address previous, present, forthcoming 
+and planned observations from space, as well as ground-based 
+observations, theoretical modeling, simulations, and laboratory studies 
+on planetary analogues to simulate surface-plasma interactions.
+
+The deadline for submission will be the 1st of May 2016, leading to a 
+publication in end of 2016.
+
+Please indicate as soon as possible your interest in contributing to 
+the special issue, together with a preliminary title of the intended 
+paper. An approximate abstract, if available, would also be 
+appreciated.
+
+A. Milillo, P. Garnier, A. Radioti, N. Ganushkina    
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+March 31 - April 1, 2016
+The Asteroid-Meteorite Connection Workshop
+http://planets.ucla.edu/meetings/upcoming-meetings/amcw2016/
+Los Angeles, CA
+
+May 18-19, 2016
+European Lunar Symposium
+http://sservi.nasa.gov/els2016/
+Amsterdam, The Netherlands
+
+June 3-5, 2016
+International Symposium on Lunar and Planetary Science 2016
+http://www.must.edu.mo/ISLPS2
+Wuhan, China
+
+July 11-15, 2016
+4th International HSE Geochemistry Workshop
+http://www.hseworkshop.co.uk
+Durham, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

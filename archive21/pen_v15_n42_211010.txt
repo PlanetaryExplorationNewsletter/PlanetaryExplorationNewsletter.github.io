@@ -1,0 +1,261 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 41 (October 10, 2021)
+PEN Website: https://planetarynews.org
+
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Early Career Planetary LinkedIn Group
+2. International Academy of Astronautics Student Research Grants
+3. Opportunities for Students in AGU Planetary Sciences Section
+4. Opportunities for AGU Fall Meeting Caregiver Awards
+5. Jupiter-GRAM and Rearchitected Venus-GRAM Released in GRAM V1.3
+6. NASA Small Bodies Assessment Group Early Career Opportunities
+7. Mars Exploration Science Monthly Newsletter for October 2021
+8. Participate in International Observe the Moon Night on October 16th
+9. Planetary Meeting Calendar Additions 
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EARLY CAREER PLANETARY LINKEDIN GROUP
+
+A LinkedIn group has been created to promote opportunities for early 
+career members of the planetary community, but members of the 
+community from all career stages are encouraged to join. The LinkedIn 
+group can be accessed here:
+
+https://www.linkedin.com/groups/12570170/
+
+For any early career members seeking jobs (MS/Ph.D. positions, 
+postdocs, temporary/contractor, and permanent positions), you can add 
+your information through this Google form:
+
+https://bit.ly/3lsxLuG
+
+The contents will then be added to this sheet where those seeking to 
+hire early career community members can find potential candidates:
+
+https://bit.ly/3v6ih2P
+
+Anyone who wishes to be highlighted in the LinkedIn group after 
+entering their information to the spreadsheet can opt-in through the 
+Google form.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+INTERNATIONAL ACADEMY OF ASTRONAUTICS STUDENT RESEARCH GRANTS
+
+The Planetary Defense Conference Series of the International Academy 
+of Astronautics (IAA) is establishing an international program to 
+provide grants to mentor-led student teams or individuals on projects. 
+Applications must be submitted in electronic form (PDF files) by 
+November 30, 2021 to the email addresses specified in the Grant 
+Overview document. Applicants will be notified of a decision by 
+January 7, 2022. The Grant Overview document and other materials are 
+available for download at:
+
+https://unoosa.org/oosa/en/ourwork/topics/neos/2021/IAAPDC/index.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OPPORTUNITIES FOR STUDENTS IN AGU PLANETARY SCIENCES SECTION
+
+The AGU Planetary Sciences section is seeking applicants for our 
+student and early career representative positions. These are 2 year 
+positions that begin in January, though all incoming reps are invited 
+to our Fall Meeting meeting prior to their start. Responsibilities 
+include attending leadership meetings, organizing student activities 
+at the AGU Fall Meeting, and leading new section initiatives that 
+focus on support for student and early career members. Applications 
+are due by October 15th and can be submitted here:
+
+https://forms.gle/SVsgVDG3U25B4NRp7
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPPORTUNITIES FOR AGU FALL MEETING CAREGIVER AWARDS
+
+In an effort to make attendance at the 2021 Fall AGU meeting as widely 
+accessible as possible, and to gauge the need of its members, the 
+Planetary Sciences section wants to offer awards for caregivers (child 
+or dependent) to support their Fall Meeting attendance. These monetary 
+awards do not require in-person attendance. At this time, we cannot 
+gauge the level of reimbursement we will be able to provide, or 
+guarantee that all need will be met, but we will strive to support as 
+many people as possible. Applications are kindly requested by October 
+15th and are available here:
+
+https://forms.gle/N3sb1VVmJ3EipsS46
+
+We plan to notify recipients before the end of Early Bird registration.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JUPITER-GRAM AND REARCHITECTED VENUS-GRAM RELEASED IN GRAM V1.3
+
+The Global Reference Atmospheric Model (GRAM) Suite is an engineering-
+oriented atmospheric model that estimates mean values and statistical 
+variations of atmospheric properties for planetary destinations. GRAM 
+outputs include atmospheric density, temperature, pressure, winds, and 
+chemical composition along a user-defined path. The GRAMs have been 
+rearchitected from Fortran to a common object-oriented C++ framework. 
+This new architecture creates a common GRAM library of data models and 
+utilities. Version 1.3 of the GRAM Suite contains the new Jupiter-
+GRAM and Uranus-GRAM and the rearchitected Neptune-GRAM, Titan-GRAM, 
+and Venus-GRAM. Jupiter-GRAM atmospheric data is based on Galileo 
+probe Atmospheric Structure Instrument (ASI) data. GRAM Suite Version 
+1.3 contains improved methodology that computes the ratio of specific 
+heats in run-time for the current constituent combination resulting in 
+more accurate speed of sound calculations. GRAM Suite Version 1.3 also 
+includes minor bug fixes to Version 1.2. GRAM Suite Version 1.3 is 
+available upon request through the NASA Software Catalog at:
+
+https://software.nasa.gov/software/MFS-33888-1
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA SMALL BODIES ASSESSMENT GROUP EARLY CAREER OPPORTUNITIES
+
+The upcoming NASA Small Bodies Assessment Group (SBAG) meeting will be 
+held virtually on January 24-25, 2022. There will be multiple 
+opportunities at this meeting specifically for the early career small 
+body community including invited early-career speakers and lightning 
+talks. Applications for invited talks are due via email by COB (5 pm 
+Eastern Time) by November 19, 2021. Lightning talk submissions are due 
+by COB (5 pm Eastern time) by December 17, 2021. Please refer to the 
+meeting webpage here for further details:
+
+https://www.lpi.usra.edu/sbag/meetings/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR OCTOBER 2021
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the 
+October 2021 edition of the Mars Exploration Science Monthly 
+Newsletter can be found attached and on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PARTICIPATE IN INTERNATIONAL OBSERVE THE MOON NIGHT ON OCTOBER 16TH
+
+Saturday, October 16 is International Observe the Moon Night! You are 
+invited to join observers around the world in sharing your excitement 
+about lunar science and exploration, making celestial observations, 
+and honoring cultural and personal connections to the Moon. This 
+annual, worldwide public engagement event takes place when the Moon is 
+close to first quarter - a great phase for evening observing.
+
+You can participate in International Observe the Moon Night from 
+wherever you are. Attend or host a virtual or in-person event, or join 
+in as an individual observer. Tune in to the official broadcast on 
+NASA TV and NASA social media, and share how you are participating 
+using #ObserveTheMoon. However you choose to observe, please follow 
+local guidelines on health and safety. 
+
+Join the global conversation through our Facebook page: 
+
+https://www.facebook.com/observethemoon/
+ 
+Use #ObserveTheMoon on your preferred social media platform and visit 
+the International Observe the Moon Night Flickr group:
+
+https://www.flickr.com/groups/observethemoon2021/
+
+Register your participation, find tips and resources to host and 
+evaluate events, and much more on the International Observe the Moon 
+Night website:
+
+https://moon.nasa.gov/observe
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS 
+
+February 21-23, 2022
+25th Microlensing Conference: The Dawn of Astrometric Microlensing, From Cold Exoplanets to Black-Holes
+https://www.cold-worlds.com/nouvelles-scientifiques/workshops-2022
+Paris, France
+
+August 8-11, 2022
+Winds of Stars and Exoplanets
+https://local.strw.leidenuniv.nl/iaus370
+Busan, Republic of Korea
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Inferring Vortex and Dust Devil Statistics from InSight
+Brian Jackson et al. 2021 PSJ 2:206
+https://doi.org/10.3847/PSJ/ac260d
+
+A Multispecies Pseudoadiabat for Simulating Condensable-rich Exoplanet 
+Atmospheres
+R. J. Graham et al. 2021 PSJ 2:207
+https://doi.org/10.3847/PSJ/ac214c
+
+Carbon Cycling and Habitability of Massive Earth-like Exoplanets
+Amanda Kruijver et al. 2021 PSJ 2:208
+https://doi.org/10.3847/PSJ/ac24aa
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

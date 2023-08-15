@@ -1,0 +1,365 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 5, Number 12 (March 6, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Passing of James L. Elliot (1943-2011)
+2. Mars Exploration Science Monthly Newsletter - March 2011
+3. [NASA] PDS Mars Reconnaissance Orbiter Data Release 16
+4. [NASA] Exploration of Near-Earth Objects:  Open Community NEO 
+   Outbrief and NASA NEO Users Team (NUT) Summary
+5. Planetary Geomorphology Image of the Month
+6. First Announcement - LunGradCon 2011
+7. [NASA] Infrared Telescope Facility Observing Proposals
+8. [NASA] February 2011 Discovery and New Frontiers Newsletter 
+   Released
+9. [NASA] Planetary Decadal Survey Release
+10. Venus Town-Hall Meeting at LPSC
+11. Nitrogen in Planetary Systems: The Early Evolution 
+    of the Atmospheres of Terrestrial Planets (COST CM-0805)
+12. Invitation to Luncheon Meeting between Industry and Science 
+    Communities on NEOs at LPSC
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PASSING OF JAMES L. ELLIOT (1943-2011) 
+
+James L. Elliot, Professor of Planetary Astronomy and Physics and 
+Director of the George R. Wallace, Jr. Astrophysical Observatory at 
+MIT, passed away Wednesday night March 2, 2011. Jim was one of the 
+pioneers in using stellar occultations to probe planetary atmospheres 
+and the physical properties of small bodies in the outer solar system 
+and beyond. Among his accomplishments are the discoveries of the ring 
+system of Uranus and the atmosphere of Pluto. He received his 
+undergraduate degree from MIT in 1965 and his Ph.D. from Harvard in 
+1972. Before returning to MIT in 1978, he was a postdoc and faculty 
+member in the Astronomy Department of Cornell University. Jim was a 
+wonderful mentor and teacher, and was especially supportive of women 
+in astronomy. He was an avid gardener, hiker, and Ohio State football 
+fan. His easy laughter and sense of humor will be deeply missed. 
+An obituary has been posted at: 
+
+http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n= 
+james-l-elliot&pid=149089518 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - MARCH 2011
+
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the February 
+2011 edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS MARS RECONNAISSANCE ORBITER DATA RELEASE 16 
+ 
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:  CRISM, CTX, HiRISE, MARCI, MCS, RSS, SHARAD, and SPICE.
+ 
+In general, MRO Release 16 includes data collected between May 9, 
+2010 and  August 8, 2010. This release includes raw and reduced image 
+data (EDR and RDR files) acquired by HiRISE between November 1, 2010 
+and January 15, 2011 (MRO Orbits 20,000 - 20,999).  In addition, this 
+release includes reprocessed HiRISE RDRs from May 12, 2008 - Sep 13, 
+2008 (MRO Orbits 8,400-9,999.) CTX data  includes 60 volumes 
+(mrox_1157 - mrox_1216) acquired in June 2010 - August 2010. MARCI 
+data includes 21 volumes (mrom_0351 through 0371) with all images 
+acquired in June 2010 - August 2010.
+ 
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110301.html
+ 
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] EXPLORATION OF NEAR-EARTH OBJECTS:  OPEN COMMUNITY NEO OUTBRIEF 
+AND NASA NEO USERS TEAM (NUT) SUMMARY
+
+A brief status report from the February 22 Open Community NEO Workshop 
+will be held on Tuesday, March 8, from 5:15 to 6:00 p.m. in The 
+Woodlands Room. Following this report (from 6:00 to 8:00 p.m.), a 
+summary of NASA's NEO Users TEAM (NUT) activities and products will 
+be presented and will be open for discussion. All interested in 
+robotic and human exploration of NEOs are welcome to attend.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March 'image of the month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Mar11Image.html
+
+This Month's topic is on "Deformation of Sedimentary Rocks in Valles 
+Marineris, Mars"
+
+Images and caption contributed by Dr. Joannah Metz, Shell Oil Company
+
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FIRST ANNOUNCEMENT - LUNGRADCON 2011
+
+The 2nd Annual Lunar Graduate Conference (LunGradCon 2011) will be
+held on Sunday, July 17, 2011 at the NASA Ames Research Center (ARC),
+preceeding the NASA Lunar Science Forum. 
+
+LunGradCon provides an opportunity for grad students and early-career 
+postdocs to present their research on lunar science in a low-stress, 
+friendly environment, being critiqued only by their peers. In addition 
+to oral presentations, the conference presents opportunities for 
+networking with fellow grad students and postdocs, as well as senior 
+members of the NASA Lunar Science Institute. A limited amount of 
+funding will be provided for travel and lodging costs.
+
+For more details, please visit:
+
+http://lasp.colorado.edu/ccldas/lgc2011
+
+or email any questions to: 
+
+lungradcon@gmail.com
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS 
+
+Due date for August 1, 2011 to January 31, 2012 observing is Friday, 
+April 1, 2011.  For submission form see:
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php 
+
+Available instruments include:  (1) SpeX, a 1-5 micron cross-dispersed 
+medium-resolution spectrograph (up to R=2,500);  (2) CSHELL, a 1-5 
+micron high-resolution spectrograph (up to R=40,000);  (3) MIRSI, a 5 
+to 25 micron camera and low-resolution spectrometer (R=100 to 200), 
+(4) NSFCAM2, a 2048x2048 pixel, 1-5 micron camera with a 0.04"/pixel 
+scale (40"x40" field-of-view) and a circular variable filter; and 
+(5) PI-instruments including a low-resolution 3-14 micron spectrograph 
+and high-resolution spectrographs for 8-25 microns.  Information can 
+be found at: 
+
+http://irtfweb.ifa.hawaii.edu/Facility/
+
+Important:  NSFCAM2 will be taken off line on Oct. 1, 2011, to install 
+a new infrared array.  We expect it to be available starting in Feb. 1, 
+2012 - July 31, 2012.  Near-infrared imaging is suitable for some 
+projects with the SpeX slit viewer which has 0.12"/pixel and a 60"x60" 
+field-of-view.
+
+SpeX will be taken off line from Aug. 1, 2012 - Jan. 31, 2013.  This 
+is necessary to upgrade SpeX with new arrays and array controllers. We 
+expect to accommodate key projects requiring large amounts of observing 
+time using CSHELL, NSFCAM2, MIRSI, MORIS, and visitor instruments.
+
+[Editor:  Reduced in length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] FEBRUARY 2011 DISCOVERY AND NEW FRONTIERS NEWSLETTER RELEASED
+
+Comet Secrets Revealed!
+Mercury Orbit Almost Here
+Dawn Counts Down to Vesta
+New Horizons Halfway to Pluto
+In Memory of Rick Grammier
+Program Office News
+Juno Coming Together
+GRAIL Continues Assembly
+
+View and subscribe at:
+
+http://discovery.nasa.gov/newsletter/newsletter.cfml
+
+Also check out the redesigned Discovery Program website, with new 
+features including Exo's Discovery, an interactive learning game, 
+Image Impact! and Small Worlds.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY DECADAL SURVEY RELEASE
+
+The Solar System Decadal Survey report for 2013-2022 is scheduled for 
+public release in a presentation by Dr. Steve Squyres on March 7 at 
+the Lunar and Planetary Science Conference in Houston.  In 
+conjunction with this release, the AAS Division for Planetary Sciences 
+is sponsoring a series of town hall events around the country (Boston, 
+Boulder, St. Louis, Tucson, Orlando, New York, Chicago, Palo Alto, 
+Pasadena, Washington DC) in March and April 2011.
+
+Links to the livestream of the rollout at LPSC, the Squyres charts, 
+the NASA response (livestream and charts) by Jim Green, the Decadal 
+document, and the schedule of town hall events and other supporting 
+information can be found at: 
+
+http://solarsystem.nasa.gov/2013decadal
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+VENUS TOWN-HALL MEETING AT LPSC
+
+The Venus Exploration and Analysis Group (VEXAG) will hold a Town 
+Meeting at the Lunar and Planetary Science Conference to discuss the 
+study and exploration of Venus in the next decade.  Please attend 
+this meeting to get updates on the items below and to express your 
+interest in all aspects of the study and exploration of Venus. 
+ 
+When: Thursday, March 10, lunchtime*: 12-1:15 PM
+Where: Grogan's Mill (room at the LPSC hotel)
+ 
+The agenda is as followed:
+(New) Venus Colloquium Series
+(New) Venus Student Group
+Announcement of the next VEXAG Meeting & Science Conference
+Update on Akatsuki 
+Top 10 Venus Discoveries list
+Comments on Decadal Survey: Stofan/Mackwell
+Community reactions
+ 
+*Note, you are welcome to bring your lunch, but it must be purchased 
+at the hotel.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NITROGEN IN PLANETARY SYSTEMS: THE EARLY EVOLUTION OF THE
+ATMOSPHERES OF TERRESTRIAL PLANETS (COST CM-0805)
+
+Barcelona, Spain, 21st-23th September 2011
+
+http://ulisse.busoc.be/cost/barcelona-meeting.php
+
+The meeting is organized with the collaboration, and sponsorship of 
+the European COST programme and the Scientific Secretariat of the 
+Institute for Catalan Studies (IEC). The workshop will take place from 
+21 to 23 September, 2011 in the Coromines conference room, inside the 
+IEC historical building located in Carme street 47, nearby the 
+famous Ramblas. A nice reception, and a poster session will take place 
+at IEC historical cloister on Wednesday 21st. 
+
+List of Topics
+* Early atmospheres of rocky and giant planets
+* The role of N2 and other N-bearing species in primeval atmospheres
+* Exoplanets: discovery and search of Earth-like candidates
+* Remote detection of chemical species in atmospheres
+* Early conditions for development of life on Earth and other planets
+* Thermodynamic equilibrium chemistry in planetary environments
+* Non-equilibrium chemistry: photochemistry and impacts
+
+Call for contributions:
+
+http://ulisse.busoc.be/cost/identification.php
+
+Registration fee is 150 Euros before June 30, 200 Euros after June 30.
+The maximum number of participants is 90. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+INVITATION TO LUNCHEON MEETING BETWEEN INDUSTRY AND SCIENCE 
+COMMUNITIES ON NEOS AT LPSC
+
+When: Wednesday, March 09, 2011 Noon-1:00 PM Central Time
+
+Where:  The Woodlands Waterway Marriott Hotel and Convention Center 
+- Indian Springs conference room
+
+Format: roundtable dialogue, no presentations, moderated
+
+NEOs have continued to grow in interest within both the science and 
+exploration communities as well as emerging industry interest. There 
+have been some recent discussions on data-sets associated with different 
+NEO/Asteroids missions. We discussed the survey vs characterization, 
+leading to sub-dividing characterization into spectral vs physical. 
+Several commercial groups have come forward with interest in 
+commercially-provided data sets relative to the physical 
+characterization by employing low-cost, min-sat visits to the objects; 
+while others are most interested in the survey/cataloging sets. This 
+luncheon is focused at providing a informal forum for discussions 
+between the science community and industry relative to NEOs.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 17, 2011
+2nd Annual Lunar Graduate Conference (LunGradCon 2011)
+http://lasp.colorado.edu/ccldas/lgc2011
+Moffett Field, CA
+
+September 14-16, 2011
+2nd Planetary Crater Consortium Meeting
+http://planetarycraterconsortium.nau.edu
+Flagstaff, AZ
+
+September 21-23, 2011
+Nitrogen in Planetary Systems: The Early Evolution of the Atmospheres 
+of Terrestrial Planets (COST CM-0805)
+http://ulisse.busoc.be/cost/barcelona-meeting.php
+Barcelona, Spain
+
+November 13-20, 2011
+The Second Arab Impact Cratering and Astrogeology Conference (AICAC II)
+http://www.fsac.ac.ma/aicaii/index.html
+Casablanca, Morocco
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************
+

@@ -1,0 +1,190 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 49 (November 29, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: H. J. Melosh (1947-2020)
+2. NASA Mars Architecture Strategy Working Group Final Report
+3. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 15
+4. EGU Session PS3.6: Volcanism and Tectonism Accross the Solar System 
+5. AGU Town Hall
+6. Planetary Meeting Calendar Additions
+7. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: H. J. MELOSH (1947-2020)
+
+One of the giants of planetary science, H. J. Melosh, died unexpectedly
+on 11 September 2020 at age 73. Through his students, postdocs and
+collaborators, he brought a high level of physical rigor to the growing
+field of planetary geology.
+
+For full obituary, please go to: https://rdcu.be/cbjgX
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA MARS ARCHITECTURE STRATEGY WORKING GROUP FINAL REPORT
+ 
+The final report from NASA's Mars Architecture Strategy Working Group
+(MASWG) has been released by NASA. MASWG was charged by NASA's
+Planetary Science Division with determining what could and should be
+done in the scientific exploration of Mars beyond (i.e., in addition to
+or after) the Mars Sample Return campaign. It recommended a
+reinvigorated Mars Exploration Program that would address fundamental
+science objectives on habitability and possible life, climate
+evolution, and planetary evolution; relevant to Mars, the other
+terrestrial planets, exoplanets, and planning for human exploration;
+and utilizing the full range of spacecraft size classes from small
+spacecraft up through New Frontiers-class.
+ 
+The MASWG final report is available via the MEPAG web site, at:
+ 
+https://mepag.jpl.nasa.gov/reports/MASWG NASA Final Report 2020.pdf
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR AND TER RELEASE 15
+
+PDS announces Release 15 of Mars Reconnaissance Orbiter CRISM Targeted
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data
+Record (MTRDR) products, at:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from August 9 through November 8, 2008. 
+
+TER products are image cubes derived from CRISM hyperspectral targeted
+observations, post-processed to standardize the illumination and
+observation geometry and remove atmospheric gas absorptions and
+instrument artifacts. MTRDRs are the same products map-projected using
+terrain models of the Martian surface.
+
+To access all PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU SESSION PS3.6: VOLCANISM AND TECTONISM ACCROSS THE SOLAR SYSTEM
+
+In 2021, EGU will be hosting vEGU21: Gather Online (#vEGU21), a fully 
+virtual meeting that will be held in place of the General Assembly in 
+Vienna. The dates of vEGU21 will be 19-30 April 2021.
+
+PS3.6 Volcanism and tectonism across the Solar System Session
+Description: Volcanism and tectonism are two of the most ubiquitous
+processes at work in the Solar System, shaping substantially the
+surfaces of worlds as diverse as the terrestrial and dwarf planets,
+main-belt asteroids, and icy satellites. This session will host
+observational, analytical, theoretical, and analogue fieldwork research
+into any aspect of planetary volcanic and tectonic activity. We welcome
+submissions that compare landforms and processes on multiple bodies,
+geochemical and chronological data from planetary material, results
+obtained from analogue and numerical models, and how lessons from
+specific studies can be applied to understanding volcanism and
+tectonism across the Solar System.
+
+You are invited to submit an abstract at:
+
+https://meetingorganizer.copernicus.org/EGU21/abstractsubmission/40044
+
+The deadline for abstract submission is 13 Jan 2021, 13:00 CET. Please
+note that EGU has a One-Abstract Rule.
+
+Conveners: Petr Broz, Sylvain Breton, Ernst Hauber
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU TOWN HALL
+ 
+Session Title: The Present and Future of NASA's Citizen Science Program
+Time: Friday, December 4, 2020 10-11 a.m. EST (7-8 a.m. PST)
+ 
+From conducting projects designed to study our planet's biodiversity to
+studying the Sun and finding planets outside our Solar System,
+NASA-funded citizen science projects harness the collective strength of
+the public to analyze data and conduct scientific research. NASA-funded
+citizen science projects have engaged roughly 1.5 million volunteers
+and resulted in numerous scientific discoveries. This AGU town hall
+provides an opportunity for researchers to learn about NASA resources
+available to help launch successful citizen science projects.
+NASA-funded researchers will also share the latest and greatest
+information regarding popular NASA supported citizen science projects.
+
+Presenters: J. Green, V. Chirayath, M. Kuchner, E. MacDonald, and M.
+Santos
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 24-28, 2021
+XMM-Newton (Virtual) Workshop 2021: A High-Energy View of Exoplanets
+and Their Environments
+http://xmmworkshop.esa.int/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Evidence for Transient Atmospheres during Eruptive Outgassing on the Moon
+Elishevah M. M. E. van Kooten et al. 2020 PSJ 1:67
+http://doi.org/10.3847/PSJ/abbe13
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

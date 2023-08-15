@@ -1,0 +1,338 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 2 (January 9, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Susan Benecchi, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS Releases New Cassini Data
+2. [NASA] Due Date delayed for Lunar Advanced Science and Exploration 
+   Research (LASER) Program
+3. [NASA] announces the Experimental Program to Stimulate Competitive 
+   Research (EPSCoR)
+4. Job Opening - Lunar Sample Curator 
+5. A Decade of Exploration with the Magellan Telescopes
+6. [NASA] PDS Releases Mars Odyssey Data
+7. [NASA] Final Report from the Joint Jupiter Science Definition Team
+8. [NASA] Job Announcements at NASA Marshall Space Flight Center 
+9. Small Bodies Roadmap Draft and Discussion 
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS RELEASES NEW CASSINI DATA
+
+The Planetary Data System (PDS) announces the availability of the 
+Cassini Imaging Science Subsystem (ISS) and Visual and Infrared Mapping 
+Spectrometer (VIMS) Data Release #24. This release includes ISS 
+volumes coiss_2060 and coiss_2061 and VIMS volumes covims_0041. This 
+data can be found on the PDS Imaging Node website at: 
+
+http://img.pds.nasa.gov/  
+
+The PDS Imaging Node now contains all Cassini ISS and VIMS data 
+captured through 2010-03-31 (2010-090).
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DUE DATE DELAYED FOR LUNAR ADVANCED SCIENCE AND EXPLORATION 
+RESEARCH (LASER) PROGRAM
+
+The Lunar Advanced Science and Exploration Research (LASER) program 
+funds basic and applied lunar science. It is the objective of the 
+LASER program to conduct a suite of lunar science investigations 
+spanning the continuum from basic science to applied exploration 
+science. Proposals having significant components of both basic and 
+applied lunar science that further our understanding of the Moon and 
+how to conduct science there are sought and highly encouraged. The 
+LASER program also welcomes the submission of data restoration 
+proposals. The program seeks to identify science data archives that 
+are considered of significant value to lunar science that are in need 
+of restoration and digital archiving. 
+
+The proposal due date for LASER has been changed to February 24, 2011. 
+This is to defer the LASER proposal due date until after the next 
+delivery of Moon Mineralogy Mapper (M3) data to the Planetary Data 
+System (PDS). 
+
+Questions concerning LASER may be addressed to 
+
+Dr. Robert A. Fogel 
+202-358-2289 
+HQ-LASER@mail.nasa.gov
+
+[Editor: shortened for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ANNOUNCES THE EXPERIMENTAL PROGRAM TO STIMULATE COMPETITIVE 
+RESEARCH (EPSCoR)
+
+The National Aeronautics and Space Administration (NASA) has released 
+the FY 2011 Research Announcement for the NASA Experimental Program to 
+Stimulate Competitive Research (EPSCoR). Each funded NASA EPSCoR
+proposal is expected to establish research activities that will make 
+significant contributions to the strategic research and technology 
+development priorities of one or more of NASA's four Mission 
+Directorates - Aeronautics Research, Exploration Systems, Science, and 
+Space Operations, the Office of the Chief Technologist (OCT), and 
+NASA's ten Centers and contribute to the overall research 
+infrastructure, science and technology capabilities, higher education, 
+and economic development of the proposing jurisdiction.  
+
+The National Science Foundation (NSF) determines overall jurisdiction 
+eligibility for NASA EPSCoR.  The following NASA EPSCoR jurisdictions 
+may respond to this NASA EPSCoR solicitation: Alabama, Alaska, 
+Arkansas, Delaware, Hawaii, Idaho, Iowa, Kansas, Kentucky, Louisiana, 
+Maine, Mississippi, Montana, Nebraska, Nevada, New Hampshire, 
+New Mexico, North Dakota, Oklahoma, Puerto Rico, Rhode Island, 
+South Carolina, South Dakota, Tennessee, Utah, Vermont, West Virginia, 
+and Wyoming. Jurisdictions responding to this CAN may submit up to two 
+proposals.
+
+This solicitation may be accessed through the NASA Solicitation and 
+Proposal Integrated Review and Evaluation System (NSPIRES) at: 
+
+http://nspires.nasaprs.com
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB OPENING - LUNAR SAMPLE CURATOR 
+
+January 5 through January 26, 2011
+Vacancy number:   JS11B0022
+Level:   GS-14
+ 
+The Astromaterials Research and Exploration Science Directorate (ARES) 
+at NASA Johnson Space Center (JSC) invites applications to a civil 
+service position in Planetary Science in the Astromaterials Acquisition 
+and Curation Office.  The successful applicant will serve as Lunar 
+Sample Curator.  Responsibilities include overseeing the preservation, 
+protection, and distribution of NASA's Apollo lunar samples; the safe 
+operation of the Lunar Sample Laboratory Facility at JSC and the 
+Curation Remote Storage Facility at the White Sands Test Facility; as 
+well as providing overall technical insight into the development and 
+management of policies, procedures, and operational schedules necessary 
+for lunar sample curation.  The successful applicant will also be 
+encouraged to conduct their own fundamental research in planetary 
+science and to support mission planning for exploration of solar 
+system objects.
+ 
+For more information about Lunar Sample Curation see:
+
+http://curator.jsc.nasa.gov/lunar/index.cfm 
+
+or contact 
+
+Dr. Carlton Allen 
+Astromaterials Curator
+carlton.c.allen@nasa.gov 
+281-483-5126
+ 
+To apply please go to: 
+
+http://www.usajobs.gov  
+
+Add the vacancy number (JS11B0022) as the keyword in the first box and
+click on search jobs.
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+A DECADE OF EXPLORATION WITH THE MAGELLAN TELESCOPES
+
+April 25-28, 2011
+The Huntington Library
+Pasadena, CA
+
+The twin 6.5 meter Magellan telescopes in Chile are widely considered 
+among the best natural seeing telescopes in the world consistently 
+delivering high quality images over extended periods of time. In their 
+first decade of operations, the telescopes have made important 
+contributions to many areas of astrophysics and cosmology including 
+dark energy, dark matter, early galaxies, IGM, AGN and quasars, 
+clusters of galaxies, the Milky Way and Local Group galaxies, 
+extrasolar planets and the Solar System. This three day meeting will 
+highlight scientific results from the telescopes and prospects for 
+future science with the next generation of instruments.
+
+We are also taking advantage of this opportunity to celebrate the 
+accomplishments of Dr. Stephen Shectman who played a central role 
+in the design and construction of the telescopes and continues to play 
+a major role in the development of Magellan instrumentation. Some of 
+Dr. Shectman's many contributions to astronomy will be described in 
+a dinner in his honor held on the second day of the meeting.
+
+Deadline for abstract submission for talks and posters is 
+March 1, 2011. For more information, please visit: 
+
+http://magellan10.obs.carnegiescience.edu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS RELEASES MARS ODYSSEY DATA
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 34, for the following instruments:
+
+GRS
+THEMIS
+SPICE
+
+This release also includes releases 101 and 102 of Odyssey Radio 
+Science data.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110101.html
+
+To access the latest PDS Data Releases, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] FINAL REPORT FROM THE JOINT JUPITER SCIENCE DEFINITION TEAM
+
+The final report from the Joint Jupiter Science Definition Team (JJSDT) 
+for the Europa Jupiter System Mission (EJSM) is now available on the 
+OPAG website: 
+
+http://www.lpi.usra.edu/opag/ 
+
+The EJSM consists of two spacecraft, the Jupiter Europa Orbiter 
+(contributed by NASA) and the Jupiter Ganymede Orbiter (contributed 
+by ESA). Over the past year the JJSDT has worked to finalize their 
+definition of the EJSM science objectives, investigations, and 
+measurements for the mission.  The JJSDT is now disbanded, and NASA is 
+taking their report into consideration as it makes plans for the 
+Jupiter Europa Orbiter. 
+ 
+Questions may be directed to 
+
+Dr. Curt Niebur 
+EJSM Program Scientist
+curt.niebur@nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+JOB ANNOUNCEMENTS AT NASA MARSHALL SPACE FLIGHT CENTER
+
+(1) LABORATORY MANAGER for the MSFC Noble Gas Research Laboratory 
+(MNGRL) to assist in initial set-up and subsequent routine maintenance 
+and operation of the new multi-collector noble-gas mass spectrometry 
+facility. The incumbent will also participate in collaborative or 
+independent research on geochronology of planetary materials. 
+Qualifications include an MS or PhD in planetary or earth sciences 
+and experience in high-precision mass spectrometry (noble gas and/or 
+ICPMS, TIMS, etc.). Applications will be reviewed starting Feb. 1. 
+For more information and how to apply please go to:
+
+http://cspar.uah.edu/research/lunarjobopportunity.html
+
+(2) POSTDOCTORAL FELLOW in noble-gas isotopic analysis of planetary 
+materials. Postdocs will conduct a mix of directed and original 
+research using noble gas mass spectrometry (Ar, Ne, Kr, Xe) on lunar, 
+martian, and/or asteroid samples to obtain their isotopic age, cosmic 
+ray exposure age, or isotopic composition. The application deadline is 
+March 1. Candidates must apply through the NASA Postdoctoral Program: 
+
+http://www2.orau.gov/NASA_Catalog/Opportunity/18395 and are 
+encouraged to contact us directly to develop a research proposal.
+
+Additional information, application instructions, and more about the 
+MSFC Planetary Science group and facilities can be found at: 
+
+http://planetary.msfc.nasa.gov 
+
+or by contacting 
+
+Dr. Barbara Cohen 
+Barbara.A.Cohen@nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SMALL BODIES ROADMAP DRAFT AND DISCUSSION
+
+The NASA Small Bodies Assessment Group is working on the Roadmap for
+the future of small bodies exploration. You are welcome to participate.
+Go to:
+
+http://www.lpi.usra.edu/sbag/roadmap/
+
+The draft document will be posted mid-next week at the URL above and
+discussed at the Fourth Meeting of NASA's SBAG, which begins Monday,
+January 24, in Washington DC. The meeting will begin with a technology
+forum on small bodies exploration (what science is enabled, what 
+technologies should be prioritized for development to achieve science
+goals?). For registration and meeting agenda, please go to:
+
+http://www.lpi.usra.edu/sbag/
+
+There is no fee for the meeting.
+
+Mark V. Sykes
+Chair, NASA SBAG
+sykes@psi.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 22, 2011
+Open Global Community NEO Workshop
+http://www.targetneo.org/
+Washington, DC
+
+March 14-16, 2011
+Second International Conference on the Exploration of Phobos and Deimos
+http://www.seti.org/PhD2011
+Moffett Field, CA
+
+April 10-14, 2011
+AAS Division on Dynamical Astronomy
+http://dda.harvard.edu/meetings/2011
+Austin, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

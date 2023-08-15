@@ -1,0 +1,269 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 48 (November 11, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2019 Pierazzo International Student Travel Award
+2. Assistant Professor Position, Department of Astronomy, New Mexico 
+   State University
+3. Planetary Sciences Tenure-Track Faculty Position at Caltech
+4. Amazonian Mars: Climate and Processes - Notice of Special Issue in
+   Planetary and Space Science
+5. [NASA] PDS Dawn Ceres SPC Shape Model Release
+6. [NASA] SMD Research Opportunities for Graduate Students Update 
+7. [NASA] RFI for Rideshare Mission Integration Services
+8. [NASA] Letter Approving AGU Lodging Per Diem Rate Maximum Posted
+9.  Planetary Meeting Calendar Additions 
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2019 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+Application deadline: 9 PM MST, November 29, 2018
+
+Awards will be announced on or before December 10, 2018
+
+This award is established by the Planetary Science Institute in memory
+of Senior Scientist Betty Pierazzo to support and encourage graduate
+students to build international collaborations and relationships in
+planetary science. Two awards will be made each year, contingent upon
+there being meritorious applications. One will be awarded to a
+graduate student working on his or her Ph.D. at an institution within
+the U.S. This is to support travel to a planetary science related
+meeting (conferences and workshops) outside of the U.S. The second
+award will be to a graduate student working on his or her Ph.D. at an
+institution outside of the U.S. This is to support travel to a
+planetary science related meeting within the U.S. These include
+general meetings that have planetary-focused sessions such as the AGU,
+GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ASSISTANT PROFESSOR POSITION, DEPARTMENT OF ASTRONOMY, NEW MEXICO
+STATE UNIVERSITY
+
+The Department of Astronomy at New Mexico State University invites
+applications for a tenure-track faculty member at the level of
+Assistant Professor beginning in August 2019. We are especially
+interested in candidates with a demonstrated research record and
+continuing research programs related to the targeted area of hire,
+which is planetary system science (solar system and/or extrasolar),
+including planetary atmospheres, interiors, surfaces, formation, and
+environments, and including research programs that are observational
+or theoretical in nature. The NMSU Astronomy Department is committed
+to creating an environment that affirms and supports diversity across
+a variety of axes, including ethnicity, race, class, ability, gender
+identity and expression. We particularly welcome applicants who can
+contribute to such an environment through their scholarship, teaching,
+mentoring, and professional service. For more details, please see the 
+job ad at:
+
+https://jobregister.aas.org/ad/8e66ce6b
+
+Please direct all inquiries to astfaculty@nmsu.edu. 
+
+The application deadline is January 7, 2019.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY SCIENCES TENURE-TRACK FACULTY POSITION AT CALTECH
+
+The Division of Geological and Planetary Sciences at the California
+Institute of Technology is seeking outstanding applicants for a
+tenure-track faculty position in planetary science at the assistant
+professor level. We are seeking highly qualified candidates who are
+committed to a career in research and teaching. We are especially
+interested in individuals whose research complements that in the
+Division, which covers the full spectrum of the earth and planetary
+sciences. We are particularly interested in applicants with solar
+system-focused research programs in planetary geophysics/geology,
+planetary atmospheric sciences, or small bodies research; but those in
+other sub-disciplines will be considered. For further information or
+to apply, please see: 
+
+https://applications.caltech.edu/jobs/ps
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AMAZONIAN MARS: CLIMATE AND PROCESSES - NOTICE OF SPECIAL ISSUE IN
+PLANETARY AND SPACE SCIENCE
+
+A special issue of Planetary and Space Science seeks to assemble
+papers describing our current understanding of the climate and
+planetary processes occurring on Mars during the Amazonian period, the
+most recent 3 Ga of Martian history which includes the present-day.
+The papers presented in this special issue will outline recent results
+that advance our understanding of the Amazonian Climate, as well as
+reviews of our current understanding of key cycles and trends through
+the Amazonian that have left geologic and atmospheric records. If you
+are currently working on a paper relevant to the Amazonian period of
+Mars, including present-day results from spacecraft currently or
+recently operating on Mars, we invite you to submit to the special 
+issue.
+
+Submitted papers must describe original research which is neither
+published nor currently under review by other journals. Guidelines for
+preparation of manuscripts can be found at: 
+
+https://www.elsevier.com/journals/planetary-and-space-science/0032-
+0633/guide-for-authors
+
+For more information, please contact John Moores at jmoores@yorku.ca
+
+Paper submission Deadline: February 28th, 2019 
+Acceptances anticipated: September 30th, 2019 
+Publication expected: November 1st, 2019
+
+Manuscripts and any supplementary material should be submitted
+through the Elsevier EVISE system at:
+
+https://www.journals.elsevier.com/planetary-and-space-science/call-for
+-papers/special-issue-on-amazonian-mars-climate-processes
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS DAWN CERES SPC SHAPE MODEL RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the
+availability of the Dawn Ceres SPC (Stereophotoclinometric) shape
+model of Ceres.
+
+To access this data set, please visit the following link:
+
+https://sbn.psi.edu/pds/resource/dawn/dwncfcshape.html
+
+For access to all Dawn data in the PDS archive, use this link:
+
+https://sbn.psi.edu/pds/resource/dawn/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] SMD RESEARCH OPPORTUNITIES FOR GRADUATE STUDENTS UPDATE
+
+Since 2007, SMD's four science divisions have supported graduate
+student-initiated research through the NASA Earth and Space Science
+Fellowships (NESSF). This year, however, NASA's Science Mission
+Directorate (SMD) is inviting proposals for graduate student research
+via a new solicitation entitled "Future Investigators in NASA Earth
+and Space Science and Technology" (FINESST) NNH19ZDA005K.
+
+No currently funded NESSF awards will be impacted by the transition to
+the new solicitation and universities should continue to request
+funding on behalf of existing NESSF grants via the NESSF19R
+solicitation.
+
+FINESST proposals are due 11:59PM Eastern on February 1, 2019 
+NESSF19R proposals are due 11:59PM Eastern on March 15, 2019
+
+Send questions by email to: HQ-FINESST@mail.nasa.gov.
+
+FINESST questions and responses, with identifying information removed,
+will be posted at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%
+7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init
+
+Any NESSF19R questions and responses, with identifying information
+removed, will be posted at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%
+7bE6A4A726-1F57-FA6F-9A00-AFDF8B53A8A5%7d&path=future&method=init
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] RFI FOR RIDESHARE MISSION INTEGRATION SERVICES
+
+Request for Information for Rideshare Mission Integration Services
+Response date: December 14, 2018
+
+The Science Mission Directorate (SMD) is requesting information
+regarding Rideshare Mission Integration Services. to assess community
+interest, concepts, and rough order of magnitude (ROM) cost for
+secondary payload integration services onto Evolved Expendable Launch
+Vehicle Secondary Payload Adapter (ESPA) rings to be exercised on
+future SMD missions. For more information please read the text of this
+RFI on the NSPIRES page for NNH19ZDA006L.
+
+Questions concerning this RFI and responses to it should be sent via
+email to Camille.Alleyne@nasa.gov and Alan.J.Zide@nasa.gov.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] LETTER APPROVING AGU LODGING PER DIEM RATE MAXIMUM POSTED
+
+This letter from SARA is to issue a waiver for grantees attending AGU
+Fall Meeting in Washington D.C. allowing them to be reimbursed out of
+their grants for actual lodging above the approved GSA amount (as
+limited). Go to:
+
+https://science.nasa.gov/researchers/letters-from-sara/approval-exceed
+-gsa-lodging-agu-2018-fall-meeting-washington-dc
+
+Max Bernstein
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 9-13, 2019
+234th Meeting of the American Astronomical Society
+https://aas.org/meetings/aas234
+St. Louis, MO
+
+June 12-14, 2019
+Exoclimes Simulation Platform (ESP) Inaugural Summer School
+http://www.csh.unibe.ch/research/projects/
+exoclimes_simulation_platform/index_eng.html
+Guarda Val, Switzerland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

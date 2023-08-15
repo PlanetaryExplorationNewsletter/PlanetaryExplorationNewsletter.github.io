@@ -1,0 +1,467 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 32 (August 7, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Final Text for F.2 Topical Workshops, Symposia, and 
+   Conferences
+2. [NASA] NASA Teams Engaging Affiliated Museums and Informal 
+   Institutions (TEAM II) Community Anchor Awards (ANCHR) Notice of 
+   Funding Opportunity
+3. [NASA] PDS: Aperiodic PDS Data Releases in 2022.07
+4. [NASA] PDS: Mars Science Laboratory Release 30
+5. Outer Planets Assessment Group (OPAG) Town Hall to be Held at the 
+   Europlanet Science Congress 2022
+6. Next Small Bodies Assessment Group (SBAG) Meeting
+7. Lunar Polar Volatiles 2022 Conference
+8. Communicating Science Short Course at GSA
+9. Upcoming SPICE Training Class
+10. Planetary Geomorphology Image of the Month
+11. Planetary Society STEP Grants Pre-Proposals Due August 17
+12. Postdoc Position at Boston University: Radio Occultations of 
+    Plasma Environments in the Jupiter System
+13. Project Manager at NASA JSC
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Wood Grain Terrain - Planetary Landscapes for Your Home or Office
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ROSES-22: DRAFT OF F.10 PAYLOADS AND RESEARCH INVESTIGATIONS ON THE
+SURFACE OF THE MOON
+
+https://tinyurl.com/ymnje4jp
+
+F.10 Payloads and Research Investigations on the Surface of the Moon
+will solicit development and flight of a science-driven suite of
+instruments and supporting technology demonstration payloads expected
+to be delivered to the lunar surface on a Commercial Lunar Payload
+Services (CLPS) lander in 2027. F.10 PRISM will call for a suite or
+suites of instruments that are tailored to complete scientific
+investigations prioritized in active decadal surveys at one non-polar
+lunar landing destination that is proposed and justified in the
+proposal. Technology demonstrations or exploration-centric
+investigations are also eligible, as long as proposed instrument suites
+are focused primarily on science investigations, and the technology
+demonstrations and exploration investigations support those science
+investigations. This program element also includes opportunities to
+leverage survive-one-lunar-night, mobility, and/or lander-mounted
+sample acquisition services provided by the CLPS provider.
+
+Questions and comments regarding this solicitation are due by
+September 1, 2022 to Debra Needham at hq-prism@mail.nasa.gov.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NASA TEAMS ENGAGING AFFILIATED MUSEUMS AND INFORMAL INSTITUTIONS
+(TEAM II) COMMUNITY ANCHOR AWARDS (ANCHR) NOTICE OF FUNDING OPPORTUNITY
+
+The NASA Office of STEM Engagement invites proposals from museums,
+science centers, planetariums, NASA Visitor Centers, youth-serving
+organizations, libraries, and other eligible nonprofit institutions via
+the updated 2021 NASA Teams Engaging Affiliated Museums and Informal
+Institutions (TEAM II) Notice of Funding Opportunity, NH21ZHA002N.
+
+The 2021 TEAM II NOFO is an omnibus solicitation, offering distinct
+program elements to which eligible Informal Education Institutions 
+(IEIs) may propose, issued as appendices to the NOFO. 
+
+Community Anchor Awards for TEAM II (ANCHR)
+Pre-proposal webinar (optional):  August 11, 2022
+Full proposals are due: October 18, 2022
+Individual award range: $35K - $40K
+Period of Performance: 1 - 2 years
+
+For more information regarding these opportunities and scheduled
+information sessions, please visit the updated 2021 NASA TEAM II NOFO
+landing page on this NSPIRES website:
+
+https://tinyurl.com/59xunzzh
+
+For general inquiries contact: TEAMII@jpl.nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2022.07
+
+n July 2022, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2022.07.27 Lab Study of Hydrocarbon IR Spectra
+- 2022.07.26 MESSENGER Document Bundle
+- 2022.07.25 MRO CRISM MRDR Version 4
+- 2022.07.11 ALMA Ceres Imaging and Spectrum
+- 2022.07.11 Mars Express SPICAM IR Cleaned Data From Extension 6-8
+- 2022.07.11 Mission-independent DSN Calibration Data
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220731.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS SCIENCE LABORATORY RELEASE 30
+
+The NASA Planetary Data System announces Release 30 of data from the
+Mars Science Laboratory (Curiosity) mission. This release contains raw
+and derived data products covering the time period from November 7,
+2021, through March 24, 2022 (sols 3290-3423). The data are archived
+at various PDS nodes:
+
+- APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+- ChemCam at the Geosciences Node
+- CheMin at the Geosciences Node
+- DAN at the Geosciences Node
+- Engineering Cameras at the Cartography and Imaging Sciences Node
+- MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging Sciences 
+  Node
+- Mastcam at the Cartography and Imaging Sciences Node
+- PLACES Database at the Cartography and Imaging Sciences Node
+- RAD (Radiation Assessment Detector) at the PPI Node
+- REMS (Rover Environmental Monitoring Station) at the Atmospheres Node
+- SAM (Sample Analysis at Mars) at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220801.shtml
+
+The next MSL release is scheduled for December 5, 2022.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OUTER PLANETS ASSESSMENT GROUP (OPAG) TOWN HALL TO BE HELD AT THE
+EUROPLANET SCIENCE CONGRESS 2022
+
+Time: Friday, 23 September, 13:45-15:15 (CEST) 
+Location: Palacio de Congresos de Granada, Spain
+Room: Splinter Sala de Prensa, SMW6 
+Convener: Jeffrey Moore (OPAG Co-Chair)
+
+The purpose of the Outer Planets Assessment Group (OPAG) Town Hall is
+to update the community on OPAG activities and get community input for
+upcoming activities, especially in light of the new Decadal Survey
+recommendations and possible opportunities for international
+cooperation. 
+
+https://meetingorganizer.copernicus.org/EPSC2022/session/44830
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEXT SMALL BODIES ASSESSMENT GROUP (SBAG) MEETING
+
+The Small Bodies Assessment Group's next meeting (SBAG #28) will be
+January 24-26, 2023 at IPAC on the Caltech Campus in Pasadena, CA, and
+online.
+
+In-person attendees will be required to adhere to Caltech's COVID
+prevention policies. At the present time these include a strict vaccine
+mandate and wearing a medical grade mask while indoors. All in-person
+attendees will be required to show proof of vaccination.
+
+https://www.lpi.usra.edu/sbag/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LUNAR POLAR VOLATILES 2022 CONFERENCE
+
+We are happy to invite you to the Lunar Polar Volatiles Conference
+scheduled for November 2-4. 
+
+The meeting will focus on discussions on the current state of knowledge
+of volatiles in the lunar polar regions and outstanding questions to be
+addressed by missions anticipated in the next several years. We will
+solicit presentations to illuminate the present-day inventory, spatial
+distribution of lunar polar volatiles, and processes affecting their
+history of accumulation, modification, and erosion inside permanently
+shadowed regions. Testable predictions and comparative analyses among
+cold-trapped volatiles on the Moon, Ceres, and Mercury are particularly
+encouraged. Presentations on upcoming missions or mission concepts
+related to polar volatiles are also welcome.
+
+The deadline for abstract submission is August 25, 2022, 5:00 pm CDT.
+
+More information can be found on the meeting website:
+
+https://www.hou.usra.edu/meetings/lunarpolar2022/
+
+Meeting conveners:
+Ariel Deutsch, Paul Hayne, Shuai Li, Kathy Mandt and Lior Rubanenko
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+COMMUNICATING SCIENCE SHORT COURSE AT GSA
+
+In addition to the great lineup of topical sessions at GSA this fall,
+also consider signing up for the Communicating Science short course, 
+offered by Steven Jaret. This course will be held on the Saturday 
+before the GSA meeting, October 8. Registration fee for the workshop 
+is $30 for professional memberships, $15 for students.
+
+Short course #521
+
+https://community.geosociety.org/gsa2022/program/short
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+UPCOMING SPICE TRAINING CLASS
+
+NAIF announces the next SPICE training class will take place October
+25-27, 2022 near Pasadena, CA. The combination of the
+announcement letter and registration form are available at:
+
+https://naif.jpl.nasa.gov/naif/WS2022_announcement.html
+
+Registration is required. Registration deadline is October 1. Seating 
+is limited and will be offered in the order in which firm registrations 
+are received.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Tectonic evolution of Ganymede's leading
+hemisphere", contributed by Dr Costanza Rossi, Astronomical Observatory
+of Padova, Italian National Institute for Astrophysics.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+and Twitter: @PlanetGeomorpho 
+
+Best wishes,
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SOCIETY STEP GRANTS PRE-PROPOSALS DUE AUGUST 17
+
+The Planetary Society invites proposals to its grants program: Science
+and Technology Empowered by the Public (STEP) Grants. Proposals must
+fit within one or more of The Planetary Society's core enterprises
+(Explore Worlds, Find Life, Defend Earth). Preliminary proposals are
+due August 17, 2022. Based on the pre-proposal submissions, a small
+number of proposers will be invited to submit full proposals from which
+grant selections will be made. For this round of STEP Grants, the
+nominal expectation is two awards at approximately the US$50,000 level
+each. More information can be found at: 
+
+https://planetary.org/stepgrants
+ 
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POSTDOC POSITION AT BOSTON UNIVERSITY: RADIO OCCULTATIONS OF PLASMA
+ENVIRONMENTS IN THE JUPITER SYSTEM
+
+The Center for Space Physics at Boston University invites applications
+for a postdoctoral researcher position supervised by Professor Paul
+Withers. The research will involve (A) analysis and interpretation of
+radio occultation observations of Jupiter's ionosphere by the Juno
+spacecraft and (B) planning for future radio occultations of Europa's
+ionosphere by the Europa Clipper spacecraft. Candidates should possess
+a PhD degree in a relevant field. Experience conducting research on
+planetary ionospheres or other plasma environments is desirable. The
+salary offered will be competitive and commensurate with experience.
+Funding is available for two years with the possibility of extension.
+The appointment is expected to begin as soon as possible after 1
+January 2023. Please contact Paul Withers (withers@bu.edu) for further
+information.
+
+Applications should be sent by email to Paul Withers (withers@bu.edu).
+The application should be submitted in PDF format and contain a
+curriculum vitae, statement of research interests, and contact
+information for three referees. Review of applications will begin on 1
+October 2022. Women and underrepresented minorities are particularly
+encouraged to apply. Boston University is an equal
+opportunity/affirmative action employer.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PROJECT MANAGER AT NASA JSC
+
+NASA and the European Space Agency (ESA) are working together to bring
+samples of Martian material to Earth for scientific study. Mars 2020
+and its Perseverance rover is the first mission of this international
+interplanetary campaign; currently collecting samples to cache on Mars
+for future retrieval. Two additional missions are planned for the Mars
+Sample Return campaign to follow the Mars 2020 mission to bring samples
+to Earth in 2033.
+
+NASA is searching for a hands-on Project Manager responsible for the
+overall technical and programmatic direction of the Mars Sample
+Receiving Project (SRP). The Project Manager will work with
+cross-Agency and international teams of scientists, engineers,
+architects, technicians, vendors and international partners to develop
+plans, identify risks, and manage performance and schedule within
+budget to achieve project goals. They will partner closely with JSC,
+JPL, NASA HQ, and ESA leaders to proactively define and manage project
+content as well as determine or participate in determining the scope of
+each life cycle phase and develop the products for major reviews and
+decisions.
+
+The full vacancy announcement is open until August 15, 2022 at:
+
+https://www.usajobs.gov/job/669539600
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+September 22-24, 2022
+Maria Mitchell Women of Science Symposium
+https://www.mmwss.org
+Babson Park, MA
+
+October 13-15, 2022
+Ocean World Analog Field Site Assessment Workshop
+https://www.hou.usra.edu/meetings/owa2022/
+Denver, CO
+
+November 14-16, 2022
+Hayabusa 2022 Symposium
+https://curation.isas.jaxa.jp/symposium/2022/index.html
+Sagamihara, Japan
+
+January 24-26, 2023
+NASA Small Bodies Assessment Group Meeting #28
+https://www.lpi.usra.edu/sbag/
+Pasadena, CA
+
+June 11-16, 2023
+Gordon Conference on Origins of Solar Systems
+https://www.grc.org/origins-of-solar-systems-conference/2023
+South Hadley, MA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Dynamical Viability of an Extended Jupiter Ring System
+Stephen R. Kane and Zhexing Li 2022 PSJ 3:179
+https://doi.org/10.3847/PSJ/ac7de6
+
+T-matrix and Hapke Modeling of the Thermal Infrared Spectra of Trojan
+Asteroids and (944) Hidalgo: Implications for Their Regolith Particle
+Size and Porosity
+Vanessa C. Lowry et al. 2022 PSJ 3:181
+https://doi.org/10.3847/PSJ/ac7a30
+
+The Spectral Properties of Pitted Impact Deposits on Vesta as Seen by
+the Dawn VIR Instrument
+T. Michalik et al. 2022 PSJ 3:182
+https://doi.org/10.3847/PSJ/ac7be0
+
+Spectral Rotational Characterization of the Didymos System prior to
+the DART Impact
+Simone Ieva et al. 2022 PSJ 3:183
+https://doi.org/10.3847/PSJ/ac7f34
+
+Heliocentric Effects of the DART Mission on the (65803) Didymos Binary
+Asteroid System
+Rahil Makadia et al. 2022 PSJ 3:184
+https://doi.org/10.3847/PSJ/ac7de7
+
+Juno Spacecraft Measurements of Jupiter's Gravity Imply a Dilute Core
+Burkhard Militzer et al. 2022 PSJ 3:185
+https://doi.org/10.3847/PSJ/ac7ec8
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+WOOD GRAIN TERRAIN - PLANETARY LANDSCAPES FOR YOUR HOME OR OFFICE
+
+Wood Grain Terrain provides slices of concentrated nature in the form
+of 3D woodcuts. Recent collaborations with planetary scientists and
+mission data have brought to life the landscapes of the Moon, Mars, and
+Pluto. Know a landscape that you particularly love? Custom woodcuts are
+available as well.
+
+To learn more, see the gallery on the website: 
+
+https://woodgrainterrain.com/ 
+
+Follow on social media: 
+
+https://www.instagram.com/woodgrainterrain/
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,340 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 33 (August 8, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. NASA Expands Access to Planet Data to NSF and All Federal Civilian 
+   Agencies
+3. [NASA] PDS: Mars Science Laboratory Release 27
+4. [NASA] ROSES-21: C.29 Mars Science Laboratory Participating 
+   Scientist Program
+5. [NASA] ROSES-21: Lunar Data Analysis Program Focus on Lunar Science
+6. [NASA] Job Announcement for Multiple Program Executives in the Mars 
+   Sample Return Program Office
+7. Study on Diversity, Equity, and Inclusion in Competed Space Missions
+8. Planetary Geomorphology Image of the Month
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Wednesday, August 11, 11:00 AM-5:00 PM ET (includes both open and 
+closed sessions, TBA)
+Panel on Venus Meeting #22
+https://bit.ly/37FYEUB
+
+Please see link above for agenda, connection information, and detailed 
+information on timing of open sessions.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA EXPANDS ACCESS TO PLANET DATA TO NSF AND ALL FEDERAL CIVILIAN 
+AGENCIES
+
+NASA has expanded their contract with Planet via the Commercial 
+SmallSat Data Acquisition (CSDA) Program to provide access to 
+PlanetScope imagery for scientific research use for all U.S. Federal 
+Civilian researchers and National Science Foundation funded 
+researchers, including their contractors and grantees. This expands 
+access on the existing contract that currently supports NASA and NASA 
+funded researchers.
+
+Learn more and apply here:
+
+https://bit.ly/3iuN9pa
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MARS SCIENCE LABORATORY RELEASE 27
+
+The NASA Planetary Data System announces Release 27 of data from the 
+Mars Science Laboratory (Curiosity) mission. This release contains raw 
+and calibrated data products covering the time period from November 7, 
+2020, through March 24, 2021 (sols 2935-3068). The data are archived 
+at various PDS nodes:
+
+ - APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+ - ChemCam at the Geosciences Node
+ - CheMin at the Geosciences Node
+ - DAN at the Geosciences Node
+ - Engineering Cameras at the Cartography and Imaging Sciences Node
+ - MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging 
+   Sciences Node
+ - Mastcam at the Cartography and Imaging Sciences Node
+ - PLACES Database at the Cartography and Imaging Sciences Node
+ - RAD (Radiation Assessment Detector) at the PPI Node
+ - REMS (Rover Environmental Monitoring Station) at the Atmospheres 
+   Node
+ - SAM (Sample Analysis at Mars) at the Geosciences Node
+ - SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210802.shtml
+
+The next MSL release is scheduled for December 6, 2021.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-21: C.29 MARS SCIENCE LABORATORY PARTICIPATING SCIENTIST 
+PROGRAM
+
+The purpose of the Mars Science Laboratory (MSL) Participating 
+Scientist (PS) program is to enhance the scientific return from the 
+mission by broadening participation in the mission and mission 
+operations. The program solicits new investigations that broaden 
+and/or complement the funded Principal Investigator (PI)-led 
+instrument investigations, thus maximizing the contribution of MSL to 
+the future exploration and scientific understanding of Mars. 
+Participating Scientist proposals may include instrument-specific or 
+multi-instrument investigations and, in all cases, must include both 
+science analysis and an operational component (commitment to 
+participate in daily operations).
+
+Proposals to this program will be taken by a two-step process in which 
+the Notice of Intent is replaced by a required Step-1 proposal 
+submitted by an organization Authorized Organizational Representative. 
+Step-2 proposals submitted to this program element will be evaluated 
+using dual-anonymous peer review. Proposals must be prepared following 
+the guidelines in this program element and the "Guidelines for 
+Anonymous Proposals" document under "Other Documents" on the NSPIRES 
+page for this program element.
+
+Step-1 proposals are due September 15, 2021, and Step-2 proposals are 
+due November 5, 2021.
+
+Questions concerning MSLPSP may be directed to Rebecca McCauley Rench 
+at:
+
+rebecca.l.mccauleyrench@nasa.gov
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-21: LUNAR DATA ANALYSIS PROGRAM FOCUS ON LUNAR SCIENCE
+
+The Lunar Data Analysis Program (LDAP) funds research on the analysis 
+of data from lunar missions for lunar science investigations. The 
+overall objectives of LDAP are to: enhance the scientific return of 
+lunar missions; broaden scientific participation in the analysis of 
+lunar mission data sets; and fund high-priority areas of research 
+that support planning for future lunar missions
+
+ROSES-2021 Amendment 28 specifies that proposed investigations are 
+limited to lunar science. Moreover, other trivial changes were made to 
+the text. New text is in bold and deleted text has been struck 
+through. The due dates are unchanged; Step-1 proposals are due 
+December 1, 2021, and Step-2 proposals are due February 24, 2022.
+
+On or about August 3, 2021, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2021" (NNH21ZDA001N) will be posted on the NASA research 
+opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions regarding LDAP in general or this amendment in particular 
+may be directed to:
+
+shoshana.z.weider@nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] JOB ANNOUNCEMENT FOR MULTIPLE PROGRAM EXECUTIVES IN THE MARS 
+SAMPLE RETURN PROGRAM OFFICE
+
+The Mars Sample Return Program within the Science Mission Directorate 
+(SMD) at NASA Headquarters (HQ) in Washington, DC is seeking engineers 
+highly experienced in management and execution of agency aerospace 
+programs to serve as Program Executives. The Mars Sample Return 
+Program is one of the most complex, challenging, and impactful 
+robotic spaceflight programs in the history of the Agency, with work 
+being performed at several NASA Field Centers.
+
+https://www.usajobs.gov/GetJob/ViewDetails/610016300
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+STUDY ON DIVERSITY, EQUITY, AND INCLUSION IN COMPETED SPACE MISSIONS
+
+The National Academies of Sciences, Engineering, and Medicine (NASEM) 
+has contracted with NORC at the University of Chicago (NORC) to 
+implement an important research study to understand the factors that 
+impede or facilitate diversity, equity, inclusion, and accessibility 
+in the proposed leadership for competed space missions at NASA.
+
+We are looking for potential key informants, who have served as 
+Principal Investigator (PI) on at least one proposal for a competed 
+space mission from 2010 to the present, who would be willing to 
+participate in a discussion around the processes for preparing and 
+submitting a mission proposal to NASA, and elements of the mission 
+proposal process that may present barriers or are facilitators for 
+achieving diversity, equity, inclusion, and accessibility.
+
+Participation in this study will comprise a 45-60-minute virtual 
+discussion with an interviewer from NORC. All interview responses will 
+be kept confidential and stored separately from your contact 
+information, and NORC will not share your contact information or 
+interview responses with anyone outside our study team.
+
+If you are interested in participating in the study, please complete 
+this short Study Eligibility Survey by August 20, 2021:
+
+https://norc.az1.qualtrics.com/jfe/form/SV_dnCQsdxJUtl5W4u
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Iapetus's Equatorial Ridge", contributed by 
+Charlene Detelich (University of Alaska Anchorage).
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+October 4-5, 2021
+Modern Trends in Studies of Physics and Dynamics of the Solar System Bodies
+https://shao.az/en/news/638
+Shamakhy District, Azerbaijan
+
+November 8-10, 2021
+19th Meeting of the Venus Exploration Analysis Group (VEXAG)
+https://www.lpi.usra.edu/vexag/meetings/vexag-19/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Complex Water-ice Mixtures on N II Nereid: Constraints from NIR 
+Reflectance
+Benjamin N. L. Sharkey et al. 2021 PSJ 2:143
+https://doi.org/10.3847/PSJ/ac0bbe
+
+Europa Clipper Preparatory Photometry to Constrain Surface Properties
+Rajani D. Dhingra et al. 2021 PSJ 2:144
+https://doi.org/10.3847/PSJ/ac06d6
+
+Tidal Evolution of the Earth-Moon System with a High Initial Obliquity
+Matija Cuk et al. 2021 PSJ 2:147
+https://doi.org/10.3847/PSJ/ac12d1
+
+The Io GIS Database 1.0: A Proto-Io Planetary Spatial Data 
+Infrastructure
+David A. Williams et al. 2021 PSJ 2:148
+https://doi.org/10.3847/PSJ/ac097f
+
+The Surface of (16) Psyche from Thermal Emission and Polarization 
+Mapping
+Katherine de Kleer et al. 2021 PSJ 2:149
+https://doi.org/10.3847/PSJ/ac01ec
+
+Exploration of Icy Ocean Worlds Using Geophysical Approaches
+Angela G Marusiak et al. 2021 PSJ 2:150
+https://doi.org/10.3847/PSJ/ac1272
+
+Ocean Circulation on Enceladus with a High- versus Low-salinity Ocean
+Yaoxuan Zeng and Malte F. Jansen 2021 PSJ 2:151
+https://doi.org/10.3847/PSJ/ac1114
+
+Ultra-short-period Planets in K2. III. Neighbors are Common with 13 
+New Multiplanet Systems and 10
+Newly Validated Planets in Campaigns 0-8 and 10
+Elisabeth R. Adams et al. 2021 PSJ 2:152
+https://doi.org/10.3847/PSJ/ac0ea0
+
+Using VIRTIS on Venus Express to Constrain the Properties of the Giant 
+Dark Cloud Observed in Images
+of Venus by IR2 on Akatsuki
+Kevin McGouldrick et al. 2021 PSJ 2:153
+https://doi.org/10.3847/PSJ/ac0e39
+
+Dust Outburst Dynamics and Hazard Assessment for Close Spacecraft-Comet
+Encounters
+Uwe Fink et al. 2021 PSJ 2:154
+https://doi.org/10.3847/PSJ/ac09f0
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* https://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

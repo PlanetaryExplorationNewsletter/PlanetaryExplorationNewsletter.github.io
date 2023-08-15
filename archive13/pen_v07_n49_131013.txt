@@ -1,0 +1,372 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 49 (October 13, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Expected Amendments to SMD CAN and AO Due Date
+2. [NASA] Documents Available on NSPIRES
+3. Venus Technology Forum at VEXAG Meeting #11 - Tuesday, November 19th
+4. Call for Imaging of Candidate Landing Sites for the 2020 Mars Rover 
+   Mission
+5. [NASA] PDS - GRAIL Release 3
+6. New Version of the AIDA Deconvolution Algorithm
+7. NASA Postdoctoral Fellowships
+8. Arizona State University - SESE Exploration Post-Doctoral 
+   Fellowships Available
+9. Research Scientist Position(s) at LPL
+10. ESA Mars Express HRSC Image Release of this Month: Hebes Chasma
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] EXPECTED AMENDMENTS TO SMD CAN AND AO DUE DATE
+
+Given the continuing Government shutdown, we expect to release 
+amendments announcing the delay of proposal due dates next week 
+(week of October 14, 2013). If the Government is still shutdown at 
+the time these amendments are released, the due date will be set to 
+"TBD". NSPIRES cannot support a "TBD" date, thus the date within the 
+system will arbitrarily be set to 03/31/14 - to be consistent with 
+ROSES "TBD" date changes. The solicitations will be amended again when 
+the Government returns to work to provide the new due date.
+
+Programs under consideration for amendment next week are as follows:
+
+NNH13ZDA017C NASA Astrobiology Institute Cooperative Agreement 
+(NAI CAN) Cycle 7: Step-1 proposals currently due November 4, 2013.
+
+NNH12ZDA006O-EVI2 Earth Venture Instrument - 2 Announcement of 
+Opportunity (AO): Proposals currently due November 7, 2013.
+
+NNH13ZDA018O Mars 2020 Investigations Announcement of Opportunity 
+(AO): Proposals currently due December 23, 2013.
+
+Decisions on amending ROSES NOI and proposal due dates that are 
+currently set to the end of October and early November will be made 
+at a later date.
+
+During the shutdown NASA personnel will not be available to answer 
+questions, but the NSPIRES help line will be open. When the 
+Government resumes business, questions should be directed to the 
+Points of Contact for each solicitation. Those Points of Contact 
+will be provided in the amendments expected to be released next week.
+
+ 
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DOCUMENTS AVAILABLE ON NSPIRES
+
+Prior to the Government shutdown, a number of NASA documents that are 
+relevant to proposers and reviewers were downloaded so that they 
+could be cross-posted on NSPIRES in the event that the web sites 
+that host them went down. We have just realized that we should have 
+advertised the availability of these documents to people; apologies 
+for the delay.
+
+The following documents are available:
+
+The Guidebook for Proposers is available on the NSPIRES home page at:
+
+http://nspires.nasaprs.com/external/ 
+
+via a link on "Site News".
+
+The SMD 2010 Science Plan and the NASA 2011 Strategic Plan are both 
+available as downloads from the Mars 2020 Announcement of Opportunity 
+page as "Other Documents". See the Program Library Strategic documents. 
+The direct link to the Mars page is:
+
+http://solicitation.nasaprs.com/Mars2020
+
+In addition, proposers interested in either the Earth Venture 
+Instrument-2 (EVI-2) AO or the Mars 2020 AO are advised that the 
+majority of the Program Library has been reproduced on NSPIRES, 
+on those program's respective homepages.
+
+EVI-2: 
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId={34880755-F100-9DC1-0C9F-C1F8EA697B65}&path=init
+
+Mars 2020:
+
+http://solicitation.nasaprs.com/Mars2020
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VENUS TECHNOLOGY FORUM AT VEXAG MEETING #11 - TUESDAY, NOVEMBER 19TH
+
+This Forum will present the status and a coherent picture of specific 
+technologies useful to potential Venus Missions and discuss where 
+they could be in 5-10 years. These technology evaluations and 
+subsequent discussions will allow the community to be better educated 
+when discussing the VEXAG's Venus Exploration Goals, Objectives and 
+Investigations and Roadmap documents the following day at the VEXAG 
+meeting. A draft of the Venus Exploration Technology Plan will be 
+presented.
+
+These questions will be addressed:
+* What science opportunities for both near-term (< 10 years) missions 
+  and longer-term (> 10 years) missions are enabled by existing 
+  technologies? How are these opportunities limited by existing 
+  technology?
+* What science goals are driving technology development? What 
+  technology synergies and crosscutting technologies have the 
+  potential for changing the way Venus science is accomplished?
+* How should we prioritize technology development?
+* What gaps in the technology developments are due to the lack of 
+  communication between scientists and technologists, hampering the 
+  achievement of science goals?
+* Are there gaps in funding for Venus-related instruments and 
+  technology?
+
+Instrument posters are encouraged for an evening session.  
+
+ 
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR IMAGING OF CANDIDATE LANDING SITES FOR THE 2020 MARS ROVER 
+MISSION
+
+In response to the recent release of the Mars 2020 mission Announcement 
+of Opportunity, we are soliciting imaging targets for candidate landing 
+sites for the Mars 2020 rover mission. Candidate landing sites should 
+be proposed based on their potential to satisfy the objectives of the 
+2020 mission as detailed in the recent mission Science Definition Team 
+(SDT) report (Mustard et al., 2013). This call relates to targets for 
+new candidate landing sites as well as additional targets for candidate 
+landing sites proposed to prior calls. Targets for sites satisfying 
+the requirements will be provided to the Mars Reconnaissance Orbiter 
+(MRO) and Odyssey missions for imaging. 
+
+Persons wishing to propose a candidate site should complete the 
+abstract template found on the website below, which provides further 
+details on the science objectives of the 2020 mission, engineering 
+constraints on landing sites, possible enhancements to EDL, planetary 
+protection constraints, and the information needed to identify a 
+landing site and define the requested images.
+
+Candidate landing sites should be submitted to both Matt Golombek 
+(mgolombek@jpl.nasa.gov) and John Grant (grantj@si.edu) by 
+November 15, 2013.
+
+For details see:
+
+http://marsnext.jpl.nasa.gov/index.cfm
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - GRAIL RELEASE 3
+
+The Planetary Data System (PDS) announces the third release of Gravity 
+Recovery and Interior Laboratory (GRAIL) data. This release includes:
+
+* LGRS RDR - Derived lunar gravitational field data from the GRAIL 
+mission, along with SPICE geometry and navigation kernels created 
+by the GRAIL Science Data System (SDS). The data were acquired during 
+the primary mission phase, from 2012-03-01 through 2012-05-29.
+
+To access the above data, please visit:
+
+http://pds-geosciences.wustl.edu/missions/grail/
+
+For information about this release, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20131011.html
+
+To access the latest PDS Data Releases, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+
+http://pds.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEW VERSION OF THE AIDA DECONVOLUTION ALGORITHM
+
+An updated and more stable version of AIDA, named AIDA 1.3 has just 
+been recently released. AIDA (Hom et al. JOSAA 24 1580-1600,2007) is a 
+de novo implementation and extension of the MISTRAL myopic 
+deconvolution method developed by Mugnier et al. (2004) (see J. Opt. 
+Soc. Am. A 21:1841-1854). These deconvolution algorithms have been 
+shown to yield object reconstructions with excellent edge preservation 
+and photometric precision on images of planetary targets collected 
+with Adaptive Optics systems and Hubble Space Telescope. 
+
+AIDA is free and intended for further open source development 
+(Python-based) - please help improve it; we welcome any feedback!
+
+https://code.google.com/p/aida-deconvolution/
+
+Franck Marchis & Erik Hom
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample research opportunity is:
+
+https://www3.orau.gov/NPDoc/Catalog/18115
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/14cNpfH
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ARIZONA STATE UNIVERSITY - SESE EXPLORATION POST-DOCTORAL FELLOWSHIPS 
+AVAILABLE
+
+The School of Earth and Space Exploration (SESE) at Arizona State 
+University invites applications for the Exploration Postdoctoral 
+Fellowship Program. This program provides opportunities for 
+postdoctoral research emphasizing inter-disciplinary collaboration. 
+Research areas within SESE encompass astronomy, cosmology, 
+astrobiology, earth sciences, climate science, planetary sciences, 
+exploration systems engineering, instrumentation for exploration, and 
+science education.
+
+Applications must include a research proposal that has been discussed 
+with prospective faculty mentors at ASU. Potential research topics 
+span the full range of research interests of our faculty 
+
+http://sese.asu.edu/focus_areas
+
+Preference will be given to proposals that include multiple focus areas 
+within SESE, that forge new collaborations, and that bring new research 
+expertise to SESE consistent with likely faculty hiring strategies over 
+the next few years.
+
+Applications and separate reference letters are due by December 20, 
+2013 via email to exppd@asu.edu. A full description of the application 
+process is available at:
+
+http://sese.asu.edu/opportunities
+
+We expect to award up to 3 fellowships. These 2-year appointments will 
+typically start between July 1 and September 1, 2014.
+
+ASU is an equal opportunity/affirmative action employer that actively 
+seeks diversity among applicants and promotes a diverse workforce.
+
+ 
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+RESEARCH SCIENTIST POSITION(S) AT LPL
+
+Assistant, Associate, or Senior Research Scientist
+
+The Lunar and Planetary Laboratory at The University of Arizona expects 
+to fill up to 2 positions at the level of Assistant, Associate, or 
+Senior Research Scientist. These ranks are equivalent to the 
+corresponding professorial ranks, but without a commitment for state 
+support or teaching responsibility. Research Scientists report to the 
+director of the Lunar and Planetary Laboratory.
+
+Salary and position title will be based on the qualifications of the 
+selected candidate(s), who will be responsible for raising 100% of 
+their salaries and research funds through their own extramural grants 
+and contracts. To be considered for an appointment at the rank of 
+Assistant Research Scientist, candidates must demonstrate solid 
+scientific accomplishments and clear promise of continued achievement. 
+Candidates for the position of Associate or Senior Research Scientist 
+must demonstrate an internationally recognized record of distinguished 
+scientific achievement and leadership in planetary and solar-system 
+science.
+
+For full position details and to apply online, please see:
+
+http://www.hr.arizona.edu 
+
+Reference job #53732. The University of Arizona is an EEO/AA 
+Employer-M/W/D/V.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ESA MARS EXPRESS HRSC IMAGE RELEASE OF THIS MONTH: HEBES CHASMA
+
+http://www.esa.int/Our_Activities/Space_Science/Mars_Express/
+Martian_scars
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

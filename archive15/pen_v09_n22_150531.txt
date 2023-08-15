@@ -1,0 +1,470 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 22 (May 31, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Stanton J. Peale (1937-2015)
+2. Small Bodies Assessment Group 13th Meeting: Registration and 
+   Logistics
+3. Training Opportunity Introduction to GIS for Planetary Mappers
+4. [NASA] PDS - Dawn FC2 Vesta Global Mosaics Data Release
+5. NASA Postdoctoral Fellowships
+6. Post-doctoral Position for Mars Color/Photometry
+7. Director, NASA Astrobiology Institute (NAI) Application Deadline 
+   Extended
+8. International Meeting: Missions to Habitable Worlds
+9. Multiple Postdoc Fellowships at the Centre for Earth Evolution and
+   Dynamics (CEED)
+10. [NASA] Call for Applications for Returned Sample Science Board for 
+    Mars 2020
+11. Planetary Radar Research Scientists
+12. Assistant Professor Position: Solar System Exploration Science
+13. Postdoctoral Research Position: Planetary Geochronology/Instrument
+    Development
+14. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. Microgravity Journal Now Available
+C2. Summer School in Software Systems for Astronomy
+
+ 
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+Memoriam: Stanton J. Peale, 1937-2015
+
+Stanton J. Peale passed away on May 14, 2015 in Santa Barbara from
+complications of leukemia. He was a kind and brilliant planetary 
+scientist with expertise in dynamics and geophysics. After earning 
+his PhD at Cornell University in 1965, he took a faculty position at 
+the University of California, Los Angeles, and then at the University 
+of California, Santa Barbara, where he worked from 1968 until 2015.
+His most recent work was submitted for publication on May 11, 2015. 
+His contributions include the prediction of widespread volcanism on 
+Jupiter's moon Io, the derivation of a general theoretical framework 
+that governs the rotational states of bodies subject to tides, the
+study of tidal evolution in satellite systems, and the development of 
+an ingenious procedure to determine the size and state of Mercury's 
+core. He was also a pioneer in the study of extrasolar planets, 
+both in terms of their dynamics and their detection by micro-lensing. 
+Stan was awarded the Newcomb Cleveland Prize (1979), the James Craig
+Watson Medal (1982), and the Brouwer Award (1992). He was elected to 
+the National Academy of Sciences in 2009. He was a wonderful, beloved
+colleague and will be deeply missed.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SMALL BODIES ASSESSMENT GROUP 13TH MEETING: REGISTRATION AND LOGISTICS
+
+The 13th meeting of the Small Bodies Assessment Group (SBAG) will be 
+held June 29 to midday July 1 in Washington, DC. The website for the 
+meeting is now available:
+
+http://www.lpi.usra.edu/sbag/
+
+The website contains logistics information, the current agenda, and the 
+opportunity to register. Registration is free but is important for 
+planning and to document the community interest in having future NASA-
+supported SBAG meetings. Please register for the upcoming meeting if 
+you plan to attend.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+TRAINING OPPORTUNITY INTRODUCTION TO GIS FOR PLANETARY MAPPERS
+
+The MRCTR GIS Laboratory at the Astrogeology Science Center of the 
+U.S. Geologic Survey would like to invite researchers from the 
+planetary mapping community to join us for two and half days of 
+hands-on GIS training. While we will focus on the use of Esri's ArcMap 
+for geologic mapping, we will touch on a using other GIS applications. 
+The goal of the workshop will be to teach the participants how to 
+initiate, organize, and implement "best practices" for a digital 
+planetary mapping project. For additional information and sign-up 
+instructions, please see:
+
+http://astrogeology.usgs.gov/facilities/mrctr/planetary-gis-training-
+for-mappers
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - DAWN FC2 VESTA GLOBAL MOSAICS DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of Dawn Framing Camera 2 Vesta global mosaics. In addition to the 
+mosaics, the data set also includes the flat fields and straylight 
+patterns used to radiometrically calibrate the Dawn Framing Camera 
+images.
+
+To access these data, please visit the following link:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18818
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/1JkwABH
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL POSITION FOR MARS COLOR/PHOTOMETRY
+
+Applicants are invited to apply for a postdoctoral position associated 
+with MRO's High Resolution Imaging Science Experiment (HiRISE), located 
+at the Lunar and Planetary Laboratory at the University of Arizona. 
+The research emphasis will be on surface and atmospheric photometric 
+normalization and color analysis, leading to new standard and special 
+data products, and related research. This work is also needed in 
+preparation for the Colour and Stereo Surface Imaging System (CaSSIS) 
+on the ExoMars Trace Gas Orbiter.
+
+Experience in remote sensing and image processing is required. 
+Independent research is also encouraged in other areas related to 
+planetary geology and surface processes. Work on terrestrial or other 
+planetary analogs and quantitative studies using digital topography, 
+spectral imaging, and other data are encouraged. Experience in analysis 
+of Mars remote-sensing datasets is desirable. Researchers with primary 
+experience and training in terrestrial remote sensing are welcome.
+
+To apply, go to: 
+
+https://www.uacareertrack.com/applicants/jsp/shared/frameset/
+Frameset.jsp?time=1432754767378
+
+For further information contact Alfred McEwen (mcewen@lpl.arizona.edu) 
+or Shane Byrne (shane@lpl.arizona.edu)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DIRECTOR, NASA ASTROBIOLOGY INSTITUTE (NAI) APPLICATION DEADLINE 
+EXTENDED
+
+New deadline: July 10, 2015
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI).  
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading 
+the Institute into the future. Applicants for this position should 
+have a broad scientific perspective on astrobiology, experience in 
+conducting interdisciplinary scientific research, and demonstrated 
+skills needed to harness the strengths of disparate research 
+communities towards a greater goal. S/he should understand how to 
+grow a research endeavor and respond to changing budget climates 
+while focusing on maximizing the scientific return on NASA's 
+investments in astrobiology. S/he should have experience in leading 
+a diverse staff ranging from established scientists to support 
+personnel, resource planning, and executing budgets and schedules. 
+S/he should be comfortable with modern information technologies and 
+distributed research teams. NASA is particularly interested in 
+applicants who will find ways to infuse astrobiology into NASA flight 
+missions.
+
+Interested individuals should apply at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/393518700
+
+or at:
+
+https://www.usajobs.gov/
+
+In the keyword search box, type vacancy number "AR15S0001". Select 
+"Director, NASA Astrobiology Institute", then click "Apply Online".
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INTERNATIONAL MEETING: MISSIONS TO HABITABLE WORLDS
+
+28-29 of October 2015
+Budapest, Hungary
+
+The two day long meeting will take place at the main building of the 
+Hungarian Academy of Sciences on 28-29 of October 2015. During the 
+conference review presentations will be given by experts and mission 
+specialists of ongoing and planned space missions (including ExoMars, 
+JUICE, CHEOPS, PLATO etc.) that support the understanding of the origin 
+and evolution of life beyond the Earth. Beside overview talks, 
+emphasis will be given on some specific research topics, including 
+analogue field activity and planetary protection issues. The meeting 
+will consist of two panel discussions: 
+
+1. on how to approach habitability from different disciplines 
+(astronomy, biology, chemistry, Earth sciences, philosophy, physics),
+and 
+2. on trans-domain research in astrobiology (including possible 
+contribution to next missions).
+
+For more information, see:
+
+http://life-origins2015.csfk.mta.hu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MULTIPLE POSTDOC FELLOWSHIPS AT THE CENTRE FOR EARTH EVOLUTION AND
+DYNAMICS (CEED)
+
+Up to five Postdoc fellowships (3 years period) are available at the 
+Centre for Earth Evolution and Dynamics (CEED), a Centre of Excellence 
+located at the University of Oslo and funded by The Research Council 
+of Norway (2013 to 2023).
+
+Experience within the following themes are required and examples of 
+specific research fields are listed below:
+
+- Surface and interior dynamic processes of planetary bodies, including 
+exoplanets
+- Planetary system evolution, planetary time-scales, surface ages,
+impact cratering and cratering statistics
+
+More details can be found at:
+
+http://uio.easycruit.com/vacancy/1400458/97031?iso=no
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] CALL FOR APPLICATIONS FOR RETURNED SAMPLE SCIENCE BOARD FOR 
+MARS 2020
+
+Individuals are invited to apply for membership on the Returned Sample 
+Science (RSS) Board for the 2020 Mars science rover mission (hereafter 
+Mars 2020). This strategic mission is intended to investigate an 
+astrobiologically relevant ancient environment on Mars to decipher its 
+geological processes and history, including the assessment of its past 
+habitability and potential for preservation of biosignatures within 
+accessible geologic materials. The rover also has an objective to 
+collect a set of scientifically compelling samples for possible return 
+to Earth by a potential future mission. Mission details are available 
+at: 
+
+http://mars.nasa.gov/mars2020/mission/overview/
+ 
+Preparation of the most scientifically compelling samples for possible 
+future analysis on Earth necessitates careful inputs and community 
+engagement, and to this end, the Mars 2020 project will create a board 
+of scientists drawn from the diverse array of disciplines likely to be 
+involved in the study of returned samples.   
+ 
+To apply submit a 2-page (11-point font, 1-inch margins) Letter of 
+Application and a CV by July 15, 2015 to michael.a.meyer@nasa.gov with 
+the subject line "Mars 2020 Science Team RSS Board" after having read 
+the instructions at:
+
+http://mepag.jpl.nasa.gov/announcements/2020DearColleague_RSS-F.pdf
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY RADAR RESEARCH SCIENTIST
+
+The Arecibo Observatory has an opening for a postdoctoral or research 
+scientist position in the Solar System Studies group studying near-
+Earth asteroids and other Solar System bodies with the Arecibo 
+Observatory Planetary Radar system and the William E. Gordon Telescope. 
+This position would involve observations, data processing, archiving, 
+and modeling of near-Earth asteroids and other Solar System bodies 
+with the Arecibo Planetary radar system. Experience with radar 
+observations and techniques is not a prerequisite. Experience and 
+interest in astronomical observations of Solar System objects, 
+small-bodies geophysics, astronomical instrumentation, and/or 
+numerical inverse modeling are desirable. The incumbent would be 
+resident in Arecibo, Puerto Rico and be an employee of Universities 
+Space Research Association. The incumbent would be expected to 
+participate in radar observations and also carry out an independent 
+research program, and would be encouraged to apply for partial 
+funding support. The Observatory and the Solar System group have 
+significant computing facilities. Conference travel and equipment 
+support are available.
+
+To apply please visit:
+
+http://tinyurl.com/lgecxmp
+
+For further information, please contact Dr. Mike Nolan at:
+nolan@naic.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ASSISTANT PROFESSOR POSITION: SOLAR SYSTEM EXPLORATION SCIENCE
+ 
+The Department of Earth and Planetary Science, Graduate School of
+Science, the University of Tokyo invites applications for a position as
+an assistant professor in the area of Solar-System exploration science.
+We seek a creative individual with leadership ability in the field of
+solid planetary science based on planetary exploration and observations
+including instrumental development. The successful candidate can have a
+science background other than solid planetary science. The successful
+candidate will be appointed at the earliest possible date after
+September 1, 2015, and is expected to teach laboratory classes at both
+undergraduate and postgraduate levels. A Ph.D. or equivalent
+qualification at the time of appointment is required. If not already
+fluent in Japanese, he or she will be expected to achieve fluency
+sufficient for giving lectures and performing administrative duties
+within several years.
+
+Applications must be received by June 22, 2015 via either e-mail or
+postal mail.
+
+More information is available at:
+
+http://www.s.u-tokyo.ac.jp/en/open-positions/2458/
+ 
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOCTORAL RESEARCH POSITION: PLANETARY GEOCHRONOLOGY/INSTRUMENT 
+DEVELOPMENT
+ 
+We are seeking a postdoctoral scholar to help develop our LIBS-MS 
+geochronology instrument. Examples of projects that may be pursued 
+include understanding how LIBS and mass spectrometry techniques can 
+be used to understand planetary lithologies, comparing K-Ar and Ar-Ar 
+ages of planetary samples with complex thermal histories, and/or 
+investigating experimental conditions (pressure, temperature, viewing 
+angle, measurement techniques, etc.) to optimize flight instrument 
+workflow and hardware. Candidates are encouraged to contact Dr. 
+Barbara Cohen (barbara.a.cohen@nasa.gov) directly to develop a 
+research proposal. Applications are due July 1 and must be submitted 
+through the NASA Postdoctoral Program web site:
+
+http://nasa.orau.org/postdoc/
+
+Dr. Barbara Cohen
+NASA Marshall Space Flight Center
+256-961-7566 
+Barbara.A.Cohen@nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+August 18-20, 2015
+Planet Signatures from Precision Spectroscopy
+http://precisionspectroscopy.yolasite.com
+Sao Paulo, Brazil
+
+October 28-29, 2015
+Missions to Habitable Words
+http://life-origins2015.csfk.mta.hu
+Budapest, Hungary
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+MICROGRAVITY JOURNAL NOW AVAILABLE
+
+Dear Microgravity Researchers: 
+ 
+We are excited to announce the official content launch of npj 
+Microgravity. npj Microgravity is a new open access, online-only, peer-
+reviewed journal, highlighting important scientific advances in the 
+life sciences, physical sciences and engineering fields that are 
+facilitated by spaceflight and spaceflight analogue platforms.
+ 
+You are strongly encouraged to consider submitting an article and help 
+us make this one of the preeminent microgravity journals. To help 
+enable a broader participation in the near term, the article processing 
+charge fees will be waived for invited and/or accepted original 
+research articles. We want to emphasize quality submissions and 
+encourage you to submit your articles as soon as possible. See the 
+following link for more information on submitting an article: 
+
+http://www.nature.com/npjmgrav/authors-and-referees
+ 
+
+C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+The University of Hawaiʻi at Hilo Physics and Astronomy Department 
+offers a two week course, July 20-31. The course covers software 
+design and implementation of telescope and instrument control systems, 
+observation planning tools, and software for analyzing and archiving 
+astronomical data. A full course description and instructions for 
+enrollment are given at:
+
+http://phys.uhh.hawaii.edu/Summer2015/index.php#courseA
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

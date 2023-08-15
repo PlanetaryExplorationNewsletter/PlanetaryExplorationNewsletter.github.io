@@ -1,0 +1,420 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 37 (September 4, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary and Space Science Special Issue Reminder
+2. Announcement of a Special Issue of Advances in Space Research on 
+   Small Body Science and Exploration
+3. Tenure Track Assistant Professor at MIT
+4. Big Data Challenges, Research, and Technologies in the Earth and 
+   Planetary Sciences
+5. MAPSIT
+6. ELSI 5th International Symposium & Young Researchers Day 
+7. 32nd MEPAG Meeting 2nd Information Circular
+8. Mars Reconnaissance Orbiter Data Release 38
+9. Planetary Geomorphology Image of the Month
+10. IEEE Aerospace Conference Balloon Session
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY AND SPACE SCIENCE SPECIAL ISSUE REMINDER
+
+Dear colleagues,
+
+We remind you about the Special Issue on "Space Weather at the 
+Terrestrial Planets" in the Planetary and Space Science journal, whose 
+submission deadline is October 1st 2016.
+
+The covered topics will include all aspects of planetary plasma physics 
+and interactions in the inner Solar System, e.g.:
+(a) magnetospheres, ionospheres, auroras
+(b) the solar wind interaction with planets (Mercury, Venus, Earth, 
+    Mars) and their moons, or with asteroids / comets
+(c) plasma interactions with exospheres, dust and surfaces
+(d) intercomparisons of planetary environments
+
+Contributions that address previous, present, forthcoming and planned 
+observations from space, as well as ground-based observations, 
+theoretical modelling or simulations are welcome. Laboratory studies 
+on planetary analogues aiming to simulate the surface-plasma 
+interaction will be considered as well.
+
+Regular papers are expected, and the usual refereeing process will be 
+applied for publication in PSS. To ensure that all manuscripts are 
+correctly identified for inclusion into the special issue, it is 
+important that authors select the name of the special issue when 
+they upload their manuscripts: "Planetary space weather."
+
+Best regards,
+A. Milillo, A. Radioti, P. Garnier and N. Ganushkina 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ANNOUNCEMENT OF A SPECIAL ISSUE OF ADVANCES IN SPACE RESEARCH ON SMALL 
+BODY SCIENCE AND EXPLORATION
+
+Papers are invited for a special topical issue of Advances in Space 
+Research (ASR) entitled "Past, Present and Future of Small Body 
+Science and Exploration" that was proposed within the 41st COSPAR 
+2016 Scientific Assembly.
+
+This special issue is open to all scientists that want to share 
+their results with the scientific community about small body science 
+connected to space exploration. The year 2016 has seen an incredible 
+burst in the Space mission activities to minor bodies, leading to 
+tremendous or surprising results. The present special issue welcomes 
+contributions that have a Scientific, Technical or Instrumental
+focus and serves as a crossroad of recent results and future 
+prospects of small body explorations.
+
+Papers must be submitted electronically to:
+
+http://ees.elsevier.com/asr
+
+To ensure that all manuscripts are correctly identified for inclusion 
+into the special issue, authors must select "Special Issue: Small 
+Body Exploration" when they reach the "Article Type" step in the 
+submission process. The deadline for submissions is 31 January 2017.
+
+Questions can be directed to Drs. Palomba, Hestroffer or to the 
+Co-Editor for Special Issues, Dr. Peggy Ann Shea (sssrc@msn.com).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+TENURE TRACK ASSISTANT PROFESSOR AT MIT
+
+The Department of Earth, Atmospheric, and Planetary Sciences at the
+Massachusetts Institute of Technology invites qualified candidates to
+apply for a tenure track position at the assistant professor level 
+beginning July 2017 or thereafter. Applicants with research interests 
+in Planetary Science are encouraged to apply. We seek an outstanding 
+scientist with interest in and potential for innovation and leadership 
+in teaching at the undergraduate and graduate levels and research. 
+The search is in the broad area of Planetary Science encompassing our 
+Solar System as well as exoplanets, including theory, observation, 
+and instrumentation. However, we are especially interested in 
+individuals whose research complements existing MIT expertise. 
+
+Applicants must hold a Ph.D. in Planetary Science or related field 
+by the start of employment and must demonstrate ability to excel in 
+teaching. A complete application must include curriculum vitae, 
+two-page description of research and teaching plans and three 
+letters of recommendations.
+
+Applications are being accepted at Academic Jobs Online:
+
+https://academicjobsonline.org/ajo/jobs/7724  
+
+To receive full consideration, complete applications must be 
+received by: December 1, 2016.
+
+Search Contact: 
+Ms. Karen Fosher
+kfosher@mit.edu
+
+MIT is an equal employment opportunity employer. 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+BIG DATA CHALLENGES, RESEARCH, AND TECHNOLOGIES IN THE EARTH AND 
+PLANETARY SCIENCES
+
+http://geo-bigdata.github.io/
+
+Part of IEEE International Big Data Conference 2016, Washington D.C.
+Monday, December 5th, 2016
+
+Paper submissions due September 25th, 2016
+
+A new paradigm is needed in order to increase the productivity and 
+effectiveness of scientific data analysis for Earth and planetary 
+science investigation. This paradigm must recognize that architectural 
+and analytical choices are interrelated, and must be carefully 
+coordinated in any system that aims to allow efficient, interactive 
+scientific exploration and discovery to exploit massive data 
+collections, from point of collection to analysis and decision support.
+
+Both observational systems and data centers will be needed as part 
+of this new paradigm, which includes the significant increase in size 
+and complexity of science data as well as new approaches across the 
+entire data lifecycle from capture to management and analysis of 
+the data.
+
+This workshop builds off of two successful previous workshops that 
+have merged to offer a comprehensive venue for all aspects of Big 
+Data in the Earth and Planetary Sciences. We seek computational and 
+data science experts to present on their research and discuss Big Data 
+roadmaps, architectures, technologies, and methodologies for future 
+Earth and planetary science data challenges emerging from both 
+instrumentation and data access and analytics.
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MAPSIT
+
+MAPSIT, the Mapping and Planetary Spatial Information Team, is a new 
+NASA Assessment Group that is seeking steering committee membership, 
+including international. We consider all aspects of planetary data, 
+from collection, to processing, to incorporation into regional and 
+global products and maps, and finally to storage and accessibility. 
+We seek to identify and prioritize community needs and to increase 
+the utility of our international spacecraft data. We will accept 
+nominations (including self-nominations) consisting of one paragraph 
+about how your involvement will benefit MAPSIT, plus your CV, sent 
+to janirad@byu.edu by 30 September 2016. The MAPSIT steering committee 
+will decide between these nominations, considering how to retain 
+expertise in tools and methods and to maintain balance between 
+science, disciplines and institutions. Visit:
+
+http://www.lpi.usra.edu/mapsit/ 
+
+for more information on MAPSIT.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ELSI 5TH INTERNATIONAL SYMPOSIUM & YOUNG RESEARCHERS DAY 
+
+The Earth-Life Science Institute will be holding its 5th International 
+Symposium on the 11-13 Jan 2017, on the broad topic of the emergence 
+of the biosphere. We welcome interested scientists to join this 
+discussion.
+
+The emergence of biosphere on Earth, and possibly elsewhere in the 
+universe, remains one of the great unsolved scientific questions. 
+Research into the origin and subsequent evolution of life takes 
+place across an array of scientific disciplines, including but not 
+limited to planetary sciences, astronomy, theoretical physics, 
+chemistry and biology. The goal of the Symposium is to provide a 
+forum for diverse perspectives and unify the fragmentary knowledge 
+stemming from a single discipline. Accordingly, the program features 
+talks and discussions aimed at understanding the nature of life, 
+constraints of habitability, early Earth environments, systems 
+chemistry, structure and attributes of early life.
+
+On 10 Jan 2017, will be the Young Researcher Day (YRD), a workshop 
+for early career investigators to present and discuss their work, 
+and for which we offer a number of full or partial travel grants.
+
+Information for Young Researcher Day: 
+
+elsi5sympo.com/young-researcher-event/  
+
+(registration deadline: Sept. 30, 2016)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+32ND MEPAG MEETING 2ND INFORMATION CIRCULAR
+
+Members of the Mars community,
+
+I cordially invite you to participate in the 32nd meeting of the Mars 
+Exploration Program Analysis Group (MEPAG), scheduled as a virtual 
+meeting on October 6th, 2016, 8:30am-12:30pm PDT.
+
+Adobe Connect information and current draft agenda are posted at:
+
+http://mepag.nasa.gov/meeting/2016-10/meeting32_2nd%20Information%
+20Circular_v3.pdf
+ 
+Key discussion topics will include:
+* Reports from the Mars Exploration Program on budget, current 
+  missions, and studies for future Mars missions;
+* Updates on Human Exploration and Operations (HEO) activities;
+* Report on the planetary science community-wide survey of 
+  Participating Scientist programs;
+* New membership within the MEPAG Goals and Executive Committee;
+* Report from the recent conference on "Biosignature Preservation 
+  and Detection in Mars Analog Environments";
+* Upcoming MEPAG activities, including the next face-to-face 
+  MEPAG meeting (No. 33) in early 2017.
+
+The meeting is open to all members of the Mars science community 
+including our international colleagues. I look forward to your
+participation.
+
+Sincerely,
+Dr. Jeffrey R. Johnson
+MEPAG Chair 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 38
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+- CRISM
+- CTX
+- HiRISE
+- MARCI
+- MCS
+- RSS
+- SHARAD*
+- SPICE
+
+*SHARAD data in this release includes only derived data.
+
+In general, MRO Release 38 includes data collected from
+November 9, 2015, through February 8, 2016, though in this
+release, HiRISE data covers January 25, 2016, to May 4, 2016,
+and CRISM data covers February 9, 2016, to May 8, 2016.
+
+To access the above data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160901.shtml
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The September 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Water, water, everywhere...?".
+Post contributed by Dr. Susan J. Conway, CNRS LPG Nantes, France.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter @PlanetGeomorpho
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+IEEE AEROSPACE CONFERENCE BALLOON SESSION
+
+NSRC Community,
+
+We want to call attention to this meeting and special session that 
+may be of interest to members of the NSRC community. Conference 
+information and abstract submission at:
+
+www.aeroconf.org. 
+
+Disregard the July 1 date in the Call for Papers, the conference 
+organizers have told us that abstracts are still being accepted.
+
+IEEE Aerospace Conference
+Big Sky, Montana
+March 4-11, 2017
+
+Session 8.14 - New Technologies and Instruments for Scientific 
+Balloon Missions. Scientific balloons are capable of testing new 
+technologies and performing groundbreaking science for low cost. 
+Topics include mission concepts (astrophysical, planetary, and 
+terrestrial), instrument, sensor and infrastructure technologies 
+(e.g., gondola mechanical structures, pointing/aspect systems, 
+payload networking, data streaming techniques, power management 
+schemes, and ground station operation enhancements and architectures) 
+and cross-over technologies relevant for future orbital and deep 
+space payloads.  Also of interest are specific electronic 
+developments related to long duration and ultra-long duration 
+balloon flights, as well as related technologies applicable to 
+balloon systems, testing, and performance.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 31-February 3, 2017
+Ushering in the New Age of Microlensing from Space
+http://nexsci.caltech.edu/conferences/2017/microlensing/
+Pasadena, CA
+
+April 24-27, 2017
+Astrobiology Science Conference 2017 (AbSciCon 2017)
+http://www.hou.usra.edu/meetings/abscicon2017/
+Mesa, AZ
+
+May 9-11, 2017
+Chondrules as Astrophysical Objects
+http://chondrules.phas.ubc.ca
+Vancouver, Canada
+
+July 16-21, 2017
+The XVIIIth International Conference on the Origin of Life
+http://www.hou.usra.edu/meetings/issol2017/
+San Diego, CA
+
+August 7-13, 2017
+The Third Workshop on Extremely Precise Radial Velocities (EPRV III)
+http://www.lpi.usra.edu/planetary_news/2016/08/10/the-third-workshop
+-on-extremely-precise-radial-velocities-eprv-iii/
+University Park, PA
+
+September 5-7, 2017
+Exoplanetary Systems in the PLATO Era
+http://www2.warwick.ac.uk/fac/sci/physics/research/astro/research/
+plato_mission_conference2017/
+Coventry, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

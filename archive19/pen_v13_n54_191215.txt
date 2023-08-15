@@ -1,0 +1,473 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 54 (December 15, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] ROSES: Due Date Delay for Gravity/Radio Science Team
+   Co-Investigators for the Europa Clipper Mission
+2. [NASA] ROSES: New Opportunity - Mars 2020 Participating Scientist 
+   Program 
+3. [NASA] PDS: GBRA Data Release
+4. [NASA] PDS: OSIRIS-REx Release: OLA Bennu 3, OTES Bennu 2 and 3
+5. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 40
+6. [NASA] Open Position at NASA HQ: Research and Analysis Lead,
+   Planetary Science Division
+7. 2020 Annual Meeting of Planetary Geologic Mappers
+8. Abstract Submission Open for European Lunar Symposium
+9. EGU 2020 Session PS3.6/AS4.21/ST3.5: Atmospheres and Exospheres of
+   Terrestrial Planets, Satellites, and Exoplanets
+10. EGU 2020 Session PS1.4-ST4: Planetary Space Weather
+11. EGU 2020 Session PS4.2: Mars Science and Exploration
+12. Lunar Surface Science Workshop: Save the Date
+13. Humans to Mars Summit
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ROSES: DUE DATE DELAY FOR GRAVITY/RADIO SCIENCE TEAM
+CO-INVESTIGATORS FOR THE EUROPA CLIPPER MISSION
+
+The objectives of the Europa Clipper Gravity/Radio Science Team
+(Clipper G/RS) Program are to 1) add new members to the Europa Clipper
+science team with expertise in gravity, radio science, and/or similar
+investigations to the Europa Clipper science team; and 2) expand
+science community participation on the existing Europa Clipper science
+team. The program will select a Lead Scientist and Co-Investigators
+(Co-Is) to populate the Clipper G/RS team.
+
+The due date for proposals to serve as the Lead Scientist have passed.
+This Amendment delays the due date only for proposals for
+Co-Investigators. For those who have already submitted their Mandatory
+NOIs, proposals are due January 24, 2020. The planning start date for
+Co-Investigators is now April 1, 2020.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2019
+
+Questions concerning this program element may be directed to Curt
+Niebur at curt.niebur@nasa.gov.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES: NEW OPPORTUNITY - MARS 2020 PARTICIPATING SCIENTIST 
+PROGRAM
+
+The C.26 Mars 2020 Participating Scientist Program is to enhance the
+scientific return from the mission by broadening participation, 
+augmenting the existing Mars 2020 science team to include new
+investigations that broaden and/or complement the funded Principal
+Investigator-led investigations, thus maximizing the contribution of
+Mars 2020 to the future exploration and scientific understanding of
+Mars. The second goal of this opportunity is to increase the number of 
+scientists supporting daily mission operations.
+
+The timing of this solicitation is designed to permit selection and
+training of participating scientists (PSs) in time to contribute fully
+to both pre-landing activities such as landing site analysis and
+science operations immediately upon arrival at Mars. Selected
+participating scientists will become members of the Mars 2020 science
+team and be required to fulfill responsibilities similar to those of
+current science team members.
+
+A Notice of Intent (NOI) is mandatory for all proposers. NOIs are due 
+January 13, 2020, and proposals are due March 12, 2020.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2019
+
+Questions concerning this program element may be directed to Mitchell
+Schulte at mitchell.d.schulte@nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: GBRA DATA RELEASE
+
+The Planetary Data System is pleased to announce the next PDS-wide
+announcement of groundbased and R&A data. This release includes:
+
+Asteroid Lightcurve Database (LCDB) V3.0
+Binary Minor Planets V3.0
+Small Bodies Occultations V3.0
+Asteroid Polarimetric Database (APD) V1.0
+
+The data can be accessed from:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20191211.shtml
+
+To access all data archived in the PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: OSIRIS-REX RELEASE: OLA BENNU 3, OTES BENNU 2 AND 3
+
+This release of OSIRIS-REx data includes:
+
+OLA data through May 17, 2019
+OTES data through May 17, 2019
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20191212.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+
+https://sbn.psi.edu/pds/resource/orex/ola.html
+
+https://sbn.psi.edu/pds/resource/orex/otes.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LUNAR RECONNAISSANCE ORBITER DATA RELEASE 40
+
+The NASA Planetary Data System is pleased to announce a new delivery of
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:
+
+  CRaTER
+  DLRE
+  LEND
+  LOLA
+  LROC
+  MiniRF
+  SPICE
+
+In general, LRO Release 40 includes data collected between June 15,
+2019 and September 14, 2019.
+
+Radio Science (RS) and LAMP data for this release are delayed and will
+be available in a few days.
+
+To access the above data, please visit the following links:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20191213.shtml
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO
+data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows
+searching and downloading of LRO data and other lunar orbital data sets
+(Clementine and Lunar Prospector):
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data can be obtained here:
+
+https://naif.jpl.nasa.gov/pub/naif/pds/data/lro-l-spice-6-v1.0/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+OPEN POSITION AT NASA HQ: RESEARCH AND ANALYSIS LEAD, PLANETARY SCIENCE
+DIVISION
+
+Announcement open: 12/16 - 12/18.
+Apply at USAJOBS using announcement number HQ20H0002.
+
+NASA is pleased to announce that we will fill the position of Research
+and Analysis (R&A) Lead of the Planetary Science Division (PSD) in the
+Science Mission Directorate. The PSD R&A Lead position will be a Direct
+Hire Authority announcement through USAJOBS and therefore, it will only
+be open for 3 days (December 16-18, 2019). No earlier than December 16,
+2019, you will be able to find a detailed description of this position
+and additional information on qualifications and application
+procedures, by visiting:
+
+https://www.usajobs.gov
+
+and searching for announcement number HQ20H0002.
+
+The vitality of NASA science programs is dependent upon the best people
+working for and with the Science Mission Directorate, so we would like
+to encourage each of you to apply to this opportunity. With your help,
+we can continue to make exceptional progress for the planetary science
+community.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+2020 ANNUAL MEETING OF PLANETARY GEOLOGIC MAPPERS
+
+June 16-18, 2020, Denver, Colorado.
+
+The purpose of the annual meeting of planetary geologic mappers is to
+report progress on NASA-funded geologic mapping projects. Other
+planetary geologists who are conducting geologic mapping are also
+welcome to attend. The meeting serves as a venue to discuss problems
+and issues relevant to the planetary mapping community. Findings are
+determined from plenary discussion sessions and then presented to the
+MAPSIT Steering Committee to forward to NASA Headquarters Program
+Officers. The meeting usually includes a GIS Q&A session with USGS
+scientists, and this year will include a discussion of potential next
+generation of maps required for future landings and exploration on the
+Moon and Mars.
+
+IMPORTANT: To be added to the mailing list to receive pertinent
+information about this workshop and to indicate your interest in
+participating, please submit an Indication of Interest by February 16,
+2020.
+
+https://www.hou.usra.edu/meetings/pgm2020/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ABSTRACT SUBMISSION OPEN FOR EUROPEAN LUNAR SYMPOSIUM
+
+We are pleased to announce that the abstract submission portal is now
+open for the 8th European Lunar Symposium (ELS), which will be held in
+Padua, Italy on 12-14 May 2020. You can bookmark the meeting website:
+
+https://els2020.arc.nasa.gov
+
+Please make note of the following important dates:
+
+Registration opens: January 14, 2020
+Abstract submission closes: January 17, 2020
+Early-bird registration closes: April 3, 2020
+
+We look forward to welcome you in Padua in May 2020! 
+
+Luca Porcelli and Mahesh Anand
+(on behalf of ELS 2020 organisers)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EGU 2020 SESSION PS3.6/AS4.21/ST3.5: ATMOSPHERES AND EXOSPHERES OF
+TERRESTRIAL PLANETS, SATELLITES, AND EXOPLANETS
+
+The abstract submission is open for EGU 2020, held in Vienna on May 
+3-8.
+
+The deadline for the abstract submission is January 15, 2020, 13:00 CET
+
+I would like to draw your attention to our session: "Atmospheres and
+exospheres of terrestrial planets, satellites, and exoplanets".
+
+This session primarily focuses on the neutral atmospheres of
+terrestrial bodies other than the Earth. This includes not only Venus
+and Mars, but also exoplanets with comparable envelopes and satellites
+carrying dense atmospheres such as Titan or exospheres such as
+Ganymede. We welcome contributions dealing with processes affecting the
+atmospheres of these bodies, from the surface to the exosphere. We
+invite abstracts concerning observations, both from Earth or from
+space, modeling and theoretical studies, or laboratory work.
+Comparative planetology abstracts will be particularly appreciated.
+
+If you consider submitting an abstract in this session, you can use the
+following link:
+
+https://meetingorganizer.copernicus.org/EGU2020/abstractsubmission/
+36525
+
+Hope to see you in Vienna!
+
+Best regards,
+The conveners
+Arnaud Beth, Francisco Gonzalez-Galindo, Arianna Piccialli
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EGU 2020 SESSION PS1.4-ST4: PLANETARY SPACE WEATHER
+
+Deadline for abstract submission is Jan 15, 2020, 13:00 CET.
+
+As conveners we would like to invite researchers in the planetary space
+weather community and in the planetary environments to submit
+abstracts.
+
+In the present session, we welcome abstracts from all planets' upstream
+solar wind activities and their relation to planetary space weather,
+including especially magnetized bodies (like Mercury, the Earth, Saturn
+and Jupiter) as well as comparisons with unmagnetized bodies (Mars and
+Venus), with a special focus of this session on the planet Mercury
+whose environment in a few years will be the main goal of the dual
+ESA/JAXA mission BepiColombo.
+
+In this frame, we welcome studies on:
+- magnetosphere-ionosphere coupling dynamics (and auroras where
+  present);
+- the solar wind interaction with planets and moons;
+- inter-comparisons of planetary environments;
+- observations of space weather effects from space probes and
+  Earth-based instrumentation;
+- theoretical modeling and simulations, especially in view of
+  measurement analysis and interpretation;
+- potential impacts of space weathering on technological space systems.
+
+For detailed information, see: 
+
+https://meetingorganizer.copernicus.org/EGU2020/session/37324
+
+Convener: Valeria Mangano 
+Co-conveners: Philippe Garnier, Markus Franz, Zhonghua Yao
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+EGU 2020 SESSION PS4.2: MARS SCIENCE AND EXPLORATION 
+
+We would like you to invite to submit an abstract to the session PS4.2:
+"Mars Science and Exploration" of the EGU2020 to be held in Vienna on
+May 3-8, 2020.
+
+The deadline for the abstract submission is January 15, 2020, 13:00 CET.
+
+With three rover launches scheduled in 2020, another giant leap in Mars
+exploration is expected in the next decade. In this session, we welcome
+contributions about lessons learned from past/current missions,
+terrestrial analog studies, as well as future exploration and
+prospects.
+
+If you consider submitting an abstract in this session, you can use the
+following link:
+
+https://meetingorganizer.copernicus.org/EGU2020/session/36513
+ 
+Hope to see you in Vienna!
+
+Best regards,
+The conveners
+Jessica Flahaut, Benjamin Bultel, Long Xiao and Arianna Piccialli
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+LUNAR SURFACE SCIENCE WORKSHOP: SAVE THE DATE
+
+NASA is planning a human return to the Moon's surface by 2024 as a 
+large next step in human exploration of the Solar System.
+
+NASA's Science Mission Directorate, Human Exploration and Operations
+Mission Directorate, and Science and Technology Mission Directorate are
+co-sponsoring a three-day workshop to actively engage the scientific
+community in order to determine what science could be done by human
+crews on the lunar surface and how it can be achieved. This workshop
+will be held April 28-30, 2020 in the Denver, Colorado area.
+
+IMPORTANT: To be added to the mailing list to receive pertinent
+information about this workshop and to indicate your interest in
+participating, please submit an Indication of Interest:
+
+https://www.hou.usra.edu/meeting_portal/iofi/?mtg=lunarsurface2020
+
+A workshop announcement, with abstract submission details, will be
+released later this month.
+
+http://www.hou.usra.edu/meetings/lunarsurface2020
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+HUMANS TO MARS SUMMIT
+
+Early registration for the 2020 Humans to Mars Summit (H2M) is now
+open. H2M 2020 will be held on May 12-14, 2020 at the prestigious and
+historic National Academy of Sciences Building in Washington, D.C. 
+
+Tentative speakers already include Jim Green, Lori Glaze, Alan Stern,
+Ellen Stofan, Mat Kaplan, Penelope Boston, Lisa Pratt, and many others
+
+H2M 2020 will present the latest on such topics as:
+
+- Are missions to the Moon by 2024 and Mars by 2033 achievable?
+- How will the 2020 Mars Rover advance the goal of getting humans to
+  Mars?
+- If we find life on Mars, what next?
+- The innovation of Mars and the benefits to Earth
+- Mars and workforce development: Young professional panel
+- Cities in space: Mars student competition
+- Advancing Mars through cubesats
+- Traveling to Mars: A panel of astronauts discuss the opportunities
+  and challenges of human explorers on Mars.
+
+Register today at:
+
+https://www.exploremars.org/
+
+Early registration available until January 31, 2020.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 28-30, 2020
+Lunar Surface Science Workshop
+http://www.hou.usra.edu/meetings/lunarsurface2020
+Denver, CO
+
+June 16-18, 2020
+2020 Annual Meeting of Planetary Geologic Mappers
+https://www.hou.usra.edu/meetings/pgm2020/
+Denver, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

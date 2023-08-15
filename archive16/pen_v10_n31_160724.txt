@@ -1,0 +1,503 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 31 (July 24, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Fellowship
+2. STScI Job Announcement 
+3. Version 2 of VICAR Image Processing System Released
+4. AGU 2016 Session ED007. Citizen Science with Big Data: 
+   Intersection of Outreach, Crowd-Sourced Data and Scientific Research
+5. AGU 2016 Session P007. Enceladus: Getting Very Near the End
+6. AGU 2016 Session P009. Experimental Planetary Geochemistry: 
+   Simulating Planetary Processes on the Moon, Mars and other Rocky 
+   Bodies in the Solar System
+7. AGU 2016 Session P015. Juno's Exploration of Jupiter and the Earth-
+   Based Collaborative Campaign
+8. AGU 2016 Session P022. Polarimetry as an Invaluable Tool to Study 
+   the Solar System and Beyond
+9. AGU 2016 Session P030. The Early Mars Environment: Warm and Wet, 
+   Cold and Wet, or Cold and Icy?
+10. AGU 2016 Session SA014. Ionizing Radiation Environments Throughout 
+    the Solar System
+11. AGU 2016 Session SM016. Magnetospheres in the Inner Solar System
+12. Computational Advances in Solar System Studies
+13. [NASA] Draft AO for Astrophysics Explorers Missions of Opportunity 
+    Released for Community Comment
+14. COSPAR Meeting Cancelled
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL FELLOWSHIP
+
+The Planetary Exploration Instrumentation Laboratory 
+(http;//pil.esse.yorku.ca) is seeking a post-doctoral fellow for a 
+period of up to two years to support an industry-led project at York 
+University in Toronto. The project involves the development and 
+characterization of a combined Laser-induced breakdown/Raman/ 
+Laser-induced fluorescence spectrometer. The applicant will have 
+primary responsibility for characterizing the instrument against a 
+variety of Mars exploration related requirements.
+
+To meet the requirements of the program, the successful applicant 
+will have a doctoral degree (PhD) in physics, chemistry, geology or 
+a similar field completed within the last five years. Experience in 
+optical instrumentation, related analytical methods or techniques 
+is an asset. The start date is flexible with a prior to or for 
+January 2017 being ideal. Interested applicants should enquire with 
+Dr. Michael Daly (dalym@yorku.ca).
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+STSCI JOB ANNOUNCEMENT 
+
+The Space Telescope Science Institute (STScI) has immediate openings 
+for Support Scientists to work on operations, calibration, testing, 
+on-orbit commissioning, and user support of the instruments for the 
+Hubble Space Telescope (HST) and/or James Webb Space Telescope (JWST). 
+Support Scientists typically spend 80% of their time in support of the 
+science operations mission of the Institute and 20% on personal 
+research. With grant support, they can increase their research fraction 
+up to 50%. Persons with observational, instrumentation, or theoretical 
+experience in Solar System science are encouraged to apply. Positions 
+are for terms of three years and may be renewed depending on 
+performance and availability of funding.
+
+Application deadline is Aug. 19, 2016. 
+
+Further details can be found at:
+
+https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID=*
+DCDF56CAA264F009
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VERSION 2 OF VICAR IMAGE PROCESSING SYSTEM RELEASED
+
+We are pleased to announce the release of version 2 of the VICAR Open 
+Source image processing system. Notable changes in this release 
+include:
+
+* Pre-built binaries for 32- and 64-bit Linux (Red Hat 5.10), and 
+  Mac OS X
+* Three new application programs
+* 73 changes, updates, or bug fixes
+* Three new use cases (examples) in the manual
+  - Landsat mosaic
+  - SRTM mosaic
+  - Noise reduction for Voyager images
+
+For more information please visit:
+
+http://www-mipl.jpl.nasa.gov/vicar_open.html
+
+Questions: vicar_help@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU 2016 SESSION ED007. CITIZEN SCIENCE WITH BIG DATA: INTERSECTION OF 
+OUTREACH, CROWD-SOURCED DATA AND SCIENTIFIC RESEARCH
+
+Abstract due date is 3 August 2016.
+
+Abstracts submitted to an Education session is not counted against 
+the one allowed contributed/Invited abstract.
+
+Education
+Session ID: 12673  
+
+The traditional method of outreach to formal, informal, science and 
+non-science audiences has undergone a fundamental change with recent 
+advances in technology, social media and crowd-sourced data, giving 
+way to citizen science with many applications. With increasing 
+"Big Data" projects, active partnerships between professional, amateur 
+and data scientist communities are necessary. Innovative design, 
+sustainability and evaluation of these projects is as important as the 
+citizen science they generate. This session invites papers from 
+scientists, educators and as well as those who design, facilitate, 
+evaluate or fund such programs. Topics may include methodology, 
+applications of citizen science to enhancing outreach, transformative 
+approaches to science education, lessons learned, and the future of 
+citizen science. Presentations are invited from all scientific 
+disciplines: astronomy, planetary and space science, geology and
+geophysics, seismology, biogeoscience, atmosphere and ocean sciences.
+
+Conveners: Padma A. Yanamandra-Fisher, SSI, padmayf@gmail.com
+Constance Walker, NOAO, cwalker@noao.edu
+Rachel Freed, Educator, Consultant
+Thilina Heenatigala, IAU
+Padma A. Yanamandra-Fisher
+Senior Research Scientist 
+Space Science Institute
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU 2016 SESSION P007. ENCELADUS: GETTING VERY NEAR THE END
+
+We cordially invite you to submit an abstract to the 11th Special AGU 
+Session on Saturn's geysering moon, Enceladus.
+
+Though the very close targeted flybys of Enceladus by the Cassini 
+spacecraft at Saturn came to an end in December 2015, Cassini's more 
+distant remote-sensing observations of the moon will continue up to 
+the mission's finale, slated to occur no later than September 15, 
+2017. Consequently, this special AGU session on Enceladus will be 
+the last one to occur while Cassini is still active at Saturn.
+
+As in years past, we will focus on the most recent observational, 
+theoretical and modeling efforts aimed at assessing Enceladus' 
+ocean chemistry, the characteristics and hydrodynamics of its 
+geysers, the moon's dynamical and rotational states, its thermal 
+and interior structure and evolution, its geological history, as 
+well as its astrobiological potential. Presentations on concepts 
+for future missions back to Enceladus will also be considered.
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session12393
+
+Deadline: No later than August 3, 2016
+
+Conveners: Carolyn Porco(Space Science Institute; UC Berkeley)
+           Chris McKay (NASA Ames Research Center)
+                
+                      
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU 2016 SESSION P009. EXPERIMENTAL PLANETARY GEOCHEMISTRY: 
+SIMULATING PLANETARY PROCESSES ON THE MOON, MARS AND OTHER ROCKY 
+BODIES IN THE SOLAR SYSTEM
+
+Abstract Deadline is August 3, 2016, 11:59 P.M. EDT
+
+Session ID: 13053
+
+Session Details: Experimentation has been a vital tool in the 
+geosciences for many years, helping to advance the fields of 
+petrology, mineralogy, and geochemistry. Thanks to successful remote 
+sensing and in situ surface investigations, our understanding of the 
+composition of planetary bodies has increased immensely. However, 
+the origin and evolution of materials in the Solar Nebula, the 
+geochemical processes affecting the formation and alteration of rocky 
+bodies, and interactions between planetary surfaces, atmospheres, and 
+interiors all remain in question. The study of planets, moons, 
+asteroids, and meteorites can benefit from experimentation, provided 
+that the laboratory conditions (temperature, pressure, volatile load, 
+etc.) are relevant to conditions on these bodies. For this session 
+we seek researchers interested in sharing their approach to 
+laboratory investigations in the planetary sciences which are aimed 
+at constraining the processes driving planetary compositional 
+evolution.
+
+For more information and to submit an abstract please visit: 
+
+http://fallmeeting.agu.org/2016/
+
+Conveners:
+Nicholas DiFrancesco (Department of Geosciences, Stony Brook 
+ University)
+Gokce Ustunisik (American Museum of Natural History/South Dakota 
+ School of Mines and Technology)
+Erwin Dehouck (Institut de Recherche en Astrophysique et 
+ Planetologie, Universite Toulouse III - Paul Sabatier)
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+              
+AGU 2016 SESSION P015. JUNO'S EXPLORATION OF JUPITER AND THE EARTH-
+BASED COLLABORATIVE CAMPAIGN
+
+Session ID#: 13297
+
+Session Description:
+NASA's Juno mission to Jupiter launched in 2011 and arrived at Jupiter
+on July 4, 2016. Juno's scientific objectives include the study of 
+Jupiter's interior, atmosphere and magnetosphere with the goal of 
+understanding Jupiter's origin, formation and evolution. An extensive 
+campaign of Earth based observations of Jupiter and the solar wind 
+were orchestrated to complement Juno measurements during Juno's 
+approach to Jupiter and during its orbital mission around Jupiter. 
+This session provides results from the Juno measurements and the 
+collaborative campaign during the early phases of Juno's prime 
+mission. Scientific results include Jupiter's interior structure, 
+magnetic field, deep atmospheric dynamics and composition, and the 
+first in-situ exploration of Jupiter's polar magnetosphere and aurorae.
+
+Primary Convener: Scott J Bolton, Southwest Research Institute, 
+ San Antonio, TX, United States
+
+Conveners: John E P Connerney, NASA Goddard Space Flight Center, 
+ Greenbelt, MD, United States, Glenn S Orton, NASA Jet Propulsion 
+ Laboratory, Pasadena, CA, United States and Fran Bagenal, 
+ University of Colorado at Boulder, Boulder, CO, United States
+
+Co-Organized with:
+ Planetary Sciences, and SPA-Magnetospheric Physics
+
+Cross-Listed:
+ SH - SPA-Solar and Heliospheric Physics
+ SM - SPA-Magnetospheric Physics
+
+Proposed Co-Organized Session with:
+ SM - SPA-Magnetospheric Physics
+
+[Edited for length.]
+
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU 2016 SESSION P022. POLARIMETRY AS AN INVALUABLE TOOL TO STUDY 
+THE SOLAR SYSTEM AND BEYOND
+
+Abstract due date is 3 August 2016.
+
+Planetary Science
+Session ID: 13392
+  
+Polarimetry is a powerful observing tool and modeling technique, 
+providing information about astronomical objects that cannot be 
+obtained by traditional photometric/spectroscopic observations. 
+Applications include characterization of solar system objects (Sun, 
+Earth, planetary atmospheres, aurorae, comets, asteroids, planetary 
+satellites/ring systems, dust, etc.) to the detection of exoplanets 
+and identification of biological markers in search of habitability. 
+Innovative developments in vector radiative transfer theory; 
+laboratory measurements, and the increasing significance of non-
+sphericity effects on retrieval efforts showcase the importance of 
+polarimetric exploration of the solar system and other planetary 
+systems. This session is open to papers about observations of solar 
+system bodies, theoretical or experimental investigations, 
+instrumental developments ground-based facilities or onboard 
+future space missions.
+
+Conveners :
+Padma A. Yanamandra-Fisher (padma@spacescience.org)
+Jungmi Kwon (jungmi.kwon4@gmail.com)
+Ludmilla Kolokolova ( ludmilla@astro.umd.edu)
+A-C Levasseur Regourd (Anny-Chantal.Levasseur-Regourd@latmos.ipsl.fr)
+
+ 
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU 2016 SESSION P030. THE EARLY MARS ENVIRONMENT: WARM AND WET, COLD 
+AND WET, OR COLD AND ICY?
+
+We invite contributions from climate modeling, geomorphology, 
+geochemistry and mineralogy that address the question of whether 
+early Mars climate was "warm and wet", "cold and wet" or "cold and 
+icy". This session will focus on both sharing new results from 
+different perspectives and fostering communication among the community.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13359
+
+2016 AGU Fall Meeting in San Francisco, CA, December 12-16. The 
+submission deadline is August 3, 2016.
+
+Conveners:
+Alberto G. Fairen, Stephen M. Clifford and James F. Kasting
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU 2016 SESSION SA014. IONIZING RADIATION ENVIRONMENTS THROUGHOUT THE 
+SOLAR SYSTEM
+
+We invite contributions to a session focused on the radiation 
+environment in the solar system at the 2016 AGU Fall Meeting in San 
+Francisco, CA, December 12-16.
+
+Ionizing radiation is an important consideration for both solar 
+system exploration and understanding atmospheric and surface processes 
+of planets. In addition to exploration, the ionizing radiation 
+environment at Earth is an important component to a multitude of 
+phenomenon, including understanding the safety concerns of atmospheric 
+radiation for aviation and atmospheric chemistry. There has been a 
+recent effort to obtain in situ experimental data on the ionizing 
+radiation environment throughout the solar system, namely the RAD 
+detector on MSL, the SEP instrument on MAVEN, the CRaTER instrument 
+on LRO, and multiple experiments flown on both commercial airlines 
+and high altitude balloons at Earth. The objective of this session 
+is to gather modelers and experimentalists dealing with high energy 
+particles in space, on planets, and at Earth.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13808
+
+Submission deadline: August 5, 2016.
+
+Conveners:
+Guillaume Gronoff, Jingnan Guom and Ryan B. Norman
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU 2016 SESSION SM016. MAGNETOSPHERES IN THE INNER SOLAR SYSTEM
+
+We invite contributions to an AGU session entitled "Magnetospheres in 
+the Inner Solar System" scheduled at the 2016 AGU Fall Meeting 
+(December 12-16)
+
+The structure and dynamics of each planetary magnetosphere (intrinsic 
+and induced) in the inner solar system are driven by a unique set of 
+factors including the nature of its magnetization, atmosphere-
+ionosphere coupling, and local solar wind parameters. To provide a 
+forum for discussion of recent data analysis and modeling efforts 
+concerning the inner planet magnetospheres, this session welcomes 
+submissions on the intrinsic magnetospheres of Mercury and Earth, as 
+well as the induced magnetospheres of Venus and Mars. It will focus 
+on general magnetospheric processes including, but not limited to: 
+solar wind-magnetosphere interaction, magnetosphere-ionosphere 
+coupling, plasma acceleration and transport, magnetic reconnection, 
+wave instabilities, magnetotail dynamics, and bow shock physics. 
+We strongly encourage comparative studies of these inner solar system 
+magnetospheres with each other or with other planetary magnetospheres 
+throughout the solar system.
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session12918
+
+Conveners: Gina A DiBraccio (NASA GSFC), Daniel J Gershman 
+ (UMD/NASA GSFC), and Marissa Vogt (Boston U)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+COMPUTATIONAL ADVANCES IN SOLAR SYSTEM STUDIES
+
+Computing in Science & Engineering (CiSE) magazine announces an 
+opportunity to contribute to a special issue about Computational 
+Advances in Solar System Studies. Submission deadline is 
+November 1, 2016. See the call for articles at:
+
+https://www.computer.org/web/computingnow/cscfp4
+ 
+Computing in Science & Engineering (CiSE) magazine features the 
+latest computational science and engineering research in an accessible 
+format, along with departments covering news and analysis, 
+computational science and engineering in education, and emerging 
+technologies.
+
+See:
+
+https://www.computer.org/web/peer-review/magazines 
+
+for general author guidelines.
+ 
+Questions? Contact guest editors Lucy McFadden and Nargess 
+Memarsadeghi at cise4-2017@computer.org
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] DRAFT AO FOR ASTROPHYSICS EXPLORERS MISSIONS OF OPPORTUNITY 
+RELEASED FOR COMMUNITY COMMENT
+
+Comments Due: August 11, 2016
+Identification Number: NNH16ZDA007J 
+ 
+Posted on the NASA research opportunity web site:
+
+http://nspires.nasaprs.com
+
+The Astrophysics Explorers Program conducts Principal Investigator 
+(PI)-led space science investigations relevant to SMD's astrophysics 
+programs. Explorer investigations must address NASA's goals to 
+discover the origin, structure, evolution, and destiny of the Universe 
+and search for Earth-like planets.
+
+Participation is open to all categories of organizations or 
+institutions.
+
+The issuance of the Draft 2016 Astrophysics Explorer MO PEA does 
+not obligate NASA to issue a 2016 Astrophysics Explorer MO PEA and 
+solicit proposals. Any costs incurred by prospective investigators 
+in preparing submissions in response to any of these draft 
+solicitations are incurred completely at the submitter's own risk.
+
+Comments on the draft may be addressed by E-mail to:
+
+Dr. Wilton T. Sanders
+wilton.t.sanders@nasa.gov 
+(subject line to read "2016 MO")
+
+Responses to all inquiries will be answered by E-mail and posted 
+weekly at the FQA location of the Astrophysics Explorer 
+Program Acquisition website at:
+
+http://explorers.larc.nasa.gov/APMIDEX2016/MO/
+ 
+anonymity of persons/institutions who submit questions will be 
+preserved.
+
+[Edited for length.]
+ 
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+COSPAR MEETING CANCELLED
+
+Please see the announcement at:
+
+https://www.cospar-assembly.org
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 12-15, 2016
+SPICE Training Class
+http://www.cosmos.esa.int/web/spice/training-class-september-2016
+Madrid, Spain
+
+September 18-23, 2016
+Joint NASA-NSF Ideas Lab on the Origins of Life
+Cambridge, MD
+
+June 13-15, 2017
+17th Meeting of the NASA Small Bodies Assessment Group
+http://www.lpi.usra.edu/sbag/
+Greenbelt, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

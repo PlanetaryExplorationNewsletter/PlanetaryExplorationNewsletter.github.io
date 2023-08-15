@@ -1,0 +1,429 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 19 (May 10, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Summer School: Formation and Evolution of Planetary Systems and 
+   Habitable Planets
+2. Workshop Prior to MetSoc Meeting
+3. Venus Exploration Analysis Group (VEXAG) Call for Executive 
+   Committee Members
+4. [NASA] ROSES-15 Amendment 13: Release of a New Program Element – 
+   Citizen Science Asteroid Data, Education, and Tools (CADET)
+5. [NASA] ROSES-15 Amendment 14: New Homesteader Program 
+6. May 2015 MEPAG Newsletter Available
+7. NASA Postdoctoral Fellowships
+8. Postdoctoral Research in Core/Ocean Geomagnetism
+9. Application Extension - Director, NASA Astrobiology Institute
+10. [NASA] MUREP Aerospace Academy Pre-proposal Teleconference/WebEx
+11. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SUMMER SCHOOL: FORMATION AND EVOLUTION OF PLANETARY SYSTEMS AND 
+HABITABLE PLANETS
+
+We would like to invite interested researchers and students to apply 
+for the summer school “Formation and Evolution of Planetary Systems and 
+Habitable Planets”, which will take place in Moletai, Lithuania (close 
+to Vilnius) from 21 to 30 August 2015.
+
+The summer school will present an overview of the pathways of formation 
+of habitable planets both in our and extrasolar planets. It is co-
+organised by the Nordic Network of Astrobiology, the Erasmus+ Strategic 
+Partnership "European Astrobiology Campus" and the EU COST Action 
+"Origins and Evolution of Life on Earth and in the Universe". Its 
+programme includes:
+
+- Lectures by internationally leading scientists covering a broad range 
+  of astrobiology
+- Observations of star transits as well as other interesting 
+  astronomical objects like Churyumov-Gerasimenko comet with the 1.65-m 
+  and broad field 51-cm telescope at the Moletai Observatory
+- Remote observations using other telescopes in Europe
+- 2 Poster sessions for students and early career scientists
+- Participant-led discussions about forefront-topics
+ 
+Deadline for application is 15 June 2015.
+ 
+Further information about the event can be found at:
+ 
+http://www.nordicastrobiology.net/Moletai2015/
+ 
+Please forward this announcement to all possibly interested graduate 
+students and early career scientists.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+WORKSHOP PRIOR TO METSOC MEETING
+
+A workshop about the first billion of years of impact records in the 
+Solar System will be held in Berkeley on the Saturday and Sunday (July 
+25–26) immediately preceding the Meteoritical Society meeting (which 
+will be held in Berkeley on July 27–31).
+
+Title: The First Billion Years of Impact Records: Evidence from Lunar 
+Samples and Meteorites
+
+July 25-26, 2015, Saturday and Sunday
+
+Organizers: Audrey Bouvier (University of Western Ontario), William 
+Hartmann (Planetary Science Institute), Marc Norman (Australian 
+National University) and Vera Assis Fernandes (Museum für Naturkunde, 
+Leibniz-Institut für Evolutions- und Biodiversitätsforschung)
+
+Abstract deadline - May 19th using USRA meeting portal:
+
+https://www.hou.usra.edu/meeting_portal/abstract_submission/
+
+Early registration fee (using the MetSoc registration portal) - $50 
+until June 29th
+
+Main themes are:
+- Radiometric clocks: what they tell us and what they don’t
+- Cratering statistics: production functions and anchor-ages
+- Dynamical models
+- Impacts in the asteroid belt
+- Shock effects in planetary materials and constraints on P-T-t shock 
+  conditions
+
+For more information: 
+
+http://metsoc2015.ssl.berkeley.edu/program/workshops/
+
+Audrey Bouvier (audrey.bouvier@uwo.ca)
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VENUS EXPLORATION ANALYSIS GROUP (VEXAG) CALL FOR EXECUTIVE COMMITTEE 
+MEMBERS
+ 
+VEXAG is seeking volunteers for VEXAG Executive Committee members to 
+replace those who have successfully completed their service to the 
+community. The new members will start this year and their term will 
+run for two years.
+ 
+Also, the VEXAG Early Career Scholars Focus Group is looking for 
+interested group members.
+ 
+If you are interested, send your resume and a statement of how you 
+could contribute to VEXAG to Lori Glaze and Pat Beauchamp, VEXAG Chair 
+and Co-Chair (lori.s.glaze@nasa.gov, Patricia.M.Beauchamp@jpl.nasa.gov) 
+by June 30, 2015.
+ 
+VEXAG activities for the next two years are expected to be community 
+building with an emphasis on:
+- Venus Exploration Goals, Objectives, and Strategies
+- Technology Development and Laboratory Measurements
+- International Collaboration
+- Early Career and Young Scholar Development
+- Venus International Reference Atmosphere
+ 
+VEXAG is a community-based forum established in July 2005 to assess 
+scientific priorities and strategies for exploration of Venus. VEXAG 
+is currently composed of a chair and five focus groups, where the 
+focus groups actively solicit input from the Venus community on the 
+topics listed above. 
+
+More information may be found here:
+
+http://www.lpi.usra.edu/vexag/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-15 AMENDMENT 13: RELEASE OF A NEW PROGRAM ELEMENT – 
+CITIZEN SCIENCE ASTEROID DATA, EDUCATION, AND TOOLS (CADET)
+
+The Citizen Science Asteroid Data, Education, and Tools (CADET) is a 
+joint solicitation of the Near Earth Objects (NEO) Program within 
+NASA’s Science Mission Directorate (SMD) and the Asteroid Grand 
+Challenge (AGC) Program within NASA’s Office of the Chief Technologist 
+(OCT). It seeks innovative proposals to adapt, develop, and web-enable 
+software tools for asteroid data analysis and to make them accessible 
+and easily usable by nonprofessionals, including amateur astronomers, 
+students, and citizen scientists.
+ 
+Step-1 proposals are due by June 15, 2015, and Step-2 proposals are 
+due by July 15 2015.
+
+Go to:
+
+http://nspires.nasaprs.com/
+
+and: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2015
+
+Questions concerning this program element may be directed to: 
+
+Jason Kessler, Office of the Chief Technologist
+Jason.l.kessler@nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-15 AMENDMENT 14: NEW HOMESTEADER PROGRAM 
+
+The Homesteader Program supports the advanced development of 
+technology, including instruments, relevant to mission concepts for 
+the next two New Frontiers Announcements of Opportunity (AO). The goal 
+of the program is to mature proposed technologies and reduce their 
+technical risk such that the accompanying mission concepts are better 
+prepared for the next two New Frontiers AOs. 
+
+Note that the Homesteader Program itself does not solicit 
+investigations or hardware for a flight opportunity. This Homesteader 
+opportunity is open to any technology utilized as part of at least 
+one of the seven mission concepts included in the Decadal Survey list 
+recommended for the New Frontiers program. It is a priority for NASA 
+to invest in technology developments that mitigate the risks of 
+mission concept proposals proposed in response to New Frontiers AOs.
+ 
+Mandatory Step-1 proposals are due by June 5, 2015, and full Step-2 
+proposals are due by July 20, 2015.
+
+Go to: 
+
+http://nspires.nasaprs.com/
+
+and: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2015
+
+Questions concerning this program element may be directed to: 
+Curt S. Niebur
+curt.niebur@nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MAY 2015 MEPAG NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the May 2015 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at:
+
+Meredith.A.Cosby@jpl.nasa.gov.
+ 
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17903
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar may 
+apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1JkwABH
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCH IN CORE/OCEAN GEOMAGNETISM
+
+NASA-GSFC/CRESST/University of Maryland
+
+Applications are now being accepted for a Postdoctoral Associate, 
+funded through the University of Maryland College Park and the Center 
+for Research and Exploration in Space Science and Technology (CRESST), 
+to work in the Planetary Geodynamics Laboratory of the NASA Goddard 
+Space Flight Center in the area of core/ocean geomagnetism. Additional 
+details are available at:
+
+http: //www.astro.umd.edu/employment/index.html#Geomag
+
+Applicants must have a Ph.D. degree (or expect to have the degree by 
+the start of the appointment) in a related field of physics, 
+geophysics, dynamical oceanography/meteorology, and/or applied 
+mathematics. Applicants are expected to have strong quantitative 
+analysis and modeling skills – in addition to knowledge of geomagnetic 
+fields, satellite or ground observatory data, geomagnetic field models, 
+and core dynamics. Familiarity with UNIX OS, FORTRAN, and parallel 
+computing is a strong plus.
+
+The University of Maryland is an Affirmative Action, Equal Opportunity 
+Employer. Women and minorities are encouraged to apply. All 
+applications received by May 22, 2015 will receive full consideration.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+APPLICATION EXTENSION - DIRECTOR, NASA ASTROBIOLOGY INSTITUTE
+
+Application deadline extended to July 10, 2015.
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI). 
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future. Applicants for this position should have a 
+broad scientific perspective on astrobiology, experience in conducting 
+interdisciplinary scientific research, and demonstrated skills needed 
+to harness the strengths of disparate research communities towards a 
+greater goal. S/he should understand how to grow a research endeavor 
+and respond to changing budget climates while focusing on maximizing 
+the scientific return on NASA’s investments in astrobiology. S/he 
+should have experience in leading a diverse staff ranging from 
+established scientists to support personnel, resource planning, and 
+executing budgets and schedules. S/he should be comfortable with 
+modern information technologies and distributed research teams. NASA 
+is interested in applicants who will find ways to infuse astrobiology 
+into NASA flight missions.
+
+Apply at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/393518700
+
+You can also go to USAJobs at:
+
+https://www.usajobs.gov/
+
+In the keyword search box, type vacancy number “AR15S0001”. Select 
+“Director, NASA Astrobiology Institute”, then click “Apply Online”.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] MUREP AEROSPACE ACADEMY PRE-PROPOSAL TELECONFERENCE/WEBEX
+
+Monday, May 11, 2015
+4:00 pm EDT
+ 
+The only way to be notified of any changes regarding this session is 
+via the MAA page in NSPIRES. You are strongly encouraged to check the 
+webpage before connecting.
+ 
+A pre-proposal teleconference will be held to discuss NASA Education 
+Opportunities in NASA STEM (EONS) 2014 Minority University Research 
+and Education Project (MUREP) Aerospace Academy (MAA).
+ 
+The teleconference will provide an in-depth overview of the MAA 
+opportunity and proposal requirements. Please visit the MAA page 
+in NSPIRES for information regarding this NASA opportunity.
+ 
+After the presentations, there will be a brief Q&A session. If you 
+have a question pertaining to your specific organization or 
+institution, it should be submitted in writing to NASAMAA@nasaprs.com. 
+This will give NASA the time to respond, in detail, to your individual 
+needs. 
+ 
+WebEx will be used for the slide presentation only. For audio and to 
+participate in the Q&A session, you must use the telecon number.
+ 
+Connect to WebEx (for slide presentation) at:
+
+https://nasa.webex.com/nasa/j.php?MTID=
+m1ea056794820a9aed3707ad4785216b4
+
+Meeting Number: 990 266 356
+Meeting Password: MAA*2015
+ 
+Connect to Teleconference (for audio) at:
+Call-in number: 866-844-9416
+Participant passcode: 7622325
+ 
+Any questions regarding this session should be sent to:
+NASAMAA@nasaprs.com.
+ 
+[Edited for length.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 25-26, 2015
+The First Billion Years of Impact Records: Evidence from Lunar Samples 
+and Meteorites
+http://metsoc2015.ssl.berkeley.edu/program/workshops/ 
+Berkeley, CA
+
+November 16-20, 2015
+International Young Astronomers School on Large Ground-based 21st 
+Century Radio Instruments : ALMA/NOEMA - SKA/LOFAR/NenuFAR (2015)
+http://ecole-doctorale.obspm.fr/-International-Young-Astronomers-
+School-
+Paris, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

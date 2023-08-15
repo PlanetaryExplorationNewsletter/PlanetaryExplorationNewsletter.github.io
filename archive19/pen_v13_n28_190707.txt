@@ -1,0 +1,642 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 28 (July 7, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session DI007: Exploring Mars with InSight, First-Year Results 
+2. AGU Session EP004: Aeolian Research at the Interface of Sedimentary, 
+   Atmospheric, and Biological Processes 
+3. AGU Session EP018: Earth 4D - A Deep Dive into the Habitability of 
+   the Blue Planet
+4. AGU Session P003: Atmopsheric Processes, Particles, and Chemistry
+5. AGU Session P018: Impact of Cosmic Dust in Planetary Atmospheres
+6. AGU Session P029: Planetary Atmospheric, Surface, and Interior 
+   Science Using Radio and Laser Links
+7. AGU Session P032: Returning to the Moon, the Science of Exploration
+8. AGU Session P034: Space environments of Unmagnetized or Weakly 
+   Magnetized Solar System Bodies and the Effects of Space Weather on 
+   These Systems
+9. AGU Session SM023: Magnetospheres in the Inner Solar System
+10. AGU Session V053: Volatiles in Magmatic Processes and Planetary 
+    Evolution
+11. Planet Formation: From Dust Coagulation to Final Orbit Assembly
+12. Planetary Geomorphology Image of the Month
+13. [NASA] ROSES-19: C.21 LunaTech Not Solicited
+14. MEPAG 37 - 2nd Information Circular
+15. [NASA] PDS: OSIRIS-REx Release 2
+16. [NASA] PDS: Odyssey Data Release 68
+17. Mars Exploration Science Monthly Newsletter for July 2019
+18. [NASA] PDS: Updated OPUS Search Tool Released by the Ring-Moon Systems 
+    Node
+19. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION DI007: EXPLORING MARS WITH INSIGHT, FIRST-YEAR RESULTS
+
+Please note this session is listed under Studies of Earth's Deep 
+Interior (DI) but cross listed in the Planetary Section.
+
+Session Description: InSight landed on Mars on November 26th, 2018, 
+bringing the first geophysical observatory to the surface of Mars to 
+measure deep interior structure and processes. At the time of the fall 
+meeting, the mission will have been on the surface for just over a 
+year, with the primary science mission planned to last through the end 
+of 2020. This multi-disciplinary session will gather together results 
+welcoming all research, whether part of the mission team or not. 
+Results from all InSight-related efforts, including the seismic 
+instrumentation, pressure, wind and magnetic sensors, radiometer and 
+heat flow probe, cameras, and radio science are encouraged. Further, 
+we encourage laboratory or theoretical investigations that aid in the 
+interpretation of mission data. Studies related to the high-level 
+goals of the mission to constrain the Martian interior, as well as 
+those illuminating other areas such as surface geology, atmospheric 
+processes and future mission design are encouraged.
+
+Conveners: 
+
+Mark Panning, Ebru Bozdag, Scott King, and Foivos Karakostas
+
+Session link: 
+
+http://agu.confex.com/agu/fm19/prelim.cgi/Session/76784
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION EP004: AEOLIAN RESEARCH AT THE INTERFACE OF SEDIMENTARY,
+ATMOSPHERIC, AND BIOLOGICAL PROCESSES
+
+We are pleased to invite you to submit an abstract to our aeolian 
+geoscience session at the 2019 AGU Fall Meeting in San Francisco, 
+9-13 December.  
+
+Our session aims to bring together the diverse terrestrial and 
+planetary aeolian geoscience community. In this session, we will 
+explore recent advances in this highly interdisciplinary field and 
+welcome contributions that address any interaction between wind and 
+the environment. We welcome all flavors of aeolian science and 
+research at all stages of development from all applicable planetary 
+surfaces. 
+
+Please consider submitting to this session and feel free to pass this 
+advertisement along to anyone you think might be interested.
+
+For full session description, please visit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/77058
+
+A friendly reminder that abstracts are due 31 July, 23:59 EDT
+
+Sincerely,
+
+Elena Favaro (elena.favaro@ucalgary.ca)
+William Anderson
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION EP018: EARTH 4D - A DEEP DIVE INTO THE HABITABILITY OF THE
+BLUE PLANET
+
+Conveners: Barbara Sherwood Lollar, Jack Mustard and Maggie Osborne
+
+Leaving the thin surface veneer of the Blue Planet, investigations of 
+the subsurface architecture of the marine and terrestrial subsurface 
+are challenging our understanding of the distribution and age of water, 
+fluxes of elements like carbon in and out of the subsurface, and the 
+character and distribution of energy. Recent discoveries are 
+transforming our understanding of habitability and the limits to life 
+in the subsurface. How might our current understanding these systems 
+be limited if our focus remains primarily on surficial, or high energy, 
+or recent and readily accessible systems? What inferences can be draw 
+from the Earth's subsurface processes to inform the exploration of 
+other planets and moons? This session will address how novel processes 
+of energy production and transport in the crust, models of 
+hydrogeologic connectivity (and/or isolation), and long-term transport 
+and reaction timescales are providing new insight though the 
+integration of biology, hydrogeology, geochemistry, and planetary 
+science.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/81521
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P003: ATMOSPHERIC PROCESSES, PARTICLES, AND CHEMISTRY
+
+We are pleased to invite abstract submissions to a cross-disciplinary 
+session on Atmospheric Processes, Particles, and Chemistry (P003) at 
+the AGU 2019 Fall Meeting in San Francisco, CA.
+
+Abstract submission deadline: 31 July 2019, 11:59 pm EDT
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/76911
+
+Many of the chemical and microphysical processes occurring in 
+planetary atmospheres have direct similarities to those studied in 
+the Earth's atmosphere. The aim of this session is to bring together 
+atmospheric expertise from Earth and planetary communities to share 
+knowledge and techniques across traditional boundaries. We encourage 
+submissions from all areas of atmospheric studies, including but not 
+limited to experimental and/or theoretical studies of gas phase 
+composition, chemistry, dynamics, and particle (aerosols and clouds) 
+formation and evolution. We encourage existing cross-disciplinary 
+efforts as well as abstracts describing techniques that could be 
+applied to other bodies, and submissions describing a gap in 
+knowledge that could be addressed collaboratively. We intend to use 
+the "short talk" format to maximize information exchange and
+encourage participants to initiate conversations that could lead to 
+future collaborations and new research investigations.
+
+Conveners: Laura Iraci (NASA Ames), Ella Sciamma-O'Brien (NASA Ames), 
+Alexandria Johnson (Brown University), and Erika Barth (Southwest 
+Research Institute)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P018: IMPACT OF COSMIC DUST IN PLANETARY ATMOSPHERES
+
+Recent advances in interplanetary dust measurements and modeling 
+provide much improved estimates of the fluxes and the origin of cosmic 
+dust particles into planetary (and lunar) atmospheres. Dust dynamics 
+models, combined with chemical ablation models that are underpinned by 
+laboratory studies and tested against radar and optical observations, 
+enable the injection rates of chemical compounds (including metals and 
+organics) into a planet's atmosphere to be predicted as a function of 
+location and time. This information is essential for understanding a 
+variety of atmospheric impacts, including: the formation of metallic 
+layers, meteoric smoke particles and ice cloud nucleation on Earth and 
+Mars; perturbations to atmospheric composition in the giant planets and 
+their satellites; and the supply of biologically important organics, 
+phosphorus and iron to planetary surfaces. Contributions on all aspects 
+of this topic - observations both in interplanetary space and 
+atmospheres, laboratory studies and modeling - are invited.
+
+Go to:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/77563
+
+Abstract deadline: July 31, 2019.
+
+Conveners:
+
+John M C Plane, University of Leeds
+Andrew R Poppe, University of California
+Zoltan Sternovsky, Colorado Univ
+Matteo Michael James Crismani, NASA Goddard Space Flight Center
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P029: PLANETARY ATMOSPHERIC, SURFACE, AND INTERIOR SCIENCE 
+USING RADIO AND LASER LINKS
+
+Section/Focus Group: Planetary Sciences
+
+Solar system exploration has been advanced over the past five decades 
+via Radio Science techniques to study planetary and solar phenomena as 
+well as fundamental physics. The scope of this session includes 
+investigations within the Solar System as well as tests of fundamental 
+physics to expand the frontiers of Solar System exploration using radio 
+and optical science to address the study of ocean worlds, planetary and 
+small body interiors, the dynamics, composition, and thermal structure 
+of planetary atmospheres, characterizing the scattering, electrical, 
+and other properties of planetary surfaces, and research in fundamental 
+physics and Solar System dynamics. Relevant technology topics include 
+the design of small spacecraft networks and constellations, advances in 
+flight and ground instrumentation, advances in space clock 
+technologies, novel communications architectures including optical 
+links, advances in radio and laser technologies, and new techniques and 
+instrumentation for entry probe radio science.
+
+Please direct any questions to the conveners:
+
+David H. Atkinson, JPL, David.H.Atkinson@jpl.nasa.gov
+Sami.W. Asmar, JPL, Sami.W.Asmar@jpl.nasa.gov
+Silvia Tellmann, Univ. Cologne, silvia.tellmann@uni-koeln.de
+Luciano Iess, Universita La Sapienza, luciano.iess@uniroma1.it
+
+Abstract submission site: 
+
+https://www2.agu.org/en/Fall-Meeting/Pages/Submit-an-abstract
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P032: RETURNING TO THE MOON, THE SCIENCE OF EXPLORATION
+
+We are pleased to invite you to submit an abstract for the following 
+session at the 2019 AGU Fall Meeting in San Francisco, CA, 
+December 9-13, 2019.
+
+The session will focus on how the close collaboration between science, 
+technology and exploration will enable deeper understanding of the 
+Moon and other airless bodies as we move further out of low-Earth 
+orbit. The Solar System Exploration Research Virtual Institute 
+(SSERVI) will focus on the scientific aspects of exploration as they 
+pertain to the Moon, Near Earth Asteroids (NEAs) and the moons of Mars.
+This session will feature interdisciplinary, exploration-related 
+science centered around all airless bodies targeted as potential human 
+destinations. Areas of study reported here will represent the broad 
+spectrum of lunar, NEA, and Martian moon sciences encompassing 
+investigations of the surface, interior, exosphere, and near-space 
+environments as well as science uniquely enabled from these bodies.
+Graduate students and early career researchers are particularly 
+encouraged to submit for oral presentations.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm19/gateway.cgi
+
+The submission deadline is Wednesday, July 31, 2019.
+
+Conveners:
+
+Greg Schmidt (NASA SSERVI)
+Brad Bailey (NASA SSERVI)
+Kristina Gibbs (NASA SSERVI)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P034: SPACE ENVIRONMENTS OF UNMAGNETIZED OR WEAKLY 
+MAGNETIZED SOLAR SYSTEM BODIES AND THE EFFECTS OF SPACE WEATHER ON 
+THESE SYSTEMS
+
+The ionospheres and magnetospheres of weakly magnetized bodies with 
+substantial atmospheres (e.g. Mars, Venus, Titan, Pluto and comets) 
+are subject to disturbances due to solar activities, interplanetary 
+conditions, or parent magnetospheric environments (e.g. solar flares, 
+coronal mass ejections and solar energetic particles), sharing 
+similarities with their magnetized counterparts but with scientifically 
+important differences. As an integral part of planetary atmospheres, 
+ionospheres are tightly coupled with the neutral atmosphere, exosphere 
+and surrounding plasma environment, possessing rich compositional, 
+density, and temperature structures. The interaction among neutral and 
+charged components affects atmospheric loss, neutral winds, 
+photochemistry, and energy balance within ionospheres. This session 
+invites abstracts concerning remote and in-situ data analysis, 
+modeling studies, comparative studies, instrumentation and mission 
+concepts for weakly magnetized Solar System bodies. Topics such as 
+dayside and nightside ionospheric characteristics and variability, 
+ion-neutral coupling, and responses of the ionized and neutral regimes 
+to transient space weather events are especially encouraged.
+
+More information at: 
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/74979
+
+Conveners:
+
+Christopher Fowler
+Yingjuan Ma
+Xiaohua Fang
+Pierre Henri
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION SM023: MAGNETOSPHERES IN THE INNER SOLAR SYSTEM
+
+We are pleased to announce the following session and would like to 
+invite the community to consider submitting an abstract to it for the 
+upcoming AGU Fall Meeting 2019.
+
+Session description:
+
+The structure and dynamics of each planetary magnetosphere (intrinsic 
+and induced) in the inner Solar System are driven by a unique set of 
+factors including the nature of its magnetization, 
+atmosphere-ionosphere coupling, and local solar wind parameters. To 
+provide a forum for discussion of recent data analysis and modeling 
+efforts concerning the inner planet magnetospheres, this session 
+welcomes submissions on the intrinsic magnetospheres of Mercury and 
+Earth, as well as the induced magnetospheres of Venus and Mars. It will 
+focus on general magnetospheric processes including, but not limited 
+to: solar wind-magnetosphere interactions, magnetosphere-ionosphere 
+coupling, plasma acceleration and transport, magnetic reconnection, 
+wave instabilities, magnetotail dynamics, and bow shock physics. We 
+strongly encourage comparative studies of these inner Solar System 
+magnetospheres with each other or with other planetary magnetospheres 
+throughout the Solar System.
+
+More information at: 
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/75662
+ 
+Conveners:
+
+Leonardo Regoli (University of Michigan)
+Gina Di Braccio (NASA Goddard Space Flight Center)
+Daniel Gershman (NASA Goddard Space Flight Center)
+Marissa Vogt (Boston University)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION V053: VOLATILES IN MAGMATIC PROCESSES AND PLANETARY 
+EVOLUTION
+
+The session is in VGP, not in Planetary, but we hope to have an equal 
+number of submissions from both planetary and terrestrial studies. Go 
+to:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/80220
+
+We invite studies aimed at understanding magmatic volatiles from the 
+mantle to the atmosphere on Earth and other planets.
+
+From dissolved volatiles to exsolved bubbles, and from deep planetary 
+interiors to atmospheres, the volatile phase of magmatic systems plays 
+a key role in planetary differentiation, volcanism, and the 
+development of habitable worlds. Outstanding questions in the field 
+include: How can we estimate global-scale volatile budgets of planets? 
+How can volatiles in the geologic record be used to constrain magmatic 
+activity in Earth's past, as well as on other planets and moons? What 
+volatiles are most crucial to the habitability of exoplanets? We 
+invite abstracts that seek to constrain the role of volatiles in 
+planetary magmatic processes, through approaches including direct 
+measurements of melt/fluid inclusions, crystals, and gases; remote 
+sensing; experiments; and modeling.
+
+Abstracts deadline: July 31, 2019.
+
+Conveners: 
+
+Kara Brugman (Arizona State) 
+Kayla Iacovino (Jacobs/NASA JSC) 
+Meghan Guild (Arizona State)
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANET FORMATION: FROM DUST COAGULATION TO FINAL ORBIT ASSEMBLY
+
+June 1-26, 2020
+
+MIAPP, Garching, Germany
+
+Dear Colleagues,
+
+It gives us great pleasure to announce the 2020 Planet Formation
+program at the Munich Institute for Astro- and Particle Physics 
+(MIAPP).
+
+This program aims to bring together experts in observation and theory 
+in planetary astronomy to assess the current status of planet formation 
+theories, highlight problems, and explore the possibility of developing 
+comprehensive models. Please see the program website for more details:
+
+http://www.munich-iapp.de/planetformation
+
+The structure of the program is informal. The main goal is to create an 
+environment that will facilitate collaborations and new initiatives. 
+There will be daily gathering for discussing specific topics, new 
+results, and brain storming. 
+
+To attend, please apply using the program website. The application 
+deadline is September 1, 2019. Please also note that MIAPP requires 
+attendance for at least two weeks Financial support is available at the 
+rate of EUR 80 per day for accommodation and local expenses. Additional 
+financial support for attendees with family and children and for 
+graduate students is also available. Please see the details at:
+
+http://www.munich-iapp.de/home/information-for-participants
+/financial-support/
+
+Looking forward to receiving your applications.
+
+Man Hoi Lee, Nader Haghighipour, Soko Matsumura, and Hilke Schlichting
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The July image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Geological Evidence of a Planet-Wide Groundwater 
+System on Mars". Contributed by dr. Francesco Salese, Marie Curie 
+Postdoctoral Fellow, Faculty of Geoscience, Utrecht University, The 
+Netherlands.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] ROSES-19: C.21 LUNATECH NOT SOLICITED
+
+Program element C.21 Lunar Technology (LunaTech) Program, that had been 
+tentatively included in ROSES-2019 as a TBD, will not be solicited in 
+ROSES.
+
+The Space Technology Mission Directorate will be managing solicitations 
+for potential opportunities for technology development and partnering 
+for lunar technologies. For more information, please see: 
+
+https://www.nasa.gov/directorates/spacetech/solicitations
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MEPAG 37 - 2ND INFORMATION CIRCULAR
+
+I cordially invite you to participate in the 37th meeting of the Mars 
+Exploration Program Analysis Group (MEPAG), scheduled as an ~5-hour 
+meeting on July 26th, 2019, 8:15am-1:00pm PDT (15:15-20:00pm UTC). This 
+meeting will be hosted at the California Institute of Technology in 
+Pasadena, CA on the day after the 9th International Conference on Mars 
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m37
+
+A main focus of this MEPAG meeting will be looking forward to the next 
+decadal survey and MEPAG's role in preparing for it. This will include 
+reviewing the highlights of the 9th International Conference on Mars 
+which will feed into the upcoming MEPAG Goals update. There will also 
+be discussion of White Papers and other next steps for MEPAG and the 
+Mars Exploration Community.
+
+This MEPAG meeting will include reports to the Mars community regarding 
+recent MEPAG activities, updates from NASA's Mars Exploration Program 
+on its current status, and the next steps for Mars Sample Return (MSR). 
+There will also be updates from several Mars missions currently in 
+development, and news on the Moon to Mars Initiative.
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+MEPAG Chair 
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] PDS: OSIRIS-REX RELEASE 2
+
+This release of OSIRIS-REx data includes:
+
+- OTES raw and calibrated data for Outbound Cruise and Bennu 
+  Delivery 1.
+- TAGCAMS Bennu Delivery 1 (Outbound Cruise data was previously 
+  archived).
+- Updated mission bundle with Bennu coordinate system document.
+
+Note that Bennu Delivery 1 includes most but not all of Bennu Approach.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190630.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+
+To receive email announcements of future releases of OSIRIS-REx data,
+please subscribe at
+
+https://pds.nasa.gov/datasearch/subscription-service/top.cfm
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] PDS: ODYSSEY DATA RELEASE 68
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 68, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 196,197)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190701.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JULY 2019
+
+To the Mars Community,
+
+On behalf of Aileen Yingst (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the July 2019 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] PDS: UPDATED OPUS SEARCH TOOL RELEASED BY THE RING-MOON SYSTEMS NODE
+
+The Ring-Moon Systems Node of the NASA Planetary Data System is pleased
+to announce the release of a major upgrade to its Outer Planets Unified
+Search (OPUS) tool that makes it easier-to-use, faster, and more
+reliable. OPUS provides imaging and spectroscopic data from Cassini,
+Galileo, New Horizons, Voyager, and the Hubble Space Telescope for the
+outer planets (including Pluto and other KBOs). We encourage both new
+and existing users to read the short "Getting Started" guide to
+understand the full extent of available features.
+
+OPUS and the other tools, data, resources, and software provided by the
+Ring-Moon Systems Node are available at:
+
+https://pds-rings.seti.org
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 26, 2019
+MEPAG 37
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m37
+Pasadena, CA
+
+June 1-26, 2020
+Planet Formation: From Dust Coagulation to Final Orbit Assembly
+http://www.munich-iapp.de/planetformation
+Garching, Germany
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

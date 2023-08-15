@@ -1,0 +1,354 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 3, Number 35 (July 26, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editor: Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Solo Impact on Jupiter
+2. NRC Decadal Survey Discipline Panel Membership Named
+3. Community White Papers on Small Bodies for the Planetary Decadal 
+   Survey
+4. White-Paper Proposal Site for Planetary Science Decadal Survey
+5. Second Planetary Decadal Survey Newsletter Available
+6. Fall AGU Special Session: Decadal Survey - Call for Abstracts
+7. Fall AGU Special Session: The Galilean Satellites' 400th Anniversary
+8. Fall AGU Special Session: Enceladus - The Plot Thickens
+9. Fall AGU Special Session: Physics of Anelasticity and Dissipation in 
+   Earth and Planetary Bodies
+10. [NASA PDS] Mars Odyssey Data Release 28
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SOLO IMPACT ON JUPITER
+
+On 2009 July 19 at approximately 13:30 UTC, Anthony Wesley was 
+observing Jupiter from his home observatory just outside Murrumbateman, 
+New South Wales, Australia. He noted a black mark in Jupiter's South 
+Polar Region (SPR).  This might be due to the impact of either an 
+asteroid or comet - similar to the impacts of comet Shoemaker-Levy 9 
+in 1994, and exactly 15 years later. Antonio Cidadao of Portugal 
+identified the spot in weak methane-band images, supporting an impact 
+interpretation. Dr. Glenn Orton (JPL) was at the NASA IRTF and has 
+tentatively confirmed the singleton impact with methane-band and 
+continuum IR imaging.
+
+The University of Central Florida in Orlando is collecting images and
+other information about this event on the following web page:
+
+http://planets.ucf.edu/resources/jupiter-impact
+
+We invite anyone with relevant news to contact us.  In particular, we
+seek pre-impact images to constrain the time of impact, images of the
+developing impact site, deep circumjovian imaging that might identify
+the impactor, and lists of teams submitting DDT proposals, to
+coordinate efforts.
+
+Joseph Harrington
+UCF Planetary Sciences Group
+jharring@physics.ucf.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NRC DECADAL SURVEY DISCIPLINE PANEL MEMBERSHIP NAMED
+
+Ladies and Gentlemen,
+
+It is my pleasure to announce that the NRC's Executive Office has
+approved the nominations of the individuals listed below to serve
+on the Inner Planets, Mars, Primitive Bodies and Satellites panels
+of the Planetary Sciences Decadal Survey.  Membership of the Giant
+Planets Panel will be announced later.  The individuals concerned
+will receive appointment paperwork and logistical information
+concerning their respective panel meetings in August and September
+in the near future.  A complete list of scheduled meeting dates is
+given below.
+
+Best wishes,
+
+David H. Smith
+
+EDITORS NOTE: A list of panel members is given at
+http://www7.nationalacademies.org/ssb/SSEdecadal_panels.html
+and the panel meeting schedule is given at
+http://www7.nationalacademies.org/ssb/SSEdecadal2011.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+COMMUNITY WHITE PAPERS ON SMALL BODIES FOR THE PLANETARY DECADAL SURVEY
+
+The NASA Small Bodies Assessment Group wants to thank the many members 
+of our community who have signed up to participate in the following 
+white papers to identify top-level science issues and mission 
+priorities for the next decade. 
+
+Near-Earth Objects
+Asteroids
+Comets
+Dwarf Planets
+Centaurs and Small Irregular TNOs
+Interplanetary Dust
+Small Irregular Satellites
+
+If you are interested in these areas, the doors remain open for you 
+to contribute. Your voice is important! Go to 
+
+http://www.psi.edu/decadal 
+
+and register. The greater the participation in this process, the 
+better the result. 
+
+These white papers will be submitted to the Primitive Bodies panel 
+for their deliberations near the beginning of September. It will be 
+followed by a community discussion for ranking top science issues 
+and mission priorities across the above topics online and at the 
+upcoming DPS conference (schedule TBD, go to http://dps09.naic.edu/). 
+Details and results of that discussion will be transmitted to the 
+Primitive Bodies panel for their deliberations in October.
+
+Thank you,
+
+Mark V. Sykes, Chair
+Small Bodies Assessment Group
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+WHITE-PAPER PROPOSAL SITE FOR PLANETARY SCIENCE DECADAL SURVEY
+
+Members of the planetary science and astrobiology communities are 
+strongly encouraged to draft white papers and submit them via the 
+decadal survey's website.  See 
+
+http://www7.nationalacademies.org/ssb/SSEdecadal_whitepapers.html 
+
+for instructions. To assist the decadal survey plan for the handling, 
+distribution and best use of the white papers submitted, authors are 
+strongly encouraged to make use of the white-paper proposal site 
+established by the Lunar and Planetary Institute:   
+http://www.lpi.usra.edu/decadal/.   
+
+Use of the LPI site tells the decadal survey what it can expect to 
+receive and it allows you to accrete coauthors. Remember that broad 
+community participation is one of the hallmarks of a decadal survey 
+and that consensus is compelling.  More information about the planetary 
+science decadal survey can be found at 
+
+http://www7.nationalacademies.org/ssb/SSEdecadal2011.html.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SECOND PLANETARY DECADAL SURVEY NEWSLETTER AVAILABLE
+
+Steven Squyres, chair of the National Research Council's Planetary 
+Science Decadal Survey, has posted the second of his planned series of 
+community newsletters on the survey's website.  The newsletter is 
+available at 
+
+http://www7.nationalacademies.org/ssb/SSEdecadal2011_Squyres2.pdf  
+
+Additional information about survey's goals, organization, activities 
+and meeting dates is available at 
+
+http://www7.nationalacademies.org/ssb/SSEdecadal2011.html.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FALL AGU SPECIAL SESSION: DECADAL SURVEY - CALL FOR ABSTRACTS 
+
+The Planetary Science Decadal Survey is organizing a scientific session 
+at the Fall AGU meeting entitled "Recent Results in Planetary Science 
+and Their Impact on Future Science and Mission Priorities" (see 
+
+http://www.agu.org/meetings/fm09/program/scientific_session_search.php?
+show=detail&sessid=558 
+
+for details).  Members of the geosciences, planetary sciences and 
+astrobiology communities are encouraged to submit abstracts focusing 
+on recent discoveries from solar system exploration missions and 
+associated ground based activities that will likely inform decisions 
+concerning spacecraft missions to be undertaken during the period 
+2013-2022. The session conveners are specifically looking for 
+abstracts that:  1. Focus on results announced since 2002; 2. Explain 
+why these results are significant relative to current solar system 
+goals/priorities; and 3. Outline how these results should influence the 
+next generation of solar system exploration missions.  Abstracts will 
+be accepted from 30 July until 3 September (see 
+http://www.agu.org/meetings/fm09/program/index.php for details).
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FALL AGU SPECIAL SESSION: THE GALILEAN SATELLITES' 400TH ANNIVERSARY
+
+As we prepare for the Europa Jupiter System Mission to explore 
+Europa, Ganymede, and the Jupiter system, we also celebrate the 400th 
+anniversary of the discovery of the Galilean satellites.  Please 
+consider contributing an abstract to this special session of the AGU 
+fall 2009 meeting in San Francisco, December 14 - 18.  Abstracts are 
+due Sept. 3.
+
+-Ron Greeley and Bob Pappalardo
+
+P19:  The Galilean Satellites: 400 Years of Discovery
+
+Four hundred years ago, Galileo pointed his spyglass toward the 
+planet Jupiter, revealing the four moons that would collectively bear 
+his name, and forever changing our place in the heavens.  In the 
+centuries since, the Galilean satellites have fundamentally altered 
+our understanding of satellite geophysical processes.  Today we are 
+preparing for the next decade's outer planets flagship mission, the 
+international Europa Jupiter System Mission, which would explore the 
+jovian system with two companion spacecraft.  This session will 
+concentrate on the geology and geophysics of the four Galilean 
+satellites, including: tidal heating, subsurface oceans, interior 
+convection, tectonic processes, volcanic processes, and surface 
+composition.  Also welcome are contributions on the history of 
+exploration or future exploration of the satellites.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FALL AGU SPECIAL SESSION: ENCELADUS - THE PLOT THICKENS
+
+Dear Colleagues,
+
+Due to a misunderstanding that cropped up this year, the proposal for
+the AGU Special Session on Enceladus, that was so popular in years 
+past, did not get submitted to the AGU on schedule, and as a 
+consequence, it unfortunately does not show up on the AGU Scientific 
+Program.
+
+However, since this year has been a very exciting one for results on
+Enceladus, we certainly aim to have a session devoted to Enceladus at
+the Fall 2009 AGU meeting. See the session description below.
+
+To rectify this situation, we've been advised by the AGU Planetary
+Session Planning Committee to circulate our Enceladus Special Session
+description widely and inform interested individuals to follow these 
+steps:
+
+1.  Submit your Enceladus abstracts to Planetary General Contributions
+Session:  ie,  Submit to P01: General Contributions.
+
+2.  Be sure to make a note in the COMMENTS field that your abstract
+should be included in the session focused on Enceladus.
+
+Sorry for this departure from the usual, and hope to see you at the AGU.
+
+Best,
+Carolyn Porco
+Chris McKay
+
+EDITORS NOTE: The session description is provided at 
+http://planetarypolicy.org/enceladus
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FALL AGU SPECIAL SESSION: PHYSICS OF ANELASTICITY AND DISSIPATION IN
+EARTH AND PLANETARY BODIES
+
+Session: MR02
+
+Conveners:
+Julie Castillo
+Jet Propulsion Laboratory / CalTech
+Julie.C.Castillo@jpl.nasa.gov
+
+Nikolai Bagdassarov
+Institut fuer Geowissenschaften, Goethe Universitat
+nickbagd1@gmx.de
+
+Description:
+This session aims to review our understanding of the mechanisms 
+driving the anelastic and viscoelastic behavior of planetary 
+materials for the frequency range 10^-8 to 0.1 Hz relevant to seismic 
+and tidal stresses. These planetary materials range from Earth's rock 
+to planetary ices, including porous material and partially molten 
+rocks. We are hoping for an interdisciplinary session gathering 
+specialists in Earth and planetary science. Part of the session will 
+address anelasticity as observed in laboratory and in nature (e.g., 
+seismic wave attenuation). Another part of the session will explore the 
+consequences of material anelasticity (e.g., response to tidal stress 
+of terrestrial ice shelves and of outer planet satellites, binary 
+asteroids, etc.)
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA PDS] MARS ODYSSEY DATA RELEASE 28
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Odyssey data, Release 28, for the following instruments:
+
+Accelerometer, first release of Raw, Altitude, Derived and Profile 
+data.
+
+THEMIS, including two new data sets:  Infrared Geometrically 
+Registered images and Infrared Projected Brightness Temperature images.
+
+SPICE
+   
+GRS data will be released shortly.
+
+To access the above data, please visit the following link:
+http://pds.nasa.gov/subscription_service/SS-20090720.html
+
+To access the latest PDS Data Releases, please visit the following link:
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+http://pds.nasa.gov/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 21-22, 2010
+Ground-Based Geophysics on the Moon
+http://www.lpi.usra.edu/meetings/lunargeo2010/
+Tempe, AZ
+
+May 30 - June 25, 2010
+Vatican Observatory Summer School - The Chemistry of the Universe
+http://www.voss2010.va/
+Castel Gandolfo, Vatican City State
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

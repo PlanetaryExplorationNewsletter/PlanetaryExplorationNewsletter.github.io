@@ -1,0 +1,407 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 26 (June 1, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPOXI Data Release (Correction)
+2. Release of SOFIA Cycle 3 Call for Proposals 
+3. AIDA Workshop: Hold the Date!
+4. Lunar and Small Bodies Graduate Conference 2014 - Second 
+   Announcement and Abstract Submission Deadline
+5. NASA Postdoctoral Fellowships
+6. Student Opportunity: Lloyd V. Berkner Space Policy Internships
+7. Jovian Magnetic Field and Magnetosphere Post-doc Researcher
+8. SBAG 11 Meeting
+9. Planetary Geomorphology Image of the Month
+10. SPICE Training Class
+11. Venus Tech Workshop Steering Committee
+12. Staff Scientist – Lunar and Planetary Institute (LPI)
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPOXI DATA RELEASE (CORRECTION)
+
+The NASA Planetary Data System is pleased to announce that the 
+following datasets have been released as lien-resolved and archived:
+
+EPOXI mission, new data
+ HRI-IR C/Garradd (2009 P1) Raw and Calibrated Spectra
+ HRI-IR C/ISON (2012 S1) Raw and Calibrated Spectra
+ HRI-VIS C/Garradd (2009 P1) Raw and Calibrated Images
+ MRI-VIS C/Garradd (2009 P1) Raw and Calibrated Images
+ MRI-VIS C/ISON (2012 S1) Raw and Calibrated Images
+ HRI-IR In-flight Lunar Calibrated Spectra
+ HRI-IR EPOCh Mars Calibrated Spectra
+
+EPOXI mission, recalibrated data
+ 103P/Hartley 2 Calibrated Spectra v3.0
+ HRI-IR EPOCh Earth Calibrated Spectra v2.0
+
+Deep Impact mission, recalibrated data
+ HRI-IR 9P/Tempel 1 Encounter Reduced Spectra v3.0
+ HRI-VIS 9P/Tempel 1 Encounter Calibrated Images v3.0
+ MRI-VIS 9P/Tempel 1 Encounter Reduced Images v3.0
+ ITS-VIS 9P/Tempel 1 Encounter Reduced Images v3.0
+
+Comet 9P/Tempel 1 groundbased observations (Deep Impact mission
+  support)
+ KPNO 2.1m 9P/Tempel 1 Images from February to June 2005
+ Kitt Peak Mayall 4m MOSAIC Images of 9P/Tempel 1 from 2005 around DI
+  Encounter
+
+The data can be accessed through the PDS Small Bodies Node. To see and
+download the data as well as mission and instrument information, go to:
+
+http://pdssbn.astro.umd.edu/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RELEASE OF SOFIA CYCLE 3 CALL FOR PROPOSALS
+
+The Stratospheric Observatory for Infrared Astronomy (SOFIA) is pleased
+to invite proposals for Cycle 3 observations, which will take place 
+in the time period March 1, 2015 to January 31, 2016. The observing 
+campaigns will be interspersed with aircraft maintenance and instrument 
+commissioning.
+
+The deadline for submitting proposals is July 18, 2014. 
+Proposal selections will be announced in early October 2014. 
+
+Details of the Cycle 3 Call for Proposals can be found at: 
+
+http://www.sofia.usra.edu/Science/proposals/cycle3/
+
+SOFIA is a 2.7-m telescope, with an effective, unvignetted, diameter 
+of 2.5-m, housed in a Boeing 747-SP aircraft. Observations are 
+typically carried out at altitudes between 11.9 km (39,000 ft) 
+and 13.7 km (45,000 ft.). These altitudes place the observatory 
+above up to 99.8% of the obscuring atmospheric water vapor. There 
+are six observatory instruments offered in this Call, which cover 
+the range 0.3-250 microns.
+
+Due to uncertainties in the NASA budget and the SOFIA project 
+allocation for Fiscal Year 2015 and beyond, the implementation of 
+this Call is contingent on the budget appropriation for the SOFIA 
+project for that time period.
+
+Questions, please contact sofia_help@sofia.usra.edu.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AIDA WORKSHOP: HOLD THE DATE!
+
+The first International Asteroid Impact Deflection Assessment 
+(AIDA) Workshop will be held 16-17 October 2014 in the Washington 
+DC area. We will discuss the science and planetary defense aspects 
+of an asteroid deflection by kinetic impactor, focusing on the DART 
+(Double Asteroid Redirection Test) and AIM (Asteroid Impact Mission) 
+concepts under consideration by NASA and ESA. The combination of both 
+missions is referred to as AIDA. As such we will include presentations 
+of those two concepts, discussion of the Didymos binary system, the 
+target of AIDA , as well as a more general discussion on binary 
+systems, regolith characteristics and mechanics, internal structures 
+of asteroids, impact observing strategies, additional science 
+opportunities during an impact demonstration, and "next steps" for 
+future deflection tests. 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LUNAR AND SMALL BODIES GRADUATE CONFERENCE 2014 - SECOND ANNOUNCEMENT 
+AND ABSTRACT SUBMISSION DEADLINE
+
+Registration is now open for the 5th Annual Lunar and Small Bodies 
+Graduate Conference (LunGradCon 2014) to be held on 
+Sunday, July 20, 2014 at the NASA Ames Research Center, preceding the 
+NASA Exploration Science Forum (ESF). With the expanded interests of 
+the Solar System Exploration Research Virtual Institute (SSERVI), 
+the scope of this year's LunGradCon is also expanding to include both 
+lunar and small bodies science. LunGradCon provides an opportunity 
+for grad students and early-career postdocs to present their 
+research on lunar and small body science in a low-stress, friendly 
+environment, being critiqued only by their peers. In addition to oral 
+presentations, the conference presents opportunities for 
+professional development and networking with fellow grad students and 
+postdocs, as well as senior members of SSERVI. A limited amount of 
+funding will be provided for travel and lodging costs. 
+The deadline for registration and abstract submission is 
+June 13th 2014, 11:59 PM PDT.
+
+For more details, please visit:
+
+http://impact.colorado.edu/lungradcon/2014/
+
+or email any questions to: lungradcon@gmail.com.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample research opportunities is:
+
+https://www3.orau.gov/NPDoc/Catalog/17590
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply. 
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+STUDENT OPPORTUNITY: LLOYD V. BERKNER SPACE POLICY INTERNSHIPS
+
+The goal of the Lloyd V. Berkner Space Policy Internship is to provide 
+promising undergraduate and graduate students with the opportunity 
+to work in the area of civil space research policy in the nation's 
+capital, under the aegis of the Space Studies Board (SSB).
+  
+The SSB oversees advisory studies (principally, the decadal surveys) 
+and program assessments, facilitates international research 
+coordination, and promotes communications on space science and science 
+policy between the research community, the federal government, and 
+the interested public. The SSB also serves as the U.S. National 
+Committee for the International Council for Science (ICSU) Committee 
+on Space Research (COSPAR).
+ 
+The Lloyd V. Berkner Space Policy Internships are offered twice 
+annually. The summer program is restricted to undergraduates (defined 
+as an individual who does not already possess a university degree 
+on the application deadline), and the autumn program is open to 
+both undergraduate and graduate students. We are currently accepting 
+applications for our autumn 2014 program.
+ 
+The deadline for applications to the autumn program is June 20, 2014. 
+Successful candidates will be contacted by July 17, 2014.
+ 
+Additional information about the program, including the application 
+procedure, can be found at:
+
+http://sites.nationalacademies.org/SSB/ssb_052239
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POST-DOC RESEARCHER
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Jupiter's magnetic field and magnetosphere, using data from the 
+Juno (New Frontier) mission. Additional details are available at:
+
+http://www.astro.umd.edu/employment/#Juno
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Sept. 26, 2014 will receive full 
+consideration.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SBAG 11 MEETING
+
+Logistical details and a draft agenda are now available on the SBAG 
+website for the 11th SBAG Meeting:
+
+11th Meeting of the NASA Small Bodies Assessment Group
+July 29-31, 2014
+Washington, DC
+
+http://www.lpi.usra.edu/sbag/
+
+Participation is open to all. Participants are requested to register
+using the SBAG 11 website, and registration is free.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This Month's topic is on Glaciation of Valles Marineris. The post is 
+contributed by O. Bourgeois, M. Gourronc, D. Mege and S. Pochat - 
+Laboratoire de Planetologie et Geodynamique, Universite de Nantes, 
+France
+
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SPICE TRAINING CLASS
+
+NASA's Navigation and Ancillary Information Facility (NAIF) announces 
+a SPICE training class will be held Oct 21 - 23 2014, on the East 
+Coast of the U.S., in Maryland. Details about the class and the 
+registration form are available here:  
+
+http://naif.jpl.nasa.gov/naif/WS2014_announcement.html
+
+The class is designed for professionals working in the field of solar 
+system research. It will consist of a combination of lectures, based 
+on the SPICE tutorials, and student-executed programming lessons 
+("open book" style), available in each of the four programming 
+languages supported by NAIF (Fortran 77, C, IDL and Matlab). 
+
+There is no charge for the class, but advance registration is 
+required... the sooner, the better, but no later than September 16. 
+Seats will be allocated only upon NAIF receiving a completed 
+registration form. Allocation will be done on a first come -- first 
+served basis.
+
+NASA and NAIF reserve the right to revise the agenda or cancel the 
+class at any time without prior notice.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+VENUS TECH WORKSHOP STEERING COMMITTEE
+
+Notice for Membership in Steering Committee for a Venus Explorations 
+Instruments and Laboratory Measurements Workshop:
+
+A workshop is being organized for January 27-28, 2015 either at the 
+NASA Langley Research Center or Washington DC area to discuss and 
+communicate readiness and needs for Venus exploration instruments 
+and laboratory measurements. A summary of the workshop as well as 
+VEXAG's Venus Technology Plan are posted on the VEXAG web-site: 
+
+http://www.lpi.usra.edu/vexag/ 
+
+A Steering Committee comprised of science and technology experts is 
+being formed. This Steering Committee will establish the content 
+and structure for the workshop to ensure the objectives can be 
+accomplished. If interested in serving on the Steering Committee, 
+send a short statement of interest and general skills / background 
+to Tibor Kremic (Tibor.Kremic@nasa.gov) by June 8, 2014. 
+Questions can be forwarded to the VEXAG chair, Lori Glaze 
+(lori.s.glaze@nasa.gov).
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+STAFF SCIENTIST - LUNAR AND PLANETARY INSTITUTE (LPI)
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute in Houston, Texas, is accepting applications for the 
+position of Staff Scientist, a rank equivalent to Associate Professor. 
+The successful applicant will perform outstanding basic scientific 
+research in the lunar and planetary sciences, attract funding for 
+their personal research activities, present research results in
+publications in refereed journals and at conferences, participate in 
+the academic community for his/her field, support NASA through 
+activities on committees and panels, and contribute to the 
+dissemination of lunar and planetary science. He/she will have 
+mentoring roles for junior scientists, postdoctoral fellows, and 
+university students.
+
+Applicants should apply to the posting at: 
+
+https://usracareers.silkroad.com/ 
+
+and must include a letter of interest, a Curriculum Vita with list 
+of relevant publications, a brief (maximum three pages) 5-year 
+research plan, and a list of three references. Further information 
+about this position is also available at this site. Requested materials 
+must be received by August 1, 2014. Additional information on current 
+research and facilities at the LPI can be found on our website at:
+
+http://www.lpi.usra.edu. 
+
+USRA is an Equal Opportunity Employer.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

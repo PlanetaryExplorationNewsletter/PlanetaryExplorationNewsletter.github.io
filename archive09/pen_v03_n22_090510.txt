@@ -1,0 +1,178 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 22 (May 10, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Photogrammetry Guest Facility at the USGS in Flagstaff
+2. PDS Imaging Node - CASSINI ISS Calibration Update
+3. Planetary Science Decadal Survey Steering Group Appointed
+4. Accessing Level-4 Archival HRSC Images-DTMs Via HRSCView Website
+5. New Website for Mars Express SRC Mosaics
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY PHOTOGRAMMETRY GUEST FACILITY AT THE USGS IN FLAGSTAFF
+
+NASA and the US Geological Survey have established a Planetary 
+Photogrammetry Guest Facility at the USGS in Flagstaff, Arizona.
+This is a specialized computer workstation of the same type
+used by the USGS for stereo topographic mapping of the Moon and
+planets that will be available up to 50% of the time for qualified
+researchers to use to make products ranging from simple spot height
+measurements to fully edited digital topographic models (DTMs) from a 
+wide variety of stereo images.  USGS staff will provide training and
+supervision, but travel expenses are the responsibility of the selected
+investigator.  To apply, send a short (1 page) informal application to
+rkirk@usgs.gov.  The two key pieces of information required are the
+research goals (to allow us to evaluate whether images to achieve these
+goals are available) and the researcher's schedule of availability for
+group training and subsequent use of the facility.  
+
+Applications for the current fiscal year must be transmitted by 
+31 May 2009. Applications received after that date will be considered
+for FY 2010.
+
+For more information about the capabilities of the stereo workstation
+and the application process, see the 2009 LPSC abstract:
+
+http://www.lpi.usra.edu/meetings/lpsc2009/pdf/1414.pdf
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PDS IMAGING NODE - CASSINI ISS CALIBRATION UPDATE
+
+Cassini Imaging Science Subsystem (ISS) has delivered a new version 
+(Version  2.0) of their calibration software to the Planetary Data 
+System Imaging Node.  The new version of  volume (COISS_0011) contains
+both the CISSCAL IDL software package and associated calibration 
+support files.  Of particular interest is the update to the absolute 
+flux calibration, and the addition of a  command-line mode enabling 
+image calibration without the CISSCAL graphical interface. The new 
+version also provides an updated CISSCAL User Guide.  A full list of 
+software modifications is given in the CISSCAL aareadme.txt file. For 
+detailed instructions, see the updated users manual in the COISS_0011 
+archive 'document' directory.  This volume is available on the PDS 
+Imaging Node website:
+
+http://pds-imaging.jpl.nasa.gov/data/cassini/cassini_orbiter/
+coiss_0011_v2/ 
+
+[Editor Note: Please note that the web address extends over two lines]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY SCIENCE DECADAL SURVEY STEERING GROUP APPOINTED
+
+The Chair of the National Research Council has approved the selection 
+of the following individuals as members of the Steering Group for the 
+Planetary Science Decadal Survey:  Wendy M. Calvin, University of 
+Nevada, Reno; Dale Cruikshank, NASA Ames Research Center; Pascale 
+Ehrenfreund, George Washington University and Leiden Institute of 
+Chemistry; G. Scott Hubbard, Stanford University; Wesley T. Huntress, 
+Jr., Carnegie Institution of Washington; Margaret G. Kivelson, 
+University of California, Los Angeles; B. Gentry Lee, Jet Propulsion 
+Laboratory; Jane Luu, Massachusetts Institute of Technology, Lincoln 
+Laboratory; Stephen Mackwell, Lunar and Planetary Institute; Ralph L. 
+McNutt, Jr., Johns Hopkins University, Applied Physics Laboratory; 
+Harry Y. McSween, Jr., University of Tennessee, Knoxville; Amy 
+Simon-Miller, NASA Goddard Space Flight Center; David J. Stevenson, 
+California Institute of Technology; and A. Thomas Young, Lockheed 
+Martin Corporation [Retired].  
+
+The appointment of Steven W. Squyres, Cornell University, and Laurence
+A. Soderblom, U.S. Geological Survey, as, respectively, the chair and 
+vice chair of the Steering Group was announced in March.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ACCESSING LEVEL-4 ARCHIVAL HRSC IMAGES-DTMs VIA HRSCVIEW WEBSITE
+
+Level-4 archival HRSC images and digital terrain models (DTMs) are 
+freely available from the HRSCview website at the Free University
+Berlin. Go to this URL:
+
+http://hrscview.fu-berlin.de/cgi-bin/ion-p?page=entry.ion
+
+Use the image search function on the main page to determine which 
+orbits' data cover your region of interest. Then, select "Direct data 
+access - Level 4" on the main page, and you will be taken to a page of 
+folders by orbit number to download the appropriate images and DTMs.
+
+For more information on the HRSC Experiment on Mars Express, go to 
+this URL:
+
+http://src.la.asu.edu/pdf/HRSC_Fact_Sheet.pdf
+
+The HRSC Team
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW WEBSITE FOR MARS EXPRESS SRC MOSAICS
+
+A new web page has been created at Arizona State University to access 
+and download the Mars Express Super Resolution Camera (SRC) mosaics 
+produced during the mission, in both VICAR and TIFF formats. A Google
+based map shows the locations of the 339 mosaics produced thus far. To
+access these images go to this URL:
+
+http://src.la.asu.edu/
+
+The HRSC Team
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 9-10, 2009
+The First Arab Impact Cratering and Astrogeology Conference
+http://aicac.jga.org.jo/main1/
+Amman, Jordan
+
+November 23-27, 2009
+Mathematics and Astronomy: A Joint Long Journey
+http://www.astromath2009.com/
+Madrid, Spain
+
+June 27-July 2, 2010
+SPIE Astronomical Telescopes and Instrumentation 2010
+http://spie.org/astronomical-instrumentation.xml?WT.mc_id=Cal-AS
+San Diego, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

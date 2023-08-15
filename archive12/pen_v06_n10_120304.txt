@@ -1,0 +1,430 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 10 (March 4, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Congressional Hearing on NASA Budget This Week
+2. Large Binocular Telescope Interferometer Exozodi Key Science Team 
+   Proposal Call
+3. NASA Postdoctoral Fellowships
+4. Job Opportunity: Postdoctoral Position at UCLA
+5. Job Opportunity: Postdoc Position at SwRI
+6. Planetary Geophysics Postdoctoral Fellowship
+7. Planetary Geomorphology Image of the Month
+8. Exploration Telerobotics Symposium
+9. [NASA] Call for Abstract Deadline: March 4, 2012
+10. [NASA] PDS: Mars Exploration Rovers Data Release 31
+11. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 20
+12. OPAG Meeting, March 29-30, 2012 in St. Louis
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CONGRESSIONAL HEARINGS ON NASA BUDGET THIS WEEK
+
+On Wednesday, March 7, Congress will hold two hearings bearing on the 
+NASA budget, including the severe cuts to planetary exploration 
+proposed by the Administration.
+
+Committee: The U.S. Senate Committee on Commerce, Science, and 
+Transportation
+Subject: Priorities, Plans, and Progress of the Nation's Space Program
+Time: 10 AM EST
+Location: Russell Senate Office Building, Room 253
+Witnesses: Charles Bolden, NASA Administrator; Neil DeGrasse Tyson, 
+Hayden Planetarium Director
+Webcast Link: http://commerce.senate.gov/public/
+To contact the committee: Phone (202) 224-0411, FAX (202) 228-0303
+
+Committee: The U.S. House of Representatives Committee on Science, 
+Space, and Technology
+Subject: An Overview of the NASA Budget for Fiscal Year 2013
+Time: 2 PM EST
+Location: Rayburn House Office Building, Room 2318
+Witness: Charles Bolden, NASA Administrator
+Webcast Link: http://science.house.gov/hearing/full-committee-hearing
+-overview-nasa-fy13-budget
+To contact the committee: 
+By web http://science.house.gov/contact-us/email-us 
+Email scitech@mail.house.gov
+Phone (202) 225-6371
+
+Note from the Editors: These committees and our community greatly 
+benefit from your input to them, directly or through your 
+Representative and Senators.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LARGE BINOCULAR TELESCOPE INTERFEROMETER EXOZODI KEY SCIENCE TEAM 
+PROPOSAL CALL
+
+NASA solicits proposals to become members of the Large Binocular 
+Telescope Interferometer (LBTI) Exozodi Key Science Team (LBTI-ST). 
+The LBTI-ST will work under the leadership of the LBTI Principal 
+Investigator (Dr. Phil Hinz, University of Arizona) in order to most
+effectively execute the exo-zodi key science program. LBTI-ST members 
+will participate in science deliberations, target selection, LBTI 
+observations, data processing and analysis, follow-up observations, 
+and publication in peer-reviewed journals. 
+
+Proposals from participants are due April 27, 2012. Results of the 
+selection will be announced in early June 2012. Additional information
+may be obtained from Dr. Rafael Millan-Gabet, NASA-LBTI Project 
+Scientist, at lbti_nexsci@ipac.caltech.edu. For detailed information 
+about this proposal call please refer to:
+
+http://nexsci.caltech.edu/missions/LBTI/cfp_keysci.shtml
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB OPPORTUNITY: POSTDOCTORAL POSITION AT UCLA
+
+The Department of Earth and Space Sciences at UCLA invites 
+applications for a postdoctoral position in the field of planetary 
+science. The postdoc will be expected to participate in the analysis 
+of Lunar Reconnaissance Orbiter Diviner Lunar Radiometer Experiment 
+observations of the Moon, and produce a set of improved mapped data 
+products. See:
+
+http://diviner.ucla.edu 
+
+for more information. Applicants with a background in planetary 
+surfaces, remote sensing, computer science, large datasets, parallel 
+computing, fortran, and unix are encouraged to apply.
+
+The initial appointment is a full-time 1-year appointment beginning 
+as early as April, 2012 with an expectation of continuation depending 
+on progress and availability of funding.
+
+Applicants should send a CV with a list of publications, addresses 
+and e-mail addresses of at least 2 references, and a one page summary
+of current research to Professor David A. Paige - dap@moon.ucla.edu.
+
+The University of California is an Equal-Opportunity/Affirmative 
+Action employer
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JOB OPPORTUNITY: POSTDOC POSITION AT SWRI
+
+The Lyman Alpha Mapping Project (LAMP) on the Lunar Reconnaissance 
+Orbiter (LRO) mission is seeking a postdoctoral planetary scientist 
+to join our team's investigations of a variety of lunar science 
+questions using far-UV observations of the lunar surface. Topics of 
+study include characterization of permanently shaded regions at the 
+lunar poles, mapping of surface water frost and hydrates, and 
+identifying regional space weathering effects. The far-UV map and 
+spectra analyses to be performed include comparisons with other LRO 
+and lunar datasets for detailed surveys of regions of interest.  
+Applicants having experience with imaging and/or spectroscopy from 
+space-based observations, and a background in scientific analysis 
+and publication of lunar geology and/or volatiles topics are 
+encouraged to apply.
+
+This is a 1 year limited term position at Southwest Research Institute
+in San Antonio, TX, with extension dependent on availability of 
+funding.  Visit:
+
+http://www.swri.edu/HR/JobListing.asp
+
+and enter Job Code 15-01040 to apply now.  For additional inquiries 
+contact Dr. Kurt Retherford at kretherford@swri.edu.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a NASA-
+funded project studying the nature of mantle convection on Mars and 
+its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct 
+research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics with 
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in a
+Linux environment will be an asset. The position will be offered for 
+an initial period of two years with a possible extension to a maximum
+of three years.
+
+Applicants should send a letter of interest, a curriculum vita 
+listing relevant publications, a brief (maximum three pages) statement
+of research interests, and a list of three references to 
+resume@lpi.usra.edu.  Review of candidates will begin on 
+March 15, 2012, with a hiring decision as soon as possible thereafter.
+Further information about LPI can be found at:
+
+www.lpi.usra.edu
+
+USRA is an Equal Opportunity Employer.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Mar12Image.html
+ 
+This Month's topic is on "Latitudinal-dependent surface runoff on 
+Titan"  
+
+Image and caption contributed by Mirjam Langhans, Istituto di 
+Astrofisica Spaziale e Fisica Cosmica - INAF, Roma, Italy
+
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EXPLORATION TELEROBOTICS SYMPOSIUM
+
+The NASA Goddard Space Flight Center will be holding an "Exploration 
+Telerobotics Symposium" which will consider the use of robotic 
+telepresence, ideally from astronauts at locations close to an 
+exploration site, in putting human cognition, awareness, and dexterity
+at those sites to achieve science and development. These locations 
+might include Earth-Moon Lagrange points or lunar orbit for lunar 
+surface opportunities, the vicinity of a NEO for asteroid exploration,
+or Mars orbit for Mars surface activity. The symposium will be held 
+on May 2-3, and will include senior members of the science, robotics 
+(both space and terrestrial), and human space flight community. While
+attendance is limited beyond invited participants, interest from the 
+greater community is herein welcomed. See:
+
+http://telerobotics.gsfc.nasa.gov/ 
+
+for a more complete description of the symposium and registration 
+information. There is no registration fee, though $60 will be 
+collected at check-in for meals and refreshments. Foreign nationals 
+are strongly encouraged to register within the next week.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] CALL FOR ABSTRACT DEADLINE: MARCH 4, 2012
+
+Call for Abstracts
+63rd International Astronautical Congress (IAC)
+Naples, Italy
+October 1-5, 2012
+
+The IAC is organized by the International Astronautical Federation 
+(IAF), the International Academy of Astronautics (IAA), and the 
+International Institute of Space Law (IISL). 
+ 
+NASA invites graduate students to submit abstracts (less than 400 
+words) to participate in the 63rd International Astronautical Congress.  
+Abstracts must be submitted to NASA and to the IAF. The selected 
+NASA sponsored students are required to also be selected by the IAF. 
+The full abstract must be submitted electronically in the prescribed 
+format no later than 11:59 PM ET on March 4, 2012.  You must be a 
+full-time graduate student attending an accredited U.S. university 
+or college and U.S. citizen.  Please submit a copy of your 2012 
+school transcript and a document verifying your citizenship to 
+abstract@nasaprs.com by March 4, 2012.
+
+To submit your abstract visit:
+
+https://iac.nasaprs.com 
+
+IAC website:
+
+http://www.iac2012.org/ 
+
+Call for Abstracts:
+
+http://www.iafastro.org/docs/2012/iac/IAC2012_CallForPapers.pdf
+
+Deadlines
+Abstract Submission closes February 29, 2012 (14:00 CET) 
+Paper Submission closes September 12, 2012 (14:00 CET) 
+Presentation Submission closes September 26, 2012 (14:00 CET) 
+
+Point of contact at NASA is Carolyn Knowles, carolyn.knowles-1@nasa.gov
+
+[Edited for length.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS: MARS EXPLORATION ROVERS DATA RELEASE 31
+
+The Planetary Data System (PDS) is pleased to announce Release 30 of 
+Mars Exploration Rover data.  This release includes primarily data 
+from Sols 2611 through 2700 and includes data only from Opportunity, 
+MER1/B.  It includes data from the following instruments:   
+APXS, HAZCAM, NAVCAM, MI, PANCAM, Rover Motion Counter and SPICE. 
+There are no Atmospheric Opacity, Mini-TES, Moessbauer, Radio Science 
+or Rock Abrasion Tool data in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20120228.html
+  
+The following special services are provided for accessing MER data:
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 20
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:  CRISM, CTX, HiRISE, MARCI, MCS, RSS, SHARAD and SPICE.   
+In general, MRO Release 20 includes data collected between May 9, 2011 
+and August 8, 2011.  HiRISE data were collected between 
+October 26, 2011 and January 27, 2012 (Orbits 24,600-25,799).
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20120301.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+OPAG MEETING, MARCH 29-30, 2012 IN ST. LOUIS
+
+The Outer Planets Assessment Group (OPAG) will meet 29-30 March at the 
+Renaissance Grand St. Louis Hotel, in downtown St. Louis, Missouri.  
+Information regarding hotel and other logistics can be found at: 
+
+http://icpi.nasaprs.com/opag
+
+Potential attendees are kindly asked to go to this website, and click 
+on the invitation link and RSVP for attendance (this will assist our 
+meeting planners).
+
+Please note that the hotel room block closes this 
+Wednesday, 7 March 2012.
+
+This OPAG meeting will be critical for the future of Outer Planet 
+science.  It will focus on the recently released FY13 NASA budget 
+for Planetary Science, reports from the Europa Science Definition 
+team on the 3 Europa options, and a report from our European 
+colleagues on JUICE (Laplace).  In addition, we will hear progress 
+reports on ASRG development, the proposed TiME Discovery mission, the
+increased potential for solar-powered missions to the Outer Solar 
+System, and discuss opportunities for balloon-based astronomy, among 
+other important matters.
+
+The meeting is planned for 1.5 days.  A detailed agenda will be posted 
+shortly at:
+
+http://www.lpi.usra.edu/opag/
+
+Bill McKinnon, OPAG Chair
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 2-3, 2012
+Exploration Telerobotics Symposium
+http://telerobotics.gsfc.nasa.gov/
+Greenbelt, MD
+
+June 4-7, 2012
+Third Joint Meeting of the Space Resources Roundtable and the Planetary
+& Terrestrial Mining Sciences Symposium
+http://www.isruinfo.com
+Golden, CO
+
+September 10-12, 2012
+The Mantle of Mars: Insights from Theory, Geophysics, High-Pressure Studies,
+and Meteorites
+http://www.lpi.usra.edu/meetings/marsmantle2012/
+Houston, TX
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*
+* To unsubscribe, send an email to pen_editor at psi.edu
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements.  Title plus text is limited to 200 words.  Go to
+* http://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu).
+***********************************************************************

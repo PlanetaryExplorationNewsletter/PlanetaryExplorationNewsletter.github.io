@@ -1,0 +1,461 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 23 (May 31, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Releases the New Science Plan: Science 2020-2024: A Vision 
+   for Scientific Excellence
+2. MEPAG Community Resources for Sharing Decadal Survey White Papers
+3. Spatial Data White Paper
+4. Aperiodic PDS Data Releases in 2020.05
+5. OSIRIS-REx Bennu Release 5
+6. EPSC Session TP7: Ionospheres of Unmagnetized or Weakly Magnetized
+   Bodies
+7. Lunar and Small Bodies Graduate Conference Announcement 
+8. JPL Open Position: Research Scientist, Astrobiology and Ocean Worlds
+9. JPL Open Position: Research Scientist, Planetary Interiors and
+   Geophysics
+10. Postdoctoral Researcher in Planetary Magnetospheric Physics 
+11. Postdoc Position in Planetary Seismology
+12. Ph.D. Student in Planetary Science At CRPG Nancy, France
+13. GSA Planetary Geology Division Student Advisor Open Position
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] RELEASES THE NEW SCIENCE PLAN: SCIENCE 2020-2024: A VISION FOR
+SCIENTIFIC EXCELLENCE
+
+Members of the science community are invited to download the Science
+Mission Directorate's (SMD's) newest version of its Science Plan,
+Science 2020-2024: A Vision for Scientific Excellence, at:
+
+https://science.nasa.gov/about-us/science-strategy
+
+This document was developed through close collaboration with the entire
+SMD leadership team and NASA Center Directors and was reviewed by the
+NASA Advisory Committee's Science Committee and the Space Studies
+Board. It lays out an ambitious program over next five years to build
+on current activities and drive change in high-priority areas where SMD
+can have the greatest impact. 
+
+SMD encourages all members of the community to read the document to
+learn about these priorities and the exciting work being done across
+the entire SMD portfolio.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MEPAG COMMUNITY RESOURCES FOR SHARING DECADAL SURVEY WHITE PAPERS
+
+Dear MEPAG Community,
+
+MEPAG has updated this google spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1EOQRc5kYn5ZgIhEuZfEXQVApBpKpXMU-KZaJdLm2GxI/edit#gid=1802642777
+
+to facilitate collaboration and communication regarding
+community-generated white papers.
+
+We encourage all White Paper authors to consider adding their paper
+to the *NEW SHEET* by filling out this Google Form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeGUBdxnH8f0H9vTX4loOx4xHKAQjYFOJLDgIY2EWoIT_gGA/viewform
+
+This sheet has been set up to allow for sharing of links to draft white
+papers, signup sheets, and other information.
+
+Previously entered information will NOT automatically transfer to the
+new sheet, but all previous sheets and entries have been preserved, and
+information about the sheets and links to other resources can be viewed
+here:
+
+https://docs.google.com/spreadsheets/d/1EOQRc5kYn5ZgIhEuZfEXQVApBpKpXMUKZaJdLm2GxI/edit?pli=1#gid=2122227973
+
+Please email bcarrier@jpl.nasa.gov if you have any questions or
+technical difficulties.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SPATIAL DATA WHITE PAPER
+
+Dear Planetary Data Community,
+
+The following White Paper, titled Maximizing the Value of Solar System
+Data through Planetary Spatial Data Infrastructures, will be submitted
+prior to the July 4, 2020 deadline for consideration for the Planetary
+Science and Astrobiology Decadal Survey.
+
+https://docs.google.com/document/d/10iLj5NFYLAIPcmnWS7hiACh5rDhcwZBpZ698X16jMJs/edit?usp=sharing
+
+If you are interested in endorsing or signing this document (as the
+page limits allow) please add your name onto the cover page using
+"Suggesting" mode or email janirad@byu.edu. Other comments and
+suggestions are also welcome (again, in "Suggesting" mode).
+
+Thank you,
+Jani Radebaugh
+Chair, Mapping and Planetary Spatial Data Infrastructure Team
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+APERIODIC PDS DATA RELEASES IN 2020.05
+
+In May 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2020.05.01 Mars Express HRSC radiometrically calibrated image data
+- 2020.05.08 Mars Global Surveyor MAG high-res maps
+- 2020.05.19 Giotto NMS derived, calibrated density profiles
+- 2020.05.19 Mars Express HRSC map-projected images
+- 2020.05.27 Rosetta NAVCAM
+- 2020.05.27 Rosetta RPCMAG
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200531.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OSIRIS-REX BENNU RELEASE 5
+
+This release of OSIRIS-REx data includes:
+- OCAMS raw and calibrated data through Nov. 17, 2019
+- TAGCAMS raw data through Nov. 17, 2019
+- OTES raw and calibrated data through Nov. 17, 2019
+- (OLA took no data in the time range Aug. 17 - Nov. 17, 2019)
+- Mission information bundle updated with Mission Phase Narratives for
+Recon and Orbit R
+
+OVIRS raw and calibrated data for this time range is coming soon.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200527.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+
+https://sbn.psi.edu/pds/resource/orex/ocams.html
+
+https://sbn.psi.edu/pds/resource/orex/tagcams.html
+
+https://sbn.psi.edu/pds/resource/orex/otes.html
+
+https://sbn.psi.edu/pds/resource/orex/ola.html
+
+https://sbn.psi.edu/pds/resource/orex/orexmission.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC SESSION TP7: IONOSPHERES OF UNMAGNETIZED OR WEAKLY MAGNETIZED
+BODIES 
+
+Virtual meeting
+21 September- 9 October 2020
+
+We encourage abstract submissions to our EPSC 2020 session. The
+session will focus on the analysis of ionospheres of weakly magnetized
+bodies with substantial atmospheres (e.g. Mars, Venus, Titan, Pluto and
+comets), and how each body reacts to space weather disturbances.
+Understanding how each unmagnetized body reacts to all these factors is
+a key in comparative aeronomy because although a priori all of them
+have a general similar behavior, they also have scientifically
+important differences caused by their different natures. We solicit
+abstracts concerning remote and in situ data analysis, modeling
+studies, instrumentation and mission concepts. Topics may include, but
+are not limited to, day and night side ionospheric variability, sources
+and influences of ionization, ion-neutral coupling, current systems,
+comparative ionospheric studies, and solar wind-ionosphere interactions
+and responses of the ionized and neutral regimes to transient space
+weather events. Abstracts on general plasma and escape processes are
+also welcome.
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38507
+
+Deadline: 24 June 2020
+
+Conveners: Beatriz Sanchez-Cano, Matteo Crismani, Niklas Edberg, 
+Xiaohua Fang, and Francisco Gonzalez-Galindo
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LUNAR AND SMALL BODIES GRADUATE CONFERENCE 2020 ANNOUNCEMENT 
+
+Abstract submission deadline: June 19, 2020
+
+The 10th Annual Lunar and Small Bodies Graduate Conference (LunGradCon
+2020) is to be held virtually on Wednesday and Thursday, July 1-2
+2020, preceding the NASA Exploration Science Forum (ESF, July 8-10).
+With the expanded interests of the Solar System Exploration Research
+Virtual Institute (SSERVI), the scope of LunGradCon includes both lunar
+and small body science. LunGradCon provides an opportunity for grad
+students and early-career postdocs to present their research on lunar
+and small body science in a low-stress, friendly environment, being
+critiqued only by their peers. In addition to virtual presentations,
+the conference will feature Q&A panels with various groups to help grad
+students navigate the paths to careers in space science. The deadline
+for LunGradCon registration and abstract submission is June 19, 2019,
+11:59 PM PDT.
+
+For more details, please visit:
+
+http://impact.colorado.edu/lungradcon/
+
+or email any questions to: lungradcon@gmail.com
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, ASTROBIOLOGY AND OCEAN WORLDS
+
+Location: Pasadena, CA
+
+The Jet Propulsion Laboratory invites applications for a Research
+Scientist to join the Astrobiology and Ocean Worlds Group within the
+Planetary Science Section. You will do the following:
+
+Lead development of instrumentation and/or mission concepts to explore
+the subsurface of Mars and other habitable environments.
+
+Write proposals for advancing research and instrument/mission
+development in the areas of planetary habitability, subsurface
+exploration, hydrology, energetics, thermodynamics, geodynamics and
+astrobiology.
+
+Required Qualifications:
+
+- Ph.D. degree in Earth or Planetary Sciences or related scientific or
+technical discipline.
+- Demonstrated working knowledge at the forefront in the fields of
+planetary habitability, geophysics, geodynamics, aqueous geochemistry,
+modeling and biology/astrobiology, including but not limited to the
+Mars subsurface.
+- At least 5 years experience following the Ph.D. in research.
+- Peer-reviewed publications in high-impact journals.
+- Well-established record in obtaining funding as PI for scientific
+research and/or mission/instrument development.
+- Excellent oral and written communication skills; ability to
+work as part of a team and lead a team.
+
+Apply at:
+
+http://jpl.jobs/jobs/2020-11866-Research-Scientist-III-Astrobiology-and-Ocean-Worlds 
+
+Applications received by June 8 will receive full consideration.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, PLANETARY INTERIORS AND
+GEOPHYSICS
+
+Location: Pasadena, CA
+ 
+The Jet Propulsion Laboratory invites applications for a Scientist who
+will bring new expertise to and ensure continuity of existing
+capabilities at JPL in planetary science. The successful candidate will
+develop models for the chemical evolution of Europa, Enceladus, Titan,
+Ganymede, and other ocean worlds in support of the Icy Worlds, Titan,
+and Vital Signs teams. The candidate will investigate the detailed
+chemical evolution of Europa's interior and its ice. Perform NASA
+funded research, including setting up and conducting novel experiments
+to measure chemical properties and processes applicable to planetary
+interiors. Investigate the metamorphic evolution of Ceres' rocky
+mantle and support mission formulation as a subject matter expert on
+ocean world chemistry.
+ 
+This position requires the following qualifications:
+
+- Ph.D. in geochemistry, planetary geophysics, or a related field.
+- 3-4 years expertise in applying meteoritics, petrology, aqueous
+geochemistry to problems in astrobiology.
+The following qualifications are preferred:
+- Knowledge of geophysical forward modeling and inverse theory,
+high-pressure experimental design and implementation.
+ 
+Applications are due by May 26, 2020 or until filled and should be
+submitted at:
+
+https://jpl.jobs/jobs/2020-11799-Research-Scientist-II
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS 
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing the magnetometer results. In addition, the candidate will
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to
+develop a data production pipeline for future magnetometer missions.
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest.
+
+Candidates for this position should have earned a Ph.D. in physics,
+astronomy, planetary science, space physics, geosciences, or related
+fields. Successful candidates should also have expertise with one or
+more programming languages commonly used in space science and a
+demonstrated track record in analyzing spaceflight data, especially
+magnetometer data and experience with the NAIF SPICE software package
+is highly desired.
+
+Applications received by July 15, 2020 will receive the best
+consideration. 
+
+Full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOC POSITION IN PLANETARY SEISMOLOGY
+
+The Geophysical Institute at the University of Alaska Fairbanks has an
+immediate opening for a postdoctoral researcher in the field of
+planetary seismology. The new hire will engage in a project to
+establish bounds on the nature and amount of seismic activity on
+Venus, assemble a catalog of Venus-analog events using
+records from a variety of traditional and non-traditional seismic
+sources, and then use the catalog to evaluate the viability of 
+potential instrument designs and analysis algorithms for an eventual 
+seismograph on Venus. This is a one-year project, but a strong 
+performer could transition into a multi-year position conducting a TBD 
+mix of terrestrial and planetary seismology. Candidate is expected to 
+be well-versed in earthquake seismology; familiarity with planetary
+science is desirable but not required. More information can be found 
+here: 
+
+https://sites.google.com/alaska.edu/robertherrick/resources/postdoc-advertisement?authuser=0. 
+
+Directions on how to apply:
+
+https://careers.alaska.edu/en-us/job/514947/planetary-seismology-postdoctoral-fellow.
+
+Review of applications will begins June 22, but applications will be 
+accepted until the position is filled; our desire is to have a person 
+in place by late summer.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PH.D. STUDENT IN PLANETARY SCIENCE AT CRPG NANCY, FRANCE
+
+The Centre de Recherches Petrographiques et Geochimiques (CRPG) located
+in Nancy, northeast France, is looking for a Ph.D student in Planetary
+Sciences. The position is related to studies of Mars remote remote
+sensing data and analog Earth using VNIR spectroscopy and is initially
+funded for 3 years.
+
+More information and applications (in French or English) at:
+
+https://adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=30817#version  
+
+Contact: Dr Jessica Flahaut, flahaut@crpg.cnrs-nancy.fr
+
+Closing Date:June 15th, 2020
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+GSA PLANETARY GEOLOGY DIVISION STUDENT ADVISOR OPEN POSITION
+
+The GSA Planetary Geology Division is seeking applications for a new
+student advisor. This is a 2-year position with opportunities to
+network with PGD board members, run the annual PGD button competition,
+and manage the PGD twitter account (@PlanetaryGSA). The position also
+includes partial travel support to a GSA annual meeting. 
+
+Questions about the position can be directed to current student
+advisors Mallory Kinczyk (mjkinczy@ncsu.edu) or Laura Chaves
+(lchavesm@purdue.edu).
+
+Applications due: June 1, 2020
+
+Details here:
+
+https://community.geosociety.org/pgd/aboutus/student-advisory-members  
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 1-2, 2020
+10th Annual Lunar and Small Bodies Graduate Conference (LunGradCon
+2020)
+http://impact.colorado.edu/lungradcon
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

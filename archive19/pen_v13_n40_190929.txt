@@ -1,0 +1,479 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 40 (September 29, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Early Career Review for the Upcoming EPSC-DPS Joint Meeting
+2. A Free Workshop for Early-Career Astronomers Who Want to Do Better 
+   Outreach with Students and the Public
+3. Graduate Student Positions in Planetary Science, Geochemistry, and 
+   Geophysics at Michigan State University
+4. [NASA] PDS: Mars InSight Data Release 2
+5. [NASA] The PI Launchpad: From Science Idea to NASA Mission
+6. Spice Training Announcement
+7. Pan Postdoctoral Research Fellowship Position at Rice University
+8. [NASA] Physical Sciences Informatics NRA Released
+9. Mars Exploration Science Monthly Newsletter for October, 2019
+10. [NASA] Seeking Volunteer Reviewers in STEM Engagement
+11. Access2Space
+12. Grad Student Positions in Planetary Surface Processes at UT Austin
+13. International Observe the Moon Night - October 5, 2019
+14. VEXAG Approaching Hotel Deadline
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OPEN RANK PROFESSOR OF EARTH AND PLANETARY SCIENCES
+
+The Department of Earth and Planetary Sciences at Washington University 
+in St. Louis invites applications for a tenure-track or tenured faculty 
+position at the assistant, associate, or full professor rank, 
+commensurate with experience, in the field of planetary science. The 
+candidate is expected to perform research in the broad area of 
+planetary surfaces and processes, have or seek active involvement in 
+planetary science missions, and eventually assume leadership of the 
+NASA Planetary Data System Geosciences Node at Washington University. 
+The ideal candidate will employ quantitative tools and will integrate 
+computational approaches with remotely sensed observations.  
+
+Candidates must have a Ph.D. in planetary science or a related field at 
+the time of appointment. In addition, candidates at the associate or 
+full professor rank must have an advanced record of research, 
+publication, and teaching warranting tenure. Complete applications 
+include cover letter, curriculum vitae, statements of teaching and 
+research interests, and names and contact information of at least four 
+references, submitted via Interfolio: 
+
+https://apply.interfolio.com/66099 
+
+Applications must be received by October 31, 2019 to ensure 
+consideration.
+
+An extended job description and application procedure is at: 
+
+https://apply.interfolio.com/66099   
+
+Contact planetarysearch@epsc.wustl.edu with questions.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+A FREE WORKSHOP FOR EARLY-CAREER ASTRONOMERS WHO WANT TO DO BETTER 
+OUTREACH WITH STUDENTS AND THE PUBLIC
+
+Friday and Saturday, January 3-4, 2020, in conjunction with the 235th 
+meeting of the American Astronomical Society in Honolulu, HI.
+
+The American Astronomical Society (AAS) is sponsoring a free 
+skill-building workshop - and an ongoing community of practice - to 
+support early-career astronomers in providing effective outreach to 
+schools, families, and the public. The AAS Astronomy Ambassadors 
+program (now in its eighth year) offers two days of hands-on training, 
+extensive resources, and pre-tested activities - plus the opportunity 
+to join a like-minded group of peers.
+
+If you are a graduate student, postdoc, or recent faculty, and if 
+you are interested in spending a fraction of your time helping 
+students and the public become more scientifically literate, this is 
+an invitation to sharpen your outreach skills and join the growing 
+AAS Astronomy Ambassadors community.
+
+Applications are due 4 Nov 2019. Space is limited, and successful 
+applicants are accepted on a rolling basis, so we urge you to get your 
+application in as soon as is practical.
+
+AAS Astronomy Ambassadors program information is at:
+
+https://aas.org/outreach/aas-astronomy-ambassadors-program
+
+For workshop information and the online application, go to: 
+
+https://aas.org/meetings/aas235/aas-astronomy-ambassadors-workshop
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GRADUATE STUDENT POSITIONS IN PLANETARY SCIENCE, GEOCHEMISTRY, AND
+GEOPHYSICS AT MICHIGAN STATE UNIVERSITY
+
+The Geochemistry and Geophysics research groups in the Department of 
+Earth and Environmental Sciences at Michigan State University are 
+recruiting M.S. and Ph.D. students to start Fall 2020!
+
+Our research groups offer opportunities to study tectonics and 
+petrology at field sites around the globe, to image the Earth's 
+interior, and to model physical and chemical planetary processes using 
+laboratory and computational methods. Dynamic processes of our planet's 
+interior over its history generated Earth's habitable surface and are 
+responsible for the natural distribution of mineral resources and 
+geologic hazards including earthquakes, volcanic eruptions, and 
+tsunamis.
+
+Research and teaching assistantships are available for highly 
+qualified applicants and are awarded in fall of each year. In 
+addition, several fellowships and scholarships provide additional 
+financial support for summer stipends, conference travel, and research 
+and field expenses. Thanks to our generous alumni, the EES department 
+offers the most awards per capita of any department at MSU.
+
+Feel free to contact faculty driectly via email. Interested students 
+should visit our prospective graduate student webpage: 
+
+https://ees.natsci.msu.edu/academics/graduate/application 
+
+All are welcome to drop by our booths at GSA and AGU fall meetings! 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS INSIGHT DATA RELEASE 2
+
+The NASA Planetary Data System announces Release 2 of data from the 
+InSight Lander mission to Mars. This release contains raw and 
+calibrated data products covering the time period from April 1 through 
+June 30, 2019. The data are archived at various PDS nodes.
+
+SEIS (Seismometer) at the Geosciences Node (GEO)
+RAD (Radiometer) at GEO
+RISE (Radio Science) at GEO
+TWINS (Temperature and Wind) and Pressure Sensor at the Atmospheres 
+Node
+IFG (InSight Fluxgate Magnetometer) at the PPI Node
+ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at 
+the Cartography and Imaging Sciences Node
+IDA (Instrument Deployment Arm) at GEO
+SPICE at the NAIF Node
+
+Data from the HP3 (Heat Flow and Physical Properties Probe) will be 
+included in a future release.
+
+To receive future email announcements for Mars InSight data:
+
+https://pds.nasa.gov/datasearch/subscription-service/top.cfm
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/insight/index.htm
+
+SEIS data are also available through the Incorporated Research 
+Institutions for Seismology (IRIS) at: 
+
+https://www.iris.edu/hq/sis/insight
+
+The next release of InSight data, Release 3, is scheduled for 
+January 2, 2019, and will include both raw and calibrated data. 
+Subsequent releases will occur every three months.
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] THE PI LAUNCHPAD: FROM SCIENCE IDEA TO NASA MISSION
+
+NASA, the University of Arizona and the Heising-Simons Foundation are 
+organizing a workshop in Tucson, AZ for researchers and engineers who 
+would like to submit a NASA space mission proposal in the next few 
+years but don't know where to start. We are interested in broadening 
+the pool of potential NASA space mission PIs. People with marginalized 
+identities are strongly encouraged to apply. There is no cost to attend 
+the workshop and travel, meals, and lodging for non-NASA participants 
+will be covered by the Heising-Simons Foundation.
+
+Launchpad applications and instructions on how to apply are available 
+at: 
+
+https://bit.ly/2mHQSW5
+
+Applications may be submitted until 11:59 pm Eastern Time on 
+October 4, 2019. All applications must be submitted as a "Notice of 
+Intent" via NSPIRES as a self-contained PDF file that includes your 
+name, organization, and contact information. To submit an application, 
+an NSPIRES account is required. To create a new account, please see the 
+
+NSPIRES User Registration Page.
+
+Answers to FAQs are available at: 
+
+https://science.nasa.gov/researchers/pi-launchpad
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SPICE TRAINING ANNOUNCEMENT
+
+The ESA SPICE Service (ESS) and the Navigation and Ancillary 
+Information Facility (NAIF) will conduct a SPICE observation geometry 
+training class on June 16-19, 2020 at ESAC/ESA close to Madrid, Spain.
+
+The class is free and open to all professionals and students involved 
+in Solar System exploration. Further information about the class and 
+the class registration form are found at: 
+
+https://www.cosmos.esa.int/web/spice/training-class-june-2020
+
+Registration is due by May 30, 2020.
+
+SPICE at ESA is described at:
+
+http://spice.esac.esa.int
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PAN POSTDOCTORAL RESEARCH FELLOWSHIP POSITION AT RICE UNIVERSITY
+
+The Department of Earth, Environmental and Planetary Sciences at Rice 
+University invites applications for the Pan Postdoctoral Research 
+Fellowship. We are seeking candidates with independent research 
+interests that intersect with one or more faculty within our 
+department. Applicants are requested to develop a proposal of research 
+to be undertaken during the fellowship period. The principal selection 
+criteria are scientific excellence, a clearly expressed research plan 
+to address questions at the forefront of their field of study, 
+independent research ideas and new directions beyond the applicant's 
+PhD work, and research synergies with at least one faculty. 
+Preference will be given to applicants whose proposals demonstrate 
+independence and originality.
+
+A Ph.D. is required at the time of appointment, but candidates must 
+have received their Ph.D. no more than 3 years before their start date 
+at Rice. Both domestic and international applicants are welcome. The 
+research fellowships will be supported for two years, pending 
+satisfactory progress during the first year, and covers an annual 
+stipend of $60,000 with a benefits package and an additional annual 
+discretionary research allowance of $3,500. Applications due 
+November 1, 2019. Further details available here: 
+
+http://jobs.rice.edu/postings/21282
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PHYSICAL SCIENCES INFORMATICS NRA RELEASED
+
+NASA has released the NASA Research Announcement (NRA) titled "Use of 
+the NASA Physical Sciences Informatics System - Appendix F," which 
+solicits ground-based research proposals to generate new scientific 
+insights by utilizing experimental data residing in NASA's Physical 
+Sciences Informatics (PSI) system: 
+
+http://psi.nasa.gov 
+
+This online database provides investigators access to the raw and 
+processed experimental data from physical science reduced-gravity 
+flight experiments conducted on the International Space Station, Space 
+Shuttle flights, Free Flyers, or commercial cargo flights to and from 
+the ISS, and from related ground-based studies.
+
+The current call for proposals solicits proposals in the five research 
+areas - Combustion Science, Complex Fluids, Fluid Physics, Fundamental 
+Physics, and Materials Science - for which eligible experimental data 
+will be available in the PSI by the proposal due date of December 16, 
+2019. Data from 63 investigations are eligible for this NRA. The call 
+is open to two types of investigators: established researchers and 
+graduate students. Anticipated award amounts, eligibility requirements, 
+and further instructions for both types of investigators are provided 
+in the solicitation document, which is available at: 
+
+https://tinyurl.com/NASA-PSI-F
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTNLY NEWSLETTER FOR OCTOBER, 2019
+
+On behalf of Aileen Yingst (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the October, 2019 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] SEEKING VOLUNTEER REVIEWERS IN STEM ENGAGEMENT
+
+NASA's Office of STEM Engagement is seeking subject matter experts to 
+serve as an on-line reviewer and/or panel reviewer of proposals to The 
+National Space Grant College and Fellowship Program's FY2020-2014 
+solicitation. Detailed information regarding the Space Grant proposal 
+requirements and evaluation criteria are contained in the solicitation 
+posted on NSPIRES. To review the Space Grant solicitation in NSPIRES, 
+click on "Solicitations," then open announcement number NNH19ZHA001C.
+ 
+It is anticipated that reviewers will be asked to review no more than 
+3 proposals. Additional proposals may be assigned if you request them. 
+
+Non-civil servants receive an honorarium of $100 for the first proposal 
+reviewed and $50 for each additional proposal fully reviewed and 
+submitted online to NSPIRES by the close of the review period. All 
+proposal assignments will be posted on NSPIRES on or about October 16, 
+2019 and your reviews must be submitted electronically via NSPIRES by 
+November 3, 2019. 
+
+We have a short optional survey that we are asking that you complete 
+by October 2, 2019. If you have any issues or concerns, please send an 
+email to nasa.spacegrant@nasaprs.com.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ACCESS2SPACE
+
+This Workshop is sponsored by the NASA Science Mission Directorate to 
+gauge and solicit community inputs on the best way to create, fully 
+populate, and manage a pipeline of secondary payloads to support the 
+NASA SMD policy of adding a secondary payload carrier for all SMD 
+missions with excess-mass lift capacity.
+
+The goals of this Workshop are to provide the following info to 
+decision makers:
+
+- Identify shortfalls in current methodologies
+- Understanding of new strategies to maximize available secondary 
+  payloads to populate the Rideshare pipeline
+- Definition of instrument/sensor use cases that maximize use of 
+  excess-mass lift capacity
+- Quantifying the potential increase of the science return on 
+  investment
+- Understanding of technology areas requiring new investment to use 
+  the excess-mass lift capacity.
+
+Where:
+
+Johns Hopkins University Applied Physics Laboratory 
+11100 Johns Hopkins Road, Laurel, Laurel, Maryland, 20723, USA
+
+Contact: 
+
+George Ho, JHUAPL Access2Space@jhuapl.edu
+
+https://civspace.jhuapl.edu/News-and-Events/events/Access2Space/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+GRAD STUDENT POSITIONS IN PLANETARY SURFACE PROCESSES AT UT AUSTIN
+
+Applications are solicited for graduate student positions within the 
+UT Planetary Surface Processes Group, headed by Dr. Tim Goudge, in the 
+Department of Geological Sciences at the University of Texas at Austin. 
+The area of focus for graduate student projects is open within the 
+broad field of planetary surface processes, and will be selected based 
+on research topics of mutual interest. Prospective students can find 
+out more here: 
+
+http://www.jsg.utexas.edu/goudge/files/Goudge_Student_Ad_2019.pdf
+
+Dr. Goudge is strongly committed to building an inclusive research 
+group with diverse perspectives and backgrounds. Applicants from 
+historically underrepresented groups in STEM fields, with 
+non-traditional backgrounds, and/or with a demonstrated interest in 
+efforts to improve inclusion and diversity in STEM are especially 
+encouraged to apply.
+
+Prospective applicants with questions about these opportunities are 
+encouraged to contact Dr. Goudge at tgoudge@jsg.utexas.edu.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+INTERNATIONAL OBSERVE THE MOON NIGHT - OCTOBER 5, 2019
+
+International Observe the Moon Night is a worldwide celebration of 
+lunar science and exploration, celestial observation, and the cultural 
+and personal connections we have to the Moon. Everyone, everywhere can 
+participate. You can join by hosting or attending an event, or 
+registering as a lunar observer.
+
+In 2019, a year of important lunar anniversaries, International Observe 
+the Moon Night celebrates 10 years of lunar science engagement. With 
+the 50th anniversary of the Apollo 11 Moon landing, an international 
+fleet of robotic lunar explorers, and as we look forward towards 
+Artemis, it's a great time to celebrate past, present, and future lunar 
+exploration.
+
+Learn more about International Observe the Moon Night, find program 
+resources and event materials, and register your participation on: 
+
+http://moon.nasa.gov/observe
+
+Connect with lunar enthusiasts worldwide and share your view of the 
+Moon through #observethemoon and the International Observe the Moon 
+Night Flickr group.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+VEXAG APPROACHING HOTEL DEADLINE
+
+Lodging:
+
+The booking Deadline at the Millennium Harvest House Hotel is Friday, 
+October 4, 2019. After that date, Millennium cannot guarantee 
+availability at the agreed rates. You can make your reservation online 
+(link at VEXAG meeting website) or by calling the hotel directly at 
+303-443-3850. Press option #1 for reservations, inform the guest 
+service agent of the block name and booking.
+
+Parking at LASP Space Sciences Building:
+
+One-Day permits cost $12. One week (multi-day) Permits cost $18.
+Payment must be received at time of issuance when you arrive. To 
+facilitate this process, a Parking Permit Poll will be distributed to
+all registered participants on Monday, 7 October.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

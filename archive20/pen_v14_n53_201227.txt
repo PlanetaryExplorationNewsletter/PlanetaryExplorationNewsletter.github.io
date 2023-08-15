@@ -1,0 +1,279 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 53 (December 27, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Lunar Reconnaissance Orbiter Data Release 44
+2. AGU EPSP Wonderful Coffee Hour
+3. MEPAG Virtual Meeting #11
+4. Second Call for Early Career Lightning Talks at SBAG24
+5. Postdoctoral Associate at Lowell Observatory
+6. Reviewers Needed for MUREP Concept Paper Submissions
+7. GSA Southeastern Meeting 2021
+8. Planetary Meeting Calendar Additions
+9. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Books: Advances in Drilling Technology
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LUNAR RECONNAISSANCE ORBITER DATA RELEASE 44
+
+The NASA Planetary Data System announces Release 44 of data from the
+Lunar Reconnaissance Orbiter mission. This release contains raw and
+calibrated data products covering the nominal time period from June 15,
+2020, through September 14, 2020. Some instrument teams are delivering
+more recent data. The data are archived at various PDS nodes.
+
+  CRaTER at the PPI Node
+  Diviner at the Geosciences Node
+  LAMP at the Cartography and Imaging Sciences Node
+  LEND at the Geosciences Node
+  LOLA at the Geosciences Node
+  LROC at the LROC Data Node
+  Mini-RF at the Geosciences Node
+  Radio Science at the Geosciences Node
+  SPICE at the NAIF Node
+
+The data may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+To access the data by dataset:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201215.shtml
+
+LRO releases occur every three months. The next release is scheduled
+for March 15, 2021.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU EPSP WONDERFUL COFFEE HOUR
+
+Starting in January, EPSP will hold a monthly social hour: the EPSP
+Wonderful Coffee Hour.
+
+https://connect.agu.org/epsp/discussion/coffee-hour
+
+The event will be hosted on Wonder, the platform used for our Fall
+Meeting Geomorphologists Night (in browser, no account necessary).
+Please join us to connect with existing colleagues and meet new ones.
+All are welcome, please encourage interested students to participate.
+
+First Wednesday of each month (Jan 6, 2021, Feb 3, 2021, etc) 08:00 San
+Francisco / 11:00 New York  / 17:00 Berlin / 23:00 Beijing
+
+Join Link: 
+
+https://www.wonder.me/r?id=44fab7a9-ca74-4d96-9514-3bc7ca865482
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MEPAG VIRTUAL MEETING #11R
+
+Members of the Mars community,
+
+I cordially invite you to participate in the next virtual meeting
+(VM11) of the Mars Exploration Program Analysis Group (MEPAG),
+scheduled on Wednesday, January 27, 2021, from 10:00 am-2:00 pm PST,
+1:00-5:00 p.m. EST. 
+
+Agenda items are expected to include updates about recent MEPAG, Mars
+Exploration Program, and Mars Sample Return Program activities, as well
+as presentations from Jim Watzin and Eric Ianson on Mars Ice Mapper and
+a discussion led by Scott Hubbard on Humans to Mars activities. The
+VM11 agenda and 2nd Information Circular will be shared in early
+January on the MEPAG meeting website:
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+WebEx connectivity information will be included in the 2nd Information
+Circular. This meeting is open to all members of the Mars science
+community including our international colleagues, and I look forward to
+your participation.
+
+Sincerely,
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SECOND CALL FOR EARLY CAREER LIGHTNING TALKS AT SBAG24
+
+The 24th SBAG meeting includes time for early-career scientists and
+engineers attending the meeting to introduce themselves and their
+research to the community. The talks will be 3 minutes each. If you are
+interested in giving a lightning talk, please email the early-career
+secretary, Terik Daly (Terik.Daly@jhuapl.edu), by COB on January 12th.
+Attach a single slide, in PDF format, with your name, affiliation, and
+a figure or two that highlight your research. We encourage presenters
+from a diverse range of backgrounds and experiences.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL ASSOCIATE AT LOWELL OBSERVATORY
+
+Lowell Observatory in Flagstaff, Arizona is currently seeking
+applications for a Postdoctoral Associate in Near-Earth Objects
+Studies.
+
+A complete job description and instructions on how to apply can be
+found on our employment page: 
+
+https://lowell.edu/about/employment/
+
+Inquiries may be sent to Catie Blazek at humanresources@lowell.edu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REVIEWERS NEEDED FOR MUREP CONCEPT PAPER SUBMISSIONS
+
+NASA Minority University Research and Education Project (MUREP) is
+seeking subject matter experts to serve as online reviewers of concept
+papers received in response to the EONS-2020, Appendix J: NASA MUREP
+INCLUDES opportunity. This solicitation invited the submission of 
+concept papers for this effort to develop MSI-led coalitions in support 
+of broadening participation in engineering. 
+
+The concept papers (limited to 5-pages) will be reviewed online in the
+NASA Solicitation and Proposal Integrated Review and Evaluation System
+(NSPIRES) in two sessions:
+
+Review Session 1: January 12-14, 2021
+Review Session 2: January 26-28, 2021
+
+Interested parties should email NASAMUREP-INCLUDES@nasaprs.com by
+January 6, 2021 identifying their area of expertise, along with a CV or
+resume, and indicating your availability for both sessions. Each 
+reviewer will be assigned up to four concept papers.
+
+For additional information, the following is the link to the MUREP 
+INCLUDES solicitation for your convenience:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId=%7b969EDF98-B0C4-B79A-8ED7-925819CDEFFC%7d&path=closedPast
+
+[Edited for length]
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GSA SOUTHEASTERN MEETING 2021
+
+Please join us for the 2021 Southeastern meeting of the Geological
+Society of America that will take place virtually between April 1-2
+2021. The meeting is hosted by Auburn University, Alabama USA. The
+abstract submission deadline is Jan 12 2021 by 11:59 PM Pacific Time.
+
+Meeting URL:
+
+https://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/se/2021mtg/home.aspx 
+
+We would like to draw your attention to the following session:
+
+T6. Impact cratering on planetary surfaces: Structures and processes
+
+Conveners: Leticia De Marchi, Vinamra Agrawal and David King.
+
+Description: The impact of meteorites, asteroids, and comets is a
+fundamental process in the solar system, crucial to planetary formation
+and evolution. The resulting impact craters are extremely common
+features on the surface of terrestrial planets, asteroids, and natural
+satellites. This session explores cratering processes, products, and
+implications for geological history.
+
+Submit abstract:
+
+https://gsa.confex.com/gsa/2021SE/top/papers/index.cgi?sessionid=51141 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 27, 2021
+MEPAG Virtual Meeting #11
+https://mepag.jpl.nasa.gov/meetings.cfm
+Online
+
+April 1-2, 2021
+GSA Southeastern Meeting 2021
+https://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/se/2021mtg/home.aspx
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new articles.
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+BOOKS: ADVANCES IN DRILLING TECHNOLOGY
+
+Introducing a new two-volume book co-edited by Dr. Yoseph Bar-Cohen and 
+Dr. Kris Zacny. The publisher is CRC Press/Taylor & Francis Group LLC:
+
+Vol. 1: Advances in Terrestrial Drilling: Ground, Ice, and Underwater:
+
+https://www.amazon.com/Advances-Terrestrial-Drilling-Ground-Underwater/dp/036765346X
+
+Vol. 2: Advances in Extraterrestrial Drilling: Ground, Ice, and
+Underwater:
+
+https://www.amazon.com/Advances-Extraterrestrial-Drilling-Ground-Underwater/dp/0367653478
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

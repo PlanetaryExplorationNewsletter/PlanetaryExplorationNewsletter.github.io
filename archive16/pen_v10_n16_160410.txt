@@ -1,0 +1,284 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 16 (April 10, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mavericks Lab: Grad Student and Post Doc opportunity
+2. Small Bodies Assessment Group 15th Meeting: Early Career Travel 
+   Support
+3. [NASA] PDS - Cassini Data Release 45
+4. [NASA] Science Mission Directorate Seeks Public Policy Expert
+5. [NASA] ROSES-16: Step-1 Due Date Delayed for Laboratory Analysis 
+   of Returned Samples
+6. Mars Exploration Science Monthly Newsletter: April 2016
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MAVERICKS LAB: GRAD STUDENT AND POST DOC OPPORTUNITY
+
+The SETI Institute has partnered with NASA HQ, NVIDIA and the Asteroid 
+Grand Challenge for a summer research project aimed at pairing young 
+planetary scientists with early-career machine learning software 
+developers to "hack" various datasets pertaining to the tracking 
+and cataloging of NEO's. The idea is to see what can be gleaned 
+from such datasets by applying some of the latest developments in 
+machine learning to analyze the data in new and innovative ways.
+
+The project is called "Mavericks Lab" and it has its own website at:
+
+http://www.maverickslab.org
+
+We are looking for more applicants to the project from the planetary 
+science community, where the target is PhD candidates or postdocs.  
+The project will run for ~6 weeks this summer, and will be hosted 
+here at SETI Institute. Participants will be housed at dormitories 
+at NASA Ames. Applications due April 24. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SMALL BODIES ASSESSMENT GROUP 15TH MEETING: EARLY CAREER TRAVEL SUPPORT
+
+The 15th meeting of the Small Bodies Assessment Group will be help at 
+the JHU Applied Physics Laboratory June 28-30, 2016. A draft agenda 
+can be found at: 
+
+http://www.lpi.usra.edu/sbag/meetings/jun2016/draft_agenda_20160401.pdf
+
+Early career travel support: We are planning to offer limited U.S. 
+travel support for early career scientists to participate in the 
+SBAG 15 meeting, to be held at the Johns Hopkins University Applied 
+Physics Laboratory June 28-30, 2016. Interested undergraduate students, 
+graduate students, postdocs, and other early career scientists (within 
+3 years of PhD/MS/BS) should submit a letter and a CV to SBAG Early 
+Career Secretary Angela Stickle (angela.stickle@jhuapl.edu) by COB 
+(5 pm Eastern time) April 29, 2016. Included in the letter, which 
+must not exceed 2 pages, should be a demonstration of financial 
+need and an explanation of how the applicant's work relates to the 
+purposes of the SBAG. The letter and CV should be combined into a 
+single PDF document for submission by e-mail attachment. Recipients 
+of travel support will be expected to give a short presentation of 
+their SBAG-relevant work at the SBAG 15 meeting.
+
+Angela Stickle
+SBAG Early-Career Secretary
+Angela.Stickle@jhuapl.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - CASSINI DATA RELEASE 45
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 45, April to June 2015, for instruments:
+
+* CDA
+* INMS
+* ISS
+* MAG
+* MIMI
+* RADAR
+* RPWS
+* RSS
+* SPICE
+* UVIS
+* VIMS
+
+* CIRS, HRD data are not available yet.
+
+The standard RPWS data for this period was previously released. The 
+RPWS data in this release are Langmuir Probe products.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these 
+services. Check each service's web site to see the status of the 
+latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160404.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] SCIENCE MISSION DIRECTORATE SEEKS PUBLIC POLICY EXPERT
+
+Under authority granted to NASA in the NASA Flexibility Act of 2004 
+(Pub. L. 108-201, 118 Stat. 461 (5 U.S.C. 9801 et seq.)), the initial 
+Intergovernmental Personnel Act (IPA) appointment will be for up to 
+two years, with the possibility of reappointment up to a total of 
+six years. 
+
+Ideal candidates would have an advanced degree in Public Policy or 
+a related field and have multiple years of experience working in 
+public policy implementation. All candidates must possess excellent 
+policy analysis, writing and editing skills. Prior experience working 
+on space policy is desirable, but not required. SMD's preferred start 
+date is between August 1, 2016, and September 1, 2016. 
+
+The individual selected would join a six-person team focused on 
+providing policy support to SMD's over 100 missions that span 
+Astrophysics, Earth Science, Heliophysics, Planetary Science, and 
+various reimbursable projects for other agencies. In support of 
+SMD's policy functions, the policy team manages SMD's relations 
+with external groups, including Congress, the Office of Management 
+and Budget (OMB), the Office of Science and Technology Policy (OSTP), 
+educational entities, and external advisory committees and boards. 
+In partnership with other SMD Divisions, the policy branch also 
+supports the SMD Associate Administrator by providing integrated 
+guidance, strategy, and focused advocacy for NASA's science program.
+
+Applicants should forward their resume or Curriculum Vita to 
+Dr. T. Jens Feeley at jens.feeley@nasa.gov, preferably on or before 
+April 22, 2016.
+
+Questions: 
+Dr. T. Jens Feeley 
+(202)358-1714
+
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-16: STEP-1 DUE DATE DELAYED FOR LABORATORY ANALYSIS 
+OF RETURNED SAMPLES
+
+The goal of the Laboratory Analysis of Returned Samples (LARS) 
+Program is to maximize the science derived from planetary sample-
+return missions. Activities supported by LARS fall into two 
+categories: 
+
+(1) development of laboratory instrumentation and/or advanced 
+techniques required for the analysis of returned samples; 
+(2) direct analysis of samples already returned to Earth.
+
+Step-1 proposals are now due on May 2, 2016, and 
+Step-2 proposals are still due by June 24, 2016.
+
+Announcement: NNH16ZDA001N
+
+Posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+and on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2016.
+
+Questions concerning this program element may be directed to 
+Jeffrey Grossman at HQ-LARS@mail.nasa.gov
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: APRIL 2016
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the April 2016 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items 
+for inclusion in the newsletter to Meredith at: 
+Meredith.A.Cosby@jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 7-9, 2016
+Seventh Joint Meeting of the Space Resources Roundtable and Planetary 
+& Terrestrical Mining Sciences Symposium
+http://www.csmspace.com/events/srr/
+Golden, CO
+
+June 12-16, 2016
+228th American Astronomical Society Meeting
+http://aas.org/meetings/aas228
+San Diego, CA
+
+September 25-28, 2016
+Exoplanets in the Era of Extremely Large Telescopes
+http://www.gmtconference.org
+Pacific Grove, CA
+
+January 3-7, 2017
+229th American Astronomical Society
+http://aas.org/meetings/aas229
+Grapevine, TX
+
+January 11-13, 2017
+16th Meeting of the NASA Small Bodies Assessment Group
+http://www.lpi.usra.edu/sbag/
+Tucson, AZ
+
+February 1-3, 2017
+21st International Microlensing Conference
+http://nexsci.caltech.edu/conferences/2017/microlensing/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

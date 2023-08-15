@@ -1,0 +1,425 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 2 (January 10, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Roger J. Phillips - A Celebration Of Life (January 11, 2021)
+2. vECU21 Session PS7: Planetary Geomorphology
+3. vEGU21 Session PS4.3: Planetary Space Weather
+4. vEGU21 Session PS2.1: Atmospheres and Exospheres of Terrestrial
+   Planets, Satellites, and Exoplanets
+5. [NASA] PDS: Insight Data Release 7
+6. [NASA] PDS: Odyssey Data Release 74
+7. [NASA] PDS: Data Release Calendar 2021
+8. COSPAR 2020 Awards
+9. Ph.D. and M.S. Opportunities in Planetary Science at the University
+   of Central Florida
+10. INAF Postdoc for Dawn and EXOMars
+11. Upcoming Pluto System and Arrokoth Workshops
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ROGER J. PHILLIPS - A CELEBRATION OF LIFE (JANUARY 11, 2021)
+
+An on-line celebration of the life of Roger J. Phillips (June 9, 1940 -
+November 19, 2020) will be held on January 11, 2021, from 3:00-4:30 pm
+CST, hosted by Washington University. Roger received his Ph.D. in 1968
+from the University of California at Berkeley. He then worked at the
+Jet Propulsion Laboratory and at the Lunar and Planetary Institute,
+where he served as director. He served on the faculty of Southern
+Methodist University from 1982-1992, and then at Washington University
+in St. Louis where he served as the director of the McDonnell Center
+for the Space Sciences until 2007. After retiring from Washington
+University, he continued as an emeritus faculty and joined the
+Southwest Research Institute in Boulder, Colorado. Roger made lasting
+contributions in the field of planetary geodynamics, and was recognized
+as a fellow of the American Geophysical Union, a recipient of the G. K.
+Gilbert Award from the Geological Society of America, and the Whipple
+Award from the American Geophysical Union.
+
+Additional details can be found at:
+
+https://mcss.wustl.edu/events/virtual-celebration-life-roger-phillips
+
+Please use this link to register:
+
+https://wustl.zoom.us/meeting/register/tJckfuuupjkuH9SirwJugZ5S6TdllklthYV4
+
+Questions may be directed to janf@wustl.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+VECU21 SESSION PS7: PLANETARY GEOMORPHOLOGY
+
+Dear colleagues,
+
+A reminder that the abstract deadline for vEGU21: Gather Online is
+approaching (13 January 2021, 13:00 CET). vEGU21 is a fully virtual
+replacement for the EGU General Assembly, and will take place 19-30
+April 2021.
+
+Please consider submitting an abstract to the session on Planetary
+Geomorphology (GM11.1/PS7):
+
+The Planetary Geomorphology session aims to bring together
+geomorphologists who study the Earth with those who work on other
+bodies such as Mars, Venus, Mercury, the Moon, icy satellites of the
+outer Solar System, comets, and/or asteroids. Studies applicable to
+landscapes on any scale on any solid body are welcome. We particularly
+encourage those who use Earth analogues or laboratory/numerical
+simulation to submit their work. Considered processes could include
+aeolian, volcanic, tectonic, fluvial, glacial, periglacial, or
+"undetermined" ones. We especially welcome contributions from
+early-career scientists and geomorphologists who are new to planetary
+science.
+
+Session details: 
+
+https://meeting organizer.copernicus.org/EGU21/session/40278
+
+Abstract instructions:
+https://egu21.eu/abstracts_and_programme/how_to_submit_an_abstract.html
+
+Best wishes
+
+Planetary Geomorphology convenors: 
+Susan Conway, Stephen Brough, Frances Butcher, Tjalling de Haas, and
+Nikolaus J. Kuhn
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VEGU21 SESSION PS4.3: PLANETARY SPACE WEATHER
+
+Deadline for abstract submission is Jan 13, 2021, 13:00 CET.
+
+In the present session, we welcome abstracts from all planets' upstream
+solar wind activities and their relation to planetary space weather,
+including especially magnetized bodies (like Mercury, the Earth, Saturn
+and Jupiter) as well as comparisons with unmagnetized bodies (Mars and
+Venus). Since in these years many operative missions have among their
+science goals the planetary space weather, such as BepiColombo that
+will have soon two Venus Flybys and then six Mercury flybys, or Solar
+Orbiter that will have diverse Venus flybys as well, special focus of
+this session will be on Venus and Mercury and on the possible studies
+related to multi spacecraft observations. In this frame, we welcome
+studies on:
+
+* magnetosphere-ionosphere coupling dynamics (and auroras where
+  present);
+* the solar wind interaction with planets and moons;
+* inter-comparisons of planetary environments;
+* observations of space weather effects from space probes and
+  Earth-based instrumentation; 
+* theoretical modeling and simulations, especially in view of
+  measurement analysis and interpretation;
+* potential impacts of space weathering on technological space systems.
+
+For detailed information, see: 
+
+https://meetingorganizer.copernicus.org/EGU21/session/39947
+
+Conveners: Philippe Garnier, Markus Franz, Anna Milillo, Zhonghua Yao
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VEGU21 SESSION PS2.1: ATMOSPHERES AND EXOSPHERES OF TERRESTRIAL
+PLANETS, SATELLITES, AND EXOPLANETS
+
+Dear colleagues,
+
+I'm pleased to announce that the abstract submission is open for vEGU
+2021, held online on 19-30 April 2021.
+
+The deadline for the abstract submission is 13 January 2021, 13:00 CET.
+
+I would like to draw your attention to our session: Atmospheres and
+exospheres of terrestrial planets, satellites, and exoplanets
+
+This session primarily focuses on the neutral atmospheres of
+terrestrial bodies other than the Earth. This includes not only Venus
+and Mars, but also exoplanets with comparable envelopes and satellites
+carrying dense atmospheres such as Titan or exospheres such as
+Ganymede. We welcome contributions dealing with processes affecting the
+atmospheres of these bodies, from the surface to the exosphere. We
+invite abstracts concerning observations, both from Earth or from
+space, modeling and theoretical studies, or laboratory work.
+Comparative planetology abstracts will be particularly appreciated.
+
+If you consider submitting an abstract in this session, you can use the
+following link:
+
+https://meetingorganizer.copernicus.org/EGU21/session/39942
+
+Hope to see you online!
+
+Best regards,
+
+The conveners
+Arnaud Beth, Arianna Piccialli, Jan Vatant d'Ollone
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: INSIGHT DATA RELEASE 7
+
+The NASA Planetary Data System announces Release 7 of data from the
+InSight Lander mission to Mars. This release contains raw and
+calibrated data products covering the time period from July 1, 2020,
+through September 30, 2020. Some instrument teams are delivering data
+through October 12, 2020. The data are archived at various PDS nodes.
+
+SEIS (Seismometer) at the Geosciences Node
+RAD (Radiometer) at the Geosciences Node
+RISE (Radio Science) at the Geosciences Node
+IDA (Instrument Deployment Arm) at the Geosciences Node
+APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+IFG (Insight Fluxgate Magnetometer) at the PPI Node
+ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at
+ the Cartography and Imaging Sciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from 
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is
+scheduled for April 1, 2021.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: ODYSSEY DATA RELEASE 74
+
+The NASA Planetary Data System announces Release 74 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period April 1, 2020,
+through June 30, 2020 for the GRS/HEND/NS suite, and March 3, 2020,
+through June 1, 2020 for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data
+may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or from a dataset-centered view
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210104.shtml
+
+Odyssey releases occur every three months. The next release is
+scheduled for April 1, 2021.
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+  
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: DATA RELEASE CALENDAR 2021 
+
+The Planetary Data System (PDS) has posted its Data Release Calendar
+for 2021:
+
+https://pds.nasa.gov/datasearch/subscription-service/data-release-calendar.shtml
+ 
+The PDS Data Release Calendar is a searchable and sortable table of
+important dates associated with all PDS data releases in the current
+calendar year. The calendar includes anticipated release dates for
+mission data, actual release dates updated as they occur, and links to
+pages for more information and to download the data. This information
+can be used to determine which data are acceptable for use in NASA
+ROSES proposals. However, the final authority on data acceptability for
+any ROSES opportunity rests with the designated Program Officer for
+that opportunity as identified in the ROSES call.
+
+Please check the calendar regularly throughout the year for updates,
+and direct questions or feedback to pds_operator@jpl.nasa.gov.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+COSPAR 2020 AWARDS
+
+Dear Colleague,
+ 
+Please see the press release detailing 2020 awards to be bestowed by the
+Committee on Space Research (COSPAR) at its forthcoming Scientific
+Assembly in Sydney, Australia, 28 January - 4 February 2021:
+
+https://cosparhq.cnes.fr/assets/uploads/2020/12/Press-Release-2020_New.pdf
+
+We thank you in advance for helping to diffuse the information or parts
+of it, as of interest to your community, in your publications, web
+pages, and electronic newsletters. 
+
+Do not hesitate to contact the Secretariat should you wish to obtain
+additional information about COSPAR, its awards, or the 2020 recipients.
+ 
+Yours sincerely,
+ 
+Aaron Janofsky
+Associate Director
+Committee on Space Research (COSPAR)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PH.D. AND M.S. OPPORTUNITIES IN PLANETARY SCIENCE AT THE UNIVERSITY OF
+CENTRAL FLORIDA
+
+The UCF Planetary Sciences Group, with members in the Department of
+Physics, Florida Space Institute, Arecibo Observatory, and College of
+Optics and Photonics, announces graduate research opportunities in:
+
+Exoplanet and brown-dwarf characterization (Karalidi, Harrington)
+
+Lunar and asteroid surface science and exploration, including
+spacecraft and laboratory studies (Bennett, Britt, Dove, Colwell)
+
+Planetary rings and accretion experiments (Colwell)
+
+We encourage applications in all program research areas. Visit
+
+http://planets.ucf.edu 
+
+or contact the group member closest to your interests.
+
+UCF offers a research-intensive Ph.D. Students join research groups
+upon admission, and a submitted lead-author paper is a candidacy
+requirement. UCF has laboratory facilities for regolith, microgravity,
+and meteorite studies as well as cubesat and ground-based
+instrumentation. UCF research instruments have flown on numerous
+suborbital rockets and the ISS. Our scientific staff in Puerto Rico
+leads the effort to rebuild Arecibo and operate its LIDAR and other
+instruments. We have strong academic and research mentoring programs,
+participate in the APS Bridge program, and have strong research ties
+with NASA's Kennedy Space Center. Application review begins 15 January
+and continues until positions are filled. We are strongly committed to
+inclusion and diversity.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+INAF POSTDOC FOR DAWN AND EXOMARS
+
+A postdoctoral fellowship is available at the National Institute for
+Astrophysics (INAF) Institute for Space Astrophysics and Planetology
+working with Dr. Maria Cristina de Sanctis on "Analysis of Oxia Planum
+from remote sensing data and terrestrial laboratory analogues of Mars
+and Ceres." 
+
+For more information, go to:
+
+http://www.iaps.inaf.it/wp-content/uploads/2020/12/Bando-2020-36-AR_inglese.pdf 
+ 
+Applications are due January 22, 2021.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+UPCOMING PLUTO SYSTEM AND ARROKOTH WORKSHOPS
+
+The New Horizons Geology, Geophysics, and Imaging Theme Team invites
+you to take part in upcoming open workshops to discuss specific topics
+that are pertinent to deciphering the geological and geophysical
+histories of Pluto, its moons, and the cold classical Kuiper belt
+object Arrokoth. The workshops will take place at the Applied Physics
+Laboratory, Maryland from July 12 to July 16 2021, and will include a
+virtual component permitting full access for those participants not
+attending in person. These workshops will occur concurrently with
+workshops led by the New Horizons composition and atmospheres teams.
+
+The topics include:
+
+- Cryovolcanism in the Pluto system and implications for elsewhere in
+  the Solar System.
+- The enigmatic geology of Arrokoth.
+- The formation and dynamical evolution of Pluto's small moons.
+
+The anticipated outcome of these workshops is the advancement of
+knowledge in their respective subject areas through the involvement of
+a broad range of disciplines in the planetary community, including
+analysis of New Horizons data as well as laboratory and theoretical
+work.
+
+For those interested in participating, please respond to the Google
+Form in the link below:
+
+http://bit.ly/Pluto_2021
+
+Direct any questions to Oliver White (owhite@seti.org).
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 12-16, 2021
+Pluto System and Arrokoth Workshops
+http://bit.ly/Pluto_2021
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new PSJ articles.
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

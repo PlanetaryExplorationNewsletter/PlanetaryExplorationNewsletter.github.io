@@ -1,0 +1,365 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 8 (February 14, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. COSPAR 2016 Event B0.5 "Planetary Formation: From Dust to Giant 
+   Exoplanets" - Deadline Approaching
+2. Research Scientist Position at FSI
+3. Goldschmidt Conference 2016 Session: Chemistry of the Outer Solar 
+   System 
+4. NASA Ames Applied Research Accelerator: Mavericks Lab
+5. Debris Civil Servant Opening
+6. Dusty Visions Workshop
+7. AOGS2016 Session PS-08: Solar System Primitive Body Exploration 
+   Missions
+8. AOGS2016 Session PS-09: Planetary Science Data Archiving
+9. Astronomy Education Project Information Request
+10. OPAG Assessments Update
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COSPAR 2016 EVENT B0.5 "PLANETARY FORMATION: FROM DUST TO GIANT 
+EXOPLANETS" - DEADLINE APPROACHING
+
+Istanbul, Turkey, 30 July - 7 August 2016
+
+Abstract submission deadline: 19 February 2016 	
+
+This event, currently planned to take place over two half-day sessions, 
+is jointly organized by Commission B "Space Studies of the Earth-Moon 
+System, Planets, and Small Bodies of the Solar System" and Commission 
+E "Research in Astrophysics from Space".
+
+https://www.cospar-assembly.org/
+
+The aim of COSPAR 2016 event is to offer to all involved communities 
+a common space for discussing new theoretical, observational and 
+laboratory results about the formation and evolution of planetary 
+systems and of their formation environments, the protoplanetary 
+disks.
+
+Confirmed solicited speaker (at the time of writing):
+
+Katherine Kretke (Southwest Research Institute, USA)
+
+Scientific Organizing Committee:
+
+Diego Turrini (Main Scientific Organizer, INAF-IAPS, Italy), 
+Sho Sasaki (Deputy Organizer, Osaka University, Japan), 
+Francesca Altieri (INAF, Italy), 
+Gennaro D'Angelo (SETI Institute, USA), 
+Francesco Marzari (University of Padova, Italy), 
+Motohide Tamura (National Astronomical Observatory, Japan), 
+Mark Wyatt (University of Cambridge, UK), 
+Hajime Yano (JAXA, Japan)
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RESEARCH SCIENTIST POSITION AT FSI
+
+The Florida Space Institute (http://fsi.ucf.edu/), a multi-
+disciplinary center based in Orlando, Florida is devoted to 
+facilitating and conducting leading edge applied and basic research 
+in space fields ranging from planetary science to space physics to 
+Earth science. We are now seeking new applications for lunar, 
+planetary and extra-solar planet research scientist positions.
+
+Of particular interest to FSI are Principal Investigators of 
+planetary science research grants, centers, and mission experiments 
+who are seeking a greater career opportunity. Applicants must have 
+a PhD in a planetary science or a relevant field. Successful 
+applicants should have demonstrated research leadership ability 
+and interpersonal skills, and a consistent record of both research 
+publications and competitively funded space research and/or 
+experimentation grants and contracts. 
+
+Review of applications will start in March 2016. Applicants should 
+apply online at:
+
+http://www.jobswithucf.com 
+
+and click on the 'Search Available Positions' option on the top left. 
+Once there, type in position number 42542 in the "keywords" box to 
+search for this position. The hired candidate is expected to start 
+employment at UCF in the Fall 2016 semester. 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GOLDSCHMIDT CONFERENCE 2016 SESSION: CHEMISTRY OF THE OUTER SOLAR 
+SYSTEM 
+
+We are inviting the community to submit an abstract to the session 
+02e, 'Chemistry of the Outer Solar System: Gas Giants, Ice Giants, 
+Icy Moons, Icy Asteroids, and Plutonian Objects.' This will be held 
+in Yokohama, Japan, from 26 June to 1 July, 2016.
+
+http://goldschmidt.info/2016/program/programViewThemes
+
+Abstracts can be submitted at the following link by February 26:
+
+http://goldschmidt.info/2016/signupUser?nextPage=abstracts
+/abstractSubmit
+
+Looking forward to meeting you in Yokohama!
+
+Conveners:   
+Yasuhito Sekine, Julie Castillo-Rogez, Olivier Mousis, Edward Young, 
+Hajime Yano, Marc Neveu, Alessandro Morbidelli, Nicolas Altobelli
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA AMES APPLIED RESEARCH ACCELERATOR: MAVERICKS LAB
+
+Mavericks Lab is looking for Planetary Scientists, with a passion for 
+data science, to join peers in machine learning to develop breakthrough 
+applications for planetary defense. 
+
+The program will be hosted at NASA Ames and SETI in Silicon Valley 
+for 6 weeks this summer, where three teams will work in parallel 
+mentored by senior experts from both academia and the private sector.  
+
+Mavericks Lab is an experimental new tool in NASA's innovation 
+portfolio that places emphasis on inter-disciplinary approaches, 
+rapid iteration and teamwork to bridge knowledge gaps useful to the 
+Space Program - in this case the Asteroid Grand Challenge.  
+
+In this inaugural Mavericks Lab, participants and mentors will be 
+invited to work on solutions within the following themes: 
+
+1. New Tools 
+
+e.g. Feature Net
+A Machine Learning Tool for Removing False Positives  
+
+2. New Approaches 
+
+e.g. Lost Wolves
+Alignment of Astrometry of New Observed Objects and Objects 
+From Archived Surveys
+
+3. New Discoveries  
+
+e.g. Fall Finding
+Radically Increasing the Number of Found Meteorite Falls 
+Using Machine Vision and Drones
+
+Applications for this year's Mavericks Lab are now open:
+
+http://www.maverickslab.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DEBRIS CIVIL SERVANT OPENING
+
+Civil servant Space Scientist position in the field of orbital debris 
+research to characterize the debris environment for the NASA Orbital 
+Debris Program Office.
+
+Duties include:
+
+Coordinates and develops theory and computer models, e.g. (1) that 
+relate measured orbital debris data to physical characteristics of 
+objects generated in space as a result of dynamic events such as 
+explosions or collisions spacecraft, or from the slow degradation 
+of satellite surfaces, (2) that characterize the current and future 
+debris environment. Test models against measurement and laboratory 
+data to resolve differences and reduce model uncertainties.
+
+Desired Qualifications/Experience:
+
+(1) Orbital mechanics (e.g. collision evolution; restricted n-body 
+    problem; non-gravitational forces on the orbits of small objects). 
+(2) Designing, planning, and coordinating complex scientific 
+    experiments. 
+(3) Knowledge of spacecraft vulnerabilities from the micro meteoroid 
+    and orbital debris environment. 
+(4) Remote sensing (radar and optical) and in situ measurements to 
+    characterize the orbital debris environment.
+
+Advanced degree or equivalent experience in the physical sciences or 
+mathematics is strongly preferred. U.S. Citizenship required.
+
+Further details and the link for applying for this position can be 
+found at:
+
+https://www.usajobs.gov/GetJob/ViewDetails/427932800
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+DUSTY VISIONS WORKSHOP
+
+LASP and IMPACT will be hosting the 2016 Dusty Visions Workshop in 
+Boulder, CO, USA, July 22-24 2016. This is a discussion-heavy workshop 
+on current and future cosmic dust research. Please visit:
+
+http://impact.colorado.edu/DustyVisions2016 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AOGS2016 SESSION PS-08: SOLAR SYSTEM PRIMITIVE BODY EXPLORATION 
+MISSIONS
+
+Asia Oceania Geosciences Conference 2016
+July 31 - Aug 5, Beijing, China
+Conference website: 
+
+http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
+
+Abstract submission deadline: February 19, 2016
+
+This session welcomes abstracts about the results from all past and 
+ongoing small body missions by combining multiple missions, as well 
+as new concepts for future missions. Solar system small bodies are 
+considered the best-preserved fossils from the early era of planetary 
+systems formation. Small body exploration missions have tremendously 
+revolutionized our understanding of the formation of the planetary 
+system with their paradigm changing results. In the context of past 
+and current missions, such as Dawn, Rosetta, Stardust-Next, EPOXI, 
+Deep Impact, NEAR, Giotto, and VEGA, as well as missions such as 
+Hayabusa2, en route to its target, OSIRIS-REx, in development and 
+possibly Lucy, Psyche, AIDA, and the Japanese Trojan asteroid 
+mission, it is now time to both combine the mission results to 
+enhance scientific returns of these missions, and to develop 
+concepts for future small body explorations.  
+
+Conveners: Jian-Yang Li (Planetary Science Institute, United States),
+Makoto Yoshikawa (JAXA, Japan), Lucy McFadden (NASA Goddard Space 
+Flight Center, United States), Sebastien Besse (ESA, Spain), 
+Liang Chang (Yunnan Observatory, China) 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AOGS2016 SESSION PS-09: PLANETARY SCIENCE DATA ARCHIVING
+
+Asia Oceania Geosciences Conference 2016
+July 31 - Aug 5, Beijing, China
+Conference website: 
+
+http://www.asiaoceania.org/aogs2016/public.asp?page=home.htm
+
+Abstract submission deadline: February 19, 2016
+
+The focus of this session is planetary science data archives, 
+archiving activities, and future plans. We invite contributed 
+abstracts related to all aspects of planetary science data archiving 
+activities and concepts and will invite speakers from the major data 
+archiving organizations from various space agencies to discuss their 
+facilities and activities. It is of great importance and broad 
+community interest to archive and make available to the public the 
+data returned by planetary science exploration missions and 
+related data from Earth-based observatories. The ultimate goal is 
+to enable and facilitate combined scientific analyses using data 
+covering long time-baselines and multiple observations for new 
+phenomena and scientific objectives emerging in the future. This 
+session provides a forum for researchers in planetary sciences to 
+discuss and understand the standards, approaches, current progress, 
+and future plans and concepts for effective long-term planetary 
+science data preservation.  
+ 
+Conveners: Jian-Yang Li (Planetary Science Institute, United States), 
+Ludmilla Kolokolova (University of Maryland, United States), 
+Daniel Crichton (JPL, Caltech, United States), Sebastien Besse 
+(ESA, Spain), Yukio Yamamoto (JAXA, Japan)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ASTRONOMY EDUCATION PROJECT INFORMATION REQUEST
+
+My name is Molly Simon and I'm a 3rd year graduate student at the 
+University of Arizona working with Dr. Chris Impey on an astrobiology/
+planet formation education project. If you teach an astrobiology 
+course for non-majors and could send me your syllabus and the list of 
+topics you teach in the course that would be great!
+
+Additionally, if you teach planet formation in any course (not just 
+astrobiology) if you could provide me with a short explanation as to 
+how you teach it (Powerpoint slides, videos etc...) I would greatly 
+appreciate it!
+
+molly.simon1203@gmail.com
+
+Thank you!
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+OPAG ASSESSMENTS UPDATE
+
+The Outer Planets Assessment Group (OPAG) recently completed a 
+productive meeting in San Antonio, and findings from that meeting 
+are posted at:
+
+http://www.lpi.usra.edu/opag/
+
+Note in particular the formation of a Roadmaps to Ocean Worlds 
+(ROW) team, co-chaired by Terry Hurford (GSFC) and Amanda 
+Hendrix (PSI).  
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 14-15, 2016
+Cometary Science After Rosetta
+https://royalsociety.org/events/2016/06/cometary-science/
+London, United Kingdom
+
+July 11-15, 2016
+New Directions in Planet Formation
+https://www.lorentzcenter.nl/lc/web/2016/799/info.php3?wsid=799
+&venue=Oort
+Leiden, The Netherlands
+
+July 22-24, 2016
+Dusty Visions Workshop
+http://impact.colorado.edu/DustyVisions2016 
+Boulder, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

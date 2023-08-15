@@ -1,0 +1,621 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 05 (February 4, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Job Opening: Planetary Scientist with Expertise in Exospheres at
+   Goddard Space Flight Center
+2. Job Opening: Planetary Scientist with Expertise in Magnetometry at
+   Goddard Space Flight Center
+3. Planetary Data System Project Office Support
+4. Tenure-Track Planetary Sciences Faculty Position at Caltech
+5. Curtin University Postdoctoral Researcher
+6. COSPAR 2018: Near-Term Exploration of the Interstellar Medium
+7. Job Announcement: Research Associate at LASP Working with the
+   Langmuir Probe and Waves Instrument on MAVEN mission
+8. Mercury 2018 Meeting: Abstract Deadline - Feb 15
+9. 2018 NASA Planetary Science Summer Seminar Applications Open
+10. [NASA] Draft SIMPLEx Released for Community Comment
+11. Deadline for Division for Planetary Sciences of the American
+    Astronomical Society Prizes: April 1, 2018
+12. Planetary Geomorphology Image of the Month
+13. Pellas-Ryder Student Paper Award Nomination Deadline Extended to 
+    9 Feb 2018
+14. Third Pre-Proposal Teleconference - NASA Fellowship Activity 2018
+15. LPI Celebration Clarification
+16. First Announcement of Didymos Observer Workshop 2018
+17. Differentiation: Building the Internal Architecture of Planets
+18. Seeking NESSF reviewers
+19. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JOB OPENING: PLANETARY SCIENTIST WITH EXPERTISE IN EXOSPHERES AT
+GODDARD SPACE FLIGHT CENTER
+
+The Planetary Magnetospheres Laboratory of the Solar System Exploration
+Division (SSED) at NASA Goddard Space Flight Center (GSFC) located in
+Greenbelt, Maryland has a U.S. civil service position open for a
+Planetary Scientist, with expertise in exospheres, at the GS-13
+(Junior) level. The Solar System Exploration Division conducts
+theoretical and experimental research to explore the solar system and
+understand the formation and evolution of planetary systems. For more
+information about the duties of this position and requirements or to
+apply please see:
+
+https://www.usajobs.gov/GetJob/ViewDetails/489402400
+
+More Information about the SSED can be found at:
+
+https://science.gsfc.nasa.gov/solarsystem/ 
+
+The job opening closes on 9 February. Specific questions about the SSED
+and this position can be directed to Michael.e.purucker@nasa.gov.
+    
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JOB OPENING: PLANETARY SCIENTIST WITH EXPERTISE IN MAGNETOMETRY AT
+GODDARD SPACE FLIGHT CENTER
+
+The Planetary Magnetospheres Laboratory of the Solar System Exploration
+Division (SSED) at NASA Goddard Space Flight Center (GSFC) located in
+Greenbelt, Maryland has a civil service position open for a
+Magnetometry Scientist, at either the Junior or mid-career levels. The
+Solar System Exploration Division conducts theoretical and experimental
+research to explore the solar system and understand the formation and
+evolution of planetary systems. For more information about the duties
+of this position and requirements or to apply please see:
+
+https://www.usajobs.gov/GetJob/ViewDetails/487865100 (GS-13 position) 
+
+and
+
+https://www.usajobs.gov/GetJob/ViewDetails/487885200 (GS-15 position) 
+
+We will be hiring a single individual, at either a junior or mid-career
+level, to fill this position. More Information about the SSED can be
+found at:
+
+https://science.gsfc.nasa.gov/solarsystem/ 
+
+These job openings close on 5 February. Specific questions about the
+SSED and this position can be directed to Michael.e.purucker@nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY DATA SYSTEM PROJECT OFFICE SUPPORT
+
+The Science & Exploration Directorate, Solar System Exploration
+Division, Solar System Exploration Data Services Office (Code 690.1) is
+seeking a scientist to support the Planetary Data System Project Office
+located at NASA's Goddard Space Flight Center. This individual will be
+a key member of a small management team providing oversight and
+leadership of the Planetary Data System that provides a distributed
+archive of data products from planetary missions. NASA's Planetary Data
+System consists of multiple science and engineering nodes that enable
+data archiving from planetary missions to ensure the long-term
+usability of NASA data and to stimulate advanced research. Additional
+details will be posted soon on the USAJobs site and information
+regarding the PDS GSFC office can be found at:
+
+https://science.gsfc.nasa.gov/solarsystem/ 
+
+and
+
+https://science.gsfc.nasa.gov/solarsystem/dataarchives/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TENURE-TRACK PLANETARY SCIENCES FACULTY POSITION AT CALTECH
+
+The Division of Geological and Planetary Sciences at the California
+Institute of Technology is seeking outstanding applicants for a
+tenure-track faculty position in planetary science at the assistant
+professor level. We are especially interested in individuals whose
+research complements that in the Division, which covers the full
+spectrum of the earth and planetary sciences. We are particularly
+interested in applicants with solar system-focused research programs in
+planetary geophysics/geology, planetary atmospheric sciences, or small
+bodies research; but those in other sub-disciplines will be considered.
+Review will begin March 16, 2018.
+
+For more details and to apply for the position: 
+
+https://applications.caltech.edu/job/ps
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CURTIN UNIVERSITY POSTDOCTORAL RESEARCHER
+ 
+A 3-year post-doctoral research position to study the chronology of
+Mars using automated crater counting methods working with Assoc. Prof.
+Gretchen Benedix is available in the Planetary Science Group at Curtin
+University (Perth, Australia).
+
+Integrating image processing, high performance computing, geochemical
+and geochronological studies, this project aims to determine a detailed
+and accurate geologic timescale for Mars. The project aims to apply
+novel automated feature recognition techniques to high resolution
+space-craft derived images of the surface of Mars. Combining this with
+formation ages of Martian meteorites, the anticipated goal of the
+project is to define an absolute chronology for Mars. A more complete
+timescale will provide context for the geologic processes that affected
+Mars and may help to better understand the past habitability of the
+planet. The aim of this research is to combine two geochronology
+datasets - crater counting and new radiometric ages - in an innovative,
+multi-disciplinary way.
+
+Applicant must have a PhD in planetary geology, geophysics, or related
+field. Experience studying and interpreting Mars surface geology via
+image processing or machine learning highly desired. Experience with
+mineralogy/petrology of Martian rocks is also a plus.
+
+Apply by February 16th at:  
+
+https://webkiosk.curtin.edu.au/recruit/WK8127$.startup?Z_VACANCY_CAT=
+ACAD    
+
+(#5235)
+ 
+Questions: g.benedix@curtin.edu.au
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+COSPAR 2018: NEAR-TERM EXPLORATION OF THE INTERSTELLAR MEDIUM
+ 
+14-22 July 2018
+Pasadena, California
+ 
+Exploration of the heliosphere and the far-reaches of our solar system
+by the Voyagers and New Horizons, and near-Earth observations of the
+Kuiper Belt and exoplanetary systems have all profoundly changed how we
+view our own home in space. An Interstellar Probe escaping beyond the
+solar-system boundaries with new observational techniques would be a
+bold move in space exploration enabling detailed, new understanding of
+the global heliosphere in the context other astrospheres, further
+discoveries of unexplored KBOs, and the first observations of our
+circumsolar dust, disk offering insight into the evolution of the solar
+system and understanding circumstellar disks of exoplanetary systems.
+
+This event welcomes papers on (1) science of the nearby interstellar
+medium and outer solar system, (2) instrumentation for relevant in-situ
+and remote measurements, and (3) mission and spacecraft concepts for
+reaching observation points far past the capability of the Voyagers and
+New Horizons.
+
+Abstract Deadline: 9 February 2018. 
+
+Abstracts to be submitted on:
+
+https://www.cospar-assembly.org
+
+Session: Panel Session PIR.1
+
+https://www.cospar-assembly.org/admin/sessioninfo.php?session=783
+
+Session organizers: Ralph McNutt (JHU/APL, USA) and Robert
+Wimmer-Schweingruber (University of Kiel, Germany)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: RESEARCH ASSOCIATE AT LASP WORKING WITH THE LANGMUIR
+PROBE AND WAVES INSTRUMENT ON MAVEN MISSION
+ 
+The space physics and planetary group at the Laboratory for Atmospheric
+and Space Physics (LASP) at the University of Colorado (CU) are
+involved in several current and near-term space flight missions. We
+invite applications for a postdoctoral research position to work with
+data from the Langmuir Probe and Waves (LPW) instrument on the MAVEN
+mission. The LPW instrument main observation regime is in the
+ionosphere, hence candidates with experience of data analysis of
+ionospheres are encouraged to apply. Also candidates experience with
+electric field measurement, Langmuir probes, and spacecraft charging is
+also encouraged to apply. The candidate will be working closely
+together with Dr. Andersson. The work will include improve existing
+software routines for data production, process the instrument data, and
+operate the instrument. The position will initially be a one-year
+contract with possible extension. Salary will be commensurate with
+hiring level, experience and qualifications. Evaluations will begin
+immediately and we will continue to accept applications. More
+information can be found at: 
+
+https://www.cu.edu/cu-careers 
+
+Enter job #12448 
+
+Please contact Laila Andersson (laila.andersson@lasp.colorado.edu) or
+Molly Hand (molly.hand@lasp.colorado.edu) with any inquiries.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MERCURY 2018 MEETING: ABSTRACT DEADLINE - FEB 15
+
+The abstract deadline for the Mercury 2018 Meeting: Current and Future
+Science of the Innermost Planet is a few weeks away, on February 15,
+2018. This meeting will focus on all scientific aspects of the planet
+Mercury, including both the current state of knowledge and the
+prospects for future endeavors. All scientific topics related to the
+planet Mercury are welcome at this meeting.
+
+In particular, we wanted to specifically note that contributions
+related to the future exploration of Mercury beyond BepiColombo are
+also sought. This meeting seeks to enable the Mercury science community
+to have productive discussions, building on MESSENGER's results and
+preparing for BepiColombo's new discoveries, while also considering
+what are the top priorities for the next steps in the scientific
+exploration of Mercury. Thus, abstracts on the speculative future
+scientific exploration of Mercury are encouraged, and authors are
+allowed more than one first-authored abstract to encourage such
+submissions.
+
+For more information and to submit an abstract, visit the meeting
+website: 
+
+https://www.hou.usra.edu/meetings/mercury2018/
+
+For additional questions, please feel welcome to contact the lead
+scientific organizer Nancy Chabot (Nancy.Chabot@jhuapl.edu)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2018 NASA PLANETARY SCIENCE SUMMER SEMINAR APPLICATIONS OPEN
+
+NASA is accepting applications - from science and engineering
+post-docs, recent PhDs, doctoral students, engineering students within
+6-9 months of completion of their master's degree but not planning to
+pursue a PhD degree, and junior faculty - for its 30th Annual Planetary
+Science Summer Seminar, which will be held August 6-10, 2018 at the Jet
+Propulsion Laboratory in Pasadena, Calif.
+
+During the program and pre-session webinars, student teams will carry
+out the equivalent of an early mission concept study, prepare a
+proposal authorization presentation, present it to a review board, and
+receive feedback. By the end of the session, students will have a
+clearer understanding of the life cycle of a space mission;
+relationships between mission design, cost, and schedule; and the
+tradeoffs necessary to stay within cost and schedule while preserving
+the quality of science.
+
+Applications are due April 2, 2018. Partial financial support is
+available for a limited number of individuals.
+
+Further information is available at:
+
+http://psss.jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] DRAFT SIMPLEX RELEASED FOR COMMUNITY COMMENT
+
+The planetary science division has released a draft SALMON-3 PEA for
+Small Innovative Missions for Planetary Exploration (SIMPLEx) for
+community comment. The draft text may be found on NSPIRES by searching
+open solicitations for "SIMPLEX" or by following this link:
+
+https://nspires.nasaprs.com/external/solicitations/summary%21init.do?
+solId=%7B0A4F21F7-08E3-B2B3-7DE3-0BF5FEE76B8E%7D&path=open
+
+The comments are due by March 14, 2018. Comments on the draft may be
+addressed to Doris.Daou@nasa.gov. Responses to all inquiries will be
+answered by email and also posted at the Frequently Asked Questions
+(FAQ) location of the SIMPLEx Program Acquisition website
+(https://soma.larc.nasa.gov/SIMPLEx/); anonymity of
+persons/institutions who submit questions will be preserved.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DEADLINE FOR DIVISION FOR PLANETARY SCIENCES OF THE AMERICAN
+ASTRONOMICAL SOCIETY PRIZES: APRIL 1, 2018 
+
+The DPS sponsors five prizes:
+
+The Gerard P. Kuiper Prize honors outstanding contributions to the
+field of planetary science.
+
+The Harold C. Urey Prize recognizes outstanding achievement in
+planetary research by a young scientist.
+
+The Harold Masursky Award acknowledges outstanding service to planetary
+science and exploration.
+
+The Carl Sagan Medal recognizes and honors outstanding communication by
+an active planetary scientist to the general public.
+
+The Jonathan Eberhart Planetary Sciences Journalism Award recognizes
+and stimulates distinguished popular writing on planetary sciences.
+
+DPS members and the planetary science community-at-large are encouraged
+to submit nominations for DPS prizes.
+
+A complete nomination submitted by the deadline will be considered by
+the Prize subcommittee for 3 years (i.e. for this year's award, next
+year's award, and the year after that), or for the duration of a
+candidate's eligibility, whichever is less. Please fill out the
+nomination form, and it will be submitted to the prize committee.
+
+The Eberhart Award has different rules and procedures than the other
+DPS Prizes, please see its page for more information.
+
+For rules and procedures, scroll to the bottom of: 
+
+https://dps.aas.org/prizes
+
+Questions: dpsprize@aas.org or lucy.mcfadden@verizon.net
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+ 
+The February image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Enigmatic Clastic Polygons on Mars". Contributed
+by Laura Brooker, Open University, Milton Keynes, UK.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+ 
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PELLAS-RYDER STUDENT PAPER AWARD NOMINATION DEADLINE EXTENDED TO 9 FEB
+2018
+
+The 2018 Pellas-Ryder award, which is sponsored jointly by the
+Meteoritical Society and the Planetary Geology Division of the
+Geological Society of America, will be awarded to an undergraduate or
+graduate student who is first author of the best planetary science
+paper published in a peer-reviewed scientific journal in 2017. The
+award has been given since 2001, and honors the memories of
+meteoriticist Paul Pellas and lunar scientist Graham Ryder.
+
+To nominate a student-led publication that was published in 2017, two
+letters of certification are required: (1) From the student's
+department head attesting that the individual was a student at the time
+of paper submission to the publishing journal; (2) From the student's
+advisor detailing the portion of the work done by the student and
+contributed by others including the advisor. Additional details are
+provided here: 
+
+http://rock.geosociety.org/pgd/pellas-ryder.html.
+
+Please email completed nomination packages (as PDF documents) to: Prof.
+Brad Thomson, 2017-2018 PGD Chair, bthom@utk.edu by Fri, Feb 9, 2018.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+THIRD PRE-PROPOSAL TELECONFERENCE - NASA FELLOWSHIP ACTIVITY 2018
+
+NASA Office of Education opened a call for graduate research proposals
+on January 17, 2018. The NASA Research Announcement (NRA) NNH18ZHA003N:
+NASA Fellowship Activity 2018 is seeking student authored and
+independently conceived graduate research proposals responding to a
+NASA Research Opportunity listed in the solicitation. 
+
+Proposals are due March 20, 2018.
+
+For full program details, visit:
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId={1CA633C8-7767-8658-6260-F318694A347B}&path=open
+
+Third informational webinar about this fellowship will be presented on
+Monday, February 05, 2018 at 10:00 am EST (7:00 am PT). The telecom
+number is 1-844-467-6272, and the passcode is 993012.
+
+2018 NASA Fellowship Pre-proposal Teleconf. 
+Monday, February 05, 2018
+10:00 am (Eastern Standard Time)
+
+Join WEBEX meeting at:
+
+https://nasa.webex.com/nasa/j.php?MTID=
+m7fa69012272ddb5c57eeb52a96e320a3 
+
+Meeting number: 991 498 453 
+Meeting password: @2018FELLOWS
+
+Please pre-read the solicitation document and submit possible questions
+to NASA.Fellowships@nasaprs.com. Responses to all inquiries will be
+answered by email and also posted at the Frequently Asked Questions
+(FAQ) located in the solicitation page in NSPIRES; anonymity of
+persons/institutions who submit questions will be preserved.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+LPI CELEBRATION CLARIFICATION
+
+LPI 50th Anniversary Celebration - An announcement for an upcoming,
+invitation-only science symposium and reception was erroneously
+published last week. While we would like to open these events to
+everyone, we are unfortunately constrained by available space and must
+limit attendance with individual invitations. Soon, we will be
+announcing a special web page for LPI 50th anniversary events, and we
+will post to that page some of the presentations from the symposium. In
+addition, during the year-long celebration of the LPI's 50th
+anniversary, we have planned several opportunities for the entire
+planetary community to celebrate with us. Through these many paths, we
+look forward to connecting with everyone.
+ 
+Thank you,
+ 
+Julie Tygielski
+Communications
+USRA-Lunar and Planetary Institute
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+FIRST ANNOUNCEMENT OF DIDYMOS OBSERVER WORKSHOP 2018
+ 
+2018 June 19-21
+Prague, Czech Republic 
+ 
+The binary near-Earth asteroid (65803) Didymos is the planned target
+for the Asteroid Impact & Deflection Assessment (AIDA,
+https://www-n.oca.eu/michel/AIDA/) mission. AIDA will be the first
+space experiment to demonstrate asteroid impact hazard mitigation by
+using a kinetic impactor to deflect an asteroid. It is an
+international cooperation, consisting of two mission elements: the NASA
+Double Asteroid Redirection Test (DART, http://dart.jhuapl.edu/)
+mission and the ESA Hera (previously known as AIM) rendezvous mission.
+
+Remote (mostly Earth-based) observations of Didymos are an important
+part of the mission. In this workshop, we will discuss observations for
+the 2019, 2020-2021, and 2022 apparitions of Didymos. We will discuss
+detailed plans and expected outcomes for 2019 observations and
+preliminary observing plans for the subsequent apparitions.
+
+Additional meeting information is available at:
+
+http://didymos2018-mtg.asu.cas.cz
+
+The full first announcement is available at:
+
+http://didymos2018-mtg.asu.cas.cz/didymosprague2018
+_firstannouncement.txt
+ 
+Dr. Petr Pravec (LOC chair)
+petr.pravec@asu.cas.cz 
+Dr. Cristina A. Thomas (SOC chair)
+cristina.thomas@nau.edu
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+TOPICAL CONFERENCE ON "DIFFERENTIATION: BUILDING THE INTERNAL
+ARCHITECTURE OF PLANETS"
+
+The Lunar and Planetary Institute is sponsoring a topical conference on
+"Differentiation: Building the Internal Architecture of Planets" in
+Pasadena CA, May 7-11, 2018. This meeting is the second in LPI's First
+Billion Years initiative. The focus of this conference is on
+understanding the physical and chemical conditions associated with the
+formation of crusts, cores, atmospheres, and oceans on both rocky and
+volatile-rich bodies. We seek input from many types of studies,
+including petrologic, isotopic, trace element, and paleo-magnetic
+analyses of samples, geophysical probes of planetary interiors, and
+experimental and numerical simulations. There will be an optional,
+pre-conference field trip to an anorthosite complex in the San Gabriel
+Mountains on May 7. The conference will consist of 3.5 days of
+presentations and discussion, May 8-11, ending by noon on May 11. One
+page abstracts are by March 1. Some travel support will be available
+for early career individuals (current students or less than three years
+since completion of the Ph.D.). Additional details are available at the
+conference website: 
+
+www.hou.usra.edu/meetings/differentiation2018
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+SEEKING NESSF REVIEWERS
+
+We are looking for reviewers for Planetary NESSF (NASA Earth and Space
+Science Fellowship) proposals. If you (or someone you know) would like
+to get review panel experience, or you want to try your hand at being a
+group chief, NESSF is a great place to start. Even if you are a more
+senior scientist and a panel pro but just want to help out of the
+kindness of your heart and a sense of duty to the community, we'd love
+to have you too! Help us show the newbies how it is done. NESSF covers
+nearly every topic in planetary science, so whatever your expertise is,
+we probably need it. These panels are done entirely virtually, no
+travel is required, and we pay you the usual honorarium. Volunteer form
+link here:
+
+https://science.nasa.gov/researchers/volunteer-review-panels/nasa-space
+-science-fellowship-proposals
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 20, 2018
+Virtual MEPAG Meeting
+https://mepag.jpl.nasa.gov/meetings.cfm
+Online
+
+May 16-18, 2018
+Advances in Space Mass Spectrometry for the Search of Extraterrestrial Signs of Life
+http://www.lestudium-ias.com/event/advances-space-mass-spectrometry-search-extraterrestrial-signs-life-0
+Orleans, France
+
+May 28-June 1, 2018
+Rosetta Workshop on Comts and Their Role in Solar System Formation
+https://www.cosmos.esa.int/web/rosetta-swt-49
+Rhodes, Greece
+
+June 19-21, 2018
+Didymos Observer Workshop
+http://didymos2018-mtg.asu.cas.cz
+Prague, Czech Republic 
+
+October 1-5, 2018
+High Resolution Spectroscopy for Exoplanet Atmospheres
+https://horse.sciencesconf.org
+Nice, France
+
+October 31-November 2, 2018
+Cosmic Dust and Magnetism
+http://coma.kasi.re.kr/cosdm2018/home.html
+Daejeon, South Korea
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

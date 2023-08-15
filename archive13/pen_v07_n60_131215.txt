@@ -1,0 +1,365 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 60 (December 15, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Space Weather Journal iPad App Now Available, Along with Radio 
+   Science and JGR Space Physics and Planets
+2. Debuting the Updated MEPAG Webpage
+3. Announcing the Cometary Coma Image Enhancement Facility
+4. Life Journal Special Issue - Planetary Exploration: Habitats and 
+   Terrestrial Analogs
+5. NASA Postdoctoral Fellowships
+6. [NASA] The Astrophysics Research and Analysis Program
+7. [NASA] Three-Day Training Course on Planetary Protection
+8. Input Requested: Planetary Science and the Hubble Space Telescope
+9. [NASA] Mars Science Laboratory Release 4
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SPACE WEATHER JOURNAL IPAD APP NOW AVAILABLE, ALONG WITH RADIO SCIENCE 
+AND JGR SPACE PHYSICS AND PLANETS
+
+The Space Weather Journal, published by AGU, is now available through 
+an iPad App. Joining the other AGU journals, including JGR Space 
+Physics and Planets, and Radio Science, you will now be able to
+access your Space Weather Journal subscription via compatible mobile 
+devices. Those without a subscription will enjoy the open 
+access articles. 
+
+Download the free apps:
+
+https://itunes.apple.com/us/app/space-weather-journal/
+id723016111?ls=1&mt=8 
+
+https://itunes.apple.com/us/app/radio-science/id684339676?mt=8 
+
+https://itunes.apple.com/us/app/journal-geophysical-research/
+id674229020?mt=8
+
+https://itunes.apple.com/us/app/journal-geophysical-research/
+id674312447?mt=8 
+
+Note that the apps will appear in the ipads Newstand. If you or your 
+institution has a subscription, you only need to synch it through 
+that account or address once every 3 months; you can then access the 
+content anywhere. 
+
+Space Weather: The International Journal of Research and Applications 
+is an online publication devoted to the field of space weather and 
+its impact on the design and operations of technical and engineered 
+systems, including telecommunications, electric power, and satellite
+navigation. The journal's readers include engineers, system operators, 
+systems designers, space weather forecasters, space weather modelers, 
+as well as the solar and space physics research community.
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+DEBUTING THE UPDATED MEPAG WEBPAGE
+
+To Members of the Mars exploration community,
+
+We invite you to visit the updated MEPAG webpage: 
+
+http://mepag.jpl.nasa.gov/
+
+We hope that this redesign makes the site easier to navigate and more 
+aesthetically pleasing. In general, content has not been altered 
+(just updated), with the exception of the expanded "About Us" section 
+which provides more information about the MEPAG Committee members. 
+We welcome any comments you have about the structure, content, and 
+organization of this site -- you can submit it under the "Contact Us" 
+link at the bottom of the webpage. 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ANNOUNCING THE COMETARY COMA IMAGE ENHANCEMENT FACILITY
+
+This facility hosted by PSI and available at the URL:
+
+http://www.psi.edu/research/cometimen 
+
+will enable cometary researchers to digitally enhance coma images of 
+comets using five different image enhancement techniques that are not 
+widely available in the public domain.
+
+Users can upload their images in FITS format and can download the 
+enhanced FITS images. Please refer to documentations in the help page 
+at the website for details.
+
+Nalin Samarasinha, Patrick Martin, Steve Larson
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LIFE JOURNAL SPECIAL ISSUE - PLANETARY EXPLORATION: HABITATS AND
+TERRESTRIAL ANALOGS
+
+Planetary exploration is moving at a fast pace as we learn about 
+environmental conditions on various planetary bodies in our solar 
+system and beyond. Habitable conditions at some time during the 
+history of the solar system have been proposed to have existed on 
+Mars, Venus, and a number of icy moons of the outer solar system, 
+some of which may still exist today. For this "LIFE" Special Issue,
+we particularly encourage submissions describing habitable conditions 
+on planetary bodies and of how life could have interacted with them; 
+also a description of analog environments on Earth from which we can 
+learn about possible adaptations and life strategies on other 
+planets and moons.
+
+Manuscripts can be submitted until the deadline (30 May 2014). Papers 
+will be published continuously (as soon as accepted) and will be 
+listed together on the special issue website. Research articles, 
+review articles as well as communications are invited. For planned 
+papers, a title and short abstract (about 100 words) can be sent to 
+the Editorial Office for announcement on the website.
+
+More information: 
+
+http://www.mdpi.com/journal/life/special_issues/terrestrial-analogs
+
+Dirk Schulze-Makuch & Alberto G. Fairen
+Guest Editors 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+An sample research opportunities in planetary science is:
+
+https://www3.orau.gov/NPDoc/Catalog/17702        
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+
+The latest NPP Newsletter: http://bit.ly/18GSlHK
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] THE ASTROPHYSICS RESEARCH AND ANALYSIS PROGRAM
+
+This amendment permits proposals for development of new data analysis 
+methods for future space missions to APRA, see Section 1.2.3, and 
+also corrects dates for Sounding Rocket launches from Woomera, see 
+Section 1.2.1.1. Budget instructions for Co-I proposals are clarified 
+in several places. Instructions for the use of the Wallops Arc-second 
+Pointing System are clarified, see Section 1.2.1.2. This Amendment 
+also removes the portion of this solicitation on Laboratory 
+Astrophysics proposals of potentially larger scope that address 
+the acquisition of data for understanding the molecular universe at 
+infrared and submillimeter wavelengths (see Section 1.2.4). The 
+funding level for Laboratory Astrophysics indicated in the table 
+in section 2.1 of element D.3 remains unchanged. This amendment 
+also changes the point of contact for Infrared, Submillimeter, 
+and Radio Astrophysics (see Section 3). New text is in bold and 
+deleted text is struck through. The due dates for NOIs and proposals
+remain unchanged at January 24, 2014, and March 21, 2014, respectively.
+
+Announcement #: NNH13ZDA001N
+
+http://nspires.nasaprs.com/ 
+
+RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2013
+
+Questions:
+Michael R. Garcia
+202-358-1053
+Michael.R.Garcia@nasa.gov
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] THREE-DAY TRAINING COURSE ON PLANETARY PROTECTION
+
+Course: "Planetary Protection: Policies and Practices"
+Dates: March 11-13, 2014
+Location: Kennedy Space Center, Florida
+
+We cordially invite all interested parties to participate in the 
+upcoming course on Planetary Protection Policies and Practices, which 
+is designed to familiarize current and future practitioners with NASA, 
+ESA, and COSPAR planetary protection programs. The course provides an 
+overview of applicable policies, practices and procedures necessary to 
+implement a successful planetary protection program, emphasizing 
+integration of managerial, administrative, and laboratory activities. 
+It is supported by the NASA Planetary Protection Officer.
+
+Enrollment: 14 participants
+Application: contact Amy Baker at tasalb@msn.com
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INPUT REQUESTED: PLANETARY SCIENCE AND THE HUBBLE SPACE TELESCOPE
+
+Solar System observations have played a major role in HST's science 
+program since its launch in 1990, but in recent years the overall 
+proposal pressure has declined. After consultation with the Space 
+Telescope Users Committee, STScI's Director, Matt Mountain, has 
+constituted an advisory committee to examine this issue and provide 
+advice on future strategies for planetary science programs with HST. 
+The committee is chaired by Prof. Phil Nicholson (Cornell) and the 
+committee members are Michele Bannister (U. Victoria), Bonnie Buratti 
+(JPL), Marc Buie (SWRI), Jean-Luc Margot (UCLA), Stefanie Milam 
+(GSFC) and Glenn Orton (JPL).
+
+The committee is charged with:
+* Reviewing the evolution of HST usage by the planetary community;
+* Soliciting input on the future role that HST can play in planetary 
+  science and on methods for increasing participation by the solar 
+  system community; and
+* Investigating potential mechanisms for coordinating HST science 
+programs with priorities among the planetary community.
+
+We would like to solicit suggestions from the community on ways that 
+HST could better support planetary science. Please submit your 
+suggestions either in text form or as short white papers to 
+hstsolarsys@stsci.edu, or contact any committee member.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] MARS SCEINCE LABORATORY RELEASE 4
+
+The NASA Planetary Data System announces the fourth release of data
+from the Mars Science Laboratory (MSL) mission, covering data acquired
+from Sol 270 through Sol 359 (May 9, 2013, to Aug 10, 2013).
+
+This release consists of raw and derived data sets from the following
+instruments:
+ APXS
+ ChemCam
+ CheMin
+ DAN
+ Hazcam
+ MAHLI
+ MARDI
+ Mastcam
+ Navcam
+ RAD
+ REMS
+ SAM
+ SPICE
+
+To access the above data for this release:
+
+http://pds.nasa.gov/subscription_service/SS-20131213.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site:
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+The data may also be reached from the main PDS home page:
+
+http://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria.
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events.
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 7, 2014
+Using Radar Imagery for Meteorite Fall Detection and Recovery
+http://www.metsoc2014casablanca.org/workshops.php
+Casablanca, Morocco
+
+September 8-11, 2014
+Electrification in Dusty Atmospheres Inside and Outside the Solar 
+System
+http://leap1.sciencesconf.org/
+Pitlochry, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

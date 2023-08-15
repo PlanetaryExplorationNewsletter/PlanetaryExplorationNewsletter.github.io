@@ -1,0 +1,802 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 1 (January 7, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Karen R. Stockstill-Cahill, Mark V. Sykes  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Date Change: Ninth International Conference on Mars
+2. Summer Internships at Johns Hopkins Applied Physics Lab (APL)
+3. Planetary Geomorphology Image of the Month
+4. AOGS Session PS-08: Polarization as a Tool for Exploration of Earth,
+   Solar System and Beyond
+5. AOGS Session PS-14: Planetary Data in the Big Data Era
+6. AOGS Session PS-18: Understanding Icy Worlds, Ocean Worlds, and
+   Habitability
+7. AOGS Session PS-19: Rosetta, Comets, and Other Icy Bodies
+8. EGU Session: Small Bodies (Dwarf Planets, Asteroids, Comets) to Dust
+9. EGU Session: Accretion, Differentiation and Volatiles -
+   Constraints on Terrestrial Planets
+10. [NASA] HQ Planetary Program Scientist - Science Mission Directorate
+11. [NASA] Job Opening in Laboratory Astrochemistry
+12. [NASA] PDS: Odyssey Data Release 62
+13. [NASA] PDS: Cassini Data Release 52
+14. NASA FDL Workshop Announces Call for Research Ideas
+15. USRA/LPI Postdoctoral Fellow in Planetary Surface Processes
+16. Dusty Visions 2018: First Announcement
+17. COSPAR 2018 Session: Pluto and Charon: The New Horizons Mission
+    Results
+18. COSPAR 2018: Ice Giant Systems
+19. COSPAR 2018: Mars Science Results
+20. Department Head, Purdue EAPS
+21. Magnetometry Scientist Position
+22. 9th Workshop on Catastrophic Disruption in the Solar System (CD9)
+23. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+DATE CHANGE: NINTH INTERNATIONAL CONFERENCE ON MARS
+
+July 22-26, 2019
+Pasadena, California                                                             
+ 
+Attention, all interested members of Mars science and exploration,
+industry, and educator communities: to avoid scheduling conflicts with
+other important meetings, the Ninth International Conference on Mars,
+previously scheduled for July 15-19, 2019, has been rescheduled to July
+22-26, 2019. In addition to discussing science results from past and
+active robotic missions, telescopic studies, laboratory analyses of SNC
+meteorites, terrestrial analog studies, and numerical models, we
+anticipate new geophysical understanding gained from the InSight
+mission, as well as a review of objectives for several spacecraft
+scheduled for launch in 2020 from public, private, and international
+institutions.
+                                                          
+If you have questions, please contact either Kira Honnoll              
+(khonnoll@hou.usra.edu) or James Ashley (james.w.ashley@jpl.nasa.gov). 
+                                                                       
+https://www.hou.usra.edu/meetings/ninthmars2019/                       
+                                                                       
+Important: Please submit an Indication of Interest to be added to the
+mailing list to receive reminders and other pertinent information about
+this conference:
+
+https://www.hou.usra.edu/meeting_portal/iofi/?mtg=ninthmars2019                                                       
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SUMMER INTERNSHIPS AT JOHNS HOPKINS APPLIED PHYSICS LAB (APL)
+ 
+The Space Exploration Sector of The Johns Hopkins University Applied
+Physics Laboratory (APL) in Laurel, MD is now accepting applications
+for the APL NASA Intern Program. Rising sophomores through Ph.D.
+students as of fall 2018 who are selected will contribute to
+NASA-related missions and research work. Talks by key mission engineers
+and scientists, along with tours of APL and other activities, will be
+provided. Applicants must be U.S. citizens, be in high academic
+standing (3.0 GPA or higher), and have successfully passed a background
+check. Applications are due by March 30, 2018; however, selections are
+made on a continuous basis, so interested students should apply as
+early as possible. For more information, please visit: 
+ 
+http://www.jhuapl.edu/NASAIntern/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+Happy New Year! The January image of the month is now available at the
+IAG's Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Active gullies on Mars". Contributed by Dr.
+Colin Dundas, U.S. Geological Survey, Astrogeology Science Center.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Susan Conway and Tjalling de Haas (on behalf of the IAG Planetary
+Geomorphology working group)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AOGS SESSION PS-08: POLARIZATION AS A TOOL FOR EXPLORATION OF EARTH,
+SOLAR SYSTEM AND BEYOND
+
+Asia Oceania Geosciences Conference 2018
+June 3 - 8, Honolulu, Hawaii
+Abstract submission deadline: January 19, 2018
+
+You are cordially invited to participate in the AOGS-2018 meeting and
+submit your abstracts to Session PS08 "Polarization as a Tool for
+Exploration of Earth, Solar System and Beyond."
+
+Polarimetry is a powerful observing tool and modeling technique,
+providing information about astronomical objects that cannot be
+obtained by traditional photometric/spectroscopic observations.
+Applications range from characterization of solar system objects (Sun,
+Earth, planetary atmospheres, aurorae, comets, asteroids, planetary
+satellites/ring systems, dust, etc.) to the detection of exoplanets and
+identification of biological markers in search of habitability. This
+session is open to papers about observations of solar system bodies,
+protoplanetary disks, exoplanets, theoretical or experimental
+investigations, instrument developments for ground-based facilities or
+future space missions.
+
+Conveners: Padma A.Yanamandra-Fisher (US), Ludmilla Kolokolova (US),
+Lucyna Chudczer (Australia), Shashikiran Ganesh (India), Svetlana
+Berdyugina (Germany).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS SESSION PS-14: PLANETARY DATA IN THE BIG DATA ERA
+ 
+Asia Oceania Geosciences Conference 2018
+June 3 - 8, Honolulu, Hawaii
+Abstract submission deadline: January 19, 2018
+
+Conference website:
+
+http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm
+ 
+This session is about all aspects related to planetary science data,
+including, but not limited to, data collection, cataloging, archiving,
+sharing, searching, manipulation, mining, and the related software
+tools. We welcome abstracts on any data-related topics. A tremendous
+amount of data is being generated every day in planetary science
+researches. Data technologies are playing more and more important roles
+in planetary researches, especially in the big data era. Archiving and
+public release of all data from planetary science exploration missions
+as well as ground-based observing and laboratory facilities have been
+recognized to be of great importance and broad community interest. Data
+archives provide long-term preservation of a broad variety of raw and
+high-level data products, with the ultimate goal of facilitating
+analyses using data covering long time-baselines and multiple
+observations for the new phenomena and scientific objectives emerging
+in future times. The collection, archiving, and public release of
+ever-growing amount of planetary data will ultimately enable the
+applications of big data technologies in planetary science research.
+This session is a forum to discuss the new developments in activities,
+technologies, and concepts related to planetary science data.
+ 
+Conveners: Jian-Yang Li (Planetary Science Institute, United States),
+Ludmilla Kolokolova (University of Maryland, United States), Sebastien
+Besse (ESA, Spain)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AOGS SESSION PS-18: UNDERSTANDING ICY WORLDS, OCEAN WORLDS, AND
+HABITABILITY
+ 
+Asia Oceania Geosciences Conference 2018
+June 3 - 8, Honolulu, Hawaii
+Abstract submission deadline: January 19, 2018
+Conference website:
+
+http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm
+
+This session will be devoted to understanding icy worlds in the outer
+solar system, including those containing subsurface oceans, their
+possible analogues around other stars, and their associated processes
+and geochemistry that might enable them to support life. The session
+will include solicited and contributed presentations addressing
+observational, laboratory, and theoretical studies relevant to past,
+ongoing, and future missions.
+
+Relevant subtopics include:
+(1) interior structure, composition, and thermal evolution,
+(2) surface geology and composition,
+(3) orbital dynamics and tidal interactions
+ 
+Confirmed Invited Speakers:
+Gael Choblet, University of Nantes
+Isamu Matsuyama, Arizona State University
+Orkan Umurhan, NASA Ames Research Center
+ 
+Conveners: Steven D. Vance, Jet Propulsion Laboratory, California
+Institute of Technology Mathieu Choukroun, Jet Propulsion Laboratory,
+California Institute of Technology Athena Coustenis, French National
+Centre for Scientific Research Jun Kimura, Osaka University Frank Sohl,
+DLR Berlin
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AOGS SESSION PS-19: ROSETTA, COMETS, AND OTHER ICY BODIES
+
+Asia Oceania Geosciences Conference 2018
+June 3 - 8, Honolulu, Hawaii
+Abstract submission deadline: January 19, 2018
+Conference website:
+
+http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm
+
+In this session we aim to understand the formation, evolution and
+diversity of icy bodies large and small and place them into context
+with the rest of the solar system. These distant, cold worlds are slow
+in divulging their secrets. Space missions flying past and orbiting the
+giant planets have revealed a diverse icy satellite system, with some
+clearly showing activity. The ROSETTA mission revealed many of the
+secrets of comet 67P/C-G, and more icy active bodies are regularly
+found inside of Jupiter's orbit. In recent years, ground-based
+observations have also made rapid progress in detecting water-related
+features. It is an exciting time to synthesize what we have learnt so
+far, highlight key points of agreement and contention, and to provide
+recommendations for future studies. We aim to integrate views and data
+from space missions, thermal and internal modeling, dynamics and
+observations to formulate a coherent picture of the state of icy bodies
+in the solar system and what they can tell us about the formation and
+evolution our own world.
+
+Conveners: Bin Yang (Chinese Academy of Sciences, China), Arika Higuchi
+(National Astronomical Observatory of Japan, Japan), Ramon Brasser
+(Earth Life Science Institute, Japan)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EGU SESSION: SMALL BODIES (DWARF PLANETS, ASTEROIDS, COMETS) TO DUST
+
+Please consider submitting an abstract to the following session at the
+European Geosciences Union General Assembly 2018, to be held in Vienna
+from 8 - 13 April 2018:
+
+GMPV2.7/PS1.12 Accretion, Differentiation and Volatiles: constraints on
+terrestrial planets
+
+The deadline for submission of abstracts is 13:00 CET January 10th, 2018
+
+Submission URL:
+
+https://www.egu2018.eu
+
+Conveners: Ingrid Mann (Tromso, Norway) Johan De Keyser (Brussels,
+Belgium) Mihaly Horanyi (Boulder, USA)
+
+The scope of this session covers all aspects of dwarf planets and small
+solar system objects, e.g. comets, asteroids, dust and meteoroids.
+Topics are not limited to, but include dynamics, evolution, physical
+properties, and interactions. You are invited to present results
+obtained from space missions, observations, laboratory studies, theory
+and numerical simulations. This session also provides a forum for
+presenting future space instrumentation and research results should be
+presented taking into account the multi-disciplinary of the field.
+
+Please also forward this to your colleagues in the field.
+
+Best Regards, 
+
+Ingrid Mann, Johan De Keyser, and Mihaly Horanyi
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EGU SESSION: ACCRETION, DIFFERENTIATION AND VOLATILES - CONSTRAINTS ON
+TERRESTRIAL PLANETS
+
+Please consider contributing to session GMPV2.7/PS1.12 at EGU.
+
+Deadline: 10 January 2018
+
+Submission URL:
+
+https://www.egu2018.eu
+
+Convenors: Helene Bureau, Mohamed Ali Bouhifd, Ramon Brasser, George
+Helffrich, Vincenzo Stagno
+
+This session aims to provide a multidisciplinary view on the earliest
+stage of the formation, dynamics and chemistry of the Earth and inner
+planets, and on the modern volatile cycling in the deep Earth.
+Session description: The early evolution of the Solar System witnessed
+the emergence of planetesimals, followed by the assembly of
+differentiated protoplanets and eventually the coalescence into the
+embryonic terrestrial planets. Much remains unclear of the nature of
+this primordial accretion and evolution. More especially, about the
+significant role played by volatile elements (H, C, N, S, halogens) that
+are significant ingredients necessary for the habitability of planets.
+The storage and cycling of volatiles in Earth and other planetary bodies
+depend on the structure and stability of volatile-bearing minerals and
+fluid/melts at high pressure and temperature either at mantle or core
+conditions. The origin and behaviour of volatiles during Earth's
+accretion and its differentiation is determinant but still not well
+constrained.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] HQ PLANETARY PROGRAM SCIENTIST - SCIENCE MISSION DIRECTORATE
+
+NASA Science Mission Directorate positions for Program Scientists in
+the Planetary Science Division are now open. The Planetary Science
+Division (PSD) is encouraging the community to join the division in
+supporting the Nation's scientific exploration of our Solar System. The
+PSD is responsible for disciplines that studies geology and geophysics,
+cosmochemistry, planetary astronomy and atmospheres, Mars exploration,
+astrobiology, planetary instrument technology development, and
+planetary data investigations.
+
+Program scientists are expected to perform a range of planning duties
+in the Planetary Missions and Research and Analysis (R&A) Programs.
+Duties may include: Developing, reviewing, and providing
+recommendations for proposed program requirements, expected results,
+and budgetary estimates; Initiating and monitoring research contracts,
+grants, and cooperative agreements; Providing expert advice to
+management on strategic planning and program development. Program
+Scientists will represent scientific disciplines to NASA senior
+management and serve as advocates for the communities' scientific
+interest.
+
+These positions are being filled at the GS/14-15 level (salary range
+$112,021 - $161,900). 
+
+Applications will be accepted only through February 2 at:
+
+http://USAJobs.gov
+
+For current Federal employees: NASA Announcement Number HQ18C0015
+
+http://www.usajobs.gov/GetJob/ViewDetails/487663600
+
+For US citizens and US nationals: NASA Announcement Number HQ18D0004
+
+http://www.usajobs.gov/GetJob/ViewDetails/487663800
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA JOB OPENING IN LABORATORY ASTROCHEMISTRY
+
+A NASA civil-servant position is available in the NASA Goddard Space
+Flight Center's Astrochemistry Laboratory in Greenbelt, Maryland. The
+work will be in the Cosmic Ice group on problems relevant to
+low-temperature, low-pressure chemical changes and physical properties
+related to solar-system and interstellar materials. For information on
+the group's recent work, see the Cosmic Ice Laboratory's website at:
+
+https://science.gsfc.nasa.gov/691/cosmicice/
+
+Candidates should have good oral and written communications skills,
+laboratory experience in cryogenic, vacuum, and infrared spectral
+measurements, and preferably some familiarity with radiation-chemical
+or photochemical studies. Duties in this research position will include
+investigating astrochemical problems connected to NASA missions and
+projects.
+
+This position will be at the GS-13 level or, depending on the
+applicant's qualifications, GS-14. Interested persons can apply now at:
+
+https://www.usajobs.gov/GetJob/ViewDetails/487185400
+
+until 01/31/2018. US citizenship at the time of the application is a
+requirement for this position.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] PDS: ODYSSEY DATA RELEASE 62
+
+The Planetary Data System (PDS) is pleased to announce a new delivery of
+Odyssey Data, Release 62, for the following instruments:
+
+THEMIS
+RADIO SCIENCE (Releases 183-185)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer
+returns data. The HEND and neutron spectrometer components continue to
+operate - their data have been delayed and will be released by January
+15
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20180102.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+  
+  
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS: CASSINI DATA RELEASE 52
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 52, January to March 2017, for instruments:
+
+CDA
+CIRS
+ISS
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+HRD, INMS, MAG, and MIMI data will be available soon.
+
+Please note that while the data products from this release are
+available online now through the links below, they may not be
+immediately accessible through PDS web services such as the Planetary
+Image Data Atlas. Large data sets may take as long as a few days beyond
+the formal release date to be incorporated into these services. Check
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20180103.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+  
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NASA FDL WORKSHOP ANNOUNCES CALL FOR RESEARCH IDEAS
+ 
+On behalf of the NASA Frontier Development Lab, and our corporate
+partners (Intel, Lockheed Martin, IBM, KX Solutions, NVIDIA, Miso
+Technologies), the SETI Institute is requesting ideas and inputs for
+research questions for the 2018 FDL Summer Workshop.
+ 
+FDL is a research accelerator for early-career PhDs and Postdocs in
+Artificial Intelligence and science domains relevant to NASA's research
+interests. FDL brings together amazing talent from industry, academia
+and the broader research community to apply the latest advances in
+machine learning and AI, to basic and applied research problems. 
+Previous workshops have addressed questions in space weather, space
+resources, meteorites, and NEO characterization. New research topics
+within these domains are being sought, as well as in the domains of
+astrobiology, space debris, and earth observations. Other relevant
+topics that lend themselves to the FDL format will also be considered,
+including genomics and human biology related to space flight.
+ 
+For more information and to submit your ideas and proposals, see the
+following link:
+ 
+https://seti.org/submit-ideas-for-2018-fdl-summer-workshop
+ 
+Deadline for submittals is January 22, 2018.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+USRA/LPI POSTDOCTORAL FELLOW IN PLANETARY SURFACE PROCESSES
+
+The Universities Space Research Association's Lunar and Planetary
+Institute invites applications for a postdoctoral fellow in modeling of
+planetary surface processes.
+
+The successful candidate will join Dr. Edgard Rivera-Valentin in
+several projects related to simulating planetary surface process on
+Mars and the icy moons of Saturn. Projects are interdisciplinary in
+nature and involve numerical simulations of planetary surface processes
+and responsibilities in spacecraft data analysis and data management.
+Applicants should have a recent Ph.D. in planetary science, astronomy,
+physics, geosciences or a related field. Experience in numerical
+modeling and proficiency in programming languages is required;
+experience with MATLAB and IDL is desirable. Candidates with
+demonstrated experience in a wide array of subfields in planetary
+science are encouraged to apply. Candidates from underrepresented
+groups in STEM and those with a demonstrated history of efforts to
+improve diversity and inclusion in STEM are particularly encouraged.
+
+Interested applicants should apply to the posting at
+
+https://usracareers.silkroad.com/
+
+and must submit a cover letter, CV with list of publications, a
+statement of research interests and plans, and a list of at least three
+professional references. Review of candidates will begin on March 21,
+2018.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+DUSTY VISIONS 2018: FIRST ANNOUNCEMENT
+
+An international workshop on Dust Spectroscopy and Dust Astronomy to be
+held from 30 May to 1 June 2018 in Madrid, Spain.
+
+https://www.cosmos.esa.int/web/dusty-vision/home
+ 
+In a workshop style we want to discuss the present state and new venues
+in cosmic dust research. There are exciting new results from Cassini,
+Rosetta, New Horizons, Ikaros, Stardust, Spitzer, Herschel, STEREO and
+other space missions that stimulate new ideas and theories. Major
+topics of the workshop will include interstellar dust, circumplanetary
+dust including dusty rings and space debris, presolar and cometary
+dust, plumes, dust in interplanetary space, dusty plasmas, dust in
+extrasolar systems as well as laboratory measurements, instrumentation
+and space missions. In situ and observational results, theoretical
+models, and the outcome of laboratory experiments will be discussed and
+their implications for future space missions will be highlighted.Of
+special emphasis is cosmochemistry and compositional analysis of dust
+in view of the Cassini and Rosetta results and the upcoming Europa and
+Destiny+ mission.
+
+Please indicate your interest to receive the second announcement by
+sending an e-mail to:
+
+srama@irs.uni-stuttgart.de 
+and
+nicolas.altobelli@sciops.esa.int
+ 
+Note: The workshop will be opened for registration after the second
+announcement.
+ 
+-Science Organizing Committee
+
+[Edited for length]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+COSPAR 2018: PLUTO AND CHARON - THE NEW HORIZONS MISSION RESULTS
+
+14-22 July 2018
+Pasadena, California
+
+The session will consist of six solicited review papers and ten or more
+contributed papers. While the review papers will focus on results and
+insights from New Horizons, contributed papers on Pluto, Charon, and
+Kuiper Belt objects both related to the mission, as well as those  not
+specific to the spacecraft results will be considered. Papers will be
+selected for presentation from the abstracts received, and notification
+of selected papers will be sent to authors on March 31, 2018, together
+with the final program. The specific date for Session B1.2 has not yet
+been assigned.
+
+Abstracts for contributed presentations at Session B1.2 are due on
+February 9, 2018, and must be submitted on the COSPAR website. Full
+details for abstract submission, as well as the detailed description of
+the content of the session are available at:
+
+https://www.cospar-assembly.org
+
+Session organizers:  Dale Cruikshank and Alan Stern
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+COSPAR 2018: ICE GIANT SYSTEMS
+
+Abstracts due Feb 9, 2018
+
+Commission B, Event B5.4:  
+
+https://www.cospar-assembly.org/admin/session_cospar.php?session=810   
+
+With the culmination of the unprecedented simultaneous exploration of
+two gas giant planets by Juno and Cassini, the time has come for the
+first comprehensive exploration at the next frontier of our Solar
+System:  the ice giants, Uranus and Neptune. These tantalising
+destinations provide extreme atmospheric configurations (one powered by
+internal heat, the other experiencing the strangest seasons in the
+Solar System), magnetospheres unlike any other worlds, fine-scale and
+delicate rings, and a plethora of icy satellites that might be expected
+to be just as rich as those found orbiting the giant planets. Recent
+orbital, flyby, and probe mission concepts and ground- and space-based
+observations have helped to reignite scientific interest in the
+international community.
+
+We invite presentations discussing new insights and future
+observational and mission requirements for the Solar System ice giant
+planets. We welcome presentations on ice giant topics including
+observational and theoretical studies of planetary origins and
+interiors; atmospheric dynamics and meteorology; chemistry and
+composition; magnetospheres and auroras; and wider ice giant system
+science (icy satellites and rings). Presentations on future mission
+concepts for these distant worlds are also encouraged.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+COSPAR 2018: MARS SCIENCE RESULTS
+ 
+Dear Colleague,
+ 
+We invite you to submit an abstract to the COPSAR - Mars Science
+Results session (B4.1), due Feb. 9, 2018. COSPAR will be held July
+14-22, 2018 in Pasadena, CA. Mars has been extensively studied using
+spacecraft data, theoretical modeling, laboratory studies, and
+comparative planetology over the last several decades. As of this
+time, there are six operating orbiters (ODY, MEx, MRO, MAVEN, MOM, and
+TGO) and two operating rovers (Opportunity and Curiosity) exploring
+Mars' atmosphere, surface, and subsurface to understand the planet's
+history and habitability. The InSight spacecraft, designed to probe
+the deep interior of Mars, is planned to land in late 2018. This
+session will address new science resulting from these missions, as well
+as studies reliant on theory, modeling, laboratory studies, and
+comparative planetology. For more information and for complete
+descriptions and abstract submission instructions see the Assembly web
+page:
+
+https://www.cospar-assembly.org/
+
+or the printed Call for Papers (August 2017 issue of Space Research
+Today).
+ 
+Sincerely,
+Leslie Tamppari, Main Scientific Organizer
+(leslie.tamppari@jpl.nasa.gov)
+Oleg Koralev, Deputy Scientific Organizer (korab@iki.rssi.ru)
+
+[Edited for length] 
+ 
+ 
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+ 
+DEPARTMENT HEAD, PURDUE EAPS
+
+Purdue University invites applications for the position of Head of the
+Department of Earth, Atmospheric, and Planetary Sciences (EAPS) to
+start as early as August 2018. We seek a recognized researcher with a
+proven track record of leadership, vision, and mentoring. 
+
+Further information about Purdue EAPS:
+
+https://www.eaps.purdue.edu/
+
+Full job ad:
+
+http://www.eaps.purdue.edu/docs/employment/EAPS%20Head%20Search%
+20Appoved%20Ad.pdf
+
+Contacts:
+Ken Ridgway, ridge@purdue.edu, Chair of EAPS Head Search Committee
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+MAGNETOMETRY SCIENTIST POSITION OPEN
+
+The Planetary Magnetospheres Laboratory of the Solar System Exploration
+Division (SSED) at NASA Goddard Space Flight Center (GSFC) located in
+Greenbelt, Maryland has a position open for a Magnetometry Scientist,
+at either the Junior or mid-career levels. The Solar System Exploration
+Division conducts theoretical and experimental research to explore the
+solar system and understand the formation and evolution of planetary
+systems. For more information about the duties of this position and
+requirements or to apply please see (GS-13 position):
+
+http://www.usajobs.gov/GetJob/ViewDetails/487865100
+
+and (GS-15 position):
+
+https://www.usajobs.gov/GetJob/ViewDetails/487885200
+ 
+We will be hiring a single individual, at either a junior or mid-career
+level, to fill this position. More Information about the SSED can be
+found at:
+
+http://science.gsfc.nasa.gov/solarsystem
+
+Specific questions about the SSED and this position can be directed to
+Michael.e.purucker@nasa.gov
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+9TH WORKSHOP ON CATASTROPHIC DISRUPTION IN THE SOLAR SYSTEM (CD9)
+
+Date: May 14 - 17, 2018
+Place: Kobe, Japan
+
+http://www.impact-res.org/CD2018/Catastrophic_Disruption_2018/Welcome.
+html
+
+CD9 will bring together experts from around the world who study the
+catastrophic disruption in the Solar System through simulations and
+modeling, laboratory experiments and scaling laws, meteorites, and
+telescopic observations and space missions to share their recent
+results and discuss new ideas. CD9 will take place over 3 and 1/2
+days, with both morning and afternoon sessions on May 14, 15 and 17,
+and a morning session on May 16. The program will include both invited
+and contributed talks divided across the following four research areas:
+
+1- Observations and Missions
+2- Experiments and Scaling Laws
+3- Simulations/Modeling
+4- Meteorites
+
+IMPORTANT DATES:
+
+Abstract submission and registration open: Jan. 9, 2018
+Deadline for abstracts and early registration: Feb. 28, 2018
+Final deadline for registration, and excursion & banquet: April 9, 2018
+For more information:
+
+http://www.impact-res.org/CD2018/Catastrophic_Disruption_2018/
+Welcome_files/2nd_announcement.html
+
+Patrick Michel & Akiko Nakamura, on behalf of the organizing committee
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 6-8, 2018
+Challenge to Super-Earths and Their Atmospheres
+http://th.nao.ac.jp/meeting/dta2018/index.html
+Tokyo, Japan
+
+May 30-June 1, 2018
+Dusty Visions - 2018
+https://www.cosmos.esa.int/web/dusty-vision/home
+Madrid, Spain
+
+July 15-August 5, 2018
+Unveiling the Physics of Protoplanet Formation: Connecting Theory to Observations
+http://aspenphys.org/physicists/summer/program/currentworkshops.html
+Aspen, CO
+
+July 22-26, 2019
+Ninth International Conference on Mars
+https://www.hou.usra.edu/meetings/ninthmars2019
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

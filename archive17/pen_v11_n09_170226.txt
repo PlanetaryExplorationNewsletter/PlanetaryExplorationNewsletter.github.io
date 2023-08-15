@@ -1,0 +1,316 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 9 (February 26, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Information Session at LPSC on Post-Doc Opportunities at NASA 
+   Goddard
+2. New MEPAG Goals Committee Chair
+3. Far Infrared Next Generation Instrumentation Community Workshop
+4. Planetary GIS Data Specialist Sought
+5. Venus Modeling Workshop - Abstract Deadline Extension
+6. NASA Postdoctoral Fellowships
+7. NASA Postdoctoral Fellowships External Reviewers Needed
+8. Nominations for NASA Federal Advisory Committees 
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+INFORMATION SESSION AT LPSC ON POST-DOC OPPORTUNITIES AT NASA GODDARD
+
+Are you interested in a postdoctoral position at NASA's Goddard Space 
+Flight Center? Join scientists from Goddard's Solar System Exploration 
+Division (http://science.gsfc.nasa.gov) for an information session at 
+LPSC on Tuesday, March 21st at Noon in the Grogans Mill Room. We'll 
+discuss available opportunities and pathways, through the NASA 
+Postdoctoral Program, cooperative agreements, and the NAI and SSERVI, 
+as well as professional development opportunities like the Planetary 
+Science Winter School, and other aspects of Goddard that make it a 
+great place to work.
+
+If you can't make the lunchtime meeting, we will also hold an informal 
+gathering prior to the Tuesday evening poster session for those that 
+would like to talk more, or who can't make the noontime meeting. We 
+will meet at Grimaldi's Pizza at 5:00 PM for food and discussion.
+
+Please email Noah Petro (Noah.E.Petro@nasa.gov) if you have any 
+questions.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NEW MEPAG GOALS COMMITTEE CHAIR
+
+Mars community members,
+
+We are pleased to announce that Dr. Don Banfield (Cornell University) 
+has agreed to serve as the next MEPAG Goals Committee Chair. 
+Dr. Banfield is an atmospheric scientist, who has studied the giant 
+planets and Mars from both remote sensing and in situ perspectives. 
+He has been associated with the Voyager flyby of Neptune, Galileo at 
+Jupiter, and the MER Rovers; was a Participating Scientist for Mars 
+Polar Lander and Mars Reconnaissance Orbiter; and is a Co-I on InSight. 
+He succeeds Dr. Victoria Hamilton (Southwest Research Institution), who 
+we deeply thank for the years of service that resulted in two MEPAG 
+Goals Document revisions (2012 and 2015).
+
+The full listing of MEPAG Goals Committee members can be found at: 
+
+https://mepag.jpl.nasa.gov/about.cfm
+
+Thank you,
+
+Dr. Jeffrey R. Johnson
+MEPAG Chair
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FAR INFRARED NEXT GENERATION INSTRUMENTATION COMMUNITY WORKSHOP
+
+Thursday, March 23, 2017
+Caltech, Pasadena, California
+
+Community input is sought for far-infrared instrument needs across 
+multiple platforms (balloons, SOFIA, sub-orbital, FIR probes). Bring 
+your knowledge of what science gaps we still have in the far-IR and 
+how we can shape our existing and future platforms to get these 
+measurements. We hope to see you there.
+ 
+More information at: 
+
+https://www.cfa.harvard.edu/~mmacgreg/FIR_SIG/workshop.html
+ 
+Registration is open for the workshop: 
+
+http://tinyurl.com/FIRNextGen-2017
+ 
+If you are unable to attend in person, you may join us by Webex. 
+Your inputs will be important contributions to the discussion at 
+the workshop. 
+ 
+Please leave your ideas as answers to questions in Section 2 of 
+the registration form: 
+
+http://tinyurl.com/FIRNextGen-2017 
+ 
+Sign-up is also available for a tour of your SOFIA Observatory in 
+Palmdale, Calif., on Friday, March 24, 2017 morning (transport 
+to/from Pasadena provided). 
+ 
+For any questions, contact members of the organizing committee:
+
+Kimberly Ennico - kimberly.ennico@nasa.gov
+Ravi Sankrit - rsankrit@sofia.usra.edu
+Duncan Farrah - farrah@vt.edu
+Meredith MacGregor - mmacgreg@cfa.harvard.edu
+JD Smith - jd.smith@utoledo.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY GIS DATA SPECIALIST SOUGHT
+
+Sagan Center at the SETI Institute, Mt. View, California
+
+The Planetary GIS Data Specialist is responsible for producing 
+"research ready" cartographic and geospatial data for various projects. 
+This work involves interfacing with the supervisor to determine the 
+data processing strategy for a particular project and then executing 
+that strategy.
+
+Responsibilities: Image processing of experimental data records up to 
+map projected images, mosaicking of images, production of digital 
+terrain models from stereo pairs of images, production of other data 
+products derived from the above, production of visualizations of the 
+above data products, and work with supervisor to find the best ways to 
+perform various kinds of cartographic analyses.
+
+Qualifications: Masters degree or equivalent experience in geographic 
+information systems, experience working with planetary data, 
+experience with Unix operating systems, experience with the 
+Integrated Software for Imagers and Spectrometers software, and some 
+programming experience (any language).
+
+http://www.seti.org/seti-institute/news/seti-institute-hiring
+-planetary-gis-data-specialist
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VENUS MODELING WORKSHOP - ABSTRACT DEADLINE EXTENSION
+
+Update: In order to avoid conflicts with the SSW deadline, the workshop 
+organizing committee has extended the abstract deadline until Thursday, 
+March 2.
+
+Details: Researchers using any combination of analytic, numerical, or 
+empirical modeling to study Venus' orbital environment, atmosphere, 
+surface, or interior are invited to submit abstracts to the Venus 
+Modeling Workshop to be held May 9-11, 2017 in Cleveland, OH adjacent 
+to NASA's Glenn Research Center. This 2.5 day event is being convened 
+for interested researchers to share the state of knowledge, approaches, 
+tools, and data sets currently in use. Discipline-specific roundtable 
+discussions will identify needs for future data products and 
+investigative resources that can enable deeper understanding of the 
+past, present, and future of Venus.
+
+Further information can be found at: 
+
+http://www.hou.usra.edu/meetings/venusmodeling2017/
+
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Current research opportunities in planetary science can be viewed here:
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS EXTERNAL REVIEWERS NEEDED
+
+The NASA Postdoctoral Program (NPP), managed by USRA, provides young 
+and more senior scientists the opportunity to work on 1 to 3 year 
+assignments with NASA scientists and engineers at NASA centers and 
+institutes to advance NASA's missions in earth science, heliophysics, 
+planetary science, astrophysics, space bioscience, aeronautics, 
+engineering, human exploration and space operations, astrobiology, 
+and science management. USRA is recruiting well-qualified reviewers 
+for upcoming applications. 
+ 
+Reviewers may be asked to review up to 5 applications (each application 
+is 15 pages, including figures and citations; double-spaced). Proposal
+deadlines are March 1, July 1, and November 1. The reviewer evaluations 
+are submitted online and those who are eligible will receive an 
+honorarium of $50 for each review submitted.
+ 
+Reviewers should have the following minimum qualifications: three (3) 
+years past PhD; 10 or more peer-reviewed publications; at least five 
+(5) peer-reviewed publications as first author; work in a field 
+relevant to NASA; and show national and international prominence 
+through awards and invitations to speak at major scientific meetings.
+ 
+If you are interested in being a reviewer, visit: 
+
+https://npp.usra.edu/reviewer_connect/ 
+
+and create an account. For additional questions email 
+nppreviews@usra.edu
+ 
+Feel free to pass this information to colleagues.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NOMINATIONS FOR NASA FEDERAL ADVISORY COMMITTEE
+
+Due: March 8, 2017
+
+NASA invites public nominations for service on four new Federal 
+advisory committees that advise NASA on science. The four new 
+committees, which were formerly subcommittees of the NASA Advisory 
+Council, are The Astrophysics Advisory Committee (APAC), The Earth 
+Science Advisory Committee (ESAC), The Heliophysics Advisory Committee 
+(HPAC), and The Planetary Science Advisory Committee (PAC).
+
+U.S. citizens may submit self-nominations for consideration to fill 
+vacancies on these four new committees. There will be member vacancies 
+from time to time throughout the year, and NASA will consider 
+self-nominations to fill such intermittent vacancies. Nominees will be 
+contacted only if a vacancy should arise and the expertise of the 
+nominees is appropriate for that specific vacancy. The deadline for 
+NASA receipt of all public nominations is March 8, 2017.
+
+For more information, please see the federal register notice at:
+
+https://www.federalregister.gov/documents/2017/02/23/2017-03541
+/nasa-federal-advisory-committees
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 23, 2017
+Far Infrared Next Generation Instrumentation Community Workshop
+https://www.cfa.harvard.edu/~mmacgreg/FIR_SIG/workshop.html
+Pasadena, CA
+
+May 9-11, 2017
+Venus Modeling Workshop
+http://www.hou.usra.edu/meetings/venusmodeling2017/
+Cleveland, OH
+
+December 11-15, 2017
+AGU Fall Meeting
+http://fallmeeting.agu.org/2017/
+New Orleans, LA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,332 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 16 (April 16, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 9th International Conference on Geomorphology
+2. Fundamentals of Life in the Universe Symposium
+3. 3rd Planetary Data Workshop
+4. PDS4 Data Archiving Training Session at the 3rd Planetary Data
+   Workshop
+5. Three PhD Student Positions in Space Plasma Physics
+6. Exploration Science Forum Abstract Deadline Extended
+7. Mars Exploration Science Monthly Newsletter for April 2017
+8. Europa Lander Town Hall at LPSC and AbSciCon
+9. European Lunar Symposium Program Available
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+9TH INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY
+
+Date: November 6-11, 2017
+Location: Vigyan Bhawan, New Delhi
+
+Abstracts Due: April 30, 2017
+Earlybird Registration Closes: July 31, 2017
+
+S32 Planetary Geomorphology (IAG-WG)
+Chairs: Vic Baker, Susan Conway and Klaus Kuhn
+
+Unprecedented high spatial, temporal and spectral resolution data from
+planetary, lunar, asteroidal and cometary surfaces in our solar system
+are being returned by satellites, landers and rovers. These data allow
+the identification of a range of active and relict geomorphic processes
+that include impact cratering, aeolian, fluvial, lacustrine, deltaic,
+volcanic, tectonic, mass wasting, rock breakdown, glacial, periglacial,
+and coastal. While the landforms appear similar to those on Earth,
+there are issues of equifinality in addition to important differences
+in denudation rates, landform scale and indeed the balance of
+geomorphic processes. In addition to experimental and modelling
+studies, Earth field analogues are often used to better understand
+geomorphic processes on other planets. The aim of this session is
+to stimulate cross-community discussion of ideas and theories that will
+improve our understanding of geomorphic processes in the widest sense
+and therefore to better formulate links between process and form on
+planetary surfaces.
+
+Abstract guidelines:
+
+http://www.icg2017.com/authors_guideline.php
+
+Abstract submission:
+
+https://tciconferences.eventsair.com/Presentationportal/Account/
+Login?ReturnUrl=%2FPresentationPortal%2Ficg2017%2Fsubmitabstract
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FUNDAMENTALS OF LIFE IN THE UNIVERSE SYMPOSIUM
+
+Date: Aug 31-Sept 1, 2017
+Location: Groningen, The Netherlands
+Registration Deadline: April 30, 2017
+
+The newly established Origins Center (http://www.origins-center.nl) in
+the Netherlands will be kicked off this summer during the Fundamentals
+of Life in the Universe Symposium.
+
+The origin of life, on Earth and elsewhere, is a topic that fascinates
+the public, and which is ideally suited to bring together scientists
+from various disciplines. On August 31st and September 1st, we organize
+a two-day symposium, covering a wide spectrum of topics, from planetary
+evolution to the fabrication of synthetic cells.
+
+1. The origin of the Earth and of life
+2. Predicting the evolution of life
+3. Building and directing life from molecule to biosphere
+4. Life in extraterrestrial environments
+5. Emergence and bridging of temporal and spatial scales
+
+Besides invited talks, the conference includes a keynote lecture by Ben
+Feringa (2016 Nobel laureate in chemistry), and a public lecture by
+Charley Lineweaver. We invite participants from the fields including
+chemistry, geosciences, biology, astronomy, and physics to submit
+abstracts for our poster sessions. The program also includes
+opportunities for cross-disciplinary networking.
+
+For more information:
+
+http://www.rug.nl/research/gbb/education/origins/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+3RD PLANETARY DATA WORKSHOP
+
+The 3rd Planetary Data Workshop will be conducted June 12-15, 2017 at
+the High Country Conference Center, 201 West Butler Avenue, Flagstaff,
+Arizona 86001. 
+
+https://www.hou.usra.edu/meetings/planetdata2017/
+
+This workshop will cover a wide variety of planetary data topics,
+including current mission data availability, online data access tools
+and capabilities, new data visualization tools and data user training,
+GIS methods and software, and an introduction to PDS4 concepts and
+software. The agenda will be available at the meeting Web site by April
+25, 2017.
+
+This year we're proud to co-host the annual NASA Planetary Geologic
+Mappers (PGM) Meeting. The PGM annual meeting primarily supports
+NASA-funded principal investigators who are currently developing
+geological map products to discuss the status of mapping tasks and to
+obtain guidance for the map publication process. Other scientists and
+students interested in planetary cartography, geological mapping, and
+map-related topical science are also encouraged to attend.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PDS4 DATA ARCHIVING TRAINING SESSION AT THE 3RD PLANETARY DATA WORKSHOP
+
+The current format standard for archiving data with the NASA Planetary
+Data System (PDS) is called PDS4. This standard has been required for
+data archives from NASA-funded missions and for small data archives
+since 2011. There will be a PDS4 archiving training event scheduled for
+June 14, 2017 here in Flagstaff, in association with the 3rd Planetary
+Data Workshop. See:
+
+https://www.hou.usra.edu/meetings/planetdata2017
+
+This 1-day session will include distribution of a virtual box with
+archiving software, examples and documentation. Topics will include an
+introduction to PDS4 concepts and vocabulary and hands-on training on
+how to design a bundle and collections and on development of basic
+product labels for a simple table and image file. Experienced PDS
+staff will be on-hand to answer questions and offer help as needed. 
+For more information about PDS4, please refer to information on and
+linked to the NASA PDS4 site:
+
+https://pds.nasa.gov/pds4/about/portal.shtml
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+THREE PHD STUDENT POSITIONS IN SPACE PLASMA PHYSICS
+
+The Solar System Physics and Space Technology research programme at the
+Swedish Institute of Space Physics (IRF) in Kiruna invites applications
+for PhD student positions in experimental space plasma physics. The
+projects focus on data analysis from the ESA cometary mission Rosetta
+and on development of instruments for studies of the Jovian system on
+the ESA mission to Jupiter, JUICE.
+
+For more information, go to:
+
+https://www.jobbsafari.se/jobbannons/arbetsformedlingen/10459004
+
+Contact:
+Dr. Gabriella Stenberg Wieser: gabriella@irf.se, +46-980-79014
+Dr. Martin Wieser: martin.wieser@irf.se, +46-980-79198
+
+Trade union representative: 
+Uwe Raffalski, SACO-S: uwe.raffalski@irf.se, +46-980-79021
+Stefan Karlsson, ST: stefan.karlsson@irf.se, +46-980-79029
+
+Applications include: a CV, a short (one-page) letter stating
+research interests and relevant experience, copies of academic
+transcripts and contact information for two professional references. 
+
+Closing date: 10 May 2017
+Please quote reference number: 2.2.1-104/17
+
+Submit applications, preferably by email, to:
+registrator@irf.se
+(Contact +46-980-79000 if no response in three days.)
+
+or by post to:
+Swedish Institute of Space Physics,
+Registrar,
+Box 812,
+SE-981 28 Kiruna, Sweden
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EXPLORATION SCIENCE FORUM ABSTRACT DEADLINE EXTENDED
+
+Due to several requests from the community, we will extend the ESF
+abstract deadline by one week. The new deadline will be Apr. 19 at
+11:59p PDT. Details on registration/abstract submission are below.
+
+NASA's Exploration Science Forum: The Solar System Exploration Research
+Institute (SSERVI) is pleased to announce the 4th annual NASA
+Exploration Science Forum (ESF), to be held in person July 18-20, 2017
+at NASA Ames Research Center, Moffett Field, CA. This year's Forum
+will feature scientific discussions of human exploration targets of
+interest (the Moon, near-Earth asteroids, and the moons of Mars). 
+Science sessions will focus on recent mission results and in-depth
+analyses of science and exploration studies. Dedicated
+side-conferences for graduate students and young professionals will
+coincide with the ESF. Public engagement discussions will be
+interwoven among science topics as well.
+
+Abstracts will be accepted through 11:59 p.m. PDT April 19, 2017 at:
+
+https://nesf2017.arc.nasa.gov/
+
+Foreign national participants MUST register at the above url by June 1,
+2017. US citizens may register until July 7, 2017.
+
+See you all this summer!
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR APRIL 2017
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+James Ashley of the Mars Program Science Office, the April 2017 edition
+of the Mars Exploration Science Monthly Newsletter can be found on the
+web at:
+
+http://mepag.jpl.nasa.gov
+
+Additionally, we have updated the posted materials from MEPAG Meeting
+33. Nearly all presentations are now available (and we expect to finish
+in the near future) and we have also posted a Meeting Summary document.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EUROPA LANDER TOWN HALL AT LPSC AND ABSCICON
+ 
+As a reminder, NASA will host a town hall at AbSciCon to discuss the
+Europa lander SDT report. The town hall is intended to provide an
+extended opportunity to communicate the science content of the report
+to the scientific community and, equally importantly, to engage in
+constructive discussion with the scientific community. The event will
+be held in the Starlight room at AbSciCon and will begin at 12:30 pm
+mountain time (Phoenix local time). Webex information for the town
+hall is given below. For questions please contact Dr. Curt Niebur at
+curt.niebur@nasa.gov.
+
+The SDT report for the pre-Phase A study of a Europa lander mission is
+available at:
+ 
+http://solarsystem.nasa.gov/docs/Europa_Lander_SDT_Report_2016.pdf
+ 
+Webex Meeting Link: 
+
+https://nasa.webex.com/nasa/
+j.php?MTID=m87b0c6e539ca2b2adbaa81438321ca4a
+
+Meeting number: 992 222 852
+Meeting password: W@lc0m31
+ 
+Audio connection:
+Teleconference #: 888-989-9784
+Participant Passcode: 7070481
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EUROPEAN LUNAR SYMPOSIUM PROGRAM AVAILABLE
+
+The final ELS program and the abstract booklet is now available at the
+ELS website:
+
+https://els2017.arc.nasa.gov/program
+
+You can also register for ELS and NVM-2 from the ELS Website.
+We look forward to welcome you in Munster on May 2nd & 3rd!
+Harry Hiesinger and Mahesh Anand
+(on behalf of ELS organisers)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 10-12, 2017
+Enabling Transiting Exoplanet Observations with JWST
+http://www.cvent.com/d/n5q7nc    
+Baltimore, MD
+
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

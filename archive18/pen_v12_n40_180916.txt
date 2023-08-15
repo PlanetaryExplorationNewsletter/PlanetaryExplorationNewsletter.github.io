@@ -1,0 +1,378 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 40 (September 16, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Preliminary Announcement: Workshop on In-Situ Exploration of the Ice 
+   Giants
+2. The SSHADE Solid Spectroscopy Database for Astrophysics and 
+   Planetary Sciences
+3. New Dates for the Pluto-2019 Conference
+4. Change in NSF Planetary Astronomy Grants Program
+5. ROSES-18 Amendment 26: Draft Lunar Surface Instrument and Technology 
+   Payloads Call for Community Comment
+6. Thematic School - Fluid-Rock Interactions in the Solar System
+7. T.C. Chamberlin Postdoctoral Fellowship
+8. Postdoc Positions in Planetary Science at Brown University
+9. Mars Research Assistant
+10. DPS Panel Discussion: Carbon in the Solar System
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PRELIMINARY ANNOUNCEMENT: WORKSHOP ON IN-SITU EXPLORATION OF THE ICE
+GIANTS
+
+Dates: February 25-27, 2019
+Location: Chateau La Coste en Provence, France
+Abstract submission deadline: December 31, 2018
+Early registration deadline: January 31, 2019
+Maximum number of participants: 100
+
+https://ice-giant-workshop.lam.fr/
+
+We are pleased to announce a workshop addressing scientific and 
+technological topics relevant to the in situ exploration of ice giant 
+planet atmospheres, including scientific questions, how to achieve 
+them, and technological challenges. The workshop will also focus on 
+potential mission concepts and international cooperation, with an 
+emphasis on probe studies of the ice giants in the framework of future 
+NASA-ESA collaborations.
+
+Information regarding registration, lodging, abstract submission, and 
+the venue will be posted on the workshop website in November.
+
+Contacts:
+
+Olivier Mousis (olivier.mousis@lam.fr)
+David Atkinson (David.H.Atkinson@jpl.nasa.gov)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+THE SSHADE SOLID SPECTROSCOPY DATABASE FOR ASTROPHYSICS AND PLANETARY 
+SCIENCES
+
+http://www.sshade.eu
+
+The European SSHADE database infrastructure on spectroscopy of solids
+already offers on-line over 1500 spectroscopic data on various types of
+solids. They are provided by a consortium of 21 experimental groups
+covering expertises in various types of samples, spectral ranges and
+techniques.
+
+The data are intended to help astronomers and astrophysicists to
+interpret spectro-photometric observations of surfaces and aerosols
+obtained from telescopes and space missions.
+
+The measured samples include ices, minerals, rocks, organic and
+carbonaceous materials and also liquids. They are either synthesized
+in the laboratory, natural terrestrial analogs collected or measured in
+the field, or extraterrestrial samples collected on Earth or from 
+extraterrestrial sources (e.g., meteorites, IDPs, lunar soils).
+
+So don't hesitate to search SSHADE for relevant laboratory data to
+compare with your observations or to feed your numerical model using 
+the search/visualization/export tools on www.sshade.eu. New data are
+regularly ingested and new user's tools will be added.
+
+Users tutorials will be held at EPSC (Berlin, 17-21 September 2018) 
+and DPS (Knoxville, 22-26 October 2018)
+
+Bernard Schmitt, the SSHADE team and the SSHADE partners consortium.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NEW DATES FOR THE PLUTO-2019 CONFERENCE (PSANH)
+
+The dates for the Pluto System After New Horizons (PSANH), an 
+international science conference on the Pluto system and the Kuiper 
+Belt, have shifted by two days to July 14-18, 2019 (Sunday through 
+Thursday). The venue remains the same: the conference will be held at 
+the Johns Hopkins University Applied Physics Laboratory in Laurel, MD.
+
+Please mark your calendars accordingly!
+
+Further information on the PSANH Conference is available at:
+
+https://www.hou.usra.edu/meetings/plutosystem2019/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CHANGE IN NSF PLANETARY ASTRONOMY GRANTS PROGRAM
+
+After the end of the current government fiscal year FY 2018 
+(30 September 2018), the National Science Foundation’s Division of 
+Astronomical Sciences will no longer accept proposals submitted to the 
+Solar and Planetary Research Grants (SPG; NSF 16-602) pilot 
+'no-deadline' program.  Beginning in FY 2019 (1 October 2018), 
+proposals that address topics related to solar and planetary systems 
+- including exoplanets, our own solar system, and physics of the Sun – 
+should once again be submitted in response to the Astronomy and 
+Astrophysics Research Grants (AAG) program (new solicitation NSF 
+18-575). Proposals to AAG are due by 15 November 2018. 
+
+Questions may be directed to NSF Program Officers Faith Vilas 
+(fvilas@nsf.gov), David Boboltz (dboboltz@nsf.gov), Linda French 
+(lfrench@nsf.gov), or James Neff (jneff@nsf.gov).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ROSES-18 AMENDMENT 26: DRAFT LUNAR SURFACE INSTRUMENT AND TECHNOLOGY
+PAYLOADS CALL FOR COMMUNITY COMMENT
+
+This is a draft of a call for proposals for Lunar Surface Instrument 
+and Technology Payloads (LSITP) to be integrated onto and delivered to 
+the lunar surface by commercial lunar landers. This program element 
+would solicit flight payloads that do not require significant 
+additional development. Investigations are sought that address the 
+science goals of any of the four divisions (Planetary, Earth Science, 
+Heliophysics, Astrophysics) of the Science Mission Directorate (SMD) as 
+well as Strategic Knowledge Gaps of the Human Exploration and 
+Operations Mission Directorate (HEOMD) or any technology demonstration 
+goals of the Space Technology Mission Directorate (STMD) that advance 
+capabilities for science, exploration, or commercial development of the 
+Moon.
+
+This ROSES element invites proposals for complete, Principal 
+Investigator led science instrument or technology investigations. The 
+first lander flight opportunity could occur as early as 2020. As such, 
+proposals should convincingly demonstrate that the proposed payload 
+will be ready to support an aggressive launch schedule.
+
+Send comments to Sarah.Noble-1@nasa.gov by September 27, 2018. These 
+may result in changes to a FAQ or questions and answer document. 
+Anonymity of persons/institutions who submit questions will be 
+preserved.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+THEMATIC SCHOOL - FLUID-ROCK INTERACTIONS IN THE SOLAR SYSTEM
+
+The Laboratoire de Planetologie et Geodynamique organises the second 
+GeoPlaNet thematic school on Fluid-Rock Interactions in the Solar 
+System. The event will take place in Nantes (France), November 12-16,
+2018.
+
+This school in Planetary Geosciences will present to participants 
+various techniques for observing, analysing, experimenting and 
+modelling the compositional and morphological aspects of fluid-rock 
+interactions in rocky and icy bodies of all sizes of the Solar System.
+
+The school will include lectures and practicals, as well as poster 
+presentations by attendees. It will be organised along two themes:
+
+(1) Fluid-rock interactions on planetary surfaces:
+
+Fluid-related rock deformation, rock weathering, sedimentation, 
+hydrothermalism;
+Spectroscopy of rocks and minerals, field excursion, experimental 
+modelling, laboratory analyses;
+
+(2) Fluid-rock interactions in planetary interiors:
+
+Icy ocean worlds, mantle dynamics, volatile cycle, metasomatism, deep 
+magmatic source;
+Petrology, geochemistry, geophysics, laboratory analyses, 
+experimentation, numerical modelling.
+
+This high-level training program is open to 80 international Master 
+students, Ph.D. students and young researchers with a background in 
+Geosciences and/or in Planetary Science.
+
+https://lpg-umr6112.fr/TS-GeoPlaNet
+
+O. Bourgeois, O. Verhoeven, and S. Lheritier
+
+Laboratoire de Planetologie et Geodynamique 
+UMR CNRS 6112 - University of Nantes
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+T.C. CHAMBERLIN POSTDOCTORAL FELLOWSHIP
+
+The Department of the Geophysical Sciences at The University of Chicago 
+invites applications for the T.C. Chamberlin Postdoctoral Fellowship. 
+We seek outstanding scientists who lead creative investigations into 
+the nature of Earth and other planetary bodies-their physics, 
+biology, chemistry, climate, and history-and who have a desire to 
+participate in the broad intellectual life of the Department and the 
+University. We encourage people with interests in any aspect of the 
+Earth and planetary sciences to apply.
+
+Details can be found at: 
+
+https://geosci.uchicago.edu/news/article/t.c.-chamberlin-postdoctoral
+-fellowship1
+
+The University of Chicago is an Affirmative Action / Equal Opportunity 
+/ Disabled / Veterans Employer and does not discriminate on the basis 
+of race, color, religion, sex, sexual orientation, gender identity, 
+national or ethnic origin, age, status as an individual with a 
+disability, protected veteran status, genetic information, or other 
+protected classes under the law. For additional information please see 
+the University's Notice of Nondiscrimination at: 
+
+http://www.uchicago.edu/about/non_discrimination_statement
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC POSITIONS IN PLANETARY SCIENCE AT BROWN UNIVERSITY 
+
+The Department of Earth, Environmental and Planetary Sciences at Brown 
+University is seeking Postdoctoral Research Associate(s) with a 
+background in planetary geophysics, data analyses, or applied math.
+
+Possible research topics include, but are not limited to volcanology, 
+hydrology, tectonics, analysis of gravity/topography datasets, 
+planetary mantle thermochemical evolution, magnetohydrodynamics, crater 
+statistics, and Solar System chronology. Research would include 
+quantitative or qualitative analyses of planetary mission data and/or 
+numerical modeling. The successful candidate will be expected to carry 
+out independent research, give presentations at professional meetings, 
+and prepare publications on the work.
+
+Interested individuals should have a Ph.D. in Planetary Science, 
+Geophysics, Geology, Physics/Astronomy, Mathematics, Statistics, or a 
+related field. If interested, please send a brief statement of research 
+interests and future research goals along with your CV to Alex Evans at 
+alex_evans [at] brown [dot] edu. 
+
+For questions or more information on the position, please visit: 
+
+http://brown.alexjevans.com/2018/09/11/looking-for-postdocs
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS RESEARCH ASSISTANT
+
+https://uchicago.wd5.myworkdayjobs.com/External/job/Hyde-Park
+-Campus/Mars-Research-Assistant_JR02785
+
+The Mars Research Assistant will work in the Planetary Science research 
+group led by Edwin Kite in the University of Chicago's Department of 
+Geophysical Sciences:
+
+http:planetarygeoscience.uchicago.edu 
+
+The central objective of the research group is to understand the 
+history of Martian habitability. This is a one-year position with 
+possible renewal beyond the first year. Salary will be commensurate 
+with the experience and qualifications of the successful candidate. 
+
+Applications received before October 15, 2018, will receive full
+consideration. A start date in the range December 1, 2018, to March 1,
+2019 is preferred. Later start dates may be negotiated. Informal 
+inquiries should be sent to kite@uchicago.edu
+
+Responsibilities:
+
+Collect, analyze and validate geologic data using ArcGIS.
+
+Use an existing pipeline to generate, evaluate and analyze planetary
+digital terrain models that incorporate stereo data.
+
+Additional responsibilities may include supervising and
+training students in GIS, or carrying out independent research
+projects.
+
+Required: 
+
+Prior experience, ability and agility with command-line computing 
+environments and with a commonly-used scientific programming
+language (e.g. MATLAB) is required. Strongly preferred: ArcGIS
+experience. Preferred: A background in planetary science, and/or
+experience with stereo DTM generation.
+
+NOTE: When applying, all required documents MUST be uploaded under the
+Resume/CV section of the application.
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DPS PANEL DISCUSSION: CARBON IN THE SOLAR SYSTEM 
+
+Sunday, October 21, 2018, 3-6 PM
+
+As part of the SSERVI-sponsored series of workshops on Carbon in the 
+Solar System, we will be holding a panel discussion called "Processed 
+or Primitive?” on Sunday, Oct 21, 3-6 PM. Recent investigations within 
+our Solar System, including the Pluto system, the Saturn system, 
+Mercury, and nearly all points in between, point to carbon in some 
+form on many bodies, though its nature is often elusive. The event will 
+assemble a panel of experts to discuss carbon in the solar system (in 
+meteorites and on planetary surfaces) and in the interstellar medium, 
+and the relationships between them. How processed are the carbon 
+compounds found across the solar system, compared to the carbon in the 
+ISM? How does the processing occur, and on what timescales? What 
+future measurements can help us to better understand carbon in our 
+solar system?
+
+We hope to see you there, for what is sure to be an engaging 
+discussion!
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 25-27, 2019
+Workshop on In-Situ Exploration of the Ice Giants
+https://ice-giant-workshop.lam.fr/
+Aix-en-Provence, France
+
+April 1-3, 2019
+The Space Astrophysics Landscape for the 2020s and Beyond
+https://www.hou.usra.edu/meetings/landscape2019/
+Potomac, MD
+
+July 14-18, 2019
+Pluto System After New Horizons (PSANH)
+https://www.hou.usra.edu/meetings/plutosystem2019/
+Laurel, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

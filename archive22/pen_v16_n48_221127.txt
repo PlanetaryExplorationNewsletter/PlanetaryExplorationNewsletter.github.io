@@ -1,0 +1,279 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 48 (November 27, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Mars 2020 Mission Release 5
+2. 2023 Next-Generation Suborbital Researchers Conference Opens 
+   Registration
+3. ExMAG Call for Applications for 2023 Membership
+4. Tenure-track Faculty Position in Planetary Science at University of  
+   Colorado Boulder
+5. EGU23 Session PS4.5: Planetary Seismology
+6. Post-Doctoral Fellowship in Computational/Theoretical Planet 
+   Modeling, Center for Matter at Atomic Pressures (CMAP)
+7. Planetary Meeting Calendar Additions
+8. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: MARS 2020 MiSSION RELEASE 5
+
+The NASA Planetary Data System announces Release 5 of data from the 
+Mars 2020 Perseverance Rover mission to Mars. This release contains 
+raw, calibrated, and derived data products covering sols 420-539 of the 
+mission, April 26 through August 26, 2022. The data are archived at 
+various PDS Nodes. Links to all the archives can be found at
+
+https://pds-geosciences.wustl.edu/missions/mars2020/
+
+Data from the following science investigations are included in this 
+release:
+
+- Engineering Hazard and Navigation Cameras
+- Helicopter Cameras
+- Mastcam-Z (Mast-mounted Zoom Camera System)
+- EDLCam (Entry, Descent, and Landing System Cameras)
+- MEDA (Mars Environmental Dynamics Analyzer)
+- MOXIE (Mars Oxygen ISRU Experiment)
+- PIXL (Planetary Instrument for X-ray Lithochemistry)
+- RIMFAX (Radar Imager for Mars Subsurface Exploration)
+- SHERLOC (Scanning Habitable Environments with Raman and Luminescence 
+  for Organics and Chemicals)
+- SuperCam (LIBS, Raman, Time-Resolved Fluorescence, VIS/IR 
+  spectrometers, Remote Micro-Imager and microphone)
+- SPICE (Observation geometry and ancillary data)
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+2023 NEXT-GENERATION SUBORBITAL RESEARCHERS CONFERENCE OPENS 
+REGISTRATION
+
+Registration is now open for the 2023 Next-generation Suborbital 
+Researchers Conference (NSRC-2023), happening February 27 to March 1 
+in Broomfield, Colorado.
+
+NSRC is the premier conference for researchers and educators interested 
+in commercial suborbital reusable vehicles. It provides in-depth NASA, 
+FAA, flight provider and spaceport briefings, as well as extensive 
+presentation and networking opportunities for researchers and 
+educators, as well as companies involved with next-generation 
+suborbital platforms, both robotic and those with human crews.
+
+Organized by Southwest Research Institute (SwRI) and the Commercial 
+Spaceflight Federation (CSF), NSRC-2023 will feature presentations, 
+panel discussions, workshops, local aerospace company tours, poster 
+presentations and extensive networking opportunities.
+
+The conference has over two dozen industry, academic, and agency 
+sponsors. Sponsorship opportunities for the 2023 conference are still 
+available. Please visit: 
+
+https://nsrc.boulder.swri.edu/sponsorship-opportunities
+
+The three-day NSRC-2023 conference will include keynote and invited 
+talks, individual flight provider workshops, and contributed talks by 
+researchers and educators. It will also feature a reception for 
+sponsors and VIPs.
+
+NSRC-2023 is soliciting abstracts through January 15, 2023. To submit 
+an abstract for a contributed talk or poster, or to request exhibit 
+space, visit the NSRC 2023 website at: 
+
+https://nsrc.swri.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EXMAG CALL FOR APPLICATIONS FOR 2023 MEMBERSHIP
+
+The Extraterrestrial Materials Analysis Group (ExMAG) is a 
+community-based, interdisciplinary group providing a forum for 
+discussion and analysis of matters concerning the collection, curation, 
+and analysis of extraterrestrial samples. ExMAG is seeking applications 
+for Secretary, Meeting Chair, Mars Subcommittee Chair, and 
+Microparticle Subcommittee Chair. We also seek members for the 
+Microparticle and Meteorite subcommittees and a social media 
+coordinator. Applications are due December 16 for three-year 
+appointments starting in January 2023. All applications will be 
+normalized to career stage and ExMAG strives to include many voices. 
+The full call, including position descriptions and application 
+instructions, may be found at: 
+
+https://docs.google.com/document/d/1CBJqxjQZIbAh3idhau8iO5c_yuM7U21ecEGH7Vsr6QE/
+
+Questions may be directed to ExMAG.community@gmail.com.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TENURE-TRACK FACULTY POSITION IN PLANETARY SCIENCE AT UNIVERSITY OF 
+COLORADO BOULDER
+
+The Laboratory for Atmospheric and Space Physics at the University of 
+Colorado invites applications for a tenure-track faculty position to 
+start in August 2023 in the general field of planetary science. The 
+opening is targeted at the level of Assistant Professor, but 
+experienced candidates with appropriate credentials will be considered 
+for an Associate Professor appointment. Depending on the background and 
+teaching interest, the successful candidate would also be affiliated 
+with the appropriate academic department at CU.
+
+Areas of interest include: Research approaches from remote sensing, to 
+instrument development, to space missions, to laboratory studies and to 
+theory, addressing research targets both within our Solar System and 
+exoplanets, and applying fields such as atmospheric science, planetary 
+geology, astrobiology, geophysics, space environments, dynamics, etc.
+
+The University of Colorado Boulder is committed to building a 
+culturally diverse community of faculty, staff, and students dedicated 
+to contributing to an inclusive campus environment. We are an Equal 
+Opportunity employer, including veterans and individuals with 
+disabilities.
+
+Evaluation of applications starts November 28, 2022. Position will 
+remain open until filled.
+
+For further information about LASP see: 
+
+https://lasp.colorado.edu/home/
+
+Full job posting at: 
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=43550
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EGU23 SESSION PS4.5: PLANETARY SEISMOLOGY
+
+Please consider submitting an abstract to the session on Planetary
+Seismology (PS4.5/GM3/SM5) at the EGU General Assembly 2023. EGU23 will
+be facilitating online and in-person participation in Vienna, Austria, 
+23-28 April 2023.
+
+The abstract deadline is 10 January 2023 (13:00 CET), and the deadline
+for support applications is 1 December 2022 (13:00 CET).
+
+Seismology is one of the most powerful tools to study the interior of
+planetary bodies and their tectonic regime. However, studying the
+seismicity of solid bodies other than Earth is technically challenging
+and the seismic data we currently have is sparse. In addition to
+mission-driven insights, modelling presents an increasingly powerful
+tool that can help to estimate the expected seismicity of different
+planetary bodies. This session aims to bring together planetary
+seismology studies on a range of planetary bodies to showcase the
+impressive successes that have been booked so far and to learn from 
+each other for the future. We welcome contributions on the (anticipated)
+observations from space missions, such as InSight and Dragonfly, as 
+well as theoretical estimates and modelling efforts on the seismicity 
+of planetary bodies. We also encourage technical contributions on 
+methods to detect seismicity on planetary bodies.
+
+Session details and link for abstract submission:
+
+https://meetingorganizer.copernicus.org/EGU23/session/45810
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL FELLOWSHIP IN COMPUTATIONAL/THEORETICAL PLANET MODELING,
+CENTER FOR MATTER AT ATOMIC PRESSURES (CMAP)
+
+The Center for Matter at Atomic Pressures (CMAP), an NSF Physics 
+Frontiers Center, invites applications for a Post-Doctoral Fellowship 
+in Computational/Theoretical Planetary Modeling. We are particularly 
+interested in candidates focused on the formation, structure, interior 
+and atmosphere evolution of terrestrial-type planets, both within the 
+Solar System and exoplanets. We envision the candidate to become an 
+emerging expert in the next generation of global planet evolution 
+models, and one who can facilitate incorporation of the most relevant 
+improved microphysics and microphysical data into computational 
+planetary modeling tools for practical use by the broader planetary 
+astrophysics community.
+
+CMAP is a collaboration between U. Rochester, Princeton, UC Davis, 
+MIT, U. Buffalo, and UC Berkeley; team members communicate weekly. 
+For this position, the institution at which the candidate takes 
+primary residence is negotiable. We expect the candidate to interact 
+broadly with the CMAP team. Some travel among the partner universities 
+required.
+
+Candidates should have a Ph.D. by the start date (September 2023, 
+negotiable) in planetary physics, astrophysics, or related 
+disciplines. Send application package: CV, a statement of research 
+interests, and 3 letters of recommendation to 
+natalie.antal@rochester.edu. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+February 27 - March 1, 2023
+2023 Next-Generation Suborbital Researchers Conference
+https://nsrc.boulder.swri.edu/
+Broomfield, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

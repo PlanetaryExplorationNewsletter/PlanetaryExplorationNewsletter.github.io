@@ -1,0 +1,734 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 51 (December 12, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Congratulations Pierazzo International Student Travel Award Winners
+2. Job Opening: NEO Surveyor Applied Data Scientist (IPAC/Caltech)
+3. [NASA] PDS: Mars Science Laboratory Release 28
+4. Permanent Supervisory Branch Chief Hire in Planetary Studies 
+   Research, NASA Ames Research Center
+5. Low-Cost Science Mission Concept for Mars Exploration Update
+6. Early Registration Extended - Mercury's Surface Response to the 
+   Interplanetary Environment: Identifying Needed Studies in 
+   Laboratory Astrophysics
+7. ESA: Call for Membership in the Expert Committee for the Large 
+   Mission Covering the Science Theme "Moons of the Giant Planets"
+8. NASA SCoPE Connect at AGU
+9. Changed Date for OPAG Hybrid Town Hall at AGU Meeting 2021
+10. Making Space: A Workshop on Space, Art, & Society
+11. [NASA] ROSES-21: Analog Activities to Support Artemis Lunar 
+    Operations - Desert RATS 2022 Field Campaign
+12. AbSciCon 2022 Abstract Deadline: 19 January 2022
+13. EGU22 Session: From the Environment of the Earth to the Environment 
+    of the Solar System
+14. 44th COSPAR Scientific Assembly: Astrochemistry and Composition as 
+    Ariadne's Threads for Planet Formation
+15. AOGS 2022 Converted to All-Virtual and Change of Date
+16. Mars Exploration Science Monthly Newsletter for December 2021
+17. Release of Mars 2020 Analyst's Notebook for Perseverance Rover
+18. AbSciCon 2022 Session: Earth Geysers and Ocean World Plumes - The 
+    Challenges of Characterizing a Unique Environment
+19. AbSciCon 2022 Session: Titan as a Prebiotic Laboratory
+20. AbSciCon 2022 Session: Crossing the Threshold - In Situ 
+    Instrumentation to Seek Life, Its Precursors, and Geophysical 
+    Context on Europa and Other Ocean Worlds
+21. GSA NE Section Meeting: Latest Science Results and Updates in 
+    Planetary Science Research, Programs, and Flight Projects
+22. Planetary Meeting Calendar Additions
+23. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CONGRATULATIONS PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD WINNERS
+
+The Pierazzo International Student Travel Award was established by PSI
+in memory of Senior Scientist Betty Pierazzo to support and encourage
+graduate students to build international collaborations and
+relationships in planetary science.
+
+Pim Kaskes of Vrije Universiteit Brussel will attend the 53st LPSC in 
+The Woodlands, Texas, March 2022, presenting "Suevite emplacement and 
+impact melt dynamics within the Chicxulub impact structure" and 
+"High-Resolution chemostratigraphy across the Cretaceous-Paleogene 
+boundary."
+
+Ophelie Mcintosh of University Paris-Saclay will attend AbSciCon in 
+Atlanta, Georgia, May 2022, presenting "Thermal reactivity of organic 
+molecules with chloride salts: consequences for the chemical 
+composition of Mars samples analyzed in situ with the GCMS, SAM, and 
+MOMA instruments."
+
+Joseph McNeil of Open University will attend the 53rd LPSC at The 
+Woodlands, Texas, March 2022, presenting "Windows into Noachian Mars: 
+Eroded landforms in Chryse Planitia and the ExoMars rover landing 
+site."
+
+Suchitra Narayanan of the University of Hawaii will attend the 
+Protostars and Planets VII conference in Kyoto, Japan, September 2022, 
+presenting "Analyzing the Substructure and Dynamics and Sulfur 
+Organics Inventory of Oph IRS43."
+
+A PSI representative will present each awardee with a certificate and 
+check for $2,000 at their respective conferences.
+
+https://psi.edu/news/2022pierazzowinners
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JOB OPENING: NEO SURVEYOR APPLIED DATA SCIENTIST (IPAC/CALTECH)
+
+The Infrared Processing and Analysis Center (IPAC) has an opening for 
+an Applied Data Scientist (Staff Scientist) to work on the NEO 
+Surveyor mission. IPAC is developing and will operate the Survey Data 
+System (NSDS) for NEO Surveyor, which will make use of machine 
+learning based automated classifiers in several key steps including 
+differentiation between real and spurious detections of moving object 
+candidates, identification of reliable moving object tracklet 
+candidates, and identification of comet candidates in the moving 
+object detection stream. The candidate will help design and develop 
+software for the automated classification of sources extracted from 
+NEO Surveyor imaging data using supervised machine learning methods, 
+as well as conduct independent research. For more information, and to 
+apply:
+
+https://phf.tbe.taleo.net/phf03/ats/careers/v2/viewRequisition?org=CALTECH&cws=37&rid=6258
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MARS SCIENCE LABORATORY RELEASE 28
+
+The NASA Planetary Data System announces Release 28 of data from the 
+Mars Science Laboratory (Curiosity) mission. This release contains raw 
+and calibrated data products covering the time period from March 24 
+through July 30, 2021 (sols 3069-3192). The data are archived at 
+various PDS nodes:
+
+  - APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+  - ChemCam at the Geosciences Node
+  - CheMin at the Geosciences Node
+  - DAN at the Geosciences Node
+  - Engineering Cameras at the Cartography and Imaging Sciences Node
+  - MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging 
+    Sciences Node
+  - Mastcam at the Cartography and Imaging Sciences Node
+  - PLACES Database at the Cartography and Imaging Sciences Node
+  - RAD (Radiation Assessment Detector) at the PPI Node
+  - REMS (Rover Environmental Monitoring Station) at the Atmospheres 
+    Node
+  - SAM (Sample Analysis at Mars) at the Geosciences Node
+  - SPICE at the NAIF Node
+
+The data may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211206.shtml
+
+The next MSL release is scheduled for March 16, 2022.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PERMANENT SUPERVISORY BRANCH CHIEF HIRE IN PLANETARY STUDIES RESEARCH, 
+NASA AMES RESEARCH CENTER
+
+NASA Ames Research Center is seeking a permanent supervisory Branch 
+Chief hire in Planetary Studies Research. To learn more about the 
+Branch and the Space Science and Astrobiology Division visit our 
+website:
+
+https://www.nasa.gov/ames/spacescience-and-astrobiology
+
+Any interested applicants can apply on USA Jobs:
+
+https://www.usajobs.gov/GetJob/ViewDetails/622391300
+
+Acceptance of applications has been extended to December 14th, 2021. 
+The position is engaged in professional scientific and engineering 
+work involving systematic, critical investigations directed toward 
+discovering, disseminating, and applying new or expanded knowledge in 
+a professional discipline. The position provides technical, 
+administrative, and managerial supervision to a highly technical, 
+scientific workforce engaged in both basic and applied research, 
+technology and instrument concept development leading to flight 
+mission concepts.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LOW-COST SCIENCE MISSION CONCEPT FOR MARS EXPLORATION UPDATE
+
+Final preparations are underway for the Low-Cost Science Mission 
+Concepts for Mars Exploration meeting, being held 11-13 January, 2022 
+at the Westin Pasadena Hotel in Pasadena, CA. The meeting will include 
+over 60 contributed abstracts, a number of invited talks, and five 
+panel discussions with leaders from NASA, academia, and industry:
+
+ - Mars Science Goals for Low-Cost Missions
+ - Lessons Learned in Low-Cost Mission Implementation
+ - Low-Cost Transportation to Mars
+ - NASA Technology Investments
+ - Commercial Innovation for Low-Cost Missions
+
+Meeting information and the detailed program are available at
+
+https://www.hou.usra.edu/meetings/lowcostmars2022/
+
+COVID Update: Proof of vaccination at the time of onsite check-in. We 
+will be complying with local COVID policies, including a requirement 
+for attendees to wear a face mask while in the meeting facility.
+
+Registration is open through January 3, 2022. There is no registration 
+fee for this meeting, but all attendees will need to register via the 
+website. To register go to:
+
+https://www.hou.usra.edu/meetings/lowcostmars2022/
+
+There is a reserved block of rooms at a reduced rates for this 
+workshop attendees; please use this link:
+
+https://bit.ly/3oNUS4J
+
+Or call (626) 792-2727 and mention "JPL Meeting Jan2022". The deadline 
+for discounted Westin Hotel reservations is December 20, 2021.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EARLY REGISTRATION EXTENDED - MERCURY'S SURFACE RESPONSE TO THE 
+INTERPLANETARY ENVIRONMENT: IDENTIFYING NEEDED STUDIES IN LABORATORY 
+ASTROPHYSICS
+
+Date: 24-27 January 2022
+Location: Virtual
+
+Registration is open at
+
+https://meeting.psi.edu/mercurylab2022/registration/
+
+Mercury is a complex system of interconnected parts: magnetosphere, 
+exosphere, and surface. How Mercury responds to its interplanetary 
+environment is equally complex. Models help us understand how solar 
+wind and micrometeorites modify Mercury's surface spectral, mineral, 
+and chemical properties and produce the planet's exosphere. This 
+workshop will focus on identifying those processes whose uncertainties 
+hinder our ability to reliably model Mercury's response to the 
+interplanetary environment. We will discuss the laboratory 
+astrophysics studies, theoretical and experimental, most needed to 
+advance our understanding of Mercury's system.
+
+Registration fee: $115 USD (until December 13) and $175 USD (after 
+December 13)
+
+Some financial support is available for young and/or early career 
+scientists, as well as scientists not yet involved in Mercury related 
+science. To apply, please send a short email to 
+Johannes.Benkhoff@esa.int describing your background, providing a few 
+lines about why you would like to attend the workshop, and if possible, 
+indicating the connection of your current or planned work to the 
+BepiColombo mission.
+
+For additional details:
+
+https://meeting.psi.edu/mercurylab2022/
+
+Send questions to: MercuryLabAstro2022@gmail.com
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ESA: CALL FOR MEMBERSHIP IN THE EXPERT COMMITTEE FOR THE LARGE MISSION 
+COVERING THE SCIENCE THEME "MOONS OF THE GIANT PLANETS"
+
+The Director of Science at the European Space Agency (ESA) has issued 
+a Call for Membership in the Expert Committee for the Large mission 
+covering the science theme "Moons of the Giant Planets". This 
+committee will support the initial definition of space mission 
+concepts to fulfil the goals set for the "Moons of the Giant Planets" 
+science theme. This is the first scientific theme identified in the 
+new long-term scientific plan (Voyage 2050) for the ESA Science 
+Programme for the large mission following Athena and LISA. "Moons of 
+the Giant Planets" addresses issues such as habitability, 
+biosignatures, prebiotic chemistry, etc., to be implemented through a 
+planetary probe to one of the moons of either Jupiter or Saturn.
+
+Full details can be found at:
+
+https://www.cosmos.esa.int/web/call-for-expert-committee-for-moons-of-the-giant-planets/
+
+Deadline for receipt of applications is 18 January 2022
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA SCOPE CONNECT AT AGU
+
+Calling all career and early career scientists and engineers! You're 
+invited to attend!
+
+Let's get groovy in this 60's themed session featuring The Connect 
+Game, see-grant opportunities, connection with NASA communications 
+experts, and a far-out panel session with Meenakshi Wadhwa, Jim Bell, 
+David Padgett, Ariel Anbar, & David Williams. It'll be a gas!
+
+Find us in the Exhibit Hall, D-1, on opening night!
+
+December 13, 3:00 - 6:00 CT
+
+For more information:
+
+https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122468
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+CHANGED DATE FOR OPAG HYBRID TOWN HALL AT AGU MEETING 2021
+
+Session TH53I - Outer Planets Assessment Group (OPAG) Town Hall
+Date/Time: Thursday, 16 December 2021, 11:15 - 12:15 CST
+Location: Online and at the New Orleans Convention Center: Room 388-390 
+(must be registered for the AGU Meeting)
+
+https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/141047
+
+The purpose of the Outer Planets Assessment Group (OPAG) Town Hall is 
+to update the community on recent OPAG activities, and get community 
+input for upcoming activities including a focus on possible OPAG 
+responses to the Planetary Decadal Survey, which is to be released in 
+March.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MAKING SPACE: A WORKSHOP ON SPACE, ART, & SOCIETY
+
+Making Space is an in-person multi-day workshop about space, sciart, 
+and making where we use and create data-driven art as a tool to 
+communicate scientific concepts and explore humanity's relationship to 
+space. Participants will learn about how we can explore other worlds 
+through art, interpret spacecraft observations in a new light, 
+communicate ideas through making, do collaborative discussion and art 
+activities, and practice creating sciart through hands-on art labs 
+using a variety of techniques and mediums. The workshop is targeted 
+towards a mixed, adult audience with backgrounds (professional or 
+otherwise) in art and/or science. Artists, makers, scientists, science 
+communicators, and educators are encouraged to apply! 
+
+The first workshop is Feb 25-27, 2022 at the Catalyst Arts & Maker 
+Space in Tucson, AZ, with dates for Denver, CO and Pasadena, CA in the 
+works (sign up to be notified). Applications for Tucson are open now 
+until Dec 31st. These workshops are supported by NASA's Solar System 
+Exploration Research Virtual Institute (SSERVI).
+
+Website: https://trex.psi.edu/making-space
+
+Email Contact: jmolaro@psi.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ROSES-21: ANALOG ACTIVITIES TO SUPPORT ARTEMIS LUNAR 
+OPERATIONS - DESERT RATS 2022 FIELD CAMPAIGN
+
+The focus of C.29 Analog Activities to Support Artemis Lunar 
+Operations: Desert RATS 2022 field campaign is on supporting 
+high-fidelity science operations and operations constraints through 
+planetary field campaigns, specifically the Desert Research and 
+Technology Studies (D-RATS) 2022 field campaign. Funding provided in 
+this year's program element is intended to enable researchers to 
+participate as science team members in the planning, execution, and 
+analysis of D-RATS.
+
+Areas of specific interest to the Science Mission Directorate include, 
+but are not limited to:
+
+ 1. Defining and assessing science support team structures for science 
+    activities during human surface missions
+ 2. Understanding and optimizing human and robotic performance to 
+    maximize scientific return during human surface missions
+ 3. Defining science requirements for human missions, including 
+    requirements for mobility, navigation, communications, in-situ 
+    analysis, surface laboratory functionality, crew scheduling, and 
+    sample acquisition, handling, documentation, and curation
+ 4. Developing surface science scenarios for mission architecture 
+    planning and assessing potential science payload manifesting
+
+Notices of Intent to propose are not requested and proposals are due 
+February 8, 2022.
+
+Questions concerning C.29 DRATS may be directed to Sarah Noble at 
+sarah.noble-1@nasa.gov.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ABSCICON 2022 ABSTRACT DEADLINE: 19 JANUARY 2022
+
+Abstract submissions for the 2022 meeting are open. The deadline is 
+Wednesday 19 January 2022 at 11:59 PM EST. Submit abstracts here:
+
+https://www.agu.org/AbSciCon
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+EGU22 SESSION: FROM THE ENVIRONMENT OF THE EARTH TO THE ENVIRONMENT OF 
+THE SOLAR SYSTEM
+
+EGU 2022 will have a truly interdisciplinary session aiming to bring 
+Earth scientists and planetary scientists from a variety of 
+backgrounds together to discuss important issues facing our greater 
+world. Addressing the advancements and the problems of the 21st 
+century and the future of Earth and surroundings put heavy emphasis on 
+Earth and planetary sciences which have had some but not enough 
+interdisciplinary interactions at large scopes. We hope to gather 
+those that have already been involved in Earth/planetary 
+interdisciplinary work and those that have been dedicated to one field 
+but are curious to learn new perspectives. Please join us to give 
+latest updates, highlight critical concepts, share knowledge, and 
+foster new ideas in this rare multi-program session!
+
+Co-organized by PS11.1, BG7, CL3.2, GM11, OS4
+
+3-8 April 2022 at Vienna, Austria and Gather Online hybrid format
+
+Abstract submission deadline: 12 January 2022 13:00 CET
+
+Submit abstract:
+
+https://meetingorganizer.copernicus.org/EGU22/session/42718
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+44TH COSPAR SCIENTIFIC ASSEMBLY: ASTROCHEMISTRY AND COMPOSITION AS 
+ARIADNE'S THREADS FOR PLANET FORMATION
+
+Abstract submission is open for the 44th COSPAR Scientific Assembly 
+(16-24 July 2022, Athens, Greece in hybrid mode) and we invite you to 
+participate in the scientific event "Astrochemistry and Composition as 
+Ariadne's Threads for Planet Formation"
+
+Understanding how planetary systems form is becoming an increasingly 
+interdisciplinary field of study that is approaching the limits of 
+insight being gained from individual disciplines. The composition of 
+planetary bodies and the astrochemical processes that shape it 
+represent the common thread helping us to navigate the multifaceted 
+problem of planetary formation. Future studies will become even more 
+interdependent and will require combining the information supplied by 
+meteorites and polluted white dwarfs, the interstellar medium and 
+protoplanetary disks, comets and asteroids, planetary surfaces and 
+exoplanetary atmospheres, and more. This event aims to offer an 
+interdisciplinary venue to bring together researchers studying the 
+Solar System, exoplanets, star formation, protoplanetary disks, main 
+sequence and evolved stars to combine the insights provided by their 
+theoretical and experimental perspectives, as well as by observations 
+from ground-based and space-borne facilities.
+
+Abstract submission deadline: 11 February 2022
+
+More information can be found at:
+
+https://cospar-assembly.org/admin/session_cospar.php?session=1009
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AOGS 2022 CONVERTED TO ALL-VIRTUAL AND CHANGE OF DATE
+
+AOGS 2022 has been converted to an all-virtual conference and the 
+dates have also changed. The updated information is:
+
+August 1-5, 2022
+AOGS 2022
+https://www.asiaoceania.org/aogs2022/
+All-virtual
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR DECEMBER 2021
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the 
+December 2021 edition of the Mars Exploration Science Monthly 
+Newsletter can be found attached and on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+RELEASE OF MARS 2020 ANALYST'S NOTEBOOK FOR PERSEVERANCE ROVER
+
+The Mars 2020 Analyst's Notebook for Perseverance Rover is released 
+and available at:
+
+https://an.rsl.wustl.edu/m20
+
+The Notebook, developed by the PDS Geosciences Node, is a tool for 
+accessing the mission's science data archives and documentation. The 
+intended audience is the PDS science community, but the Notebook is 
+available to all users at no charge.
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+ABSCICON 2022 SESSION: EARTH GEYSERS AND OCEAN WORLD PLUMES - THE 
+CHALLENGES OF CHARACTERIZING A UNIQUE ENVIRONMENT
+
+We invite you to submit an abstract to our session that will explore 
+the connection between Earth-based plume and geysers systems, to those 
+found on planetary bodies and ocean worlds.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/141148
+
+Plume environments are present in both terrestrial systems and ocean 
+worlds, and provide a means to understand the composition and 
+(potential) biological communities within the reservoir from which it 
+is derived. Whether a cold CO2- or geothermal-driven geyser on Earth 
+or the plume of Enceladus or other ocean worlds, researchers face 
+similar challenges in sampling this material and tracing its 
+(bio)geochemical properties back to the source. This session invites 
+submissions ranging from field work and mission studies, to 
+experimental work and theoretical simulations, addressing the 
+challenges of sample collection, preparation, and analyses to 
+characterize geysering/plume environments. Papers that cover 
+spaceborne or aerial plume fly-through sampling systems, plume/geyser 
+material concentrators, purifiers, and analyses devices for field 
+studies, and other instrument or technical developments are also 
+encouraged. The goal of this session is to connect groups that may not 
+regularly overlap to stimulate new ideas and foster collaboration.
+
+Conveners,
+
+Morgan Cable, Kate Craft, Alex Patthoff
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+ABSCICON 2022 SESSION: TITAN AS A PREBIOTIC LABORATORY
+
+Please consider submitting to our Titan focused AbSciCon 2022 session, 
+"Titan as a Prebiotic Laboratory."
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112042
+
+Submission deadline: January 19
+
+From the ionosphere to its rocky core, Titan offers a unique 
+opportunity to explore pathways for prebiotic chemistry. In its 
+N2-CH4-based atmosphere, photolytic and radiolytic chemistry creates a 
+plethora of organic compounds, including large, complex haze 
+particles. These compounds eventually make their way to the surface 
+where geological processes rework and redistribute Titan's prebiotic 
+manna. Primordial organic material in the interior may be dissolved in 
+the subsurface ocean and serve as the ultimate source of Titan's 
+atmospheric methane. Whether either of these realms -atmosphere, 
+surface, interior- interacts with the other through the icy crust 
+remains unknown. As the most organic-rich ocean world in the Solar 
+System beyond Earth, Titan represents a compelling world to 
+investigate prebiotic chemistry. This session explores how 
+investigating Titan's different realms provides new insight into our 
+understanding of the limits of prebiotic evolution. Results from 
+remote sensing data, laboratory experiments, modeling, ground-based 
+observations are all welcome.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+ABSCICON 2022 SESSION: CROSSING THE THRESHOLD - IN SITU INSTRUMENTATION 
+TO SEEK LIFE, ITS PRECURSORS, AND GEOPHYSICAL CONTEXT ON EUROPA AND 
+OTHER OCEAN WORLDS
+
+Please submit your abstracts here!
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112403
+
+Submission deadline: January 19
+
+Recent missions have revealed a host of potentially habitable 
+environments on Ocean Worlds. The next step in the search for signs of 
+life, complex abiotic organic chemistry, and habitability will be to 
+perform landed investigations with access to the near-subsurface. 
+Astrobiologically-relevant materials including organics may be present 
+on these worlds at very low concentrations, driving the need for 
+specialized sample handling, enrichment and preparation techniques, 
+and/or extreme instrument measurement sensitivity. Missions will also 
+perform critical geophysical and geochemical investigations of the 
+moons' internal structures and composition, and conduct ground truth 
+observations to verify remote sensing observations. Additional 
+challenges are strict planetary protection constraints, limited 
+communication intervals, and operation in harsh environments with 
+stringent mass, power, and volume limits.
+
+This session seeks to highlight measurement requirements, laboratory 
+techniques, and instruments and technologies under development to 
+address these challenges and enable detection/characterization of 
+biosignatures, geophysical context, and habitability on Ocean Worlds.
+
+Conveners: Carina Lee, Rachel Moore, Tom Nordheim, Kate Craft
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+GSA NE SECTION MEETING: LATEST SCIENCE RESULTS AND UPDATES IN 
+PLANETARY SCIENCE RESEARCH, PROGRAMS, AND FLIGHT PROJECTS
+
+There is still time to submit abstracts to the upcoming Planetary 
+Science symposium that we are chairing at the Northeast Section 
+Meeting of the Geological Society of America (GSA) next spring. The 
+meeting will be held on March 20-22, 2022 in beautiful Lancaster, 
+Pennsylvania. Our plan is to showcase the wide range of excellent 
+planetary science that is carried out in the northeastern U.S. and 
+nearby Canada. We plan to include a mix of field and laboratory 
+research results, spacecraft mission data analysis, and updates on 
+missions still being developed.
+
+The deadline for abstract submission is December 14, 2021 at 
+11:59 PM Pacific time (Yes, that's Pacific time). We encourage you to 
+submit your abstracts as soon as possible to avoid any last minute 
+delays or technical problems.Please let us know if we can answer 
+questions you haveor help in any way.
+
+Information about the 2022 NE GSA meeting can be found at:
+
+https://tinyurl.com/GSA2022NE
+
+To submit abstracts to technical sessions:
+
+https://tinyurl.com/GSA2022NESubmit
+
+We look forward to welcoming you to Lancaster!
+Mike Kelley and Mitch Schulte
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+February 2-4, 2022
+SOFIA School
+https://sofia-school-2022.constantcontactsites.com
+Online
+
+April 13-15, 2022
+Fifth Hands-On Training in Handling and Manipulation of Small 
+Extraterrestrial Samples
+https://www.lpi.usra.edu/LPI-JSC-JWG/fifth-training-session/index.cfm
+West Lafayette, Indiana
+
+April 25-29, 2022
+Advancing IDEA in Planetary Science
+https://www.hou.usra.edu/meetings/advancingidea2022/
+Online
+
+May 2-5, 2022
+Science Objectives for Human Exploration of Mars Workshop
+https://www.hou.usra.edu/meetings/marsexploration2022/
+Denver, CO
+
+June 28-July 1, 2022
+Optimizing Planetary In Situ Surface-Atmosphere Interaction 
+Investigations
+https://www.hou.usra.edu/meetings/planetinsitu2022/
+Boise, ID
+
+August 1-5, 2022
+AOGS 2022
+https://www.asiaoceania.org/aogs2022/
+Online
+
+September 18-23, 2022
+Europlanet Science Congress (EPSC)
+https://www.europlanet-society.org/european-planetary-science-congress/
+Granada, Spain
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Modeling Early Clustering of Impact-induced Ejecta Particles Based on 
+Laboratory and Numerical Experiments
+Kanon Nakazawa et al. 2021 PSJ 2:237
+https://doi.org/10.3847/PSJ/ac3a6d
+
+Lifting of Tribocharged Grains by Martian Winds
+Maximilian Kruss et al. 2021 PSJ 2:238
+https://doi.org/10.3847/PSJ/ac38a4
+
+Near-UV Reddening Observed in the Reflectance Spectrum of 
+High-inclination Centaur 2012 DR 30
+Tom Seccull et al. 2021 PSJ 2:239
+https://doi.org/10.3847/PSJ/ac33b1
+
+The Infrared Complex Refractive Index of Amorphous Ammonia Ice at 40 K 
+(1.43-22.73 microns) and Its Relevance to Outer Solar System Bodies
+Joseph E. Roser et al. 2021 PSJ 2:240
+https://doi.org/10.3847/PSJ/ac3336
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

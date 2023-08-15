@@ -1,0 +1,385 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 7 (February 16, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Release of Research Opportunities in Space and Earth Science 
+   (ROSES) 2020 NRA by the Science Mission Directorate
+2. [NASA] Dual-Anonymous Peer Review Virtual Town Hall
+3. [NASA] PDS: GBRA Data Release
+4. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 20
+5. MER Data Catalog Survey
+6. Post-Doctoral Position at the CNR in Italy
+7. Summer School for Software Systems for Astronomy - Package for 
+   International Students
+8. Introduction to Planetary Image Analysis with ArcGIS
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] RELEASE OF RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCE
+(ROSES) 2020 NRA BY THE SCIENCE MISSION DIRECTORATE
+
+NASA's Science Mission Directorate (SMD) announces the release of its
+annual omnibus solicitation for basic and applied research, Research
+Opportunities in Space and Earth Science (ROSES) 2020 as NNH20ZDA001N, 
+on the NSPIRES web page at:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+To learn of the addition of new program elements and all amendments to
+this NRA, proposers may subscribe to:
+
+(1) The SMD mailing lists (by logging in at:
+
+http://nspires.nasaprs.com/
+
+and checking the appropriate boxes under "Account Management" and
+"Email Subscriptions"),
+
+(2) The ROSES-2020 RSS feed for amendments, clarifications, and
+corrections to at:
+
+http://science.nasa.gov/researchers/sara/grant-solicitations/ROSES-2020
+
+and
+
+(3) The ROSES-2020 due date Google calendar. Instructions will be
+available shortly after release at:
+
+https://science.nasa.gov/researchers/sara/library-and-useful-links
+
+(link from the words due date calendar).
+
+Frequently asked questions about ROSES-2020 will be posted at:
+
+http://science.nasa.gov/researchers/sara/faqs/ 
+
+shortly after release.
+
+Questions concerning general ROSES-2020 policies and procedures may be
+directed to Max Bernstein, Lead for Research, Science Mission
+Directorate, at sara@nasa.gov.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DUAL-ANONYMOUS PEER REVIEW VIRTUAL TOWN HALL
+
+On March 3, 2020 at 12:30pm Eastern Time, join leadership and division
+representatives from NASA's Science Mission Directorate for a virtual
+community Town Hall to discuss a pilot study to implement
+dual-anonymous peer review for four programs in ROSES-2020:
+
+   - A.30 Earth Science U.S. Participating Investigator
+   - B.4 Heliophysics Guest Investigators-Open (Step-1 and Step-2 
+     proposals will be anonymized)
+   - D.2 Astrophysics Data Analysis (ADAP)
+   - E.4 Habitable Worlds (only Step-2 proposals will be anonymized)
+
+The Town Hall will: (1) discuss the motivation for switching to
+dual-anonymous peer review, (2) describe how to write proposals that
+are compatible with dual-anonymous peer review, and (3) explain how
+dual-anonymous peer reviews work.
+
+In advance of the SMD Town Hall, questions may be submitted and upvoted
+at: 
+
+https://arc.cnf.io/sessions/qg98/#!/dashboard
+
+The Town Hall will broadcast live via WebEx:
+
+https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=
+m1dee6af29711d54dce8e7c250f66c4e7
+
+Meeting password: Smddapr2020!
+
+Audio-only participation is available by calling +1-415-527-5035,
+access 
+code 901 604 462.
+
+More information on dual-anonymous peer review at:
+
+https://science.nasa.gov/researchers/dual-anonymous-peer-review
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: GBRA DATA RELEASE
+
+The Planetary Data System is pleased to announce the next PDS-wide
+announcement of groundbased and R&A data. This release includes:
+
+Roberts Eros Ponds Catalog V1.0
+
+The data can be accessed from:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200211.shtml
+
+To access all data archived in the PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 20
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 20, nominally with data to November 2019
+
+  ACCEL (Accelerometer)
+  ANC (ancillary)
+  EUV (Extreme Ultraviolet Monitor)
+  LPW (Langmuir Probe and Waves)
+  MAG (Magnetometer)
+  NGIMS (Neutral Gas and Ion Mass Spectrometer)
+  ROSE (Radio Occultation Science Experiment)
+  SEP (Solar Energetic Particle)
+  SPICE
+  STATIC (Supra-Thermal and Thermal Ion Composition)
+  SWIA (Solar Wind Ion Analyzer)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200214.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MER DATA CATALOG SURVEY
+
+The goal of the Mars Exploration Rovers (MER) Data Catalog Project is
+to make it easy and simple for researchers who were not members of the
+MER team (as well as the general public) to discover and use Spirit and
+Opportunity data. We are conducting a survey to find out what features
+potential users would like to see in the catalog. We would appreciate
+it if you would take the survey, which should take ~5-10 minutes, by
+going to:
+
+http://www.merdatacatalog.com/survey
+
+Please also pass the link on to anyone who might want to use MER data.
+We're hoping to hear from Mars-focused and non-Mars-focused planetary
+scientists, Earth scientists, high school teachers, undergraduates,
+engineers, museum workers, and anyone at all who might be interested in
+working with MER data.
+
+Conducting a survey constitutes experimenting on humans, so we have
+sought and received approval for the survey from Cornell University's
+Institutional Review Board (IRB) Office. The survey does not collect
+any identifying information, and all data will be presented in
+aggregate. It will be open through April 2020; we will present interim
+results collected by February 29th 2020 at LPSC.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL POSITION AT THE CNR IN ITALY
+
+The National Research Council is offering a post-doctoral position at
+the Institute of Applied Mathematics and Information Technology in
+Milan. The project is entitled "Co-Orbital Motion and Three-Body
+Regimes in the Solar System".
+
+The aim is to analyze the co-orbital motion by means of perturbation
+methods applied to the third-body effect and, at the same time, by
+means of the restricted three-body problem and the corresponding
+invariant objects. The focus will be to understand the relationship
+between the two approaches and the possible transition towards
+different orbital regimes. A special emphasis will be given to apply
+the analysis to asteroidal motion.
+
+The project envisages two research periods abroad (about 1 month each):
+  - at the University of Thessaloniki under the supervision of Dr. G.
+    Voyatzis 
+  - at the University of Helsinki under the supervision of Prof.
+    M. Granvik.
+
+The candidate is expected to have a Ph.D. in applied mathematics,
+planetary sciences or aerospace engineering, with a robust background
+in celestial mechanics and numerical simulations.
+
+The duration of the position is 18 months, starting likely in spring
+2020.
+
+Those interested can contact Dr. Alessi at em.alessi@mi.imati.cnr.it
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SUMMER SCHOOL FOR SOFTWARE SYSTEMS FOR ASTRONOMY - PACKAGE FOR 
+INTERNATIONAL STUDENTS
+
+Please note that we have produced a package that allows international
+students to more easily attend the summer school in Software Systems
+for Astronomy (SSfA-7). The course will take place July 20-31, 2020, 
+on the Big Island of Hawaii. The course covers software design and 
+implementation of telescope and instrument control systems, 
+observation planning tools, and software for analyzing and archiving
+astronomical data. 
+
+If you are not a UHH student, use this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerAdmissions.php
+
+If you are a UHH student, use this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerCourseRegistration.php
+
+More information can be found here:
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2020/summer2020.php
+
+Interested students are encouraged to fill in this short questionnaire:
+
+http://132.160.60.71/~aconrad/ssfaQuest.html
+
+Direct questions to aconrad@hawaii.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INTRODUCTION TO PLANETARY IMAGE ANALYSIS WITH ARCGIS
+
+The Spacecraft Planetary Imaging Facility (SPIF) of Cornell University
+is offering this free workshop at the upcoming 51st LPSC on Sunday,
+March 15, sponsored by the Regional Planetary Image Facility (RPIF)
+network. This will be an introductory level course accessible to
+participants with no prior ArcGIS experience. The workshop will run
+from 9:00am to 4:00pm and will cover topics including ArcGIS basics,
+spatial analysis, and map document production, mostly through hands-on
+exercises using data from Mars Odyssey and Mars Global Surveyor.
+Participants will be given a one-year ArcGIS license as part of the
+workshop. Space is limited and registration is required:
+
+https://tinyurl.com/v8n6ng3
+
+The deadline for registration is March 6, 2020. Please contact Zoe 
+Learner Ponterio, SPIF Manager, for more information at 
+zap9@cornell.edu.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 8-12, 2020
+17th International Planetary Probe Workshop
+https://www.ippw2020.org/
+Monterey, CA
+
+April 14-16, 2020
+Titan Through Time 5
+https://titanthroughtime.org
+Boulder, CO
+
+June 8-12, 2020
+17th International Planetary Probe Workshop
+https://www.ippw2020.org
+Monterey, CA
+
+August 9-14, 2020
+83rd Annual Meeting of The Meteoritical Society
+https://www.metsoc2020.com
+Glasgow, Scotland
+
+August 11-13, 2020
+Experimental Analysis of the Outer Solar System II (#ExOSS)
+https://www.hou.usra.edu/meetings/exoss2020/
+Fayetteville, AR
+
+September 22-25, 2020
+Comet-Like Activity of Small Bodies in the Solar System
+https://www.cometactivity2020.eu
+Tatranska Lomnica, Slovakia
+
+September 27-October 2, 2020
+Europlanet Science Congress
+https://www.epsc2020.eu
+Granada, Spain
+
+October 25-28, 2020
+GSA Annual Meeting
+https://community.geosociety.org/gsa2020/home
+Montreal, Canada
+
+October 25-30, 2020
+52nd Meeting of the Division for Planetary Sciences of the American
+Astronomical Society
+https://dps.aas.org/meetings/current
+Spokane, WA
+
+November 16-20, 2020
+Magnetism & Accretion
+http://ma2020.saao.ac.za
+Cape Town, South Africa
+
+November 18-20, 2020
+5th International Workshop on Instrumentation for Planetary Missions
+2020  
+https://www2.rikkyo.ac.jp/web/ipm2020/
+Tokyo, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

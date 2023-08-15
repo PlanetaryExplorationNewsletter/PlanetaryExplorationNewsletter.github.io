@@ -1,0 +1,561 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 13 (March 13, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  Status At Sendai (Tohoku University) Japan
+2.  NASA Center for Lunar Dust and Atmospheric Studies (NLSI/CCLDAS)
+3.  Magnetosphere for Outer Planets Conference 2011 (2nd announcement)
+4.  [NASA] Unique and Innovative Space Technology Broad Agency 
+     Announcement
+5.  [NASA] Innovative Advanced Concepts Research Announcement 
+6.  [NASA] Technology Demonstration Missions Program Broad Agency 
+     Announcement
+7.  Job Announcement: Senior Director, Google Lunar X PRIZE 
+     (Playa Vista, CA)
+8.  Request for Input on USGS/Isis Software Support for Additional 
+     Planetary Imaging Instruments
+9.  A National Conference on Science Education and Public Outreach
+10. Deadline Alert for AOGS Session: Outer Planets & Icy Worlds (PS.06)
+11. Deadline Alert for AOGS Session: Astrobiology - Life in the 
+     Universe (PS 14)
+12. First Announcement for the Enceladus Focus Group Meeting
+13. ESA training workshops: Venus Express and Mars Express
+14. OPAG Meeting 17-18 March, 2011, Alexandria, VA
+15. Planetary Calendar Meeting Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+STATUS AT SENDAI (TOHOKU UNIVERSITY) JAPAN
+
+From: 
+Yasumasa Kasaba 
+Department of Geophysics, 
+Graduate School of Science, 
+Tohoku University
+Current Email: kasabaya888@dk2.so-net.ne.jp [Normal email, 
+kasaba@pat.gp.tohoku.ac.jp is not available because of loss of power 
+at Tohoku University]
+
+I am unfortunately at Uppsala, Sweden now. Not at Sendai. Based on 
+emails with my colleagues and web information, the current status of 
+the Tohoku University Group at Sendai is as follows.
+
+I confirmed that all our members I could catch were safe.
+
+Center of Sendai (including Tohoku University): 
+
+It has relatively stronger ground. It has partially recovered from 
+water, but there is no power. There is rare fire.
+
+East area: 
+
+Worse. Worst at the coast area by Tsunami.
+
+Guests staying at Sendai for the International Symposium on 
+Planetary Science:
+
+There were numerous guests in this week for a large workshop. 
+If you need to confirm and contact, please let me know. I will try 
+to search.
+
+I try to be back tomorrow. It seems possible to reach Tokyo (or Osaka) 
+in the morning on 13 March. But at the moment, I do not find a route 
+to my home.
+
+[Edited/reformatted by Editor M.V. Sykes, who assumes responsibility 
+for any errors.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA CENTER FOR LUNAR DUST AND ATMOSPHERIC STUDIES (NLSI/CCLDAS)
+
+NASA Lunar Science Institute's Colorado Center for Lunar Dust and 
+Atmospheric Studies (NLSI/CCLDAS) has completed the construction of 
+a 3 MV electrostatic dust accelerator. The device is capable of 
+accelerating ~ 0.01 - 10-micron radius dust particles to velocities in 
+the approximate range of 1-60 km/s. The experimental goals of CCLDAS 
+include the effects of hypervelocity dust impacts on: 
+a) optical devices
+b) secondary dust ejecta, neutral gas, and plasma production
+c) electrical signals from antennas
+d) the testing and calibration of dedicated dust instrumentation 
+
+The facility is available for use by the lunar and space physics 
+communities.  Please contact Mihaly Horanyi (horanyi@colorado.edu) 
+if you are interested in using this facility.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MAGNETOSPHERE FOR OUTER PLANETS CONFERENCE 2011 (2ND ANNOUNCEMENT)
+
+July 11-15, 2011 (the week following IUGG)
+Tohoku University
+Sendai, Japan
+
+Topics of the conference include all aspects of the magnetospheres of
+the outer planets, including aurorae, ionospheres, satellites, torus,
+and any comparative studies of these including exoplanets.
+
+Planned Schedule (fixed)
+* Abstract submission deadline: May 13 (Fri), 2011
+* Registration:  May 27 (Fri), 2011
+
+Website includes:
+* Invited speakers (20)
+* Special WS for Modeling Study (evening of 2nd day)
+
+http://mop2011.jimdo.com/
+
+For Logistics see: 
+
+http://pat.gp.tohoku.ac.jp/MOP/MOP2011-Tour.pdf
+
+Abstract submission / Registration / Meeting Location /
+Hotels / Transportation / Excursion (incl. several TBD items)
+
+* Travel support for young scientists & students:
+see P.2 in the document above. [Submission is not opened yet, but 
+pre-contact to the LOC is OK as of now.]
+
+You can also subscribe to the MOP mailing list, Mop@ion.le.ac.uk at:
+
+https://mail.ion.le.ac.uk/mailman/listinfo/mop/
+
+Questions, please contact: MOP2011 LOC mop2011 at pat.gp.tohoku.ac.jp
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] UNIQUE AND INNOVATIVE SPACE TECHNOLOGY BROAD AGENCY ANNOUNCEMENT
+
+The Game Changing Technology Division, within NASA's Office Of Chief 
+Technologist (OCT) is soliciting executive summaries, white papers, 
+and proposals for research and development for technology that is 
+innovative and unique and promises to enable revolutionary 
+(game-changing) improvements to the efficiency and effectiveness of 
+our country's space capability. Novel (unique) capabilities are sought 
+in any of the NASA Space Technology Grand Challenges or the NASA draft 
+Space Technology Roadmaps. Responses may be submitted at any time 
+while this solicitation is open. Responses will be reviewed and award 
+decisions made throughout the year.
+Final due dates are: 
+Executive Summary: October 1, 2011
+White Paper: November 1, 2011
+Proposal: January 3, 2012.
+
+This solicitation may be found at: 
+
+http://nspires.nasaprs.com/ 
+
+(choose "Solicitations" to "Open Solicitations")
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] INNOVATIVE ADVANCED CONCEPTS RESEARCH ANNOUNCEMENT
+
+This announcement solicits multiple studies, each of which will 
+investigate an architecture, mission, or system concept that has the 
+potential to change the possible in aeronautics or space. NASA 
+Innovative Advanced Concepts (NIAC) is part of the Office Of Chief 
+Technologist (OCT). Concepts proposed for NIAC Phase I studies must 
+be innovative and visionary, technically substantiated, and very early
+in development (10+ years out; Technology Readiness Level 1, 2, or 
+early 3). Focused technology maturation and incremental improvement 
+are explicitly not of interest in this program. Finally, while NIAC 
+encourages great leaps and accepts the accompanying risk, all 
+proposals must be technically credible, based on sound scientific 
+principles. NOIs are strongly encouraged by March 29, 2011. 
+Final proposals are due May 2, 2011.
+
+This solicitation may be found at: 
+
+http://nspires.nasaprs.com/ 
+
+(choose "Solicitations" to "Open Solicitations")
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] TECHNOLOGY DEMONSTRATION MISSIONS PROGRAM BROAD AGENCY 
+ANNOUNCEMENT
+
+This announcement solicits proposals for the demonstration of space 
+technologies that provide new system-level technological capabilities.
+The Office Of Chief Technologist's (OCT) Technology Demonstration 
+Missions Program is seeking to identify candidate crosscutting, 
+system-level technologies to be demonstrated in the relevant 
+environment such as ground, air, suborbital, or orbital regimes. A 
+key requirement in this program is that the technology under 
+consideration must clearly be crosscutting. Crosscutting is defined 
+as a technology with potential to benefit more than one customer, where 
+a customer can be a NASA Mission Directorate, another government 
+agency, academia, or the aerospace industry. Proposals will be due on 
+or before May 31, 2011.
+
+This solicitation may be found at: 
+
+http://nspires.nasaprs.com/ 
+
+(choose "Solicitations" to "Open Solicitations")
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: SENIOR DIRECTOR, GOOGLE LUNAR X PRIZE 
+(PLAYA VISTA, CA)
+
+The X PRIZE Foundation is looking for a Senior Director of the Google 
+Lunar X PRIZE to lead the competition's operations and act as a 
+spokesperson for the competition. The Senior Director must be a 
+personable, driven self-starter, team player, and able communicator 
+with a deep belief in the mission of the Google Lunar X PRIZE.
+
+Primary Responsibilities:
+* Provide leadership and managerial direction to the Google Lunar X 
+   PRIZE team.
+* Lead the development and execution of the marketing, online, 
+   education, and public outreach strategy.
+* Create and execute against business, project, marketing and 
+   fundraising plans.
+* Manage the competition, judging, and events.
+* Retain and promote teams registered to compete for the Google Lunar 
+   X PRIZE.
+* Liaise with the space industry and relevant government agencies.
+
+Required Qualifications:
+* Undergraduate degree (business administration, marketing, 
+   communications, science, or engineering preferred).
+* Deep understanding of the growing commercial space industry.
+* Seven to ten years of senior level program management with experience 
+   successfully leading large, complex programs.
+* Experience creating and implementing marketing, education, and 
+   outreach programs with the general public and students.
+
+Apply at:
+
+http://hiring.accolo.com/job.htm?id=270808268
+
+Heather Carter, Director, HR
+310-741-4896
+heather.carter@xprize.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+REQUEST FOR INPUT ON USGS/ISIS SOFTWARE SUPPORT FOR ADDITIONAL 
+PLANETARY IMAGING INSTRUMENTS
+
+We request your vote on which additional instruments should be 
+supported by USGS/ISIS 3 software.  The results will help us to 
+prioritize planetary imaging instruments for development of ISIS 3 
+camera models.  Such models allow ingestion and map projection of image 
+data in ISIS 3 and facilitate the use of other ISIS 3 software for 
+calibration, photometric correction, mosaicking and other cartographic 
+data processing.  Please respond by April 8, 2011.
+
+To provide input, please first register at the ISIS Support site:
+
+https://isis.astrogeology.usgs.gov/IsisSupport/
+index.php?action=register
+
+If you already have an ISIS Support account the direct link is:
+
+https://isis.astrogeology.usgs.gov/IsisSupport/index.php/
+topic,3066.0.html
+
+For more information on ISIS 3 (including which instruments are 
+already supported), see:
+
+http://isis.astrogeology.usgs.gov/index.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+A NATIONAL CONFERENCE ON SCIENCE EDUCATION AND PUBLIC OUTREACH
+
+Baltimore, Maryland, July 31 - Aug. 3, 2011
+ 
+The Astronomical Society of the Pacific (ASP), in partnership with the 
+American Geophysical Union and the Space Telescope Science Institute, 
+is pleased to announce the 2011 national conference, "Connecting 
+People to Science." 
+
+Visit the web site:
+
+http://www.astrosociety.org/2011meeting 
+ 
+Everyone working in education, public outreach, and science 
+communication -- in space, earth, or physical science -- is cordially 
+invited.  We will consider how best to share the results of our work 
+with each other and the public, how to improve our practice, and how 
+to make connections across science disciplines. 
+
+People working in formal education, at informal settings, at 
+government agencies and labs, at non-profit organizations, on the web,
+and in the media will be participating. 
+  
+There will also be a weekend workshop on teaching hands-on astronomy on 
+July 30, 31, for teachers in grades 3-12, and those who work with them.  
+ 
+Abstracts are welcome for poster papers, 10-minute oral presentations, 
+one-hour hands-on workshops, and one-hour special-interest group 
+discussions. Abstract deadline: April 22.
+ 
+There is a substantial discount for early registration and for ASP 
+members. Conference location: the beautiful Tremont Plaza Hotel near 
+the Baltimore Inner Harbor.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DEADLINE ALERT FOR AOGS SESSION: OUTER PLANETS AND ICY WORLDS (PS.06)
+
+Annual Meeting of the AOGS (Asia-Oceania Geosciences Society)
+Taipei, Taiwan August 8-12, 2011
+Abstract deadline: March 15, 2011
+
+http://www.asiaoceania.org/aogs2011/public.asp?page=home.htm
+
+This session will be devoted to outer planet satellites, including Io 
+and icy worlds large (e.g. Titan) and small (e.g. Enceladus), rings
+and icy dwarf planets. The session will include
+solicited, contributed, and poster presentations addressing 
+observational, laboratory, and theoretical studies relevant to past, 
+ongoing, and future missions. Relevant topics include:
+(1) interior structure, composition and thermal evolution,
+(2) surface geology and composition,
+(3) composition and dynamics of neutral atmospheres
+(4) orbital dynamics and satellite interactions,
+(5) structure and dynamics of planetary rings,
+(6) physical properties of ring particles and small satellites of 
+outer planet satellites.
+
+Contact: 
+Dr. Steve Vance (Jet Propulsion Laboratory, Caltech, United States)
+svance@jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DEADLINE ALERT FOR AOGS SESSION: ASTROBIOLOGY - LIFE IN THE 
+UNIVERSE (PS 14)
+
+Annual Meeting of the AOGS (Asia-Oceania Geosciences Society)
+Taipei, Taiwan August 8-12, 2011
+Abstract deadline: March 15, 2011
+
+http://www.asiaoceania.org/aogs2011/public.asp?page=home.htm
+
+This session invites solicited, contributed, and poster presentations 
+addressing:
+(1) conditions on the early Earth that may have been necessary for the 
+origin of life.
+(2) subsequent events and conditions that may have contributed to the 
+evolution of organisms and the development of Earth's climate.
+(3) biological & geochemical characterization of extreme environments. 
+(4) habitability of extraterrestrial atmospheres, surfaces & interiors.
+(5) methods or technological approaches for detecting biosignatures.
+
+Contact: 
+Dr. Louise Prockter (Johns Hopkins University, United States)
+louise.prockter@jhuapl.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+FIRST ANNOUNCEMENT FOR THE ENCELADUS FOCUS GROUP MEETING
+
+This meeting will be held at SETI Institute in Mountain View, 
+California on May 23/24, 2011. 
+The  meeting's focus is on the current activity discovered at 
+the south pole of Enceladus, and on the significance and implications 
+of this discovery for the presence of liquid water and a habitable 
+zone beneath the south polar terrain and for astrobiology.
+
+We request presentations falling within four broad areas:
+1. Energy/Mechanisms: The jetting activity at Enceladus' south pole, 
+    and related geological and geophysical investigations; the moon's 
+    energy budget and thermal/geological history.
+2. Habitability: Is there a liquid water reservoir beneath the surface 
+    of Enceladus?
+3. Biomarkers/Astrobiology: Biomarkers in the plume: What has been, or 
+    can be, observed from Cassini; What should be sought in the future; 
+    Relevant astrobiological considerations.
+4. Future Missions: Mission requirements and concepts for future 
+    exploration of Enceladus
+
+The meeting is sponsored by:
+The Cassini Imaging Central Laboratory for Operations (CICLOPS) at the 
+Space Science Institute in Boulder, Colorado
+SETI Institute in Mountain View, California
+The Center for Integrative Planetary Science (CIPS) at UC Berkeley
+
+Organizers: Carolyn Porco and Chris McKay
+Local organization contact: Franck Marchis (fmarchis@berkeley.edu)
+
+Meeting registration: 
+
+http://encfg.ciclops.org/meeting_registration.php
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ESA TRAINING WORKSHOPS: VENUS EXPRESS AND MARS EXPRESS
+
+ESA is organizing training workshops on their Venus Express and Mars
+Express science data holdings, targeted to the science community at 
+large.
+
+Data Workshops are intended to provide users of the Planetary Science
+Archive (PSA): 
+
+http://www.rssd.esa.int/PSA
+
+and scientists interested in exploring and using ESA planetary science 
+data the possibility to meet experts from the Instrument Teams and get 
+some direct hands-on experience with basic data handling, processing 
+and integration.
+
+Joint Mars Express / Venus Express Workshop will be held 27th June to
+1st July at ESAC. 
+
+Workshop focus:
+1) PFS data: spectroscopic analyses of the Martian atmosphere from ~1 
+    to 50 microns
+2) SOIR data: infrared spectrometer using solar occultation to study 
+    the composition of the Venus atmosphere
+
+Required: knowledge of IDL and Matlab.
+
+Information and updates available at:
+
+http://www.rssd.esa.int/mexdataworkshops/
+
+The attendance for any workshop is limited to about 25 persons and is
+decided on a first come, first served basis.
+
+If you are interested in attending this workshop, please email us
+(dataworkshops@rssd.esa.int) with the following information:
+
+- Name
+- Institution
+- Level: student, PhD, Post doc, ...
+- Interest for which data: PFS, SPICAV-SOIR
+
+*Deadline: 22nd April 2011*
+
+[Edited for length.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+OPAG MEETING 17-18 MARCH, 2011, ALEXANDRIA, VA
+
+OPAG will meet this week at the Westin Alexandria.  Those wishing to 
+attend should go to:
+
+http://icpi.nasaprs.com/opag2011 
+
+to register and for information.  
+
+The Planetary Science Decadal Survey has been released, with important 
+consequences for the future of Outer Planets exploration. This meeting 
+of OPAG will be focused on assessing these consequences, and beginning 
+the important work of charting a path forward. 
+
+The AGENDA can be found at:
+
+http://www.lpi.usra.edu/opag/mar2011/Agenda.pdf 
+
+For those who cannot attend in person, information for participation 
+by phone or webex will be made available.
+
+Bill McKinnon
+OPAG Chair
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 17-18, 2011
+NASA Outer Planets Assessment Group Meeting
+http://icpi.nasaprs.com/opag2011
+Alexandria, VA
+
+April 11-14, 2011
+27th National Space Symposium
+http://www.nationalspacesymposium.org/
+Colorado Springs, CO
+
+May 23-24, 2011
+Enceladus Focus Group Meeting
+http://encfg.ciclops.org/meeting_registration.php
+Mountain View, CA
+
+June 8-10, 2011
+Space Cryogenics Workshop
+http://www.spacecryogenicsworkshop.org/
+Coeur D'Alene, ID
+
+June 16-17, 2011
+24th Meeting of the NASA Mars Exploration Program Analysis Group
+http://mepag.jpl.nasa.gov/meeting/jun-11/index.html
+Lisbon, Portugal
+
+June 27 - July 1, 2011
+Joint Mars Express/Venus Express Workshop
+http://www.rssd.esa.int/mexdataworkshops/
+Villanueva de la Canada, Spain
+
+August 25-26, 2011
+Fifth Meeting of the NASA Small Bodies Assessment Group
+http://www.lpi.usra.edu/sbag/
+Pasadena, CA
+
+November 5-9, 2011
+2011 PERC Planetary Geology Field Symposium and Field Trip
+http://www.perc.it-chiba.ac.jp/meetings/pgfs2011/
+Kitakyushu City, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

@@ -1,0 +1,525 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 3 (January 20, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Habitable Worlds Across Space and Time
+2. AOGS 2013, Session PS07: Spectropolarimetric Exploration of 
+   Planetary Systems and Their Habitability 
+3. First COSPAR Symposium
+4. Second Announcement - The Pluto System on the Eve of Exploration by 
+   New Horizons: Perspectives and Predictions
+5. NASA Postdoctoral Fellowships
+6. Reull Vallis, Mars, Imaged in 3D and Color by Mars Express HRSC
+7. 5th Workshop on Hyperspectral Image and Signal Processing: 
+   Evolution in Remote Sensing (WHISPERS)
+8. Planetary Astronomers - Note New Categories in Hubble Proposal Call
+9. NASA Planetary Science Summer School Applications
+10. Stardust Interstellar Dust Now Available
+11. Announcement of 2nd International Opportunity for JAXA HAYABUSA 
+    Samples
+12. The 2012 Draconid Storm Potentially Sampled by NASA ER-2 Aircraft
+13. Heliophysics of Solar Systems: Summer School 
+14. Faculty Job in Planetary Physics and Astrophysics in Toronto
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+HABITABLE WORLDS ACROSS SPACE AND TIME
+
+Second Announcement: The 2013 STScI Spring Symposium
+April 29 - May 2, 2013
+
+Abstract submission deadline: March 15, 2013
+On-line registration deadline: March 29, 2013
+
+Within a matter of years, humanity will know for the first time the 
+frequency of terrestrial planets in orbit around other stars. In this 
+four-day symposium, scientists from diverse fields will discuss the 
+formation and long-term evolution of terrestrial bodies throughout the 
+various phases of stellar and Galactic evolution. A particular focus 
+will be in how the specific conditions and challenges for habitability 
+on Earth extend to other bodies in the Solar System and beyond. The 
+existence of these overlooked environments may provide motivation for 
+novel astronomical observations with existing and next generation 
+ground and space-based observatories.
+
+Registration for this Symposium is now open and there are a limited 
+number of spots. Please go to:
+
+http://www.stsci.edu/institute/conference/habitable-worlds
+
+and click on the "Register" link. We also invite contributions in the 
+form of talks and posters, which can be submitted during the 
+registration process or after one has registered. Only a small number 
+of contributed talks are available.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AOGS 2013, SESSION PS07: SPECTROPOLARIMETRIC EXPLORATION OF PLANETARY
+SYSTEMS AND THEIR HABITABILITY
+
+Brisbane, Australia
+24-28 June 2013
+
+Abstract due: 29 Jan 2013
+
+Spectro-polarimetry is becoming a valuable  remote sensing tool to 
+explore our solar system (including earth, planetary atmospheres, 
+satellite, ring systems, comets, asteroids, trans-Neptunian objects, 
+etc.) to understand its formation and evolution. With the increasing 
+diversity of extrasolar planetary systems, it important to understand 
+their formation and evolution and place our solar system in context. 
+This session will include invited and contributed talks on: (i) 
+application of the principles of polarization to remote sensing; and 
+(ii) role of polarization as an independent and complementary remote 
+sensing tool to imaging and spectroscopic techniques; (iii) 
+laboratory measurements and modelling; (iv) instrumentation and 
+missions and (v) astrobiology and habitability. We welcome both 
+polarimetrists and non-polarimetrists (observers, theorists and 
+experimentalists) that study planetary systems to identify the 
+challenges and advances in this growing field.
+
+Conveners:
+
+Dr. Padma A. Yanamandra-Fisher (Space Science Institute, USA), 
+padmayf@gmail.com
+Dr. Jeremy Bailey (UNSW, Australia)
+Dr. Motohide Tamura (National Astronomical Observatory of Japan),
+motohide.tamura@nao.ac.jp
+Dr. Sujan Sengupta (Indian Institute of Astrophysic, India)
+Dr. Ludmilla Kolokolova (University of Maryland, USA), 
+ludmilla@astro.umd.edu
+Dr. Anny-Chantal Levasseur-Regourd (Univ. P and M Curie, France),
+chantal.levasseur@aerov.jussieu.fr
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FIRST COSPAR SYMPOSIUM
+
+Bangkok, Thailand 
+11-15 November 2013
+ 
+This Symposium is the first of a new series of events initiated by 
+COSPAR which aims to promote space research at a regional level in 
+emerging countries and will be held every two years in a different 
+area of the world. The Symposium will include multidisciplinary and 
+training sessions.
+ 
+This first Symposium will address the theme "Planetary Systems of our 
+Sun and other Stars, and the Future of Space Astronomy". It is open to 
+participants from all regions, but scientists, young professionals and 
+students in the Asian region are particularly encouraged to 
+participate. The Symposium will feature plenary lectures as well as 
+parallel and poster sessions.
+ 
+A Capacity Building Workshop entitled "Atmospheric Correction of Earth 
+Observation Data for Environmental Monitoring: Theory and Best 
+Practices" will also take place in Bangkok at GISTDA the week before 
+the Symposium from 4 to 8 November 2013 for which participants from 
+the Asian region will be selected by application.
+ 
+For additional information, the detailed program, abstract submission, 
+deadlines and registration:
+
+http://www.cospar2013.gistda.or.th
+
+cospar2013@gistda.or.th
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SECOND ANNOUNCEMENT - THE PLUTO SYSTEM ON THE EVE OF EXPLORATION
+BY NEW HORIZONS: PERSPECTIVES AND PREDICTIONS
+
+In July 2015, NASA's New Horizons mission will conduct the first 
+in-situ exploration of the Pluto system in the Kuiper Belt. This 
+scientific conference will take stock of our current knowledge of the 
+Pluto system in advance of the New Horizons flyby, and introduce 
+potential new mission collaborators and those interested in 
+participating in NASA/SMD Pluto system data analysis programs to the 
+details of the scientific investigations planned during the 6-month 
+New Horizons encounter.
+
+Both registration and abstract submission are now open for the 
+Pluto-2013 conference at:
+
+http://plutoscience.jhuapl.edu
+
+Abstracts are solicited on all facets of the Pluto system-including 
+origins, interiors, surfaces, compositions, atmospheres, satellites, 
+plasma, and context in the Kuiper Belt.
+
+Meeting Dates: July 22-26
+Abstract Deadline: April 15
+Early Bird Registration Deadline: May 31
+Reception: July 21
+
+The meeting is being held at The Johns Hopkins University Applied
+Physics Laboratory in Laurel, Maryland, USA.
+
+Special issues of both Icarus and JGR-Planets are planned to publish
+new results and prediction papers in 2014.
+
+Join us for this landmark meeting!
+
+Alan Stern (Program Committee Chair)
+Hal Weaver (Local Organizing Committee Chair)
+
+[Edited for length.]
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REULL VALLIS, MARS, IMAGED IN 3D AND COLOR BY MARS EXPRESS HRSC
+
+ESA's Mars Express imaged the striking upper part of the Reull Vallis
+region of Mars with its high-resolution stereo camera in 2012.
+More at:
+
+http://www.esa.int/Our_Activities/Space_Science/Reull_Vallis_a_river
+_ran_through_it
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+5TH WORKSHOP ON HYPERSPECTRAL IMAGE AND SIGNAL PROCESSING: EVOLUTION IN 
+REMOTE SENSING (WHISPERS)
+
+June 25-28, 2013
+University of Florida 
+Gainesville, Florida
+
+We invite the planetary science community to join colleagues from the 
+terrestrial remote sensing and signal processing communities. This 
+year, we are proposing a special session devoted to techniques in 
+planetary image processing with a data users workshop. The deadline for 
+papers is soon (February 15). These are 4-pages, peer-reviewed prior to 
+acceptance, and published in IEEE Transactions. It is the perfect venue 
+for technically-focused advances. We hope you can join us in Florida. 
+Please contact sylvain.doute@obs.ujf-grenoble.fr or ehlmann@caltech.edu 
+for more information.
+
+http://core.ieee-whispers.com/index.php?option=com_content&view
+=article&id=211&Itemid=55
+
+Imaging spectroscopy in the visible and infrared is a key remote 
+sensing technique for exploring planetary objects in the Solar System. 
+Since 1989, imaging spectrometers have operated at the Moon, Mars, 
+Venus, Jupiter, Saturn, asteroids, and outer planet satellites. 
+Continuing technological advances have generated improvements in 
+dimensionality and precision. This special session welcomes all 
+contributions that represent the state-of-the-art in hyperspectral 
+imaging for planetary exploration: sensors (design, calibration), image 
+processing (artifact reduction, atmospheric correction), photometry, 
+physical modeling, spectral unmixing and endmember extraction, and 
+applications (minerals, ices, aerosols, regolith properties, etc.).
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY ASTRONOMERS - NOTE NEW CATEGORIES IN HUBBLE PROPOSAL CALL
+
+NASA and STScI are pleased to announce the Cycle 21 Call for Proposals 
+for Hubble Space Telescope Observations and funding for Archival 
+Research and Theoretical Research programs. Solar System astronomers 
+may be interested to learn that Cycle 21 features a new category of 
+medium proposals (35-74 orbits), and the threshold for Large programs 
+has been dropped to >75 orbits. Over the past 20 cycles, Solar System 
+science has been allocated ~5% of the total observing time, or over 
+3200 orbits. However, only one large GO proposal for Solar System 
+observations has been submitted since Servicing Mission 4; that 
+proposal was awarded time in Cycle 17 (GO 11644). The planetary 
+community is encouraged to take advantage of the new opportunities.
+
+Further information about the Hubble Cycle 21 call is available
+electronically from the STScI Announcement Web Page:
+
+http://www.stsci.edu/hst/proposing/docs/cycle21announce
+
+More information specifically for Solar System astronomers interested 
+in Hubble can be found at in a presentation by John Clarke:
+
+http://www.stsci.edu/jwst/science/dps12-clarke-hst-go.pdf
+
+Questions can be addressed to the STScI Help Desk at:
+
+help@stsci.edu
+410-338-1082
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS
+
+NASA is accepting applications from science and engineering post-docs, 
+recent PhDs, and doctoral students for its 25th Annual Planetary 
+Science Summer School, which will hold two separate sessions this 
+summer (July 29-August 2 and August 12-16) at the Jet Propulsion 
+Laboratory in Pasadena, Calif. During the program and pre-session 
+webinars, student teams will carry out the equivalent of an early 
+mission concept study, prepare a proposal authorization review 
+presentation, present it to a review board, and receive feedback. By 
+the end of the session, students will have a clearer understanding of 
+the life cycle of a space mission; relationships between mission 
+design, cost, and schedule; and the tradeoffs necessary to stay within 
+cost and schedule while preserving the quality of science. 
+Applications are due April 5, 2013. Partial financial support is 
+available for a limited number of individuals. Further information is 
+available at:  
+
+http://pscischool.jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+STARDUST INTERSTELLAR DUST NOW AVAILABLE
+
+The Stardust Curator announces the availability of samples from the 
+Stardust Interstellar Dust Collector for general allocation to 
+qualified Stardust Investigators. Samples from both the aerogel and 
+aluminum foil collectors are available. Because these samples present 
+unprecedented challenges in sample preparation and analysis, it is 
+recommended that investigators thoroughly familiarize themselves with 
+the collection before submitting a sample request. Preprints of the 
+reports of the Stardust Interstellar Preliminary Examination (ISPE), 
+currently in review at MAPS, are available to qualified Stardust 
+Investigators on request from the Curator. Because interstellar dust 
+particles in the collection appear to be extremely rare, extensive 
+and rigorous demonstration of techniques using analogs will be a 
+prerequisite for analyses of interstellar dust candidates.     
+
+Sample requests, following the format outlined on the Stardust 
+Curatorial website, may be submitted to:
+
+Mike Zolensky, Stardust Curator
+michael.e.zolensky@nasa.gov
++1-281-483-5128
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ANNOUNCEMENT OF 2ND INTERNATIONAL OPPORTUNITY FOR JAXA HAYABUSA SAMPLES
+
+JAXA has announced that they are now accepting proposals for HAYABUSA 
+samples. The proposed investigation must address science questions that 
+can be answered by analyzing the particles obtained from the surface of 
+asteroid Itokawa. Participation is open to all researchers who have 
+demonstrated the ability to usefully handle and analyze 20 to 50 
+micrometer diameter particles. This 2nd International AO follows the 
+Initial Analysis performed by preselected teams (partial results of 
+which were published in Science magazine in August 2011) and the 1st 
+International AO issued in January 2012. All proposals will be 
+subjected to peer review handled by the Implementation Committee for 
+the 2nd HAYABUSA AO. See the HAYABUSA Investigators Guidebook for more 
+information. Proposals are due by 9 March 2013, 1500UT (2400JST:Japan 
+Standard Time). Please see this website for complete information: 
+
+http://hayabusaao.isas.jaxa.jp/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+THE 2012 DRACONID STORM POTENTIALLY SAMPLED BY NASA ER-2 AIRCRAFT
+
+NASA JSC's Cosmic Dust Collection Program has made special attempts to 
+collect dust from particular meteor showers and asteroid families when 
+flights can be planned well in advance, and very occasionally on short 
+notice. Radar measurements obtained by the Canadian Meteor Orbit Radar 
+during the 2012 Draconid shower indicated a meteor storm  occurred with 
+a peak at Lo = 195.622 or 16:38 (±5 min) UT on Oct 8, 2012, of total 
+duration ~2 hours (thank you Peter Brown). Draconids, originating from 
+comet Giacobini-Zinner, have one of the slowest atmospheric entry 
+velocities (23 km/s), and thus offer significant possibilities of 
+successful dust capture in the stratosphere. Large and small area 
+cosmic dust collectors (LACs and SACs) L2094, L2095, L2096, L2097, 
+U2153 and U2154, were flown from October 15th to 17th, 2012 on NASA 
+ER2 aircraft. Flight time accumulated by date was: Oct 15th - 7.8hrs, 
+Oct 16th - 7.3hrs, Oct 17th - 8.1hrs. All collectors were received at 
+JSC in late October 2012, particles are now being removed, and a subset 
+is receiving routine preliminary characterization. These samples will 
+be available for allocation to qualified investigators. More 
+information go to:
+
+http://curator.jsc.nasa.gov/dust/index.cfm
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+HELIOPHYSICS OF SOLAR SYSTEMS: SUMMER SCHOOL
+
+12-19 July 2013
+Boulder, CO
+Deadline: 1 March
+
+We seek students and undergraduate level teachers for a unique 
+professional experience. All will learn about the exciting science of 
+heliophysics that reaches from the Earth's troposphere to the depths of 
+the Sun, and from the formation of the solar system to the distant 
+future. A goal of the Summer School is for the group of teachers to 
+develop materials from the course that can be applied in undergraduate 
+classes. Go to:
+
+http://www.vsp.ucar.edu/Heliophysics/
+
+Student Application Requirements:
+* Currently enrolled as a graduate student, or first/second year as 
+postdoc.
+* Major in physics with an emphasis on astrophysics, geophysics, 
+plasma physics, and space physics, or experienced in at least one of 
+these areas.
+* Pursuing a career in heliophysics or astrophysics.
+
+Teacher Application Requirements:
+* At least three years of teaching experience.  (Already having a 
+connection with heliophysics is not a requirement.)
+* Currently teaching physics (preferably electricity & magnetism), 
+astronomy/planetary science, or Earth sciences at undergraduate level.
+* Willingness to provide feedback on lectures and supporting materials.
+
+Fran Bagenal, University of Colorado
+Jan Sojka, Utah State University
+Karel Schrijver, Lockheed Martin
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+FACULTY JOB IN PLANETARY PHYSICS AND ASTROPHYSICS IN TORONTO
+
+The University of Toronto - Scarborough is looking to fill a faculty 
+position in an effort to grow Planetary Physics & Astrophysics in 
+Toronto.
+
+Applicants working in all areas of planetary astrophysics will be
+considered and are encouraged to apply, to the extent that their
+research connects to planetary materials, interpreted in a broad sense,
+as described in the job description below. The successful candidate
+will be joining a growing faculty group in Planetary Physics &
+Astrophysics at Toronto-Scarborough, including P. Artymowicz, 
+J. Lowman, D. Valencia and (pending various approvals) K. Menou. In 
+addition, the successful candidate, like the other faculty members 
+listed above, will be cross-appointed at the graduate level with a 
+relevant department at the University of Toronto (downtown campus), 
+where he/she will join other faculty members working in Planetary 
+Physics & Astrophysics, including J.Graham, R. Jayawardhana, N. Murray,
+S. Stanley, Y. Wu, and others.
+
+The deadline for applications is January 31st.
+
+Details can be found at:
+http://www.utsc.utoronto.ca/~physsci/docs/Physics%20ad%20planetary%
+20materials%20confirmed%20ad.pdf
+
+For more information contact:
+D. Valencia (dianav@mit.edu) or
+K. Menou (kristen@astro.columbia.edu)
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 24-28, 2013
+10th Annual Meeting of the Asia Oceania Geosciences Society (AOGS)
+http://www.asiaoceania.org/aogs2013/public.asp?page=home.htm
+Brisbane, Australia
+
+June 25-28, 2013
+5th Workshop on Hyperspectral Image and Signal Processing: Evolution 
+in Remote Sensing
+http://www.ieee-whispers.com/
+Gainesville, FL
+
+November 4-8, 2013
+Second Kepler Science Conference
+http://kepler.arc.nasa.gov/Science/keplerconference
+Moffett Field, CA
+
+November 11-15, 2013
+First COSPAR Symposium - Planetary Systems of our 
+Sun and other Stars, and the Future of Space Astronomy
+http://www.cospar2013.gistda.or.th
+Bangkok, Thailand
+
+September 10-12, 2014
+Planet Formation and Evolution 2014
+http://www1.astrophysik.uni-kiel.de/~kiel2014/main/
+Kiel, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

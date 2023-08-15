@@ -1,0 +1,574 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 8 (February 20, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Paul Feldman Fellowship Fund
+2. [NASA] Release of Research Opportunities in Space and Earth Sciences 
+   (ROSES) 2022
+3. [NASA] NASA Fundamental Physics Research Solicitation Informational 
+   Meeting
+4. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 28
+5. [NASA] PDS: Coming Soon - Second Annual NASA Planetary Data System
+   Customer Satisfaction Survey
+6. [NASA] BPS Fundamental Physics Program Scientist Job Announcement
+7. IAU Focus Meeting 10
+8. Conference Announcement for ERES VII
+9. The Lunar Surface Innovation Consortium (LSIC) - Spring Meeting
+10. Goldschmidt 2022 Session 01a: ExPet in Planetary Science
+11. MEPAG VM 14 - Meeting Files & Recordings
+12. Planetary Geologic Mapping Workshop, June 2022
+13. FLOW Coffee Hour: Life Cycle of Missions and How to Get Involved
+14. 2022B NASA Keck Call for Proposals
+15. SUPPR Mentors Needed for NASA-Sponsored Undergraduate Researchers
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PAUL FELDMAN FELLOWSHIP FUND
+
+For colleagues who wish to honor Paul Feldman's legacy in planetary
+science, you can make a tax-deductible contribution to a special Johns
+Hopkins University memorial fund in his honor by following the
+instructions below.
+
+(1) In your web browser, go to:
+
+https://secure.jhu.edu/form/krieger
+
+(2) Select the amount you wish to contribute.
+(3) Under "Gift Information" select "Other - please specify"
+(4) In the "Please describe" field, type in (you can cut-and-paste from
+    here):
+
+	PHA/Paul Feldman Fellowship Fund
+
+(5) Select the frequency of your gift.
+(6) Enter your donor information (either as "Guest" or via "Log in" if
+    you're a regular donor to Hopkins).
+(7) When entering "Donor Information", enter the following in answer to
+    the question "Is this a gift in honor or in memory of someone?" in 
+    the Honoree Name field:
+
+	Paul D. Feldman
+
+Thanks for your help in preserving Paul's memory.
+
+Hal Weaver (former student and colleague)
+Johns Hopkins University Applied Physics Laboratory
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] RELEASE OF RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCES
+(ROSES) 2022
+
+NASA's Science Mission Directorate (SMD) announces the release of its
+annual omnibus solicitation for basic and applied research, ROSES-2022,
+as NNH22ZDA001N:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+Electronic submission of proposals is required by the respective due
+dates for each program element and must be submitted by an authorized
+official of the proposing organization. Electronic proposals may be
+submitted via the NASA proposal data system NSPIRES or via Grants.gov.
+
+Every organization that intends to submit a proposal in response to
+ROSES-2022 must be registered with NSPIRES; organizations that intend
+to submit proposals via Grants.gov must be registered with Grants.gov,
+in addition to being registered with NSPIRES. Such registration must
+identify the authorized organizational representative(s) (AOR) who will
+submit the electronic proposal. All proposal team members must be
+registered in NSPIRES regardless of the submission system.
+
+Potential proposers are strongly encouraged to read Section I(d) of the
+ROSES Summary of Solicitation that lists Significant Changes from
+Recent ROSES.
+
+Questions concerning general ROSES-2022 policies and procedures may be
+directed to Max Bernstein, Lead for Research, Science Mission
+Directorate, at sara@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] NASA FUNDAMENTAL PHYSICS RESEARCH SOLICITATION INFORMATIONAL 
+MEETING
+
+The NASA Fundamental Physics program is planning to solicit proposals
+for ground-based research and flight experiments through a program
+element of the annual Research Opportunities in Space and Earth
+Sciences (ROSES) NRA.
+
+The release of the program element is planned for late May 2022. A
+virtual meeting will be held on March 29, 2022, from 11:00AM-1:00PM ET
+to provide information on the solicitation and offer the research
+community a forum to discuss the opportunity with NASA.
+
+Proposals will be sought for research in atomic physics and quantum
+science that is uniquely enabled by the space environment and takes
+advantage of the space environment to conduct experiments in pursuit of
+significant open questions in physics. Opportunities to use the Cold
+Atom Laboratory with the planned Science Module 4 aboard the
+International Space Station will be available through the solicitation.
+
+Participants can register for the meeting at the following website:
+
+https://forms.gle/5DgMaFEzLg7NSrCR9
+
+Registrants will be sent connection information for the meeting and a 
+link for information on the planned capabilities of Science Module 4.
+
+Questions should be directed to Bradley M. Carpenter, Fundamental 
+Physics Program Scientist at bcarpenter@nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 28
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 28, nominally with data to November 2021:
+
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from: ACCEL (Accelerometer).
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220215.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: COMING SOON - SECOND ANNUAL NASA PLANETARY DATA SYSTEM
+CUSTOMER SATISFACTION SURVEY
+
+NASA's Science Mission Directorate (SMD) will be conducting its annual
+customer satisfaction survey of the Planetary Data System (PDS)
+March - April, 2022. Survey results will be used to ensure that the 
+needs of the planetary science community are being met by identifying 
+areas for improvement and helping the PDS set its future service 
+priorities. 
+
+Questions or comments? Please contact the PDS at
+pds-operator@jpl.nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] BPS FUNDAMENTAL PHYSICS PROGRAM SCIENTIST JOB ANNOUNCEMENT
+
+NASA's Biological and Physical Sciences Division of the Science Mission
+Directorate will soon solicit applications for a highly motivated
+individual to provide scientific leadership in pioneering scientific
+discovery and enabling exploration in its Fundamental Physics program:
+
+https://tinyurl.com/2au9phbm
+
+Application Process: The civil servant job announcement will open for
+applications at USAJobs.gov on Thursday, March 10, 2022 and will close
+on Monday, March 14, 2022. Please look for the Program Scientist job
+announcement number HQ-22-DE-11393241-SEN. The civil servant job
+selection is a fair and open competition to which all U.S. Citizens and
+Status Candidates can apply.
+
+Position Type and Location: The position may be filled either as a
+permanent civil service position or via assignment as a temporary
+Intergovernmental Personnel Act (IPA) position for a minimum of two
+years, with two renewal options for a maximum of 6 years. The duty
+station will be determined upon selection.
+
+Further Information: Questions may be directed to Dr. Brad Carpenter,
+Fundamental Physics Program Scientist, at bcarpenter@nasa.gov.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+IAU FOCUS MEETING 10
+
+The IAU Focus Meeting 10 "Synergy of Small Telescopes and Large Surveys
+for Solar System and Exoplanetary Bodies Research" will be held on
+August 4 and 9, 2022 at the XXXIst IAU General Assembly in Busan, the
+Republic of Korea.
+
+The meeting will discuss numerous topics including:
+- synergy for research on exoplanets and Solar System bodies;
+- data mining including the application of big data methods and
+  photographic plates data mining;
+- advanced techniques for exoplanet characterization;
+- advanced techniques for measurements of Solar System bodies using
+  small telescopes (astrometry, photometry, polarimetry, spectroscopy,
+  occultations).
+
+The IAU Focus Meeting 10 website provides you with additional
+information: 
+
+https://iaufm10.org
+
+Registration and abstract submission have to be done solely through
+the XXXIst IAU General Assembly website
+
+https://www.iauga2022.org
+
+- early-bird registration: February 28
+- regular registration: May 31
+- abstract submission for invited/contributed talks: March 31
+- abstract submission for e-talks/e-posters: May 31
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CONFERENCE ANNOUNCEMENT FOR ERES VII
+
+We are pleased to announce that the seventh Emerging Researchers in
+Exoplanet Science (ERES) Symposium will take place August 1-2, 2022 at
+Penn State!  
+
+Researchers of all career stages working in all branches of
+exoplanetary science and related disciplines are encouraged to attend -
+though if necessary, preference will be given to early-career
+participants (undergraduates, graduate students, and postdocs) in the
+participant selection process.  
+
+As networking is an important part of this conference, we are currently
+planning to hold ERES VII in-person at Penn State, with partial virtual
+support in the form of digital posters and live-streamed talks. We are
+working to secure travel support for in-person attendees.  
+
+We will continue to monitor the COVID-19 situation, and if it is
+necessary to change the conference format, we will announce the change
+no later than June 3, 2022.  
+
+Registration, abstract submission, and applications for travel support
+are open. Deadlines and more information can be found on the conference
+website: 
+
+https://sites.psu.edu/eres2022/ 
+
+If you have any questions, please contact the Organizing Committee via
+l-eres-2022-questions@lists.psu.edu.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE LUNAR SURFACE INNOVATION CONSORTIUM (LSIC) - SPRING MEETING
+
+Online and in person May 4-5, 2022, at Johns Hopkins Applied 
+Physics Laboratory, Laurel, MD.
+
+Abstracts Due: March 4
+Registration Deadlines: 
+April 6 (in-person)
+April 25 (virtual attendance)
+
+The LSIC 2022 Spring Meeting will concentrate on understanding NASA's
+plans and technology investments relevant to building a sustained
+presence on the lunar surface. The meeting will include invited
+speakers, panels, posters, and breakout discussions.
+
+LSIC invites abstracts describing technical capabilities within the six
+LSIC focus areas, as well as those that identify lunar surface
+technology needs and assess the readiness of relative systems and
+components. Other topics of interest include defining the parameters
+and constraints of the architecture required to support a sustained
+presence on the lunar surface, as well as economic and policy
+considerations. Abstracts are limited to 1 page in length, and should
+clearly describe the technology or project aim, relevant methodologies,
+and key findings or recommendations. Abstracts will be reviewed by the
+technical organizing committee and, if accepted, may be selected for
+presentation as a poster or a poster plus a lightning talk. Please use
+the template file under "Related Documents" at:
+
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=200
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GOLDSCHMIDT 2022 SESSION 01A: EXPET IN PLANETARY SCIENCE
+
+Abstract submission deadline: March 1, 2022
+
+https://2022.goldschmidt.info/goldschmidt/2022/cfp.cgi
+
+Understanding the processes by which rocky planetary bodies
+differentiated into a core, mantle, and crust, and how their resulting
+attributes influenced subsequent geologic events and atmospheric
+compositions is crucial to understanding the evolution of solar
+systems. The aim of this session is to bring together diverse
+perspectives from the various avenues of experimental petrology-centric
+research within the overarching field of planetary sciences, in order
+to spark big picture and interdisciplinary discussions.
+
+We encourage submission from experimental petrology-centric research as
+well as inclusion, diversity, equity, and accessibility efforts in the
+field.
+
+Keynote Speaker: Christina Richey, Jet Propulsion Laboratory
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG VM 14 - MEETING FILES & RECORDINGS
+
+Hello Mars Community,
+
+The following link will bring you to the MEPAG Virtual Meeting #14 
+files and the recordings:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=vm14
+ 
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOLOGIC MAPPING WORKSHOP, JUNE 2022
+
+We're offering a workshop in planetary geologic mapping, June 23 - July
+1, in Flagstaff, AZ. This expenses-paid workshop, sponsored by NASA's
+Topical Workshops, Symposia, and Conferences Program. Flagstaff is home
+to the USGS Astrogeology Science Center, which coordinates the
+publication of NASA-funded planetary geologic maps, and Lowell
+Observatory, with its tradition in planetary discovery. The workshop
+will be run out of the Northern Arizona University Astronomy and
+Planetary Science Department.
+
+Activities will include: pre-workshop exercises, in-classroom mapping,
+field excursions, synthesis, and map presentation. More information
+(including how to apply) is available at:
+
+https://cefns.nau.edu/pgmw/
+
+We welcome diversity, including individuals with different physical,
+mental, or sensory abilities. Please see the FAQs page for more
+information.
+
+This workshop targets:
+1) geology majors who will be juniors or seniors by Summer 2022 and are
+   interested in understanding geology beyond Earth as part of their
+   undergraduate or post-undergraduate career, 
+2) graduate students interested in developing expertise in planetary 
+   geologic mapping, and
+3) early-career faculty and non-traditional students interested in
+   expanding their skill sets to include planetary geologic mapping.
+
+Members of groups historically underrepresented in planetary science
+are encouraged to apply.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+FLOW COFFEE HOUR: LIFE CYCLE OF MISSIONS AND HOW TO GET INVOLVED
+
+NOW's Future Leaders of Ocean Worlds (FLOW) is hosting a coffee hour
+Wednesday, March 2 at 12 pm PT that will be focused on the life cycle
+of missions and getting involved in mission work. To learn more
+about FLOW and access the meeting:
+
+https://oceanworlds.space/flow/
+
+The panelists:
+Dr. Linda Spilker (NASA JPL) - Vice Chair for Outer Planets Assessment
+Group; previously: Cassini Project Scientist, Voyager Science Liaison, 
+Enceladus Life Finder, Hermes mission concepts.
+
+https://science.jpl.nasa.gov/people/Spilker/
+
+Dr. Melissa Trainer (NASA GSFC) - Deputy PI of Dragonfly, DAVINCI Co-I,
+MSL science team member, TiME mission concept to Titan.
+
+https://science.gsfc.nasa.gov/sed/bio/melissa.trainer
+
+Dr. James Keane (NASA JPL) - Science team member for New Horizons and
+GRAIL, Co-I on Io Volcano Observer mission proposal, Juno Participating
+Scientist 
+
+https://science.jpl.nasa.gov/people/keane/
+
+Dr. Kate Craft (JHU APL) - Europa Clipper, Europa Lander mission
+concept
+
+https://secwww.jhuapl.edu/SpaceScience/staff/ProfileView/111
+
+Webex Information:
+Date & Time: Wednesday, Mar 2, 2022 12-1 pm PT
+Meeting number: 2764 615 5473
+Password: dJreQM7PR27
+Join by phone: +1-510-210-8882 USA Toll
+Access code: 276 461 55473
+
+https://jpl.webex.com/jpl/j.php?MTID=me8671766b3ea94f8e3a05f954b4ef6ea
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+2022B NASA KECK CALL FOR PROPOSALS
+
+The NASA Exoplanet Science Institute is soliciting proposals to use
+NASA's portion of time on the Keck Telescopes for the 2022B observing
+semester (August 1, 2022 - January 31, 2023). All proposals are due by
+March 17, 2022 at 4 pm Pacific.
+
+Proposals are sought to support the science goals and missions in all
+of the following discipline areas:
+- Our Solar System
+- Exoplanet Exploration
+- Physics of the Cosmos
+- Cosmic Origins
+
+Direct mission support proposals in any of these areas are also 
+encouraged.
+
+The opportunity to propose as a Principal Investigator for NASA time on
+the Keck Telescopes is open to all U.S.-based astronomers (a U.S.-based
+astronomer has their principal affiliation at a U.S. institution).
+Investigators from institutions outside of the U.S. may participate as
+Co- Investigators on proposals for NASA Keck time.
+
+Please read the Call for Proposals for complete information, instrument
+availability, and application guidelines.
+
+Key Dates:
+March 3: deadline to request General Mission Support letter from NASA 
+HQ
+March 17: all proposals and supporting letters due to NExScI by 4 pm 
+Pacific
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/
+
+Questions: KeckCFP@ipac.caltech.edu
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+SUPPR MENTORS NEEDED FOR NASA-SPONSORED UNDERGRADUATE RESEARCHERS
+
+The Summer Undergraduate Program for Planetary Research (SUPPR) WILL
+PAY qualified undergraduate students to work with NASA-sponsored
+planetary geology and geophysics investigators at research locations
+around the country for eight weeks during the summer. Open to all
+current SSW grantees. Mentors request an intern by submitting a request
+using the online application form. Mentors should describe the project
+for which the intern will apply and any necessary skills the intern
+needs to have. The deadline for this request is February 28, 2022.
+
+More information and sign up here: 
+
+https://www.lpi.usra.edu/suppr/mentors/
+
+Contract Tracy Gregg (TGREGG@BUFFALO.EDU) with questions. 
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+August 1-2, 2022
+Emerging Researchers in Exoplanet Science (ERES) VII
+https://sites.psu.edu/eres2022/
+State College, PA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Possible Activity in 468861 (2013 LU28)
+Lily A. Slemp et al. 2022 PSJ 3:34
+https://doi.org/10.3847/PSJ/ac480d
+
+Spatial Distribution and Thermal Diversity of Surface Volatile Cold
+Traps at the Lunar Poles
+Margaret E. Landis et al. 2022 PSJ 3:39
+https://doi.org/10.3847/PSJ/ac4585
+
+The Lunar Geophysical Network Landing Sites Science Rationale
+Heidi Fuqua Haviland et al. 2022 PSJ 3:40
+https://doi.org/10.3847/PSJ/ac0f82
+
+Concepts for the Future Exploration of Dwarf Planet Ceres'
+Habitability
+Julie Castillo-Rogez et al. 2022 PSJ 3:41
+https://doi.org/10.3847/PSJ/ac34ee
+
+Crater Distributions of Uranus's Mid-sized Satellites and Implications
+for Outer Solar System Bombardment
+Michelle R. Kirchoff et al. 2022 PSJ 3:42
+https://doi.org/10.3847/PSJ/ac42d7
+
+Toward Detecting Polycyclic Aromatic Hydrocarbons on Planetary Objects
+with ORIGIN
+K. A. Kipfer et al. 2022 PSJ 3:43
+https://doi.org/10.3847/PSJ/ac4e15
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,425 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 18 (May 1, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. VEXAG Virtual Town Hall
+2. Small Bodies Assessment Group (SBAG) Steering Committee Positions 
+   Open
+3. EPSC Session OPS5: Outer Planet Moons
+4. EPSC Session SB5: Tools for Characterizing Planetary and Small 
+   Bodies Surfaces, Atmospheres, and Dust Particles (Imagery, 
+   Photometry, Spectroscopy, Spectrophotopolarimetry)
+5. MEPAG 39 Lightning Talk Sign-Ups Extended to April 29, 2022
+6. NASA Postdoctoral Program
+7. Junior Group Leader in Space Instrumentation
+8. OPAG Hybrid Meeting and Lightning Talk Session
+9. [NASA] ROSES-22: Nancy Grace Roman Space Telescope Research and 
+   Support Participation Opportunities for Community Comment
+10. Planetary Data System Customer Satisfaction Survey Extended to 
+    May 13, 2022
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+VEXAG VIRTUAL TOWN HALL
+
+The VEXAG Virtual Town Hall will take place on May 2, 2022, 4:00 PM 
+Eastern Time (US and Canada). The webinar-style meeting will have 
+Steering Committee members as panelists and a Q&A feature for 
+attendees.
+ 
+Please click the link below to join the webinar:
+
+https://tinyurl.com/syaujxyw
+
+Passcode: 993748
+
+Or One tap mobile : 
+US: +16692545252,,1604197049#,,,,*993748# or 
+    +16468287666,,1604197049#,,,,*993748#
+
+Or Telephone:
+Dial(for higher quality, dial a number based on your current location):
+US: +1 669 254 5252 or 
+    +1 646 828 7666 or 
+    +1 669 216 1590 or 
+    +1 551 285 1373 or 
+    833 568 8864 (Toll Free)
+Webinar ID: 160 419 7049
+Passcode: 993748
+
+International numbers available: 
+
+https://jhuapl.zoomgov.com/u/asZXe2lTe
+ 
+Or an H.323/SIP room system:
+H.323: 161.199.138.10 (US West) or 161.199.136.10 (US East)
+Meeting ID: 160 419 7049
+Passcode: 993748
+SIP: 1604197049@sip.zoomgov.com
+Passcode: 993748
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) STEERING COMMITTEE POSITIONS OPEN
+
+Three positions are open for the Steering Committee of the Small Bodies 
+Assessment Group (SBAG), with three-year terms starting in August 2022.
+
+The Committee organizes SBAG meetings, writes the official SBAG 
+findings, and takes a leadership role in other activities where 
+community input on topics of interest is needed.
+
+In addition to a member in Planetary Defense who works to understand 
+the population of small bodies that may impact our planet, we seek two 
+at-large members in any area of small body research at any career 
+stage.
+
+The application requires: 1) a two-page CV, including a description of 
+participation in SBAG or other small bodies organizations, and 2) a 
+short (300 words maximum) statement of interest. Criteria for selection 
+are: participation in small bodies community organizations, leadership 
+experience, and relevant research or mission experience.
+
+In support of diversity, applicants may specify gender, whether they 
+belong to an underrepresented group in STEM, or other additional 
+relevant information.
+
+Send applications to Bonnie Buratti (bonnie.buratti@jpl.nasa.gov) by 
+May 6, 2022, 8:00 PM EDT. New members will be announced at the 27th 
+Meeting of SBAG, June 7-9, 2022.
+
+Bonnie Buratti, SBAG Steering Committee Chair
+
+https://www.lpi.usra.edu/sbag/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC SESSION OPE5: OUTER PLANET MOONS
+
+EPSC abstract deadline is May 18, 13:00 CEST and we would like to draw 
+your attention to our session OPS5 "Outer planet moons: Environments 
+and interactions".
+
+The aim of this session is to discuss our current understanding on the 
+environments of the outer planet moons and their interactions with the 
+surrounding electromagnetic fields and particles and to discuss the 
+pathway for upcoming and future explorations. This session covers 
+contributions on all the outer planet moons from a variety of topics 
+including (but not limited to) the magnetic field generation, 
+subsurface ocean detection from fields and particles, active processes 
+(e.g., volcanoes and plumes) and their interactions with the 
+surrounding environments and detections, neutral atmosphere, 
+ionosphere, aurora, plasma and dust environment, moon-ring systems, 
+and moon-magnetosphere interaction. Contributions based on 
+observations (both from space and from the ground), modelling, 
+theoretical interpretation and supporting laboratory experiments and 
+concepts for future spacecraft missions are welcome. Here is the link 
+to the session for abstract submission:
+
+https://meetingorganizer.copernicus.org/EPSC2022/session/44633
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC SESSION SB5: TOOLS FOR CHARACTERIZING PLANETARY AND SMALL BODIES 
+SURFACES, ATMOSPHERES, AND DUST PARTICLES (IMAGERY, PHOTOMETRY, 
+SPECTROSCOPY, SPECTROPHOTOPOLARIMETRY)
+
+The Europlanet Science Congress (EPSC) 2022 - in person
+Granada (Spain), September 18-23, 2022  
+
+https://www.epsc2022.eu/
+
+Conveners: Oleksandra Ivanova, Frederic Schmidt
+Co-conveners: Stefano Bagnulo, Ludmilla Kolokolova, Johannes Markkanen, 
+Olga Munoz, Olivier Poch, A. Chantal Levasseur-Regourd, Stephane Erard, 
+Antti Penttila, Maria Gritsevich
+
+Electromagnetic scattering phenomena play a key role in determining the 
+properties of Solar System objects based on observations using 
+different techniques and in a variety of wavelengths ranging from the 
+ultraviolet to the radio. This session will promote a general 
+advancement in the exploitation of observational and experimental 
+techniques to characterize complex particulate media. We particularly 
+welcome discussions of future perspectives in the utilization of 
+observational and experimental techniques to characterize small bodies 
+surfaces in the context of new missions like Comet Interceptor, and 
+also the planetary aerosols and dust in the Solar System.
+
+Abstracts are solicited on progress in observational, numerical, and 
+laboratory methods to extract relevant information from imagery, 
+photometry, polarimetry and spectroscopy in solid phase, reference 
+laboratory databases, photometric and polarimetric modeling, software 
+and web service applications.
+
+Abstract submission deadline is May 18, 2022, 13:00 CEST.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MEPAG 39 LIGHTNING TALK SIGN-UPS EXTENDED TO APRIL 29, 2022
+
+A significant portion of the meeting will be dedicated to strategic 
+planning for the Mars program. We are asking the broader community to 
+actively participate in these discussions and encourage you to make 
+your voice heard in a 3-5 minute lightning talk (1-4 slides) on Day 1 
+of the meeting. Both in-person and virtual attendees will be able to 
+participate in breakout discussions following lightning talks. 
+Lightning talk sign up will close Friday, April 29th, 2022. Please sign 
+up using the following form: 
+
+https://forms.gle/rQNsDiH2PfvqSqxJ6
+
+For in-person attendees, there will be space to hang posters, slide 
+printouts, or other material for discussion during the breakout 
+discussion on Day 1. Please bring any material you think would enhance 
+those discussions.
+
+For more information, please visit the meeting webpage: 
+
+https://www.lpi.usra.edu/mepag/meetings/
+
+If you have any questions, please reach out to Jonathan Bapst at 
+jonathan.bapst@jpl.nasa.gov
+
+Sincerely,
+
+Mars Exploration Program Office
+
+On behalf of R. Aileen Yingst (MEPAG Chair)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL PROGRAM
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections. 
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, planetary science, heliophysics, astrophysics, 
+biological and physical science, aeronautics and engineering, human 
+exploration systems, space operations, space technology, and 
+astrobiology. 
+
+Search for NPP research opportunities in planetary science here:
+
+https://npp.orau.org/applicants/opportunities.html
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. Please see:
+
+https://npp.orau.org/applicants/eligibility.html
+
+Stipends start at $63,000 per year, with supplements for higher 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$10,000 per year is provided for travel and professional development. 
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1. 
+
+For further information and to apply, visit: 
+
+https://npp.orau.org/applicants/index.html
+
+Questions: npp@orau.org 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JUNIOR GROUP LEADER IN SPACE INSTRUMENTATION
+
+The Space Research Institute (IWF) of the Austrian Academy of Sciences 
+(OeAW), is offering a position as (Junior) Group leader in Space 
+Instrumentation. We invite ambitious candidates who are interested in 
+technology development for new and existing fields of scientific 
+instruments. We seek for people with experiences in development of 
+space-qualified instrumentation who will lead an existing research 
+group with focus on instrument development and development support in 
+direct link with the IWF's research activities.
+
+The appointment begins as early as September 1, 2022 for initially 4
+years with the option for tenure track. More senior applicants can be 
+offered the position of a group leader for an initial duration of 6 
+years with a tenure-track option.
+
+Applications must include a cover letter, their curriculum vitae, list 
+of publications, a statement of the applicant's research experience 
+(2 pages) and a research plan (1 page), certificates for full academic 
+record, and the full contact information for two references letters. 
+Please send the application as one PDF file, to 
+cosima.muck@oeaw.ac.at, mentioning Job ID: IWF184JGL121, no later than 
+June 30, 2022 (or until the post has been filled).
+
+Further information can be found here:
+
+https://www.oeaw.ac.at/en/details/open-position-job-id-iwf184jgl121
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OPAG HYBRID MEETING AND LIGHTNING TALK SESSION
+
+The next Outer Planets Assessment Group (OPAG) meeting will be held on 
+June 14-15, 2022 as a hybrid meeting, virtually and in Washington, D.C. 
+
+https://www.lpi.usra.edu/opag/meetings/upcoming/ 
+
+OPAG will host a lightning talk session (3-5 min, length dependent on 
+the number of submissions) on the afternoon of Tuesday, June 14 (no 
+poster session at this meeting). Talks can focus on research, mission 
+concepts, technology developments, etc. While open to all, we 
+especially welcome talks by students and early career researchers. In 
+the event that we have too many requests, early career speakers will 
+be prioritized. 
+
+OPAG looks forward to providing this opportunity for you to showcase 
+your work and network! If you wish to give a lightning talk (virtually 
+or in person) please fill out this form here by May 9. If you have 
+questions, please contact Kate Craft (Kate.Craft@jhuapl.edu and 
+Kunio Sayanagi (kunio.sayanagi@hamptonu.edu).
+
+Note that there is also opportunity for a limited number of stipends 
+for in-person and virtual attendance for students and early careers. 
+Further details on this and a link to register for the meeting can be 
+found here: 
+
+https://www.lpi.usra.edu/opag/meetings/upcoming/ 
+
+Thank you!
+
+OPAG Steering committee
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ROSES-22: NANCY GRACE ROMAN SPACE TELESCOPE RESEARCH AND SUPPORT 
+PARTICIPATION OPPORTUNITIES FOR COMMUNITY COMMENT
+
+When it is released as final text, D.14 Nancy Grace Roman Space 
+Telescope Research and Support Participation Opportunities will solicit 
+proposals aimed at supporting the progress of and exploiting the 
+scientific and technical data from the Nancy Grace Roman Space 
+Telescope, formerly known as the Wide Field Infrared Survey Telescope 
+or WFIRST. This opportunity will comprise three categories: Wide Field 
+Science (WFS); Project Infrastructure Teams (PITs); and Coronagraph 
+Community Participation Program (CPP).
+
+Comments and questions concerning the draft of D.14 Nancy Grace Roman 
+Space Telescope Research and Support Participation Opportunities are 
+due by May 31, 2022, to Dominic Benford at Dominic.Benford@nasa.gov, 
+with the subject line "D.14 Roman Feedback".
+
+Technical questions concerning this program element may be directed to 
+Julie McEnery, the Roman Project Scientist, at 
+julie.e.mcenery@nasa.gov.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2022 
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY DATA SYSTEM CUSTOMER SATISFACTION SURVEY EXTENDED TO MAY 13, 
+2022
+
+Please assist NASA's Science Mission Directorate (SMD) in defining the 
+next generation of the PDS by participating in the 2022 Planetary Data 
+System Customer Satisfaction Survey:
+
+https://cfigroupfed.gov1.qualtrics.com/jfe/form/SV_9EU3vxgeNksURqS
+
+Survey results will be used to identify and prioritize services, 
+ensuring that the needs of the planetary science community are met. 
+The anonymous online survey, developed for NASA by its contractor CFI 
+Group, takes a few minutes, and optional fields are provided to 
+register your concerns and comments.  
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Accurate Machine-learning Atmospheric Retrieval via a Neural-network
+Surrogate Model for Radiative Transfer
+Michael D. Himes et al. 2022 PSJ 3:91
+https://doi.org/10.3847/PSJ/abe3fd
+
+Large-scale Volcanism and the Heat Death of Terrestrial Worlds
+M. J. Way et al. 2022 PSJ 3:92
+https://doi.org/10.3847/PSJ/ac6033
+
+Retention of Water in Terrestrial Magma Oceans and Carbon-rich Early
+Atmospheres
+Dan J. Bower et al. 2022 PSJ 3:93
+https://doi.org/10.3847/PSJ/ac5fb1
+
+Dynamical Regimes of Polar Vortices on Terrestrial Planets with a
+Seasonal Cycle
+Ilai Guendelman et al. 2022 PSJ 3:94
+https://doi.org/10.3847/PSJ/ac54b6
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

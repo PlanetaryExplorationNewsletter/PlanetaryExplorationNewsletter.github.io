@@ -1,0 +1,351 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 14 (March 27, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] ROSES-16: Separately Uploaded Total Budget Files for
+   Proposals
+2. Publishing Editor for Astronomy, Astrophysics and Space Sciences,
+   at Springer Nature
+3. AGU Planetary Science Section Starts New Congressional Program
+4. Space Mining and Planetary Surface Construction Course
+5. Exoplanet Biosignatures Workshop Without Walls
+6. NEOWISE 2016 Data Release
+7. Europlanet Call for Access to Planetary Analogue Sites: Ibn Battuta
+   Centre and Others
+8. Signatures and Support Sought for Open Letter to Senior Community
+   Members to Battle Harassment
+9. US Planetary Scientists: Is Your Laboratory Adequately Supported?
+10. iCubeSat 2016 Abstracts Due this Friday, 1st April 2016
+11. NASA Advisory Council Meeting this Week
+12. Planetary Meetings Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ROSES-16 AMENDMENT 3: SEPARATELY UPLOAD TOTAL BUDGET FILES FOR
+ROSES-2016 PROPOSALS
+
+ROSES-2016 was released with new budget rules barring the inclusion of
+any salary or indirect rate information from the proposal document to
+prevent this information from being seen by peer reviewers, see
+Section IV(b)(iii) of the ROSES-2016 Summary of Solicitation. Although
+ROSES-2016 already required that the full budget must be provided in
+the NSPIRES cover page budgets, many proposers needed a better way to
+provide to NASA detailed budgetary information. This Amendment allows
+proposers to provide that additional information to NASA without it
+being seen by peer reviewers.
+
+With this amendment, all ROSES program elements allow proposers to
+separately upload a "Total Budget" PDF to the same ROSES program
+element NSPIRES "response structure" to which the proposal is
+submitted. More information on requirements for ROSES-2016 budgets
+may be found at:
+
+http://science.nasa.gov/researchers/sara/how-to-guide/nspires-CSlabor/
+
+The NASA point of contact for ROSES-2016 is Max Bernstein
+(max.bernstein@nasa.gov).
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PUBLISHING EDITOR FOR ASTRONOMY, ASTROPHYSICS AND SPACE SCIENCES, AT
+SPRINGER NATURE
+
+The Editor is responsible for growth of part of the company's
+astronomy, astrophysics and space science portfolio via acquisition
+as well as development of existing assets.
+
+Location: New York, USA
+
+Contact: ramon.khanna@springer.com
+
+Further details at: 
+
+https://career5.successfactors.eu/career?career_ns=job_listing&company
+=C0001215517P&career_job_req_id=7483
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU PLANETARY SCIENCE SECTION STARTS NEW CONGRESSIONAL PROGRAM
+
+Are you a planetary science student or post-doc who is interested in
+getting involved with the legislative funding process? The AGU
+Planetary Sciences Section is starting a new program where students
+and early career scientists will visit their congressional
+representative's local office to share their research and advocate
+for continued planetary science funding. Training will be done
+through AGU's Public Affairs Office in May, and visits will take
+place during the August and October recesses. To learn more and
+sign up, visit the PS Section website: 
+
+http://planets.agu.org/congress
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SPACE MINING AND PLANETARY SURFACE CONSTRUCTION COURSE
+
+Space Mining and Planetary Surface Construction will be offered during
+the ASCE Earth & Space Conference on April 11, 2016 in Orlando, FL.
+
+http://earthspaceconf.mst.edu/conferenceshortcourse/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EXOPLANETS BIOSIGNATURES WORKSHOP WITHOUT WALLS
+
+A NExSS and Astrobiology Program Joint Workshop
+
+The NASA Nexus for Exoplanet System Science (NExSS) and Astrobiology
+Program are hosting an Exoplanet Biosignatures Workshop Without Walls
+to review, frame, and advance the science and technology of remotely
+detectable biosignatures for the search for life on planets around
+other stars. Future exoplanet observations will soon focus on the
+search for life beyond the Solar System. Biosignatures to be sought
+are those with global, potentially detectable, impacts on a planet.
+Biosignatures occur in an environmental context in which geological,
+atmospheric, and stellar processes and interactions may work to
+enhance, suppress, or mimic these biosignatures. The workshop will
+bring together scientists from astronomy, planetary science,
+Earth sciences, heliophysics, biology, biogeochemistry, and
+instrument/mission development.
+
+When/Where:
+
+mid-April, 2016: Pre-workshop online activities to commence
+July 27-29, 2016:  In-person workshop (and online participation),
+Seattle, WA
+
+Website:
+
+http://nai.nasa.gov/calendar/workshop-without-walls-exoplanet-
+biosignatures/
+
+RSVP Survey:
+
+http://nai.nasa.gov/calendar/workshop-without-walls-exoplanet-
+biosignatures/www-exoplanet-biosignatures-rsvp/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEOWISE 2016 DATA RELEASE
+
+The Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE)
+and the Infrared Processing and Analysis Center (IPAC) announce the
+NEOWISE 2016 Data Release.
+
+The 2016 Release includes all data acquired during the second year of
+the NEOWISE Reactivation mission (Mainzer et al. 2014, ApJ, 792, 30),
+13 December 2014 to 13 December 2015.  These data are combined with
+the Year 1 data into a single archive that contains ~5.1 million 3.4
+and 4.6 micron images and a database of ~38.1 billion source
+detections extracted from those images.
+
+NEOWISE scanned the sky nearly four complete times during the first
+two years of survey operations, with approximately six months between
+survey passes. Twelve or more independent 3.4 and 4.6 micron exposures
+are made on each point of the sky during each pass. Thus, the NEOWISE
+archive is a time-domain resource for extracting multiple, independent
+thermal flux and position measurements of solar system small bodies,
+as well as background galactic and extragalactic sources.
+
+A quick guide to the NEOWISE data release, data access instructions
+and supporting documentation is available at:
+
+http://wise2.ipac.caltech.edu/docs/release/neowise/
+
+NEOWISE data products are available at:
+
+http://irsa.ipac.caltech.edu
+
+NEOWISE is a project of the JPL/CalTech and is funded by NASA.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EUROPLANET CALL FOR ACCESS TO PLANETARY ANALOGUE SITES: IBN BATTUTA
+CENTRE AND OTEHRS
+
+Deadline: April 29th, 2016
+
+A Call to access planetary sites including Ibn Battuta Centre field
+sites, Rio Tito, Iceland and Laboratories is out. Deadline April 29th,
+2016. The grants will cover field costs and logistic support as well
+as scientific collaboration. EU citizens and national of Associated
+Country can apply. Non EU states and associated countries citizen can
+apply following some rules that can be read in the call. For
+information on the Ibn Battuta Centre:
+
+http://www.ibnbattutacentre.org
+
+and visit the Europlanet section. Access is provided for scientists to
+perform high quality scientific research and test instrumentation
+for space missions under realistic planetary conditions and undertake
+comparative planetology research.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SIGNATURES AND SUPPORT SOUGHT FOR OPEN LETTER TO SENIOR COMMUNITY
+MEMBERS TO BATTLE HARASSMENT
+
+Planetary science and space exploration community members,
+
+Please read and sign this letter (and pass it further):
+
+https://sites.google.com/site/openlettertoseniorscience/
+
+There has been much discussion in the news recently about sexual
+harassment in several fields - and those that have made it to media
+visibility are generally only the most extreme cases. To define
+the needed change and to enact that change, we need visibility
+and people involved and invested at all career levels -
+most especially senior members of our community, as they often
+have the largest influence on culture and institutional policies/
+enforcement. This letter calls for that engagement.
+
+This letter will likely be published in one of our community's
+journals to emphasize further the importance of discussions and 
+actions.
+
+(And, as possible, please think about what you can do - beyond the
+letter - about making our community more inclusive. We define our
+culture, so it is up to each one of us to see the problems and create
+the change we think is needed.)
+
+Many thanks,
+
+Dr. Serina Diniega, Mars scientist and one of the open letter
+co-authors
+
+sdiniega@gmail.com
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+US PLANETARY SCIENTISTS: IS YOUR LABORATORY ADEQUATELY SUPPORTED?
+
+The Planetary Science Subcommittee (PSS) perceives that laboratories
+supporting Planetary Science Division (PSD) research may be
+underfunded, and that support for laboratory technical staff is
+difficult to obtain.
+
+PSS is conducting a survey of laboratories that will be used to inform
+discussions with PSD about the planetary community’s capabilities and
+challenges, and to help formulate potential solutions.
+
+Please take the online survey at: 
+
+http://tinyurl.com/psslabs
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ICUBESAT 2016 ABSTRACTS DUE THIS FRIDAY, 1ST APRIL 2016
+
+With attendees registered from companies, space agencies and
+universities from 21 countries on five continents (so far!), we are
+looking forward to another exciting iCubeSat, the Interplanetary
+CubeSat Workshop, at the University of Oxford on 24-25 May
+this year.
+
+Abstracts are due 1st April 2016, so if you have not already submitted
+yours, please do so via:
+
+http://www.iCubeSat.org/submit-an-abstract/
+
+We are close to the capacity of our venue, so please register today via:
+
+http://www.iCubeSat.org/registration/
+
+to ensure you have a place at the workshop as we will have to close/
+wait list registrations once we reach capacity.
+
+If you have any questions, please do not hesitate to email
+committee@iCubeSat.org or check out the conference website at:
+
+http://www.iCubeSat.org
+
+We look forward to seeing you in Oxford in May!
+
+iCubeSat 2016 Organising Committee
+www.iCubeSat.org
+
+iCubeSat 2016 - 5th Interplanetary CubeSat Workshop
+24-25 May 2016, Oxford, United Kingdom
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA ADVISORY COUNCIL MEETING THIS WEEK
+
+Thursday, March 31, 2016, 9:00 AM-5:30 PM EDT
+Friday, April 1, 2016, 9:00 AM-3:00 PM EDT
+
+NASA Headquarters, Room 9H40
+Program Review Center (PRC)
+300 E Street SW.
+Washington, DC 20546
+
+For the agenda, Webex and dial-in information, Go to:
+
+http://www.nasa.gov/sites/default/files/atoms/files/nac_march_2016-
+05615.pdf
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETINGS CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 27-29, 2016
+Workshop Without Walls: Exoplanet Biosignatures
+http://nai.nasa.gov/calendar/workshop-without-walls-exoplanet
+-biosignatures/
+Seattle, WA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************
+

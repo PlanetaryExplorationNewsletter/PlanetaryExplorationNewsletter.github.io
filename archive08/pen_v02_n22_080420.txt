@@ -1,0 +1,215 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 22 (April 20, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Allowing 3-year Proposals for JDAP and CDAP
+2. [NASA] New Cooperative Agreement Opportunity, NASA Office of 
+   Education
+3. ELS-XI (Electromagnetic and Light Scattering Conference - 11)
+4. Venus Exploration and Analysis Group
+5. Join the NASA Team at the Jet Propulsion Laboratory
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ALLOWING 3-YEAR PROPOSALS FOR JDAP AND CDAP
+
+Three year proposals are now allowed for the Jupiter Data Analysis
+program (JDAP) described in Appendix C.9 and for the Cassini Data
+Analysis program (CDAP) described in Appendix C.10. This amendment
+increases the maximum duration of awards from two years to three
+years for both JDAP and CDAP. As this change has been made after
+Notices of Intent to propose (NOIs) are due, there is no expectation
+or requirement that new or amended NOIs will be submitted.
+
+No change has been made in the proposal due dates for these programs.
+For JDAP, proposals are due on May 15, 2008. For CDAP, proposals are
+due on May 30, 2008.
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then 
+"NNH08ZDA001N").
+
+For further information contact Dr. Denis J. Bogan, Planetary Science 
+Division, Science Mission Directorate; dbogan@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NEW COOPERATIVE AGREEMENT OPPORTUNITY, NASA OFFICE OF EDUCATION
+
+The National Aeronautics and Space Administration (NASA) Office of
+Education invites proposals to develop, pilot, and administer the
+Endeavor Science Teachers Certificate Program (ESTCP), a competitive,
+high-quality, national program for pre/in-service teachers. The NASA
+Office of Education will provide the technical coordination of this
+solicitation. The Endeavor Science Teachers Certificate Program will
+provide one (1) year fellowships, and unique education and technical
+experiences leading to teacher certification centered on NASA unique
+science and mathematics content.
+
+Organizations eligible to respond to this CAN are limited to higher
+education institutions, nonprofit organizations, or consortia of
+organizations and institutions serving students and teachers.
+Partnerships within these institutions and/or organizations are
+encouraged to apply.  Proposals from entities outside the United
+States will not be considered.
+
+Electronically submitted Notices of Intent to propose are requested
+by May 9, 2008. Proposal due date is June 17, 2008. 
+
+Questions about this may be directed to Dr. Bernice Alston,
+Office of Education, NASA Headquarters, Washington, DC 
+
+[Editor Note: For more information about this accouncement go to:
+http://nspires.nasaprs.com/ (select "Solicitations" then "Open 
+Solicitations" then "NNH08ZNE003C")]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ELS-XI (ELECTROMAGNETIC AND LIGHT SCATTERING CONFERENCE - 11)
+
+University of Hertfordshire, UK: 7-12 Sept 2008
+
+http://www.els-xi-08.org
+
+The main objective of this meeting, very popular among the planetary
+scientists who study cosmic dust and planetary aerosols, is to bring
+together scientists and engineers researching various aspects of 
+light scattering. The specific topics to be covered include (but are 
+not limited to) new theoretical developments and numerical
+simulations of light scattering by nonspherical particles and
+particles with complex structures; laboratory and field experiments
+in light scattering by natural and artificial particles; applications
+of light scattering in particle detection, laboratory and field 
+particle characterization; single and multiple light scattering in 
+various cosmic objects, including interplanetary and comet dust, and
+aerosols in atmospheres of planets and exoplanets.
+
+Would those attending the ELS-XI conference please note that Early 
+Bird Registration closes on April 25, 2008. The cost of registration
+will increase by 50 GBP (approximately US$100) after this date.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VENUS EXPLORATION AND ANALYSIS GROUP
+
+The exploration of Venus remains an extremely promising avenue for 
+understanding how terrestrial planets work.  Acknowledging the 
+scientific promise of Venus exploration, NASA created the Venus 
+Exploration and Analysis Group (VEXAG) 
+
+http://www.lpi.usra.edu/vexag/ 
+
+and the Venus Science and Technology Definition Team (VSTDT).   For 
+those interested in contributing to a community-based analysis of 
+Venus exploration science,  attendance at this 5th VEXAG workshop at 
+the Marriott Inn and Conference Center, University of Maryland, 
+Adelphi, Maryland on May 7 and 8 is a must.  The Venus STDT, which 
+is defining a Venus flagship mission for the 2020-2025 timeframe, 
+meets the prior 2 days, May 5 and 6. Venus STDT goals, activities, 
+process, and progress will be discussed at the VEXAG workshop.  It is 
+eagerly seeking input and feedback from the community at the VEXAG 
+meeting.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JOIN THE NASA TEAM AT THE JET PROPULSION LABORATORY 
+
+Dear Colleague-
+
+The Navigation and Ancillary Information Facility (NAIF) team at
+NASA/JPL is looking for a new or recent (no more than three years
+out) graduate who has the rather eclectic skills and interest to
+become a full time, permanent member of the NAIF Group - the home of
+NASA's "SPICE" ancillary information system development.
+
+More about NAIF and the SPICE system may be seen at:
+ 
+http://naif.jpl.nasa.gov 
+
+Required skills include: MA/MS in Applied Math or engineering field 
+suited to space exploration with 0-3 years of experience or BA/BS in
+similar disciplines with 0-5 years experience. Practical applied math 
+or engineering skills appropriate to NASAs SPICE activity.
+
+Candidate must be a U.S. citizen or permanent resident. 
+
+For full details and to apply see:
+
+https://careerlaunch.jpl.nasa.gov/  
+
+Select View Job Postings, Info Systems and Comp Science, 7373 ASSOC
+IS&CS Software Engineer 
+
+Thanks in advance for your help!
+
+Charles Acton,
+NAIF Manager
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 29, 2008
+New Astronomy: The Data Challenge
+http://www.on.br/newastronomy/
+Rio de Janeiro, Brazil
+
+October 21-23, 2008
+Workshop on Martian Phyllosilicates: Recorders of Aqueous Processes?
+http://www.ias.u-psud.fr/Mars_Phyllosilicates/main_1st.php
+Paris, France
+
+November 10-13
+Third International Workshop on the Mars Atmosphere: Modeling and 
+Observations
+http://www.lpi.usra.edu/meetings/modeling2008/
+Williamsburg, VA
+
+August 23-29, 2009
+International Association of Geomagnetism and Aeronomy (IAGA) 
+11th Scientific Assembly
+www.iaga2009sopron.hu/
+Sopron, Hungary
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

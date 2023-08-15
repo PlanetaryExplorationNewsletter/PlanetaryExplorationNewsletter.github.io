@@ -1,0 +1,553 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 12 (March 20, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Release of the Second Annual NASA Planetary Data System Customer 
+   Satisfaction Survey - 2022
+2. Post-Doctoral Research Assistant at University of Bern
+3. Science Objectives for Human Exploration of Mars Workshop
+4. Job Opportunity: Outreach and Diversity, Equity, and Inclusion 
+   Activities Coordinator 
+5. Special Issue of Remote Sensing: Planetary Landscapes Analysis 
+   Based on Remote Sensing Images
+6. Postdoc Position in Laboratory Studies of Radiation-Induced 
+   Processes
+7. MEPAG Mailing List Update and Meeting #39
+8. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 49
+9. [NASA] PDS: Mars Science Laboratory Release 29
+10. Humans to Mars Summit Only Two Months Away
+11. [NASA] ROSES-22: Economic, Social, and Policy Analyses of Orbital 
+    Debris and Space Sustainability
+12. [NASA] SMD Seeks Volunteer Reviewers
+13. Planetary Workshop to Engage Diverse Audiences
+14. 2022 NASA Planetary Science Summer School Applications Due March 30
+15. Gerald A. Soffen Memorial Travel Award
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+RELEASE OF THE SECOND ANNUAL NASA PLANETARY DATA SYSTEM CUSTOMER
+SATISFACTION SURVEY - 2022
+
+NASA's Science Mission Directorate (SMD) announces the release of the 
+second annual Planetary Data System (PDS) Customer Satisfaction Survey 
+(CSS). Please assist NASA in defining the next generation of the PDS by 
+going to:
+
+https://cfigroupfed.gov1.qualtrics.com/jfe/form/SV_9EU3vxgeNksURqS
+
+Survey results will be used to identify and prioritize services, 
+ensuring that the needs of the planetary science community are met.
+
+The anonymous online survey, developed for NASA by its contractor CFI 
+Group, takes a few minutes, and optional fields are provided to 
+register your concerns and comments.  
+
+Please contact the PDS at pds-operator@jpl.nasa.gov with questions on 
+the survey.
+
+Information on how the PDS is responding to the first 2020 PDS survey 
+is provided at: 
+
+https://pds.nasa.gov/home/community-announcement.shtml
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POST-DOCTORAL RESEARCH ASSISTANT AT UNIVERSITY OF BERN
+
+The Space Research and Planetology Division of the University of Bern 
+is seeking a Post-Doctoral Research Assistant. The position is 
+available from 1 June 2022 and initially for two years with possible 
+extension. The project is primarily aimed at the investigation of gas 
+transport phenomena in porous media with application to Solar System 
+objects. It would be suitable for recent PhDs with expertise in 
+computational fluid dynamics techniques such as Navier-Stokes solvers 
+and Direct Simulation Monte Carlo techniques.
+
+Further details are available under the Post-Doctoral Positions tab at:
+
+https://www.space.unibe.ch/about_us/jobs/index_eng.html under 
+
+For questions email nicolas.thomas@unibe.ch
+
+Electronic applications should be submitted by April 8 to the address 
+given on the website. 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SCIENCE OBJECTIVES FOR HUMAN EXPLORATION OF MARS WORKSHOP
+
+Denver, CO 
+May 4-6, 2022
+
+A human mission to Mars will be a landmark achievement and a golden 
+opportunity to conduct groundbreaking science on Mars. This workshop 
+will identify the highest priority science objectives for a human 
+mission to Mars, identify appropriate mission scenarios that best 
+enable the science objectives, and define high-level concepts of 
+operation, including equipment and instrumentation, needed to achieve 
+the science objectives.
+
+The workshop will immediately follow the May MEPAG meeting in Denver 
+and is intended to be an in-person working workshop. Attendance and 
+participation are not contingent on abstract submission, and 
+registration is free.
+
+For more information and to register, please visit the workshop 
+website at:
+
+https://www.hou.usra.edu/meetings/marsexploration2022/abstracts/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB OPPORTUNITY: OUTREACH AND DIVERSITY, EQUITY, AND INCUSION
+ACTIVITIES COORDINATOR
+
+The Department of Earth, Planetary, and Space Sciences at UCLA is 
+seeking to fill an administrator position that will focus on diversity, 
+equity, and inclusion. Position responsibilities will include 
+coordinating departmental outreach efforts, coordinating initiatives to 
+improve diversity, equity, and inclusion in the geosciences at UCLA and 
+beyond, teaching up to 1 course per academic year, and writing 
+proposals to support diversity and outreach activities. 
+
+Requirements for the position include a PhD in geosciences or related 
+field and a demonstrated commitment to improving diversity, equity, and 
+inclusion. Teaching and grant writing experience are preferred. 
+
+For more information see the full job description here: 
+
+https://recruit.apo.ucla.edu/JPF07304 
+
+Interested applicants are encouraged to contact Mackenzie Day 
+(daym@epss.ucla.edu) or Carolina Lithgow-Bertelloni (clb@epss.ucla.edu) 
+with questions about the position. Applications will be collected until 
+May 15, 2022. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SPECIAL ISSUE OF REMOTE SENSING: PLANETARY LANDSCAPES ANALYSIS BASED
+ON REMOTE SENSING IMAGES
+
+Special Issue Papers requested
+Submission Due Date: Nov. 1, 2022
+
+Submission URL: 
+
+https://www.mdpi.com/si/112630
+
+We invite you to share your expertise in using remote sensing to 
+interpret the geology of planetary landscapes. Contributions which use 
+one planetary target to inform our understanding of another - the realm 
+of comparative planetology - are especially encouraged, as are those 
+that leverage Earth analogs.
+
+Letter-length, long-form, and review articles are all appropriate. 
+Examples of themes include but are not limited to geomorphology, 
+geologic surface processes, tectonics, exploration, aeolian studies, 
+geologic mapping, chronostratigraphy, and spectroscopy.
+
+The normal fee for Open Access publication is 2500 CHF (Swiss Francs; 
+roughly $2700 USD, 2000 GBP, $3500 CAN; 2500 EUR). However, the 
+publication fee will be waived or discounted by 30-50% for certain 
+articles deemed especially high-impact.
+
+Please let us know if you have questions.
+
+Cordially,
+
+Drs. Kirby D. Runyon, Angela M. Dapremont, and Alexandra Matiella-Novak
+
+Guest Editors
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOC POSITION IN LABORATORY STUDIES OF RADIATION-INDUCED PROCESSES
+
+The Ice Spectroscopy Laboratory at NASA Jet Propulsion Laboratory in 
+Pasadena, CA invites applications for a new postdoctoral opportunity 
+in radiation-induced processes. The research work will involve 
+laboratory simulations of interactions between Solar System bodies and 
+energetic particles such as electrons, protons, and heavy ions 
+(O+, S+). The work will primarily focus on interactions between 
+energetic electrons and the surface of Europa at temperatures of 
+~100 K, including sputtering, electron penetration, and the effects of 
+ionizing radiation on organic molecules and microbial life. Expertise 
+in physics and chemistry of radiation and a strong interest to conduct 
+research in these areas is highly desired.
+
+Link for more information and to apply:
+
+https://tinyurl.com/3ydjx63n
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEPAG MAILING LIST UPDATE AND MEETING #39
+
+Last week, the first announcement for the hybrid MEPAG Meeting #39 
+being held May 2-4 in Denver, CO was distributed. For those who may 
+not have received the meeting announcement, LPI is managing our new 
+MEPAG website, as well as MEPAG meeting announcements: 
+
+https://www.lpi.usra.edu/mepag
+
+To ensure that you receive updates for future MEPAG meetings and 
+activities, please submit an indication of interest. Please submit an 
+indication of interest regardless of your intention to participate in 
+MEPAG #39:
+
+https://www.hou.usra.edu/meeting_portal/iofi/?mtg=mepagmay2022
+
+Additionally, if you are planning to attend MEPAG #39 please register 
+(no fee) at the above URL.
+
+This is also a friendly reminder to those who must forecast to please 
+do so at your earliest convenience.
+
+While the website is under construction, for previous documentation and 
+records please refer to:
+
+https://mepag.jpl.nasa.gov 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 49
+
+The NASA Planetary Data System announces Release 49 of data from the 
+Lunar Reconnaissance Orbiter mission. This release contains raw, 
+calibrated, and derived data products covering the nominal time period 
+from September 15 through December 14, 2021. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes.
+
+- CRaTER at the PPI Node
+- Diviner at the Geosciences Node
+- LAMP at the Cartography and Imaging Sciences Node
+- LEND at the Geosciences Node
+- LOLA at the Geosciences Node
+- LROC at the LROC Data Node
+- Mini-RF at the Geosciences Node
+- Radio Science at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+Or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220315.shtml
+
+LRO releases occur every three months. The next release is scheduled 
+for June 15, 2022.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS: MARS SCIENCE LABORATORY RELEASE 29
+
+The NASA Planetary Data System announces Release 29 of data from the 
+Mars Science Laboratory (Curiosity) mission. This release contains raw 
+and derived data products covering the time period from July 30 through 
+November 7, 2021 (sols 3193-3289). The data are archived at various 
+PDS nodes:
+
+- APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+- ChemCam at the Geosciences Node
+- CheMin at the Geosciences Node
+- DAN at the Geosciences Node
+- Engineering Cameras at the Cartography and Imaging Sciences Node
+- MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging Sciences 
+  Node
+- Mastcam at the Cartography and Imaging Sciences Node
+- PLACES Database at the Cartography and Imaging Sciences Node
+- RAD (Radiation Assessment Detector) at the PPI Node
+- REMS (Rover Environmental Monitoring Station) at the Atmospheres Node
+- SAM (Sample Analysis at Mars) at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+For a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220316.shtml
+
+The next MSL release is scheduled for August 1, 2022.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+HUMANS TO MARS SUMMIT ONLY TWO MONTHS AWAY
+
+Register today for the 2022 Humans to Mars Summit (H2M) that is taking 
+place on May 17-19, 2022, at The George Washington University in 
+Washington, D.C. The Human to Mars Summit is the largest annual 
+conference in the world dedicated to the goal of a sustainable human 
+presence on Mars starting no later than the 2030s. Register Today at: 
+
+https://www.exploremars.org/summit/
+
+Just a few of the speakers include Bill Nelson (NASA Administrator), 
+Lori Glaze (NASA SMD), Sian Proctor (Inspiration 4 Crew Member), Nicole 
+Stott (former NASA Astronaut), Jim Free (NASA), Bhavya Lal (NASA), 
+Tiffany Vora (Singularity University), Janet Ivey (Explore Mars, Inc.), 
+J.R. Edwards (Lockheed Martin), Mat Kaplan (Planetary Radio), Tanya 
+Harrison (Planet), and many more. 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ROSES-22: ECONOMIC, SOCIAL, AND POLICY ANALYSES OF ORBITAL 
+DEBRIS AND SPACE SUSTAINABILITY
+
+Analyzing the economic, social, and political impacts of orbital debris 
+is a nascent field of study that would greatly benefit from more 
+research. To this end, NASA will work with selected teams and experts 
+from non-governmental organizations to evaluate to evaluate the 
+economic, social, and political elements of orbital debris and space 
+sustainability, a strategic NASA and/or United States Government 
+approach to orbital debris and international space sustainability 
+efforts. The new program element F17 Economic, Social, and Policy 
+Analyses of Orbital Debris and Space Sustainability addresses this. 
+
+No Notice of Intent nor Step-1 proposal is requested. Proposals are due 
+June 17, 2022. Go to:
+
+https://solicitation.nasaprs.com/ROSES2022 
+
+Questions may be directed to Patrick Besha at patrick.besha@nasa.gov. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] SMD SEEKS VOLUNTEER REVIEWERS
+
+NASA's Science Mission Directorate is seeking subject matter experts to 
+serve as mail-in and/or (virtual) panel reviewers of ROSES (research 
+and technology development) proposals. The landing page with links to 
+all of the open volunteer reviewer forms is: 
+
+https://science.nasa.gov/researchers/volunteer-review-panels 
+
+To volunteer follow the link to the web form and click the boxes for 
+the topics in you are a subject matter expert. If your skills match 
+our needs for that review and there are not too many organizational 
+conflicts of interest, we will contact you to discuss scheduling. 
+
+In addition to the forms that are posted all year round, the following 
+new volunteer reviewer forms have been (re)posted recently for spring 
+2022:
+
+- The Physical Oceanography Program
+- Earth Surface and Interior and Space Geodesy Programs
+- ECOSTRESS Science Team
+- Heliophysics Guest investigators
+- Cassini Data Analysis Program
+- MatISSE and DALI (high-TRL planetary instrument programs)
+- Planetary Protection Research
+- Astrophysics Data Analysis Program
+- Space Biology
+- Exoplanet Research Program
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY WORKSHOP TO ENGAGE DIVERSE AUDIENCES
+
+April 6-9, 2022
+Tempe, AZ
+
+Planetary scientists are invited to attend the Planetary ReaCH workshop 
+and learn how to engage diverse audiences in planetary science.
+
+https://www.lpi.usra.edu/planetary-reach
+
+Workshop Goal: To prepare planetary scientists and informal educators 
+to engage audiences in planetary science and exploration, with an 
+explicit focus on Latinx and Black communities.
+
+During the workshop, planetary scientists and informal educators will 
+come together to:
+
+- Collaborate / learn from each other, sharing their expertise in 
+  planetary science and engaging audiences.
+- Modify hands-on planetary activities and resources to better engage 
+  audiences.
+- Learn and share effective practices and strategies to engage Black 
+  and Latinx communities.
+- Practice conducting activities using these strategies at a community 
+  event on Saturday, April 9.
+
+Times and location: The workshop will take place in meeting rooms on 
+the Arizona State University Tempe campus for the first three days, 
+with a community engagement event in Phoenix on April 9.
+
+Travel Stipends available for participating scientists.
+
+Who: Space is limited to 15 planetary scientists (including graduate 
+students, post-doctoral researchers, and planetary engineers and 
+technicians) and 15 informal educators.
+
+Apply at: 
+
+https://www.surveymonkey.com/r/299SC62
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+2022 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE MARCH 30
+
+Offered by the Jet Propulsion Laboratory in Pasadena, CA, PSSS is a 
+3-month long career development experience to learn the development of 
+a hypothesis-driven robotic space mission in a concurrent engineering 
+environment while getting an in-depth, first-hand look at mission 
+design, life cycle, costs, schedule and the inherent trade-offs.
+
+Science and engineering doctoral candidates, recent PhDs, postdocs, and 
+junior faculty who are U.S. Citizens or legal permanent residents (and 
+a very limited number of Foreign Nationals from non-designated 
+counties) are eligible. Applicants from diverse backgrounds are 
+particularly encouraged to apply - we highly value diversity, equity, 
+and inclusion.
+
+Session 1: May 9-Aug 5
+Session 2: May 23-Aug 19
+ 
+With workload of a rigorous 3-hour graduate-level course, participants 
+act as a planetary science mission team during the first 12 weeks of 
+preparatory webinars, with the final culminating week mentored by 
+JPL's Advance Project Design Team for refining the mission concept 
+design and presenting it to a mock expert review board. The 
+culminating week is typically at JPL, but in 2022 it is likely virtual 
+due to Covid-19 pandemic concerns.
+
+https://go.nasa.gov/missiondesignschools
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+GERALD A. SOFFEN MEMIRIAL TRAVEL AWARD
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Spring 
+2022 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering.
+ 
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant for 
+either virtual or in-person conferences. The Soffen Fund will award up 
+to $1000 in total, with no individual award greater than $500, to cover 
+expenses related to presenting research at either a virtual or 
+in-person conference. The number of awards will depend on applicants' 
+needs.
+
+The Spring 2022 Travel Grant application deadline is April 15, 2022. 
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+https://SoffenFund.org
+
+Questions regarding the application or application process may be 
+sent to:
+
+help@SoffenFund.org
+
+ 
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+June 6 - July 15, 2022
+Mars Study Program
+https://www.marsu.space/mars-studies-program
+Tucson, AZ
+
+June 7-10, 2022
+Space Resources Roundtable
+https://learn.mines.edu/srr/
+Golden, CO
+
+June 14-15, 2022
+Outer Planets Assessment Group Hybrid Meeting
+https://www.lpi.usra.edu/opag/meetings/upcoming/
+Washington, DC
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Arecibo S-band Radar Characterization of Local-scale Heterogeneities
+within Mercury's North Polar Deposits
+Edgard G. Rivera-Valentin et al. 2022 PSJ 3:62
+https://doi.org/10.3847/PSJ/ac54a0
+
+Compositional Maps of the Lunar Polar Regions Derived from the Kaguya
+Spectral Profiler and the Lunar Orbiter Laser Altimeter Data
+Myriam Lemelin et al. 2022 PSJ 3:63
+https://doi.org/10.3847/PSJ/ac532c
+
+Science Drivers for the Future Exploration of Ceres: From Solar System
+Evolution to Ocean World Science
+Julie Castillo-Rogez et al. 2022 PSJ 3:64
+https://doi.org/10.3847/PSJ/ac502b
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

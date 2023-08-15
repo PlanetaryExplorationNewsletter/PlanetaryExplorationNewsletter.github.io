@@ -1,0 +1,462 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 30 (July 17, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2nd Advanced School on Exoplanetary Science: Astrophysics of 
+   Exoplanetary Atmospheres
+2. AGU 2016 Session P004: Cometary Processes in the Light of Rosetta
+3. AGU 2016 Session P006: Detection and Direct Imaging of Habitable 
+   Exoplanets - Progress and Future
+4. AGU 2016 Session P014: In the Name of Jove - Giant Planet Interiors, 
+   Atmospheres, Aurorae, and Ionospheres
+5. AGU 2016 Session P017: Lunar Reconnaissance Orbiter - Seven Years 
+   at the Moon
+6. AGU 2016 Session P026: Solar System Small Bodies - Relics of 
+   Formation and New Worlds to Explore
+7. AGU 2016 Session P030: The Early Mars Environment - Warm and Wet, 
+   Cold and Wet, or Cold and Icy?
+8. AGU 2016 Session EP024: Linking Sediment Transport and Geophysical 
+   Flows to Planetary Surface Evolution
+9. AGU 2016 Session PP038: Regulation of CO2 and Climate on Earth and 
+   Other Planets
+10. Nexus for Exoplanet System Science (NExSS) Exoplanet Biosignatures 
+    Workshop Without Walls
+11. [NASA] PDS - Rosetta and New Horizons Data Releases by the Small 
+    Bodies Node
+12. [NASA] Draft AO for Astrophysics Explorers Program 2016 Medium 
+    Explorer (MIDEX) Missions Released for Community Comment
+13. Summer School in Software Systems for Astronomy
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2nd ADVANCED SCHOOL ON EXOPLANETARY SCIENCE: ASTROPHYSICS OF 
+EXOPLANETARY ATMOSPHERES
+
+The 2nd Advanced School on Exoplanetary Science will be held at the 
+International Institute for Advanced Scientific Studies (IIASS) in
+Vietri sul Mare (Salerno), Italy from 22 to 26 May, 2017. The School 
+- taking place in the enchanting Amalfi Coast - is aimed to provide a
+comprehensive, state-of-the-art picture of a variety of relevant
+aspects of the fast-developing, highly interdisciplinary field of
+exoplanets research. The Lecture topics of the 2nd year of School will
+be focused on the atmospheres of exoplanets. The Lectures will be
+delivered by four senior researchers to an audience of graduate
+students, Ph.D. students and young post-docs.
+
+Lecturers:
+Jonathan Fortney, University of California, USA
+David Sing, University of Exeter, UK
+Jonathan Tennyson, University College London, UK
+Davide Grassi INAF - IAPS, Italy
+
+Organisers:
+Valerio Bozza, University of Salerno, Italy
+Luigi Mancini, MPIA, Germany
+Alessandro Sozzetti, INAF - OATO, Italy
+
+Keywords:
+exoplanets, exoplanet atmospheric models, exoplanet-atmosphere
+observational techniques, molecular spectroscopy, solar-system
+atmospheres
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU 2016 SESSION P004: COMETARY PROCESSES IN THE LIGHT OF ROSETTA
+
+Conveners: Bonnie Buratti, Mathieu Choukroun, Matt Taylor, and Nicolas 
+Altobelli
+
+The European Space Agency's Rosetta spacecraft will make an 
+unprecedented controlled crash onto comet 67P/Churyumov-Gerasimenko 
+in late September 2016, providing close scrutiny of the comet until 
+the very end. This session will focus on scientific results from this 
+final stage of Rosetta's life. The session will also include 
+correlative studies among instruments from all phases of the mission; 
+studies that incorporate ground-based observations for better temporal 
+coverage and perspective; theoretical modeling of cometary processes; 
+and interrelationships among comets and other small bodies.
+
+AGU abstracts are due no later than 3 August.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU 2016 SESSION P006: DETECTION AND DIRECT IMAGING OF HABITABLE 
+EXOPLANETS - PROGRESS AND FUTURE
+
+We would like to invite you to submit an abstract to our session 
+entitled "Detection And Direct Imaging Of Habitable Exoplanets: 
+Progress And Future" scheduled at the AGU Fall Meeting at San 
+Francisco, December 12-16 2016.
+
+Abstract deadline: 3 August 23:59 EDT/03:59 +1 GMT.
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13664
+
+This session consists in a discussion on the potential of new and 
+future facilities and modeling efforts designed to detect, image and 
+characterize habitable exoplanets, studying their formation, evolution 
+and also the existence of possible biospheres. Topics to be covered in 
+this session include signs of exoplanet habitability and global 
+biosignatures that can be sought with upcoming instrumentation; 
+instrument requirements and technologies to detect these markers; 
+strategies for target selection and prioritization; and impacts of 
+planetary system properties, ground-based and space telescope 
+architectures, and impacts of instrument capabilities on the yield of 
+potentially inhabited exoplanets.
+
+Conveners: Franck Marchis (SETI Institute), Ramses M. Ramirez 
+(Cornell University), Douglas Caldwell (SETI Institute)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU 2016 SESSION P014: IN THE NAME OF JOVE - GIANT PLANET INTERIORS, 
+ATMOSPHERES, AURORAE, AND IONOSPHERES
+
+We solicit abstracts to a session at AGU 2016 Fall Meeting to be 
+submitted to the session titled: "P014: In the Name of Jove: Giant 
+Planet Interiors, Atmospheres, Aurorae, and Ionospheres" 
+
+Topics appropriate for the session are new research findings about 
+the magnetospheres, ionospheres, aurorae, neutral atmospheres and deep 
+interiors of Jupiter, Saturn, Uranus, and Neptune. A special focus of 
+our session is the results returned during "Grand Finale" phase of 
+Cassini mission to Saturn. Scientific results returned by the Juno 
+Mission should be submitted to the Juno special session (P015). Other 
+sources of data to be covered in our session include the continuing 
+observation by the Cassini spacecraft, and other recent space- and 
+ground-based observation. We solicit long-term monitoring using 
+ground- and space-based telescopes studies for all giant planets. We 
+also encourage reports of recent activities at Uranus and Neptune. In 
+addition, we solicit modeling and theoretical presentations that 
+address these observational findings.
+
+Primary Convener: Kunio M Sayanagi (kunio.sayanagi@hamptonu.edu), 
+Hampton University
+
+Conveners: Scott J Bolton, Southwest Research Institute; Sarah 
+Victoria Badman, University of Lancaster, and Scott G Edgington, NASA 
+Jet Propulsion Laboratory
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU 2016 SESSION P017: LUNAR AND RECONNAISSANCE ORBITER - SEVEN YEARS 
+AT THE MOON
+
+We invite contributions to an AGU session highlighting recent work 
+using LRO data.
+
+In over seven years of operation, the Lunar Reconnaissance Orbiter 
+(LRO) has returned a vast quantity of data collected across the Moon. 
+These data are revolutionizing our view of fundamental processes that 
+operate throughout the Solar System - some that are ongoing today and 
+others that are billions of years old. The longevity of LRO has 
+uniquely enabled the innovative use of its instrument suite to address 
+new questions, including those of contemporary processes (e.g., impact 
+cratering, volatile migration) with changes observable by LRO and 
+broad implications for other planetary bodies. This session will 
+highlight research that makes use of (or otherwise benefits from) 
+LRO data.
+
+To submit an abstract visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13940
+
+Thank you!
+Brett Denevi, Ben Greenhagen, Julie Stopar, and Noah Petro
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU 2016 SESSION P026: SOLAR SYSTEM SMALL BODIES - RELICS OF FORMATION 
+AND NEW WORLDS TO EXPLORE
+
+We would like to invite you to submit an abstract to our session 
+entitled "Solar System Small Bodies: Relics of Formation and New 
+Worlds to Explore" scheduled at the AGU Fall Meeting at San Francisco, 
+December 12-16 2016.
+
+Abstract deadline: 3 August 23:59 EDT/03:59 +1 GMT.
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13304
+
+The composition and physical properties of Small Solar System Bodies 
+(SSSBs), remnants of the formation of planets, are key to better 
+understand our solar system. Increased knowledge of their surface 
+properties and their potential as resources are also necessary to 
+prepare for robotic and human exploration. Hints about the internal 
+structure and composition of SSSBs have been acquired recently thanks 
+to flyby/rendezvous data from space missions, study of complex 
+multiple asteroid systems, or close encounter between asteroids. This 
+session welcomes abstracts on the results bringing information on the 
+internal structure and composition of SSSBs based on space and ground-
+based data, numerical models, as well as instrument/mission concepts 
+in the prospect of future exploration.
+
+Conveners:  
+Franck Marchis(SETI Institute & Iris AO), Julie C. Castillo (NASA 
+Jet Propulsion Laboratory) and Padma A Yanamandra-Fisher (Space 
+Science Institute)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU 2016 SESSION P030: THE EARLY MARS ENVIRONMENT - WARM AND WET, COLD 
+AND WET, OR COLD AND ICY?
+
+We invite contributions from climate modeling, geomorphology, 
+geochemistry and mineralogy that address the question of whether early 
+Mars climate was "warm and wet", "cold and wet" or "cold and icy". 
+This session will focus on both sharing new results from different 
+perspectives and fostering communication among the community.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13359
+
+2016 AGU Fall Meeting in San Francisco, CA, December 12-16. The 
+submission deadline is August 3, 2016.
+
+Conveners:
+
+Alberto G. Fairen, Stephen M. Clifford and James F. Kasting
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU 2016 SESSION EP024: LINKING SEDIMENT TRANSPORT AND GEOPHYSICAL 
+FLOWS TO PLANETARY SURFACE EVOLUTION
+
+We invite contributions to session EP024 (details below) at the 2016 
+AGU Fall Meeting in San Francisco. The session is cross-listed with 
+Planetary Sciences.
+
+Planetary missions over the past decade have revealed that while 
+planetary bodies across the solar system differ greatly in surface 
+conditions, their landscapes share some striking similarities to 
+those on Earth. Understanding the feedbacks between how geophysical 
+flows and sediment transport processes affect landscape evolution is 
+necessary for constraining the current and past climatic conditions of 
+planetary surfaces. We invite contributions from research exploring 
+these interplays using remote sensing data from surface or orbital 
+missions, numerical modeling, laboratory experiments, Earth analog 
+studies, or some combination thereof.
+
+Invited Speakers: Edwin Kite (University of Chicago) and Tjalling 
+de Haas (Utrecht University)
+
+Conveners: Marisa Palucis, Alexander Morgan and Orkan Umurhan
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU 2016 SESSION PP038: REGULATION OF CO2 AND CLIMATE ON EARTH AND 
+OTHER PLANETS
+
+We invite contributions to a session focused on the regulation of 
+climate on Earth-like planets through the carbon cycle. Submission 
+deadline: August 3, 2016.
+
+Session Title: What processes regulate atmospheric carbon dioxide, and 
+stabilize climate, on Earth and other planets (Session ID#: PP038)
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session12973.html
+
+Description: It is generally thought that a negative feedback 
+mechanism involving silicate mineral dissolution and carbonate 
+precipitation regulates atmospheric carbon dioxide levels on Earth to 
+maintain a habitable climate over geologic time. The same is likely to 
+be true on rocky exoplanets. However, despite decades of research, 
+there is still debate about how this feedback mechanism works. For 
+example, the relative importance for carbon dioxide consumption of the 
+dissolution of silicate minerals on the continents versus at the 
+seafloor is debated, as is the importance of organic carbon burial. 
+Similarly, the processes that modify global weathering feedbacks, such 
+as changes in lithology at the planet's surface, are poorly 
+constrained. This session invites contributions that address our 
+understanding of the long-term carbon cycle and climate on Earth and 
+other planetary bodies from a diverse range of approaches and time 
+periods. Contributions from laboratory, field or modeling studies are 
+welcome.
+
+Convenors: Laurence Coogan (University of Victoria), David Catling 
+(University of Washington, Seattle), John Higgins (Princeton 
+University), A. Joshua West (Univ. of Southern California)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NEXUS FOR EXOPLANET SYSTEM SCIENCE (NExSS) EXOPLANET BIOSIGNATURES 
+WORKSHOP WITHOUT WALLS
+
+July 27-29, 2016
+
+Seattle, WA 
+
+Remote participation open to all
+
+https://nexss.info/community/workshops/exoplanet-biosignatures-workshop
+
+The goal of this workshop is to advance the science and technology for 
+remote detection of planetary biosignatures. Pre-workshop online 
+activities in three pairs of videoconference sessions to review the 
+State of the Science have been conducted during June 13-July 15 (video 
+archives now online). These set the foundation for the Seattle meeting 
+to discuss how to advance the science of atmospheric biosignatures, 
+surface biosignatures, and observational technologies. Participants 
+will contribute to a workshop report and white paper.
+
+Thanks,
+Nancy Kiang
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS - ROSETTA AND NEW HORIZONS DATA RELEASES BY THE SMALL BODIES 
+NODE
+
+Small Bodies Node of the NASA Planetary Data System is pleased to 
+announce that the following Rosetta-Orbiter datasets for comet 
+67P/Churyumov-Gerasimenko have been released:
+
+* OSIRIS Narrow and Wide Angle Camera Prelanding Raw and Calibrated 
+  Data
+* OSIRIS Narrow and Wide Angle Camera Escort 1 Raw and Calibrated Data
+* MIRO Escort 1 Raw and Calibrated Data
+* RPCLAP Escort 1 Edited and Calibrated Data
+* RPCMAG  Prelanding and Escort 1-4 Raw, Calibrated and Resampled Data
+* VIRTIS Prelanding Raw Data
+* NavCam Escort 2-3, and Extension 1-2 Raw Data
+
+The datasets are ESA PSA certified. To see and download the data as 
+well as mission and instrument information, go to: 
+
+http://pdssbn.astro.umd.edu/
+
+The data can be also accessed through the ESA PSA website:
+
+http://www.sciops.esa.int/index.php?project=PSA&page=rosetta
+
+PDS Small Bodies Node has also released Pluto Encounter data for the 
+following New Horizons mission instruments:
+
+* Alice Raw and Calibrated Data
+* LEISA Raw and Calibrated Data
+* LORRI Raw and Calibrated Data
+* MVIC Raw and Calibrated Data
+* PEPSSI Raw and Calibrated Data
+
+The datasets are released as PDS certified, in lien resolution.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] DRAFT AO FOR ASTROPHYSICS EXPLORERS PROGRAM 2016 MEDIUM EXPLORER 
+(MIDEX) MISSIONS RELEASED FOR COMMUNITY COMMENT
+ 
+Release Date: July 14, 2016
+Comments Due: August 4, 2016
+Identification Number: NNH16ZDA006J 
+ 
+Upon the release date, the full text of the draft solicitation will 
+be available at: 
+
+http://nspires.nasaprs.com/
+
+The Astrophysics Explorers Program conducts Principal Investigator 
+(PI)-led space science investigations relevant to SMD's astrophysics 
+programs. Explorer investigations must address NASA's goals to discover 
+the origin, structure, evolution, and destiny of the Universe and 
+search for Earth-like planets. Participation is open to all categories 
+of organizations or institutions, U.S. or non-U.S., including 
+educational, industrial, and not-for-profit institutions, Federally 
+Funded Research and Development Centers (FFRDCs), University Affiliated 
+Research Centers (UARCs), NASA Centers, the Jet Propulsion Laboratory 
+(JPL), and other Government agencies.
+
+Comments on the draft may be addressed by E-mail to the Astrophysics 
+Explorers Program Scientist, Dr. Wilton T. Sanders, E-mail: 
+wilton.t.sanders@nasa.gov (subject line to read "MIDEX AO"). 
+Responses to all inquiries will be answered by E-mail and also posted 
+weekly at the Frequently Asked Questions (FAQ) location of the 
+Astrophysics Explorer Program Acquisition website at 
+
+http://explorers.larc.nasa.gov/APMIDEX2016/MIDEX/ 
+
+Anonymity of persons/institutions who submit questions will be 
+preserved.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY 
+
+The University of Hawai'i at Hilo Physics and Astronomy Department 
+offers the two week course (July 25 - August 5). The course covers 
+software design and implementation of telescope and instrument control 
+systems, observation planning tools, and software for analyzing and 
+archiving astronomical data.  A full course description and 
+instructions for enrollment are given at:
+
+http://phys.uhh.hawaii.edu/Summer2016/summer2016.php
+
+There is currently room for two more students.  When those seats are 
+filled registration will be closed.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 1-3, 2016
+Annual Meeting of the Lunar Exploration Analysis Group
+http://www.hou.usra.edu/meetings/leag2016/
+Columbia, MD
+
+May 22-26, 2017
+Astrophysics of Exoplanetary Atmospheres
+http://www.mpia.de/~ASES2/ases2
+Vietri sul Mare, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,124 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 24 (May 24, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA PDS] Mars Exploration Rovers Data Release 20 
+2. [NASA PDS] Odyssey Radio Science Data Release 83
+3. OPAG Titan Working Group
+4. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA PDS] MARS EXPLORATION ROVERS DATA RELEASE 20
+
+The Planetary Data System (PDS) is pleased to announce Release 20
+of Mars Exploration Rover data.  This release includes primarily
+data from Sols 1621 through 1710 for both rovers.  
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20090518.html
+  
+The following special services are provided for accessing MER data:
+  
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+  
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA PDS] ODYSSEY RADIO SCIENCE DATA RELEASE 83
+
+The Planetary Data System (PDS) is pleased to announce a new
+delivery of Odyssey Radio Science Data, Release 83.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20090521.html
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OPAG TITAN WORKING GROUP
+
+At the last OPAG meeting it was proposed that a group be formed to 
+identify and maintain a focus on areas where progress is most needed 
+to ensure readiness for future exploration of Titan.  Zibi Turtle and
+Athena Coustenis agreed to coordinate such a group, which will serve 
+as a resource for both science and technical guidance.  This group 
+will also participate in the upcoming decadal survey through 
+preparation of white papers.  Those interested in supporting any 
+aspect of this Titan group should get in touch with Zibi or Athena 
+(Elizabeth.Turtle@jhuapl.edu or Athena.Coustenis@obspm.fr).
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 31-September 5, 2009
+9th Ukrainian Conference on Space Research
+http://www.nkau.gov.ua/ukrspace09/index.html
+Yevpatoria, Ukraine
+
+November 16-19, 2009
+Annual Meeting of the Lunar Exploration Analysis Group
+http://www.lpi.usra.edu/meetings/leag2009/leag20091st.shtml
+Houston, TX
+
+December 14-18, 2009
+AGU Fall Meeting
+http://www.agu.org/meetings/fm09/
+San Francisco, CA
+
+February 5-10, 2010
+2010 NSBE Aerospace Systems Conference
+http://www.nsbe-asc.org
+Los Angeles, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

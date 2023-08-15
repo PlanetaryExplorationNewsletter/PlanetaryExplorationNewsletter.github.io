@@ -1,0 +1,439 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 53 (December 26, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NSF: Geoscience Lessons for and from Other Worlds (GLOW)
+2. SOFIA Cycle 10 Calls for Proposals Open
+3. Postdoctoral Researcher at CU Boulder/LASP
+4. AbSciCon 2022 Session: Salty Goodness II - Return of the Brines (In 
+   Memoriam of Ronald Oremland)
+5. AbSciCon 2022 Session: Crossing the Threshold - In Situ 
+   Instrumentation to Seek Life, its Precursors, and Geophysical 
+   Context on Europa and other Ocean Worlds
+6. AbSciCon 2022 Session: Chemometric, Chemoinformatic, and Machine
+   Learning Strategies to Characterize Complex Organic and Inorganic
+   Mixtures
+7. AbSciCon 2022 Session: Prebiotoc/Abiotic Chemistry in Alternative 
+   Solvents
+8. Open Tenure-Track Positions as Assistant Professor, Umea University, 
+   Sweden
+9. Auburn Graduate Programs in Planetary Science and Aerospace 
+   Engineering
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NSF: GEOSCIENCE LESSONS FOR AND FROM OTHER WORLDS (GLOW)
+
+NSF's Divisions of Earth Sciences (EAR), Atmospheric and Geospace Sciences (AGS), and Astronomical Sciences (AST) encourage the submission of proposals that bring together researchers and experts to develop projects which: 1) use the study of other worlds as a way to broaden and deepen our understanding of the Earth and its evolution, including all processes and systems from the core to the magnetosphere, and/or 2) use our geoscience knowledge to understand the environments of other worlds. Science drivers include but are not limited to:
+
+- What can the study of other worlds reveal about the first billion 
+  years of Earth history?
+- What can the study of other worlds reveal about Earth's past and its 
+  future climate?
+- What can the study of other worlds reveal about interactions between 
+  the Earth and space environment?
+- What can the study of Earth's systems reveal about environments and 
+  processes that shape other worlds?
+- How can our basic science understanding of Earth processes and 
+  systems guide the identification of other habitable worlds?
+
+For the full program announcement go to:
+
+https://www.nsf.gov/pubs/2022/nsf22032/nsf22032.jsp
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SOFIA CYCLE 10 CALLS FOR PROPOSALS OPEN
+
+SOFIA Cycle 10 Calls for Proposals are open, with a deadline of January 
+28, 2022, 21:00 PST (January 29, 2022, 4:00 UTC). A total of 
+approximately 650 hours of observing time is offered, along with ~$7.5M 
+of funding for eligible proposers.
+sykes-2:newsletters sykes$ !v
+vi draft.txt
+sykes-2:newsletters sykes$ more draft.txt
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 53 (December 26, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NSF: Geoscience Lessons for and from Other Worlds (GLOW)
+2. SOFIA Cycle 10 Calls for Proposals Open
+3. Postdoctoral Researcher at CU Boulder/LASP
+4. AbSciCon 2022 Session: Salty Goodness II - Return of the Brines (In 
+   Memoriam of Ronald Oremland)
+5. AbSciCon 2022 Session: Crossing the Threshold - In Situ 
+   Instrumentation to Seek Life, its Precursors, and Geophysical 
+   Context on Europa and other Ocean Worlds
+6. AbSciCon 2022 Session: Chemometric, Chemoinformatic, and Machine
+   Learning Strategies to Characterize Complex Organic and Inorganic
+   Mixtures
+7. AbSciCon 2022 Session: Prebiotoc/Abiotic Chemistry in Alternative 
+   Solvents
+8. Open Tenure-Track Positions as Assistant Professor, Umea University, 
+   Sweden
+9. Auburn Graduate Programs in Planetary Science and Aerospace 
+   Engineering
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NSF: GEOSCIENCE LESSONS FOR AND FROM OTHER WORLDS (GLOW)
+
+NSF's Divisions of Earth Sciences (EAR), Atmospheric and Geospace 
+Sciences (AGS), and Astronomical Sciences (AST) encourage the 
+submission of proposals that bring together researchers and experts to 
+develop projects which: 1) use the study of other worlds as a way to 
+broaden and deepen our understanding of the Earth and its evolution, 
+including all processes and systems from the core to the magnetosphere, 
+and/or 2) use our geoscience knowledge to understand the environments 
+of other worlds. Science drivers include but are not limited to:
+
+- What can the study of other worlds reveal about the first billion 
+  years of Earth history?
+- What can the study of other worlds reveal about Earth's past and its 
+  future climate?
+- What can the study of other worlds reveal about interactions between 
+  the Earth and space environment?
+- What can the study of Earth's systems reveal about environments and 
+  processes that shape other worlds?
+- How can our basic science understanding of Earth processes and 
+  systems guide the identification of other habitable worlds?
+
+For the full program announcement go to:
+
+https://www.nsf.gov/pubs/2022/nsf22032/nsf22032.jsp
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SOFIA CYCLE 10 CALLS FOR PROPOSALS OPEN
+
+SOFIA Cycle 10 Calls for Proposals are open, with a deadline of January 
+28, 2022, 21:00 PST (January 29, 2022, 4:00 UTC). A total of 
+approximately 650 hours of observing time is offered, along with ~$7.5M 
+of funding for eligible proposers.
+
+Cycle 10 features two Calls for Proposals: one Call for regular 
+programs, and a separate Call for the SOFIA Legacy Program (SLP).
+
+Cycle 10 is expected to last from October 1, 2022, to September 30, 
+2023. During the Cycle, SOFIA plans to carry out three Southern 
+deployments: a long deployment scheduled approximately June through 
+September 2023 (GREAT and HAWC+), and two short deployments in 
+November 2022 (FIFI-LS) and March 2023 (EXES).
+
+Detailed information about the Cycle 10 calls may be found at: 
+
+https://www.sofia.usra.edu/proposing-observing/proposal-calls/cycle-10 
+
+Note opportunities for joint proposals with IRTF and GBO.
+
+An information session on Cycle 10 Calls will be offered at the 2022 
+Winter AAS meeting (Monday January 10, 10:30-11:00 am Mountain Time), 
+and will also be available online for virtual attendees. More 
+resources and guidance, including video tutorials about the typical 
+pitfalls in observing time estimates, are available at: 
+
+https://www.sofia.usra.edu/events/meetings-and-workshops/proposal-resources
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL RESEARCHER AT CU BOULDER/LASP
+
+The Exploration of Planetary Ices and Climates (EPIC) group at the 
+University of Colorado's Laboratory for Atmospheric and Space Physics 
+(LASP) seeks a postdoctoral researcher (RS-I, i.e., within ~3 years of 
+Ph.D.) in planetary science. Research in the EPIC group encompasses 
+theoretical and observational studies of the surfaces and atmospheres 
+of planets, natural satellites, and small bodies. The successful 
+candidate will collaborate with EPIC group members on currently funded 
+projects and seek to develop an independent research program. A focus 
+of this position will include investigations using data from NASA's 
+Lunar Reconnaissance Orbiter and the Dawn at Ceres mission to address 
+fundamental questions about ice on airless bodies.
+
+For further information and to apply, see the link below or contact 
+Dr. Paul Hayne (paul.hayne@colorado.edu) or Dr. Margaret Landis 
+(margaret.landis@colorado.edu).
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=35763
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ABSCICON 2022 SESSION: SALTY GOODNESS II - RETURN OF THE BRINES (IN 
+MEMORIAM OF RONALD OREMLAND)
+
+Abstract Submission deadline January 19th, 2022.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112203
+
+Hypersaline systems prove to be some of the most challenging 
+environments for microorganisms to reside in, where biology must
+ overcome extreme osmotic stresses, low water activities, and 
+chaotropicity, among others. Despite these stressors, hypersaline 
+environments on Earth host an astounding diversity of micro- and 
+macro-organisms. Beyond Earth, these environments remain some of the 
+most compelling for extant life detection (i.e. Europa and Enceladus), 
+or represent the last vestiges of a potentially habitable environment 
+on early Mars, characterized now by extensive evaporitic deposits. In 
+Salty Goodness I, we hosted discussions centered on habitability - this 
+year we concentrate on the biology, encouraging abstracts focused on: 
+
+1) expanding upon the biological effects of chaotropic fluids, 
+2) the microbial ecology of, and adaptations to, extreme hypersaline 
+   systems, 
+3) methodologies for biological investigations of brines, 
+4) ecological modeling utilizing quantified habitability metrics, and 
+5) laboratory-based biological experiments conducted under relevant 
+   Solar System body conditions.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ABSCICON 2022 SESSION: CROSSING THE THRESHOLD - IN SITU INSTRUMENTATION 
+TO SEEK LIFE, ITS PRECURSORS, AND GEOPHYSICAL CONTEXT ON EUROPA AND 
+OTHER OCEAN WORLDS
+
+Please submit your abstracts here:
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112403
+
+Submission deadline: January 19
+
+Recent missions have revealed a host of potentially habitable 
+environments on Ocean Worlds. The next step in the search for signs of 
+life, complex abiotic organic chemistry, and habitability will be to 
+perform landed investigations with access to the near-subsurface. 
+Astrobiologically-relevant materials including organics may be present 
+on these worlds at very low concentrations, driving the need for 
+specialized sample handling, enrichment and preparation techniques, 
+and/or extreme instrument measurement sensitivity. Missions will also 
+perform critical geophysical and geochemical investigations of the 
+moons' internal structures and composition, and conduct ground truth 
+observations to verify remote sensing observations. Additional 
+challenges are strict planetary protection constraints, limited 
+communication intervals, and operation in harsh environments with 
+stringent mass, power, and volume limits.
+
+This session seeks to highlight measurement requirements, laboratory 
+techniques, and instruments and technologies under development to 
+address these challenges and enable detection/characterization of 
+biosignatures, geophysical context, and habitability on Ocean Worlds.
+
+Conveners: Carina Lee, Rachel Moore, Tom Nordheim, Kate Craft
+ 
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ABSCICON 2022 SESSION: CHEMOMETRIC, CHEMOINFORMATIC, AND MACHINE 
+LEARNING STRATEGIES TO CHARACTERIZE COMPLEX ORGANIC AND INORGANIC 
+MIXTURES
+
+We are inviting abstracts that apply machine learning and/or building 
+databases to facilitate the characterization of complex 
+organic/inorganic mixtures.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/112057
+
+Astrobiological studies of complex samples often target specific 
+analytes such as compounds used in contemporary biochemistry. As a 
+result, the majority of other analytes (which often constitute the 
+majority of the sample) remain unstudied. Thus, deep understanding of 
+the extent to which abiotic processes and geochemical conditions drive 
+(geo)chemical complexity is not fully realized. Such understanding may 
+be critical for work aimed at deciphering geologic history, 
+elucidating conditions conducive for abiogenesis, and detecting 
+biosignatures. This session will highlight chemometric techniques 
+used to characterize complex organic and/or inorganic mixtures such as 
+those generated from laboratory simulations (e.g., Miller-Urey 
+reactions, tholins/astrophysical ice analogs) or within 
+(astro-)geological materials, including meteorites, Archean rocks, and 
+planetary samples. Examples of relevant topics include investigations 
+incorporating multivariate techniques and machine learning tools 
+(including supervised, unsupervised, and deep learning-based 
+approaches). Work aimed towards generating databases useful to the 
+chemometrics/astrobiology community are also welcomed.
+
+Abstract Deadline: January 19, 2022, at 23:59 EDT/03:59 +1 GMT.
+
+Conveners: Laura Rodriguez, Bethany Theiling, Jim Cleaves, Lu Chou
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ABSCICON 2022 SESSION: PREBIOTIC/ABIOTIC CHEMISTRY IN ALTERNATIVE 
+SOLVENTS
+
+Please consider applying to our session on prebiotic/abiotic chemistry 
+in alternative solvents or solvents with very low water activity.
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/111829
+
+While much of prebiotic chemistry is focused on reactions systems in 
+water, as that is the primary solvent on Earth, other solvent systems 
+may be possible and some have been argued to be potentially more 
+conducive to origin of life (e.g. formamide). Examples where other 
+solvents are available on a sufficient scale include Titan, exoplanets, 
+and locations with low water activity. This session invites abstracts 
+to showcase the current state of knowledge in this area, including 
+laboratory and modelling studies on the potential for abiotic chemistry 
+under these conditions that may represent the first steps towards 
+biological processes.
+ 
+Abstract Deadline: January 19th, 2022 at 23:59 EDT/03:59 +1 GMT.
+
+Conveners: Jessica Weber, Laura Rodriguez, Melissa Trainer, 
+Paul Bracher
+ 
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OPEN TENURE-TRACK POSITIONS AS ASSISTANT PROFESSOR, UMEA UNIVERSITY, 
+SWEDEN
+
+There are presently 5 open tenure-track positions as Assistant
+professor at the Faculty of Science and Technology, Umea University,
+Sweden. Some of the positions may well go to physical sciences,
+hopefully to space plasma physics.
+
+Please, spread the word about this opportunity among your colleagues
+in your institute and all over the world!
+
+This is a six-year appointment for junior researchers and gives the
+opportunity to develop a long-term research activity and to qualify
+for promotion to an Associate Professorship (Senior Lecturer).
+
+Starting date upon agreement. The application shall be submitted no
+later than 23:59 Swedish time (CET) on February 15, 2022.
+
+This is a great chance for anyone who wants to join the Umea Space
+Plasma Physics Group in Sweden: 
+
+https://www.umu.se/en/research/groups/space-plasma-physics-group/
+
+The successful candidate should conduct research and contribute to the
+continued development of the research environment in the
+field. Applicants with a research plan that is linked to and/or
+complements the department's research activities are given priority.
+
+For further information about the space plasma physics research
+environment at Umea University, please contact Maria Hamrin,
+maria.hamrin@space.umu.se
+
+The entire advertisement can be found on:
+
+https://bit.ly/3su8iVF
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AUBURN GRADUATE PROGRAMS IN PLANETARY SCIENCE AND AEROSPACE ENGINEERING
+
+The Departments of Aerospace Engineering and Geosciences at Auburn 
+University in Auburn, Alabama, invite graduate student applications 
+pursuing Ph.D. degrees to research programs that interdisciplinarily 
+explore Astrodynamics and Planetary Science. Outstanding applicants who 
+have strong and broad interests in exploring space systems/planetary 
+body mechanics and geology using multi-physics modeling and data 
+processing are encouraged to apply. The programs offer graduate 
+students unique opportunities to bridge planetary science research and 
+aerospace engineering technology development. There are two ways to 
+join the above programs. The Aerospace Engineering Department offers a 
+Ph.D. program for graduate students to pursue astrodynamics education, 
+while the Geosciences Department invites graduate students to its Ph.D. 
+program to focus on planetary geology. Details of the departments are 
+found at:
+
+https://www.eng.auburn.edu/aero/ 
+
+https://www.auburn.edu/cosam/departments/geosciences/    
+
+Questions may be directed to Masatoshi Hirabayashi (he/him) in 
+Aerospace Engineering/Geosciences at Auburn University at thirabayashi 
+at auburn.edu.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+May 11-13, 2022
+Apophis T-7 Years: Knowledge Opportunities for the Science of Planetary 
+Defense
+https://www.hou.usra.edu/meetings/apophis2022/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Stick-slip Dynamics in Penetration Experiments on Simulated Regolith
+Jack Featherstone et al. 2021 PSJ 2:243
+https://doi.org/10.3847/PSJ/ac3de2
+
+New Evidence for Wet Accretion of Inner Solar System Planetesimals 
+from Meteorites Chelyabinsk and Benenitra
+Ziliang Jin et al. 2021 PSJ 2:244
+https://doi.org/10.3847/PSJ/ac3d86
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

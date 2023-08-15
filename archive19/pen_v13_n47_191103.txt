@@ -1,0 +1,375 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Nr. 47 (November 3, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Stand-Alone Planetary Major Equipment and Facilities
+   Proposals Not Solicited This Year
+2. [NASA] New ROSES Graduate Student Research Program Element: E.6
+   Future Investigators in NASA Earth and Space Science and Technology
+   (FINESST) 
+3. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 13
+4. EGU 2020 Session PS3.4 - Volcanism and Tectonism Across the Solar
+   System
+5. Remote participation for the 17th VEXAG meeting
+6. Job Posting: Lockheed Martin Space seeks a Research Scientist
+7. Postdoctoral Position in Early Mars Geochemistry
+8. Post-doc job announcement
+9. PhD student opportunity
+10. Planetary Geomorphology Image of the Month
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] STAND-ALONE PLANETARY MAJOR EQUIPMENT AND FACILITIES PROPOSALS
+NOT SOLICITED THIS YEAR
+
+The Planetary Major Equipment and Facilities (PMEF) program element
+normally allows proposals for the purchase or development of new or
+upgraded non-flight analytical, computational, telescopic, and other
+instrumentation to be used in investigations in Planetary Science
+Division (PSD) research programs.
+
+NOTICE: Amended October 31, 2019. Stand-alone proposals for planetary
+Major Equipment and Facilities will not be solicited this year.
+Schedule and budget constraints delayed the decisions on the 2018 PMEF
+proposals and, as a result, the 2019 Stand-alone proposals are not
+solicited. It is anticipated that this program element, including
+stand-alone proposals will be solicited in ROSES-2020.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2019
+
+and:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2019/
+
+Questions concerning this program element in general or this amendment
+in particular may be directed to Jeffrey Grossman at
+HQ-PME@mail.nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NEW ROSES GRADUATE STUDENT RESEARCH PROGRAM ELEMENT: E.6 FUTURE
+INVESTIGATORS IN NASA EARTH AND SPACE SCIENCE AND TECHNOLOGY (FINESST) 
+
+Through FINESST, the Science Mission Directorate (SMD) solicits
+proposals from accredited U.S. universities and other eligible
+organizations for graduate student-designed and performed research
+projects that contribute to SMD's science, technology and exploration
+goals.
+
+Proposals to FINESST are due by February 4, 2020.
+
+An optional pre-proposal teleconference will be December 2, 2019 from
+1:00-2:30 p.m. Eastern Time. Call 1-888-324-3185 (U.S.-only Toll Free)
+or 1-630-395-0272 (U.S. Toll) and use Participant Passcode: 8018549.
+TTY-equipped callers or other types of relay service, call 711 and
+provide the same conference call number/passcode.
+
+Email HQ-FINESST@mail.nasa.gov any teleconference agenda suggestions
+and questions by November 25, 2019. Afterwards, questions and responses, 
+with identifying information removed, will be posted on the NSPIRES page 
+for FINESST under "other documents".
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2019
+
+and:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2019/
+
+Questions concerning this program element may be directed to
+HQ-FINESST@mail.nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR AND TER RELEASE 13
+
+PDS announces Release 13 of Mars Reconnaissance Orbiter CRISM Targeted
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data
+Record (MTRDR) products, at:
+
+  http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from October 5, 2007, through August 8, 2008.
+TER products are image cubes derived from CRISM hyperspectral targeted
+observations, post-processed to standardize the illumination and 
+observation geometry and remove atmospheric gas absorptions and 
+instrument artifacts. MTRDRs are the same products map-projected using
+terrain models of the Martian surface.
+
+The standard route to access released data:
+
+  https://pds.nasa.gov/datasearch/subscription-service/SS-20191030.shtml
+
+To access all PDS Data Releases, please visit the following link:
+
+  https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+  https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+  https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU 2020 SESSION PS3.4 - VOLCANISM AND TECTONISM ACROSS THE SOLAR
+SYSTEM
+
+Please consider submitting an abstract to this session.
+
+PS3.4 - Volcanism and Tectonism across the Solar System
+
+Volcanism and tectonism are two of the most ubiquitous processes at
+work in the Solar System, shaping substantially the surfaces of worlds
+as diverse as the terrestrial planets, main-belt asteroids, and icy
+satellites. With orbital data and samples from the lunar surface,
+chronology and geochemistry results from the Moon have provided
+important sources of knowledge to understand the evolution of small
+planetary bodies.
+
+Through a combination of solicited and contributed presentations, this
+session will host observational, analytical, theoretical, and analogue
+fieldwork research into any aspect of planetary volcanic and tectonic
+activity. We welcome submissions that compare landforms and processes
+on multiple bodies, geochemical and chronological data from planetary
+material, and how lessons from specific studies can be applied to
+understanding volcanism and tectonism across the Solar System.
+
+Conveners:
+Ernst Hauber, Solmaz Adeli, and Petr Broz
+
+Abstract submission:
+
+https://meetingorganizer.copernicus.org/EGU2020/session/36515
+
+Abstract deadline:
+15 January 2020, 13:00 CET
+
+Best wishes,
+
+Petr Brož
+co-convener of the session
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+REMOTE PARTICIPATION FOR THE 17TH VEXAG MEETING
+
+The 17th VEXAG meeting is being held at LASP Space Sciences Building,
+University of Colorado Boulder, from 6-8 November, 2019 (Wednesday to
+Friday of this week).
+
+All presentations will be streamed via Zoom using this URL:
+
+https://cuboulder.zoom.us/j/989388401
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JOB POSTING: LOCKHEED MARTIN SPACE SEEKS A RESEARCH SCIENTIST
+
+Lockheed Martin Space seeks a Research Scientist to join teams that
+design, develop, and operate planetary missions and space-science
+instrumentation.  The Deep Space Exploration (DSE) directorate of
+Lockheed Martin has a long history of providing spacecraft and hardware
+solutions for many planetary missions, including missions to the Moon,
+Mars, asteroids, comets, and Jupiter. The Advanced Technology Center
+(ATC) is the research lab for LM Space, and within the ATC the Space
+Science and Instrumentation (SS&I) pursues fundamental space-science
+research and the development of prototype flight instruments and
+payloads. The successful candidate will play a key technical and
+leadership role in Planetary Science as part of these teams. The
+position is based in the Lockheed Martin facility in Littleton, CO.
+
+More details are available at the following link:
+
+https://www.lockheedmartinjobs.com/job/littleton/deep-space-planetary-
+research-scientist/694/13948660
+
+Please contact Tim Linn (timothy.m.linn@lmco.com) and Beau Bierhaus
+(edward.b.bierhaus@lmco.com) with any questions.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL POSITION IN EARLY MARS GEOCHEMISTRY
+
+The Department of Planetology and Habitability at the Centro de
+Astrobiología (CAB) invites applications for one postdoctoral position
+to support investigations on the geochemical nature of the early Mars
+environments. We are seeking enthusiastic and excellent candidates to
+join a planetary science team funded by the European Research Council
+(ERC), working with Dr. Alberto Fairen in the Project "MarsFirstWater"
+(ERC Consolidator Grant) broadening the efforts of the Project
+"icyMARS" (ERC Starting Grant).
+
+Applicants should have a recent Ph.D. in Geochemistry, and a background
+in Mars research and Planetary Science.
+
+The position, placed in Madrid, would be for two years, with possible
+extension to a third year contingent upon satisfactory performance.
+Benefits include working in a young enthusiastic team at the leading
+Astrobiology institution in Europe, full social benefits according to
+the Spanish social care system, and a very competitive salary.
+
+Applicants should send a letter of interest, a curriculum with a list
+of publications, a brief (maximum two pages) statement of research
+interests, and a list of three references, no later than December 31
+2019, to Alberto Fairen (agfairen@cab.inta-csic.es).
+
+The starting date is negotiable, but should be no later than March 1,
+2020. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POST-DOC JOB ANNOUNCEMENT
+
+U.S. Geological Survey - Mendenhall Research Fellowship Program -
+Research Opp. #18-27. Evaluating mineral resources on Mars for
+exploration and colonization. Closing date: January 6, 2020. GS-12
+two-year appointment.  Duty station: Lakewood, Colorado, USA. Areas of
+Ph.D.: Geology, planetary geology, imaging spectroscopy, and mineral
+spectroscopy or related fields. The Denver Spectroscopy Group is
+seeking a postdoctoral fellow to conduct research focused on creating
+mineral maps of the Martian surface using orbital imaging spectrometer
+and broadband data emphasizing key minerals to pinpoint sites most
+favorable for habitat location. A related research topic involves
+spectrally mapping relict hydrothermal deposits to answer stubborn
+questions about their origin and where to focus future rover efforts to
+potentially discover evidence of past life. A research proposal is the
+most important part of the application package and will be evaluated by
+an expert panel. Applicants are strongly urged to coordinate the
+development of their proposal with the USGS research advisor (i.e.,
+Gregg Swayze; gswayze@usgs.gov).
+
+https://www.usgs.gov/centers/mendenhall/18-27-evaluating-mineral-
+resources-mars-exploration-and-colonization
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PHD STUDENT OPPORTUNITY
+
+We have an opening for a PhD student interested in experimentally
+investigating the interaction of volcanic gas and martian surface
+materials and assessing the IR spectral signature of the products
+beginning Fall 2020. The student will work with Dr. Hanna Nekvasil on
+experiments simulating boiling of magma and investigate the nature of
+vapor-deposited salts added to martian dust as well as the alteration
+of basalt by martian volcanic gas. The student will also work with Dr.
+A. Deanne Rogers on assessing the IR spectral signature of the martian
+fines altered by volcanic gas and how this signature is modified by
+reaction during changes in relative humidity. Interested students
+should contact Hanna.Nekvasil@stonybrook.edu. Stony Brook University
+has a dynamic planetary science group and a long history of excellence
+in experimental igneous petrology. Please pass this message on to any
+student you think may be interested.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The November image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "BLOCKS FRAGMENTED IN PLACE ON THE MOON".
+Contributed by Dr. O. Reusch, European Space and Technology Center,
+European Space Agency (ESA), the Netherlands.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 4-8, 2020
+VEXAG Meeting
+https://www.lpi.usra.edu/vexag/
+Boulder, CO
+
+February 3-4, 2020
+Outer Planets Assessment Group (OPAG)
+https://www.lpi.usra.edu/opag/meetings/feb2020/
+Houston, TX
+
+March 31-April 2, 2020
+Preventing Harassment in Science:  Building a Community of Practice Toward Meaningful Change
+https://www.hou.usra.edu/meetings/anti-harassment2020/
+Phoenix, AZ
+
+June 8-11, 2020
+7th Mars Atmosphere Modelling and Observations Workshop
+http://www-mars.lmd.jussieu.fr/paris2020/
+Paris, France
+
+July 27-31, 2020
+Exoplanets III
+https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php
+Heidelberg, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

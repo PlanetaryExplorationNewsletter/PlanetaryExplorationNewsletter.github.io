@@ -1,0 +1,470 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 15 (April 10, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Small Bodies Assessment Group (SBAG) Steering Committee Positions 
+   Open
+2. EPSC Session TP5: Mars Science and Exploration
+3. PhD Position in Atmosphere/Exosphere Modeling at University of 
+   Bern, Switzerland
+4. [NASA] TOPS Community Panel Nominations
+5. Lowell Observatory - Tenure Track Position(s)
+6. Inaugural Forming and Exploring Habitable Worlds Meeting
+7. ICAR 2022 in Namibia (July 17-23) has been cancelled
+8. Rocky Worlds II Conference
+9. FLOW Coffee Hour: How to get Field Work Funded (Special Emphasis on 
+   Antarctica)
+10. [NASA] Request for Information: Interest in Competing for Operation 
+    of the Lunar and Planetary Institute
+11. [NASA] SMD Community Town Hall April 19, 2022
+12. ICPAE Monthly Seminar
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) STEERING COMMITTEE POSITIONS OPEN
+
+Three positions are open for the Steering Committee of the Small Bodies 
+Assessment Group (SBAG), with three-year terms starting in August 2022.
+
+The Committee organizes SBAG meetings, writes the official SBAG 
+findings, and takes a leadership role in other activities where 
+community input on topics of interest is needed.
+
+In addition to a member in Planetary Defense who works to understand 
+the population of small bodies that may impact our planet, we seek two 
+at-large members in any area of small body research at any career 
+stage.
+
+The application requires: 1) a two-page CV, including a description of 
+participation in SBAG or other small bodies organizations, and 2) a 
+short (300 words maximum) statement of interest. Criteria for selection 
+are: participation in small bodies community organizations, leadership 
+experience, and relevant research or mission experience.
+
+In support of diversity, applicants may specify gender, whether they 
+belong to an underrepresented group in STEM, or other additional 
+relevant information.
+
+Send applications to Bonnie Buratti (bonnie.buratti@jpl.nasa.gov) by 
+May 6, 2022, 8:00 PM EDT. New members will be announced at the 27th 
+Meeting of SBAG, June 7-9, 2022.
+
+Bonnie Buratti, SBAG Steering Committee Chair
+
+https://www.lpi.usra.edu/sbag/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC SESSION TP5: MARS SCIENCE AND EXPLORATION
+
+EuroPlanet Science Congress 
+Granada, Spain 
+September 18-23, 2022
+
+https://meetingorganizer.copernicus.org/EPSC2022/session/44590
+
+Abstract submission deadline: May 18 2022, 0600 CDT/1300 CEST
+
+The aim of this session is to share the knowledge and experience 
+gained by all Mars exploration programmes, both in Europe and 
+worldwide, to promote synergies among the various missions in 
+operations and development.
+
+We welcome contributions from any field of Mars science and 
+exploration, in particular mission status and instrument overviews of 
+latest scientific results and technical developments. These include 
+latest results and new challenges for all operational orbiters (Mars 
+Express, ExoMars TGO, Odyssey, MRO, MAVEN, Mangalyaan/MOM, Tianwen-1, 
+Hope), surface assets (MSL, Insight, Mars2020, Tianwen-1), and 
+preparations for the new missions (ExoMars RSP, MMX, Mars Sample 
+Return, etc). We welcome contributions from any field of Mars science 
+and exploration, in particular latest scientific results and instrument 
+overviews. This includes latest results from all operational orbiters 
+(Mars Express, ExoMars TGO, Odyssey, MRO, MAVEN, Mangalyaan/MOM, 
+Tianwen-1, Hope) and surface assets (MSL, Insight, Mars2020, 
+Tianwen-1), and preparations for the new missions (ExoMars RSP, MMX, 
+Mars Sample Return, etc).
+
+Conveners: Alejandro Cardesin-Moinelo, Eleni Bohaceck, Csilla Orgel, 
+Lucie Riu, Elliot Sefton-Nash, Colin Wilson
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PHD POSITION IN ATMOSPHERE/EXOSPHERE MODELING AT UNIVERSITY OF BERN, 
+SWITZERLAND
+
+The goal of the PhD position is to extend our exosphere model to cover 
+the collisional regime in atmospheres below with a Direct Simulation 
+Monte Carlo module and coupling to our existing model. This model will 
+be used to study atmospheres of planetary objects in our own Solar 
+System (mainly the jovian icy moons) as well as exoplanets. The PhD 
+position is part of the National Centre of Competence in Research 
+Planets at the University of Bern: 
+
+https://nccr-planets.ch/de/ 
+
+The work will be carried out in close collaboration within the NCCR at 
+the national level and within the upcoming ESA and NASA Jupiter 
+missions at the international level.
+
+The deadline for applications is 29 April 2022, the position is 
+available from 1 June 2022. An MSc in physics, astrophysics or similar 
+experience is required. Proficient English language skills, both 
+written and spoken, are also required; German language skills are a 
+plus. Experience in programming is necessary. Applicants should send 
+a complete application, including a cover letter describing your 
+motivation and qualifications for the position, a CV, as single PDF 
+file to: 
+
+Dr. Audrey Vorburger 
++41 31 684 44 16 
+audrey.vorburger@unibe.ch
+
+https://tinyurl.com/26ksfuju
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] TOPS COMMUNITY PANEL NOMINATIONS
+
+The National Aeronautics and Space Administration (NASA), is seeking 
+persons to serve on a community panel for NASA's Transform to Open 
+Science (TOPS) and Year of Open Science initiatives. TOPS is a program 
+of the Open-Source Science Initiative (OSSI) within the Science Mission 
+Directorate (SMD). To spark change and inspire open science engagement, 
+OSSI has created the TOPS mission and declared 2023 as the Year of Open 
+Science. Community panel members shall provide input on TOPS mission, 
+goals, partnerships, and activities.
+
+For informstion and to express interest in participating, go to:
+
+https://science.nasa.gov/open-science-overview/TOPS-community-panel
+
+Travel reimbursement to any in-person panel events will be provided. 
+Additionally, non-civil servant panelists will receive a $1200 per day 
+honorarium.
+
+We expect to hold two 1.5-day panel events. The first session (virtual) 
+will be held during the week of May 16, 2022. The second session will 
+be held in ~October 2022.
+
+The request for panelists closes April 15, 2022.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LOWELL OBSERVATORY - TENURE TRACK POSITION(S)
+
+Lowell Observatory invites applications for one or more tenure-track 
+positions in astronomy or planetary science. A complete job description 
+and instructions on how to apply can be found on our employment page: 
+
+https://lowell.edu/about/career-opportunities/
+
+Inquiries may be sent to Catie Blazek at humanresources@lowell.edu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INAUGURAL FORMING AND EXPLORING HABITABLE WORLDS MEETING
+
+It is now only a few weeks until the close, on April 22, of early bird 
+registration and abstract submission for the inaugural Forming and 
+Exploring Habitable Worlds Meeting taking place in Edinburgh on the 
+week beginning November 7, 2022.  
+
+Further information is available at: 
+
+https://www.habitableworlds.co.uk
+
+All those considering joining via the virtual access option are urged 
+to register early!  
+
+The meeting's website provides travel information to help those 
+planning to attend in-person.
+
+Potential delegates are reminded that there are thematic publishing 
+projects dedicated to this meeting.  
+
+Within recent weeks additional sponsorship has been gained. Please 
+familiarise yourself with the event's bursary provisions that are 
+intended to relieve financial burdens for those accessing the event 
+virtually, in-person presenters, and those not yet in secure 
+positions who wish to attend the retreat to Gartmore House in 
+Stirlingshire. Apply by April 25! 
+
+The retreat to Gartmore House provides a short-course intended to 
+benefit those building their careers in academia and beyond. 
+
+Looking forward to engaging with your work at the meeting!
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ICAR 2022 IN NAMIBIA (JULY 17-23) HAS BEEN CANCELLED
+
+The Conference Organisers and ISAR Board are extremely sorry to 
+announce that the International Conference on Aeolian Research to be 
+held in Swakopmund, Namibia in July 2022 has been cancelled owing to 
+the ongoing difficulties with the pandemic. The Organising Committee 
+will be in touch as soon as possible with delegates who had previously 
+registered for the Conference, and also with sponsors. If you have any 
+queries please contact icar2022@ouce.ox.ac.uk. The Organisers would 
+like to thank you for all your patient support over the last two years. 
+
+ICAR will return...
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ROCKY WORLDS II CONFERENCE
+
+July 4-8, 2022 
+Oxford, United Kingdom
+
+In-person registration deadline: 15 April, 2022
+
+https://www.rockyworlds.org
+
+The detailed understanding gleaned from the terrestrial planets in the 
+Solar System is crucial in the interpretation of extrasolar planets. 
+As the characterisation of these new planetary systems proceeds, it 
+in turn improves our understanding of the Solar System, and in 
+particular of how potentially habitable worlds form, evolve, and are 
+distributed throughout the galaxy. 
+
+The Rocky Worlds conference series brings together planetary 
+scientists, astronomers, and earth scientists to foster discussion and 
+build collaborations that will pave the way for the next decade of 
+rocky exoplanet discovery and characterisation.
+
+Invited speakers: 
+Nathalie Carrasco, Rebecca Fischer, Sascha Quanz, Elishevah van Kooten, 
+Allona Vazan, Masahiro Ikoma
+
+Scientific organisers: 
+Tim Lichtenberg, Amy Bonsor, Vivien Parmentier, James Bryson, Oliver 
+Shorttle, Colin Wilson, Jayne Birkby, Ray Pierrehumbert
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FLOW COFFEE HOUR: HOW TO GET FIELD WORK FUNDED (SPECIAL EMPHASIS ON 
+ANTARCTICA)
+
+Future Leaders of Ocean Worlds (FLOW) is hosting a coffee hour Monday 
+April 18 at 10 am PT / 1 pm ET on the topic of field work. Join to hear 
+tips for getting field work funded with a special discussion on 
+Antarctica! There will be a short presentation from each of our 
+panelists followed by a Q&A. You can also submit your questions ahead 
+of time by visiting FLOW's site: 
+
+https://oceanworlds.space/flow/
+ 
+Panelists:
+
+Dr. Mary Voytek, Senior Scientist for Astrobiology in the Science 
+Mission Directorate at NASA HQ and Program Officer for NASA's Planetary 
+Science and Technology through Analog Research (PSTAR).
+
+Dr. Britney Schmidt, Associate Professor Astronomy and Earth & 
+Atmospheric Sciences, Cornell University.
+
+Dr. Andre Belem, Oceanography Professor at Universidade Federal 
+Fluminense.
+
+Webex Information:
+
+Date & Time: Monday, April 18th, 10 am PT / 1 pm ET | 1 hour
+Link: FLOW Coffee Hour: Field Work (w/emphasis on Antarctica)
+Hosted by Laura Rodriguez
+
+Meeting Link: 
+
+https://jpl.webex.com/jpl/j.php?MTID=m547b507e8944b1bbc4fe8acdfc6638f2
+
+Meeting number: 2760 073 4161
+Password: f8jBSMp5Nr5
+
+Join by phone: +1-510-210-8882 USA Toll
+Access code: 276 007 34161
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] REQUEST FOR INFORMATION: INTEREST IN COMPETING FOR OPERATION OF 
+THE LUNAR AND PLANETARY INSTTITUTE
+
+This email announces the release of a Request for Information (RFI) via 
+NASA Solicitation and Proposal Integrated Review and Evaluation System 
+(NSPIRES) that seeks information that may influence the formulation of 
+a solicitation(s) to continue activities operated via a Lunar and 
+Planetary Institute. Over 50 years ago, the National Academy of 
+Sciences recommended the creation of an independent-of-NASA Lunar 
+Science Institute that was renamed the Lunar and Planetary Institute 
+(LPI) in 1978. LPI is not a NASA facility, and it does not share a 
+fiscal identity with NASA nor is it a Federally Funded Research and 
+Development Center (FFRDC).
+
+Currently, NASA funds an LPI to be located close to NASA's Johnson 
+Space Center (JSC) and to enable the Science Mission Directorate (SMD) 
+at NASA Headquarters to further NASA's Planetary Science Goals. The 
+purpose of this RFI is to identify entities that have an interest in 
+submitting a credible proposal(s) to carry out the 
+activities-of-interest-to-NASA that are listed in Section 4 of the RFI 
+entitled "Interest in Competing for Operation of the Lunar and 
+Planetary Institute" available at short URL: 
+
+https://go.nasa.gov/RFI22LP
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] SMD COMMUNITY TOWN HALL, APRIL 19, 2022
+
+NASA's Science Mission Directorate will hold a community town hall 
+meeting with Associate Administrator for Science Thomas H. Zurbuchen 
+and his leadership team on Tuesday April 19 at 12:30 p.m. Eastern Time 
+to discuss updates to NASA's science program and share current status 
+of NASA activities.
+
+Members of SMD, the science community, academia, the media, and the 
+public are invited to participate by joining at:
+
+https://tinyurl.com/2p977cut
+
+If prompted, please use event number 2761 572 5402, followed by event 
+password FPhHmMUs284.
+
+Participants are invited to submit their questions below and/or vote 
+up questions already posted. To ask a question, go to
+
+https://nasa.cnf.io/sessions/d434/#!/dashboard
+
+Users must provide their first and last name and organization and can 
+submit their own questions or vote up questions submitted by others. 
+The meeting leaders will try to answer as many of the submitted 
+questions as possible.
+
+Presentation materials will be available for download and a recording 
+will be available later that day at: 
+
+https://science.nasa.gov/researchers/virtual-townhall
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ICPAE MONTHLY WEBINAR
+
+Title: Winds, Water and Weather of Jupiter's Atmosphere
+Speaker: Cheng Li (University of Michigan, USA)
+Apr 14 Thu 01:00 UTC (= Apr 13 9PM in New York, Apr 14 9AM in Beijing,
+14th 3AM in Paris)
+
+Webinar link:
+
+https://us02web.zoom.us/j/84289863791?pwd=ZVBKTlhzZkZXOXRaZjA3dU9zY0NYZz09
+
+Details can be found in the link below:
+
+https://tinyurl.com/bdvd7mxd
+
+The International Commission on Planetary Atmospheres and Evolution
+(ICPAE), which is one of the commissions of the International
+Association of Meteorology and Atmospheric Sciences (IAMAS), organizes 
+a monthly webinar. The primary objective of our webinar series is to
+provide researchers with updates on new findings and techniques on
+planetary atmospheres from across the world.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+November 2-4, 2022
+Exoplanets in Our Backyard 2
+https://www.hou.usra.edu/meetings/exoplanets2022/
+Pasadena, CA
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Winter Weakening of Titan's Stratospheric Polar Vortices
+J. Shultis et al. 2022 PSJ 3:73
+https://doi.org/10.3847/PSJ/ac5ea1
+
+Mixing of Condensable Constituents with H-He during the Formation and
+Evolution of Jupiter
+David J. Stevenson et al. 2022 PSJ 3:74
+https://doi.org/10.3847/PSJ/ac5c44
+
+Geologic Context of the OSIRIS-REx Sample Site from High-resolution
+Topography and Imaging
+O. S. Barnouin et al. 2022 PSJ 3:75
+https://doi.org/10.3847/PSJ/ac5597
+
+Neptune's Pole-on Magnetosphere: Dayside Reconnection Observations by
+Voyager 2
+Jamie M. Jasinski et al. 2022 PSJ 3:76
+https://doi.org/10.3847/PSJ/ac5967
+
+Optical Properties of Cyanoacetylene Ices in the Far- to Near-infrared
+with Direct Relevance to Titan's Stratospheric Ice Clouds
+Melissa S. Ugelow and Carrie M. Anderson 2022 PSJ 3:77
+https://doi.org/10.3847/PSJ/ac596f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

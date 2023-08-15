@@ -1,0 +1,295 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 45 (September 21, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] 2014 Self Nomination to Serve on NASA Science Advisory 
+   Sub-Committees
+2. [NASA] PDART Point-of-Contact has Changed
+3. [NASA] Delay of Step-2 Due Date for Dawn at Ceres Guest 
+   Investigator Program
+4. [NASA] Explorer Solicitations are Released
+5. [NASA] PDS - LADEE LDEX Extended Mission Data Release
+6. 12th International Planetary Probe Workshop (IPPW-12)
+7. Jovian Magnetic Field and Magnetosphere Post-doc Researcher
+8. Early Bird Registration Extended for the 4th International Workshop
+   on LunarCubes
+9. NASA Postdoctoral Fellowships
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NASA] 2014 SELF NOMINATION TO SERVE ON NASA SCIENCE ADVISORY SUB-
+COMMITTEES
+
+Due date: October 1, 2014
+
+NASA will consider self-nominations for U.S. citizens to fill 
+intermittent vacancies on NASA's science advisory subcommittees. 
+Nominations must be submitted in the form of a cover email, a one-
+page professional resume and a one-page professional biography via 
+email; no hard copy will be accepted. For information on 
+qualifications and email addresses to which the nominations should be 
+submitted please see the full text of the call at:
+
+http://tinyurl.com/2014subcomCall     
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDART POINT-OF-CONTACT HAS CHANGED
+
+The point of contact for ROSES-2014 C.7, Planetary Data Archiving, 
+Restoration, and Tools (PDART) has been changed to Sarah Noble, who 
+can be reached at sarah.noble-1@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] DELAY OF STEP-2 PROPOSAL DUE DATE FOR DAWN AT CERES GUEST INVESTIGATOR
+PROGRAM
+
+ROSES-14 Amendment 34
+
+To allow proposers adequate time to prepare their full Step-2 proposals 
+after hearing the decision about their Step-1 proposals, the due date 
+for Step-2 proposals for this program is now October 27, 2014.
+
+This Amendment to the NASA Research Announcement "Research 
+Opportunities in Space and Earth Sciences (ROSES)-2014" (NNH14ZDA001N) 
+is posted on the NASA research opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2014
+
+Only offerors who submitted a Step-1 proposal are now eligible to 
+submit a Step-2 (full) proposal. Potential proposers are strongly 
+encouraged to carefully read Section 2.3 of C.20 and the "Instructions 
+for Submitting a Step-2 Proposal" under "Other Documents" on the 
+NSPIRES web page for this program.
+
+Questions concerning this program element or this Amendment may be 
+directed to: Michael New at  michael.h.new@nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] EXPLORER SOLICITATIONS ARE RELEASED
+
+Notice of Intent to Propose Due: October 15, 2014
+Proposals Due: December 18, 2014
+ 
+NASA has released the Announcement of Opportunity for each of the 3 
+following missions:
+
+1. NNH14ZDA013O (Small Explorer AO)
+2. NNH12ZDA006O-APEXMO2  (Amendment 9 to the SALMON-2 AO: 
+   Astrophysics Explorer Mission of Opportunity Solicitation)
+3. NNH14ZDA001N-APEX USPI  (Amendment 33 to the ROSES-14 NRA: 
+   Astrophysics Explorer U.S. Participating Investigators)
+
+The full text of the solicitations and all appendices will be 
+available electronically at: 
+
+http://nspires.nasaprs.com/
+ 
+Pre-proposal conferences will be held in early October 2014. For
+details see:
+
+http://explorers.larc.nasa.gov/APSMEX 
+ 
+NASA expects to select up to three Astrophysics Small Explorer 
+missions for Phase A studies, and down-select one to proceed into 
+Phase B and subsequent mission phases. NASA expects to select up to 
+three Astrophysics Explorer Missions of Opportunity for Phase A 
+studies, and down-select one or two to proceed into Phase B and 
+subsequent mission phases. If multiple selectable Missions of 
+Opportunity are proposed with combined costs within the available 
+funding, NASA may down-select more than one Mission of Opportunity 
+investigation. NASA expects to select up to two USPI investigations.
+  
+Comments and questions may be addressed in writing or by E-mail to:
+
+Dr. Wilton T. Sanders, NASA Headquarters
+wilton.t.sanders@nasa.gov 
+(Email subject line should read "Explorer SMEX AO" or "Explorer MO PEA" 
+or “APEX USPI” as appropriate.)
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - LADEE LDEX EXTENDED MISSION DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the 
+availability of the LADEE Lunar Dust Experiment (LDEX) reduced and 
+calibrated data from the extended mission. The data from the nominal 
+mission was previously released, so now all reduced and calibrated 
+LDEX data from the full mission are available from the PDS. These 
+data are certified for use in proposals.
+
+To access the LADEE LDEX data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/ldex.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+12TH INTERNATIONAL PLANETARY PROBE WORKSHOP (IPPW-12)
+
+Save the dates for IPPW-12, hosted by DLR, from June 15-19, 2015 at the 
+Hyatt Regency Hotel in Cologne Germany. A Short Course on Radio Science, 
+Radar, Communications, Navigation, and Tracking will be held the 
+weekend before on June 13-14, 2015. Details and website to follow.
+ 
+Bernie Bienstock
+IPPW-12 IOC Chair
+JPL
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POST-DOC RESEARCHER
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Jupiter’s magnetic field and magnetosphere, using data from the 
+Juno (New Frontier) mission. Additional details are available at:
+
+http://www.astro.umd.edu/employment/#Juno.
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Sept. 26, 2014 will receive full 
+consideration.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EARLY BIRD REGISTRATION EXTENDED FOR THE 4TH INTERNATIONAL WORKSHOP ON 
+LUNARCUBES
+
+Register now for the 4th International Workshop on LunarCubes. 
+Register by September 22 for reduced rates!
+
+October 7-10, 2014, Sunnyvale, CA
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17701  
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar may 
+apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter:  
+
+http://bit.ly/1u0LcSj
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 4-6, 2015
+Workshop on Early Solar System Bombardment III
+http://www.hou.usra.edu/meetings/bombardment2015/
+Houston, TX
+
+March 23-27, 2015
+June 15-19, 2015
+Star and Planet Formation in the Southwest
+https://lavinia.as.arizona.edu/~kkratter/SPF1/Home.html
+Oracle, AZ
+
+April 12-17, 2015
+European Geosciences Union General Assembly 2015
+http://www.egu2015.eu/home.html
+Vienna, Austria
+
+May 19-22, 2015
+Craters: Populations, Chronologies & Stats
+http://www.hou.usra.edu/meetings/craterstats2015/
+Laurel, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

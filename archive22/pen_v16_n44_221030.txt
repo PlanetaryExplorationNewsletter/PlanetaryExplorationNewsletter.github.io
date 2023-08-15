@@ -1,0 +1,393 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 44 (October 30, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] F.13 Lunar Terrain Vehicle Instruments Program Deferred to
+   ROSES-2023
+2. [NASA] F.11 Stand Alone Location Agnostic Payloads and Research
+   Investigations on the Surface of the Moon Deferred to ROSES-2023
+3. 2023 Pierazzo International Student Travel Award
+4. [NASA] PDS: OSIRIS-REx OVIRS Release
+5. Europa Observers Group
+6. Inclusion Plan Best Practices Workshop
+7. Galilean Moons Workshop
+8. 2023 Technology Showcase for Future NASA Planetary Science Missions
+9. MIT/EAPS Assistant Professor (Tenure Track)- Open Search
+10. Tenure-track Assistant Professorship at Cornell University
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] F.13 LUNAR TERRAIN VEHICLE INSTRUMENTS PROGRAM DEFERRED TO
+ROSES-2023
+
+When it is solicited in ROSES-2023, Lunar Terrain Vehicle Instruments
+Program (F.13 LTV) will seek proposals for instruments to be deployed
+on the Lunar Terrain Vehicle that will be delivered to the lunar
+surface ahead of the second crewed Artemis lunar surface mission.
+
+ROSES-2022 Amendment 62 announces that Lunar Terrain Vehicle
+Instruments Program (F.13 LTV) which had been listed as "TBD" will not
+be solicited in ROSES-2022. Instead, it will be solicited in
+ROSES-2023, to be released in February 2023.
+
+This Amendment to the NASA Research Announcement "Research
+Opportunities in Space and Earth Sciences (ROSES) 2022" (NNH22ZDA001N)
+will be posted on the NASA research opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2022/
+
+Questions regarding  F.13 LTV may be directed to Debra Needham at
+debra.m.hurwitz@nasa.gov and Brad Bailey at brad.bailey@nasa.gov.
+
+This Amendment will be posted on the NASA research opportunity 
+homepage at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+General questions to: mary.f.sladek@nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] F.11 STAND ALONE LOCATION AGNOSTIC PAYLOADS AND RESEARCH
+INVESTIGATIONS ON THE SURFACE OF THE MOON DEFERRED TO ROSES-2023
+
+F.11 Stand Alone Location Agnostic Payloads and Research Investigations
+on the Surface of the Moon (SALA PRISM) was to have solicited proposals
+for stand-alone science investigations that include development and
+flight of location agnostic science-driven payloads to be delivered to
+the lunar surface by the Commercial Lunar Payload Services.
+
+ROSES-2022 Amendment 63 announces that F.11 SALA PRISM, which had
+previously been listed as "TBD" will not be solicited in ROSES-2022.
+Instead, it will be solicited in ROSES-2023, to be released in February
+2023.
+
+This Amendment to the NASA Research Announcement "Research
+Opportunities in Space and Earth Sciences (ROSES) 2022" (NNH22ZDA001N)
+will be posted on the NASA research opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2022/
+
+Questions regarding F.11 SALA PRISM or this amendment may be directed
+to Ryan Watkins, Debra Needham, and Brad Bailey, all of whom may be
+reached at HQ-PRISM@mail.nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2023 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+Application deadline: 9 PM MST, November 28, 2022
+
+Awards will be announced on or before December 4, 2022.
+
+This award is established by the Planetary Science Institute in memory
+of Senior Scientist Betty Pierazzo to support and encourage graduate
+students to build international collaborations and relationships in
+planetary science. Two awards will be made each year, contingent upon
+there being meritorious applications. One will be awarded to a graduate
+student working on his or her Ph.D. at an institution within the U.S.
+This is to support travel to a planetary science related meeting
+(conferences and workshops) outside of the U.S. The second award will
+be to a graduate student working on his or her Ph.D. at an institution
+outside of the U.S. This is to support travel to a planetary science
+related meeting within the U.S. These include general meetings that
+have planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+https://www.psi.edu/pista
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: OSIRIS-REX OVIRS RELEASE
+
+This release of OSIRIS-REx OVIRS data includes all the raw and 
+calibrated data through the end of the Bennu encounter.
+
+These data are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20221024.shtml
+
+or more directly at:
+
+https://sbn.psi.edu/pds/resource/orex/ovirs.certified.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EUROPA OBSERVERS GROUP
+
+The Europa Clipper Project is bringing together a group of ground and
+space-based observers of Europa, with the goal of enhancing the
+scientific return of the Europa Clipper mission. The purpose of the
+group is to provide temporal coverage and context for measurements,
+additional wavelengths and geometries, monitoring, follow-up, and
+advocacy to TACs. The Europa Clipper Project will host a workshop once
+or twice a year in conjunction with a major conference, with the first
+one tentatively set for DPS 2023. Observers are expected to fund their
+own activities. If you are interested in being on the mailing list,
+please contact Bonnie Buratti, Europa Clipper JPL Deputy Project
+Scientist, (bonnie.buratti@jpl.nasa.gov), with a one sentence summary
+describing your expected contribution. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INCLUSION PLAN BEST PRACTICES WORKSHOP
+
+NASA's Science Mission Directorate (SMD) is happy to announce the first
+virtual Inclusion Plan Best Practices Workshop, scheduled for November
+1-2, 2022, 1:00-3:00 p.m. Eastern Time each day. For more information
+see:
+
+https://www.hou.usra.edu/meetings/inclusionplan2022/
+
+The workshop will be recorded and posted on the SARA website.
+
+Many programs within NASA's Research Opportunities in Space and Earth
+Sciences (ROSES) are now requiring that proposals contain an inclusion
+plan that outlines how the team will work against barriers to create
+and sustain inclusive work environments. SMD is hosting an Inclusion
+Plan Best Practices Workshop to provide proposers with some background
+and tools needed to be active participants in creating and maintaining
+inclusive work environments. 
+
+This workshop is open to any member of the science community and may be
+of particular interest to those writing ROSES or mission proposals
+requiring inclusion plans. Questions may be directed to
+ryan.n.watkins@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GALILEAN MOONS WORKSHOP
+
+The Workshop on the Origins and Habitability of the Galilean Moons is
+scheduled for October 24-26, 2023, at the Laboratoire d'Astrophysique
+de Marseille, Technopole de Marseille-Etoile, France. The three-day 
+in-person workshop will be co-chaired by Olivier Mousis, Kathy Mandt 
+and Morgan Cable. Further information can be found here:  
+
+https://galileanmoons.com  
+
+The goal of this workshop is to prepare for the arrival of the
+ESA/JUICE and NASA/Europa-Clipper missions in the Jovian system. In
+particular, the link between the composition of the moons and the
+formation conditions of giant planets systems, as well as their
+potential habitability, as evidenced by measurement techniques,
+instrumentation, laboratory experiments, and future mission concepts in
+the framework of international collaborations, are of high interest.
+Presenters will be encouraged to submit their works to a special issue
+of a dedicated journal. 
+
+In-person attendance will be limited to ninety people; limited
+opportunity for virtual participation is planned. Some support for
+in-person attendance may also be available for students and
+early-career researchers. The organizers will monitor the COVID
+situation, and the workshop format, including virtual participation,
+will be adjusted as necessary.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+2023 TECHNOLOGY SHOWCASE FOR FUTURE NASA PLANETARY SCIENCE MISSIONS
+
+On January 9-11, 2023, NASA^s Science Mission Directorate is sponsoring
+a Technology Showcase - focused this year on planetary science - to
+foster discussions about new technologies that may substantially
+improve future missions the science community has identified. The
+Showcase will take place in Galveston, TX.
+
+Abstracts describing future missions (from SIMPLEx to New Frontiers
+scope) are still being accepted and will be posted on the event 
+website.
+
+Abstracts are two pages and should cover mission basics (Overview,
+Operations, Instruments, Science Objectives, needed technologies with
+current TRL, etc.)
+
+MEPAG community abstracts should be submitted to Jonathan Bapst via
+email at jonathan.bapst@jpl.nasa.gov
+
+Scientists, mission managers, and other interested parties are invited
+to attend. Registration information, science mission abstracts, and
+additional information will be posted at:
+
+https:// NASA-techshowcase.seti.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MIT/EAPS ASSISTANT PROFESSOR (TENURE TRACK)- OPEN SEARCH
+
+The Department of Earth, Atmospheric and Planetary Sciences (EAPS) at
+the Massachusetts Institute of Technology (MIT) invites applications
+for a faculty position in the broad area of planetary habitability. We
+especially encourage applicants who use field, laboratory or other
+measurement-based approaches to understand how habitable environments
+on Earth or other planets function and evolve and what controls their
+stability. Our intent is to hire at the tenure-track assistant
+professor level. More senior appointments may be considered in special
+cases, commensurate with experience.
+
+A complete application includes (1) a cover letter, (2) Curriculum
+Vitae, (3) a 1-3 page summary of current and future research
+directions, (4) a 1-3 page statement describing teaching and mentoring
+experience and/or future plans, including contributions to fostering
+diversity, equity, and inclusion, and (5) three letters of
+recommendation. 
+
+A Ph.D. is required by the start of employment. Applications are being
+accepted at Academic Jobs Online:
+
+https://academicjobsonline.org/ajo/jobs/23425
+
+To receive full consideration, complete applications must be received
+by December 15, 2022
+
+Search Contact: Ms. Karen Fosher, kfosher@mit.edu
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+TENURE-TRACK ASSISTANT PROFESSORSHIP AT CORNELL UNIVERSITY
+
+I wanted to call your attention again to our presently open search for
+a tenure-track position at Cornell University within the Astronomy
+Department. This position is open to all fields of interest within
+Astronomy, including Planetary Sciences. The successful candidate will
+teach and advise undergraduate and graduate students. A record of
+excellence in and/or commitment to teaching, mentorship and diversity
+are sought in addition to outstanding research and research potential.
+A Ph.D. in astrophysics, planetary sciences or a closely related field
+is required, and postdoctoral experience is preferred. If you have any
+questions, feel free to contact  Britney Schmidt at
+britneys@cornell.edu.
+
+More details on the position and application process are found here:
+
+https://academicjobsonline.org/ajo/Cornell/Astronomy/AP
+
+Interested applicants should submit a cover letter, a curriculum vitae
+with publications, a statement of research, a statement of teaching and
+mentoring philosophy, a statement of diversity, equity and inclusion,
+and three letters of recommendation to: AJO. The target start date for
+the appointment is July 1, 2023. Review of applications will begin on
+November 1, 2022 and will continue until the position is filled.
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+April 16-21, 2023
+Space Science with Small Satellites
+https://www.cospar2023.org
+Singapore
+
+May 29-June 2, 2023
+Star Formation in the Era of JWST
+http://olympiansymposium.org
+Pieria, Greece
+
+October 24-26, 2023
+Galilean Moons Workshop
+https://galileanmoons.com
+Marseille, France
+
+July 13-21, 2024
+45th COSPAR Scientific Assembly
+https://www.cospar2024.org
+Busan, South Korea
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Using Rover-analogous Methodology to Discriminate between Volcanic and
+Sedimentary Origins in Successions Dominated by Igneous Composition
+R. Aileen Yingst et al. 2022 PSJ 3:240
+https://doi.org/10.3847/PSJ/ac8429
+
+Detecting Lipids on Planetary Surfaces with Laser Desorption
+Ionization Mass Spectrometry
+Nikita J. Boeren et al. 2022 PSJ 3:241
+https://doi.org/10.3847/PSJ/ac94bf
+
+Possible Atmospheric Water Vapor Contribution from Martian Swiss
+Cheese Terrain
+Alex C. Innanen et al. 2022 PSJ 3:242
+https://doi.org/10.3847/PSJ/ac979e
+
+3 um Spectroscopic Survey of Near-Earth Asteroids
+L. E. McGraw et al. 2022 PSJ 3:243
+https://doi.org/10.3847/PSJ/ac8ced
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. Please note 
+* in the Subject line if the announcement is Commercial (sale of a 
+* product or service) or Donative (request for donations). Editors 
+* reserve the right to modify announcements for display considerations, 
+* spelling and grammar. All PEN submissions will be tweeted 
+* @pen2tweets. Please submit a 234 (or fewer) character tweet. 
+* Alternatively, the editorial staff will create one for you. Go to 
+* https://planetarynews.org/submission.html for complete submission 
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

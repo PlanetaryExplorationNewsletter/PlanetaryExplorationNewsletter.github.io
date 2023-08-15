@@ -1,0 +1,462 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 39 (September 25, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Gerald A. Soffen Memorial Travel Grants
+2. [NASA] ROSES-22: F.10 PRISM Final Text and Due Dates
+3. PhD Position: Experimental Space Research 
+4. Multiple Job Openings: Graduate Students Sought at the University of 
+   Tennessee, Knoxville 
+5. [NASA] SMD Community Town Hall October 6, 2022, at 10:30 AM Eastern 
+   Time
+6. [NASA] I-MIM MDT Final Report Announcement
+7. Community Workshop on Future Planetary Observations with the New 
+   Horizons Spacecraft
+8. Mars 2020/MSR Sample Depot Science Community Workshop: Final 
+   Announcement
+9. Special Issue of Remote Sensing: Planetary Landscapes Analysis Based 
+   on Remote Sensing Images
+10. RMS Node Users Group During DPS Meeting
+11. International Observe the Moon Night - October 1, 2022
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+GERALD A. SOFFEN MEMORIAL TRAVEL GRANTS
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Fall 2022 
+Travel Grant application opportunity for undergraduate and graduate 
+students pursuing studies in fields of space science and engineering. 
+
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant for 
+either virtual or in-person conferences. The Soffen Fund will award up 
+to $1000 in total, with no individual award greater than $500, to cover 
+expenses related to presenting research at either a virtual or in-person 
+conference. The number of awards will depend on applicants' needs.
+
+The Fall 2022 Travel Grant application deadline is October 7, 2022. 
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. 
+
+The electronic application materials and instructions are located on 
+the Soffen Fund website: 
+
+https://soffenfund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+help@SoffenFund.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-22: F.10 PRISM FINAL TEXT AND DUE DATES
+
+This third Payloads and Research Investigations on the Surface of the 
+Moon (PRISM) program element solicits proposals for an investigation 
+that include development and flight of science-driven suites of 
+instruments that will be delivered to the lunar surface by the 
+Commercial Lunar Payload Services (CLPS). This PRISM call is for 
+science investigations that will be delivered to the lunar surface in 
+mid-Calendar Year CY27. This delivery will go to a safe landing site 
+(see Section 3.2) identified and justified by the proposer that 
+resides within 75 degrees of the lunar equator. Both nearside and far 
+side destinations are open to consideration. This PRISM call provides 
+the opportunity to leverage survive-the-night services and mobility 
+services provided by the CLPS provider. Further details for each of 
+these services are included in the text.
+
+Program changes includes the removal of sample acquisition as a 
+CLPS-provided service.
+
+Step-1 proposals are due October 24, 2022, and Step-2 proposals are 
+due December 20, 2022.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+Questions and comments concerning PRISM may be directed to Debra 
+Needham and Ryan Watkins at HQ-PRISM@mail.nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PHD POSITION: EXPERIMENTAL SPACE RESEARCH
+
+The Space Research and Planetology Division, University of Bern, 
+Switzerland, is seeking a PhD student to join the group for the JUICE 
+mission to Jupiter and its icy moons. We are participating in the JUICE 
+mission with a neutral gas and ion mass spectrometer (NIM), which will 
+measure the chemical composition of the atmospheres of Jupiter's icy 
+moons: Europa, Ganymede, and Callisto. Experience with laboratory 
+techniques, vacuum instrumentation, ion-optical simulation, 
+electronics, and mass spectrometry would be of advantage. Several 
+tests, and calibrations with the flight spare instrument and the ground 
+reference instrument are planned, using fast neutral beams and 
+low-energy ion beams. Measurement modes will have to be defined and 
+operations will have to be planned. 
+
+The position is available from 1 December 2022. Candidates with 
+demonstrated experience in experimental work will be favoured. The 
+salary is in accordance with the personnel regulations of the Canton 
+of Bern. Submit your application by 16 October 2022 as a single pdf 
+file consisting of a cover letter describing your motivation and 
+qualifications for the position, a CV, list of your publications, and 
+names of three references.
+
+https://tinyurl.com/4z3sn6sh
+
+Applicants should contact: Peter Wurz (peter.wurz@unibe.ch) or Martina 
+Foehn (martina.foehn@unibe.ch) 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MULTIPLE JOB OPENINGS: GRADUATE STUDENTS SOUGHT AT THE UNIVERSITY OF 
+TENNESSEE, KNOXVILLE
+
+The Department of Earth and Planetary Sciences at the University of 
+Tennessee in Knoxville is recruiting to fill multiple MS and PhD 
+positions with enthusiastic and highly-motivated graduate students 
+beginning January 2023. Positions are available in Environmental 
+Science, High- and Low-Temperature Geochemistry, Geomicrobiology, 
+Hydrology, Igneous Petrology, Isotope Geochemistry, Paleontology, 
+Planetary Geology, Remote Sensing, Sedimentology-Stratigraphy, 
+Structure, and Tectonics. The EPS department features a new building 
+with cutting-edge classrooms, lecture halls, and comprehensive 
+analytical research laboratories. 
+
+To receive full consideration, please submit all application materials 
+by October 15, 2022, via:  
+
+https://eps.utk.edu/graduate/gradapply.php 
+
+Prospective applicants are strongly encouraged to review the 
+department website and directly contact potential faculty mentors as 
+soon as possible: 
+
+https://eps.utk.edu 
+
+All admitted students are awarded assistantships with guaranteed 
+financial support for 2 (for MS students) or 4 (for PhD students) 
+years as well as full student tuition and insurance benefits. 
+
+The UT Department of Earth and Planetary Sciences is committed to 
+enhancing cultural diversity in the geosciences and particularly 
+encourages applications from individuals who identify as members of 
+historically underrepresented groups. 
+
+For more information, please contact our Director of Graduate 
+Studies, Prof. Linda Kah (eps@utk.edu). 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SMD COMMUNITY TOWN HALL OCTOBER 6, 2022, AT 10:30 AM EASTERN 
+TIME
+
+NASA's Science Mission Directorate will hold a community town hall 
+meeting with Associate Administrator for Science Thomas H. Zurbuchen 
+and his leadership team on Thursday, October 6 at 10:30 AM Eastern 
+Time, to discuss updates to NASA's science program and share the 
+current status of NASA activities. Members of SMD, the science 
+community, academia, the media, and the public are invited to 
+participate by joining at the link below.
+
+https://tinyurl.com/2kd3vcb5
+
+If prompted, please use event number 2764 141 1204, followed by event 
+password PNpncwFe834 (76762933 from phones).
+
+Participants are invited to submit questions and/or vote up questions 
+already posted at:
+
+https://nasa.cnf.io/sessions/xgyk/#!/dashboard
+
+Users must provide their first and last name and organization and can 
+submit their own questions or vote up questions submitted by others. 
+The meeting leaders will try to answer as many of the submitted 
+questions as possible.
+
+Presentation materials will be available for download and a recording 
+will be available later that day at: 
+
+https://science.nasa.gov/researchers/virtual-townhall
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] I-MIM MDT FINAL REPORT ANNOUNCEMENT
+
+The Italian Space Agency (ASI), the Canadian Space Agency (CSA), the 
+Japan Aerospace Exploration Agency (JAXA), and the National Aeronautics 
+and Space Administration (NASA) are pleased to release the Final Report 
+of the International Mars Ice Mapper (I-MIM) Measurement Definition 
+Team (MDT) at the link below. This study is a substantial contribution 
+to Martian exploration and we thank the entire I-MIM MDT for their 
+outstanding work.
+
+The I-MIM MDT Final Report and additional information about the MDT are 
+available here:
+
+https://science.nasa.gov/researchers/ice-mapper-measurement-definition-team
+
+If you have any comments and/or questions, please contact us at:  
+
+gsfc-imim-mdt@mail.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+COMMUNITY WORKSHOP ON FUTURE PLANETARY OBSERVATIONS WITH THE NEW 
+HORIZONS SPACECRAFT
+ 
+The New Horizons team is hosting a community workshop for creative 
+discussion of future planetary science that may be conducted with the 
+New Horizons spacecraft. Please join us and bring your ideas/expertise 
+for potential planetary applications and observations! We will give an 
+overview of the instruments and resources available, and use the 
+remainder of the time for active brainstorming. The 2-hr workshop will 
+be hybrid, both in-person (at the DPS conference venue) and virtual 
+attendance will be supported. The workshop is free to attend. You do 
+not need to be registered for the DPS meeting to attend virtually, but 
+all participants, both in person and virtual, should fill out the 
+separate registration form specific to this workshop at the following 
+link: 
+
+https://bit.ly/DPS_NH_22 
+
+Please contact Kelsi Singer (ksinger@boulder.swri.edu) with questions.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS 2020/MSR SAMPLE DEPOT SCIENCE COMMUNITY WORKSHOP: 
+FINAL ANNOUNCEMENT
+
+Dear Mars Science Community, we look forward to your participation in
+the upcoming workshop focused on the science aspects of the proposed
+first sample depot for the Mars Sample Return (MSR) Campaign. 
+Information about this workshop is available on the MEPAG website:
+
+https://mepag.jpl.nasa.gov/announcements.cfm
+
+The MSR Campaign Science Group (MCSG) is the primary organizer of this
+meeting. This workshop will be held virtually from 8am-12pm PDT /
+11am-3pm EDT / 5pm-9pm CEST on Wednesday, September 28 and Friday,
+September 30, with the intervening Thursday the 29th intended to
+allow the participants to consider and develop their thoughts and
+feedback.
+
+WebEx connection information:
+
+https://jpl.webex.com/jpl/j.php?MTID=me0f7d076e802fa5001693ab44dfe9ab7
+
+Meeting number (access code): 2764 486 2819
+Meeting password: msr
+
+We would like to draw your attention to a Pre-Workshop Participant
+Information Package (PPIP) that is being made available to convey
+certain reference information that will be relevant to the workshop
+discussions. The PPIP can be found at the following link:
+
+https://mepag.jpl.nasa.gov/announcements/PPIP.pdf
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SPECIAL ISSUE OF REMOTE SENSING: PLANETARY LANDSCAPES ANALYSIS BASED ON 
+REMOTE SENSING IMAGES
+
+Special Issue Papers requested
+Submission Due Date: Nov. 1, 2022
+Submission URL: 
+
+https://www.mdpi.com/si/112630
+
+We invite you to share your expertise in using remote sensing to 
+interpret the geology of planetary landscapes. Contributions which use 
+one planetary target to inform our understanding of another - the realm 
+of comparative planetology - are especially encouraged, as are those 
+that leverage Earth analogs.
+
+Letter-length, long-form, and review articles are all appropriate. 
+Examples of themes include but are not limited to geomorphology, 
+geologic surface processes, tectonics, exploration, aeolian studies, 
+geologic mapping, chronostratigraphy, and spectroscopy.
+
+The normal fee for Open Access publication is 2500 CHF (Swiss Francs; 
+**roughly** $2700 USD, 2000 GBP, $3500 CAN; 2500 EUR). However, the 
+publication fee will be waived or discounted by 30-50% for certain 
+articles deemed especially high-impact.
+
+Please let us know if you have questions.
+
+Cordially,
+
+Drs. Kirby D. Runyon, Angela M. Dapremont, and Alexandra Matiella-Novak
+Guest Editors
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+RMS NODE USERS GROUP DURING DPS MEETING
+
+Date: Tuesday, October 4, at 3:40pm Eastern = 12:40pm Pacific (please 
+ignore 3:30pm time in block schedule)
+
+This will be a hybrid meeting at the DPS Meeting in London ON, Canada, 
+and also accessible via Zoom. The meeting will take up to two hours. 
+
+The PDS Ring-Moon Systems Node (RMS) hosts data and tools in which the 
+focus is on rings, moons, and/or their primary bodies viewed as a 
+dynamical system. Our user community includes researchers interested in 
+icy satellite surfaces and planetary atmospheres, in addition to 
+researchers interested in rings and other dynamical systems. 
+
+This meeting is an opportunity for friends of the PDS Ring-Moon Systems 
+Node to hear us report on RMS Node updates and accomplishments during 
+the past year, and for us to solicit your feedback regarding how we 
+should proceed. 
+ 
+Those attending the DPS Meeting are welcome to join us in person. 
+
+For remote attendees, the Zoom coordinates and agenda will be sent by 
+email. To be added to our list, please contact Matt Tiscareno 
+(matt@seti.org). 
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+INTERNATIONAL OBSERVE THE MOON NIGHT - OCTOBER 1, 2022
+
+International Observe the Moon Night is a worldwide celebration of 
+lunar science and exploration, celestial observation, and the cultural 
+and personal connections we have to the Moon. Everyone, everywhere can 
+participate. You can join by hosting or attending an event, or 
+observing the Moon with your family, friends, or on your own.
+
+Learn more about International Observe the Moon Night, find our program 
+Moon map and other resources and activities, links to live streams of 
+the Moon from telescopes and a NASA TV Broadcast, and register your 
+participation on:
+
+https://moon.nasa.gov/observe
+
+Raise awareness and share your experience participating on social 
+media, tagging #ObserveTheMoon.  
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+September 28-30, 2022
+Mars 2020/MSR Sample Depot Science Community Workshop
+https://mepag.jpl.nasa.gov/announcements.cfm
+Online
+
+November 17-18, 2022
+Great Lakes Exoplanet Area Meeting (GLEAM) 2022
+https://u.osu.edu/gleam2022
+Columbus, OH
+
+July 2-7, 2023
+Towards Other Earths III: The Planet-Star Connection
+https://tinyurl.com/yk492m3r
+Porto, Portugal
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Momentum Enhancement from a 3 cm Diameter Aluminum Sphere Striking a
+Small Boulder Assembly at 5.4 km/s
+James D. Walker et al. 2022 PSJ 3:215
+https://doi.org/10.3847/PSJ/ac854f
+
+Burial Depths of Extensive Shallow Cryptomaria in the Lunar
+Schiller-Schickard Region
+A. M. Bramson et al. 2022 PSJ 3:216
+https://doi.org/10.3847/PSJ/ac8670
+
+The Contribution of Small Impact Craters to Lunar Polar Wander
+David E. Smith et al. 2022 PSJ 3:217
+https://doi.org/10.3847/PSJ/ac8c39
+
+Spacecraft Geometry Effects on Kinetic Impactor Missions
+J. Michael Owen et al. 2022 PSJ 3:218
+https://doi.org/10.3847/PSJ/ac8932
+
+A New Archive of Apollo's Lunar Seismic Data
+Ceri Nunn et al. 2022 PSJ 3:219
+https://doi.org/10.3847/PSJ/ac87af
+
+Selenographic and Local Time Dependence of Lunar Exospheric Sodium as
+Observed by LADEE
+E. C. M. Dawkins et al. 2022 PSJ 3:220
+https://doi.org/10.3847/PSJ/ac8805
+
+Tilting Uranus via Spin-Orbit Resonance with Planet Nine
+Tiger Lu and Gregory Laughlin 2022 PSJ 3:221
+https://doi.org/10.3847/PSJ/ac83c1
+
+Arecibo Planetary Radar Observations of Near-Earth Asteroids: 2017
+December-2019 December
+Anne K. Virkki et al. 2022 PSJ 3:222
+https://doi.org/10.3847/PSJ/ac8b72
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

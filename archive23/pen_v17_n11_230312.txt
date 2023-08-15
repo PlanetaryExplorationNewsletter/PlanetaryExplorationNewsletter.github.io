@@ -1,0 +1,601 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 11 (March 12, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R Perry 
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. DPS-EPSC 2023 Hybrid Meeting: Save the Date 
+2. Solar Wind 16: Registration Open
+3. LPSC 2023: JGR and AGU Publications Community Meeting (Corrected
+   Time) 
+4. LPSC 2023: Venus Strategy Community Town Hall 
+5. NSF CMAP Summer Physics Workshop for Undergrads - University of
+   Rochester
+6. Two Tenure-Track Positions at the University of Hawai'i 
+7. Technical Consultant in Photogrammetry at Esri 
+8. Postdoctoral Earth and Planetary Sciences Fellowships at the
+   Smithsonian National Air and Space Museum
+9. Program Scientist Positions in NASA's Planetary Science Division
+10. Postbaccalaureate Positions at NASA/Goddard Space Flight Center
+11. Ganymede Trek Public Release Announcement 
+12. The Planetary Data Reader 
+13. Open Call for Submissions to an Icarus Special Issue on Solar
+    System Ices
+14. Planetary Science Advisory Committee Nominations 
+15. NASA Infrared Telescope Facility Observing Proposals 
+16. [NASA] PDS: JUNO Data Release 22
+17. [NASA] PDS: OSIRIS-REx Thermal Bundle Release
+18. [NASA] ROSES-23 Amendment 4: Relevance Requirement Added to B.7
+    Space Weather Science Application Research-to-Operations-to-
+    Research
+19. [SMD] NASA SMD Seeking Volunteer Reviewers for Research Proposals
+20. Planetary Meeting Calendar Additions
+21. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+DPS-EPSC 2023 HYBRID MEETING: SAVE THE DATE
+
+Join us 1-6 October 2023 for the 55th Annual Division for Planetary
+Sciences (DPS) joint meeting with the Europlanet Science Congress
+(EPSC). Be sure to save the date and plan to attend, either in person
+or online:
+
+https://aas.org/meetings/dps55
+
+Being a joint meeting with the Europlanet Society (EPS) the topics
+cover all areas of planetary science, including those beyond the
+astronomical topics traditionally related to AAS/DPS meetings. As a
+hybrid meeting, we anticipate a large attendance both in person at the
+Marriott Rivercenter Hotel in San Antonio Texas and online.
+
+Solar eclipse aficionados and educators will enjoy an adjacent workshop
+on solar eclipse planning held on 29-30 September 2023:
+
+https://eclipse.aas.org/workshops
+
+Return to the websites above and watch #DPSEPSC2023 on social media for
+more details to come!
+ 
+Kurt Retherford (Local Host)
+Catherine Neish (DPS Chair)
+Lena Noack (EPSC Chair)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SOLAR WIND 16: REGISTRATION OPEN
+
+Registration is open for the Solar Wind 16 meeting, to be held June
+12-16, 2023 at the Asilomar Conference Grounds on the Monterey
+Peninsula in California. Asilomar was the site of the Solar Wind 2 and
+3 meetings, in 1971 and 1974 respectively, and is especially
+well-suited to informal discussion.
+
+The meeting will be organized around a group of 'scene-setting' talks
+which will describe the state-of-the-art in topics of solar wind
+heating and acceleration mechanisms, solar wind sources, transients,
+interaction with planets, and the relationship to broader problems in
+astrophysics. Contributed talks and posters will be organized around
+these scene-setting talks and there will be plenty of time for open
+discussion.
+
+A goal of the meeting is to come away from the week with some consensus
+as the state of the field and ideas about where to go next. The new
+measurements from DKIST, Solar Orbiter, and Parker Solar Probe will
+frame these discussion and make this Solar Wind meeting especially
+timely. This meeting will also take the 2023 place of the annual
+'Parker' series.
+
+A meeting website is here:
+
+https://solarwind16.ssl.berkeley.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LPSC 2023: JGR AND AGU PUBLICATIONS COMMUNITY MEETING (CORRECTED TIME)
+
+JGR: Planets and AGU Publications are organizing a community meeting at
+LPSC. 
+
+Come meet editors of AGU Journals and learn about recent changes in the
+publishing landscape and submission requirements.
+
+When: Thursday 03/16 at 11:30 am
+Where: Grogan's Mill Meeting Room
+
+Agenda:
+- Presentation of AGU Journals
+- Open Access options
+- Open Science and data and software availability requirements
+- Q&A and open discussion
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LPSC 2023: VENUS STRATEGY COMMUNITY TOWN HALL
+
+The Venus Exploration Analysis Group will hold a town hall at LPSC 2023
+for soliciting feedback from the planetary sciences community on the
+new VEXAG Strategic Plan.
+
+The town hall will be held in the Indian Springs room of the conference
+hotel at 2:00 pm on Thursday, 16 March.
+
+All are welcome! We are interested in hearing from scientists across
+all planetary fields, from planetary formation, cosmochemistry, and
+heliophysics to exoplanets, atmospheric science, and the geosciences.
+
+So please bring your ideas for our next steps in exploring Venus in the
+coming decade and beyond!
+
+Thank you, and see you in Houston,
+
+The VEXAG Steering Committee
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NSF CMAP SUMMER PHYSICS WORKSHOP FOR UNDERGRADS - UNIVERSITY OF
+ROCHESTER
+
+The Center for Matter at Atomic Pressures (CMAP) is offering a
+one-week, residential, summer workshop program for undergraduates
+currently enrolled at U.S. universities and colleges. This in-person
+program, the Discovery Science Center Summer School for Matter at
+Extreme Conditions in the Laboratory and the Cosmos, will be held from
+June 26-30, 2023 at the University of Rochester in Rochester, New York. 
+
+Over the course of a week, participants will have the opportunity to:
+- Get immersed in the science of extreme pressure and
+  high-energy-density physics.
+- Use Python to understand recent discoveries in astrophysics,
+  planetary science, and quantum materials.
+- Access modern computational, educational, and research tools and
+  techniques that can be leveraged across disciplines.
+- Learn from-and network with-CMAP's leading physicists,
+  astrophysicists, and planetary scientists from institutions such as
+  MIT, Princeton, University at Buffalo, UC Berkeley, UC Davis,
+  University of Rochester, and Lawrence Livermore National Laboratory.
+
+Workshop Website: 
+
+https://cmap.rochester.edu/education-outreach/ug-summer/
+
+Students must apply online by April 8:
+
+https://cmap.rochester.edu/education-outreach/ug-summer-apply/
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TWO TENURE-TRACK POSITIONS AT THE UNIVERSITY OF HAWAI'I
+
+1) Planetary Science and Instrumentation
+   Position number: 0086576
+   Website: https://tinyurl.com/2p8p59ef 
+
+2) Materials Science and Mineral Physics
+   Position number: 0086226
+   Website: https://tinyurl.com/3zhvw4m3 
+
+Inquiries for both positions can be directed to Dr. Paul Lucey, Search
+Committee Chair; lucey@higp.hawaii.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+TECHNICAL CONSULTANT IN PHOTOGRAMMETRY AT ESRI
+
+Our Imagery and Remote Sensing Photogrammetry software uses sensor data
+to orthorectify imagery and create a 3D representation of the digital
+world. With this solution, you can turn drone, aerial, satellite, and
+historical film imagery into maps and models with greater context and
+geospatial data.
+
+In this position, you will work closely with clients to establish
+solutions to make them successful, broaden the effect of GIS technology
+to their business, and help shape the evolution of the platform by
+identifying new implementation patterns. You will provide vision and
+thought leadership while promoting the use of Esri technology to enable
+customer success and support its development and growth into new
+domains by working closely with industry experts throughout the
+company.
+
+Job link:
+
+https://www.esri.com/careers/technical-consultant-photogrammetry-18332
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL EARTH AND PLANETARY SCIENCES FELLOWSHIPS AT THE
+SMITHSONIAN NATIONAL AIR AND SPACE MUSEUM 
+ 
+The Smithsonian Institution, National Air and Space Museum, Center for
+Earth and Planetary Studies (CEPS) in Washington, DC welcomes
+applications for two postdoctoral fellowships. 
+ 
+Scientists in CEPS primarily focus on planetary geologic and
+geophysical processes that have shaped the surfaces of rocky and icy
+bodies in the Solar System including the Earth and Moon. CEPS
+scientists are actively involved in field analog research and many of
+NASA's and ESA's current and planned planetary robotic missions. 
+ 
+The fellowships have a term of one to two years and a stipend of
+$74,950 plus up to $5,000 health allowance per year. Required
+application materials include a CV/resume, project/research proposal,
+and bibliography.  
+ 
+Competitive proposals should demonstrate knowledge and expertise in
+areas such as quantitative remote sensing analysis, tectonics and
+tectonophysics, volcanic processes, and quantitative terrestrial and
+planetary geomorphology. Proposals focused on Mars or icy moons of the
+outer Solar System are particularly encouraged. The application
+deadline is Friday, March 31, 2023. 
+ 
+More details and the application process are posted here: 
+ 
+https://tinyurl.com/4yv2up7w
+ 
+For questions, email Ross Irwin (irwinr@si.edu) or Emily Martin
+(martines@si.edu). 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PROGRAM SCIENTIST POSITIONS IN NASA'S PLANETARY SCIENCE DIVISION
+
+NASA's Science Mission Directorate has an immediate need for one or
+more scientists with expertise in planetary science to serve as Program
+Scientists in the Planetary Science Division at NASA Headquarters in
+Washington, DC. NASA Program Scientists tackle a wide variety of
+challenges including: developing, operating, and maintaining Research &
+Analysis grants programs, serving as the Headquarters scientific lead
+for one or more Planetary Science missions, and helping implement and
+communicate the Planetary Science Division's strategic goals. Program
+scientists can have substantial influence on strategic planning and can
+help shape the long-term scientific direction of missions and programs
+that they oversee.  
+ 
+Positions are available from June 2023, though the start date is
+flexible. For IPA/Detail positions, applicants should email a
+curriculum vitae and cover letter as a single PDF file by April 28,
+2023 to Stephen.A.Rinehart@nasa.gov.
+ 
+For more information see:
+
+https://science.nasa.gov/about-us/job-opportunities
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTBACCALAUREATE POSITIONS AT NASA/GODDARD SPACE FLIGHT CENTER
+
+Applications are now being accepted for short-term postbaccalaureate
+research positions to support the Astrophysics Science and Solar System
+Exploration Divisions at NASA/Goddard Space Flight Center, Greenbelt,
+MD. Positions span a variety of research areas, and the successful
+candidates will be chosen to work in one of nine research areas. 
+
+Candidates should be soon or recent graduates with bachelor's degree in
+astronomy, physics, computer science, chemistry, engineering,
+communications, or related science discipline. Successful candidates
+will have significant experience in scientific programming (Python is a
+plus) OR laboratory work OR communications.
+
+To apply, each applicant should send an optional cover letter,
+curriculum vitae, unofficial transcript, ranked list by preference of
+the research areas of most interest, and contact information for two
+references to Katherine McKee (katherine.s.mckee@nasa.gov).
+Applications received by Friday, April 7, 2023, will receive best
+consideration but positions will remain available until filled.
+
+This is a full-time paid position with benefits working on-site at
+NASA/GSFC. The desired start date is April-September 2023, with an
+initial employment term of 1 year that may be extended for 1
+additional year contingent on performance and funds.
+
+Full details can be found on AAS Jobs Register.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+GANYMEDE TREK PUBLIC RELEASE ANNOUNCEMENT
+
+With the extension of NASA's Juno mission taking it on flybys of
+Ganymede, and with the impending launch of the Jupiter Icy Moons
+Explorer (JUICE) mission, NASA's Solar System Treks Project (SSTP) is
+proud to announce the latest in its growing family of data
+visualization and analysis portals. Ganymede Trek provides web
+browser-based access to data focusing on the remarkable surface
+features and landscapes of Jupiter's (and the Solar System's) largest
+moon. This portal will facilitate understanding of Ganymede's
+geomorphology among researchers, students, educators, and the general
+public.
+
+It can be accessed through SSTP's home site:
+
+https://trek.nasa.gov
+
+and directly at:
+
+https://trek.nasa.gov/ganymede
+
+Feedback is welcome, please contact trek@jpl.nas.gov.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+THE PLANETARY DATA READER
+
+The Planetary Data Reader (pdr) is an open-source Python library for
+reading data archived in the Planetary Data System. It is under
+development, but a large number of data sets and formats are already
+supported, and it is ready for general use. Please find documentation,
+installation instructions, a list of currently supported data sets, and
+a form to request prioritization of support for specific data sets at:
+
+https://github.com/millionconcepts/pdr
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+OPEN CALL FOR SUBMISSIONS TO AN ICARUS SPECIAL ISSUE ON SOLAR SYSTEM
+ICES
+
+Ices in the Solar System: origin, evolution and distribution
+
+Ices, whether composed of frozen water or other frozen species, are
+ubiquitous in the Solar System. They have been observed, deduced,
+and/or hypothesized on bodies large and small and at, near, or buried
+below surfaces. They are ephemeral, periodic, or relatively
+long-standing and stable. They can be at or near-thaw temperatures on
+some bodies and far away from thaw on others. Ice origins are as
+diverse as the species themselves and the locations where they are
+observed, deduced, or hypothesized. Some ices date back to the origin
+of the Solar System; others do not and may be much more recent if not
+contemporary. This special issue aims to fuse a diverse group of
+early-, mid-, and senior-career planetary scientists whose work focuses
+on ices and provide a dynamic platform for presenting and exchanging
+their most current observations, interpretations, hypotheses, and/or
+explanations. Discussion of mission-exploration plans and options,
+current and/or proposed, also would be welcomed.
+
+https://tinyurl.com/4buysn8b
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE ADVISORY COMMITTEE NOMINATIONS 
+
+The Planetary Science Advisory Committee (PAC) supports the advisory
+needs of the Planetary Science Division (PSD), the Science Mission
+Directorate (SMD), and other mission directorates as required, as well
+as the NASA Administrator. The advisory scope of the PAC includes all
+aspects of NASA's planetary science program, including scientific
+research; considerations of the development of near-term enabling
+technologies, systems, and computing and information management
+capabilities; and developments with the potential to provide long-term
+improvements in future mission operational systems.  Responsibility for
+biological planetary protection is outside the purview of the PAC.
+NASA's PSD is extending an invitation for nominations for service on
+the PAC. Interested members of the community are invited to review the
+charter and to submit nominations (including self-nominations) for
+consideration to fill vacancies on the Committee. 
+
+Additional details can be found at: 
+
+https://tinyurl.com/yp87bjvd
+
+More information on the PAC may be found at:
+
+https://science.nasa.gov/nac/science-advisory-committees/pac
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+NASA INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS
+
+The due date for the 2023B semester (August 1, 2023 to January 31,
+2024) is Monday, April 3, 2023.
+
+See our online submission form at:
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php 
+
+Information on available facility and visitor instruments and
+performance can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/instruments. 
+
+Observing on-site or remote observing is available with SpeX, MORIS,
+iSHELL, MIRSI/MOC, and Opihi; please see the instrument pages for more
+information, including the exposure time calculators for SpeX and
+iSHELL.
+
+For more information:
+
+http://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+ 
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] PDS: JUNO DATA RELEASE 22
+
+The Planetary Data System announces the 22nd release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2022-05-23 and 2022-08-17, which covers Juno Orbits 43 and 44.
+Data sets from the following experiments are now available:
+
+- FGM (magnetometer)
+- Gravity
+- JADE (plasma)
+- JEDI (energetic particle detector)
+- JIRAM (infrared auroral mapper)
+- JunoCam (camera)
+- MWR (microwave radiometer)
+- SPICE
+- UVS (ultraviolet imaging spectrometer)
+- Waves (radio and plasma wave science)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230308.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] PDS: OSIRIS-REX THERMAL BUNDLE RELEASE
+
+This release of derived OSIRIS-REx thermal data includes the following
+data:
+
+- Bennu global and sample site specific thermal inertia maps 
+- Bennu global predicted temperature maps
+
+These data are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230307.shtml
+
+Or more directly at:
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.thermal
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] ROSES-23 AMENDMENT 4: RELEVANCE REQUIREMENT ADDED TO B.7 SPACE
+WEATHER SCIENCE APPLICATION RESEARCH-TO-OPERATIONS-TO-RESEARCH
+
+B.7 Space Weather Science Application
+Research-to-Operations-to-Research (SWR2O2R) solicits proposals to
+improve application-oriented models and forecast tools that directly
+enable advances in the areas described below and, in doing so, could
+also lead to improved scientific understanding.
+
+ROSES-2023 Amendment 4 adds to this program element a relevance
+requirement in addition to and that supersedes those detailed in the
+ROSES Summary of Solicitation as described in Section 3.2.4, proposers
+must provide an explicit statement of relevance in response to an
+NSPIRES cover page question. Also, a typo was corrected in Section 5.
+New text is in bold and deleted text is struck through. The due dates
+are unchanged:
+
+Step-1 proposals are due April 6, 2023.
+Step-2 proposals are due June 7, 2023.
+
+On or about March 10, 2023, this Amendment to the NASA Research
+Announcement "Research Opportunities in Space and Earth Sciences
+(ROSES) 2023" (NNH23ZDA001N) will be posted on the NASA research
+opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+and will appear on SARA's ROSES blog at:
+
+https://tinyurl.com/bdz87wjz
+
+Questions concerning B.7 SWR2O2R may be directed to Jim Spann at
+jim.spann@nasa.gov.
+
+[Edited for length]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[SMD] NASA SMD SEEKING VOLUNTEER REVIEWERS FOR RESEARCH PROPOSALS
+
+NASA's Science Mission Directorate is seeking subject matter experts to
+serve as external and/or virtual panel reviewers of proposals to the
+"ROSES" research solicitation. All of the reviewer volunteer forms may
+be accessed on the main landing page at: 
+
+https://science.nasa.gov/researchers/volunteer-review-panels 
+
+Select the boxes to indicate the topics in which you consider yourself
+to be a subject matter expert. If your skills match our needs for that
+review and there are not too many organizational conflicts of interest,
+we will contact you to discuss scheduling.
+
+[Edited for length]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+June 12-16, 2023
+Solar Wind 16
+https://solarwind16.ssl.berkeley.edu
+Pacific Grove, CA
+
+January 18-19, 2024
+NASA Discovery at 30
+https://tinyurl.com/46f5njhb
+Washington, D.C.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Evidence for Nitrogen-bearing Species on Umbriel: Sourced from a
+Subsurface Ocean, Undifferentiated Crust, or Impactors?
+Richard J. Cartwright et al. 2023 PSJ 4:42
+https://doi.org/10.3847/PSJ/acbc1f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

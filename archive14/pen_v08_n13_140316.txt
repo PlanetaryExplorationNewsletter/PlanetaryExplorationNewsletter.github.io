@@ -1,0 +1,657 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 13 (March 16, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial - Mark V. Sykes, Planetary Science Institute
+2. LPSC: Update on Venus Town-Hall Meeting and Early Career Scholars 
+   Mixer
+3. LPSC: Budget 2015 - Planetary Community Town Hall
+4. [NASA] PDS - Mars Exploration Rovers Data Release 39
+5. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release 17
+6. [NASA] PDS - Venus Express Radio Science Data Release
+7. [NASA] ROSES-14 Final Text for Habitable Worlds
+8. [NASA] Update on Asteroid Initiative Opportunity Forum
+9. Planetary GIS/Data Specialist
+10. Mars Exploration Science Monthly Newsletter
+11. Call for Abstracts: ASCE Earth and Space 2014 Conference 
+12. Death Valley MarsFest-14: Linking Extremes of Earth and Space
+13. NASA Postdoctoral Fellowships
+14. Call for Proposals for the NASA Infrared Telescope Facility (IRTF)
+15. Student Travel Grants for Upcoming Mars Conferences
+16. Change in HST SNAP Policy for Objects Interior to Jupiter
+17. JAXA International Top Young Fellowship 2014
+18. [NASA] Technology Workshop for the Discovery 2014 AO First 
+    Announcement
+19. Solar Wind Interaction with Pluto Workshop
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL
+
+Mark V. Sykes
+Planetary Science Institute
+
+Significant concern has been consistently voiced by the community over 
+the restructuring of the planetary research programs in ROSES-14. In 
+particular, when the tentative due date of late February 2015 was 
+announced for Solar System Workings (SSW, to which 1/3 of all proposals 
+to PSD research and data analysis programs are expected to be 
+submitted), it was pointed out that scientists across many major 
+existing programs would face a gap of ~20 months between proposal calls 
+in their areas, with negative impacts if not loss of personnel to the 
+profession. In response, the due date was moved forward seven months to 
+late July 2014. It appears this was a sham.
+
+Final text for SSW in ROSES-14 says that proposers should plan on 
+~1 year for their proposals to be funded. All other planetary programs 
+(except one) plan funding ~6 months after proposal submission. One of 
+the stated goals of the restructuring was to decrease the time between 
+proposal submission and selection. At the recent Planetary Science 
+Subcommittee meeting, one NASA official made the remarkable statement 
+that the ~6 months for other programs is not meant to be taken 
+seriously. 
+
+A one year gap for SSW funding (which could be longer) gives renewed 
+weight to a previous accusation that PSD management wished to have the 
+option of cutting research funds in FY15 by funding SSW awards in FY16 
+(without regard to the consequences to researchers). Such a funding 
+shift was admitted as an option by NASA Planetary Science Division 
+Director Jim Green at the first R&A Town Hall in December.
+
+PSD management needs to reduce the planned funding date for SSW 
+proposals to 6 months after proposals are due and adhere to their own 
+standards.
+
+[Length exception]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LPSC: UPDATE ON VENUS TOWN-HALL MEETING AND EARLY CAREER SCHOLARS MIXER 
+
+Thursday - March 20, 2014
+ 
+You are invited to participate in a lunchtime Venus Town-Hall Meeting 
+during the LPSC on Thursday, March 20, 2014, in the Indian Springs 
+Room, hosted by the Venus Exploration Analysis Group (VEXAG). The 
+objective of this Town Hall meeting is to encourage a community 
+discussion and receive feedback on the nearly complete updates to the 
+Goals, Objectives, and Investigations for Venus Exploration, Roadmap 
+for Venus Exploration and Venus Technology Plan documents. Current 
+updates to these documents and a request for community comments are 
+on the VEXAG web site:  
+
+http://www.lpi.usra.edu/vexag/ 
+
+For those unable to attend in person, the call-in number for an audio 
+hook-up is Toll-Free: 866-328-8761 / 818-354-3434 / Meeting ID 0293
+ 
+Join the VEXAG Early Career Scholars Focus Group for an informal meet 
+and greet at the Acqua Lounge immediately following the oral sessions 
+on Thursday afternoon. Please check the VEXAG - Early Career Scholars 
+Facebook page for more information:
+
+https://www.facebook.com/groups/432478660134856
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LPSC: BUDGET 2015 - PLANETARY COMMUNITY TOWN HALL
+
+Wednesday, March 19, Noon-1:15pm, Waterway 4
+
+With the release of the 2015 budget this month, attendees will have an 
+opportunity to hear from the Societies that serve the Planetary Science 
+community, discuss the impact of the proposed budget on the future of 
+planetary science, and review options for mitigating the cuts to our 
+valued programs.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 39
+
+The Planetary Data System (PDS) is pleased to announce Release 39
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 3331 through 3420, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There are no Mini-TES, Moessbauer, or Radio Science data in this 
+release. To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20140306.html
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+818-393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - LUNAR RECONNAISSANCE ORBITER DATA RELEASE 17
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+
+CRaTER
+DLRE
+LAMP
+LEND
+LOLA
+LROC
+RSS  
+
+In general, LRO Release 17 includes data collected between 
+September 15, 2013 and December 14, 2013. To access the above data, 
+please visit the following link: 
+
+http://pds.nasa.gov/subscription_service/SS-20140314.html
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria:   
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS - VENUS EXPRESS RADIO SCIENCE DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+Volumes 1-4 of Venus Express radio science data. These contain archival 
+raw, partially processed, and ancillary/supporting radio science data 
+acquired during the Extended Operations phase of the Venus Express 
+mission using ground facilities of the NASA Deep Space Network. These
+data and other data collected using antennas of the European Space 
+Agency (ESA) and submitted to the ESA Planetary Science Archive 
+comprise the Venus Express radio science data available in the PSA/ESA 
+and the PDS/NASA.
+
+To access these data directly from the PDS Atmospheres node, go to:
+
+http://atmos.nmsu.edu/PDS/data/VXRS_1101/
+http://atmos.nmsu.edu/PDS/data/VXRS_1102/
+http://atmos.nmsu.edu/PDS/data/VXRS_1103/
+http://atmos.nmsu.edu/PDS/data/VXRS_1104/
+
+Or within the context of the Venus Express mission:
+
+http://pds-atmospheres.nmsu.edu/ve/  
+
+(scan down through the VeRa listing) 
+
+The data is also accessible via:
+
+http://pds.nasa.gov/subscription_service/SS-20140318.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+818-393-7165
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ROSES-14 FINAL TEXT FOR HABITABLE WORLDS
+
+The goal of the Habitable Worlds program is to use knowledge of the 
+history of the Earth and the life upon it as a guide for determining 
+the processes and conditions that create and maintain habitable 
+environments and to search for ancient and contemporary habitable 
+environments and explore the possibility of extant life beyond the 
+Earth.
+ 
+Proposals to this program will be taken by a two-step process, in which 
+the Notice of Intent is replaced by a required Step-1 proposal 
+submitted by an Authorized Organizational Representative. Only 
+proposers who submit a Step-1 proposal are eligible to submit a Step-2 
+(full) proposal. Step-1 proposals are due November 24, 2014, and 
+Step-2 proposals are due January 23, 2015. Go to:
+ 
+http://nspires.nasaprs.com/ 
+ 
+Questions may be addressed to:
+
+Mitch Schulte
+202-358-2127
+mitchell.d.schulte@nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] UPDATE ON ASTEROID INITIATIVE OPPORTUNITY FORUM
+
+The Asteroid Initiative Opportunities Forum is just two weeks away on 
+Wednesday, March 26 in Washington D.C. We look forward to sharing with 
+you our planning updates, new opportunities for engagement, and gaining 
+your feedback on this initiative.  
+ 
+Please see the Forum program outline at: 
+
+http://www.nasa.gov/asteroidforum 
+
+Part of the discussion will be dedicated to the Broad Agency 
+Announcement scheduled to release on March 21 - see the synopsis posted 
+here: 
+
+https://prod.nais.nasa.gov/cgibin/eps/synopsis.cgi?acqid=159813
+ 
+We've reached capacity for onsite attendees, but will be providing 
+virtual participation details to those who register as virtual 
+attendees: 
+
+http://socialforms.nasa.gov/asteroidforum-virtual 
+
+If you would like to be placed on the waitlist for onsite attendance, 
+please e-mail HQ-Asteroid-Initiative@mail.nasa.gov.
+ 
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GIS/DATA SPECIALIST
+
+University of Chicago
+Department of Geophysical Sciences
+
+The planetary GIS/data specialist will work in a new Planetary Science
+research group led by Edwin Kite in the University of Chicago's
+Department of Geophysical Sciences. The central objective of the
+research group is to use geologic data to reconstruct the past climate
+history of Mars and understand the physical mechanisms responsible for
+the loss of Mars habitability. The primary job responsibilities are
+(1) to assemble planetary data into "research ready" ArcGIS projected
+mosaics, and (2) to generate, evaluate and analyze planetary digital
+terrain models that incorporate stereo data. Prior experience, ability 
+and agility with ArcGIS is a must, and scripting/programming 
+experience is strongly preferred. Funding is secure for 2 years, and 
+it is possible that the activities of the group will bring sufficient 
+success to sustain renewed engagement.
+
+Salary will be commensurate with the experience and qualifications of
+the successful candidate.
+
+A start date in the range 1/1/2015 - 3/31/2015 is preferred. Later
+start dates may be negotiated.
+
+To apply, go to:
+
+https://jobopportunities.uchicago.edu/ 
+
+Requisition Number: 094770
+
+Informal inquiries should be directed to kite@uchicago.edu
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER
+
+The March 2014 edition of the Mars Exploration Science Monthly 
+Newsletter may be found at:
+
+http://mepag.jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+CALL FOR ABSTRACTS: ACSE EARTH AND SPACE 2014 CONFERENCE
+
+Abstracts are due April 14th, 2014.
+
+Symposia of interest to the planetary community include:  
+
+Symposium 1: Granular Materials in Space Exploration
+Symposium 2: Exploration and Utilization of Extraterrestrial Bodies
+
+http://earthspaceconf2014.mst.edu/conferencetopics/
+
+St. Louis, MO 
+27-29 October 2014
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+DEATH VALLEY MARSFEST-14: LINKING EXTREMES OF EARTH AND SPACE
+
+We are organizing the 3rd Annual MarsFest event in Death Valley 
+National Park, CA, on March 28-March 30th 2014. The public event is in 
+partnership with, and hosted by, the Death Valley National Park Service 
+and will feature speakers from NASA Ames, the SETI Institute, JPL, and 
+the MSL/SAM EPO Team from NASA Goddard.
+  
+Everyone is welcome.
+
+Further information and event schedule, etc:
+
+http://www.seti.org/seti-institute/marsfest-2014 
+
+http://www.nasa.gov/ames/events/marsfest-2014-linking-extremes-of
+-earth-and-space/
+
+For previous events, please see:
+
+http://www.seti.org/mars-mojave-festival-2012
+
+http://www.seti-inst.edu/marsfest2013
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18624
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+CALL FOR PROPOSALS FOR THE NASA INFRARED TELESCOPE FACILITY (IRTF)
+ 
+Deadline: April 1, 2014
+ 
+Use the ONLINE application form.
+ 
+NASA Infrared Telescope Facility observing proposals for the 2014B 
+semester (August 1, 2014 to January 31, 2015) are due Tuesday, 
+April 1, 2014. See our online submission form. Available instruments 
+include: 
+
+(1) SpeX, a 0.8 - 5.3 micron cross-dispersed medium-resolution 
+    spectrograph (up to R=2,500) and imager; 
+(2) MORIS, a 512x512 pixel Andor CCD camera mounted at the side-facing, 
+    dichroic-fed window of the SpeX cryostat (60"x60" field-of-view); 
+    MORIS can be used simultaneously with SpeX; 
+(3) CSHELL, a 1-5 micron high-resolution spectrograph (up to R=40,000) 
+(4) PI-instruments including a low-resolution 3-14 micron spectrograph 
+    and high-resolution spectrographs for 8-25 microns. 
+
+Information on available instruments and performance can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/Facility/
+
+Note: Comet C/2013 A1 Siding Spring will make a very close approach to 
+Mars in 2014B and observations of this comet are of interest to NASA.  
+Further information can be found here:
+ 
+https://dl.dropboxusercontent.com/u/12111886/Comet_Siding_Spring.pdf
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+STUDENT TRAVEL GRANTS FOR UPCOMING MARS CONFERENCES
+
+Student travel grants are available for: (1) the First Landing Site 
+Workshop for the 2020 Mars Rover Mission (May 14-16 in the Washington 
+DC area; due March 19) and (2) the 8th International Mars Conference 
+(July 14-18, Pasadena, CA; due April 11). These opportunities are open 
+to undergraduate and graduate students with Mars-related research 
+interests, who are US citizens or legal residents. Information and the 
+applications are posted on the MEPAG site:
+
+http://mepag.nasa.gov/student.cfm?expand=student. 
+
+Questions should be directed to Serina Diniega, 
+
+serina.diniega@jpl.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+CHANGE IN HST SNAP POLICY FOR OBJECTS INTERIOR TO JUPITER
+
+STScI has revised the policy regarding SNAP observations of Solar 
+System bodies that lie interior to the orbit of Jupiter. Previously 
+such observations were not allowed since scheduling guide-stars 
+requires a significant allocation of resources. The policy has been 
+changed to allow observations of a subset of these targets provided 
+that the observations are undertaken under gyro control. Full details 
+are given here:
+
+http://www.stsci.edu/hst/proposing/docs/late-breaking-news#snaps
+
+This change in policy is in effect for Cycle 22 (proposal deadline 
+April 11 2014).
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+JAXA INTERNATIONAL TOP YOUNG FELLOWSHIP 2014
+
+JAXA has commenced the International Top Young Fellowship (ITYF) 2014 
+for top-notch young researchers from all over the world.
+
+For further information, go to the ITYF website:
+
+http://www.isas.jaxa.jp/ityf/
+
+For questions, please contact:
+
+Management and Integration Department
+Takashi Iwai, Mr.
+Phone: +81-50-3362-2316
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] TECHNOLOGY WORKSHOP FOR THE DISCOVERY 2014 AO FIRST ANNOUNCEMENT
+
+In the up-coming Discovery 2014 Announcement of Opportunity, NASA is 
+considering offering as Government-Furnished Equipment a number of 
+NASA-developed technologies. In preparation for this, NASA's Science 
+Mission Directorate and Space Technology Mission Directorate are 
+co-hosting a "Technology Workshop." The goal of this event is to 
+educate the potential proposing community on each technology being 
+offered and inform how each technology will be supported.
+
+Details of the workshop are being finalized for the week of April 7, 
+with a target date of Wednesday, April 9, from 8:30 AM to 6:30 PM. The 
+workshop will be divided into two sections: briefings on each 
+technology offering in the morning and the opportunity for small-group 
+meetings in the afternoon. In order to reach the widest audience 
+possible, each briefing will also be webcast.
+
+An invitation will be sent once the details are finalized. Thank you 
+in advance for helping to support the 2014 Discovery Announcement of 
+Opportunity and advance the use of new technologies for space science.
+
+Sincerely,
+
+Leonard A. Dudzinski
+Planetary Science Division Chief Technologist
+
+Michael H. New
+Discovery Program Lead Scientist
+
+Ryan Stephan
+SPTMD Program Executive, Game Changing Development Program
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+SOLAR WIND INTERACTION WITH PLUTO WORKSHOP
+
+Wed-Thur August 20-21, 2014
+LASP, Boulder CO
+
+In preparation for New Horizons flyby of Pluto around July 2015, the 
+above workshop on the solar wind interaction with Pluto's atmosphere 
+will focus on current ideas and models of the upstream solar wind 
+conditions, the interaction of the surrounding plasma with Pluto's 
+escaping atmosphere, and perturbations of the solar wind propagating 
+downstream. The workshop will include presentations on plans for 
+observations that will be made by and datasets collected by the New 
+Horizons Alice (UVS), REX (Radio Science), SWAP (KeV plasma), PEPSSI 
+(MeV particles), and SDC (dust counter) instruments.
+
+http://lasp.colorado.edu/home/mop/resources/hosted-meetings/swpluto/
+
+Please contact me bagenal-at-colorado.edu if you intend to attend.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 12-13, 2014
+Bringing Fundamental Astrophysical Processes Into Focus: A Community 
+Workshop to Plan the Future of Far-Infrared Space Astrophysics
+http://asd.gsfc.nasa.gov/conferences/FIR/
+Greenbelt, MD
+
+June 16-20, 2014
+Annual Planetary Science Summer School, Session 1
+http://pscischool.jpl.nasa.gov
+Pasadena, CA
+
+July 14-18, 2014
+Annual Planetary Science Summer School, Session 2
+http://pscischool.jpl.nasa.gov
+Pasadena, CA
+
+August 6-8, 2014
+5th Annual Planetary Crater Consortium Meeting
+http://www.planetarycraterconsortium.nau.edu
+Flagstaff, AZ
+
+August 11-15, 2014
+Annual Planetary Science Summer School, Session 3
+http://pscischool.jpl.nasa.gov
+Pasadena, CA
+
+August 20-21, 2014
+Solar Wind Interaction with Pluto Workshop
+http://lasp.colorado.edu/home/mop/resources/hosted-meetings/swpluto/
+Boulder, CO
+
+October 27-29, 2014
+ACSE Earth and Space 2014
+http://earthspaceconf2014.mst.edu/
+St. Louis, MO
+
+October 27-31, 2014
+19th International Workshop on Laser Ranging
+http://ilrs.gsfc.nasa.gov/ilrw19/
+Greenbelt, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,329 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 23 (June 5, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Space Technology Research Institutes (STRI22) Released
+2. [NASA] PDS: Aperiodic PDS Data Releases in 2022.05
+3. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 61
+4. Early Career MExAG Steering Committee Position Opening
+5. ICPAE Monthly Webinar
+6. Planetary Geomorphology Image of the Month
+7. Job Announcement: Junior Group Leader (F*M) in Space Instrumentation
+8. Planetary Meeting Calendar Additions
+9. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SPACE TECHNOLOGY RESEARCH INSTITUTES (STRI22) RELEASED
+
+The National Aeronautics and Space Administration (NASA) Headquarters
+has released a solicitation, titled Space Technology Research
+Institutes (STRI), as an appendix to the Space Technology Mission
+Directorate (STMD) umbrella NASA Research Announcement (NRA) titled
+Space Technology Research, Development, Demonstration, and Infusion
+2022 (SpaceTech-REDDI-2022). Complete details can be found at:
+
+https://nspires.nasaprs.com
+
+STMD is seeking to invest, via research institutes, in university-led,
+sustained, multidisciplinary space technology research focused in
+strategic areas for transformative impact to future NASA exploration
+and science. The research institutes construct enables coordination of
+experts from a wide range of fields and organizations in a single
+distributed research structure.
+
+NASA plans to make up to 2 awards, which are expected to be in place
+summer 2023. Proposals are being solicited via a two-step process where
+preliminary proposals are mandatory and only those invited may submit a
+full proposal. Preliminary proposals are due August 3, 2022, 5 pm
+Eastern, and the target deadline for invited full proposals is November
+3, 2022, 5 pm Eastern.
+
+Comments and questions may be addressed by email to the Space
+Technology Research Grants Program at hq-STMD-STRI@mail.nasa.gov. 
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2022.05
+
+In May 2022, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2022.05.27 MGS TES Atmospheric Recalibration
+- 2022.05.12 Mars Express HRSC radiometrically calibrated data V4
+- 2022.05.05 LRO Diviner Regional Cumulative Products
+- 2022.05.04 Mars Express HRSC radiometrically calibrated data V4
+- 2022.05.03 Spacewatch 0.9m Mosaic Camera Survey
+- 2022.05.03 MGS RS Nocturnal Mixed Layers
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220531.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 61
+
+The NASA Planetary Data System announces Release 61 of data from MRO.
+This release contains raw, calibrated, and derived data products
+nominally covering the time period August 9 through November 8, 2021.
+Some instruments have more recent data.  The data are archived at
+various PDS nodes.
+
+- CRISM, SHARAD, Radio Science: Geosciences
+- HiRISE, CTX, MARCI: Cartography and Imaging Sciences
+- MCS: Atmospheres
+- SPICE: NAIF
+
+This release includes the first delivery of CRISM MSV TRDRs, with data
+coverage from 2012-2020. The MSVs were not originally included in the
+archive because there was a flaw in the EDR construction that
+compromised the ability to calibrate the data. The EDRs have now been
+rebuilt and the data properly calibrated. The CDR supporting data for
+the MSV TRDRs have been added to the EDR/CDR volumes. MSV TRDRs for
+2021 and onward will be added in future releases.
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220601.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/
+
+The next release is scheduled for September 1, 2022.
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EARLY CAREER MEXAG STEERING COMMITTEE POSITION OPENING
+
+The Mercury Exploration Assessment Group (MExAG) is seeking
+applications for an Early Career member of the Steering Committee, with
+a nominal term of three years. MExAG is a community-based,
+interdisciplinary body that was established by NASA to provide science
+input and analysis needed to plan and prioritize Mercury research and
+exploration activities. The Steering Committee serves the MExAG
+community through the organization of community meetings, documents
+outlining scientific and exploration goals of the community, and
+community findings to be presented to NASA.
+
+https://www.lpi.usra.edu/mexag/
+
+Steering Committee membership is a volunteer position with a typical
+service load of a few hours per month, with higher loads around the
+annual meeting held in February. Travel support is available to support
+attendance at in-person meetings. Interested community members are 
+encouraged to apply by June 15, 2022. 
+
+https://forms.gle/ntuo2SGdpU1agbMx7
+
+The application includes uploading a 1-page CV and providing a brief
+(500-word max) statement describing why you are interested in serving
+the Mercury community on the Steering Committee, as well as the
+qualities and qualifications that you would bring to the committee.
+Questions may be directed to mexag.sc@gmail.com.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ICPAE MONTHLY WEBINAR
+
+The International Commission on Planetary Atmospheres and Evolution
+(ICPAE), which is one of the commissions of the International
+Association of Meteorology and Atmospheric Sciences (IAMAS), organizes
+a monthly webinar. The primary objective of our webinar series is to
+provide researchers with updates on new findings and techniques on
+planetary atmospheres from across the world.
+
+Title: Narrow-band, High-resolution Spectroscopy for Observing
+Exoplanet Winds, Magnetic Fields, and Moons 
+Speaker: Julia V. Seidel (ESO, Chile) 
+Day & time: Wednesday, June 8, 18:30 UTC (2:30 PM in Santiago & New
+York, 8:30 PM in Paris, 9th 2:30 AM in Beijing)
+
+Webinar link:
+
+https://us02web.zoom.us/j/87967716153?pwd=Mmw2S0RzTERVMTdvQ0ZEN2U0TzI0UT09
+
+Webinar ID: 879 6771 6153, Passcode: 263669
+
+Details can be found in the link below:
+
+https://www.iamas.org/icpae/2022/05/04/icpae-monthly-webinar-jun-8th-1830-utc/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Inlet valleys that cut into crater rims on
+Mars", contributed by Emily Bamber, PhD candidate at Jackson School of
+Geoscience, University of Texas at Austin.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Twitter: @PlanetGeomorpho 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: JUNIOR GROUP LEADER (F*M) IN SPACE INSTRUMENTATION
+
+The Space Research Institute (IWF) of the Austrian Academy of Sciences
+(OeAW), is offering a position as (Junior) Group leader in Space
+Instrumentation. We invite experienced candidates interested in
+technology development for new and existing fields of space-qualified
+scientific instruments. The successful candidate will lead an existing
+research group with focus on instrument development and development
+support in direct link with the IWF's research activities.
+
+The appointment begins as early as 1 September 2022 for initially 4
+years with the option for tenure track. More senior applicants can be
+offered the position of a group leader for an initial duration of 6
+years with a tenure-track option.
+
+Applications must include a cover letter, CV, list of publications, a
+statement of the applicant's research experience (2 pages), a research
+plan (1 page), certificates for full academic record, and the full
+contact information for two references. Please send the application as
+one PDF file, to cosima.muck@oeaw.ac.at, mentioning Job ID:
+IWF184JGL121, no later than 30 June 2022 (or until the post has been
+filled).
+
+Further information ca be found here:
+
+https://www.oeaw.ac.at/en/details/open-position-job-id-iwf184jgl121
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+July 15-26, 2022
+Science Workshop for Synergy of Subaru/SCExAO and ALMA
+https://hashmtjn542.wixsite.com/scexao-alma
+Online
+
+August 10-12, 2022
+13th Planetary Crater Consortium Meeting
+https://www.hou.usra.edu/meetings/crater2022/
+Boulder, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Apophis Planetary Defense Campaign
+Vishnu Reddy et al. 2022 PSJ 3:123
+https://doi.org/10.3847/PSJ/ac66eb
+
+NEOWISE Observations of the Potentially Hazardous Asteroid (99942)
+Apophis
+Akash Satpathy et al. 2022 PSJ 3:124
+https://doi.org/10.3847/PSJ/ac66d1
+
+Limited Stability of Multicomponent Brines on the Surface of Mars
+Vincent F. Chevrier et al. 2022 PSJ 3:125
+https://doi.org/10.3847/PSJ/ac6603
+
+The SSDC Role in the LICIACube Mission: Data Management and the
+MATISSE Tool
+Angelo Zinzi et al. 2022 PSJ 3:126
+https://doi.org/10.3847/PSJ/ac6509
+
+Chemical Equilibrium between Cores, Mantles, and Atmospheres of Super-
+Earths and Sub-Neptunes and Implications for Their Compositions,
+Interiors, and Evolution
+Hilke E. Schlichting and Edward D. Young 2022 PSJ 3:127
+https://doi.org/10.3847/PSJ/ac68e6
+
+Global-scale Reshaping and Resurfacing of Asteroids by Small-scale
+Impacts, with Applications to the DART and Hera Missions
+Sabina D. Raducan and Martin Jutzi 2022 PSJ 3:128
+https://doi.org/10.3847/PSJ/ac67a7
+
+Mid-ultraviolet Hubble Observations of Europa and the Global Surface
+Distribution of SO<sub>2</sub>
+Tracy M. Becker et al. 2022 PSJ 3:129
+https://doi.org/10.3847/PSJ/ac69eb
+
+Seasonal Variations of Chemical Species and Haze in Titan's Upper
+Atmosphere
+Siteng Fan et al. 2022 PSJ 3:130
+https://doi.org/10.3847/PSJ/ac6953
+
+Model of Double Asteroid Redirection Test Impact Ejecta Plume
+Observations
+Andrew F. Cheng et al. 2022 PSJ 3:131
+https://doi.org/10.3847/PSJ/ac66e9
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

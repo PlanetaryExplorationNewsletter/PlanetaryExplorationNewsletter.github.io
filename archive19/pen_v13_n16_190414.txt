@@ -1,0 +1,502 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 16 (April 14, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC-DPS Session MIT4: Planetary Exploration - Horizon 2061
+2. EPSC-DPS Session OPS2: Saturn System and the Cassini-Huygens Mission
+3. EPSC-DPS Session SB3: Small Body Missions Including Hayabusa2 and 
+   OSIRIS-REx
+4. EPSC-DPS Session SB10: Computational and Experimental Astrophysics 
+   of Small Bodies, Planets, and Granular Systems: Open Questions, 
+   Challenges, New Techniques and Models
+5. EPSC-DPS Session TP6: Moon and Other Airless Rocks
+6. [NASA] PDS: Odyssey Data Release 67
+7. [NASA] PDS: Mars Reconnaissance Orbiter CRISM TER and MTRDR 
+   Release 11
+8. SPICE Training Class
+9. NEOWISE 2019 Data Release
+10. OPAG Meeting Agenda Announced
+11. Software Systems for Astronomy - Registration Open
+12. Rocky Worlds: From the Solar System to Exoplanets
+13. Postdoctoral Fellowship at Johns Hopkins University: Hypervelocity 
+    Impact
+14. Jobs at SYSU
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC-DPS SESSION MIT4: PLANETARY EXPLORATION - HORIZON 2061
+
+Abstracts are welcome to the EPSC-DPS 2019 session MIT4 on the 
+foresight exercise Horizon 2061 for planetary exploration. The 
+principal motivations are to inspire international collaborations to 
+better meet technology and mission challenges and increase the overall 
+science return of planetary exploration. This EPSC session devoted to 
+"Planetary Exploration, Horizon 2061" will present the conclusions 
+reached during the previous workshops to the participants to the 
+EPSC-DPS conference, invite additional contributions, and stimulate 
+future long-term forward-looking activities related to the sciences 
+and technologies of Planetary Exploration.
+
+We invite abstracts for oral and poster contributions from all areas 
+of planetary exploration.
+
+For more information:
+
+https://www.epsc-dps2019.eu/home.html
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019
+/abstractsubmission/34100
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+Early registration deadline: July 31, 2019
+
+Conveners: J. Lasue, Maria Teresa Capria, Doris Daou, Louise Prockter
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC-DPS SESSION OPS2: SATURN SYSTEM AND THE CASSINI-HUYGENS MISSION
+
+Please consider submitting an abstract to session OPS2 of the EPSC-DPS 
+Joint meeting 2019 which will take place at the Centre International 
+de Conferences de Geneve (CICG) in Geneva, Switzerland on 
+September 15-20, 2019.
+
+https://www.epsc-dps2019.eu/home.html
+
+Results related to the Saturnian system from ground-based and 
+Cassini-Huygens mission observations are welcome in OPS2. All aspects 
+of the system (planet, satellites and rings) will be presented, with 
+emphasis on recent findings. For more information see:  
+ 
+https://meetingorganizer.copernicus.org/EPSC-DPS2019
+/abstractsubmission/34116
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+Early registration deadline: July 31, 2019
+
+Conveners: A. Coustenis, S. Edgington, F. Michael Flasar, A. Masters, 
+C. Plainaki, L. Spilker
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC-DPS SESSION SB3: SMALL BODY MISSIONS INCLUDING HAYABUSA2 AND 
+OSIRIS-REX
+
+Please consider submitting an abstract to session SB3 of the EPSC-DPS
+Joint meeting 2019, which will take place at the Centre International 
+de Conferences de Geneve (CICG) in Geneva, Switzerland on September 
+15-20, 2019.
+
+https://www.epsc-dps2019.eu/home.html
+
+In this session, we invite abstracts about small body mission target 
+bodies, including 162173 Ryugu and 101955 Bennu. Topics include 
+compositional, dynamical and physical properties, shape, thermal 
+properties, thermal physics, structures and boulder/crater 
+distributions, and links with parent asteroids/objects (e.g., in the 
+Main Belt). We also invite papers on supporting modelling studies and 
+laboratory experiments. 
+
+For more information see:
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/
+abstractsubmission/34460
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+Early registration deadline: July 31, 2019
+
+Conveners: B.E. Clark, M.A. Barucci, E. Palomba, A. Longobardo, R. 
+Brunetto, F. Dirri, X. Long, and M. Pajola
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC-DPS SESSION SB10: COMPUTATIONAL AND EXPERIMENTAL ASTROPHYSICS OF 
+SMALL BODIES, PLANETS, AND GRANULAR SYSTEMS - OPEN QUESTIONS, 
+CHALLENGES, NEW TECHNIQUES AND MODELS
+
+This session is devoted to the development of models, experiments (on 
+ground and in micro-gravity), and mathematical simulations 
+(computational methods and algorithms of solution) related to the Small 
+Bodies (comets, KBOs, rings, asteroids, meteorites, dust, gravitational 
+aggregates), their formation and evolution, and the instruments of 
+their exploration.
+
+This session will include the introduction and discussion of new 
+and/or existing models, experimental techniques, computational methods, 
+and the results of analytical, experimental and numerical analysis 
+(with respect to computational methods and algorithms of solution) of 
+various astrophysical phenomena: (i) dusty gas cometary atmospheres; 
+(ii) volcanic activity on icy satellites (e.g. Enceladus and Io); (iii) 
+planetary body formation (e.g. via pebbles growth) and planetesimal 
+dynamics; (iv) investigations on granular systems applicable to the 
+study of small bodies as gravitational aggregates, regolith surfaces, 
+and sample-return missions; etc. 
+
+For more information see:  
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34464
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+Early registration deadline: July 31, 2019
+
+Conveners: V. Zakharov, D. Hestroffer, A. Campo Bagatin, 
+V. Della Corte, S. Ivanovski, R. Marschall, A. Rotundi, P. Sanchez, 
+N. Taberlet, P. Tanga
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC-DPS SESSION TP6: MOON AND OTHER AIRLESS ROCKS
+
+We would like to invite you to submit an abstract to Session TP6 "Moon 
+and Other Airless Rocks" at the EPSC-DPS Joint Meeting on September 
+15-20, 2019 in Geneva.
+
+Abstracts are invited on any research related to Moon, moons, 
+asteroids, and the interactions of airless rocks with the space 
+environment. Earth's Moon has been our guide to cratering and other 
+processes that affect airless rocks in space. Recent discoveries have 
+shown that the Moon is not what we thought it was, suggesting we ought 
+to re-examine our understanding of processes affecting airless rocky 
+bodies and their surfaces.
+
+More information about the session and a link to abstract submission 
+can be found on:
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34055
+
+Deadline is May 8.
+
+Best regards, 
+
+Tim Livengood
+Amanda Hendrix
+Co-conveners
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: ODYSSEY DATA RELEASE 67
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 67, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Release 195)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190401.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+ 
+[NASA] PDS: MARS RECONNAISSANCE ORBITER CRISM TER AND MTRDR 
+RELEASE 11
+
+PDS announces Release 11 of Mars Reconnaissance Orbiter CRISM Targeted 
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data 
+Record (MTRDR) products, at:
+
+http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from December 9, 2006, to February 8, 2008.  
+TER products are image cubes derived from CRISM hyperspectral targeted 
+observations, post-processed to standardize the illumination and 
+observation geometry and to remove atmospheric gas absorptions and 
+instrument artifacts. MTRDRs are the same products map-projected using 
+terrain models of the Martian surface.
+
+The standard route to access released data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190409.shtml
+
+To access all PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SPICE TRAINING CLASS
+
+A beginner's SPICE training class will be held in a hotel near 
+Pasadena, California on June 4-6, 2019.
+
+NASA's SPICE system is used for computing observation geometry for 
+robotic science missions. It has been in use since the Magellan mission 
+to Venus, and is now used on most worldwide planetary missions as well 
+as on some heliophysics and Earth science missions. This three-day 
+class is free of charge and is open to everyone involved with space 
+science, including foreign nationals and commercial enterprises. 
+Attendance will be limited to the first 60 registrants. Details about 
+the class and the required registration form are found here:  
+
+https://naif.jpl.nasa.gov/naif/WS2019_announcement.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NEOWISE 2019 DATA RELEASE 
+
+The Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE) and 
+IPAC at Caltech announce the NEOWISE 2019 Data Release.
+
+The 2019 Data Release includes data acquired during the fifth year of 
+the NEOWISE Reactivation mission (Mainzer et al. 2014, ApJ, 792, 30), 
+December 13, 2017 to December 13, 2018. These data are combined with 
+those from Year 1-4 NEOWISE into a single archive that contains 12.8 
+million sets of 3.4 and 4.6 micron images and a database of ~95 billion 
+source detections.  
+
+NEOWISE scanned the sky nearly ten complete times during the first 
+five years of its survey, with approximately six months between survey 
+passes. With twelve or more independent 3.4 and 4.6 micron exposures 
+on each point of the sky during each epoch, the NEOWISE archive is a 
+time-domain resource for extracting multiple, independent thermal 
+flux and position measurements of Solar System small bodies, as well 
+as background galactic and extragalactic sources.
+
+A quick guide to the NEOWISE data release, data access instructions 
+and supporting documentation is available at: 
+
+http://wise2.ipac.caltech.edu/docs/release/neowise/
+
+NEOWISE is a project of the Jet Propulsion Laboratory/California 
+Institute of Technology. NEOWISE is funded by the National Aeronautics 
+and Space Administration Planetary Science Division.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+OPAG MEETING AGENDA ANNOUNCED
+
+The OPAG April 23-24, 2019 meeting Agenda has been posted on the OPAG 
+website:  
+
+https://www.lpi.usra.edu/opag/meetings/upcoming
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SOFTWARE SYSTEMS FOR ASTRONOMY - REGISTRATION OPEN
+
+Please note that registration is now open for the summer school in 
+Software Systems for Astronomy (SSfA-6). The course will take place 
+July 15-26, 2019, on the Big Island of Hawaii. The course covers 
+software design and implementation of telescope and instrument control 
+systems, observation planning tools, and software for analyzing and 
+archiving astronomical data. 
+
+If you are not a University of Hawaii at Hilo (UHH) student, use this 
+link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerAdmissions.php
+
+If you are a UHH student, use this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerCourseRegistration.php
+
+More information can be found here: 
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2019/ssfa19.php
+
+Direct questions to aconrad@hawaii.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ROCKY WORLDS: FROM THE SOLAR SYSTEM TO EXOPLANETS
+
+January 6-8, 2020 (Monday-Wednesday) at the Kavli Institute, 
+Cambridge, UK
+
+This is to announce that registration for the Rocky Worlds meeting is 
+now open, please find the link to register here:
+
+https://www.kicc.cam.ac.uk/events/rocky-worlds-from-the-solar-system
+-to-exoplanets
+
+The planets that are best understood are the four telluric planets of 
+our own Solar System. Applying the detailed understanding gleaned from 
+these bodies is crucial in our interpretation of exoplanetary systems. 
+As the characterisation of new exo-planetary systems proceeds it will 
+in turn improve understanding of our own Solar System, and in 
+particular of how habitable Earth-like planets may form. This workshop 
+aims to bring together planetary scientists, astronomers, and Earth 
+scientists to foster discussion and build the collaborations that will 
+pave the way for the next decade of rocky exoplanet discovery and 
+characterisation.
+
+We encourage applications from all interested parties, although the 
+meeting is limited to 50 participants. We particularly encourage early 
+career scientists interested in forging collaborations across 
+disciplines to apply. There will be no registration fee and a number 
+of grants will be available to support travel costs, childcare costs,
+or any other costs associated with accessibility.
+
+Please contact rw2020@ast.cam.ac.uk if you have any questions.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOCTORAL FELLOWSHIP AT JOHNS HOPKINS UNIVERSITY: HYPERVELOCITY 
+IMPACT
+
+A new postdoctoral fellow position is available within the Hopkins 
+Extreme Materials Institute (hemi.jhu.edu) at Johns Hopkins University 
+in the area of hypervelocity impact experiments on geophysical and 
+quasibrittle materials. The primary experiments will be performed at 
+the new HyFIRE facility at Johns Hopkins, which achieves impact 
+velocities of 7 km/s with rich diagnostics, including flash X-ray, 
+ultra-high-speed optical visualization, photon doppler velocimetry, 
+and high-speed spectral imaging.
+
+The potential candidate should have a Ph.D. in mechanics, geophysics, 
+planetary science, materials science, or physics. A willingness to 
+work with modelers performing large-scale impact simulations is 
+expected. An interest in data science and machine learning is a plus.
+
+If you are interested, please send an email to ramesh@jhu.edu with a 
+single PDF file containing your curriculum vitae, the names of at 
+least two references, and a brief research statement. Please use the 
+subject line "HEMI Postdoctoral Fellow in Hypervelocity Impact." Review 
+of applications will begin May 15.
+
+The Johns Hopkins University is an Equal Employment Opportunity and 
+Affirmative Action employer and is committed to building a diverse 
+environment; women and minorities are strongly encouraged to apply. 
+
+Details can be found at: 
+
+https://hemi.jhu.edu/join-hemi/job-and-internship-opportunities/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+JOBS AT SYSU
+
+The Department of Space Science, affiliated with the School of 
+Atmospheric Sciences, Sun Yat-sen University (SYSU), is now providing 
+a variety of permanent, fulltime academic jobs in space and planetary 
+science, including (but not limited to) the studies of terrestrial 
+middle/upper atmosphere, ionosphere and magnetosphere, the studies of 
+planetary atmospheres and space environments, as well as the studies 
+of solar atmosphere and solar wind. The job vacancies include teaching 
+& research positions at all ranks and depending on applicant's 
+experience and age, the appointment will be made on the level of full 
+or associate professors, both within the framework of the 
+University's Top 100 Talents Program. The candidate should have a PhD 
+degree in related fields and shows excellent research records. 
+Successful candidates will be offered generous research startup 
+funding, competitive salaries, relocation fee, as well as convenient 
+housing and family care facilities close to the beautiful and newly 
+constructed campus. For more information, please contact Dr. Jun Cui 
+(cuijun7@mail.sysu.edu.cn).
+
+More information about SYSU could be found at: 
+
+http://www.sysu.edu.cn/2012/en/index.htm 
+
+The School of Atmospheric Sciences is located within the Zhuhai campus.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 4-6, 2019
+SPICE Training Class
+https://naif.jpl.nasa.gov/naif/WS2019_announcement.html
+Pasadena, CA
+
+July 15-26
+Software Systems for Astronomy Summer School
+http://astro.uhh.hawaii.edu/Summer/Summer-2019/ssfa19.php
+Hilo, HI
+
+July 22-24, 2019
+The 4th International Conference on Lunar and Deep Space Exploration 
+(LDSE)
+http://ldse2019.csp.escience.cn
+Zhuhai, China
+
+January 6-8, 2020
+Rocky Worlds: From the Solar System to Exoplanets
+https://www.kicc.cam.ac.uk/events/rocky-worlds-from-the-solar-system
+-to-exoplanets
+Cambridge, UK
+
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

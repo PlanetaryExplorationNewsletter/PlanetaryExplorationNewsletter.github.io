@@ -1,0 +1,715 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 17 (April 23, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mathew R Perry
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memory of Len Tyler (October 18, 1940 - March 16, 2023)
+2. MEPAG Steering Committee and Goals Committee Openings - Applications
+   Due April 30, 2023 
+3. MExAG Steering Committee Positions
+4. Gerald A. Soffen Memorial Fund Travel Grant Announcement
+5. Near-Earth Object Workshop to Assess Reconnaissance for Planetary
+   Defense (NEO WARP) 2
+6. AAE International Conference on Space Exploration
+7. Cosmic Dust Meeting 
+8. NSLS II Users Workshop Announcement
+9. 6th Planetary Data Workshop: Last Call for Abstracts
+10. Registration Open for 2023 Hybrid PlanetInsitu Workshop, within the
+   Brines Conference
+11. Planetary Geologic Mapping Goes to GSA, Oct 15-18, 2023
+12. National Academies of Sciences, Engineering, and Medicine
+    Caregiving Policies and Practices
+13. Farinella Prize 2023 Announcement
+14. NAIF Releases New WebGeocalc Version 2.6.1
+15. PhD Position at the University of Bern
+16. Postdoctoral Position at the Swedish Institute of Space Physics
+    (IRF)
+17. [NASA] ROSES-23 Amendment 15: Deployed Instruments (A3DI) for
+    Community Comment
+18. [NASA] ROSES-23 Amendment 16: F.22 Research Initiation Award
+19. [NASA] ROSES-23 Amendment 17: F.23 SMD Bridge Program Seed Funding
+20. [NASA] MUREP Curriculum Awards Office Hour
+21. Planetary Meeting Calendar Additions
+22. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORY OF LEN TYLER (OCTOBER 18, 1940 - MARCH 16, 2023)
+
+G. Leonard (Len) Tyler - gifted colleague, mentor, and friend - passed
+away in Port Townsend, WA, at the age of 82. The cause was late stage
+Alzheimer's disease.
+
+Len was trained as an electrical engineer. His career was based on
+application of signal processing and related skills to remote sensing
+of planets. As a leader in the specialized field of radio science, he
+explored each of the main bodies in the Solar System, the last being
+Pluto as Principal Investigator during development of the Radio Science
+Experiment (REX) on New Horizons. During his career he also
+investigated radiowave scattering from Earth’s ocean surfaces and was a
+PI or Co-I on the Viking, Voyager, Magellan, Mars Global Express, and
+Mars Express missions.
+
+A memorial is planned on June 5, 2023 at Stanford University, where Len
+was a Professor in the Electrical Engineering Department. For more
+information on the memorial, contact Ivan Linscott at
+linscott@stanford.edu.  
+
+A short biography of his life may be found at:
+
+https://tinyurl.com/b3bsx7bv
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MEPAG STEERING COMMITTEE AND GOALS COMMITTEE OPENINGS - APPLICATIONS
+DUE APRIL 30, 2023
+
+MEPAG is currently seeking one individual to serve on the Steering
+Committee (SC), and two individuals to serve on the Goals Committee
+(GC). The two GC openings are split between Goal III (Geology) and Goal
+IV (Preparation for Humans). Participation in the Goals Committee
+includes periodic reviews of the MEPAG Goals document, writing of
+updates as needed, and other goals-related activities as directed by
+the SC. It is currently anticipated that the next review of the Goals
+document will occur in the coming year.
+
+Participation in the Steering Committee includes a monthly telecon,
+participation in MEPAG community meetings, review of MEPAG reports, and
+related activities. 
+
+For more information and to indicate interest, please fill out the form
+at:
+
+https://tinyurl.com/yc33k8km
+
+Submissions are due April 30, 2023. Committee membership is open to
+both qualified US and international participants. Representation of the
+diverse membership of the Mars science community, including women and
+minorities, is essential; expressions of interest from all career
+levels and disciplines are encouraged.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MExAG STEERING COMMITTEE POSITIONS
+
+MExAG solicits applications for several steering committee members. The
+SC organizes our annual meeting, writes goals and official findings,
+and takes a leadership role in other activities where input from the
+Mercury community is needed.
+
+We are searching for:
+- the MExAG Vice Chair (2 year term, with transition to become chair
+  for another 2 years),
+- a Geology Discipline Member (3 year nominal term),
+- a Magnetosphere Discipline Member (3 year nominal term),
+- an Early Career Member (3 year nominal term), and
+- an International Early Career Member (3 year nominal term).
+
+A detailed description for these positions, a list of the requested
+application materials, and the application form are found here:
+
+https://tinyurl.com/mr48u3te
+
+Please submit your applications by May 19, 2023.
+
+We are looking forward to receiving all your applications!
+
+Many thanks in advance,
+
+The MExAG Steering Committee
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+GERALD A. SOFFEN MEMORIAL FUND TRAVEL GRANT ANNOUNCEMENT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Spring
+2023 Travel Grant application opportunity for undergraduate and
+graduate students pursuing studies in fields of space science and
+engineering. 
+
+The Travel Grants enable student recipients to attend professional
+conferences to present their research. Recipients may use the Grant for
+either virtual or in-person conferences. The Soffen Fund will award up
+to $1000 in total, with no individual award greater than $500, to cover
+expenses related to presenting research at either a virtual or
+in-person conference. The number of awards will depend on applicants'
+needs.
+
+The Spring 2023 Travel Grant application deadline is May 8, 2023.
+
+Jerry Soffen, a biologist by training, led a distinguished career in
+NASA, including serving as the Project Scientist for Viking and as an
+architect for the NASA Astrobiology Institute. The Travel Grant
+continues Jerry's dedication to educating and involving future
+generations in space science and engineering pursuits.
+
+The electronic application materials and instructions are located on
+the Soffen Fund website: 
+
+https://soffenfund.org
+
+Questions regarding the application or application process may be sent
+to ec@nasa-academy.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEAR-EARTH OBJECT WORKSHOP TO ASSESS RECONNAISSANCE FOR PLANETARY
+DEFENSE (NEO WARP) 2
+ 
+The Near-Earth Object Workshops to Assess Reconnaissance for Planetary
+defense (NEO WARP) series focuses on the U.S. National NEO Plan actions
+aimed at technology development for NEO reconnaissance missions,
+including rapid-response options. The second workshop in the series,
+NEO WARP 2, will focus on the theme: "identify technology gaps and
+potential concepts for NEO flyby reconnaissance performance." 
+
+NEO WARP 2 will take place at the Johns Hopkins Applied Physics
+Laboratory in Laurel, Maryland, on June 28-30, 2023. The meeting will
+run 2.5 days, ending around noon on June 30. Registration will be free
+but required for participation. Full group discussions will be hybrid;
+breakout sessions will be either in-person or virtual (NOT hybrid for
+breakout sessions). 
+
+Please complete Indication of Interest Form for the NEO WARP 2 Workshop
+to receive future emails, such as details regarding registration: 
+
+https://forms.gle/SGjGeF54kzwjNBe29
+ 
+Sincerely,
+ 
+The NEO WARP Organizers
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AAE INTERNATIONAL CONFERENCE ON SPACE EXPLORATION
+
+The International Conference on Space Exploration, organised by the Air
+and Space Academy (AAE) with the support of AIDAA, PoliTo and SGAC,
+will occur on 10-12 May 2023, in Turin, Italy.
+
+This conference will focus on themes underpinning Space Exploration,
+with the aim of providing useful input to agencies or other bodies in
+charge of building programmes. Keynote speeches by leading
+personalities will address the purposes and policies behind space
+exploration and provide an overview of the current state of play. 
+
+Seven sessions will examine aspects fundamental for most exploration
+projects:
+
+1. Philosophy and cultural motivations
+2. Dream missions
+3. Towards an environment-friendly approach to Lunar exploration
+4. Flying machines
+5. Going faster (and further)
+6. Water: our quest for "oases" in the Solar System
+7. Human-robots collaboration
+
+A number of Q&A sessions, together with a wrap-up moderated by SGAC,
+will aim to give the floor to the audience. Other highlights include a
+contradictory debate on "Life in the universe: rule or exception?" An
+ice-breaking cocktail will end the first day and a visit to Thales
+Alenia Space is planned for the end of the second day.
+
+To learn more:
+
+https://academieairespace.com/space-exploration/programme/
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+COSMIC DUST MEETING
+
+https://www.cps-jp.org/~dust/
+
+Monday, August 7 - Friday, August 11, 2023
+Kitakyushu International Conference Center
+3-9-30 Asano, Kokurakita-ku, Kitakyushu-shi
+Fukuoka 802-0001 JAPAN 
+
+Deadline for Admissions Application: 8 May, 2023
+
+Complete registration and abstract submission at: 
+
+https://www.cps-jp.org/~dust/Application.html
+
+The meeting is open for any aspects of dust research by means of
+different methods of studies (in-situ and laboratory measurements,
+astronomical observations, laboratory and numerical simulations,
+theoretical modeling, data analyses, etc.). 
+
+See our invited speakers at:
+
+https://www.cps-jp.org/~dust/Speakers.html
+
+Contact Information: Hiroshi Kimura dust-inquiries@cps-jp.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NSLS II USERS' WORKSHOP ANNOUNCEMENT
+
+The 2023 National Synchrotron Light Source II (NSLS II) Users' Meeting
+will be held virtually from April 24-28, 2023. As part of the Users'
+meeting, we have organized a workshop titled "A New Era in Sample
+Return Missions: Synchrotron Analysis Opportunities Beyond Earth
+Materials" on Friday, April 28.
+
+Any member of the community interested in learning about using
+synchrotron and other micro-and nano-scale analyses of extraterrestrial
+returned samples is welcome to attend. 
+
+The agenda for the workshop can be found at: 
+
+https://www.bnl.gov/usersmeeting/files/pdf/agenda.pdf 
+
+Free workshop registration is available at:
+
+https://www.bnl.gov/usersmeeting/reg/step1.php
+
+Thanks,
+
+Tim Glotch, Paul Northrup, George Flynn, and Mehmet Yesiltas
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+6TH PLANETARY DATA WORKSHOP: LAST CALL FOR ABSTRACTS
+
+The 6th Planetary Data Workshop is scheduled for June 26-28, 2023, at
+the High Country Conference Center in Flagstaff, Arizona. The goal of
+this hybrid workshop is to bring together data users, providers,
+engineers, developers, and researchers to discuss approaches,
+challenges, applications of informatics, technologies, and capabilities
+in planetary science. Participants will have the opportunity to share
+knowledge, experience, and lessons learned in these fields and network
+with colleagues.
+
+Abstracts are due this Wednesday, April 26, 2023.
+
+For more see:
+
+https://www.hou.usra.edu/meetings/planetdata2023/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+REGISTRATION OPEN FOR 2023 HYBRID PLANETINSITU WORKSHOP, WITHIN THE
+BRINES CONFERENCE
+
+Folks are invited to participate in the first 2023 hybrid workshop on
+Optimizing Planetary In Situ Surface-Atmosphere Interaction
+Investigations (PlanetInsitu), held in conjunction with the Ancient &
+Future Brines Conference. 
+
+This one-day workshop, held virtually and in Reno, NV on Thursday, May
+18 (within the Brines conference) will include lightning talks about
+instrument and operations concepts under-development, panel discussions
+about observation site selection considerations and avoiding
+spacecraft-induced perturbations. Folks registered with the Brines
+conference do not need to separately register for this workshop. 
+
+Other community members interested in participating in the Thursday
+presentations/discussion can register (for free) at:
+
+https://tinyurl.com/yubxeh54   
+
+As we can accommodate a limited number of virtual attendees, those that
+would observe only should wait for recordings of the workshop to be
+posted on the PlanetInsitu website:
+
+https://planetinsitu.space/planet-in-situ-at-brines/ 
+
+The Brines conference website is at:
+
+https://www.hou.usra.edu/meetings/ancientfuturebrines2023/
+
+If you are interested in attending in-person and able to demonstrate
+a relevant technology during the Brines fieldtrip on Friday, May 19,
+please indicate this on the registration and note the travel grants
+available for U.S. persons, with deadline May 3rd.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY GEOLOGIC MAPPING GOES TO GSA, OCT 15-18, 2023
+
+The Planetary Geologic Mapping (PGM) community is partnering with GSA's
+(Geological Society of America) Planetary Science Division (PGD) to
+bring planetary maps to GSA 2023! This combined meeting will replace
+the annual PGM summer meeting.
+
+GSA 2023 will be held Oct. 15-18, 2023 in Pittsburgh, Pennsylvania.
+Interested authors are encouraged to submit abstracts to relevant
+technical sessions or to the planetary geology division abstract pool: 
+
+https://community.geosociety.org/gsa2023/home
+
+As a reminder, PGD also hosts an annual division social gathering and
+business meeting at GSA (details TBD). PGM anticipates holding a
+business meeting as well to share planetary geologic mapping updates
+(details TBD).
+
+See you in Pittsburgh!
+
+Jeannette Luna
+MAPSIT Geologic Mapping Subcommittee (GEMS) Chair
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NATIONAL ACADEMIES OF SCIENCES, ENGINEERING, AND MEDICINE CAREGIVING
+POLICIES AND PRACTICES
+
+The National Academies of Sciences, Engineering, and Medicine committee
+on Policies and Practices for Supporting Family Caregivers Working in
+Science, Engineering, and Medicine seeks your input with regards to
+caregiving policies and practices.
+
+We seek your input (basically white papers, but we're calling them dear
+colleague letters) on our study examining policies and programs to
+support the retention, re-entry, and advancement of students and
+professionals working in academic science, engineering, and medicine
+with caregiving responsibilities (e.g., these responsibilities include
+caregiving for kids, spouses, significant others, dependent adults,
+parents, etc.). 
+
+If you have any information to share, please submit a description and
+any related publications by June 1, 2023:
+
+https://tinyurl.com/4x7tz97j
+
+Feel free to pass this along to ANY science, engineering, and Med
+colleagues that you have.
+
+Please contact Jeff Gillis-Davis (j.gillis-davis@wuslt.edu) with any
+questions.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+FARINELLA PRIZE 2023 ANNOUNCEMENT
+
+The XIII Paolo Farinella Prize is open for nominations. This year topic
+is:
+
+From superbolides to meteorites: physics and dynamics of small
+planetary impactors
+
+The Farinella Prize, awarded to a young scientist with outstanding
+contributions in the field of planetary science, is part of the
+Europlanet Society activities and is delivered at the yearly EPSC
+meeting.
+
+All information about the Prize as well as nomination forms can be
+found at:
+
+https://www.europlanet-society.org/paolo-farinella-prize/
+
+Deadline for nominations has been extended to May 10, 2023.
+
+Please, feel free to handle this announcement to whoever you may think 
+interested in nominating any candidate.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NAIF RELEASES NEW WEBGEOCALC VERSION 2.6.1
+
+NAIF announces the deployment of the new WebGeocalc (WGC) version 2.6.1
+on both NAIF's WGC servers:
+
+https://wgc.jpl.nasa.gov:8443/ (GUI only)
+https://wgc2.jpl.nasa.gov:8443/ (GUI and Web API)
+
+This new version adds a new Tangent Point calculation and support for
+Azimuth/Elevation/Range (AZ/EL/R) coordinates both in WGC GUI and in
+the WGC Web API.
+
+The Tangent Point calculation computes the point on the ray nearest to
+the target's surface modeled as an ellipsoid, the point on the target's
+surface nearest to the tangent point, and a few additional parameters
+such as illumination angles (incidence, emission and phase), time and
+local true solar time at one of these points. The locations of both
+points are optionally corrected for light time and stellar aberration,
+and may be represented using either Rectangular, Ra/Dec,
+Planetocentric, Planetodetic, Planetographic, Spherical or Cylindrical
+coordinates.
+
+The support for the Azimuth/Elevation/Range coordinates has been added
+to various WGC calculations.
+
+For more information about WGC, including tutorials and usage examples,
+please see: 
+
+https://naif.jpl.nasa.gov/naif/webgeocalc.html.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PHD POSITION AT THE UNIVERSITY OF BERN
+
+The Space Research and Planetology Division at the University of Bern
+(WP) is seeking a PhD student to join its Space Science Group. The goal
+of the proposed PhD project is to improve our group's atmosphere model
+by refining the description of the atmospheric contributions by solar
+wind ions and micro-meteorites. These model improvements are targeted
+at Mercury and the Moon, but can also be used to study atmospheres of
+other rocky objects within our Solar System, e.g., asteroids or mineral
+patches found on icy moons. A first use-case of the refined model will
+be the simulation of the mineral content in Mercury's atmosphere in
+preparation for the upcoming BepiColombo measurements. The PhD student
+will also be involved in the analysis and interpretation of data
+obtained by BepiColomo, once available, including comparing the
+measurement data with the obtained model results.
+
+Please see the following link for a more detailed job description and
+information about application procedure:
+
+https://tinyurl.com/mv9hrct8
+
+Space Research and Planetology Division at the University of Bern
+website:
+
+https://space.unibe.ch
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+POSTDOCTORAL POSITION AT THE SWEDISH INSTITUTE OF SPACE PHYSICS (IRF)
+
+The Swedish Institute of Space Physics (IRF) is looking for a post-doc
+to join the investigations of collisionless shocks. The work involves
+the analysis of magnetic, electric, and plasma measurements from the
+NASA Magnetospheric Multiscale (MMS) and ESA Solar Orbiter and Cluster
+missions. The position is available at the Uppsala office of IRF,
+located at the Angstrom Laboratory in Uppsala, Sweden, for 2 years.
+
+For more information: 
+
+https://www.irf.se/jobb
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] ROSES-23 AMENDMENT 15: DEPLOYED INSTRUMENTS (A3DI) FOR COMMUNITY
+COMMENT 
+
+ROSES-2023 Amendment 15 releases a DRAFT of F.12 Artemis III Deployed
+Instruments for community comment. Comments are due by May 17, 2023.
+
+A3DI will solicit both standalone instruments and instrument suites to
+conduct science investigations that can be uniquely accomplished by
+human deployment of payloads on the surface of the Moon during Artemis
+III. Deployed instruments consist of autonomous instrument packages
+installed on the lunar surface by astronauts during extravehicular
+activities. Proposed deployed instruments must address one or more of
+the scientific objectives outlined in the Artemis III Science
+Definition Team (SDT) Report.
+
+Proposals must include:
+ 
+- Expected science results
+- Instrument concept of operations, including why crew are needed for
+  deployment, how the instrument is to be deployed, any special
+  requirements for deployment, an estimate of the crew time needed for
+  deployment, and an overview of the real-time ground-based science
+  support needed to deploy the instrument during EVA
+- Resource requirements for the proposed investigation including cost,
+  mass, volume, power, telemetry, data transfer need, astronaut
+  interaction, etc.
+- Demonstration of adherence to basic safety requirements and human
+  factors design.
+
+[Edited for length]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] ROSES-23 AMENDMENT 16: F.22 RESEARCH INITIATION AWARD
+
+The new Research Initiation Awards Program (F.22) solicits proposals
+from non-R1 institutions to provide support for investigators and their
+students at institutions underrepresented in the SMD ecosystem. RIA has
+two principal programmatic objectives:
+ 
+1. Enable investigators at institutions underrepresented in the SMD
+   ecosystem to initiate activities that will provide the foundation
+   for a competitive, sustainable, and productive program of research.
+2. Enable undergraduate students affiliated with the proposing
+   investigator to perform cutting-edge research in SMD-relevant field.
+ 
+Optional Notices of Intent may be submitted until May 18, 2023.
+Proposals are due July 18, 2023.
+
+Learn more:
+
+https://go.nasa.gov/applyria4smd
+
+A webinar about this opportunity and F.23 Bridge Program Seed Funding
+will occur May 24 1-2:30 p.m. Eastern Time via Zoom. 
+
+The webinar will: (1) provide an overview of both programs (2) describe
+the proposal process and requirements, and (3) allow for webinar
+attendees to submit questions. 
+
+Those who register will receive a Zoom calendar invitation that will
+get updated with Connect information. 
+
+Questions regarding F.22 RIA, the webinar, or to request reasonable
+accommodations for the webinar, may be directed to Maggie Yancey at
+hq-smd-ria@mail.nasa.gov. 
+
+Webinar Registration:
+
+https://go.nasa.gov/404qx1j
+
+[Edited for length]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] ROSES-23 AMENDMENT 17: F.23 SMD BRIDGE PROGRAM SEED FUNDING
+
+The new SMD Bridge Seed Funding Program Element of ROSES-2023 (F.23)
+solicits proposals to provide support for faculty investigators and
+their students at under-resourced institutions (URIs) to carry out
+NASA-relevant research. Through the BPSF program, SMD aims to
+facilitate new and expand ongoing partnerships between students and
+faculty at URIs and researchers at NASA Centers that could be expected
+to grow into Bridge partnerships and become well-positioned to submit a
+proposal to the future SMD Bridge Program opportunity in ROSES-2023.
+
+Proposals may be submitted at any time but those submitted by June 30,
+2023, will be reviewed in Summer 2023, with anticipated award date in
+October 2023.
+
+Learn more:
+
+https://go.nasa.gov/applybpsf
+
+A webinar about this opportunity and F.22 Research Initiation Awards
+will occur May 24 1-2:30 p.m. Eastern Time via Zoom. 
+
+The webinar will: (1) provide an overview of both programs (2) describe
+the proposal process and requirements, and (3) allow for webinar
+attendees to submit questions. 
+
+Those who register will receive a Zoom calendar invitation that will
+get updated with Connect information. 
+
+Questions concerning F.23 BPSF may be directed to Patricia (Padi) Boyd
+at padi.boyd@nasa.gov.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+[NASA] MUREP CURRICULUM AWARDS OFFICE HOUR
+
+The NASA MUREP Curriculum Awards (MCA) team will hold a Virtual Office
+Hour from 2-3 pm ET, on April 24, 2023. The purpose is to address
+general proposal submission procedures, review the updated FAQ
+document, and answer as many general questions related to the NOFO as
+time allows. Details on how to register will be posted on the MCA
+solicitation landing page prior to the call.
+
+https://tinyurl.com/5xwy5vk9
+ 
+Note: This is not a time to address questions requiring specific
+answers relating directly to your institution or proposal submission.
+For personalized support, proposers should send their questions to
+mca@nasaprs.com or contact the Help Desk directly at
+NSPIRES-Help@nasaprs.com or call 202-479-9376. 
+ 
+Proposal deadline is 5:00pm ET on Monday, May 1, 2023.
+
+[Edited for length]
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+May 10-12, 2023
+AAE International Conference on Space Exploration
+https://academieairespace.com/space-exploration/programme/
+Turin, Italy
+
+May 18, 2023
+2023 Hybrid PlanetInsitu Workshop
+https://tinyurl.com/2krpptfr   
+Reno, NV
+
+June 28-30, 2023
+Near-Earth Object Workshop to Assess Reconnaissance for Planetary
+Defense (NEO WARP) 2
+https://forms.gle/SGjGeF54kzwjNBe29
+Laurel, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Can the Gravitational Effect of Planet X be Detected in Current-era
+Tracking of the Known Major and Minor Planets?
+Daniel C. H. Gomes et al. 2023 PSJ 4:66
+https://doi.org/10.3847/PSJ/acc7a2
+
+Establishing a Best Practice for SDTrimSP Simulations of Solar Wind
+Ion Sputtering
+Liam S. Morrissey et al. 2023 PSJ 4:67
+https://doi.org/10.3847/PSJ/acc587
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

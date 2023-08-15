@@ -1,0 +1,891 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 30 (July 16, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session 22335: Polarimetry as an Invaluable Tool to Study the
+   Solar System and Beyond (P033)
+2. AGU Session 23083: Radar Investigations of Planetary Surfaces and
+   Subsurfaces (P36)
+3. AGU Session 23453: The Future of Planetary Atmospheric, Surface, and
+   Interior Science Using Radio and Laser Links (P042)
+4. AGU Session 24220: Cryospheres of Terrestrial Planets (P009)
+5. AGU Session 24396: The Origin, Evolution and Fate of Comets - New
+   Information from Rosetta (P044)
+6. AGU Session 24909: Titan at the End of Cassini-Huygens (P046)
+7. AGU Session 25446: Enabling Breakthrough Science with High-Bandwidth
+   Satellite Communications (SH017)
+8. AGU Session 26201: Using Topography to Investigate the Evolution of
+   Solar System Bodies (P049)
+9. AGU Special Session (26632): Planetary Spatial Data Infrastructure
+  (P047)
+10. AGU Session 26885: Sympathy for the Data - Novel Approaches and
+    Advances in the Art of Data Visualization (P042)
+11. AGU Session 26997: Ionospheric Outflow From Earth and Other
+    Terrestrial Planets (P021)
+12. AGU Session 27083: Planetary Data System - New Developments in Data
+    Archiving Section/Focus Group - Earth and Space Science Informatics
+    (IN048)
+13. The Art of Planetary Science at DPS
+14. GSA Session 43095: Impact Cratering - From Fire to Ice-Cratering
+    across the Solar System (T205)
+15. GSA Session T206: Geomorphology and Landscape Evolution of Mars
+    (The G.K. Gilbert Award Session)
+16. Applications for GSA Eugene M. Shoemaker Impact Cratering Award
+17. [NASA] ROSES-17 Amendment 15: SSW NOIs, Not Step-1 Proposals
+18. [NASA] ROSES-17 Amendment 16: New Information and Due Date Delay
+    for C.22 OREx PSP
+19. Discovery "2018" Potential Concepts
+20. JWST Solar System Observation Planning Workshops
+21. 51st ESLAB: Extreme Habitable Worlds Abstract Deadline Extension
+    and Young Researcher Awards 
+22. Meteorites China
+23. [NASA] Planetary Geophysist/Geodesist Position
+24. Tenure-Track or Tenured Astronomer: Lowell Observatory
+25. Planetary Science Short Course 
+26. Postdoctoral Research Associate in Near Earth Objects at Las
+    Cumbres Observatory
+27. Planetary Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION 22335: POLARIMETRY AS AN INVALUABLE TOOL TO STUDY THE SOLAR
+SYSTEM AND BEYOND (P033)
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session22335
+
+We invite you to submit an abstract (deadline August 2, 2017) to our
+session at the AGU Fall Meeting in New Orleans.
+
+Polarimetry is a powerful observing tool and modeling technique,
+providing information about astronomical objects. Applications include
+characterization of solar system objects (Sun, Earth, planetary
+atmospheres, aurorae, comets, asteroids, planetary satellites/ring
+systems, dust, etc.) to the detection of exoplanets and identification
+of biological markers in search of habitability. This session is open
+to papers about observations of solar system bodies, theoretical or
+experimental investigations, instrumental developments ground-based
+facilities or onboard future space missions.
+
+The session is cross-listed with A (Atmospheric Sciences), EP (Earth
+and Planetary Surfaces Processes), and SH-SPA (Solar and Heliospheric
+Physics).
+
+Conveners:
+Maria Gritsevich (University of Helsinki), Ludmilla Kolokolova
+(University of Maryland), Herve Lamy (Royal Belgian Institute for Space
+Aeronomy) Anny-Chantal Levasseur-Regourd (LATMOS Laboratoire
+Atmospheres, Milieux) Padma A Yanamandra-Fisher (Space Science
+Institute)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION 23083: RADAR INVESTIGATIONS OF PLANETARY SURFACES AND
+SUBSURFACES (P36)
+ 
+Proposed and existing radar instruments are enabling an unprecedented
+range of radio geophysical observations of the surfaces and subsurfaces
+of solar system bodies. This has spurred the development and
+application of new instrumentation, processing, modeling, analysis, and
+interpretation approaches to planetary radar science and engineering.
+We invite abstracts on any topic involving the use of radar data to
+understand planetary bodies. These may describe (but are not limited
+to) new results from existing radar observations, the development and
+application of new observation or data processing techniques, numerical
+modeling of existing or future observations, and/or the analysis of
+airborne or orbital radar data from terrestrial analog studies for
+solar system observation.
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session23083
+ 
+For abstract submission policies see:
+ 
+https://fallmeeting.agu.org/2017/abstract-submissions/
+ 
+Abstract deadline: August 2, 2017, 23:59ET/3:59+1 GMT
+ 
+Conveners:
+Dustin Schroeder (Jet Propulsion Laboratory)
+Wes Patterson (Johns Hopkins University Applied Physics Laboratory)
+Lynn Carter (Goddard Space Flight Center)
+Cyril Grima (University of Texas at Austin)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION 23453: THE FUTURE OF PLANETARY ATMOSPHERIC, SURFACE, AND
+INTERIOR SCIENCE USING RADIO AND LASER LINKS (P042)
+
+Radio Science techniques have advanced solar system exploration for
+over five decades. In this session, ongoing and planned innovations
+that will significantly enhance the field will be presented. Session
+topics include planetary atmospheric, surface, and interior
+investigations that contribute to expanding the frontiers of solar
+system exploration in diverse areas such as determining the thickness
+of the ice sheets of ocean worlds, constraining the interior structures
+of the planets and small bodies, monitoring of planetary atmospheric
+dynamics and improvement of climate models, studying the scattering and
+other properties of planetary surfaces, and research in fundamental
+physics and solar system dynamics, among others. Technology topics
+include the design of small spacecraft networks and constellations,
+advances in flight and ground instrumentation, advancement in space
+clock technologies, novel communications architectures including
+optical links, and advances in radio and laser technologies, and new
+techniques and instrumentation for entry probe radio science.
+
+Conveners: David H Atkinson (JPL/NASA/Caltech), Sami Asmar (NASA Jet
+Propulsion Laboratory), Luciano Iess (Univ. La Sapienza, Roma)
+and Erwan Mazarico (NASA Goddard Space Flight Center)
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session23453
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION 24220: CRYOSPHERES OF TERRESTRIAL PLANETS (P009)
+
+As the AGU abstract submission deadline draws closer, please consider
+submitting an abstract to session P009, "Cryospheres of terrestrial
+planets." We aim to bring together terrestrial geologists with
+planetary scientists in a multi-disciplinary session on icy processes,
+with a focus on Earth, Mars, and Ceres. 
+
+Several bodies in the Solar System support widespread and long-lived
+cryospheres, including the Earth, Mars, and Ceres. Processes on these
+bodies are often similar, allowing for comparative planetology from
+landform observations. However, each body has processes unique to
+itself, such as liquid water interactions on Earth, carbon dioxide ice
+on Mars, and cryovolcanism on Ceres. We invite abstracts on any topic
+involving observations, modeling or analog fieldwork of the cryospheric
+processes of these bodies and how they change through time. Abstracts
+presenting new results from ongoing or recent investigations are
+especially encouraged.
+
+Abstracts may be submitted here:
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session24220
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION 24396: THE ORIGIN, EVOLUTION AND FATE OF COMETS - NEW
+INFORMATION FROM ROSETTA (P044)
+
+Comets are among the primitive building blocks of the planets, but as
+they enter into the inner Solar System, they become dynamical bodies,
+almost transient in nature. Some comets have broken up completely
+(S/L-9 for example), while others have given up a little of themselves.
+The recent and up-close study of 67/P Churyumov-Gerassimenko during
+its 2015 perihelion passage has revealed in close detail the types of
+changes comets undergo as they are heated by the sun.
+
+This session will cover the dynamical nature of the nucleus and coma of
+67/P as seen from Rosetta and ground-based observations. The session
+will also include comparisons between the results from Rosetta and
+other missions on how comets evolve through time. Broader topics such
+as the chemistry of comets and what that reveals about their origin and
+diversity are also welcome.
+
+Convenors: Bonnie J Buratti; (JPL); Mathieu Choukroun (JPL); and Matt
+Taylor (ESA) 
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session24396
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION 24909: TITAN AT THE END OF CASSINI-HUYGENS (P046)
+
+Abstract deadline: August 2, 2017
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session24909
+
+We invite you to submit your abstract to our session to be held at the
+Fall 2017 AGU Meeting, described below:
+
+During the 13 years of the Cassini-Huygens mission, the two spacecraft
+have returned a wealth of scientific data that have revolutionized our
+understanding of Saturn's largest moon, Titan. During 127 targeted
+encounters, and numerous more distant flybys, the 18 instruments have
+revealed Titan as a complex, Earth-like world, with arenas of lakes and
+seas, vast equatorial dune fields, river channels, and meteorology with
+huge rainstorms. More recently, we have learned that Titan has an
+interior water ocean that may far eclipse the volume of water in the
+Earth's oceans. In parallel with the mission results, new numerical
+models of chemistry and climate, laboratory measurements and
+simulations, have greatly extended our understanding of Titan's origin,
+evolution, and present day processes. This session welcomes topical new
+research on Titan, from Cassini-Huygens and beyond to include
+laboratory work, modeling and observations of all types, showing our
+revised understanding of this complex two-ocean world.
+
+Conveners: Conor A Nixon (NASA Goddard Space Flight Center), Joseph H
+Westlake (Johns Hopkins University Applied Physics Laboratory),
+Alexander Hayes (Cornell University), and Christophe Sotin (NASA Jet
+Propulsion Laboratory, California Institute of Technology)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION 25446: ENABLING BREAKTHROUGH SCIENCE WITH HIGH-BANDWIDTH
+SATELLITE COMMUNICATIONS (SH017)
+
+On behalf of all the co-conveners, I would like to draw your attention
+to a session at the upcoming Fall American Geophysical Union (AGU)
+meeting entitled "Enabling breakthrough science with high-bandwidth
+satellite communications." The goal of the session is explore the
+various methods by which the next-generation of Earth and planetary
+science can be improved through substantially higher intersatellite or
+downlink data rates. The session solicits abstracts from both industry
+and academia on all aspects related to the topic, to include the new
+science that could be achieved to the instrumentation and
+infrastructure required to make it possible. We hope that you will
+consider submitting an abstract to this session, and help contribute to
+this exciting and promising new research area.
+ 
+As a reminder, this year's Fall AGU meeting will take place in New
+Orleans from December 11-15, 2017. The abstract submission deadline is
+Wednesday, 2 August 23:59 EDT.
+ 
+To view more details regarding the session, and to submit an abstract,
+please go to:
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session25446
+
+You are also welcome to contact any of the session conveners below with
+any questions.
+ 
+Best Regards,
+ 
+Amir Caspi, Southwest Research Institute
+Brian C. Gunter, Georgia Institute of Technology
+Mark Storm, Fibertek Inc.
+Harlan E. Spence, University of New Hampshire 
+ 
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION 26201: USING TOPOGRAPHY TO INVESTIGATE THE EVOLUTION OF
+SOLAR SYSTEM BODIES (P049)
+
+Spacecraft data have enabled the surface topography of many solar
+system bodies to be determined. These data provide insight into
+near-surface processes and properties that exist over the visible
+history of a body, on global and local scales. We invite abstracts on
+any topic in which topography plays a role. These may describe
+theoretical investigations, laboratory studies or data analysis of any
+body in the solar system and can include (but are not limited to):
+topographic measurements that are indicative of the types of surface
+terrain or environments present; processes that create or erase/erode
+surface topography at any scale; and subsurface processes that are
+expressed by surface topography.
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26201
+
+For abstract submission policies see:
+
+https://fallmeeting.agu.org/2017/abstract-submissions/
+
+Abstract deadline: August 2, 2017, 23:59ET/3:59+1 GMT
+
+Conveners: 
+Wes Patterson (Johns Hopkins University Applied Physics Laboratory) 
+Ross Beyer (SETI/NASA Ames Research Center) 
+Erwan Mazarico (Goddard Space Flight Center)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SPECIAL SESSION (26632): PLANETARY SPATIAL DATA INFRASTRUCTURE
+(P047)
+
+11-15 December 2017
+New Orleans, LA
+
+Abstract submission is now open for a special session on Planetary
+Spatial Data Infrastructure (PSDI) at:
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26632 
+
+Spatial Data Infrastructures (SDIs) support data analysis and research
+using in situ and remotely sensed spatial data. The concept of an
+infrastructure is to enable users to (1) efficiently discover data, (2)
+experience improved data integration and usage and (3) engage in
+collaborative research through integrated research environments. SDIs
+have been developed for a wide range of topics using a myriad of
+technologies.
+
+The special session is soliciting abstracts focusing on best practices
+for creating and managing spatial data infrastructure frameworks for
+processing, analyzing, visualizing, serving and sharing Planetary
+science spatial data.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION 26885: SYMPATHY FOR THE DATA - NOVEL APPROACHES AND
+ADVANCES IN THE ART OF DATA VISUALIZATION (P042)
+
+We invite the community to submit  abstracts to the AGU 2017 Fall
+Meeting session "Sympathy for the Data: Novel approaches and advances
+in the art of data visualization". We aim to bring together a diverse
+range of geoscientists to discuss best practices, different platforms,
+and emerging technologies being used and developed for data
+visualization. This year we are especially encouraging submissions
+related to virtual and augmented reality applications. The session is
+listed in the Education section (and so doesn't count towards the 1
+submitted, 1 invited abstract limit for the AGU Fall Meeting), and is
+cross-listed with Public Affairs. This session is also being considered
+for alternate presentation formats. Any questions can be addressed to
+Martin Pratt (martin@seismo.wustl.edu). We look forward to your
+contributions! 
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26885
+
+The AGU 2017 abstract submission deadline is 11:59 PM EDT on 2 August
+2017. 
+
+Many thanks for your consideration!
+
+Conveners: Martin Pratt, Victor Luo, Natalie Accardo, Hannah Rabinowitz
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION 26997: IONOSPHERIC OUTFLOW FROM EARTH AND OTHER TERRESTRIAL
+PLANETS (P021)
+
+We would like to invite you to submit to the AGU session Ionospheric
+Outflow From Earth and Other Terrestrial Planets (P021) at:
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26997
+
+On every terrestrial planet with an atmosphere, EUV radiation creates
+ions in the upper atmosphere that may flow upward. If the ions are
+energized enough, they can escape the gravitational potential.
+Depending on the presence and nature of the planetary magnetic field,
+there may be many different mechanisms causing ion upflow and outflow,
+like particle precipitation, ambipolar electric fields driving a polar
+or planetary wind, wave-particle interactions, direct solar
+wind-ionosphere interactions, ion pick-up, etc. These escaping ions
+contribute to the atmospheric erosion. Upflowing ions can be blocked by
+an induced magnetosphere or trapped inside an intrinsic magnetosphere.
+They may affect their plasma environment and even alter the dynamics of
+the magnetosphere. This session invites contributions concerning all
+the processes controlling ionospheric ion upflow and outflow on Earth,
+Venus, and Mars, and their possible implications. Submissions comparing
+the processes at different planets, similarities and differences, are
+also encouraged.
+
+Conveners: Lukas Maes, Herbert Gunell, Thomas E. Moore, Yaxue Dong
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+AGU SESSION 27083: PLANETARY DATA SYSTEM - NEW DEVELOPMENTS IN DATA
+ARCHIVING SECTION/FOCUS GROUP - EARTH AND SPACE SCIENCE INFORMATICS
+(IN048)
+
+Please consider submitting an abstract to the following session at the
+fall 2017 AGU Meeting on new developments in Planetary Data System data
+archiving (due August 2nd).
+
+The Planetary Data System (PDS) archives a diverse set of unique
+electronic data products from NASA planetary missions and NASA ROSES
+investigations. All PDS-curated products are peer-reviewed, documented,
+and available online. The PDS uses standards for describing and storing
+data that address the data structure and contents. The current
+formatting and archiving standard in the PDS is PDS4. PDS4 is designed
+to modernize the online data system and to improve the efficiency of
+data ingestion and delivery by supporting scalable data storage and
+delivery architectures needed to provide access to continually
+increasing data holdings. This special session focuses on new
+developments in PDS including: updates to the Information Model, PDS4
+concepts, data, bundle and collection design, product label
+development, policies, tools, metadata, and standards. This general
+session should be of high interest to those involved in missions and
+small data archiving products wishing to archive data within the NASA
+PDS.
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session27083
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+THE ART OF PLANETARY SCIENCE AT DPS
+ 
+Submissions are now open for The Art of Planetary Science (TAPS)
+exhibition at the American Astronomical Society's 2017 Division for
+Planetary Sciences Meeting, from October 16-19th in Provo, UT. All
+types and levels of artists and scientists are encouraged to submit. We
+accept prints, paintings, photography, digital works, sculpture, and
+other mediums. Scientists are especially encouraged to submit artwork
+created from research or spacecraft data, or containing scientific
+information or ideas. The exhibition will serve as a space to reflect
+on the beauty of our universe, and our role in discovery and
+exploration.
+ 
+TAPS is a science-art outreach effort founded in 2013 by graduate
+students at the University of Arizona's Lunar and Planetary Laboratory.
+Events are organized by volunteers across multiple institutions to
+engage the public in our work and celebrate the beauty of science.
+Information and photos can be found at the website below.
+ 
+Submission deadline: September 11, 2017
+
+Guidelines and submission form:
+
+http://www.lpl.arizona.edu/art
+
+Direct inquiries to: Jamie Molaro, art@lpl.arizona.edu
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+GSA SESSION 43095: IMPACT CRATERING - FROM FIRE TO ICE-CRATERING ACROSS
+THE SOLAR SYSTEM (T205)
+
+Geological Society of America Annual Meeting
+October 22-25, 2017
+Seattle, WA
+
+Conveners: Christian Koeberl, Jeffrey B. Plescia
+
+We invite submissions to this session, focuses on impact cratering
+processes and effects across the solar system. We solicit contributions
+regarding target effects, shock processes, geology, melt, airbursts,
+and current cratering-rates. Comparisons among different size and
+composition bodies are encouraged.
+
+Submit an abstract to this session:
+
+https://gsa.confex.com/gsa/2017AM/top/papers/index.cgi?sessionid=43095&
+username=297251&password=720695
+
+Abstracts deadline: 1 August, 11:59 p.m. PDT
+
+General meeting info:
+
+http://community.geosociety.org/gsa2017/home
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+GSA SESSION T206: GEOMORPHOLOGY AND LANDSCAPE EVOLUTION OF MARS (THE
+G.K. GILBERT AWARD SESSION)
+
+The G. K. Gilbert Award Session at the 2017 GSA Annual Meeting, to take
+place in Seattle, Washington from October 22-25, is titled
+"Geomorphology and Landscape Evolution of Mars." The 2017 G. K.
+Gilbert awardee is Dr. John A. Grant from the Smithsonian Institution's
+National Air and Space Museum in Washington, DC. This session will
+explore the formation and modification of landforms on Mars (e.g.,
+impact craters, fluvial features) that can be used as yardsticks to
+measure the landscape evolution of the Martian surface and constrain
+the climate history of the planet.
+
+Please submit your abstract to session T206 here:
+
+https://gsa.confex.com/gsa/2017AM/top/papers/index.cgi?sessionid=43202
+
+Abstracts are due August 1, 2017.
+
+If you have any questions please contact the session conveners Danielle
+Wyrick (dwyrick@swri.edu) or James Wray (jwray@gatech.edu).
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+APPLICATIONS FOR GSA EUGENE M. SHOEMAKER IMPACT CRATERING AWARD
+
+Applications for the GSA Planetary Geology Division's Eugene M.
+Shoemaker Impact Cratering Award are due August 25, 2017.
+
+The Eugene M. Shoemaker Impact Cratering Award is for undergraduate or
+graduate students, of any nationality, working in any country, in the
+disciplines of geology, geophysics, geochemistry, astronomy, or
+biology. The award, which will include $2500, is to be applied for the
+study of impact craters, either on Earth or on the other solid bodies
+in the solar system. Areas of study may include but shall not
+necessarily be limited to impact cratering processes; the bodies
+(asteroidal or cometary) that make the impacts; or the geological,
+chemical, or biological results of impact cratering. Details about the
+award as well as an application form for interested students can be
+found at
+
+http://www.lpi.usra.edu/science/kring/Awards/Shoemaker_Award/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] ROSES-17 AMENDMENT 15: SSW NOIS, NOT STEP-1 PROPOSALS
+
+ROSES-17 Amendment 15: Program element C.2 Solar System Workings no
+longer uses a two-step proposal submission process common in Appendix
+C.
+
+The Solar System Workings (SSW) program element supports research into
+atmospheric, climatological, dynamical, geologic, geophysical, and
+geochemical processes occurring on planetary bodies, satellites, and
+other minor bodies (including rings) in the Solar System. This call
+seeks to address the physical and chemical processes that affect the
+surfaces, interiors, atmospheres, exospheres, and magnetospheres of
+planetary bodies. A wide range of investigations will be covered,
+including theoretical studies, analytical and numerical modeling,
+sample-based studies of extraterrestrial materials, field work,
+laboratory studies, and data synthesis relevant to the physical and
+chemical processes affecting planetary systems.
+
+This program element no longer uses the two-step proposal submission
+process common in Appendix C. Instead, a Notice of Intent (NOI) is
+requested by November 16, 2017. Proposals are now due February 1, 2018.
+The list of Data Analysis Programs (DAPs) following the fourth
+paragraph in Section 2.1, Exclusions, was deleted to remove the
+potential implication that this list was exhaustive or completely
+described what type of proposals each DAP solicited.
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/
+
+Questions: Jennifer Heldmann, hq-ssw@mail.nasa.gov
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] ROSES-17 AMENDMENT 16: NEW INFORMATION AND DUE DATE DELAY FOR
+C.22 OREX PSP
+
+ROSES-17 Amendment 16 announces updates to the Proposal Information
+Package and Questions and Answers and a delay of due date for C.22
+OSIRIS REx Participating Scientists Program.
+
+By the end of the day on July 11, 2017, a change will be made to the
+Proposal Information Package and two additions will be made to the
+Questions and Answers, both of which can be found under "Other
+documents" on the NSPIRES page for this program element. To give time
+for proposers to make any modifications, if needed, the Step-2 proposal
+due date has been delayed to July 25, 2017.
+
+On or about July 11, 2017, this Amendment to the NASA Research
+Announcement "Research Opportunities in Space and Earth Sciences
+(ROSES) 2017" (NNH17ZDA001N) will be posted on the NASA research
+opportunity homepage at:
+
+http://nspires.nasaprs.com/
+
+and will appear on the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/
+
+Questions concerning this program element may be directed to: Jeffrey
+Grossman and/or Christina Richey at hq-orexpsp@mail.nasa.gov.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+DISCOVERY "2018" POTENTIAL CONCEPTS
+
+The Jet Propulsion Laboratory invites principal investigator candidates
+for the next Discovery opportunity (AO expected in fall 2018),
+including PIs from NASA centers, to explore possibilities for
+collaboration with JPL. 
+
+Please describe your interest to Dr. Christophe Sotin, Chief Scientist,
+JPL Solar System Exploration Directorate,
+Christophe.Sotin@jpl.nasa.gov, no later than September 10, 2017.
+
+    
+    
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+JWST SOLAR SYSTEM OBSERVATION PLANNING WORKSHOPS
+ 
+Two 2.5 day workshops will be held this Fall for those interested in
+proposing solar system observations with the James Webb Space Telescope
+(JWST). The first (Nov. 13-15, 2017) will be at the Space Telescope
+Science Institute (STScI), in Baltimore Maryland. The second (Dec.
+13-15, 2017) will be held at the European Space Research Technology
+Center (ESTEC), in Noordwijk, the Netherlands.
+
+Each workshop will include a mixture of presentations about the promise
+of JWST for solar system science, specifics on observer planning tools
+and observatory capabilities, and hands-on training and Q&A with the
+planning tools. Observations of solar system targets approved for
+guaranteed-time observers (GTOs) and through the Early Release Science
+(ERS) program will be summarized. The workshop is timed to support JWST
+cycle-1 open time proposals, which are expected to be due in February,
+2018.
+
+To express interest in either or both of these workshops and receive
+future emails, please send a blank email to the following addresses:
+
+STScI workshop: 
+JWSTSS-ST-Workshop@maillist.stsci.edu
+
+ESTEC Workshop:
+JWSTSS-ESTEC-Workshop@maillist.stsci.edu
+
+As further details become available, go to:
+
+STScI workshop:
+
+http://tinyurl.com/JWST-SS-Workshop
+
+ESTEC Workshop:
+
+https://www.cosmos.esa.int/web/jwst-ssws-2017
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+51ST ESLAB: EXTREME HABITABLE WORLDS ABSTRACT DEADLINE EXTENSION AND
+YOUNG RESEARCHER AWARDS
+
+The abstract deadline for the 51st ESLAB Symposium: 'Extreme Habitable
+Worlds' is extended to allow additional time for abstract preparation.
+The revised deadline is Monday 24 July 2017.
+
+Submissions that adhere to the abstract template and guidelines will be
+admitted for review by the Science Organizing Committee. To submit an
+abstract via the online system please visit the Symposium abstract
+submission page:
+
+http://esaconferencebureau.com/2017-events/eslab2017/abstract-
+submission
+
+We are pleased to also announce that a number of Young Researcher
+Awards will be funded by the 51st ESLAB Symposium, COSPAR & ILEWG.
+These awards, presented at the Symposium, will recognize outstanding
+young researchers and will include grants of EUR 200. Winners will be
+announced after abstract acceptance by the end of September 2017.
+Please see visit the following page for details on eligibility and
+instructions on how to apply:
+
+http://esaconferencebureau.com/2017-events/eslab2017/young-researcher-
+awards
+
+We look forward to your participation and to welcoming you at ESTEC.
+Should you have any questions, please do not hesitate to contact the
+ESA Conference Bureau.
+
+ATPI Corporate Events - ESA Conference Bureau 
++31 (0)71 565 3766
+esaconferencebureau@atpi.com
+
+http://www.esaconferencebureau.com/eslab2017
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+METEORITES CHINA
+
+September 15-17, 2017
+Duke Kunshan University,
+Kunshan, Jiangsu Province, China
+
+An international conference and exhibition on the scientific and
+cultural significance of meteorites. A unique opportunity to build on
+the positive foundation of informed public interest by bringing
+together researchers, students, collectors and the public from across
+China to learn from one another and to foster alliances towards
+furthering meteoritics research, education, recovery and curation.
+
+http://people.duke.edu/~ng46/Meteorites-China/
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+[NASA] PLANETARY GEOPHYSIST/GEODESIST POSITION
+ 
+Applications are invited for a position at NASA's Goddard Space Flight
+Center in the Planetary Geology, Geophysics and Geochemistry
+Laboratory. We are especially interested in someone with demonstrated
+capability in using radio signals for precision orbit determination and
+planetary gravity field determination, specifically with expertise in
+measurement modeling and the development of innovative inversion
+techniques. Candidates must have experience in spacecraft instrument
+modeling, data reduction, and analysis. Demonstrated expertise in
+applying these to develop value-added products (e.g., crustal
+thickness, crustal density, internal structure, and localized gravity
+representations) is required. Previous experience on recent lunar
+and/or planetary mission science teams (e.g., GRAIL, MESSENGER, MRO)
+and experience with analysis of recent planetary spacecraft mission
+data for gravitational field determination are required. The incumbent
+is expected to participate in the development of new flight mission
+concepts and mission proposals that improve knowledge of planetary
+topography and gravity fields.
+ 
+To view the full vacancy announcement, which contains further
+information, including how to apply, go to: 
+
+http://www.usajobs.gov/GetJob/ViewDetails/473260000. 
+
+For information about the research program, please contact:
+
+Lori Glaze
+Chief, Planetary Geology, Geophysics, and Geochemistry Lab 
+301-614-6466
+Lori.S.Glaze@nasa.gov
+ 
+U.S. citizenship required. NASA, GSFC is an Equal Opportunity Employer.
+
+
+24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24
+
+TENURE-TRACK OR TENURED ASTRONOMER: LOWELL OBSERVATORY
+ 
+Deadline to Apply for Job: August 31, 2017
+
+Lowell Observatory invites applications for one or more tenure-track or
+tenured research positions in astronomy or planetary science. We invite
+applicants at any career level who can build on current observatory
+strengths or open new areas for Lowell. 
+
+Requirements include:
+
+A Ph.D. in astronomy, planetary science, or a related field
+An outstanding record of research
+Ongoing external research funding and potential for continued funding
+success in the future.
+
+The mission of Lowell Observatory is to pursue the study of astronomy,
+especially the study of our solar system and its evolution; to conduct
+pure research in astronomical phenomena; and to maintain quality public
+education and outreach programs to bring the results of astronomical
+research to the general public. Candidates should describe why they are
+interested in this position and how they would contribute to Lowell's
+scientific mission. Equal consideration will be given to all areas of
+observational and theoretical research. 
+
+For a complete job description and instructions on how to apply, please
+visit:
+
+https://lowell.edu/about/employment/
+
+
+25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25
+
+PLANETARY SCIENCE SHORT COURSE 
+
+August 28 - September 3 2017
+
+The Centre for Planetary Science and Exploration
+
+http://cpsx.uwo.ca
+
+and the NSERC CREATE program "Technologies and Techniques for Earth and
+Space Exploration" 
+
+http://create.uwo.ca
+
+are pleased to announce the 7th annual Planetary Science Short Course,
+which will run Aug. 28 to Sept. 3 2017 in London, ON, Canada. 
+
+Topics to be covered include origin of the solar system and planet
+formation; planetary interiors; planetary surfaces; astromaterials,
+planetary atmospheres; astrobiology, and exoplanets. Details on the
+course can be found here:
+
+http://www.cpsx.uwo.ca/training/graduate_student/courses/
+planetary_science_short_course.html. 
+
+This course is suitable for graduate students, post-doctoral fellows
+and professionals. 
+
+Questions? Please contact cpsx@uwo.ca.
+
+
+26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26
+
+POSTDOCTORAL RESEARCH ASSOCIATE IN NEAR EARTH OBJECTS AT LAS CUMBRES
+OBSERVATORY
+
+Las Cumbres Observatory (LCO) and University of California, Santa
+Barbara (UCSB) seek a postdoctoral scientist to work on the follow up
+of Near Earth Objects (NEOs) and the creation of a citizen science
+program. The ideal candidate should have demonstrated expertise in
+observations of Solar System objects and experience with software
+development, although candidates from other astrophysical fields with a
+software background are also encouraged.
+
+This position is funded by a grant from NASA to: 1) develop and exploit
+the LCO global network of robotic telescopes for NEO follow-up; 2) lead
+photometric and spectroscopic characterization of NEOs; and 3) assist
+in the creation of a web-based citizen science environment for Solar
+System investigations by the general public.
+
+LCO currently operates ten 1-meter and two 2-meter robotic telescopes,
+which will be used in this program. The 2-meter Faulkes Telescopes in
+Haleakala, Hawaii, and Siding Spring, Australia feature both imagers
+and robotic FLOYDS low-resolution spectrographs. The 1-meter telescopes
+have imagers and are located at McDonald Observatory in Texas, CTIO in
+Chile, Siding Spring in Australia, and SAAO in South Africa.
+
+Applicants should submit a CV, cover letter, and research statement,
+and should arrange to have three letters of reference sent to
+lcojobs@lco.global. Applications complete by August 4, 2017 will
+receive full consideration and the preferred start date is October 1,
+2017. A Ph.D. in astronomy, physics, or a related discipline is
+required. The term of this position is 1 year, with a possibility of
+extension pending a successful funding outcome.
+
+Applications should be sent to Sarah Rettinger (lcojobs@lco.global);
+inquiries can be sent to Dr. Tim Lister (tlister@lco.global)
+
+
+27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 26-March 2, 2018
+IX Taller de Ciencias Planetarias
+http://tcp2018.fcaglp.unlp.edu.ar
+La Plata, Argentina
+
+March 5-9, 2018
+Diversis Mundi (OPS-III): The Solar System in an Exoplanetary Context
+http://www.eso.org/sci/meetings/2018/ops2018.html
+Santiago, Chile
+
+June 18-22, 2018
+Amazonian Climate Workshop
+https://www.hou.usra.edu/meetings/amazonian2018/
+Lakewood, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,212 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 47 (November 13, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2016 Pierazzo International Student Travel Award
+2. Post-Doctoral Research Associate Position in Comet Observations at 
+   the Open University, UK
+3. New Cosmic Dust Data Set: Wind Spacecraft Dust Impact Database
+4. Planning your Solar System Observations with JWST
+5. Small Bodies Assessment Group Early-Career Travel Support
+6. Mars Exploration Science Monthly Newsletter for November 2016
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2016 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+Application deadline: 9 PM PST, November 30, 2016
+
+Awards will be announced on or before December 9, 2016
+
+This award is established by the Planetary Science Institute in memory 
+of Senior Scientist Betty Pierazzo to support and encourage graduate 
+students to build international collaborations and relationships in 
+planetary science. Two awards will be made each year, contingent upon 
+there being meritorious applications. One will be awarded to a graduate 
+student working on his or her Ph.D. at an institution within the U.S. 
+This is to support travel to a planetary science related meeting 
+(conferences and workshops) outside of the U.S. The second award will 
+be to a graduate student working on his or her Ph.D. at an institution 
+outside of the U.S. This is to support travel to a planetary science 
+related meeting within the U.S. These include general meetings that 
+have planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POST-DOCTORAL RESEARCH ASSOCIATE POSITION IN COMET OBSERVATIONS AT THE 
+OPEN UNIVERSITY, UK
+
+This part-ESA funded position will combine preparation of observational 
+data on comet 67P/Churyumov-Gerasimenko for archiving at the ESA 
+Planetary Science Archive, with research on cometary science. The 
+research direction is flexible within the broad topic of comet science, 
+and will depend on the interests of the successful candidate, but is 
+expected to make use of (and/or build on) the same observations of 67P. 
+Possible topics include the large-scale structure of the comet's coma 
+and tails, its composition, and/or comparison with other comets - in 
+all cases, comparing between remote observation and Rosetta 
+instrument results. The research could also involve further 
+observations (based on new proposals) or work with Rosetta instrument 
+teams. There will be a roughly 50-50 split between research and 
+functional duties. The duties encompass collation and documentation 
+of data from various observatories, working with observers to ensure
+that data is properly reduced, and interaction with the ESA PSA to 
+have it archived in a useful way alongside spacecraft data. 
+
+Closing date for applications is 29 Nov 2016.
+
+For further details see advert:
+
+http://www.open.ac.uk/about/employment/vacancies/post-doctoral
+-research-associate-12987
+
+or contact Colin Snodgrass (colin.snodgrass@open.ac.uk)
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NEW COSMIC DUST DATA SET: WIND SPACECRAFT DUST IMPACT DATABASE
+
+This announces the public release of the Wind/WAVES dust impact 
+database on NASA's CDAWeb and the ftp/http directories at NASA's Space 
+Physics Data Facility (SPDF).
+
+It was recently discovered that the Wind/WAVES electric field 
+instrument has been detecting interplanetary and interstellar dust at 
+1 AU for over 20 years through hypervelocity impact ionization of dust 
+grains on the spacecraft surface.
+
+This nearly unexplored data set has the potential to enable new 
+advances in the study of cosmic dust in the heliosphere.
+
+The Wind Spacecraft Dust Impact Database has been created to make the 
+Wind dust data easily accessible to the heliophysics community. The 
+database contains over 107,000 dust detections, including information 
+about dust grain direction of motion. The data range from 1995-01-01 
+to 2016-01-01 and will be updated periodically.
+
+Data Access: 
+
+http://cdaweb.gsfc.nasa.gov
+
+Description: 
+
+http://cdaweb.gsfc.nasa.gov/misc/NotesW.html#WI_L3-DUSTIMPACT_WAVES
+
+FTP Data: 
+
+ftp://cdaweb.gsfc.nasa.gov/pub/data/wind/waves/dust_impact_l3/
+
+Contact for Questions:
+
+David.Malaspina@colorado.edu
+lynn.b.wilson@nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANNING YOUR SOLAR SYSTEM OBSERVATIONS WITH JWST
+ 
+At the 2016 DPS meeting in Pasadena, Drs. Stefanie Milam (GSFC) and  
+John Stansberry (STScI) presented a "JWST Early Release Science (ERS) 
+and Proposal Workshop" as well as a JWST Townhall event. A webcast of 
+the workshop, as well as all of the presentations, are now available 
+on line at: 
+
+https://webcast.stsci.edu/webcast/detail.xhtml?talkid=5248&parent=1  
+
+In addition to details about the specific ERS call, the packages 
+include detailed description of JWST's moving target capability as well 
+as expected instrumental performances. If you have any questions on any 
+of the presented materials, the ERS program, or JWST observations, 
+please feel free to contact Stefanie Milam (Stefanie.n.milam@nasa.gov).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SMALL BODIES ASSESSMENT GROUP EARLY-CAREER TRAVEL SUPPORT
+
+We are planning to offer limited U.S. travel support for early career 
+scientists to participate in the SBAG 16 meeting, to be held at the 
+University of Arizona on January 11-13, 2017. Interested undergraduate 
+students, graduate students, postdocs, and other early career 
+scientists (within 3 years of PhD/MS/BS) should submit a letter 
+and a CV to SBAG Early Career Secretary Angela Stickle 
+(angela.stickle@jhuapl.edu) by COB (5 pm Eastern time) November 25, 
+2016. Included in the letter, which must not exceed 2 pages, should be 
+a demonstration of financial need and an explanation of how the 
+applicant's work relates to the purposes of the SBAG. The letter and 
+CV should be combined into a single PDF document for submission by 
+e-mail attachment. Recipients of travel support will be expected to 
+give a short presentation of their SBAG-relevant work at the SBAG 16 
+meeting.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR NOVEMBER 2016
+
+Please find the November 2016 edition of the Mars Exploration Science 
+Monthly Newsletter at:
+
+http://mepag.jpl.nasa.gov
+
+This contains a new announcement and recently released information for 
+upcoming calendar events. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 8-10, 2017
+7th International Workshop on Occultation and Eclipse
+http://iota-me.com/oe.php
+Hafshejan & Shahr-e Kord, Iran
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

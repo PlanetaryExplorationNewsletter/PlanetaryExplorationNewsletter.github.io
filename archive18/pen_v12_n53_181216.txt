@@ -1,0 +1,571 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 53 (December 16, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Karen R. Stockstill-Cahill, Mark V. Sykes  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Position Opening University of Hawaii at Hilo
+2. Volcanism in the Solar System - Notice of Special Issue in the
+   Journal of Volcanology and Geothermal Research
+3. Postdoc: Southwest Research Institute
+4. OPAG Findings
+5. JHU/APL Job Opening
+6. New Horizons Ultima Thule Public Engagement Project: Beam Your
+   Greeting to Ultima Thule on Flyby Day 
+7. Call for Abstracts: Quaternary Mars Session at the International
+   Union for Quaternary Research International Congress
+8. Training Opportunities for Students at ESAC
+9. Pre-registration for Exoclimes V Now Open
+10. Ph.D. and M.S. Opportunities in Planetary Science at the University
+    of Central Florida
+11. [NASA] Draft AO for Discovery Released
+12. Research Position in Data Science and Visualization for Earth and
+    Planetary Sciences at Rice University
+13. OPAG Meeting
+14. Postdoctoral Researcher or Ph.D. Student Opportunity - Lunar
+    Geochronology and Noble Gas Isotope Geochemistry
+15. International Venus Conference Announcement
+16. [NASA] ROSES-18 Amendment 43: New Opportunity in C.29 Astrodynamics
+    in Support of Icy Worlds Missions
+17. Whole Heliosphere & Planetary Interactions
+18. JGR Special Collection
+19. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSITION OPENING UNIVERSITY OF HAWAII AT HILO
+
+University of Hawai`i - Hilo Position vacancy in the Dept of Physics
+and Astronomy for Instructor.
+
+Details can be found at
+
+https://www.governmentjobs.com/careers/hawaiiedu?keywords=astronomy
+
+and
+
+http://hilo.hawaii.edu/uhh/hr/vacancy/1138
+
+Mahalo,
+
+John Hamilton
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+VOLCANISM IN THE SOLAR SYSTEM - NOTICE OF SPECIAL ISSUE IN THE JOURNAL
+OF VOLCANOLOGY AND GEOTHERMAL RESEARCH
+
+https://www.journals.elsevier.com/journal-of-volcanology-and-geothermal
+-research/call-for-papers/volcanism-in-the-solar-system-notice-of-
+special-issue
+
+A special issue of the Journal of Volcanology and Geothermal Research
+welcomes papers to advance our understanding of the volcanism in the
+Solar System and highlight key topics of planetary volcanology. PhD
+students and their supervisors are particularly welcome. We also
+encourage young researchers, either independent or co-authored by
+experienced scientists coming from both established and emerging space
+powers, who study volcanism of planets and their satellites. We seek
+papers on all aspects of planetary volcanology, including cryovolcanism
+on smaller bodies of the solar system that have not received sufficient
+coverage in the literature of planetary volcanology. Interdisciplinary
+collaboration among authors of this special issue is encouraged. For
+more information about the available topics and how to collaborate with
+other authors, please contact Giovanni Leone at giovanni.leone@uda.cl
+Opening website for paper submission: January 1st, 2019 Deadline for
+submission: March 31st, 2020 Acceptance expected: December 31st, 2020
+Manuscripts and any supplementary material should be submitted through
+the Elsevier EVISE system at:
+
+https://www.evise.com/profile/#/VOLGEO/login
+
+The authors must select Article Type "VSI: GiovanniQuickSolar" to
+ensure the articles are correctly submitted to the special issue.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOC: SOUTHWEST RESEARCH INSTITUTE
+
+https://resapp.swri.org/ResApp/Job_Search_Results.aspx?DETAIL=15-01330
+ 
+Job code: 15-01330
+
+Join SwRI's Space Science and Engineering team by supporting the Lyman
+Alpha Mapping Project (LAMP) on the Lunar Reconnaissance Orbiter (LRO)
+mission as a postdoctoral planetary scientist. Our team's
+investigations include a variety of lunar science questions using
+far-UV albedo maps of the lunar surface. Topics of study include
+characterization of volatiles within permanently shaded regions at the
+lunar poles, mapping of surface water frost and hydrates, and
+identifying regional space weathering effects. The far-UV map and
+spectra analyses to be performed include map data product creation and
+comparisons with other LRO and lunar datasets for detailed surveys of
+regions of interest. Publish results in peer-reviewed journals and
+presentations at professional meetings. Lead and/or assist in new
+business proposals and teaching/mentoring experience through our
+UTSA-SwRI graduate program in Space Physics.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPAG FINDINGS
+
+The OPAG findings (Fall 2018) have been posted, see: 
+
+https://www.lpi.usra.edu/opag/meetings/archive/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JHU/APL JOB OPENING
+
+Postdoctoral Fellow - Magnetospheric Physics at Johns Hopkins
+University Applied Physics Laboratory
+
+The Space Physics Group (SRP) of the Johns Hopkins University Applied
+Physics Laboratory Space Exploration Sector is conducting a search for
+a Postdoctoral Fellow in the Particles & Planetary Section. The
+Particles & Planetary Section research aims to understand the dynamics
+of planetary magnetospheres through novel instrument development,
+advanced modeling, and innovative data analysis methods. To this end,
+the Section conducts cutting-edge research in magnetospheric physics,
+with particular expertise in the dynamics of charged particles and
+energetic neutrals. The Section members possess considerable experience
+in advanced data analytics, modeling, instrument development, systems
+engineering, and project management. The Section scientists play
+science leadership roles in several ongoing and future space missions,
+including MMS, Juno, Cassini, JUICE, Europa Clipper, and IMAP.
+
+The Postdoctoral Fellow will be involved in research of magnetospheric
+energetic particle dynamics using data primarily from the NASA
+Magnetospheric Multiscale (MMS) mission, presenting and publishing the
+research findings at international conferences and in the peer-reviewed
+journals, as well as participating and leading NASA and NSF grant
+proposals.
+
+For further details please contact Ian Cohen (Ian.Cohen@jhuapl.edu) or
+Barry Mauk (Barry.Mauk@jhuapl.edu). Interested applicants can submit
+their applications online at the following link:
+
+https://jhuapl.taleo.net/careersection/2/jobdetail.ftl?job=18704
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEW HORIZONS ULTIMA THULE PUBLIC ENGAGEMENT PROJECT: BEAM YOUR GREETING
+TO ULTIMA THULE ON FLYBY DAY 
+
+NASA's New Horizons spacecraft is poised to conduct the farthest
+planetary flyby ever - an encounter with the Kuiper Belt object 2014
+MU69, nicknamed "Ultima Thule" - on January 1, 2019. The project is
+involving the public by letting them send their names and messages to
+New Horizons as it speeds past Ultima four billion miles away. The
+messages will reach the spacecraft on flyby day. Submissions are being
+accepted (through December 21, 2018) at:
+
+http://pluto.jhuapl.edu/Send-Greetings/?fbclid=IwAR03sJ0ZAxL-
+OrAgmseWn9ZXMKW_22bkr3dU_EdUKZcR0VwP0J7wZ4EA8LY
+
+We encourage colleagues in the planetary science community to send
+messages themselves and to share this public engagement opportunity
+with their classes, colleagues, families, and social media circles.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR ABSTRACTS: QUATERNARY MARS SESSION AT THE INTERNATIONAL UNION
+FOR QUATERNARY RESEARCH INTERNATIONAL CONGRESS
+   
+July 25-31 2019, Dublin, Ireland
+ 
+Abstract deadline: 9th January 2019
+ 
+We are soliciting abstracts for a session at International Union for
+Quaternary Research (INQUA) 2019 focussed on the cross-fertilisation of
+ideas between Quaternary Research and Mars research. We are especially
+interested in contributions from authors working across planetary and
+terrestrial themes, and from those with insights gained from Quaternary
+research that have a bearing on the study of recent Mars.
+
+The main issues we hope to discuss include climate and environment
+changes on Earth and Mars, especially during what on Mars might be
+called the "very late Amazonian" period. All contributions that examine
+links between climate, orbit and geomorphology on Mars, are welcome, as
+well as related studies on astrobiology, habitability, future
+exploration and terrestrial analogue fieldwork.
+ 
+For more information: 
+
+http://www.inqua2019.org/
+
+For abstract submission: 
+
+http://www.inqua2019.org/call-for-abstracts/
+ 
+Session conveners: Matt Balme, Lauren McKeown, Colman Gallagher.
+(Contact matt.balme@open.ac.uk for more information)
+ 
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TRAINING OPPORTUNITIES FOR STUDENTS AT ESAC
+
+ESA announces the student traineeships for 2019 at the European Space
+Astronomy Centre (ESAC), Madrid. 21 traineeships are offered for 2019,
+including astrophysics, engineering and IT projects contributing to ESA
+missions such as Euclid, Gaia, INTEGRAL, JUICE, Rosetta, SOHO and
+XMM-Newton. The traineeships have a duration of three to six months and
+applicants should be in their final few years of an undergraduate
+degree or Master's degree. 
+
+All information can be found at: 
+
+https://www.cosmos.esa.int/web/esac-trainees/training-opportunities
+
+To see this year projects descriptions please go to: 
+
+https://www.cosmos.esa.int/web/esac-trainees/2019-projects
+
+The deadline is 28th December 2018. Students should apply and upload
+their CVs through our online application form.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PRE-REGISTRATION FOR EXOCLIMES V NOW OPEN
+
+Oxford, UK
+12-15 August 2019
+
+Participants will be selected on the basis of information provided
+during pre-registration. The pre-registration deadline is 31 January,
+2019.
+
+To pre-register, go to:
+
+http://exoclimes2019.org
+
+and follow the pre-registration links. Conference fees do not need to
+be paid as part of pre-registration, but anticipated fees are listed on
+the pre-registration page. Some financial aid will be available.
+
+An exciting list of keynote speakers has been lined up, and an outline
+programme is now available on the web site. We are looking forward to
+another stimulating and enjoyable Exoclimes.
+
+Ray Pierrehumbert,
+on behalf of the SOC
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PH.D. AND M.S. OPPORTUNITIES IN PLANETARY SCIENCE AT THE UNIVERSITY OF
+CENTRAL FLORIDA
+
+The UCF Planetary Sciences Group, with members in the Department of
+Physics and Florida Space Institute (now including Arecibo
+Observatory), has opportunities with the faculty below for highly
+motivated PhD and MS students in:
+
+- Exoplanet and brown-dwarf atmospheric modeling (Dr. Theodora
+  Karalidi)
+
+- Remote and lab studies of asteroidal and lunar formation and
+  evolution (Dr. Kerri Donaldson Hanna)
+
+- Space weathering lab experiments on rocky and icy bodies (inducing
+  spectral modifications and sputtering, Dr. Christopher Bennett)
+
+- Exoplanet detection and characterization (Dr. Joseph Harrington)
+
+- Physical and behavioral studies of comets (Dr. Yan Fernandez)
+
+- Regoliths, space weathering, and space resources (Dr. Dan Britt)
+
+In addition, the group has recently flown several cubesat experiments,
+hosts a SSERVI node, and is involved in OSIRIS-ReX and other missions.
+
+To learn more, see:
+
+https://planets.ucf.edu/research/
+
+or contact the relevant group member.
+
+Apply by January 15 (for funding priority) at:
+
+https://sciences.ucf.edu/physics/graduate/admissions/
+
+We are strongly committed to inclusion and diversity.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] DRAFT AO FOR DISCOVERY RELEASED
+ 
+NASA's Science Mission Directorate (SMD) has released a Draft 2019
+Announcement of Opportunity (AO) for Discovery Program mission
+investigations. The Discovery Program conducts Principal Investigator
+(PI)-led space science investigations in SMD's planetary programs under
+a not-to-exceed cost cap for the PI-Managed Mission Cost (PMMC). At
+the conclusion of Phase A concept studies, it is planned that no more
+than two Discovery investigations of sufficient merit will be
+down-selected to continue into subsequent mission phases. The text can
+be found on NSPIRES at:
+
+https://nspires.nasaprs.com
+
+and searching Open Solicitations for "Draft Discovery" or
+"NNH19ZDA009J". Proposers are encouraged to read the Draft Discovery AO
+and provide feedback for NASA's consideration as the AO is finalized. 
+All comments should be addressed to Dr. Curt Niebur, Discovery Program
+Lead Scientist (acting), Planetary Science Division, Science Mission
+Directorate, NASA, Washington, DC 20546; Email: curt.niebur@nasa.gov. 
+
+The comment period for the Draft Discovery AO ends on January 16, 2019.
+
+The final AO remains targeted for release in February 2019.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+RESEARCH POSITION IN DATA SCIENCE AND VISUALIZATION FOR EARTH AND
+PLANETARY SCIENCES AT RICE UNIVERSITY
+
+The Department of Earth, Environmental, and Planetary Sciences at Rice
+University seeks an experienced and innovative Data Scientist to build
+a new Data Science for the Earth initiative and enhance activities in
+the department's Visualization Laboratory. The candidate will be
+willing to cross disciplines and support the software and hardware
+needs of research in geophysics, climate science, remote sensing, and
+geochemistry provided domain knowledge from students and faculty. In
+addition to serving as research/visualization support, successful
+applicants pursue externally-funded research initiatives. Similarly,
+the candidate will be willing to actively learn new techniques that
+enhance departmental research. In particular, we view machine learning,
+advanced 3D visualization and mapping, Bayesian statistics, inverse
+modeling, and optimization as central to our department's current and
+future computational needs. This position will collaborate with Rice's
+GIS lab and Office of Information Technology to make use of Rice's
+existing geospatial and high performance computing infrastructure.
+
+Please see further information and apply here: 
+
+https://jobs.rice.edu/postings/17720
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+OPAG MEETING
+
+The next OPAG meeting will be held on February 5-6, 2019 at NASA
+Headquarters in Washington DC. Details of the meeting will be posted as
+they become available on the OPAG website:
+
+https://www.lpi.usra.edu/opag/meetings/upcoming/
+
+Early career participant support available for NASA OPAG meeting:
+
+NASA's Outer Planets Assessment Group will provide travel grants for a
+limited number of interested Early Career participants to attend the
+OPAG meeting February 5-6, 2019 in Washington DC. OPAG plays a key role
+in sculpting the planetary science community's input into NASA
+activities for outer planets science and exploration. Thus it is
+critical for Early Career scientists to attend these meetings both to
+learn how NASA and Planetary Science programs operate and to represent
+the community that will work on OPAG-relevant projects in the coming
+decade. Selected individuals will present a poster at the meeting on a
+topic of their choosing. Interested graduate students, postdocs, and
+other Early Career scientists (within 5 years of PhD/MS/BS) should
+submit a one page letter of interest and a CV to
+Morgan.L.Cable@jpl.nasa.gov by January 7, 2019. Recipients will be
+notified by January 11. For more information, email Morgan Cable at the
+address above.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+POSTDOCTORAL RESEARCHER OR PH.D. STUDENT OPPORTUNITY - LUNAR
+GEOCHRONOLOGY AND NOBLE GAS ISOTOPE GEOCHEMISTRY
+
+The Group 18 Laboratories, School of Earth and Space Exploration,
+Arizona State University seeks either a postdoctoral research associate
+or a new Ph.D. student to participate in NASA-supported, laser
+microprobe argon isotopic studies of lunar impact melt breccias. In
+addition to 40Ar/39Ar geochronology, this project features high
+spatial-resolution mapping of Ar diffusion gradients in plagioclase
+clasts in order to place constraints on the thermal evolution of the
+breccias. For more information, please contact Professor Kip Hodges
+(kvhodges@asu.edu).
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+INTERNATIONAL VENUS CONFERENCE ANNOUNCEMENT
+
+31 May - 3 June 2019
+Niseko, Hokkaido, Japan
+
+The Akatsuki team and community in Japan will be hosting the 2019 
+International Venus Conference a beautiful resort in Hokkaido (it 
+will not be skiing season though). The conference is supported by 
+the Fujihara Foundation of Science, so it is entitled "The 74th 
+Fujihara Seminar".
+
+The 2018 conference was postponed to 2019 due to the strong
+Earthquake that struck Hokkaido just days before the conference was
+meant to begin. If you were scheduled to attend that meeting, please
+update your bookmarks from 2018 to 2019 in all URL's and email
+addresses.
+
+This conference is intended to cover all areas of Venus science with
+special focus on new results obtained from Japan's Venus Climate
+Orbiter "Akatsuki". Results from previous missions, from ground-based
+observations, numerical computations, and theoretical works are all
+welcome.
+
+Abstract Submission and Registration is now open. The Earlybird 
+abstract deadline is Monday, 25 February (JST). For more information
+about the conference and updated registration and abstract submission 
+information, go to:
+
+https://www.cps-jp.org/~akatsuki/venus2019/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] ROSES-18 AMENDMENT 43: NEW OPPORTUNITY IN C.29 ASTRODYNAMICS IN
+SUPPORT OF ICY WORLDS MISSIONS
+
+The new program element C.29 Astrodynamics in Support of Icy Worlds
+Missions solicits the formulation, maturation, and validation of
+promising astrodynamics analysis tools. The development of these
+open-source codes has the potential to uncover new mission concepts,
+motivate entirely new classes of missions that may not have been
+previously considered, improve the efficiency of missions, and extend
+mission life. Science missions to icy moons orbiting the solar system's
+Giant Planets are of particular interest to NASA.
+
+Step-1 proposals are due January 18, 2019 and Step-2 proposals are due
+March 15, 2019.
+
+For more information go to:
+
+http://nspires.nasaprs.com/
+
+Questions concerning this program element may be directed to Ryan
+Stephan at Ryan.A.Stephan@nasa.gov.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+WHOLE HELIOSPHERE & PLANETARY INTERACTIONS
+
+It's solar minimum. In the tradition of Whole Sun Month (1996) and
+Whole Heliosphere Interval (2008), it's time for Whole Heliosphere &
+Planetary Interactions (2019) - WHPI!
+
+Goal? A coordinated observing and modeling effort to characterize the
+three-dimensional interconnected solar-heliospheric-planetary system.
+By focussing on specific solar rotations near solar minimum, structures
+and activity can be unambiguously traced throughout the heliosphere and
+into planetary space environments.
+
+When? Three target intervals:
+ Jul 2019 - Solar eclipse
+ Sep 2019 - Parker Solar Probe at perihelion
+ Dec 2019 - Parker Solar Probe Venus flyby
+
+Who? Everyone is welcome - it's a grassroots effort. Sign up - we will
+have telecons and workshops to coordinate analyses. 
+
+For further details see:
+
+https://whpi.hao.ucar.edu
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+JGR SPECIAL COLLECTION
+
+In honor of the 50th anniversary of the Apollo Program, a special
+collection of the Journal of Geophysical Research: Planets titled "50
+Years of Apollo Science" is open for submission until April 1st, 2018.
+
+50 years after the return of Apollo 11 and the deployment of the first
+lunar surface experiments package, we are still making new discoveries
+gleaned from Apollo samples, data from the lunar surface, and from
+observations made in lunar orbit. Manuscripts are solicited that
+present analysis of data from Apollo, especially in light of recent
+observations of the Moon. We also encourage submissions that take a
+broader look at Apollo rather than with a focus on a single mission or
+sample.
+
+https://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/21699100/
+features/call-for-papers
+
+Manuscripts should be submitted through the GEMS website. For
+additional information please contact: jgr-planets@agu.org.
+
+Please consider submitting to this special collection to help celebrate
+the Apollo 50th anniversary
+
+Thank you,
+
+Noah Petro, Jacob Bleacher, Sarah Valencia, Ryan Watkins, and Amy Fagan
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 12-15, 2020
+Sixth International Planetary Dunes Workshop
+https://www.hou.usra.edu/meetings/dunes2020/
+Alamosa, CO
+
+May 31-June 3, 2019
+International Venus Conference
+https://www.cps-jp.org/~akatsuki/venus2019
+Niseko, Japan
+
+July 25-31, 2019
+International Union for Quaternary Science Congress
+http://www.inqua2019.org
+Dublin, Ireland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu 
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

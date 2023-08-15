@@ -1,0 +1,417 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 34 (August 23, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. PhD Position in Planetary Science – VU University Amsterdam
+2. Lowell Observatory: Tenure-Track or Tenured Astronomer
+3. PhD Position on UV Effects on Carbon in Meteorites
+4. Mars Critical Data Products Request for Proposal 
+5. NASA Postdoctoral Fellowships
+6. 41st Scientific Assembly of the Committee on Space Research 
+   (COSPAR) and Associated Events
+7. [NASA] PDS – Release of Cassini/Radio and Plasma Wave Science Data
+8. NASA OPAG Meeting 
+9. [NASA] New volunteer Reviewer Forms Posted
+10. [NASA] Undergraduate Student Instrument Solicitation Released
+11. Aeolian Research Special Issue for The Fourth International 
+    Planetary Dunes Workshop
+12. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PHD POSITION IN PLANETARY SCIENCE - VU UNIVERSITY AMSTERDAM
+
+The Department of Earth and Life Sciences at VU University Amsterdam, 
+is offering a fully funded four-year PhD studentship focused  on 
+providing new constraints on the structure and evolution of the crust 
+of Mars. The studentship is fully funded by a NWO (Netherlands 
+Organisation for Scientific Research) User Support Programme Space 
+Research grant. Within this international project you will collaborate 
+with researchers at the University of Lyon, the University of Toulouse 
+and at the IPGP (Institut de Physique du Globe) in Paris, France. 
+Candidates need to have completed a MSc degree in the field of 
+planetary science, physics, geophysics, geology, or similar relevant 
+field. There is no constrain on citizenship, all applications are 
+welcomed.
+
+More information can be found here:
+
+https://www.vu.nl/en/employment/vacancies/2015/15232.asp
+
+Interested candidates are encouraged to contact Prof. Gareth Davies, 
+Prof. Wim van Westrenen and Dr. Jessica Flahaut for additional 
+information (e-mails:  g.r.davies@vu.nl; w.van.westrenen@vu.nl; 
+jessica.flahaut@ens-lyon.org). To apply, email the department’s 
+secretary Mrs. Fenny Bosse (f.bosse@vu.nl) with the subject "Vacancy 
+#15232". Please provide a cover letter, CV, and the names and contact 
+information of at least two references. Deadline for applications is 
+September 30, 2015.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track 
+or tenured research positions in astronomy or planetary science. We 
+invite applicants at any career level who can build on current 
+strengths or open new areas for Lowell. A Ph.D. in astronomy, 
+planetary science, or a related field is required, as is an outstanding 
+record of research and demonstrated ability or potential to obtain 
+external research funding. Candidates are invited to describe how they 
+would make use of our observational facilities, but we will give equal 
+consideration to all research areas. The start date for this position 
+is flexible but desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07/Tenure-track-
+Astronomer.pdf
+
+To apply: Send applications electronically to:
+humanresources@lowell.edu
+
+Applications should include:
+(1) a cover letter and CV, 
+(2) a research plan of 3 pages or less, and 
+(3) names and mail/email addresses of three individuals who have 
+agreed to serve as references. Do not ask for reference letters 
+to be sent in advance. 
+
+Applications must be received by November 1, 2015 for full 
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PHD POSITION ON UV EFFECTS ON CARBON IN METEORITES
+
+A 4-year PhD position is open at the Institute of Marine and 
+Atmospheric research Utrecht (IMAU) and the Department of Earth 
+Sciences, Utrecht University, the Netherlands. The goal is to 
+investigate the full life cycle of meteoritic carbon under irradiation 
+with high energy UV light. Measurements will be carried out using 
+analytical techniques including NanoSIMS, SEM, CRDS, IRMS and other 
+gas chromatographic techniques. Therefore the project requires a 
+scientist with extraordinary experimental skills and interest and the 
+capabilities to evaluate and interpret the results from multiple 
+different analytical instruments. 
+
+Apply at:
+http://www.peoplexs.com/Peoplexs22/CandidatesPortalNoLogin/Vacancy.cfm
+?PortalID=4124&VacatureID=759084
+
+Qualifications:
+- MSc degree in physics, chemistry or geosciences
+- Fluent in English
+- Particular interest and skills in experimental work
+- Experience in data analysis
+- Strong interest in astrobiology and/or meteorites.
+
+Offer:
+- Full-time 4-year position at IMAU.
+- Salary 2,125-2,717 Euro/month.
+- Holiday bonus 8%; end-of-year bonus of 8.3% per year. Pension 
+  scheme, partially paid parental leave, flexible employment 
+  conditions.
+
+Application deadline:
+September 15, 2015
+
+More information:
+Prof. Dr Thomas Röckmann (T.Roeckmann@uu.nl) or Dr. Inge Loes ten Kate 
+(i.l.tenkate@uu.nl)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS CRITICAL DATA PRODUCTS REQUEST FOR PROPOSAL
+
+The Mars Exploration Program has issued a Request for Proposal for the 
+Mars Critical Data Products program. This RFP provides support for 
+landing site surface, and atmosphere characterization for the Mars 2020 
+rover mission. The intent is to convert mission data and numerical 
+simulations into products focused on specific landing site targets (to 
+be provided by the program) that will be useful for reducing the risk 
+to the Mars 2020 rover mission. 
+ 
+Details of this RFP are posted at:
+
+https://acquisition.jpl.nasa.gov/rfp/NT-2692-081715/default.htm
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+ 
+Requested data products are for (1) Radar Reflectivity, (2) Surface 
+Thermophysical Properties, (3) Surface Pressure Predictions, and 
+(4) Dust Events during Mars 2020 Entry Descent and Landing (EDL). 
+
+Proposals are due Wednesday, October 14, 2015, 3:00 PM (Pacific).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://apps.orau.gov/NPDoc/Catalog/17736
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/1UA7aHs
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+41ST SCIENTIFIC ASSEMBLY OF THE COMMITTEE ON SPACE RESEARCH (COSPAR)
+AND ASSOCIATED EVENTS
+ 
+COSPAR 2016
+30 July – 7 August 2016
+Istanbul, Turkey
+ 
+http://www.cospar-assembly.org
+ 
+Abstract Deadline: Mid-February 2016
+ 
+Topics:
+- SC A: The Earth's Surface, Meteorology and Climate
+- SC B: The Earth-Moon System, Planets, and Small Bodies of the Solar
+  System
+- SC C: The Upper Atmospheres of the Earth and Planets Including
+  Reference Atmospheres
+- SC D: Space Plasmas in the Solar System, Including Planetary
+  Magnetospheres
+- SC E: Research in Astrophysics from Space
+- SC F: Life Sciences as Related to Space
+- SC G: Materials Sciences in Space
+- SC H: Fundamental Physics in Space
+ 
+Panels:
+- Satellite Dynamics (PSD)
+- Scientific Ballooning (PSB)
+- Potentially Environmentally Detrimental Activities in Space (PEDAS)
+- Radiation Belt Environment Modelling (PRBEM)
+- Space Weather (PSW)
+- Planetary Protection (PPP)
+- Capacity Building (PCB)
+- Education (PE)
+- Exploration (PEX)
+- Exoplanetary Exploration (PEPE)
+- Special events:  interdisciplinary lectures, round table, etc.
+ 
+Selected papers published in Advances in Space Research and Life
+Sciences in Space Research, fully refereed journals with no deadlines
+open to all submissions in relevant fields.
+ 
+Scientific Program Chair:               
+Prof. Ersin Gogus, Sabanci University
+cospar@cosparhq.cnes.fr
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS – RELEASE OF CASSINI/RADIO AND PLASMA WAVE SCIENCE DATA
+
+The Planetary Data System (PDS) announces the release of Cassini/Radio 
+and Plasma Wave Science (RPWS) higher level Langmuir probe (LP) data. 
+This release includes electron densities and temperatures derived from 
+the analyses of LP sweeps for targeted Titan flybys through T93, 
+electron densities using spacecraft potential as a proxy for data into 
+mid-2010. Calibrated current-voltage data for all sweeps through 2014 
+day 119 are included for those who wish to do their own sweep analyses.   
+
+And, a fourth data set including calibrated currents vs. time at fixed 
+probe potentials are available as a product which reflects higher 
+temporal resolution variations of the electron density than that 
+available from the sweeps. However, one would likely use densities 
+derived from nearby sweeps to convert the relative densities to 
+calibrated densities.
+
+Additions to these data sets will occur periodically until the data
+coverage is complete.
+
+To access the above data, please visit:
+
+http://ppi.pds.nasa.gov/search/view/?id=pds://PPI/CORPWS_1001
+
+For information about this release, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20150820.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+  
+http://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA OPAG MEETING
+
+Monday to Wednesday, August 24-26, 2015, 
+8:00 am Eastern Daylight Time (New York, GMT-04:00) 
+
+Join WebEx meeting:
+
+Meeting number: 994 163 298
+Meeting password: W@lc0m31
+ 
+Join by phone
+Conference Number: 877-951-7311 Passcode: 3021523
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] NEW VOLUNTEER REVIEWER FORMS POSTED
+
+The Planetary Science Division is now seeking volunteers to serve as 
+reviewers for proposals from the following ROSES-2015 programs:
+ 
+ROSES 2015 C.19 Hayabusa2 Participating Scientist Program
+ROSES 2015 C.14 Planetary Science and Technology Through Analog 
+                Research
+ROSES 2015 C.9 Mars Data Analysis Program
+ROSES 2015 C.3 Solar System Workings
+
+All volunteer review forms are available at:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] UNDERGRADUATE STUDENT INSTRUMENT SOLICITATION RELEASED
+
+The Undergraduate Student Instrument Project (USIP) Student Flight 
+Research Opportunity solicits proposals from U.S. educational 
+institutions to develop and fly a science and/or technology payload on 
+a sounding rocket, balloon, aircraft, suborbital reusable launch 
+vehicle (sRLV), or CubeSat launched on an orbital launch vehicle. NOIs 
+are due 10/1/2015 and proposals 11/20/2015. 
+
+For more information see: 
+
+http://tinyurl.com/USIP15
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AEOLIAN RESEARCH SPECIAL ISSUE FOR THE FOURTH INTERNATIONAL PLANETARY  
+DUNES WORKSHOP  
+
+The Fourth International Planetary Dunes Workshop: Integrating Models,  
+Remote Sensing, and Field Data was held May 19–22, 2015 in Boise, 
+Idaho. See:
+
+http://www.hou.usra.edu/meetings/dunes2015/dunes20153rd.shtml
+
+More than 60 researchers and students participated in two and a half 
+days of presentations and lively discussion, plus a full day field 
+trip to Bruneau Dunes State Park. The workshop focused on the many 
+landforms and deposits created by the dynamic interactions between 
+granular material and airflow (aeolian processes). These processes are 
+known to occur on several planetary bodies, including Earth, Mars, 
+Titan, Venus, and most recently the surface of a comet.   
+
+A special issue in Aeolian Research is planned to highlight the results  
+presented at the workshop, in addition to other recent aeolian studies  
+of planetary surfaces. Manuscripts on any topic within planetary  
+aeolian studies are solicited, but those focusing on planetary dune  
+systems are particularly encouraged. While terrestrial analog studies  
+are welcome for the special issue, these manuscripts should include  
+discussion of how the results relate to the analysis of features in  
+planetary environments.   
+
+Please send an email (as an indication of interest) that includes a  
+working title, proposed author list, and two-sentence description of  
+the manuscript to chojan1@pirl.lpl.arizona.edu by August 29, 2015.  
+Deadline for submission of final manuscripts is February 1, 2016.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 16-18, 2015
+Enabling Transiting Exoplanet Science with JWST
+http://www.cvent.com/events/enabling-transiting-exoplanet-science-
+with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx
+Baltimore, MD
+
+February 8-12, 2016
+The Astrophysics of Planetary Habitability
+http://habitability.univie.ac.at
+Vienna, Austria
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

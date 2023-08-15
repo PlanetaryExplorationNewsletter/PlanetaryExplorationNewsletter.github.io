@@ -1,0 +1,480 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 15 (April 9, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Elisabeth Adams, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NASA Frontier Development Lab (FDL) Applications Open
+2. Odyssey Data Release 59
+3. Two Postdoctoral Positions at Northern Arizona University
+4. ROSES-17 Amendment 5: C.22 OREx-PSP Final Text
+5. AIDA Third International Workshop
+6. Cassini Data Release 49
+7. SALMON-3 MMX NGRS Pre-Proposal Conference
+8. Formation of Complex Molecules in Space and on Planets, from
+   Interstellar Clouds to Life
+9. The Early History of Planetary Systems and Habitable Planets 
+10. Impacts and their Role in the Evolution of Life 
+11. Geosciences for Understanding Habitability in the Universe
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NASA FRONTIER DEVELOPMENT LAB (FDL) APPLICATIONS OPEN
+
+NASA Frontier Development Lab (FDL) has announced its 2017 challenges
+and opened the application process for participants, with a deadline of
+April 19, 2017. FDL is looking for 12 planetary scientists and 12
+computer scientists with machine-learning emphasis. Applicants must
+have a masters, doctorate or post-doc level of understanding in this
+year's problem areas (Heliophysics, Astronomy, Exogeology, Data
+Science, Software Engineering or Advanced Statistics). The challenge
+questions for 2017 cover planetary defense, space weather and space
+resources.
+
+Hosted by the SETI Institute in Mountain View, CA, FDL is an applied
+research accelerator established to tackle knowledge gaps in space
+science by bringing together machine learning expertise and physical
+science specialists at the PhD level. Interdisciplinary teams address
+tightly defined problems and the format encourages rapid iteration and
+prototyping to create outputs with meaningful application. The 2017
+8-week program will accept 24 participants and will run June 26 -
+August 18, 2017.
+
+To learn more about FDL, the 2017 challenge questions, and to apply,
+please visit the FDL website at:
+
+http://www.frontierdevelopmentlab.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - ODYSSEY DATA RELEASE 59
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Odyssey Data, Release 59, for the following instruments: 
+
+GRS 
+THEMIS
+Radio Science (Releases 174-176) 
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer
+returns data. The HEND and neutron spectrometer components continue to
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170403.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link: 
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page: 
+
+https://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+TWO POSTDOCTORAL POSITIONS AT NORTHERN ARIZONA UNIVERSITY
+
+The Edwards research group in the Department of Physics and Astronomy
+at Northern Arizona University seeks two postdoctoral scholars. This
+group works on characterizing the surfaces of rocky planets and
+instrument development. The successful candidate will carry out
+independent research related to the job, is expected to publish
+scientific papers and, may submit proposals for external funding.
+
+Minimum Qualifications:
+A PhD in geoscience/remote sensing/planetary science or a related field
+
+Preferred Qualifications (Job 603079):
+* Experience with thermal infrared/visible-near infrared/visible remote
+sensing data of planetary surfaces, especially the Moon or Mars
+* Experience with planetary science software packages (e.g. ISIS, IDL,
+Python, etc.)
+* Strong background in scientific programming
+* Experience with GIS, thermal modeling and/or spectral modeling of
+planetary surfaces
+
+Preferred Qualifications (Job 603080):
+* Strong working knowledge of laboratory spectroscopic methods
+* Experience using laboratory/field instruments to address outstanding
+problems in geoscience/planetary science
+* Optical instrument development experience
+* Solid modeling and thermal modeling experience
+
+Applications must include a curriculum vitae, cover letter, statement
+of research interests and contact information for three professional
+references.
+
+Application deadline: April 20, 2017 11:59PM MST
+
+For questions, please contact: Christopher.Edwards@nau.edu
+
+https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/
+HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant
+&SiteId=1&JobOpeningId=603079&PostingSeq=1
+
+https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/
+HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant
+&SiteId=1&JobOpeningId=603080&PostingSeq=1
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ROSES-17 AMENDMENT 5: C.22 OREX-PSP FINAL TEXT
+
+OSIRIS-REx launched September 8, 2016, with the primary objective of
+traveling to the near-Earth (Apollo type, spectral class B) asteroid
+101955 Bennu, obtaining a sample containing at least 60 g of regolith
+material, and delivering this sample back to Earth. Once the spacecraft
+reaches Bennu, a wide range of observations and measurements will be
+made to characterize and map the asteroid, identify and characterize in
+detail sites where samples might be collected, and finally to collect a
+sample from the optimal site and stow it for delivery to Earth.
+
+The objective of the OSIRIS-REx Participating Scientist Program
+(OREx-PSP) is to enhance the scientific return during the
+asteroid-operational phase of the OSIRIS-REx mission by expanding
+participation in the mission through new investigations that broaden
+and/or complement existing investigations.
+
+Step-1 proposals are due May 4, 2017, and Step-2 proposals are due July
+11, 2017. Questions and comments on this draft program element should
+be directed to Jeffrey Grossman and or Christina Richey at
+hq-orexpsp@mail.nasa.gov.
+
+This Amendment to the NASA Research Announcement ROSES 2017 will be
+posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/
+
+and will appear on the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AIDA Third International Workshop
+
+Date: June 20-22, 2017 
+Location: Johns Hopkins Applied Physics Laboratory, 11100 Johns Hopkins
+Rd, Laurel MD
+
+http://dart.jhuapl.edu/aida-workshop2017/
+
+The 3rd AIDA International Workshop will be held June 20-22, 2017 at
+the Johns Hopkins Applied Physics Laboratory (JHU/APL) in Laurel,
+Maryland. The AIDA project is a technology demonstration of asteroid
+deflection by a kinetic impactor. It is an international cooperation
+composed of two missions, the NASA DART (Double Asteroid Redirection
+Test), which is the kinetic impactor, and the ESA AIM (Asteroid Impact
+Mission). The combination of DART and AIM is AIDA. The first AIDA
+international workshop took place in October, 2014, and the second AIDA
+workshop was held in June, 2016.
+
+The 3rd AIDA International Workshop will discuss planetary defense and
+science topics: Predictions of momentum transfer by kinetic impactor;
+determinations of momentum transfer from Earth-based remote sensing and
+from in situ observations at the target [65803] Didymos; kinetic impact
+simulations; Didymos physical properties and dynamical system, with
+changes induced by kinetic impact; impact ejecta dynamical fates and
+evolution; science proximity observations at Didymos. For additional
+information see:
+
+http://dart.jhuapl.edu/aida-workshop2017/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS - CASSINI DATA RELEASE 49
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 49, April to June 2016, for instruments:
+
+CDA
+CIRS
+HRD
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RSS
+SPICE
+UVIS
+VIMS
+
+RPWS's previous release covers this time period.
+
+Please note that while the data products from this release are
+available online now through the links below, they may not be
+immediately accessible through PDS web services such as the Planetary
+Image Data Atlas. Large data sets may take as long as a few days beyond
+the formal release date to be incorporated into these services.  Check
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170406.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page: 
+
+https://pds.nasa.gov/
+  
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SALMON-3 MMX NGRS PRE-PROPOSAL CONFERENCE
+ 
+The Planetary Science Division of NASA's Science Mission Directorate
+released, on March 21, 2017, a Program Element Appendix (PEA) to the
+Third Stand-Alone Missions of Opportunity Notice (SALMON-3), soliciting
+proposals for the development of, and science investigations using, a
+Neutron and Gamma-Ray Spectrometer for the Japan Aerospace Exploration
+Agency (JAXA) Martian Moons eXploration (MMX) mission. The Pre-Proposal
+Conference for this PEA will be held, via Webex, on Monday, April 17,
+2017, from 1:00 PM to 4:00 PM EDT. Details on attending this conference
+will be posted on the acquisition homepage for the MMX PEA:
+
+http://soma.larc.nasa.gov/mmx/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FORMATION OF COMPLEX MOLECULES IN SPACE AND ON PLANETS, FROM
+INTERSTELLAR CLOUDS TO LIFE
+
+Tartu, Estonia 
+17 - 22 July 2017
+
+The summer school course aims to cover the biochemical evolution in the
+universe from formation of the first molecules in interstellar clouds
+to the assembly of the first cells on Earth. The course consists of
+lectures, student-led discussions and  poster sessions. The  following
+subjects are included:
+- Formation of the elements in space
+- Chemical processes in dark clouds, star-forming regions and
+protoplanetary disks
+- Atmospheric processes in rocky, gaseous planets and their satelites
+- Emergence of Homochirality
+- Formation of complx molecules in hydrothermal systems
+- From carbon molecules to biogenic activity
+- Assembly of first cells
+
+Participants will also have the possibility to display their own
+research results in a poster session. Furthermore, a half-day excursion
+to interesting sites in the area (Ice Age Museum, Lake Peipus) and a
+walk in Tartu are included as a social programme.
+
+The event is aimed for students an early career scientists and open to
+applicants from all nationalities. Detailed information about the
+summer school and the application procedure (deadline 31 May 2017) can
+be found at the website:
+
+http://www.nordicastrobiology.net/Tartu2017
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE EARLY HISTORY OF PLANETARY SYSTEMS AND HABITABLE PLANETS
+
+Conference for Early Career Astrobiologists 
+Tartu, Estonia 
+8 - 10 August 2017
+
+The Astrobiology early career scientists conference "The Early History
+of Planetary systems and habitable planets" will be hosted in Tartu,
+Estonia. The event will start on the morning of August 8th and finishes
+in August 10th in the evening.
+
+The main (but by no means exclusive) themes of the conference are: 
+- Formation of protoplanetary disks and planetary systems
+- Early History of Earth and other planets
+- Impacts and their role in the evolution of planets
+- Formation and evolution of planet and satellite atmospheres
+- Co-evolution of Earth's geosphere and biosphere and the evolution of
+life
+- Habitability and factors influencing it
+- Life in extreme environments and its possible role in the evolution
+of life on Earth
+- Habitable extrasolar planets: detection and characterisation
+- New aspects of planetary evolution
+
+A large number of  bursaries is available for students and early career
+scientists (up to 8 years after their Ph.D) covering meals and
+accommodation during the entire meeting (evening August 7th, to morning
+August 11th). Deadline for registration is 29th June 2017.
+
+Information can be found at the website:
+
+https://sisu.ut.ee/eac/home-0
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+IMPACTS AND THEIR ROLE IN THE EVOLUTION OF LIFE 
+
+Saaremaa, Estonia 
+25 July - 3 August 2017
+
+The summer school course "Impacts and their Role in the Evolution of
+Life" will take place from 25 July to 3 August 2017 at Kuressaare and
+the Kaali impact crater site on the island of Saaremaa, Estonia. The
+course consists of lectures, practical exercises and student-led
+discussions. Participants will also have the possibility to display
+their own research results in two poster sessions. The following
+subjects will be covered:
+- Roles of impacts in the formation of habitable planets
+- Physical and chemical properties of comets and meteorites
+- Detection and investigation of impact craters by geological methods
+and remote sensing from space
+- Ecological consequences of impacts and the role of impacts in mass
+ extinctions 
+- Transfer of life through meteorite impacts
+- Threat of life on our planet by near-Earth asteroids and comets 
+
+Practical exercises include:
+- Electromagnetic mapping of impact sites
+- Analysis of pollen indicators of the Kaali impact event.
+- Microscopy of impactites
+- Georadar profiling 
+
+Bursaries covering meals and accommodation are available for a number
+of students from most European Countries. Application deadline is 30
+April 2014. The website:
+
+http://www.nordicastrobiology.net/Impacts2017
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+GEOSCIENCES FOR UNDERSTANDING HABITABILITY IN THE UNIVERSE
+
+EGU Galileo Conference 
+Terra Nostra Garden Hotel, Furnas, Azores 
+25 - 29 September 2017
+
+This conference will address some hotly debated questions in the field
+including the following:
+- What effects do core and mantle have on evolution and habitability of
+planets?
+- What is the relation between (plate) tectonics and atmospheric
+evolution?
+- What role does the mantle overturn play in the evolution of the
+interior and atmosphere?
+- What is the role of the global carbon and water cycles herein? 
+- What influence do comet and asteroid impacts exert on the evolution
+of the planet?
+- How does life interact with the evolution of Earth's geosphere and
+atmosphere?
+- How can we use our knowledge of the solar system geophysics and
+habitability for exoplanets?
+
+The conference will be held at the Hotel Terra Nostra Garden, Furnas,
+Sao Miguel, Azores, Portugal. The hotel is a newly renovated Art Deco
+hotel witha large, famous botanical garden. The Joao Paulo Airport with
+frequent direct flights to the European mainland is located only 45 km
+from the venue. The deadline for registration and abstract submission
+is 15 June 2017.
+
+The website of the event is found at:
+
+http://www.egu-galileo.eu/gc2-habitability/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+Planetary Meeting Calendar Additions
+
+June 20-22, 2017
+AIDA Third International Workshop
+http://dart.jhuapl.edu/aida-workshop2017/
+Laurel, MD
+
+July 17-22, 2017
+Formation of Complex Molecules in Space and on Planets - From Interstellar Clouds to Life
+http://www.nordicastrobiology.net/Tartu2017
+Tartu, Estonia 
+
+July 25-August 3, 2017
+Impacts and their Role in the Evolution of Life
+http://www.nordicastrobiology.net/Impacts2017
+Saaremaa, Estonia
+
+August 8-10, 2017
+The Early History of Planetary Systems and Habitable Planets
+https://sisu.ut.ee/eac/home-0
+Tartu, Estonia
+
+August 9-11, 2017
+8th Planetary Crater Consortium Meeting
+http://www.planetarycraterconsortium.nau.edu/PCCMeeting.htm
+Flagstaff, AZ
+
+September 25-29, 2-17
+Geosciences for Understanding Habitability in the Universe
+http://www.egu-galileo.eu/gc2-habitability/
+Furnas, Azores
+
+November 6-11, 2017
+9th International Conference on Geomorphology
+http://www.icg2017.com
+New Dehli, India
+
+February 6-9, 2018
+Magnetic Fields or Turbulence:
+Which is the critical factor for the formation of stars and planetary disks?
+http://events.asiaa.sinica.edu.tw/workshop/20180206/index.php
+Hsinchu, Taiwan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

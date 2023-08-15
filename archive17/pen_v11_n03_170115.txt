@@ -1,0 +1,418 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 3 (January 15, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Senior Research Scientist in Magnetospheric Physics, Tenure Track
+2. Postdoctoral Scholar, German Geophysical Center (GFZ)
+3. Astrobiology Science Conference Session: Modern and Ancient 
+   Biosignatures and the Search for Life on Mars
+4. Astrobiology Science Conference Session: Biosignature Detection
+   on Mars - Where, What, When, Why and How?
+5. Titan Through Time 4
+6. Research Support Specialist III, SPIF Data Manager/GIS Specialist
+7. Business Development Manager, Planetary Sciences, at Ball
+8. Call for Papers (Third and Final Announcmenet) - Sixth Mars Polar 
+   Conference
+9. EuroPlanet VESPA workshop 2nd announcement: Planetary Mapping and 
+   Virtual Observatory
+10. Fully-Funded 3 Year PhD Studentship on Surface Wind Modelling on 
+    Mars
+11. Town Halls to Discuss Europa Lander SDT Report
+12. [NASA] ROSES-16 IGHAPS Moving to ROSES-2017
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SENIOR RESEARCH SCIENTIST IN MAGNETOSPHERIC PHYSICS, TENURE TRACK
+
+The Department of Geophysics of the German Geophysical Center (GFZ) 
+seeks exceptional candidates for a senior research scientist in 
+magnetospheric and space physics. Candidates will be illegible to apply 
+for a permanent position within 3 years of the start date. Expertise of 
+a successful candidate may include, but is not limited to 
+magnetospheric physics, ionospheric physics, heliophysics, or planetary 
+magnetospheres. The successful candidate is expected to conduct 
+independent research, develop and maintain a vigorous externally funded 
+research program in a field within the addressed areas, to mentor 
+students at graduate level. She/he will be expected to teach classes or
+participate in teaching classes.
+
+Please submit your application by 15th February 2017 quoting the 
+reference no. 93/23/16 G via email to applications@gfz-potsdam.de. 
+Please combine your application documents (statement of research and 
+teaching strategy, CV including list of publications and 3 reference 
+contacts) into a single PDF file with a size of up to 3 megabytes.
+
+The details of the position and how to apply may be found at: 
+
+http://www.gfz-potsdam.de/en/career/job-offers/job
+/932316-g-senior-research-scientist-in-magnetospheric-physics-mf/
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL SCHOLAR, GERMAN GEOPHYSICAL CENTER (GFZ)
+
+Reference No. 94/23/16 G
+
+The successful candidate will work in collaboration with researchers at 
+GFZ and UCLA and other institutions in greater Berlin metropolitan area 
+on the development of numerical codes and comparison with in-situ 
+observations. The research will be focused on understanding of the 
+wave-particle interactions and the dynamics of energetic particles in 
+the near-Earth space. The candidate is expected to have demonstrated 
+experience of working with numerical simulations and observations. Both 
+researchers several years after PhD and more senior scientists will be
+considered for this position. The level of appointment will depend on 
+experience and demonstrated ability to conduct independent research.
+
+Tasks:
+
+Perform calculations of the diffusion coefficients and simulations 
+with the Versatile Electron Radiation Belt Code include and test 
+various physical processes into the code compare simulations with 
+satellite observations develop empirical and physics based models of 
+plasma populations.
+
+Please submit your application by 15th February 2017 quoting the 
+reference no. 94/23/16 G via email to applications@gfz-potsdam.de. 
+Please combine your application documents (research objectives, CV 
+including list of publications and 3 reference contacts) into a single 
+PDF file with a size of up to 3 megabytes.
+
+http://www.gfz-potsdam.de/en/career/job-offers/job
+/942316-g-postdoctoral-scholar-mf/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ASTROBIOLOGY SCIENCE CONFERENCE SESSION: MODERN AND ANCIENT 
+BIOSIGNATURES AND THE SEARCH FOR LIFE ON MARS
+
+The burden of proof for confirming the existence of life outside of our 
+planet will be unprecedented in scientific history. Finding 
+extraterrestrial microorganisms (whether fossil or extant) would 
+provide the most direct evidence of life. Given planetary protection 
+concerns, we are more likely to sample fossil microorganisms, but the 
+biogenicity of ancient terrestrial microfossils is greatly debated 
+owing to often poor preservation. Thus, other biosignatures are 
+typically required to establish the biogenicity of putative ancient 
+microfossils and other microbial structures. By developing additional 
+novel biosignatures and combining multiple techniques for establishing 
+biogenicity, we can find evidence of life that is more convincing. Such 
+techniques would provide invaluable tools for the search for 
+extraterrestrial life. This session seeks to highlight work being done 
+to develop novel biosignatures or to use established biosignatures to 
+search for new evidence of early life on Earth and/or past or present 
+life on Mars.
+
+Organizers:  
+
+Andrew Czaja (University of Cincinnati), andrew.czaja@uc.edu
+Scott Perl (JPL, USC), scott.m.perl@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ASTROBIOLOGY SCIENCE CONFERENCE SESSION: BIOSIGNATURE DETECTION 
+ON MARS - WHERE, WHAT, WHEN, WHY and HOW?
+
+http://www.hou.usra.edu/meetings/abscicon2017 
+
+Abstracts due: January 18, 2017
+Meeting: April 24-28, Mesa AZ 
+
+Finding evidence of extant life on Mars would be a watershed event. 
+We have evidence on Mars for many environments that may have been 
+habitable in the past, but the range of possible biogeochemistries 
+those environments allow, the co-evolution of those environments 
+with life, the specific niches most likely to host 
+detectable biosignatures, and the path forward to explore those 
+environments are still key unknowns. We invite contributions that:
+
+(1) explore the succession of physical and environmental processes 
+    and their combination on Early Mars, 
+(2) evaluate (ideally quantitatively!) the geo/environmental 
+    context of potential sites for biological exploration of Mars, 
+(3) detail the most promising locations, instrument concepts, and 
+    strategies for investigating these ecosystems, 
+(4) define the relevant objects, substances or patterns that could 
+    serve as definitive biosignatures for martian life, and 
+(5) investigate metabolisms, survival strategies, and energy sources 
+    that may be relevant to the search for biosignatures on Mars.
+
+Organizers: Nathalie Cabrol (SETI/NASA Ames), Alberto Fairen 
+(CAB, Cornell), Caroline Freissinet (NASA GSFC), Leslie Bebout
+(NASA Ames), Jorge Vago (ESA), Dirk Schulze-Makuch (TU Berlin).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+TITAN THROUGH TIME 4
+
+NASA GSFC, April 3-5th 2017
+
+We are pleased to announce that the 4th workshop on "Titan Through 
+Time: Titan's Formation, Evolution and Fate" will be held at NASA 
+Goddard Space Flight Center, April 3-5th 2017. As in previous years, 
+the 2 1/2 day workshop will feature a mixture of invited review talks, 
+as well as contributed talks and posters. The timing of this workshop 
+is especially apt, coinciding with the last year of the Cassini 
+mission, and an era when new missions to Titan are envisaged for the 
+"Ocean Worlds" initiative of the New Frontiers program.
+
+Invited speakers and meeting details can be found at: 
+
+http://www.regonline.com/titaniv
+
+The deadline for abstracts is February 15th 2017. Limited student 
+travel funding is available: see website for details.
+
+Hoping to see many of you in Goddard in April,
+
+Conor Nixon
+Chair SOC
+
+On behalf the Science Organizing Committee.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+RESEARCH SUPPORT SPECIALIST III, SPIF DATA MANAGER/GIS SPECIALIST
+
+Cornell University, The Cornell Center for Atmospheric and Planetary 
+Science seeks candidates with GIS experience to fill our Spacecraft 
+Planetary Imaging Facility, (SPIF) Data Manager's/GIS Specialist 
+position. The SPIF Manager is responsible for the management of all 
+aspects of SPIF operations. Assisting users in locating, processing 
+and analyzing spacecraft data stored in NASA Planetary Data Systems. 
+The successful candidate will hold yearly workshops on ArcGIS, SOCET, 
+SET/GPX, and PDS data processing using USGS ISIS software package. 
+They will also develop and maintain education/public outreach programs 
+alongside existing center outreach personnel. To apply and see 
+additional information please go to:  
+
+https://cornell.wd1.myworkdayjobs.com/en-US/CornellCareerPage/job
+/Ithaca-Main-Campus/SPIF-Data-Manager-GIS-Specialist_WDR-00009712-1 
+
+Question may be directed to Lynda Sovocool, Finance and Human Resource 
+Manager, lmk3@cornell.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+BUSINESS DEVELOPMENT MANAGER, PLANETARY SCIENCES, AT BALL
+
+Seeking to fill a full-time position to support the Ball Civil Space 
+business unit as business development lead for planetary science. This 
+includes creating, finding, pursuing, developing, and winning business 
+with civil governmental and non-governmental organizations in the areas 
+of: pure science missions, technology development programs, and support 
+for NASA centers and FFRDCs. Develop and execute a broad strategy to 
+grow Ball's planetary business and market share. Successfully 
+collaborate with Ball's Washington, DC, office, Communications, and 
+other business units at Ball Aerospace. Engage principal investigators 
+to develop highly competitive teams for science missions and technology 
+development opportunities.
+
+More information may be found at:
+
+http://careers.ball.com/psc/HCMPCG91/EMPLOYEE/HRMS/c
+/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId
+=660124&SiteId=1&PostingSeq=1
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR PAPERS (THIRD AND FINAL ANNOUNCEMENT) - SIXTH MARS POLAR 
+CONFERENCE
+
+The Scientific Organizing Committee is organizing a special issue of 
+Icarus related to Mars Polar research, particularly in the fields of 
+polar geology, glaciology, climate record, atmospheric dynamics, 
+terrestrial analogs, ground ice, geochemistry, and Mars polar surface 
+activity. In recognition of the broad scope, interdisciplinary nature, 
+and strong international interest in this topic, we welcome the 
+participation of any interested scientist with relevant theoretical, 
+experimental, or field experience. This special issue is open to all 
+interested authors with Mars Polar related research to publish, whether 
+they attended the conference or not. Please email questions or notices 
+of intent to guest editors, Adrian Brown and Michael Sori.
+
+Manuscripts should be submitted through Icarus' EVISE website:
+
+https://www.evise.com/profile/#/ICARUS/login
+
+Authors must select "Mars Polar Science VI" when they reach the 
+"Article Type" step in the submission process.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EUROPLANET VESPA WORKSHOP 2ND ANNOUNCEMENT: PLANETARY MAPPING AND 
+VIRTUAL OBSERVATORY
+
+https://epn-vespa.github.io/mapping2017/
+
+Abstract deadline: 20th February 2017
+
+Mapping of planetary surfaces is well established with both practice 
+and standards. Neighboring areas, from interiors to magnetospheres are 
+suitable for cross-disciplinary science using the Virtual Observatory 
+(VO) approach and tools, specifically targeting Planetary Science 
+(VESPA). The workshop aims at bringing together the geologic, 
+geospatial and VO communities for bringing forward knowledge, tools 
+and standards for mapping the Solar System.
+
+Contact: mapping.2017@obspm.fr
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+FULLY-FUNDED 3 YEAR PHD STUDENTSHIP ON SURFACE WIND MODELLING ON MARS
+
+Most efforts to date have focussed on Mars atmospheric circulation at 
+very large scales, with Global Climate Models being the primary 
+guidance. The temporal and spatial scales these models are operating at 
+are good first principles in understanding atmospheric-surface 
+interactions - however, they are much too coarse when we are trying to 
+comprehend how surface landforms such as dunes are (or have been) 
+moulded into modern forms. Understanding aeolian processes must be 
+approached at a spatial scale of much less than the length of a dune 
+to properly assess for example patterns of dune evolution.
+
+This fully funded 3-year PhD studentship, based between Ulster 
+University (N. Ireland) and the Carl Sagan Centre (USA) will use 
+several state-of-the-art numerical atmospheric modelling tools, 
+including a Mars GCM, a regional Mars mesoscale climate model, and a 
+computational fluid dynamics model. Geospatial and geomorphic analysis 
+of relevant spacecraft imagery and other observational data will also 
+be used to constrain and validate modelling results.
+
+Project: 
+
+https://www.ulster.ac.uk/__data/assets/pdf_file/0006/136446
+/Surface-wind-modelling-on-Mars.pdf
+
+Application: 
+
+https://www.ulster.ac.uk/research-and-innovation/phdresearch-degrees
+/how-to-apply
+
+FAQs: 
+
+https://www.ulster.ac.uk/research-and-innovation
+/phdresearch-degrees/faqs
+
+All PhDs are interviewed for (Skype or in attendance).
+
+Closing Date: 24th February 2017
+
+Interviews:  March/April 2017
+
+Notification:  May/June/July/August 2017
+
+Starting:  September 2017
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TOWN HALLS TO DISCUSS EUROPA LANDER SDT REPORT
+ 
+NASA is currently conducting a pre-phase A study of a Europa lander 
+mission concept with the primary goal of searching for evidence of 
+biomarkers and/or extant life on Europa. The SDT report will be 
+released in late January, and NASA and the SDT are eager to hear 
+feedback from the science community on the science content and 
+implementation for the mission concept. To that end, NASA will host 
+interactive town halls at LPSC and AbSciCon to discuss the SDT report.  
+The purpose of these town halls is to provide an extended opportunity 
+to communicate the science content of the report to the scientific 
+community and, equally importantly, to engage in constructive 
+discussion with the scientific community. The workshops will take 
+place on the afternoons of Sunday, March 19, for LPSC and Sunday, 
+April 23, for AbSciCon. For questions please contact Dr. Curt Niebur 
+at curt.niebur@nasa.gov.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] ROSES-16 IGHAPS MOVING TO ROSES-2017
+
+C.26 Instruments For Gondola For High-Altitude Planetary Science 
+(IGHAPS) will not be solicited in ROSES-2016 but will be solicited as 
+part of ROSES-2017.
+
+NASA's Planetary Science Division has begun development of the 
+stratospheric balloon-borne platform Gondola for High-Altitude 
+Planetary Science (GHAPS) intended for use by the broad science 
+community. The GHAPS platform will host a 1-meter telescope and is
+designed to fly a minimum of five missions from any of the six Balloon 
+Program Office (BPO) launch locations, with minimal refurbishment 
+costs between flights. The purpose is to produce significant science 
+returns through observations in the 300 nm to 5 um range and possibly 
+beyond. As a stratospheric balloon platform flying above 99.5 percent 
+of the atmosphere, GHAPS offers access to wavelengths not possible 
+from the ground or current space assets. Advances in balloon system 
+technology promise long duration flights with day-night cycles. GHAPS 
+will provide competed guest observer access through the peer review 
+process, allowing the broader science community to accomplish 
+compelling planetary science using this platform.
+
+Questions regarding this program element maybe directed to both 
+Rob Landis at rob.r.landis@nasa.gov and Kelly Fast at
+kelly.e.fast@nasa.gov.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 6-8, 2017
+Global Space Exploration Conference (GLEX 2017)
+http://www.iafastro.org/events/global-series-conferences/glex-2017/
+Beijing, China
+
+September 25-29, 2017
+68th Annual International Astronautical Congress
+http://www.iafastro.org/events/iac/iac-2017/
+Adelaide, Australia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

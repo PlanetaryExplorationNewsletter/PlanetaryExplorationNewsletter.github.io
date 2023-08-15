@@ -1,0 +1,768 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 2 (January 8, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Mark V. Sykes, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Signatures in Support of Mars Express Extension
+2. Applications Now Open: Oxygen in Planetary Biospheres
+3. Abstract Submission: Fourth Workshop on Thermal Models for Planetary
+   Science
+4. EGU2023 Session PS4.1: Atmospheres and Exospheres of Terrestrial
+   Planets, Satellites, and Exoplanets. 
+5. EGU2023 Session PS5.2: Forward to the Moon: The Science of
+   Exploration 
+6. EGU2023 Session PS5.3: Lunar Science, Exploration & Utilization 
+7. EGU2023 Session PS7.1: Evolution and Characterisation of Earth-sized
+   Exoplanets, Super-Earths, and Sub-Neptunes 
+8. Uranus Flagship:  Investigations and Instruments for 
+   Cross-Discipline Science
+9. Ice Giant Systems Seminar Series: 10 January, 2023, Dr. Mark
+   Hofstadter (JPL/Caltech)
+10. Registration Open for Space Science in Context 2023
+11. Planetary Geomorphology Image of the Month
+12. Post-doctoral Position in Space Weather
+13. Assistant/Associate Professor in Planetary Sciences
+14. Job Opening: Senior Scientist for Astrobiology, at NASA
+    Headquarters, Washington D.C.
+15. [NASA] Request for Information (RFI): Scientific Data and
+    Computing Architecture to Support Open Science
+16. [NASA] Science Mission Directorate Quarterly Community Town Hall
+    January 18, 2023
+17. [NASA] Our Dusty Universe with Dr. Veerle Sterken January 12
+18. [NASA] PDS: Aperiodic Data Releases in 2022.12
+19. [NASA] PDS: Insight Data Release 15
+20. [NASA] PDS: Odyssey Data Release 82
+21. Planetary Meeting Calendar Additions
+22. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SIGNATURES IN SUPPORT OF MARS EXPRESS EXTENSION
+
+The Mars Express (MEX) team solicits the support of the scientific
+community worldwide for the extension of the mission.
+
+Current MEX operations are only approved until March 2023 and the final
+decision on a new extension will be made at the ESA Science Programme
+Committee meeting on 7-8 March 2023.
+
+We invite all planetary scientists, astrobiologists, astrophysicists,
+and engineers interested in Mars science to show their support signing
+the following form:
+
+https://tinyurl.com/extendMEXsign
+
+Further information on the scientific highlights and international
+collaborations carried out by Mars Express can be found in the support
+solicitation letter:
+
+https://tinyurl.com/extendMEXletter
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+APPLICATIONS NOW OPEN: OXYGEN IN PLANETARY BIOSPHERES
+
+Green Bank Observatory May 5-7, 2023
+
+We are pleased to announce that applications to attend the Second Barry
+Blumberg Memorial Workshop in Astrobiology are now open.
+
+This 3-day workshop at the Green Bank Observatory will focus on topics
+related to the role of oxygen in the universe, planets and life, and
+how the rise of oxygen on Earth may (or may not) likely have analogs on
+other planets.
+
+Recognizing the challenges the pandemic has presented for networking
+over the past several years, this workshop will have a strong focus on
+early career researchers, and will have broad international
+participation. Presenters are encouraged to gear their talks to an
+interdisciplinary audience, eschewing the trees of internecine
+disciplinary debates for the forest of broader understanding.
+
+Attendance is limited to 50 participants, by application only, and all
+registration and travel expenses will be covered. The conference scope
+should be construed broadly; researchers working on any related
+problems are strongly encouraged to apply.
+
+https://tinyurl.com/3c5uua2n
+
+Application deadline Feb. 1, 2023
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ABSTRACT SUBMISSION: FOURTH WORKSHOP ON THERMAL MODELS FOR PLANETARY
+SCIENCE
+
+Abstract submission is open for the Fourth Workshop on Thermal Models
+for Planetary Science (https://www.cosmos.esa.int/web/thermops4).
+ 
+TherMoPS IV will be held at the European Space Research and Technology
+Centre (ESTEC) in Noordwijk, The Netherlands, 18-20 April 2023.
+
+Remote participation will be possible for those unable to attend
+in-person.
+ 
+Abstract submission is scheduled to close on 3 February 2023, and
+registration for the workshop will open when the workshop programme is
+published on 27 February, 2023.
+ 
+Themes identified for abstract submission include:
+- Thermal modelling of rocky planets (both airless and with
+  atmospheres), asteroids and small bodies, the Moon and moons of the
+  Solar System, and gas giants
+- Technical aspects of thermal modelling such as: models of thermal
+  evolution and thermal conductivity, disk-integrated vs disk-resolved
+  approaches, advances in theory and computational techniques 
+- Research to investigate thermal processes and validate thermal
+  models, via laboratory work and observations from spacecraft or
+  observatories.
+ 
+Workshop Website:
+
+https://www.cosmos.esa.int/web/thermops4/abstract-submission
+ 
+To submit your contributions via the workshop website:
+
+https://www.cosmos.esa.int/web/thermops4/abstract-submission
+
+We look forward to your participation!
+ 
+On behalf of the TherMoPS IV Science and Local Organizing Committees
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU2023 SESSION PS5.2: FORWARD TO THE MOON: THE SCIENCE OF EXPLORATION
+
+NASA SSERVI invites abstracts for a lunar-focused Session (PS5.2) at
+the European Geophysical Union meeting occurring 23-28 April, 2023.
+
+Human and robotic lunar exploration is opening new vistas and
+scientific understanding as humanity reaches toward the Moon again. In
+partnership with institutions around the globe including 5 European
+countries, NASA's Solar System Exploration Research Virtual Institute
+(SSERVI) focuses on these scientific aspects of exploration as they
+relate to the Moon and other airless bodies. This session will feature
+interdisciplinary, exploration-related science centered around the
+Moon as a human and robotic destination, including data visualization
+as exemplified by SSERVI's Solar System Treks Project (SSTP) and other
+platforms. Scientific plans and results within this session represent
+the broad spectrum of lunar science representing investigations of the
+Moon and its environment as a planetary body as well as research
+uniquely enabled by from the Moon. Graduate students and early career
+researchers are particularly encouraged to submit for oral
+presentations.
+
+Conveners: Greg Schmidt, Mahesh Anand, Kristina Gibbs, Brian Day.
+
+Abstract submission deadline is 10 January 2023, 13:00 CET:
+
+https://tinyurl.com/5f3ys5fp
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EGU2023 SESSION PS4.1: ATMOSPHERES AND EXOSPHERES OF TERRESTRIAL
+PLANETS, SATELLITES, AND EXOPLANETS.
+
+Abstract submission is open for EGU2023, held in Vienna on 23-28 April
+2023 and online.
+
+I would like to draw your attention to our session PS4.1: Atmospheres
+and exospheres of terrestrial planets, satellites, and exoplanets.
+
+This session primarily focuses on the neutral atmospheres of
+terrestrial bodies other than the Earth. This includes not only Venus
+and Mars, but also exoplanets with comparable envelopes and satellites
+carrying dense atmospheres such as Titan or exospheres such as
+Ganymede. We welcome contributions dealing with processes affecting the
+atmospheres of these bodies, from the surface to the exosphere. We
+invite abstracts concerning observations, both from Earth or from
+space, modeling and theoretical studies, or laboratory work.
+Comparative planetology abstracts will be particularly appreciated.
+
+Abstract Deadline: 10 January 2023, 13:00 CET
+Travel Suuport Deadline: 01 December 2022, 13:00 CET 
+
+Submit an abstract to this session:
+
+https://tinyurl.com/yxzvsrem
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EGU2023 PS5.3: LUNAR SCIENCE, EXPLORATION & UTILIZATION
+
+NASA SSERVI invites abstracts for a lunar-focused session (PS5.3) at
+the European Geophysical Union meeting occurring 23-28 April, 2023. 
+
+This session will highlight relevant recent results regarding the
+exploration and sustainable utilization of the Moon through
+observations, modelling, and laboratory investigations. All
+past/current results and future exploration ideas and prospects are
+welcome. The session brings together contributions on theoretical
+models concerning the deep interior and subsurface structure and
+composition; observations of the surface morphology and composition;
+analyses of the atmospheric composition and dynamics; the interaction
+with the solar wind, analog studies and future habitability of the
+Moon. Key research questions concerning the lunar surface, subsurface,
+interior and their evolution will be discussed. This session is open
+to all branches of lunar science and exploration and is intended as an
+open forum and discussion between diverse experts and Earth
+geoscientists and explorers at large. The session will include invited
+and contributed talks as well as a panel discussion and interactive
+posters with short oral introduction.
+
+Conveners: Ottaviano Ruesch, Joana S. Oliveira, Rachael Martina
+           Fernando Marshal, Chrysa Avdellidou, Bernard Foing
+
+Abstract submission deadline is 10 January 2023, 13:00 CET:
+
+https://tinyurl.com/5f3ys5fp
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EGU2023 SESSION PS7.1: EVOLUTION AND CHARACTERISATION OF EARTH-SIZED
+EXOPLANETS, SUPER-EARTHS, and SUB-NEPTUNES 
+
+We cordially invite you to submit abstracts to the session PS7.1 at the
+European Geosciences Union (EGU) General Assembly, Vienna, Austria,
+23-28 April 2023. 
+
+Caroline Dorn (ETH Zurich, Switzerland) will give a keynote on "Deep
+volatile reservoirs in super-Earths and sub-Neptunes". 
+
+With advanced telescopes such as JWST, the atmospheric spectra of
+exoplanets smaller than Neptune are being retrieved, which will
+eventually provide insights into their atmospheric compositions.
+However, understanding the planet's surface conditions, interior
+structure, and its evolution through time also requires the
+consideration of mineralogy and interior structure, mantle evolution,
+and volatile exchange between interior and atmosphere. We invite
+contributions from numerical modeling, laboratory experimental studies,
+as well as observations of exoplanets and their atmospheres that focus
+on predicting the evolution and on the characterisation of exoplanets.
+Applications range from magma ocean planets to planets within the
+habitable zone. Let us bridge the gap between prediction and
+observation of small to intermediate-sized exoplanets!
+
+Conveners: Dennis Honing, Francesca Miozzi, Kaustubh Hakim
+
+Session details:
+
+https://meetingorganizer.copernicus.org/EGU23/session/45815
+
+Abstract Deadline: 10 Jan 2023, 13:00 CET
+
+Abstract instructions:
+
+https://egu23.eu/programme/how_to_submit.html
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+URANUS FLAGSHIP: INVESTIGATIONS AND INSTRUMENTS FOR CROSS-DISCIPLINE
+SCIENCE
+
+This is a "save the date" announcement for a workshop that will bring
+together scientists and engineers to discuss the cross-disciplinary
+science to be done at Uranus and the instruments needed to achieve that
+science. It will advance planning for the Uranus Orbiter and Probe
+mission called for by the recently released Planetary Science and
+Astrobiology Decadal Survey.
+
+Dates: 25-27 July, 2023
+Held in Pasadena, California and On-line
+
+To receive detailed information on the workshop as it becomes
+available, please visit the website:
+
+https://www.hou.usra.edu/meetings/uranusflagship2023/ 
+
+Conveners: Dave Atkinson, Mark Hofstadter, Jamie Jasinski,
+           Erin Leonard
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ICE GIANT SYSTEMS SEMINAR SERIES: 10 JANUARY, 2023, DR. MARK HOFSTADTER
+(JPL/CALTECH)
+
+Date/Time: 10 January, 2023, at 11am ET
+
+Speaker: Dr. Mark Hofstadter (JPL/Caltech)
+
+Topic: The Deep Atmosphere of Uranus: Clues and Mysteries from
+Ground-Based Radio Observations
+
+The Ice Giant Systems Seminar Series showcases recent developments in
+scientific topics covering all aspects of the ice giant systems,
+including atmospheres, satellites, rings, magnetic fields, interior
+structures, and science related to formation and evolution.
+
+Registration is no longer needed and participants can attend seminars
+via the zoom link provided on the series website. To access the virtual
+seminar, view the seminar schedule, and "Stay Informed". 
+
+Series website:
+
+https://neptuneodyssey.jhuapl.edu/Events/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+REGISTRATION OPEN FOR SPACE SCIENCE IN CONTEXT 2023. 
+
+Space Science in Context (#SSiC2023) is a free, virtual conference
+bringing together people interested in and who study outer space and/or
+its social contexts for an interactive event. Our three panels this
+year are:
+- Environment and Space Science
+- Labour and Space
+- Space, Technology and Dual-Use. 
+
+The conference will use a flipped-classroom model for its talks. All
+speaker videos will be captioned and transcribed; all posters are
+compliant with our accessibility guidelines. On the day of the
+conference, we will host three sessions at different times via Zoom,
+with English-language CART available for the three speaker panels. 
+
+If you would like more information about accessibility or safety please
+reach out to the organizers at spacescienceincontext@gmail.com.
+
+For more information, including registration, the speaker lineup, and
+the poster program, please go to the website:
+
+https://spacescienceincontext.com/
+
+Conference Date: 26 January, 2023, 11:30-1900 UTC)
+
+SSiC 2023 is funded by the RAS Meeting Organising Fund.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+Happy new year! The January image of the month is now available at the
+IAG's Planetary Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Origin of Terraces on Asteroid (101955) Bennu",
+contributed by Dr. Olivier Barnouin, The Johns Hopkins University
+Applied Physics Laboratory, USA.
+
+Follow IAG Planetary Geomorphology Image of the Month on Twitter:
+
+@PlanetGeomorpho 
+
+or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POST-DOCTORAL POSITION IN SPACE WEATHER
+
+Swedish Institute of Space Physics (IRF) is looking for a post-doctoral
+position in space weather with focus on detection and characterization
+of coronal mass ejections.
+ 
+Space weather impacts technology through physical processes originating
+from the Sun and its interaction with the Earth's magnetosphere and
+ionosphere. The effects on technology are well-known and may influence
+the operation and performance of satellites, communication, navigation,
+and electrical power distribution.
+ 
+A key component in the solar-terrestrial system is the detection and
+characterization of coronal mass ejections.
+ 
+The work will include analysis of coronal images from various
+spacecraft, analysis of in-situ solar wind data, and development of
+methods and algorithms. The goal is to develop models for automatic
+detection of coronal mass ejections as part of IRF's space weather
+system.
+ 
+Contact: Dr Peter Wintoft, +46-46 286 21 21, peter.wintoft@irf.se
+ 
+Last application day: 31 January 2023
+ 
+Application website:
+
+https://tinyurl.com/y5wk9rym
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ASSISTANT/ASSOCIATE PROFESSOR IN PLANETARY SCIENCES
+
+The Department of Physics (physics.ucf.edu) at the University of
+Central Florida (UCF) invites applications for a full-time, nine-month
+faculty position at the rank of assistant professor (tenure-earning) or
+associate professor (tenured) anticipated to begin August 2023. We seek
+candidates whose experience and plans emphasize fundamental
+experimental research in the fields of space resources, planetary and
+remote-sensing instrumentation, and SmallSat development. The
+successful candidate will have skills and research expertise to
+successfully propose for flight hardware projects, including commercial
+missions as well as flight instruments and mission leadership and
+establish a vigorous, externally funded, and creative research program
+with a strong commitment to excellence in graduate and undergraduate
+education.
+ 
+Applicants must have a Ph.D. in physics, planetary sciences, or a
+closely related discipline and a substantial record of independent
+research. For appointment to the tenured associate rank the candidate
+must have a demonstrated record of teaching, research, and service
+commensurate with that rank.
+ 
+UCF requires all applications be submitted electronically at:
+
+https://www.ucf.edu/jobs/  
+
+The full position posting with application instructions is here:
+
+https://tinyurl.com/35uv65a3
+
+Questions can be directed via email to Professor Daniel Britt, search
+committee chair, at dbritt@ucf.edu.
+
+Applications should be submitted by 02 February, 2023.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+JOB OPENING: SENIOR SCIENTIST FOR ASTROBIOLOGY AT NASA HEADQUARTERS, 
+WASHINGTON, DC
+
+NASA leads the world in Astrobiology research and exploration and is 
+preparing for the discovery of life elsewhere by nurturing 
+multidisciplinary research, developing exciting space missions to 
+explore habitable worlds, and by cooperating with partners nationally 
+and internationally for the benefit of humankind. Astrobiology is a 
+scientific discipline devoted to the study of life in the universe - 
+its origin, evolution, future, and distribution.
+
+This appointment will be for a period of up to 6 years under the NASA 
+Excepted Hiring Authority (NEX) and is open only to U.S. Citizens.
+
+The incumbent serves as the Agency's Senior Leader in Astrobiology 
+leading efforts from NASA Headquarters to ensure significant progress 
+is made in Astrobiology. This position will ensure coordination and 
+collaboration across SMD Divisions and between research programs and 
+mission planning.
+
+Full job information:
+
+https://tinyurl.com/5n7vaw7t
+
+To be considered for this position, please submit application 
+materials by January 31, 2023.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] REQUEST FOR INFORMATION (RFI): SCIENTIFIC DATA AND COMPUTING
+ARCHITECTURE TO SUPPORT OPEN SCIENCE
+ 
+NASA's Science Mission Directorate (SMD) seeks information and
+community feedback on the current and future needs for the data and
+computing architecture that supports SMD-funded scientific processes
+and workflows. The SMD Scientific Data and Computing Architecture
+Study currently is conducting a strategic evaluation of SMD's data
+and computing infrastructure with the end goal of improving
+coordination of NASA's computing capabilities to improve alignment
+with NASA Open-Source Science policies. Information about computing
+needs and use cases from this RFI will be essential in evolving NASA's
+data and computing infrastructure to support Open Science.
+ 
+Link to RFI: 
+
+https://tinyurl.com/hmvvdwe6
+
+Townhall (WebEx):
+26 January, 2023 at 1:00 PM ET
+Webinar number: 2762 936 1057
+Link: 
+
+https://tinyurl.com/4m83hpey 
+
+The Webinar's internet password: uT26mPfek$6
+
+Telephone numbers: +1-929-251-9612 USA Toll, 2 +1-415-527-5035 US Toll.
+The Webinar's phone password: 88266733
+  
+Point of Contact (POC):
+
+Elena Steponaitis: elena.a.steponaitis@nasa.gov
+
+Response Date: 21 February, 2023, 11:59pm Eastern time
+
+Direct Short URL: 
+
+https://go.nasa.gov/NNH23ZDA005L
+
+[EDITED FOR LENGTH]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] SCIENCE MISSION DIRECTORATE QUARTERLY COMMUNITY TOWN HALL
+18 JANUARY, 2023
+
+NASA's Science Mission Directorate will hold a community town hall
+meeting with Acting Associate Administrator for Science Sandra Connelly
+and her leadership team at 4:00 p.m. Eastern Time on Wednesday,
+18 January 2023, to discuss NASA's science program accomplishments and
+upcoming activities in the new year. Participants are invited to submit
+their questions below and/or vote up questions already posted. Members
+of SMD, the science community, academia, the media, and the public are
+invited to participate by joining the WebEx link below. 
+ 
+https://tinyurl.com/5e5bvnus
+ 
+If prompted, please use event number 2761 723 9855, followed by event
+password UPmtRaM@552 (87687261 from phones). 
+ 
+Participants are invited to submit their questions below and/or vote up
+questions already posted.
+
+To ask a question, go to:
+
+https://nasa.cnf.io/sessions/wewm/#!/dashboard
+ 
+Users must provide their first and last name and organization and can
+submit their own questions or vote up questions submitted by others.
+The meeting leaders will try to answer as many of the submitted
+questions as possible.
+ 
+Presentation materials will be available for download and a recording
+will be available later that day:
+
+https://science.nasa.gov/researchers/virtual-townhall.
+ 
+Questions may be directed to Kirsten Petree at kirsten.petree@nasa.gov
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] OUR DUSTY UNIVERSE WITH DR VEERLE STERKEN 12 JANUARY, 2023
+
+Please join us for an online conversation with Dr Veerle Sterken on how
+cosmic dust is relevant for heliosphere science, planetary science,
+astrophysics and Earth's atmosphere, hosted by NASA Science Mission
+Directorate Cross Divisional "NASA xD" project.
+
+When: Thursday 12 January, 2023, 4 p.m. Eastern Time
+
+Where: Online. Registration for this Online event is required and will
+close 24 hours before the event. You may register at
+
+https://tinyurl.com/yw63234h
+
+An abstract for the talk is available here:
+
+https://tinyurl.com/4en4m46k
+
+The point of contact for this event is Abigail Rymer, who may be
+reached at abigail.m.rymer@nasa.gov.
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2022.12
+
+In December 2022, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2022.12.20 Mars Express OMEGA experiment
+- 2022.12.15 Mars Express VMC raw and calibrated data
+- 2022.12.12 MRO CRISM multispectral RDRs
+- 2022.12.02 MRO SHARAD clutter simulations
+- 2022.12.02 IRAS FPA data
+- 2022.11.30 Galileo Magnetometer raw data at Jupiter
+- 2022.11.29 Hayabusa AMICA data migrated to PDS4
+- 2022.11.29 Hayabusa LIDAR data migrated to PDS4
+- 2022.11.29 Hayabusa NIRS data migrated to PDS4
+- 2022.11.29 Hayabusa mission documentation migrated to PDS4
+
+To access those data:
+
+https://tinyurl.com/48rbzev2
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] PDS: INSIGHT DATA RELEASE 15
+
+The NASA Planetary Data System announces Release 15 of data from the
+InSight Lander mission to Mars. This release contains raw, calibrated,
+and derived data products covering the time period from July 1 - 
+September 30, 2022. The data are archived at various PDS nodes. 
+
+- SEIS (Seismometer) at the Geosciences Node
+- HP3/RAD (Heat Flow and Physical Properties Package / Radiometer) at
+  the Geosciences Node
+- RISE (Radio Science) at the Geosciences Node
+- IDA (Instrument Deployment Arm) at the Geosciences Node
+- APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+- IFG (Insight Fluxgate Magnetometer) at the PPI Node
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera)
+  at the Cartography and Imaging Sciences Node
+- SPICE at the NAIF Node
+ 
+The data may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/insight/.
+ 
+InSight releases occur every three months. The next release is
+scheduled for 31 March, 2023.
+
+Access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+[NASA] PDS: Odyssey Data Release 82
+
+The NASA Planetary Data System announces Release 82 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period 01 April,
+2022, through 30 June, 2022, for the GRS/HEND/NS suite, and 24
+February, 2022, through 03 June, 2022, for THEMIS.
+ 
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data 
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node.
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or from a dataset-centered view
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230103.shtml
+
+Odyssey releases occur every three months.
+
+The next release is scheduled for April 03, 2022.
+
+Access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+Month Day(s), Year
+25-27 July, 2023
+Uranus Flagship: Investigations and Instruments for Cross-Discipline
+Science
+https://www.hou.usra.edu/meetings/uranusflagship2023/
+Pasadena, California
+
+January 8-12, 2023
+241st Meeting of the American Astronomical Society
+https://aas.org/meetings/aas241
+Seattle, WA
+
+June 4-8, 2023
+242nd Meeting of the American Astronomical Society
+https://aas.org/meetings/aas242
+Albuquerque, NM
+
+August 13-18, 2023
+https://icc2023.org
+International Cartographic Conference (ICC) 2023
+Cape Town, South Africa
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Inconsistency between the Ancient Mars and Moon Impact Records of
+Megameter-scale Craters
+Stuart J. Robbins 2022 PSJ 3:274
+https://doi.org/10.3847/PSJ/aca282
+
+The Distribution and Accessibility of Geologic Targets near the Lunar
+South Pole and Candidate Artemis Landing Sites
+Sarah. J. Boazman et al. 2022 PSJ 3:275
+https://doi.org/10.3847/PSJ/aca590
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org   
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* https://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

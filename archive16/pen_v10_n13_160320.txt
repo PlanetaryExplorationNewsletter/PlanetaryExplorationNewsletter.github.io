@@ -1,0 +1,324 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 13 (March 20, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Special LPSC Event Notice: The 2017 NASA Budget-The Planetary 
+   Community Response and Your Q&A
+2. Small Bodies Assessment Group 15th Meeting
+3. [NASA] PDS - Mars Science Laboratory Release 11
+4. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release 25
+5. [NASA] PDS - Mars Exploration Rovers Data Release 47
+6. Mapping and Planetary Spatial Infrastructure Team Town Hall
+7. Call for Abstracts for the Horizon 2020 Euro-Cares WP3 Meeting
+8. LPSC Community Dialogue: Usage of Multi-Mission Radioisotope 
+   Thermoelectric Generators (MMRTGs) for Future Potential Missions 
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SPECIAL LPSC EVENT NOTICE: THE 2017 NASA BUDGET-THE PLANETARY 
+COMMUNITY RESPONSE AND YOUR Q&A
+
+Tuesday, 12:00 to 1:15 p.m., Waterway 6
+
+Was your question left unanswered at NASA Night? Or do you feel that 
+an important topic is not being addressed by your professional 
+societies? Or do you wonder what the next five years will hold for 
+planetary science at NASA? Then come to this special lunch session 
+to meet representatives from the American Geophysical Union, Division 
+of Planetary Sciences, Geological Society of America, and The 
+Planetary Society for an open, frank, and lively discussion about the 
+Planetary Science budget problems and possibilities. We will even 
+provide a limited number of free drink tickets to encourage further 
+discussion. So go ahead and grab an early lunch, bring your friends 
+and colleagues, and level-up your knowledge of your field and learn 
+how to strategically engage the process to help your field and your 
+profession. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SMALL BODIES ASSESSMENT GROUP 15TH MEETING
+
+The 15th meeting of the Small Bodies Assessment Group (SBAG) will be 
+held June 28-30, 2016, hosted at APL in Laurel, MD. Some logistical 
+details are still being finalized, but a draft agenda is now available 
+online:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+The SBAG 15 meeting is also in the NASA Conference Tracking System, 
+with NCTS # 24436-16. If you typically use the NASA Conference 
+Tracking System for your travel, or have a different travel 
+authorization processes for your institution, please follow those 
+usual procedures.
+
+Additionally, the SBAG community has worked to generate an SBAG Goals 
+Document over the last year, and the efforts of numerous members of 
+the community are very much appreciated. The final SBAG Goals 
+Document is now available online:
+
+http://www.lpi.usra.edu/sbag/goals/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - MARS SCIENCE LABORATORY RELEASE 11
+
+The NASA Planetary Data System announces the eleventh release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sol 1063 through Sol 1159 (August 2 to November 10, 2015).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+* Alpha Particle X-ray Spectrometer (APXS)
+* Chemistry & Micro-Imaging (ChemCam)
+* Chemistry and Mineralogy (CheMin)
+* Dynamic Albedo of Neutrons (DAN)
+* Hazard Avoidance Cameras (Hazcam)
+* Mars Hand Lens Imager (MAHLI)
+* Mars Descent Imager (MARDI)
+* Mast-mounted Cameras (Mastcam)
+* Navigation Cameras (Navcam)
+* Radiation Assessment Detector (RAD)
+* Rover Environmental Monitoring Station (REMS)
+* Sample Analysis at Mars (SAM)
+* Spacecraft, Planet, Instrument, Pointing C-Matrix, and Event 
+  kernels (SPICE)
+
+To access the above data for this release:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160316.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site:
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+Or from the main PDS home page:
+
+http://pds.nasa.gov/
+
+Services for searching the MSL archives include:
+
+(1) Selection of MSL image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+(2) The MSL Analyst's Notebook (search/download all MSL data in the 
+context of mission events):
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - LUNAR RECONNAISSANCE ORBITER DATA RELEASE 25
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments:  
+
+* CRaTER
+* DLRE
+* LAMP
+* LEND
+* LOLA
+* LROC
+
+This release includes a complete revision of LEND RSCI data products. 
+In general, LRO Release 25 includes data collected between 
+September 15, 2015 and December 14, 2015. To access the above data, 
+please visit the following link:  
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160315.shtml
+
+PDS offers two services for searching the LRO archives:
+
+(1) The Planetary Image Atlas at the Imaging Node allows selection 
+of LRO data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+(2) The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector):
+
+http://ode.rsl.wustl.edu/moon/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 47
+
+The Planetary Data System (PDS) is pleased to announce Release 47
+of Mars Exploration Rover data.  This release includes data primarily
+from Sols 4051 through 4140, rover Opportunity (MER1/B), instruments:
+
+* APXS
+* Atmospheric Opacity
+* HAZCAM
+* NAVCAM
+* MI
+* PANCAM
+* RAT
+* Rover Motion Counter
+* SPICE
+
+There is no Radio Science data in this release, and no more
+Mini-TES or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160317.shtml
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MAPPING AND PLANETARY SPATIAL INFRASTRUCTURE TEAM TOWN HALL
+
+NASA and the USGS have worked together to establish the new Mapping 
+and Planetary Spatial Infrastructure Team (MAPSIT). In order to ensure 
+that MAPSIT is addressing community needs and concerns, MAPSIT is 
+hosting a Town Hall at LPSC (Thursday, Noon, Waterway 6) to provide 
+community updates and solicit community input regarding planetary 
+spatial data infrastructure which includes the technology, policies, 
+standards, human resources, and related activities necessary to 
+acquire, process, distribute, use, maintain, and preserve spatial 
+data.
+ 
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR ABSTRACTS FOR THE HORIZON 2020 EURO-CARES WP3 MEETING
+
+Designing a European extraterrestrial sample curation facility
+
+April 13-16, 2016
+Vienna, Austria
+
+The EURO-CARES WP3 Meeting will be held April 13-16, 2016 at the 
+Natural History Museum in Vienna, Austria, and will covers a large 
+range of topics such as curation, micro-manipulation, architecture 
+and design, storage, cleanroom requirements, biocontainment 
+requirements, database, robotics, etc.
+
+Please see the URL below for more details:
+
+http://www.euro-cares.eu/?p=18
+
+Abstract Submission Deadline is:
+Wednesday, March 30, 2016, 5:00 p.m. (GMT)
+
+We hope to see you in Vienna!
+
+Sincerely,
+Ludovic Ferriere and Aurore Hutzler
+The Organizers
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+LPSC COMMUNITY DIALOGUE: USAGE OF MULTI-MISSION RADIOISOTOPE 
+THERMOELECTRIC GENERATORS (MMRTGS) FOR FUTURE POTENTIAL MISSIONS 
+
+Wednesday, March 23, 2016, 12:00-13:15 PM 
+
+This discussion will take place at the Lunar and Planetary Sciences 
+Conference.
+
+Room: Grogan's Mill
+Seating: Theater 
+Expected Attendance: 30 
+Highlighted Event: Yes 
+
+Point of Contact: 
+June Zakrajsek 
+NASA Glenn Research Center
+june.f.zakrajsek@nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 13-16, 2016
+Horizon 2020 EURO-CARES WP3 Meeting - Designing a European   
+Extraterrestrial Sample Curation Facility
+http://www.euro-cares.eu/?p=18
+Vienna, Austria
+
+October 24-28, 2016
+Exploring the Universe with JWST - II
+http://craq-astro.ca/jwst2016/
+Montreal, Canada
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

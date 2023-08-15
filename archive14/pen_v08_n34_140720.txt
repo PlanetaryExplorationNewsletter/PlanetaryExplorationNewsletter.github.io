@@ -1,0 +1,427 @@
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Draft AOs for Small Astrophysics Explorer Missions and 
+   Astrophysics Explorer Missions of Opportunity 
+2. [NASA] PDS - Mars Reconnaissance Orbiter SHARAD Radargram Release 1
+3. [NASA] Final Text for Europa Instrument Investigation Released
+4. AGU SESSION PS1850 - Dynamics of the Io-Jupiter System (P & SPA 
+   Co-Sponsored)
+5. AGU Session PS2526 - Evolutions, Interactions and Origins of Outer 
+   Planet Satellites
+6. AGU Session PS2819 - In and Out of Jove: Giant Planet Interiors, 
+   Atmospheres, Aurorae, and Ionospheres
+7. AGU Session PS3107 - The Martian Crust: Synergism of Meteorites and 
+   Missions
+8. GSA Session - Tectonics and Volcanism in the Solar System
+9. GSA Session T225 - MicroMars to MegaMars: Integration of Surface and 
+   Orbital Investigations
+10. Nominations Sought for the Lawrence Smith Medal of the NAS
+11. NASA Postdoctoral Fellowships
+12. Call for Papers: Special Issue of Planetary and Space Science 
+    (Cosmic Dust VII)
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] DRAFT AOS FOR SMALL ASTROPHYSICS EXPLORER MISSIONS AND 
+ASTROPHYSICS EXPLORER MISSIONS OF OPPORTUNITY
+
+Comments Due: August 4, 2014
+
+Two draft solicitations for community review and comment have been 
+released: the Draft 2014 Small Astrophysics Explorer (SMEX) 
+Announcement of Opportunity (AO) and the Draft 2014 Astrophysics 
+Explorer Missions of Opportunity (MO) Program Element Appendix (PEA) 
+for the Second Stand Alone Missions of Opportunity Notice (SALMON-2) 
+AO. The full text of both draft solicitations are available at: 
+
+http://nspires.nasaprs.com/
+
+The Astrophysics Explorers Program conducts Principal Investigator 
+(PI)-led space science investigations relevant to SMD's astrophysics 
+programs. Explorer investigations must address NASA's goals to discover 
+the origin, structure, evolution, and destiny of the Universe and 
+search for Earth-like planets.
+
+The comment period for the Draft 2014 SMEX AO and the Draft 2014 
+Astrophysics Explorer MO PEA ends on August 4, 2014.
+
+Comments on both drafts may be addressed in writing or by E-mail to 
+the Astrophysics Explorer Program Scientist: Dr. Wilton T. Sanders, 
+wilton.t.sanders@nasa.gov (subject line to read "SMEX AO"). Responses 
+will be by E-mail and also posted weekly at the FAQ:  
+
+http://explorers.larc.nasa.gov/APSMEX/ 
+
+Anonymity of persons/institutions who submit questions will be 
+preserved.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER SHARAD RADARGRAM RELEASE 1
+
+The Planetary Data System (PDS) announces the first release of Mars
+Reconnaissance Orbiter (MRO) Shallow Radar (SHARAD) radargram data 
+processed by the U.S. members of the SHARAD team. This release includes 
+data acquired from December 6, 2006 through December 15, 2007. This 
+data set differs from the original SHARAD reduced data set 
+(MRO-M-SHARAD-4-RDR-V1.0) in that a different set of processing 
+parameters was used, the details of which are described in the document 
+RGRAM_PROCESSING.PDF, in the DOCUMENT directory of the archive.
+
+Future releases of this data set are planned to occur approximately
+monthly until the data coverage has caught up with the scheduled 
+quarterly releases of MRO data.
+
+To access the above data, please visit:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] FINAL TEXT FOR EUROPA INSTRUMENT INVESTIGATION RELEASED
+
+The final text for complete PI-led instrument investigations for a 
+Europa mission as Appendix O of the Second Stand Alone Missions of 
+Opportunity Notice (SALMON-2) via Amendment 8. The term "complete" 
+encompasses investigation phases from project initiation, through 
+instrument development and science operations, to scientific analysis 
+of space based data. It is anticipated that approximately 20 proposals 
+will be selected for seven-month, $1.25M (FY 2015) concept studies and 
+development. At the conclusion of these studies, NASA may select 
+approximately eight of the instrument investigations to complete 
+Phase A and subsequent mission phases.
+
+Release of final PEA: July 15, 2014
+Preproposal conference: ~2 weeks after PEA release
+Proposals due: October 17, 2014
+Selection for competitive Phase A studies: April 2015 (target)
+Concept study reports due: December 2015 (target)
+Down-selection: April 2016 (target)
+Instrument delivery date: January 2021
+
+Go to: 
+
+http://nspires.nasaprs.com 
+http://go.nasa.gov/SALMON2-AO
+
+Further information will be posted on the Europa Program Acquisition 
+Page: 
+
+http://soma.larc.nasa.gov/europa/ 
+
+as it becomes available. Questions may be addressed to: 
+
+Dr. Curt Niebur
+202-358-0390
+curt.niebur@nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION PS1850 - DYNAMICS OF THE IO-JUPITER SYSTEM (P & SPA 
+CO-SPONSORED)
+
+Abstract submission deadline: August 6, 2014
+
+A large coordinated observing campaign in late 2013 and early 2014 has 
+probed the Io-Jupiter system at multiple wavelengths using more than a 
+dozen ground- and space-based facilities, including the EUV 
+spectroscope Hisaki, HST, Chandra, Apache Point, Keck and IRTF. These 
+concurrent observations examined Io's volcanic activity, atmosphere and 
+plasma torus variability, as well as Jupiter's atmosphere, synchrotron 
+emission and auroral dynamics. This session aims to interconnect these 
+observations in order to explore the interactions between Io, Jupiter, 
+the magnetosphere and the surrounding solar wind. Integrating the 
+products of these diverse measurements will help develop a better 
+understanding of how mass and energy are transferred through the system 
+on different timescales. We invite observers from this campaign to 
+report their results and also welcome presentations of relevant models 
+and additional data sets.
+
+Conveners:
+Sarah Badman (Lancaster University)
+Ashley Davies (NASA Jet Propulsion Laboratory)
+Carl Schmidt (University of Virginia)
+
+Invited Speakers & Preliminary Titles:
+Julie Rathbun: Variability of Io's volcanic activity
+Kazuo Yoshioka: The Io plasma torus observed by the Hisaki mission
+Tomoki Kimura: Multi-wavelength observations of Jupiter's aurora 
+coordinated with Hisaki
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION PS2526 - EVOLUTIONS, INTERACTIONS AND ORIGINS OF OUTER 
+PLANET SATELLITES
+
+Abstract submission deadline: August 6, 2014
+
+This session explores current and past planetary processes that lead 
+to unique present day conditions on outer planet satellites. The 
+session will consist of invited and contributed talks that highlight 
+geological and geophysical modeling and interpretation of both 
+remotely-sensed and in-situ data. Presentations on interaction of 
+planetary field and plasma with the surfaces and interiors of the 
+moons and theoretical models of the origin and evolution of surfaces 
+and interiors of the moons are also welcome. Contributions that 
+investigate processes on multiple moons to uncover underlying trends 
+are especially welcome.
+
+Organized by Krishan Khurana & Amanda Hendrix
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION PS2819 - IN AND OUT OF JOVE: GIANT PLANET INTERIORS, 
+ATMOSPHERES, AURORAE, AND IONOSPHERES
+
+Abstract submission deadline: August 6, 2014
+
+We solicit new research findings about the ionospheres, atmospheres 
+and deep interiors of Jupiter, Saturn, Uranus, and Neptune. A special 
+focus of our session is on the processes that reflect the interior 
+rotation rate of Saturn. The sources of data to be covered in our 
+session include the continuing observation by the Cassini spacecraft, 
+now in its 10th year in orbit around Saturn. We also cover results of 
+the recent Saturn Aurora Campaigns that coordinated observations by 
+Cassini, the Hubble Space Telescope, and ground-based observatories. 
+For Jupiter, we solicit long-term monitoring using ground- and 
+space-based telescopes, and studies in anticipation of the Juno 
+spacecraft's arrival in August 2016. Observations of Uranus and Neptune 
+are also within in our session's scope. In addition, we solicit 
+modeling and theoretical presentations that address these observational 
+findings.
+
+To submit abstracts to this session, visit:
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/Session2819.html
+
+Conveners:
+Kunio M Sayanagi, Hampton University
+Ulyana Dyudina, Caltech
+Scott G Edgington, JPL
+Marcia E Burton, JPL
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION PS3107 - THE MARTIAN CRUST: SYNERGISM OF METEORITES AND 
+MISSIONS
+
+Abstract submission deadline: August 6, 2014
+
+Northwest Africa 7034 (and pairings) is the first martian meteorite 
+with chemical compositions matching the average martian crust 
+determined from mission data. This new unique meteorite is a 
+water-rich breccia of Noachian age materials that is providing us an 
+unprecedented view of the martian crust. This comes at a time when the 
+most advanced Mars rover, Curiosity, is also gathering substantial in 
+situ data on martian crustal components. Additionally, more advanced 
+techniques are shining new light on our understanding of other martian 
+meteorites, while long running missions such as MER continue collecting 
+data. We are now poised to greatly expand our knowledge of the martian 
+crust and surface processes by combining these new and expanding 
+datasets from Earth based samples and Mars based missions. This session 
+welcomes abstracts containing new insights regarding the martian crust, 
+its history and surface processes, that were determined using data from 
+missions and/or meteorite studies.
+
+Conveners: Alison Santos, Carl Agee, Univ New Mexico 
+Roger Wiens, Los Alamos National Laboratory
+Mariek Schmidt, Brock University
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+GSA SESSION - TECTONICS AND VOLCANISM IN THE SOLAR SYSTEM
+
+Abstract submission deadline: July 29, 2014
+
+Volcanism, tectonism, faulting and associated interactions have been 
+observed across the solar system and have been shown to have profoundly 
+shaped the surfaces of planets, moons and even asteroids. 
+Interpretations of these landforms and their formational processes 
+will be presented as compared to related processes on Earth. We 
+encourage abstract submissions related to the description, mapping, 
+modeling and subsequent analysis of tectonic and volcanic structures 
+on rocky bodies, including planets, moons and asteroids.
+
+http://community.geosociety.org/gsa2014/science/sessions
+
+Convener:
+Debra Buczkowski (JHU/APL)
+See you in Vancouver!
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GSA SESSION T225 - MICROMARS TO MEGAMARS: INTEGRATION OF SURFACE AND
+ORBITAL INVESTIGATIONS
+
+The merging of surface and orbital datasets has yielded profound new 
+information on the geologic history and modern processes on Mars. This 
+session seeks abstracts that incorporate these two datasets to increase 
+our understanding of Martian geology and related disciplines.
+
+Nathan Bridges, Alfred McEwen, Dave Rubin
+GSA Planetary Geology Division
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NOMINATIONS SOUGHT FOR THE LAWRENCE SMITH MEDAL OF THE NAS
+
+Every three years the National Academy awards the J. Lawrence Smith 
+Medal and $25,000 prize for recent, original, and meritorious 
+investigation of meteoric bodies. The Academy is now accepting 
+nominations for the 2015 award. The three most recent recipients were 
+Hap McSween, Bob Clayton and Klaus Keil. Nominations will be considered 
+broadly from the study of small planetesimals and are not restricted 
+just to meteoritics. Nominees need not be U.S. citizens nor members of 
+the National Academy. As with many medals, the diversity of previous 
+Smith Medal winners is limited, so nominees from outside the 
+traditional groups would be highly appreciated. Nomination packages 
+consist of a 2 page nomination letter, 2 page CV for the candidate, 
+bibliography listing no more than 12 significant publications, and no 
+more than 3 letters of support. Nominations are due before October 1, 
+2014 and are submitted on-line at:  
+
+https://awards.nasonline.org   
+
+More information on the award can be found at: 
+
+http://www.nasonline.org/about-nas/awards/j-lawrence-smith-medal.html
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18610
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  http://bit.ly/1iUrK4I
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CALL FOR PAPERS: SPECIAL ISSUE OF PLANETARY AND SPACE SCIENCE (COSMIC 
+DUST VII)
+
+This issue will be primarily devoted to the papers presented at the 
+7th meeting on Cosmic Dust (Cosmic Dust VII) to be held at Umeda 
+Satellite Campus of Osaka Sangyo University, Japan, on August 4-8 2014. 
+All kinds of cosmic dust are the subject of discussion: intergalactic, 
+interstellar, protoplanetary and debris disk dust, cometary and 
+interplanetary dust, regolith and aerosol particles, micrometeorites 
+meteoroids, and meteors. Papers on dust-related topics, for example, 
+the formation of molecules and their reactions on the surface of cosmic 
+dust, are also welcome.
+
+A detailed submission guideline is available as "Guide to Authors" at: 
+
+http://www.journals.elsevier.com/planetary-and-space-science/ 
+
+All manuscripts and any supplementary material should be submitted 
+through Elsevier Editorial System (EES) located at: 
+
+http://ees.elsevier.com/pss/ 
+
+The authors must select "SI: Cosmic Dust VII" when they reach the 
+"Article Type" step in the submission process. All papers will be 
+peer-reviewed by two independent reviewers. Requests for additional 
+information should be addressed to the editors 
+(dust-inquiries@cps-jp.org).
+
+IMPORTANT DATES:
+Deadline for submission: October 5, 2014
+Deadline for acceptance: March 31, 2015
+Publication: July, 2015
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 16-20, 2014
+Wide-field InfraRed Surveys: Science and Techniques
+http://conference.ipac.caltech.edu/wfirs2014/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

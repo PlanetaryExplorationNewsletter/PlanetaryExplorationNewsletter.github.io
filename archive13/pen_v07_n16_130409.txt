@@ -1,0 +1,60 @@
+PLANETARY EXPLORATION NEWSLETTER - SPECIAL EDITION
+Volume 7, Number 16 (April 9, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o---------------------------SPECIAL EDITION---------------------------o
+
+INSTRUMENT TECHNOLOGY DEVELOPMENT IN SUPPORT OF THE EUROPA CLIPPER 
+MISSION CONCEPT
+
+James L. Green, Director, Planetary Science Division, NASA HQ
+
+Congress recently passed a FY13 budget for NASA that includes funding 
+to continue pre-formulation and formulation activities for a Europa 
+mission.  As part of this effort NASA plans to release an amendment to 
+ROSES 2013 describing a NASA Research Announcement (NRA) for instrument 
+technology development in support of the Europa Clipper mission 
+concept.  The goal of this call is to mature and reduce the technical 
+risk of instruments for the Europa Clipper mission to the point where 
+they may be proposed in response to a possible future announcement of 
+flight opportunity without additional extensive technology development. 
+Awarding the funds before the end of FY13 will require an extremely 
+aggressive schedule. To that end, NASA plans to release the NRA no 
+later than April 30; proposals will be due 45 days after the release 
+of the NRA.
+
+The Europa Clipper strawman payload includes an Ice Penetrating Radar 
+(IPR), a Shortwave Infrared Spectrometer (SWIRS), a Topographic Imager 
+(TI), a mass spectrometer (MS), and a magnetometer. The IPR, SWIRS, TI, 
+and MS have been identified as needing significant early development to 
+enable them to operate in the Europan environment, and NASA Plans to 
+target those instruments with this funding opportunity. While other 
+instruments may be proposed, selection preference will be given to 
+proposed instruments in these four categories. US proposers to the 
+recent JUICE AO are especially encouraged to consider proposing to ICEE 
+if their JUICE instrument concepts are applicable to the Europa Clipper 
+mission.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

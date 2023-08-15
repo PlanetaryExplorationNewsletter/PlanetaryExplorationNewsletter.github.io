@@ -1,0 +1,491 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 44 (October 24, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Scholar in Planetary Science and Exoplanets
+2. Earth and Planetary Data Analytics Advertisement
+3. [NASA] ROSES: Updates to EnVision VenSAR Science Team
+4. [NASA] PDS: MRO SHARAD 3D Radar Images
+5. [NASA] Position Announcement for Planetary Data Ecosystem Chief 
+   Scientist
+6. MEPAG Seeks Standing Committee Members
+7. Lunar Surface Science Workshop: Inclusive Lunar Exploration
+8. A Postdoc Position Available in the Space and Planetary Science 
+   Center at Khalifa University, Abu Dhabi, UAE
+9. [NASA] Planetary Advisory Committee Meeting
+10. Postdoctoral Researcher Opening
+11. Lunar Exploration Ethics Panel
+12. [NASA] ROSES-21: Citizen Science Seed Funding Program Revised Text 
+    and New Due Dates
+13. Postdoc in Radiation Chemistry/Analytical Chemistry Related to the 
+    Jovian Icy Satellites
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL SCHOLAR IN PLANETARY SCIENCE AND EXOPLANETS
+
+Applications are invited for a Postdoctoral Scholar position in 
+planetary science and exoplanets at the University of California, 
+Riverside (UCR). The successful applicant will work in the Planetary 
+Research Laboratory as a member of a group led by Dr. Stephen Kane. The 
+primary research activities in this group cover a broad range of 
+exoplanet, planetary science, and astrobiology topics, including 
+exoplanet detection and characterization, Venus (both intrinsically and 
+as an exoplanet analog), orbital dynamics, atmospheres and climate, and 
+planetary habitability. Typical data sources used within the research 
+group are Kepler, Transiting Exoplanet Survey Satellite (TESS), Keck, 
+the Automated Planet Finder (APF), MINERVA-Australis, and various 
+Planetary Data System (PDS) mission archives. The group is also a 
+member of the DAVINCI+ mission, a mission selected by NASA to study the 
+Venusian atmosphere. The Postdoctoral Scholar will primarily work on 
+Venus science, Solar System exoplanet analogs, and climate simulations. 
+Candidates must hold a PhD in astronomy, physics, planetary sciences, 
+geology or related field before their start date. Applications are due 
+by December 17, 2021. E-mail inquiries and application materials should 
+be addressed to: skane@ucr.edu. 
+
+Complete application instructions can be found at:
+
+https://epsci.ucr.edu/sites/g/files/rcwecm4976/files/2021-10/job_advertisement_postdoc_kane.pdf
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EARTH AND PLANETARY DATA ANALYTICS ADVERTISEMENT
+
+The Department of Geosciences at Virginia Tech invites applications for 
+a tenure-track faculty position in Earth and Planetary Data Analytics.
+We anticipate hiring an Assistant Professor; however, candidates at a 
+higher rank may be considered. The successful candidate will have a 
+research and teaching portfolio centered in data science with a focus 
+on problems in the Earth, planetary, environmental, or climate 
+sciences. This may include the development and/or application of data 
+analytics, machine learning, artificial intelligence, information 
+theory or similar cutting-edge methods for making novel advances in 
+Earth and planetary sciences.  
+
+Apply online in response to the advertisement posted at: 
+
+https://tinyurl.com/2puc5emw 
+
+Instructions and requested materials are on the above linked site.  
+
+Review of applications will begin on December 6, 2021 with an 
+anticipated start of employment in August 2022. For further 
+information, please contact the Chair of the Search Committee, Scott 
+King, at sdk@vt.edu If you are an individual with a disability and 
+desire an accommodation, please contact Sharon Collins at 
+sharon72@vt.edu during regular business hours at least 10 business days 
+prior to the event.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES: UPDATES TO ENVISION VENSAR SCIENCE TEAM
+
+October 15, 2021. Section 4 of C.26 EnVision VenSAR Science Team has 
+been clarified regarding Data Management Plans and roles, including the 
+fact that only scientists at U.S. institutions will be considered for 
+the roles of Team Leader, U.S. EnVision Mission Scientist, and EnVision 
+SST Membership. New text is in bold, deleted text is struck through. 
+Also, a FAQ has been posted under other documents on the NSPIRES page 
+for this program element with answers to basic questions on e.g., 
+content and criteria. The due dates remain unchanged; Notices of Intent 
+to propose are requested by November 19, 2021, and proposals are due 
+January 20, 2022.
+
+Go to:
+
+https://bit.ly/3biL2At
+ 
+Thomas P. Wagner, PhD
+Discovery Program Scientist
+Dragonfly Program Scientist
+Planetary Sciences, NASA HQ
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MRO SHARAD 3D RADAR IMAGES
+
+PDS products for the first two 3D radar images encompassing the polar
+regions of Mars, produced from observations on thousands of orbital 
+passes of MRO SHARAD under MDAP funding, are now available at:
+
+https://pds-geosciences.wustl.edu/missions/mro/sharad_3d.htm
+
+Non-PDS SEG-Y formatted data and other recent products continue to be
+available via:
+
+https://sharad.psi.edu/3D.php
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] POSITION ANNOUNCEMENT FOR PLANETARY DATA ECOSYSTEM CHIEF 
+SCIENTIST
+
+NASA's Planetary Science Division is seeking a highly experienced 
+planetary science expert to serve as its Chief Scientist to represent 
+the Planetary Data Ecosystem (PDE). The Planetary Data Ecosystem 
+defines the broad community of planetary scientists, engineers, mission 
+specialists, data providers, data users and planetary science educators 
+who have interests in planetary missions and their data. The selected 
+Chief Scientist will have a strong background in planetary science and 
+serve as the liaison between the PDE and NASA's Planetary Data System 
+(PDS). The Chief Scientist will report to the PDS Program Scientist at 
+NASA HQ.  
+
+The solicitation is open to the public. This virtual position will be 
+served mostly remotely, will be part time and funded at approximately 
+0.2 FTE, depending on the details of funding arrangements. The position 
+will be a temporary assignment, not to exceed three years, ending (at 
+the latest) in Fall 2024.
+
+Candidates wishing to apply for this position should send their 
+nomination package to Dr. Timothy P. McClanahan 
+(timothy.p.mcclanahan@nasa.gov). The due date for applications is 
+October 29, 2021 COB EST. Position details and nomination package 
+requirements are described at: 
+
+https://pds.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MEPAG SEEKS STANDING COMMITTEE MEMBERS
+
+The Mars Exploration Program Analysis Group (MEPAG) invites Indications 
+of Interest to serve on one of its standing committees: 1) the Steering 
+Committee (SC), which serves as an executive board to provide 
+insightful and constructive community input to NASA goals, policy 
+discussions, and directives, and 2) the Goals Committee (GC), which is 
+the caretaker of the MEPAG Goals Document. Currently, there is a 
+vacancy on the SC, but as GC members are sometimes candidates for the 
+Steering Committee position, indications of interest in serving on 
+either committee are welcomed. Please send your Indication of Interest 
+by November 8, 2021, via the google form linked here. Those interested 
+can self-nominate or encourage others to submit the form. Terms for 
+either committee membership are nominally 2-3 years and can be renewed. 
+
+For more information about MEPAG and the membership of its current 
+committees, please read the material on the next page and see: 
+
+https://mepag.jpl.nasa.gov/about.cfm 
+
+Please send any questions to mepagmeetingqs@jpl.nasa.gov.
+
+Thank you!
+
+R. Aileen Yingst
+MEPAG Chair
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LUNAR SURFACE SCIENCE WORKSHOP: INCLUSIVE LUNAR EXPLORATION
+
+The Lunar Surface Science Workshop series will include a session on 
+Inclusive Lunar Exploration, to be held on January 26-27, 2022.
+
+This workshop will discuss best practices related to advancing 
+inclusion and diversity in the lunar science and exploration community, 
+as well as initiate conversations about how to explore the Moon 
+responsibly, ethically, and inclusively. One expected outcome of the 
+workshop is a publicly available report of key findings and 
+recommendations to NASA and the community at large, including best 
+practices related to inclusive lunar exploration.
+
+Input is solicited from the planetary science and exploration community 
+(defined broadly) in the form of short abstracts (< 1,200 characters) 
+or suggestions for discussion topics and/or speakers. Abstracts are 
+solicited on topics related to diversity, equity, inclusion, and/or 
+accessibility for the lunar and planetary community, as well as 
+abstracts on topics related to exploring the Moon responsibly. We 
+anticipate a mix of invited and contributed presentations, with 
+dedicated time for discussion. Abstracts and/or suggestions for 
+discussion topics/speakers should be submitted by November 17 via the
+conference website: 
+
+https://www.hou.usra.edu/meetings/lunarsurface2020
+
+Registration fees are not being collected, but registration is 
+required. We hope to see many colleagues there!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+A POST-DOC POSITION AVAILABLE IN THE SPACE AND PLANETARY SCIENCE CENTER 
+AT KHALIFA UNIVERSITY, ABU DHABI, UAE
+
+The selected candidate would be associated with the newly formed Space 
+and Planetary Science Center (SPSC) at Khalifa University, which 
+focuses on the analysis of data from current space missions, as well as 
+the development of future ones. The center is involved in a number of 
+missions and instruments including HiRISE, and CaSSIS, as well as 
+involvement in future missions including the Emirates Lunar Mission, 
+ESA's ExoMars rover, and Comet Interceptor.
+
+The center invites applications for a 2-year postdoc position 
+preferably focused on small bodies, however, the following disciplines 
+are also acceptable:
+
+Mars research 
+Lunar research 
+
+All candidates must have earned a Ph.D. degree in Earth Sciences, 
+Planetary Sciences, Physics or a related field. 
+
+Khalifa University offers an attractive compensation and benefits 
+package, commensurate with the successful candidate's background and 
+experience.
+
+Please send your application as a single PDF containing a cover letter,
+CV, publication list, research statement, and a list of 3 suggested 
+references to Mohamed.elmaarry@ku.ac.ae. Any enquiries can be sent to 
+the same email. Position is available until a selection has been made.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PLANETARY ADVISORY COMMITTEE MEETING
+
+The next NASA Planetary Advisory Committee (PAC) meeting will be held, 
+via WebEx, on November 15 and 16, 2021 (10 AM to 6 PM, Eastern, both 
+days). Full agenda can be found here: 
+
+https://science.nasa.gov/researchers/nac/science-advisory-committees/pac
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+ 
+POSTODOCTORAL RESEARCHER OPENING
+
+The Laboratory for Agnostic Biosignatures (LAB) - a NASA-funded project 
+consisting of 15 investigators at 7 institutions - seeks applicants for 
+a postdoctoral fellowship in astrobiology, with a focus on life 
+detection. The LAB Project is developing techniques to detect life in 
+the universe that humans can't conceive of. The LAB team includes 
+biologists, chemists, computer scientists, mathematicians, and 
+instrument engineers. Together, these scientific disciplines aim to 
+define potential extraterrestrial biosignatures, or signs of life, by 
+imagining beyond the molecular framework and underlying biochemistry of 
+the only life we know of here on Earth. The team is designing tools and 
+techniques for detecting these signatures as well as strategies for 
+interpreting them, with the aim of advancing the in situ search for 
+life on Mars, Titan, Enceladus, Europa and other bodies within our 
+Solar System.  
+
+A postdoctoral scientist is sought to work on testing disequilibrium 
+energy-transfer biosignatures using electrochemical methods. The 
+postdoc will utilize a suite of electrochemical techniques to produce a 
+robust set of electrochemical criteria that can be used to 
+differentiate between biological and abiotic electrochemical 
+reactions. These reactions are the basis of energy production in all 
+known life, perhaps in any environment.
+
+https://www.agnosticbiosignatures.org/opportunities
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LUNAR EXPLORATION ETHICS PANEL
+
+The Organizing Committee of NextGen is hosting a Lunar Exploration 
+Ethics Panel: "How do we create a sustainable and ethical long-term 
+presence on the surface of the Moon?" on Tuesday November 2, 2021 at 
+12 PM EDT (9 AM PDT / 4 PM GMT) via Zoom. The event's expected duration 
+is 1.5 hours. Go to:
+
+https://www.nextgenlunar.space
+
+With the Artemis program, NASA is planning on returning humans to the 
+Moon's surface and establishing a base camp in the near future. This 
+panel aims to tackle the ethical, sociopolitical, environmental, and 
+cultural implications of humans attempting to maintain a sustained 
+presence on the surface of the Moon. The panel will allow early career 
+lunar scientists and engineers to discuss with experts how they can 
+help shape the future of lunar exploration to be more sustainable, 
+ethical, and inclusive.
+
+Panelists: Anuradha Damale (she/her); Michelle Hanlon (she/her); AJ 
+Link (he/him); Natalie Trevino (she/her)
+
+More information about the panel and panelists, including a link to 
+register for the event can be found on our website: 
+
+https://www.nextgenlunar.space/events/leep
+
+We hope to see you on November 2nd. Please feel free to share with 
+any interested parties.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] ROSES-21: CITIZEN SCIENCE SEED FUNDING PROGRAM REVISED TEXT AND 
+NEW DUE DATES
+
+The Citizen Science Seed Funding Program aims to incubate citizen 
+science projects as they are being conceived or during critical 
+transitions, like the year when they are first launched or beta tested 
+(i.e., when the first group of volunteers is invited to try the 
+project) or when the project changes scientific direction.
+
+The major changes to the text are as follows:
+
+1. Changes for proposals relevant to Biological and Physical Science 
+   (BPS) division.
+2. Previous CSSFP grantees may apply to the program again, but with 
+   additional requirements
+3. Team expertise requirements.
+4. Technical approach and methodology requirements.
+
+Optional Notices of Intent now requested by November 22, 2021, and 
+6-page proposals are due January 21, 2022.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+Send questions to Marc Kuchner (marc.kuchner@nasa.gov).
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOC IN RADIATION CHEMISTRY/ANALYTICAL CHEMISTRY RELATED TO THE 
+JOVIAN ICY SATELLITES
+
+The Centre d'Etudes sur les Ions, les Materiaux et la Photoniques 
+(CIMAP) in Caen, France, and Laboratoire de Chimie Organique et 
+Bioorganique, Reactivite et Analyse (COBRA), Rouen, France, are looking 
+for a 24-months postdoctoral researcher, starting January 2022.
+
+The postdoc will work on the formation under high vacuum and 
+irradiation (with athe lines of the National Large Particle Accelerator 
+GANIL in Caen, France) of ice samples to investigate the organic 
+chemistry induced by radiation processes on the surface of Jovian 
+satellites. They will also analyze the organic matter resulting from 
+these experiments with a multi-techniques approach including FT-IR 
+spectroscopy and Ultra-High Resolution Mass Spectrometry.
+
+The project involves close collaboration with Aix-Marseille Universite 
+and its recently created Institut des Origines on the planetary 
+application aspects.
+
+A strong background either in vacuum system and laboratory irradiation 
+experiment or analytical chemistry is desired. Application examination 
+is ongoing and a decision is expected by mid November 2021. Send a CV, 
+list of publications, and short description of past research work to 
+the email addresses below.
+
+Hermann Rothard (rothard@ganil.fr)
+Carlos Afonso (carlos.afonso@univ-rouen.fr)
+
+https://www.linkedin.com/feed/update/urn:li:activity:6856981196220571648/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+January 26-27, 2022
+Lunar Surface Science Workshop: Inclusive Lunar Exploration
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+Online
+
+July 25-29, 2022
+2022 Sagan Summer Workshop: Exoplanet Science in the Gaia Era
+https://nexsci.caltech.edu/conferences/#workshop
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Past, Present, and Future of Mars Polar Science: Outcomes and Outlook 
+from the 7th International Conference on Mars Polar Science and 
+Exploration
+Patricio Becerra et al. 2021 PSJ 2:209
+https://doi.org/10.3847/PSJ/ac19a5
+
+The Timing of Alluvial Fan Formation on Mars
+Samuel J. Holo et al. 2021 PSJ 2:210
+https://doi.org/10.3847/PSJ/ac25ed
+
+MOSAIC: A Satellite Constellation to Enable Groundbreaking Mars Climate 
+System Science and Prepare for Human Exploration
+Robert J. Lillis et al. 2021 PSJ 2:211
+https://doi.org/10.3847/PSJ/ac0538
+
+OSSOS. XXIII. 2013 VZ 70 and the Temporary Coorbitals of the Giant 
+Planets
+Mike Alexandersen et al. 2021 PSJ 2:212
+https://doi.org/10.3847/PSJ/ac1c6b
+
+Analyzing Surface Ruggedness Inside and Outside of Ice Stability Zones 
+at the Lunar Poles
+Ariel N. Deutsch et al. 2021 PSJ 2:213
+https://doi.org/10.3847/PSJ/ac24ff
+
+The Dark Side of Pluto
+Tod R. Lauer et al. 2021 PSJ 2:214
+https://doi.org/10.3847/PSJ/ac2743
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

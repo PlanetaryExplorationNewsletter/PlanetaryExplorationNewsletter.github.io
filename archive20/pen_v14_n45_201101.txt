@@ -1,0 +1,405 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 45 (November 1, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. JPL Research Scientist II, Planetary and Exoplanetary Atmospheres
+2. IAU Proceedings Volume dedicated to Laboratory Astrophysics
+3. USGS ISIS News
+4. Request for Feedback on ISIS Release Process and Long Term Support
+5. Visiting Assistant Professor Sought
+6. Research Assistant Position Open at the Planetary Science Institute, 
+   Colorado Office
+7. Planetary Data Ecosystem Request for Information
+8. Research Opportunities in Space Plasmas at LASP, University of 
+   Colorado Boulder
+9. [NASA] ROSES-20 Amendment: COLDTech - Autonomy, Communications, and 
+   Radiation-Hard Devices
+10. Brown University Presidential Diversity Postdoctoral Fellowship
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JPL RESEARCH SCIENTIST II, PLANETARY AND EXOPLANETARY ATMOSPHERES
+
+Location: Pasadena, CA
+
+The Jet Propulsion Laboratory, California Institute of Technology, 
+invites applications for a staff Scientist position in observational 
+studies of the atmospheres of the Gas and Ice Giant planets from 
+ground-based and airborne facilities. It is expected that the 
+successful candidate will develop an independently funded research 
+program and will pursue new lines of research focusing on the dynamics 
+and chemistry of the giant planets of the Solar System.
+
+The position requires a Ph.D. in planetary science, planetary physics, 
+astronomy, or related scientific discipline, along with demonstrated 
+experience in conducting observations with large ground-based or 
+airborne telescopes, with a successful track record and strong interest 
+in applying those efforts to problems related to planetary science. The 
+successful candidate will have a demonstrated professional reputation 
+as a productive researcher with a track record of publications in 
+peer-reviewed journals.
+
+For a full description and to apply, please visit: 
+
+http://jpl.jobs/jobs/2020-12485-Research-Scientist-II-Planetary-and-Exoplanetary-Atmospheres 
+
+Applications received by November 23, 2020, will receive full 
+consideration. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+IAU PROCEEDINGS VOLUME DEDICATED TO LABORATORY ASTROPHYSICS
+
+We are happy to announce the publication of "Laboratory Astrophysics: 
+from Observations to Interpretation", the proceedings of the first 
+topical symposium on Laboratory Astrophysics sponsored by the 
+International Astronomical Union. This volume of Proceedings devoted 
+to Laboratory Astrophysics and Astrochemistry is a collection of over 
+500 pages of science articles with contributions from leading 
+scientists in the field describing the current state-of-the-art in 
+this multidisciplinary discipline (see links below for more details). 
+This volume constitutes an invaluable reference for the community at 
+large and will, hopefully, be a first in a long series of IAU 
+Proceedings devoted to Laboratory Astrophysics. 
+
+Sincerely, 
+
+Farid Salama & Harold Linnartz
+
+Laboratory Astrophysics: from Observations to Interpretation
+Proceedings IAU Symposium No. 350, 2019
+F. Salama & H. Linnartz, eds.
+Cambridge University Press
+International Astronomical Union 2020
+ISBN 9781108482479
+
+Table of Content: 
+
+https://bit.ly/35Rx0lV
+
+List of Papers: 
+
+https://bit.ly/320tUes
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ISGS ISIS NEWS
+
+ISIS 4.3.0 release is scheduled for end of October. For instructions on 
+installing or upgrading, see:
+
+http://bit.ly/isisinstall 
+
+A new Request for Comment (RFC) has been posted concerning the ISIS 
+programming API around BLOB data types. The proposed changes are not 
+anticipated to impact users, but may impact API consumers. For 
+additional information, please see: 
+
+http://bit.ly/isisrfc6
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REQUEST FOR FEEDBACK ON ISIS RELEASE PROCESS AND LONG TERM SUPPORT
+
+The Technical Committee for the USGS-Astrogeology ISIS software is 
+requesting feedback on its release process.
+
+Overview: For a few months, we are actively soliciting input from the 
+community of ISIS users to help determine the pace and requirements of 
+ISIS releases. This request will be used, by members of the ISIS TC, 
+to develop a plan for the ISIS release cadence and to determine if and 
+how a long-term support (LTS) model may be implemented by the ISIS 
+project.
+
+We are soliciting user feedback on the ISIS release cycle in order to 
+better define release requirements. Specifically we want to know how 
+you interact with ISIS releases, the life-cycle or update cadence that 
+you use with ISIS, and your expectations for release stability through 
+one or more user stories. In the context of this request, user stories 
+are at most five sentences summarizing generally who you are 
+(a persona), what release requirements would fulfill your needs, and 
+why this story fulfills your needs.
+
+Please provide feedback at: 
+
+https://github.com/USGS-Astrogeology/ISIS_TC/issues/124
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VISITING ASSISTANT PROFESSOR SOUGHT
+
+Albion College in south-central Michigan is seeking a Visiting 
+Assistant Professor. The successful candidate would teach Introductory 
+Astronomy + lab and Astrophysics I + lab in Spring 2021, and 
+Introductory Astronomy + lab and any physics courses that need coverage 
+in Fall 2021. Extending the position to Spring 2022 is a possibility.  
+
+Please apply at: 
+
+https://apply.interfolio.com/80281
+
+Contact Nicolle Zellner (Department Chair, Physics) at 
+nzellner_at_albion.edu with questions about the position.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+RESEARCH ASSISTANT POSITION OPEN AT THE PLANETARY SCIENCE INSTITUTE, 
+COLORADO OFFICE
+
+The Planetary Science Institute is seeking a Research Assistant to 
+support operations of the Shallow Radar (SHARAD) instrument onboard 
+NASA's Mars Reconnaissance Orbiter (MRO) spacecraft, to participate in 
+the development of a new Planetary Orbital Radar Processing and 
+Simulation System (PORPASS), and to contribute to other research 
+projects in our Lakewood, Colorado office.
+
+Key responsibilities:
+
+- Develop software for PORPASS and the Colorado SHARAD Processing 
+  System (CO-SHARPS).
+- Provide technical support to end users of PORPASS and CO-SHARPS.
+- Assist in planning new observations to be taken by SHARAD in the 
+  ongoing MRO mission.
+- Participate in research projects involving the study of Mars' 
+  surface and subsurface properties using orbital radar soundings, 
+  thermophysical observations, and other data.
+
+Minimum Qualifications:
+
+- Bachelor's degree in science, engineering, or mathematics
+- Experience in web application development, including SQL and PHP 
+  scripting
+- Proficiency with Linux operating systems and scripting
+- Proficiency with Python, IDL, MATLAB, or similar programming 
+  languages
+- A demonstrated ability to work well with others
+
+For full job posting and application procedures, please go to: 
+
+https://www.psi.edu/about/hr 
+
+To learn about working at PSI, go to:
+
+http://www.psi.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY DATA ECOSYSTEM REQUEST FOR INFORMATION
+
+The NASA Planetary Science Division is conducting an independent review 
+of the Planetary Data Ecosystem (PDE), defined as the ad hoc connected 
+framework of activities and products that are built upon and support 
+the data collected by planetary space missions and research programs 
+which are primarily NASA funded. Many familiar tools and databases are 
+part of the PDE, including (but not limited to): ADS, AstroMat, DAPs, 
+data policies & standards, JMars, JPL Horizons, MAPSIT, NASA Github, 
+PDS, Planetary Geologic Mapping, Planetary Photojournal, Quickmap, 
+RPIFs, and USGS Astrogeology ISIS3. The PDE Independent Review Board 
+will review the current state of the PDE and provide findings and 
+prioritized, actionable recommendations that will be used to develop 
+an optimal PDE long-term strategy. To this end, NASA is seeking 
+information and gathering community feedback on the PDE via a Request 
+for Information (RFI), with responses due November 9, 2020. We 
+encourage the planetary sciences community to provide input via this 
+RFI. The full text of the RFI and response instructions can be found 
+at: 
+
+https://bit.ly/3813VYa
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+RESEARCH OPPORTUNITIES IN SPACE PLASMAS AT LASP, UNIVERSITY OF COLORADO
+BOULDER
+
+The Space Plasma Group at the Laboratory for Atmospheric and Space 
+Physics (LASP), University of Colorado, Boulder (CU) invites 
+applications for multiple open positions for research scientists at 
+different rankings (RS-I, RS-II, or RS-III). Research projects include: 
+
+(1) data analysis of Magnetospheric Multiscale (MMS) mission and 
+accompanying modeling efforts to study magnetic reconnection, 
+turbulence, acceleration, shocks, and/or other kinetic plasma 
+processes, 
+(2) application of machine learning to space weather, especially 
+Earth's radiation belt and ionospheric phenomena, 
+(3) analysis of Parker Solar Probe data to study near-Sun solar wind 
+plasma and field phenomena, and 
+(4) Mars data analysis with key interest in the Langmuir Probe and 
+Waves (LPW) data from the MAVEN mission.
+
+The candidates must hold Ph.D. in physics or similar discipline. The 
+candidate should indicate their research interests, and how they could 
+enhance the research projects above. Depending on the science topic, 
+demonstration of their skills in data analysis, MHD/PIC simulation, or 
+machine learning is highly desirable.
+
+Application deadline: January 31, 2021.
+
+Required materials: Cover letter, resume/CV, contact of three 
+professional references, unofficial transcript (if graduated in 3 
+years):
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=27442
+
+For more information, please contact: Xiangning.chu@lasp.colorado.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ROSES-20 AMENDMENT: COLDTECH - AUTONOMY, COMMUNICATIONS, AND 
+RADIATION-HARD DEVICES
+
+The goal of the Concepts for Ocean worlds Life Detection Technology 
+(COLDTech) Program is to develop and advance the maturity of 
+spacecraft technologies required for exploration of ocean worlds such 
+as Europa and Enceladus. For this particular program element, C.26 
+COLDTech: Autonomy, Communications, and Radiation-Hard Devices, the 
+specific technologies sought are 1) autonomy for landed operations, 
+2) technology to enable communication through many kilometers of ice 
+thickness; and 3) radiation-hard digital devices. Proposals are 
+expected to consider the practicality of incorporating the technical 
+advances into flight missions, i.e., mass, volume, power, 
+computational resources, and data rates will be constrained on typical 
+planetary science missions so proposed technologies should aim to 
+minimize their use.
+
+Proposals to this program will be taken by a two-step process in which 
+the Notice of Intent is replaced by a required Step-1 proposal 
+submitted by an organization Authorized Organizational Representative. 
+Only proposers who submit a Step-1 proposal are eligible to submit a 
+Step-2 (full) proposal. See Section 3 for details. Step-1 proposals are 
+due December 1, 2020 and Step-2 proposals are due February 19, 2021.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+Questions: Carolyn Mercer, cmercer@nasa.gov
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+
+BROWN UNIVERSITY PRESIDENTIAL DIVERSITY POSTDOCTORAL FELLOWSHIP
+
+The Brown University Presidential Diversity Postdoctoral Fellowship 
+program is seeking candidates for its 2021-2023 cohort. This program 
+seeks promising Ph.D. graduates from underrepresented groups and/or 
+those who have demonstrated support for underrepresented groups through 
+their teaching and research to spend up to two years at Brown 
+University. The program continues to be a priority for Brown in 
+bringing diverse scholars to the university with the ultimate goal of 
+changing the professoriate here and beyond. The application and more 
+information can be found here: 
+
+https://www.brown.edu/about/administration/institutional-diversity/initiatives/presidential-diversity-postdoctoral-fellowship
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 19-23, 2021
+2021 Sagan Summer Workshop: Circumstellar Disks and Young Planets
+https://nexsci.caltech.edu/workshop/2021/
+Pasadena, CA/Online
+
+October 4-29, 2021
+Gaps, Rings, Spirals, and Vortices: Structure Formation in 
+Planet-Forming Disks
+https://www.munich-iapp.de/planet-forming-disks21
+Munich, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+HST UV Observations of Asteroid (16) Psyche
+Tracy M. Becker et al. 2020 PSJ 1:53
+https://doi.org/10.3847/PSJ/abb67e
+
+Mapping of Ice Storage Processes on the Moon with Time-dependent 
+Temperatures
+Norbert Schorghofer and Jean-Pierre Williams 2020 PSJ 1:54
+https://doi.org/10.3847/PSJ/abb6ff
+
+Unprecedented Molecular Diversity Revealed in Meteoritic Insoluble 
+Organic Matter: The Paris Meteorite's Case
+Gregoire Danger et al. 2020 PSJ 1:55 
+https://doi.org/10.3847/PSJ/abb60f
+
+Lunar Surface and Buried Rock Abundance Retrieved from Chang'E-2 
+Microwave and Diviner Data
+Guangfei Wei et al. 2020 PSJ 1:56
+https://doi.org/10.3847/PSJ/abb2a8
+
+New Illumination and Temperature Constraints of Mercury's Volatile 
+Polar Deposits
+Colin D. Hamill et al. 2020 PSJ 1:57
+https://doi.org/10.3847/PSJ/abb1c2
+
+Abundant Atmospheric Methane from Volcanism on Terrestrial Planets is 
+Unlikely and Strengthens the Case for Methane as a Biosignature
+Nicholas Wogan et al. 2020 PSJ 1:58
+https://doi.org/10.3847/PSJ/abb99e
+
+A Comparative Modeling Study of the Seasonal, Temporal, and Spatial 
+Distribution of Meteoroids in the Upper Atmospheres of Venus, Earth, 
+and Mars
+Diego Janches et al. 2020 PSJ 1:59
+https://doi.org/10.3847/PSJ/abba35
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

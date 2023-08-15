@@ -1,0 +1,599 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 16 (April 6, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 6th Alfven Conference: Plasma Interactions with Solar System 
+   Objects Anticipating the Rosetta, Maven and Mars Orbiter Missions
+2. First Landing Site Workshop for the 2020 Rover Mission to Mars
+3. Planetary Geomorphology Image of the Month
+4. [NASA] PDS - GRAIL Release 4
+5. [NASA] Europa Mission Community Announcement
+6. [NASA] Lunar Data Analysis Program
+7. [NASA] Discovery AO Technology Workshop
+8. [NASA] Job Opportunity: Chief Exploration Scientist at NASA HQ
+9. [NASA] PDS - Odyssey Data Release 47
+10. EPSC Session MT13: Planetary Science with the James Webb Space 
+    Telescope (JWST)
+11. JWST SSWG White Paper: Solar System Observations with JWST
+12. [NASA] PDS - Cassini Data Release 37
+13. NASA Postdoctoral Fellowships
+14. Larry Soderblom's 70th Birthday
+15. [NASA] ROSES Volunteer Reviewer Page Established
+16. Graduate Student Research Assistant Positions at Hampton University
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+6TH ALFVEN CONFERENCE: PLASMA INTERACTIONS WITH SOLAR SYSTEM OBJECTS
+ANTICIPATING THE ROSETTA, MAVEN and MARS ORBITER MISSIONS
+
+Abstract submission and registration is open.
+
+Conference website: 
+
+http://bit.ly/alfven-2014
+
+Abstract submission: 
+
+http://bit.ly/alfven-abstract
+
+Online registration: 
+
+http://bit.ly/alfven-registration
+
+Abstract deadline: 7 May
+Early registration deadline: 7 May
+Conference dates: 7-11 July 2014 
+
+Location: University College London (UCL), UK 
+
+Main topics: Comets, Mars, Venus, outer planet moons and Earth's 
+Moon - especially common processes with comets, and reviewing current 
+knowledge prior to the arrival of the new missions. 
+
+Please Note: The Tour de France 2014 will take place in London on 
+7 July. We therefore advise booking accommodation early. Special early 
+registration rates, and student and early career scientist registration 
+rates are available - details on website.
+
+Confirmed invited speakers: David Andrews, Stas Barabash, Dave Brain, 
+Tom Cravens, Konrad Dennerl, Wing Ip, Bruce Jakosky, Xianzhe Jia, 
+Geraint Jones, Esa Kallio, Christoph Koenders, Rickard Lundin, 
+Christian Mazelle, Chris Paranicas, Martin Rubin, Yoshifumi Saito, 
+Joachim Saur, Jim Slavin, Matt Taylor, Oleg Vaisberg and Olivier 
+Witasse.
+
+Regards,
+
+Andrew Coates (convener) and Anne Wellbrock (LOC co-chair), on behalf 
+of the LOC and SOC
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FIRST LANDING SITE WORKSHOP FOR THE 2020 ROVER MISSION TO MARS
+
+This is a reminder that the First Landing Site Workshop for the 2020 
+rover mission to Mars will be held May 14-16, 2014. The workshop will 
+be held at the Crystal City Marriott, 1999 Jefferson Davis Highway, 
+in Arlington, VA (703-413-5500) and will follow the MEPAG meeting 
+scheduled for the same venue.
+
+Persons wishing to participate should communicate with both Matt 
+Golombek (mgolombek@jpl.nasa.gov) and John Grant (grantj@si.edu).
+[The abstract deadline was April 4.]
+ 
+Most of the workshop will be devoted to: (1) the overall types of 
+sites for Mars 2020 based on associated scientific and programmatic 
+rationale and suitability for safe landing and roving; and 
+(2) individual landing sites on Mars and their scientific merit and 
+safety. The complete call for the workshop and more information on 
+science objectives and preliminary engineering requirements are at: 
+
+http://marsnext.jpl.nasa.gov/.
+ 
+To make a reservation at the Crystal City Marriott, call 
+(800) 228.9290, block MEPAG Face to Face or mffmffa, or reserve online 
+at: 
+
+http://www.marriott.com/meeting-event-hotels/group-corporate-travel
+/groupCorp.mi?resLinkData=MEPAG%20Face%20to%20Face^wascc%60mffmffa
+%60224%60USD%60false%605/12/14%605/16/14%604/21/14&app=resvlink
+&stop_mobi=yes
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The April 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+ 
+This month's topic is on Ancient Lake Deposits on Mars.
+
+Post is contributed by Tim Goudge, Department of Geological Sciences, 
+Brown University, Providence, RI
+ 
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - GRAIL RELEASE 4
+
+The Planetary Data System (PDS) announces the fourth release of 
+Gravity Recovery and Interior Laboratory (GRAIL) data:
+
+- LGRS EDR - Raw science data originating from the Lunar Gravity 
+  Ranging System (LGRS) on each of the two spacecraft comprising the 
+  GRAIL mission.
+- LGRS CDR - Calibrated and resampled data from the LGRS on each of the 
+  two spacecraft comprising the GRAIL mission.
+- RSS EDR - Raw radio science data and ancillary files from the GRAIL 
+  mission.
+
+This release comprises data from both the primary and extended mission 
+phases and includes version 4 of LGRS EDR and CDR data, along with 
+revisions to some RSS EDR data. It is also the first release of RSS EDR 
+data from all other mission phases. New data products include wheel 
+speed LGRS EDR and CDR products (WRS00, WRS1A, and WRS1B), as well as 
+biased tracking data message standard (BTM) and biased open loop file 
+(BOF) RSS EDR products.
+
+To access the above data, please visit:
+
+http://pds-geosciences.wustl.edu/missions/grail/
+
+For information about this release, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20140331.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+
+http://pds.nasa.gov 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] EUROPA MISSION COMMUNITY ANNOUNCEMENT
+
+SMD intends to release a series of announcements as part of continuing 
+efforts to assess the scientific merits and technical feasibility of 
+Europa mission concepts that cost-effectively implement the science 
+objectives of the latest Planetary Science Decadal Survey. In April 
+2014 SMD will release a Request for Information (RFI) for descriptions 
+of mission concepts, followed by a SALMON-2 Program Element Appendix 
+(PEA) Europa instrument science investigations, and to solicit 
+proposals for instrument investigations conducted by a Principal 
+Investigator (PI) as part of a robotic mission to explore Europa. The 
+notional schedule appears below, the full text of the announcement can 
+be found on NSPIRES at: 
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method
+=init&solId={FD4D190D-430C-0088-8BAF-03E38D2DEFDE}&path=open 
+
+and in the future further information will be posted on the Europa 
+Program Acquisition Page at: 
+
+http://soma.larc.nasa.gov/europa/ 
+
+Release of RFI: Late April 2014 (target)
+Release of PEA Community Announcement: Late April 2014 (target)
+Release of final PEA: July 2014 (target)
+PEA Preproposal conference: ~3 weeks after final PEA release
+PEA Proposals due: 90 days after PEA release
+Selection for competitive Phase A studies: April 2015 (target)
+Concept study reports due: December 2015 (target)
+Down-selection: April 2016 (target)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] LUNAR DATA ANALYSIS PROGRAM
+
+Final text for the Lunar Data Analysis Program is now released. 
+
+The Lunar Data Analysis Program (LDAP) program funds research on the 
+analysis of recent lunar missions in order to enhance their scientific 
+return. LDAP broadens scientific participation in the analysis of 
+mission data sets and funds high-priority areas of research that 
+support planning for future lunar missions. 
+ 
+The final text replaces the prior placeholder text in its entirety. 
+Proposals to this program will be taken by a two-step process, in which 
+the Notice of Intent is replaced by a required Step-1 proposal 
+submitted by an organization Authorized Organizational Representative. 
+Only proposers who submit a Step-1 proposal are eligible to submit a 
+Step-2 (full) proposal. See Section 2.3 for details. Step-1 proposals 
+are due August 29, 2014, and Step-2 proposals are due October 24, 2014.
+
+Questions concerning LDAP may be addressed to:
+
+Robert A. Fogel
+202-358-2289
+rfogel@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] DISCOVERY AO TECHNOLOGY WORKSHOP
+
+Date/Time: April 9, 2014 from 8:30AM to 6:30PM
+
+Location: One Washington Circle Hotel, 1 Washington Circle, NW,
+Washington, DC  20037 - Phone 202-872-1680
+ 
+The goal of this event is to educate the potential proposing 
+community on NASA funded technologies and instruments.
+ 
+All expenses and arrangements for attending this meeting are the 
+responsibility of the attendees and are not allowable as direct cost 
+under a Federal Government award. Government employees may attend and 
+be authorized travel and associated cost as matter of official 
+business.
+ 
+Continental Breakfast will be served.
+ 
+1:30PM - 6:30PM is an opportunity for your organization to have 
+one-on-one time with the technology developers. Please identify with 
+which developers you would like to meet per the agenda that will 
+appear at: 
+
+http://discovery.larc.nasa.gov/
+
+RSVP to Terri Carta at 202-358-2224 (original date April 3).
+ 
+More information will be available at: 
+
+http://discovery.larc.nasa.gov/
+
+Lenard A. Dudzinski
+Planetary Science Division Chief Technologist
+Science Mission Directorate
+ 
+Michael H. New
+Discovery Program Lead Scientist
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] JOB OPPORTUNITY: CHIEF EXPLORATION SCIENTIST AT NASA HQ 
+ 
+NASA Headquarters has just posted a notice for the job of Chief 
+Exploration Scientist in the Human Exploration and Operations Mission 
+Directorate (HEOMD). This is the position that was held by Mike Wargo 
+until his untimely death in August 2013.
+ 
+For more details about the position, visit
+ 
+https://www.usajobs.gov/GetJob/ViewDetails/366013300
+ 
+Open Period:  Wednesday, April 02, 2014 to Tuesday, April 15, 2014
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS - ODYSSEY DATA RELEASE 47
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 47, for the following instruments:
+
+GRS
+THEMIS
+Radio Science (Releases 139-141)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20140401.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EPSC SESSION MT13: PLANETARY SCIENCE WITH THE JAMES WEBB SPACE 
+TELESCOPE (JWST)
+
+European Planetary Science Congress 2014 (September 7-12) will have a 
+special session (MT13) on Planetary Science with the James Webb Space 
+Telescope (JWST).
+
+Convener: P. Ferruit
+
+Scheduled for launch in October 2018, the James Webb Space Telescope 
+(JWST) will be one of the major space observatories of the next 
+decade. JWST and its instrument suite will allow planetary scientists 
+and astronomers to perform imaging and spectroscopy over the 0.6 to 28 
+micron range with unprecedented  sensitivity. JWST is designed to 
+observe solar system objects beyond earth orbit having apparent rates 
+of motion up to 30 milliarcseconds/second, i.e. planets, satellites, 
+asteroids, trans-neptunian objects and comets. JWST will also allow to 
+look beyond our solar system and to study exo-planets.
+
+This session will be dedicated to presentations of planetary science 
+(both in our solar system and in other stellar system) that could be 
+conducted with JWST. 
+
+Abstracts are due May 6, 2014.  
+
+http://meetingorganizer.copernicus.org/EPSC2014/session/16816
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+JWST SSWG WHITE PAPER: SOLAR SYSTEM OBSERVATIONS WITH JWST
+
+The JWST Solar System Working Group has released "Solar System 
+Observations with JWST" by Norwood et al.
+
+Abstract: The James Webb Space Telescope will enable a wealth of new 
+scientific investigations in the near- and mid-infrared, with 
+sensitivity and spatial/spectral resolution greatly surpassing its 
+predecessors. In this paper, we focus upon Solar System science 
+facilitated by JWST, discussing the most current information available 
+concerning JWST instrument properties and observing techniques relevant 
+to planetary science. We also present numerous example observing 
+scenarios for a wide variety of Solar System targets to illustrate the 
+potential of JWST science to the Solar System community. This paper 
+updates and supersedes the Solar System white paper published by the 
+JWST Project in 2010 (Lunine et al., 2010). It is based both on that 
+paper and on a workshop held at the annual meeting of the Division for 
+Planetary Sciences in Reno, NV in 2012. 
+
+Please find the Solar System White Paper at: 
+
+http://arxiv.org/abs/1403.6845 
+
+or 
+
+http://www.stsci.edu/jwst/doc-archive/white-papers
+
+A supporting white paper, "Observing Planetary Rings with JWST: Science 
+Justification and Observation Requirements" by Tiscareno et al. is also 
+now available at: 
+
+http://arxiv.org/abs/1403.6849
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] PDS - CASSINI DATA RELEASE 37
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 37, April to June 2013, for instruments:
+
+CIRS
+HRD
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+VIMS
+
+CDA and UVIS data will soon be available.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the 
+Planetary Image Data Atlas. Large data sets may take as long as a few 
+days beyond the formal release date to be incorporated into these 
+services. Check each service's web site to see the status of the latest 
+release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20140402.html
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18314
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and $8,000 
+per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+LARRY SODERBLOM'S 70TH BIRTHDAY
+
+Dear Friends.
+
+We invite you to a celebration in honor of Larry Soderblom's 70th 
+birthday, to occur Sunday, July 20th at the Arizona Snowbowl, in 
+Flagstaff, AZ.
+
+We are planning a one-day symposium highlighting Larry's involvement 
+in our exploration of the Solar System and the history of the USGS 
+Astrogeology Science Center, followed by an evening of dining, 
+chatting, and roasting. We anticipate that the day's food will cost on 
+order of $50 per person. If you are interested in attending, please 
+RSVP at: 
+
+http://las70.splashthat.com
+
+
+Sincerely,
+The Local Roasting Committee
+(Bob B., Lisa G., Ken H., Torrence J., Randy K., Alfred M., Jason S., 
+Joe V.)
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] ROSES VOLUNTEER REVIEWER PAGE ESTABLISHED
+
+To increase the pool of un-conflicted reviewers we are seeking subject 
+matter experts to serve as mail-in reviewers of proposals and/or 
+in-person reviewers to engage in discussions at a face-to-face panel 
+meeting. New researchers (including post doctoral fellows) are welcome 
+to apply as they provide fresh insight from people close to the most 
+current research. Just follow the links below to the volunteer review 
+forms and indicate the fields in which you consider yourself to be a 
+subject matter expert and click the boxes. If your skills match our 
+needs for this review NASA will contact you to discuss scheduling.     
+
+We are currently seeking reviewers for:
+
+ROSES 2014 Heliophysics programs
+ROSES 2014 E.3, The Exoplanet Research Program
+ROSES 2014 C.2 Emerging Worlds
+
+Go to:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+GRADUATE STUDENT RESEARCH ASSISTANT POSITIONS AT HAMPTON UNIVERSITY
+
+Recent funding development enabled multiple graduate research assistant 
+position openings at Hampton University's Department of Atmospheric and 
+Planetary Sciences. We seek to fill these openings for Fall 2014. The 
+department offers M.S. and Ph.D. degrees in Atmospheric Sciences, and 
+Planetary Science.
+
+Currently available funding supports modeling and space-based remote 
+sensing observation of Earth and other planets. Visit our website at: 
+
+http://cas.hamptonu.edu/ 
+
+and send inquiries to kunio.sayanagi "at" hamptonu.edu. Start your 
+application process here: 
+
+http://www.hamptonu.edu/apply/gradadmission.cfm
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 10-11, 2014
+NASA Community Workshop on the Global Exploration Roadmap
+http://geocalendar.agu.org/meeting/nasa-community-workshop-on-the
+-global-exploration-roadmap/
+Laurel, MD
+
+September 29 - October 3, 2014
+Dynamical Astronomy in Latin-America
+http://adela2014.das.uchile.cl
+Santiago, Chile
+
+October 7-10, 2014
+12th European VLBI Network Symposium and Users Meeting
+http://evn2014.oa-cagliari.inaf.it/EVN2014/
+Cagliari, Italy
+
+November 18-21, 2014
+Star-Planet Interactions and the Habitable Zone
+http://irfu.cea.fr/habitability/
+Saclay, France
+
+February 23-27, 2015
+Physics of Exoplanets: From Earth-sized to Mini-Neptunes
+http://www.kitp.ucsb.edu/activities/dbdetails?acro=EVOPLANETS-C15
+Goleta, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

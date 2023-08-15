@@ -1,0 +1,139 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 3, Number 62 (December 27, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Nic Richmond, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Workshop Announcement:  Mars III, Les Houches, France 
+2. Second International Planetary Dunes Workshop: Planetary Analogs
+3. Digitized Lunar Orbiter Data Available Online in the Planetary 
+   Data System
+4. Call for Abstracts:  Laboratory Planetary Sciences at AOGS 2010 
+5. Planetary Meeting Calendar Additions 
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+WORKSHOP ANNOUNCEMENT:  MARS III, LES HOUCHES, FRANCE
+
+The Mars III workshop will be held in Les Houches, France, from March
+28 - April 2, 2010.  The program is available at:
+
+http://www.sciops.esa.int/index.php?project=MARSEXPRESS&page=
+planet_mars3
+
+Contact: 
+owitasse @ rssd.esa.int
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SECOND INTERNATIONAL PLANETARY DUNES WORKSHOP:  PLANETARY ANALOGS -
+INTEGRATING MODELS, REMOTE SENSING, AND FIELD DATA
+
+Workshop will be held May 18-21, 2010 at the Inn of the Rio Grande in 
+Alamosa, Colorado. The workshop will also include a one-day field trip 
+to Great Sand Dunes National Park.
+ 
+http://www.lpi.usra.edu/meetings/dunes2010/dunes20101st.shtml
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+DIGITIZED LUNAR ORBITER DATA AVAILABLE ONLINE IN THE PLANETARY DATA
+SYSTEM
+
+A Planetary Data System (PDS) archive of digitized Lunar Orbiter (LO) 
+data from missions III, IV, and V is available online at 
+
+http://pdsmaps.wr.usgs.gov/PDS/public/lunar_orbiter/LO_Archive.html 
+
+Data for this archive were created at USGS by scanning film strips at 
+25 microns, constructing frame mosaics, performing cosmetic correction 
+(including stripe removal), and map-projecting the frames.  Included 
+in this archive are LO digitized film strips and various levels of 
+processed data, as well as documentation describing the LO mission, 
+instruments, and processing steps.  Please check the above Web site 
+for updates to the archive as it is populated.  This archive 
+complements the online Lunar Orbiter data projects at USGS:
+
+http://astrogeology.usgs.gov/Projects/LunarOrbiterDigitization/) 
+
+and at LPI:
+ 
+http://www.lpi.usra.edu/resources/lunar_orbiter/
+
+This work was carried out by the Astrogeology Science Center of the 
+U.S. Geological Survey in Flagstaff, Arizona, with funding from the 
+Cartography Program of the NASA Planetary Geology and Geophysics and 
+the NASA Lunar Precursor Robotic Programs. 
+
+ 
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR ABSTRACTS:  LABORATORY PLANETARY SCIENCES AT AOGS 2010
+
+Meeting is July 5-9, 2010 in Hyderabad, India
+
+Session: PS09 Laboratory Planetary Sciences
+Abstract deadline: 1 March 2010
+Conveners: David Huestis (david.huestis@sri.com), Robert Wu, Xianming 
+Liu, and Danie Liang
+
+Session URL:
+
+http://www.asiaoceania.org/aogs2010/mars/confSessionView.asp?sID=24
+
+Conference: URL:
+
+http://www.asiaoceania.org/aogs2010/
+
+Research themes for this session
+- all spectral ranges of laboratory investigations
+- particle and radiation interaction with all phases of matter
+- theoretical and laboratory cross sections and reaction rates
+- application to planetary, cometary, and astronomical observations
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 4-7, 2010
+Herschel First Results Symposium (ESLAB 2010)
+http://herschel.esac.esa.int/FirstResultsSymposium.shtml
+Noordwijk, The Netherlands
+
+May 18-21, 2010
+Second International Planetary Dunes Workshop: Planetary Analogs -
+Integrating Models, Remote Sensing, and Field Data
+http://www.lpi.usra.edu/meetings/dunes2010/dunes20101st.shtml
+Alamosa, CO
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

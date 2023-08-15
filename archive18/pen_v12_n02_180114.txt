@@ -1,0 +1,639 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 02 (January 14, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Summer Internships at Johns Hopkins Applied Physics Lab (APL)
+2. Pluto After New Horizons: Date Change
+3. Updates for NASA Outer Planets Assessment Group (OPAG)
+4. Topical Issue of Journal of Space Weather and Space Climate
+5. AOGS Session PS02: Volcanism and Tectonism Across the Solar System
+6. AOGS Session PS22: Field and Laboratory Studies in Support of
+   Planetary Infrared Remote Sensing
+7. ASIME 2018
+8. Final Cassini Science Symposium Save The Date: Aug. 12-17, 2018
+9. FAPESP Post-Doc Announcement
+10. COSPAR 2018: Ocean Worlds: Europa, Enceladus, Titan, and Beyond
+11. COSPAR 2018: Small Body Hazard
+12. COSPAR 2018: Observations of Planetary Objects with Non-planetary
+    Spacecraft
+13. MEPAG Meeting Forecasting Reminder and Tentative Meeting Structure
+14. [NASA] ROSES-17 Amendment 60: C.2 SSW Proposal Due Date Delay
+15. TESS-2018 Session: Comparative Physics and Consequences of 
+    Celestial Body Atmospheric Loss
+16. Mars Exploration Science Monthly Newsletter for January 2018
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SUMMER INTERNSHIPS AT JOHNS HOPKINS APPLIED PHYSICS LAB (APL)
+ 
+The Space Exploration Sector of The Johns Hopkins University Applied
+Physics Laboratory (APL) in Laurel, MD is now accepting applications
+for the APL NASA Intern Program. Rising sophomores through Ph.D.
+students as of fall 2018 who are selected will contribute to
+NASA-related missions and research work. Talks by key mission engineers
+and scientists, along with tours of APL and other activities, will be
+provided. Applicants must be U.S. citizens, be in high academic
+standing (3.0 GPA or higher), and have successfully passed a background
+check. Applications are due by March 30, 2018; however, selections are
+made on a continuous basis, so interested students should apply as
+early as possible. For more information, please visit: 
+ 
+http://www.jhuapl.edu/NASAIntern/
+ 
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLUTO AFTER NEW HORIZONS: DATE CHANGE
+ 
+The dates for the international science conference on the Pluto system
+and the Kuiper Belt have been moved to July 12-16, 2019 (Friday-
+Tuesday). Unfortunately, these new dates span a weekend, but that was
+unavoidable owing to conflicts with two other major conferences.
+
+There will be a reception commemorating the 4th anniversary of the
+Pluto flyby during the evening of July 14th. The venue remains the
+same: The Johns Hopkins University Applied Physics Laboratory in
+Laurel, MD.
+
+This conference will provide an opportunity to summarize our
+understanding of the Pluto system and the Kuiper belt following the New
+Horizons encounters with Pluto and 2014 MU69. Contributions spanning
+all relevant research on the Kuiper belt (observations and theory) will
+be solicited. The conference will also serve as a nucleus for a
+forthcoming volume "Pluto After New Horizons" in the University of
+Arizona Space Science Series (projected 2020 publication date), the
+successor to "Pluto-Charon" published in 1997.
+
+A detailed registration website will be set up this summer,
+~1 year prior to the conference.
+
+With best regards,
+
+Hal Weaver (JHU-APL), Alan Stern (SwRI), Rick Binzel (MIT) (on behalf
+of the SOC)
+
+For further information, contact hal.weaver@jhuapl.edu
+
+(Edited for length.)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+UPDATES FOR NASA OUTER PLANETS ASSESSMENT GROUP (OPAG)
+
+Next meeting: February 21-23 in Hampton VA; registration and hotel
+reservations are now open:
+
+http://www.cvent.com/d/mtqcd8
+
+Feb. 21-22: Main OPAG meeting 
+Feb. 23: Technology forum to identify technologies that support
+         near-, mid- and far-term outer planetary system missions
+
+The agenda will be posted soon at:
+
+https://www.lpi.usra.edu/opag/
+
+A major topic will be revision of the OPAG goals document; a draft will
+be posted in advance of the meeting.
+
+Early Career Participant Support available for OPAG Meeting.
+
+OPAG plays a key role in sculpting the planetary science community's
+input into NASA activities for outer planets science and exploration.
+It is critical for Early Career scientists to attend these meetings
+both to learn how NASA and Planetary Science programs operate and to
+represent the community that will work on OPAG-relevant projects in the
+coming decade. Selected individuals will present a poster at the
+meeting on a topic of their choosing. Interested graduate students,
+postdocs, and other Early Career scientists (within 5 years of
+PhD/MS/BS) should submit a one-page letter of interest and a CV to
+britneys@eas.gatech.edu by January 16, 2018. Recipients will be
+notified by ~January 20. For more information, email Britney Schmidt
+(britneys@eas.gatech.edu).
+
+(Edited for length.)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TOPICAL ISSUE OF JOURNAL OF SPACE WEATHER AND SPACE CLIMATE
+
+The Journal of Space Weather and Space Climate (SWSC) plans a Topical
+Issue on "Planetary Space Weather" to appear in 2018. Space weather -
+the monitoring and prediction of disturbances in our near-space
+environment and how they are controlled by the Sun - is since long
+recognised as an important aspect of understanding our Earth and
+protecting vital assets such as orbiting satellites and power grids.
+The concepts of space weather and space situational awareness have also
+been extended to other planets in our Solar System and in particular to
+spacecraft that voyage through it.
+
+This Issue aims to detail available methods and tools developed in
+order to make services for planetary space weather and space
+situational awareness operational. Papers on the validation of the
+services, availability of data relevant to the field, as well as
+research on forecast and modelling of the planetary environments and
+their response to solar or meteor disturbances are welcome.
+
+Deadline for article submission is 15 April 2018.
+
+https://www.swsc-journal.org/component/content/article/11-news/270-
+topical-issue-planetary-space-weather-deadline-15-april-2018
+
+(Edited for length.)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS SESSION PS02: VOLCANISM AND TECTONISM ACROSS THE SOLAR SYSTEM
+
+Asia Oceania Geosciences Conference 2018
+June 3-8, Honolulu, Hawaii 
+Abstract submission deadline: 19 January 2018
+
+http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm 
+
+The surfaces of the terrestrial planets and their satellites have been
+largely shaped through volcanic and tectonic processes. Extreme
+conditions on outer solar system bodies, such as the Jovian and
+Saturnian satellites, result in different types of volcanism and
+tectonism. Fracturing and faulting processes mainly affect minor bodies
+such as asteroids and small moons, where volcanism and tectonism have
+not played an important role. We invite contributions that cover a wide
+range of topics including geomorphology and composition of volcanic
+deposits, edifices, and plumes, volcano-induced deformation and edifice
+growth and collapse to tectonic structures, faulting and fracturing
+processes, crustal stress and strain analysis, cryovolcanism, and any
+study related to planetary endogenic processes. Furthermore, studies
+that relay interactions between planetary interiors, surfaces, and
+atmospheres are welcomed. Comparative studies of volcanic or tectonic
+systems on Earth with a strong remote sensing component are encouraged.
+
+Hope to see you there!
+
+The Conveners:
+
+Dr. Anezina Solomonidou (ESA, ESAC, Spain)
+Dr. Rosaly Lopes (JPL, Caltech, USA)
+Dr. Florian M. Schwandner (JPL, Caltech, USA)
+
+(Edited for length.)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AOGS SESSION PS22: FIELD AND LABORATORY STUDIES IN SUPPORT OF PLANETARY
+INFRARED REMOTE SENSING
+
+Asia Oceania Geosciences Conference 2018
+June 3-8, Honolulu, Hawaii 
+Abstract submission deadline: 19 January 2018
+
+http://www.asiaoceania.org/aogs2018/public.asp?page=home.htm 
+
+Dear colleagues,
+
+We’d like to draw your attention to a session focused on field and
+laboratory studies at the 2018 AOGS meeting.
+
+This session will highlight the importance of comprehensive analog
+studies towards understanding planetary remote sensing datasets, with a
+focus on the near infrared and thermal infrared. Contributions that
+probe the links between the small-scale of laboratory (microns to
+millimeters) and ground/airborne field (centimeters to meters)
+measurement to the large-scale (10s meters to kilometers) in remote
+sensing observations to better interpret the dynamics, chemistry,
+composition, thermophysics, and physical properties of surfaces and
+atmospheres are encouraged. This session is open to a diverse range of
+planetary bodies, including Mercury, Venus, Moon, NEOs, Mars, Martian
+Moons, MBOs, Trojans, Gas Giants, Ice Giants, Icy Satellites, Irregular
+Satellites, and Plutoids. New developments of instrumentation and
+techniques used in field and laboratory studies are also welcome.
+
+Look forward to seeing you in Honolulu!
+
+Ben Greenhagen
+Kerri Donaldson Hanna
+Neil Bowles
+Tim Glotch
+Paul Lucey
+
+(Edited for length.)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASIME 2018
+
+Dear Colleagues,
+
+As part of the Luxembourg government's in-space utilization initiative
+(www.spaceresources.lu), we are developing a two-day workshop
+(asime.uni.lu) on April 16-17, 2018 titled:
+
+Asteroid Science Intersections with In-Space Mine Engineering (ASIME)
+2018 
+University of Luxembourg in Esch sur Alzette 
+Abstracts due: March 9, 2018
+
+ASIME 2018 focuses on the 'asteroid composition' theme of the science
+knowledge gaps that emerged from ASIME 2016 (https://goo.gl/afnVLO).
+
+ASIME 2018 program:
+
+1st Day Spectroscopic Observations from the Ground 
+
+- Classic spectroscopy 
+- Spectroscopy mid-IR 
+- Water 
+- Mineralogy and water 
+- Round table at day-end
+
+- Workshop Dinner (covered) 
+
+2nd Day Lab measurements then Space missions
+
+- Laboratory Measurements (Meteorites) 
+- Composition, mineralogy 
+- Space Missions 
+- NEOWise 
+- Hayabusa 2 
+- Osiris Rex 
+- Hera 
+- Dawn Review of instruments to access composition 
+- Wrap-up: How to Improve Our Knowledge 
+
+- Workshop Dinner (covered) 
+
+Aiming for 30 workshop participants plus 30+ 'listeners', long
+discussions. The Outcomes will produce a White Paper to address
+asteroid mining company questions regarding asteroid composition. 
+
+Sincerely,
+
+Amara Graps, graps@psi.edu, PSI, Baltics in Space, LU
+Patrick Michel, michelp@oca.eu, OCA
+
+(Edited for length.)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FINAL CASSINI SCIENCE SYMPOSIUM SAVE THE DATE: AUG. 12-17, 2018
+
+Dear colleagues,
+ 
+The Cassini Project will host a five-day Cassini Science Symposium
+August 12-17, including a reception Sunday evening before the sessions.
+The sessions will be held at the University of Colorado in Boulder.
+
+Invited and contributed talks will include the latest Cassini findings
+on the Saturn system, including the interpretation and synthesis of
+results. Sessions will cover the following disciplines: Rings, Titan,
+Icy Satellites, Magnetospheres and Saturn. This Symposium can serve as
+a springboard for future studies and space missions. Future mission
+posters are possible.
+
+The symposium website can be found at:
+ 
+http://lasp.colorado.edu/home/2018-cassini-science-symposium/
+
+Details, including key dates, registration and hotel information, and
+abstract instructions be added to the website as known and will be
+sent in future announcements. Abstracts will be due 16 April, 2018. But
+for now, please save the dates.
+
+If this announcement was forwarded to you and you would like us to add
+your email address to the contact list for future information, please
+contact Laura Bloom (see below).
+ 
+We hope to see you there.
+ 
+Larry W. Esposito
+Chair, Symposium Organizing Committee
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FAPESP POST-DOC ANNOUNCEMENT 
+
+The Group of Orbital Dynamics and Planetology invites applications for
+post-doc positions. There are 5 positions that will be funded by
+FAPESP (Fundacao de Amparo a Pesquisa do Estado de Sao Paulo). The
+candidates must have experience on Planetary Dynamics and/or Spacecraft
+Dynamics. The projects to be developed are the following:
+
+- Orbits of satellites and planetary rings derived from space mission
+  data
+- Attitude and orbit analysis for a mission to a triple asteroid system
+- Spin-orbit coupling in Solar System dynamics
+- Dynamics involving small bodies under gravitational close approaches
+- Planetary Formation
+
+The projects will be developed in one of the following institutions:
+
+- Sao Paulo State University, UNESP in Guaratingueta
+- National Institute for Space Research, INPE in Sao Jose dos Campos
+
+Applicants should send a statement of research interest and a
+curriculum vitae with a list of publications to Prof Silvia Giuliatti
+Winter (giuliattiwinter@gmail.com) 
+
+Deadline of applications: March, 3, 2018
+
+Best Regards,
+Prof Silvia Giuliani Winter
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+COSPAR 2018: OCEAN WORLDS: EUROPA, ENCELADUS, TITAN, AND BEYOND
+
+14-22 July 2018
+Pasadena, California
+
+Solar system exploration stands on the edge of profound discovery,
+offering the opportunity to search for habitable environments and
+possible signs of life in one or more of the ocean worlds of the outer
+solar system in the coming decades. This event welcomes papers
+describing one or more of the confirmed or potential ocean worlds that
+harbor subsurface oceans of liquid water and/or, for Saturn's moon
+Titan, surface reservoirs of liquid hydrocarbon and solid organics.
+These bodies represent attractive targets for future stand-alone and
+cooperative missions by the major space agencies in the quest to
+understand the potential for life in the solar system.
+
+Submissions that describe new observations of ocean properties,
+stimulate or describe future observations, review our current state of
+knowledge, laboratory investigations, or future missions plans are
+encouraged.
+
+Abstracts for contributed presentations at Session B5.3 are due on
+February 9, 2018, and must be submitted on the COSPAR website. Full
+details for abstract submission, as well as the detailed description of
+the content of the session are available at:
+
+https://www.cospar-assembly.org
+
+Session organizers: Alex Hayes (Cornell, USA) and Robert Pappalardo
+(JPL, USA)
+
+(Edited for length.)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+COSPAR 2018: SMALL BODY HAZARD
+
+14-22 July 2018
+Pasadena, California
+
+We invite you to submit an abstract to session COSPAR-18-S.3, due Feb.
+9, 2018. Planetary defense against small body impacts is an active
+field of research, which involves ground-based observational
+activities, numerical modeling of deflection techniques, experiments to
+validate models in the laboratory, and space mission projects and
+associated technology developments. The asteroid impact hazard is the
+only natural hazard that can be predicted and prevented with feasible
+means. The small body hazard is inherently an international issue. The
+AIDA mission project, a joint collaboration between ESA and NASA, is
+the first demonstration and test of asteroid deflection using a kinetic
+impactor and an orbiter spacecraft. This work has triggered important
+activities related to planetary defense. Work currently focused on the
+definition and coordination of technology needs and requirements for
+planetary defence, modelling and simulations of impact outcomes
+including benchmarking of available tools, definition of remote sensing
+observations, characterization payloads and close-proximity operations.
+This special event will discuss the various elements and their current
+state. For more information and for complete descriptions and abstract
+submission instructions see the Assembly web page:
+
+https://www.cospar-assembly.org/
+
+Sincerely,
+Patrick Michel
+(michelp@oca.eu)
+Andy Cheng
+(andrew.cheng@jhuapl.edu)
+
+(Edited for length.)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+COSPAR 2018: OBSERVATIONS OF PLANETARY OBJECTS WITH NON-PLANETARY 
+SPACECRAFT
+
+14-22 July 2018
+Pasadena, California
+
+Missions not primarily designed for planetary observations are
+nevertheless valuable sources of observational data on major, dwarf,
+and minor planets, as well as comets. Example missions are the NASA/ESA
+SOHO and NASA STEREO solar and heliospheric missions, that have
+returned observations of numerous comets, the NASA Kepler exoplanet
+mission which has observed planets and various small bodies, and ESA's
+Gaia mapping mission. In this session, we address such observations
+carried out by past and current missions as well as projects that are
+in development and proposed. Contributions are invited to provide an
+overview of results from such observations, and those planned for the
+future. Contributions that provide insights into the securing of
+serendipitous planetary observations to help advise future efforts are
+particularly encouraged.
+
+Abstracts for contributed presentations at Session B0.3 are due on
+February 9, 2018, and must be submitted on the COSPAR website-full
+details for abstract submission, as well as the detailed description of
+the content of the session are available at
+
+https://www.cospar-assembly.org
+
+Organizers - Geraint Jones (MSSL, University College London, UK) &
+Matthew Knight (University of Maryland, USA)
+
+(Edited for length.)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MEPAG MEETING FORECASTING REMINDER AND TENTATIVE MEETING STRUCTURE
+
+Mars community members,
+ 
+Plans are coming together for the next MEPAG face-to-face meeting
+(April 3-5, 2018, in Crystal City, Washington DC), and we expect to
+send out the First Circular in a few weeks. Until then, here is a
+reminder about the upcoming and important January 15 deadline for
+forecasting, along with a preliminary overview of expected topics to
+assist with forecasting.
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m36
+
+A focus of this MEPAG meeting is preparation for the next Decadal
+Survey. MEPAG seeks to enable opportunities for identifying concepts in
+all mission classes that could make significant progress on compelling
+Mars science questions during 2023-2032. Concepts submitted by
+community members would be presented (poster or short oral
+presentation) and discussed at the meeting.
+ 
+By January 15 (yes, it's a US holiday):
+- NASA/US Government employees and contractors who may attend the
+meeting in-person should forecast for the 2018 Spring MEPAG meeting
+(NCTS# 32452-18) 
+- To help us help us gauge interest and scope, and to aid in planning
+the forum portion of the MEPAG meeting, please submit an expression of
+interest at: 
+
+https://docs.google.com/forms/d/e/
+1FAIpQLSd7nJskPVmtSxggbowL1wrZYvw1jmfA29W6cT87IBBOhMpg1Q/viewform 
+ 
+Thank you,
+ 
+Serina Diniega
+Spring 2018 MEPAG meeting coordinator
+
+(Edited for length.)
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] ROSES-17 AMENDMENT 60: C.2 SSW PROPOSAL DUE DATE DELAY
+ 
+In response to community input, as well as professional hardships
+caused by the recent extreme weather, the proposal due date for Program
+element C.2 Solar System Workings has been delayed to February 22, 
+2018.
+ 
+On or about January 12, 2018, this Amendment to the NASA Research
+Announcement "Research Opportunities in Space and Earth Sciences
+(ROSES) 2017" (NNH17ZDA001N) will be posted on the NASA research
+opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/ 
+ 
+Questions concerning this program element may be directed to Jennifer
+Heldmann, or any other member of the SSW caucus, via email to
+hq-ssw@mail.nasa.gov.
+
+(Edited for length.)
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+TESS-2018 SESSION: COMPARATIVE PHYSICS AND CONSEQUENCES OF CELESTIAL
+BODY ATMOSPHERIC LOSS
+ 
+Triennial Earth-Sun Summit 2018 (TESS-2018)
+20-24 May 2018 
+Leesburg, Virginia
+
+https://connect.agu.org/tess2018/home
+
+TESS-2018 is a meeting that brings together the Solar Physics Division
+of AAS with the Space Physics and Aeronomy section of AGU. TESS not
+only promotes greater interaction and unity within Heliophysics but
+also connections to astrophysics and planetary physics.
+ 
+We would like to bring to your attention a TESS-2018 special session on
+"Comparative Physics and Consequences of Celestial Body Atmospheric
+Loss." We welcome contributions to this session on any related topic to
+particle outflow from the Earth, planets, moons, comets, or Sun.
+Studies that are specific to a single celestial body are welcome, as
+are studies that compare different bodies and address fundamental
+physical processes or universal outflow phenomena.
+
+Abstract deadline: 20 February 2018.
+ 
+Mike Liemohn, Shannon Curry, Katherine Garcia-Sage, Nicholeen Viall
+Email: liemohn@umich.edu
+
+(Edited for length.)
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JANUARY 2018
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+James Ashley of the Mars Program Science Office, the January 2018
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+ 
+ 
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 21-23, 2018
+Outer Planets Assessment Group (OPAG) Meeting
+https://www.lpi.usra.edu/opag/
+Hampton, VA
+
+April 16-17, 2018
+Asteroid Science Intersections with In-Space Mine Engineering (ASIME)
+2018
+https://asime.uni.lu
+Luxembourg City, Luxembourg
+
+May 20-24, 2018
+Triennial Earth-Sun Summit 2018 (TESS-2018)
+https://connect.agu.org/tess2018/home
+Leesburg, VA
+
+August 12-17, 2018
+The Final Cassini Science Symposium
+http://lasp.colorado.edu/home/2018-cassini-science-symposium/
+Boulder, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

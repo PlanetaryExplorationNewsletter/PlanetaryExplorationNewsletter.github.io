@@ -1,0 +1,612 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 27 (June 30, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session P013: Finding, Exploring and Characterizing Terrestrial 
+   Exoplanets: The Next Frontier
+2. AGU Session SM027: Moon-Plasma Interactions Throughout the Solar 
+   System 
+3. AGU Session P005: Carbon Across the Solar System
+4. ESA Research Fellowships in Space Science
+5. Postdoctoral Position in Modeling Fate of Volatiles During 
+   Accretion of Rocky Planets
+6. Inclusive Astronomy 2 Conference: Abstract Submission/
+   Pre-Registration
+7. Rocky Exoplanets in the Era of JWST: Theory and Observation
+8. Call for Abstracts to the ASCE Earth and Space 2020
+9. ASCE Session: Ocean Worlds
+10. Update: New Cometary Insights from the Close Approach of 
+    46P/Wirtanen: A Symposium in Celebration of Mike A'Hearn
+11. NASA's Exploration Science Forum Program Now Online
+12. Python in Planetary Science Survey
+13. Mars InSight Data Release 1B
+14. NASA Job Opening: Orbital Debris Program Office Modeling Lead, 
+    Johnson Space Center
+15. NASA Job Opening: Astromaterials Acquisition and Curation Office 
+    Carbonaceous Asteroid Scientist, Johnson Space Center
+16. Postdoctoral Position in Planetary Sciences
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION P013: FINDING, EXPLORING AND CHARACTERIZING TERRESTRIAL 
+EXOPLANETS: THE NEXT FRONTIER
+
+We are pleased to invite you to submit an abstract for the following 
+session at the 2019 AGU Fall Meeting in San Francisco, CA, December 
+9-13, 2019. 
+
+This session is a discussion of the potential of new and future 
+facilities and modeling efforts designed to detect, image and 
+characterize Earth-size and super-Earth terrestrial exoplanets, 
+studying their formation, evolution and also the existence of possible 
+biospheres. Topics to be covered in this session include instrument 
+requirements and technologies to detect these exoplanets; strategies 
+for target selection and prioritization; signs of exoplanet 
+habitability and global biosignatures that can be sought with upcoming 
+instrumentation; impacts of planetary system properties; and future 
+ground-based and space telescope architectures.
+
+For more information, visit: 
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/75474
+
+The submission deadline is Wednesday, July 31, 2019.
+
+Conveners:
+Franck Marchis (SETI Institute)
+Ramses Ramirez (Tokyo Institute of Technology)
+Douglas A. Caldwell (SETI Institute)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION SM027: MOON-PLASMA INTERACTIONS THROUGHOUT THE SOLAR SYSTEM
+
+We cordially invite you to submit an abstract to the Moon-Plasma 
+Interactions Throughout the Solar System Session at the 2019 AGU Fall 
+Meeting.
+
+This session is Co-Organized with Planetary Sciences.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/71232
+
+This session focuses on observational and theoretical studies of the 
+interaction between the moons of our solar system and the magnetized 
+plasmas incident upon them. This includes plasma interactions with the 
+solid surfaces, atmospheres, dust environments, and intrinsic/induced 
+magnetic fields of the moons, both inside and outside of their parent 
+planets' magnetospheres. Of special interest are results related to 
+in-situ field and particle measurements near the terrestrial moon and 
+from Cassini's flybys of Saturn's icy satellites Enceladus, Rhea and 
+Dione. Studies deepening our understanding of the interconnection 
+between Titan's ionosphere and its highly dynamic magnetospheric 
+environment are also very welcome. The interaction of Jupiter's moons 
+with the ambient magnetospheric plasma will be addressed with a view to
+provide support to the ongoing Juno Mission and the planning of 
+synergistic measurements for the upcoming JUICE and Europa Clipper 
+missions. Comparative studies of the various moon-plasma interaction 
+scenarios are particularly welcome.
+
+Conveners: Lucas Liuzzo, Sven Simon, Lorenz Roth, Aljona Blocker
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P005: CARBON ACROSS THE SOLAR SYSTEM
+
+We invite abstracts for the following session at the 2019 AGU Fall 
+Meeting in San Francisco, CA, December 9-13, 2019.
+
+Recent results ranging from the Kuiper Belt, the Pluto system, the 
+Saturn system, other locations beyond ~5 AU, all the way to Mercury in 
+the inner Solar System, and nearly all points in between, raise 
+questions about the state of carbon in the Solar System: how do 
+carbonaceous compounds become weathered in response to thermal 
+processes and irradiation? How do we recognize carbon compounds and 
+their various weathering products? The syntheses of these results 
+improve our scientific understanding of the role of carbon in the Solar 
+System, how it evolves and how to recognize it. The carbonaceous 
+near-Earth asteroids 162173 Ryugu and 101955 Bennu are now being 
+visited and sampled; the analyses of these samples will provide context 
+for the presence of carbon. In this session, abstracts covering 
+observational, laboratory and modeling work related to carbon and 
+carbonaceous species on Solar System bodies are welcome.
+
+The deadline for abstract submissions is Wednesday, 31 July, 23:59 EDT
+
+Conveners: Faith Vilas (PSI, fvilas@psi.edu), Amanda R. Hendrix (PSI), 
+Yvonne J. Pendleton (NASA ARC)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ESA RESEARCH FELLOWSHIPS IN SPACE SCIENCE
+
+The European Space Agency awards several postdoctoral fellowships each 
+year. The aim of these fellowships is to provide scientists in their 
+early career, holding a PhD or the equivalent degree, with the means of 
+performing research in fields related to the ESA Science Programme. 
+
+Areas of research include planetary science, astronomy and 
+astrophysics, solar and solar-terrestrial science, plasma physics and
+fundamental physics. The fellowships have a duration of two years, with 
+the possible extension to three years, and are tenable at the European 
+Space Research and Technology Centre (ESTEC) in Noordwijk, Netherlands, 
+or at the European Space Astronomy Centre (ESAC) in Villafranca del 
+Castillo, near Madrid, Spain.
+
+Applications are now solicited for fellowships to begin in the fall of 
+2020. Candidates not holding a Ph.D. yet are encouraged to apply, but 
+they must provide evidence of receiving their degree before starting 
+the fellowship.
+
+The deadline for applications is 1 October 2019.
+
+ESA fellows are enrolled in ESA's Social Security Scheme, which covers
+medical expenses. A monthly deduction covers these short-term and 
+long-term risks.
+
+For more information:
+
+http://cosmos.esa.int/fellowship
+
+Questions can be sent to the fellowship coordinators, Dr. Oliver 
+Jennrich or Dr. Jan-Uwe Ness at: fellowship@cosmos.esa.int
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL POSITION IN MODELING FATE OF VOLATILES DURING ACCRETION 
+OF ROCKY PLANETS
+
+The CLEVER Planets (Cycles of Life-Essential Volatile Elements in Rocky 
+Planets) team and Department of Earth, Environmental and Planetary 
+Sciences at Rice University are seeking applicants for a postdoctoral 
+scholar position who would explore dynamical and geochemical 
+fingerprints of accretion and magma ocean processes, searching for 
+conditions of producing thermo-chemically habitable rocky planets. The 
+focus will be tracking the fate of life-essential volatile elements, C, 
+N, H, and S in our Solar System and other exoplanetary systems from the 
+protoplanetary disk to the end of magma ocean stage via dynamical and 
+geochemical modeling. The contract will be initially for 1 year and is 
+renewable for up to 3 years based on progress and performance. The 
+salary would commensurate with experience. The position will be based 
+out of Rice University but the post-doctoral candidate will also have 
+the opportunity to interact with astrophysicist and planetary scientist 
+at UCLA and UC Davis and other team members and collaborators.
+
+Please find more details here: 
+
+http://cleverplanets.org/positions/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INCLUSIVE ASTRONOMY 2 CONFERENCE: ABSTRACT SUBMISSION/PRE-REGISTRATION
+
+The Inclusive Astronomy 2 Conference will be held from October 14-15, 
+2019, at the Space Telescope Science Institute in Baltimore, MD. Like 
+the first Inclusive Astronomy conference, IA2 will serve as a venue to 
+advocate and provide resources for the inclusion in the astronomy 
+community of people of color; LGBTQIA+ people; people with 
+disabilities; women; and everyone who holds more than one of these 
+underrepresented identities. Come take part in a community discussion 
+to reflect on the state of the profession and envision how to improve 
+it into the 2020s. Pre-registration and abstract submission for IA2 
+are now open, and due by Friday, July 19, 2019. To pre-register and 
+submit an abstract, please fill out the form here: 
+
+https://tiny.cc/IA2PreReg
+
+Please note that pre-registration is mandatory for attendance at the 
+conference. For more information, please visit the website pages about 
+registration and abstract submission. Direct any questions to 
+Inclusion2@stsci.edu - and spread the word!
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ROCKY EXOPLANETS IN THE ERA OF JWST: THEORY AND OBSERVATION
+
+We'd like to announce the 2nd Annual NASA Goddard SEEC Symposium, 
+titled "Rocky Exoplanets in the Era of JWST: Theory and Observation", 
+held November 4-8, 2019 at NASA Goddard in Greenbelt, Maryland, USA.
+
+The goal of this meeting is to bring together theorists and observers 
+interested in rocky exoplanets from across the exoplanet and planetary 
+community, and related fields, to help prepare for the first 
+light of the James Webb Space Telescope era by framing the key 
+questions about these worlds and the exciting new observations that 
+will help us characterize them.
+
+The workshop will include invited overview talks combined with short 
+research presentations, and ample time for group discussion and 
+collaborative work sessions. For the list of session topics and 
+current invited speakers list: 
+
+https://seec.gsfc.nasa.gov/Symposium.html
+
+The website for Registration and Abstracts for combined poster + flash 
+talks will open at the beginning of August. Attendance is space limited 
+(max 150 attendees), so please check the meeting's webpage and 
+pre-register now. We will alert pre-registrants first when the full 
+registration and abstract submission pages are available.
+
+Best,
+Avi Mandell, Eliza Kempton, and the Symposium SOC and LOC
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR ABSTRACTS TO THE ASCE EARTH AND SPACE 2020
+
+This is a Call for Abstracts to Symposium 2: Exploration and 
+Utilization of Extra-Terrestrial Bodies of the ASCE Earth and Space 
+2020 of the Biennial ASCE Earth and Space 2020 that will be held in 
+Seattle, WA, on April 21-23, 2020. The theme of this ASCE International 
+Conference is "Engineering for Extreme Environments". Information 
+about the conference is available at:
+
+https://www.earthspaceconference.org/program/call-papers
+
+The due date of the abstracts submittal is July 12, 2019 and the 
+submission website is:
+
+https://www.abstractscorecard.com/cfp/submit/
+login.asp?EventKey=UJZNJKSW
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ASCE SESSION: OCEAN WORLDS
+
+This message is a Call for Abstracts to the Special Session - Ocean 
+Worlds, that is part of the Symposium 2: Exploration and Utilization of 
+Extra-Terrestrial Bodies of the ASCE Earth and Space 2020 of the 
+Biennial ASCE Earth and Space 2020 that will be held in Seattle, WA, on 
+April 21-23, 2020. This special session is a forum for reporting 
+research and technology development related to the exploration of ocean 
+worlds. The theme of this ASCE International Conference is "Engineering 
+for Extreme Environments". Information about the conference is 
+available at:
+
+https://www.earthspaceconference.org/program/call-papers
+
+The due date of the abstracts submittal is July 12, 2019 and the 
+submission website is:
+
+https://www.abstractscorecard.com/cfp/submit/
+login.asp?EventKey=UJZNJKSW
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+UPDATE: NEW COMETARY INSIGHTS FROM THE CLOSE APPROACH OF 46P/WIRTANEN - 
+A SYMPOSIUM IN CELEBRATION OF MIKE A'HEARN
+
+This is a reminder that registration for the meeting (August 6-8, 2019 
+on the University of Maryland campus) is currently open. Early 
+registration ends on July 12, at which time the registration fee 
+increases from $125 to $135.
+
+We also note that although comet Wirtanen, due to its recent close 
+approach, was highlighted for the theme of the symposium, we invite 
+other talks as well, including those about other comets, about 
+big-picture views of comets, or simply talks presenting memories of 
+Mike.
+
+Abstracts requesting an oral talk are due on July 12. Submissions after 
+that date are likely to be assigned poster status.
+
+We have a small amount of funding available to help support student 
+travel. If you are interested in applying for this support, please send 
+a 1-page application describing your student status, Institution, who 
+you are working with, and what you intend to present. Applications are 
+due by the July 12 registration deadline and can be emailed to 
+wirtanencampaign@gmail.com.
+
+For more information about the meeting and a link to the registration 
+site, go to:
+
+http://wirtanen.astro.umd.edu/symposium/index.shtml
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA'S EXPLORATION SCIENCE FORUM PROGRAM NOW ONLINE
+
+The Solar System Exploration Research Institute (SSERVI) is pleased to 
+announce that the draft NESF schedule is now posted at:
+
+https://nesf2019.arc.nasa.gov/program
+
+The 6th annual NASA Exploration Science Forum (NESF) will be held in 
+person July 23-25, 2019 at NASA Ames Research Center, Moffett Field, 
+CA. This year's Forum will feature scientific discussions of human 
+exploration targets of interest (the Moon, near-Earth asteroids, and 
+the moons of Mars). Science sessions will focus on recent mission 
+results and in-depth analyses of science and exploration studies. 
+Dedicated side-conferences for graduate students and young 
+professionals will coincide with the ESF. Public engagement 
+discussions will be interwoven among science topics as well. 
+
+This year marks the 50th anniversary of the Apollo 11 splashdown, and 
+on July 24 SSERVI will bus interested Forum attendees to the USS 
+Hornet, the US aircraft carrier that recovered the Apollo 11 crew and 
+capsule, for a special program. All Forum attendees are welcome to 
+join. Please indicate your interest on the registration page if you 
+would like to attend this exciting Apollo 11 50th anniversary event! 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PYTHON IN PLANETARY SCIENCE SURVEY
+
+We are trying to assess the current state of Python usage and tools 
+coverage for planetary science applications. If you use software to 
+conduct research in planetary science, please take the short, anonymous 
+survey linked below. The results from this survey will be reported 
+back to the community in an open access paper, support funding 
+requests, and help drive future software tool development.
+
+Survey link: 
+
+https://bit.ly/2N0sjQG
+
+Questions may be directed to: chase@millionconcepts.com
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS INSIGHT DATA RELEASE 1B
+
+The NASA Planetary Data System announces Release 1B of data from the 
+InSight Lander mission to Mars. This release contains calibrated data 
+products that correspond to the raw data in Release 1A on May 24. The 
+data products cover the time period from landing on November 26, 2018, 
+through March 31, 2019. The data are archived at various PDS nodes.
+
+  SEIS at the Geosciences Node (GEO)
+  RAD at GEO
+  TWINS at ATMOS
+  IFG at PPI
+  ICC/IDC at IMG
+  SPICE at NAIF
+
+The RISE (Radio Science) archive contains raw data only, and therefore 
+no RISE data is included in this release. Data from the HP3 (Heat Flow 
+and Physical Properties Probe) and IDA (Instrument Deployment Arm) will 
+be included in a future release.
+
+To receive future email announcements for Mars InSight data:
+
+https://pds.nasa.gov/datasearch/subscription-service/top.cfm
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/insight/index.htm
+
+SEIS data are also available through the Incorporated Research 
+Institutions for Seismology (IRIS) at:
+
+http://ds.iris.edu/ds/newsletter/vol21/no1/511/mars-insight-mission-
+data-from-seis-now-open-to-the-public/
+
+The next release of InSight data, Release 2, is scheduled for October 
+1, 2019, and will include both raw and calibrated data. Subsequent 
+releases will occur every three months.
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NASA JOB OPENING: ORBITAL DEBRIS PROGRAM OFFICE MODELING LEAD, 
+JOHNSON SPACE CENTER
+ 
+Announcement open 6/24-7/15. Apply here: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/537515300
+
+Position summary:
+
+Serves as Lead in the ARES Orbital Debris Program Office (ODPO) in the
+area of computer model development, providing Agency unique expertise 
+in measuring, modeling, and providing guidance in mitigating the 
+orbital debris environment to support NASA missions.
+
+Qualifications:
+
+- Knowledge of orbital mechanics and computer modeling of orbital 
+debris populations. Specific knowledge of orbital debris software such
+as Orbital Debris Engineering Model (ORDEM) and Debris Assessment 
+Software (DAS).
+
+- Experience performing management of software development projects.
+
+- Ability to effectively communicate scientific results and technical 
+instructions, orally and in writing, to scientific peers, subordinates,
+management, and to the general public.
+
+- Ability to apply originality, creativeness, and ingenuity to solve 
+orbital debris modeling and data collection related problems.
+
+Education Requirements:
+
+- A bachelor's degree from an accredited college or university with 
+major study in engineering, physical science, mathematics, life 
+sciences, computer science, or other field of science.
+
+- Ph.D. or equivalent experience in computer science, astronomy, 
+physics or engineering and five or more years in computer modeling, 
+particularly orbital debris modeling is highly desired.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+JOB ANOUNCEMENT: ASTROMATERIALS ACQUISITION AND CURATION OFFICE 
+CARBONACEOUS ASTEROID SCIENTIST, JOHNSON SPACE CENTER
+
+Announcement open 7/3-7/24. Apply here: 
+
+http://www.usajobs.gov/GetJob/ViewDetails/537404200
+
+Position summary:
+
+Serves as a Space Scientist in the Astromaterials Acquisition and 
+Curation Office, studies the origin, composition, structure and 
+evolution of the bodies of the solar system; plans and conducts mission
+operations; and serves as a Curator of an astromaterial sample 
+collection.
+
+Qualifications:
+
+- Knowledge of the chemical and physical properties of the primitive 
+materials that may be returned from the carbonaceous asteroids targeted
+by robotic or human exploration (i.e., Carbonaceous Chondrites and/or 
+Interstellar Dust Particles).
+
+- Experience with state-of-the-art techniques used to analyze 
+carbonaceous chondrites and other primitive solar system samples.
+
+- Ability to make connections between meteorite and asteroid samples to
+inform Curation (lab management, protocols and techniques) of the 
+asteroid samples and determine appropriate sample requests.
+
+- Demonstrated ability to publish peer-reviewed science on primitive 
+Solar System samples.
+
+Education Requirements:
+
+- A bachelor's degree from an accredited college or university with 
+major study in engineering, physical science, mathematics, life 
+sciences, computer science, or other field of science.
+
+- Ph.D. in Planetary Science or similar field is highly desired.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+POSTDOCTORAL POSITION IN PLANETARY SCIENCES
+
+The Small Bodies Group in the Department of Astronomy at the University 
+of Maryland invites applications for a Postdoctoral Research Associate 
+to work with Dr. Tony Farnham and Dr. Jessica Sunshine to develop and 
+apply models to simulate sublimation processes on Solar System bodies. 
+Of particular interest are bodies with microgravity environments. 
+
+Candidates for this position should have a Ph.D. in Physics, Astronomy, 
+Planetary Science or a related field, which must be obtained by the 
+time of the start date. IDL or similar experience is preferred. We 
+actively seek and welcome candidates with diverse backgrounds, 
+experiences, and identities. We encourage women and minority candidates 
+to apply.
+
+Those interested in applying should send a CV, a short statement (no 
+more than 2 pages) of research goals and their experience with computer 
+simulations and small body studies, and arrange for three letters of 
+reference to be sent electronically to: Tony Farnham 
+(farnham@astro.umd.edu) and Jessica Sunshine (jess@astro.umd.edu). The 
+position will remain open until filled.
+
+This appointment will be for two years with a possible third year 
+extension based on performance and funding availability. Requests for 
+additional information should be sent to farnham@astro.umd.edu
+
+[Edited for length]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 4-8, 2019
+Rocky Exoplanets in the Era of JWST: Theory and Observation 
+https://seec.gsfc.nasa.gov/Symposium.html
+Greenbelt, MD
+
+July 7-9, 2019
+Astrophysical Dynamics
+http://tdli.sjtu.edu.cn/astrod/
+Shanghai, China
+
+August 12-16, 2019
+The 12th meeting on Cosmic Dust
+https://www.cps-jp.org/~dust/Welcome.html
+Narashino, Japan
+
+September 23-27, 2019
+Interactions Etoile - Planetes
+https://ees2019.sciencesconf.org
+Aussois, France
+
+September 23-27, 2019
+Polarimetry as a diagnostic tool in astronomy
+https://astropol.umk.pl/school2019/
+Torun, Poland
+
+October 21-22, 2019
+Brown Dwarf to Exoplanet Connection III
+http://www.jackiefaherty.com/bdexocon2019
+Newark, DE
+
+October 28-30, 2019
+Annual Meeting of the Lunar Exploration Analysis Group
+https://www.hou.usra.edu/meetings/leag2019/
+Washington, DC
+
+November 4-8, 2019
+Rocky Exoplanets in the Era of JWST: Theory and Observation
+https://seec.gsfc.nasa.gov/Events/Symposia/
+RockyExoplanetsJWSTEra_2019/index.html
+Greenbelt, MD
+
+March 19-20, 2020
+Astronomy From the Moon: The Next Decades
+https://royalsociety.org/science-events-and-lectures/2020/03/
+astronomy-moon/
+London, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

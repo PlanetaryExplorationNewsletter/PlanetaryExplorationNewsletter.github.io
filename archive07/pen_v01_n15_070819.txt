@@ -1,0 +1,274 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 15 (August 19, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] New Planetary R&A Opportunity
+2. [NASA] Call for NASA Keck Time Proposals
+3. [NASA] 2008 Spitzer Fellowship Guidelines
+4. [NASA PDS] Odyssey Radio Science Data Release 63
+5. [NASA PDS] Mars Reconnaissance Orbiter Release 1 of SHARAD Data
+6. Submillimeter Array Call for Proposals
+7. Gas Hydrates: Global and Planetary Reservoirs for Water and 
+   Carbon
+8. Saucer-Shaped Sills, Injected Sands and Related Structures: 
+   Formation Mechanisms, Examples, and Extra-Terrestrial Analogues
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NEW PLANETARY R&A OPPORTUNITY
+
+From: James L. Green, Director, Planetary Science Division, NASA SMD
+
+I would like to call your attention to a new opportunity, joint with 
+Heliophysics, which has recently been released within the ROSES-2007 
+NASA Research Announcement. The new R&A opportunity is in appendix 
+B.7 (LWS TR&T) section f and is entitled: Joint Focus Topics with 
+Planetary Science: Extreme Space Weather Events in the Solar System.
+
+The quest to understand extreme space weather events and their 
+effects throughout the solar system presents a broad range of 
+challenges in heliophysics and the planetary sciences. This new 
+program seeks broadly interdisciplinary, first-cut modeling efforts 
+that can contribute toward initiating future more detailed research 
+in this area. It is anticipated that these studies will lead to a 
+better understanding for the potential for life elsewhere in the 
+solar system and the hazards and resources present as humans explore 
+space. Both are key objectives in NASA's Planetary Science program.
+
+Notices of Intent to propose are due September 19, 2007 and proposals 
+are due October 19, 2007.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] CALL FOR NASA KECK TIME PROPOSALS
+
+Due: 24 September 2007
+
+NASA is soliciting proposals using the Keck Telescopes for the
+entire 2008 observing year (Feb 2008 - Jan 2009). The majority of
+the NASA Keck time will be dedicated to a Key Science project
+to study exo-zodiacal emission around main sequence stars. Thus
+the time allocated through the usual TAC process is greatly reduced
+this year. This call includes proposals for the Key Science as well
+as proposals in the following discipline areas: detection of 
+extrasolar planets, origin and nature of planetary systems,
+investigation of our own solar system and mission critical support.
+The proposal process is being handled by the Michelson Science
+Center at Caltech and all proposals are due on 24 September
+2007 at 5pm PDT.
+
+Please see the website at http://msc.caltech.edu for further
+information on both the Key Science and single telescope proposals.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] 2008 SPITZER FELLOWSHIP GUIDELINES
+
+Deadline: 1 November 2007
+
+On behalf of NASA and the Spitzer Space Telescope Project, the
+Spitzer Science Center (SSC) at Caltech is pleased to announce the 
+release of the 2008 Spitzer Space Telescope Fellowship guidelines.
+Fellowship applications are due 1 November 2007.
+
+The Spitzer Space Telescope Postdoctoral Fellowship Program provides 
+an opportunity for highly qualified recent postdoctoral scientists
+to conduct independent research with the goal of enhancing the
+overall scientific return from the Spitzer mission. This can be
+accomplished through a proposal to conduct new observations with 
+Spitzer, through exploitation of Spitzer archival databases,
+or through research that aids in the interpretation of Spitzer 
+results, including theoretical investigations and laboratory 
+astrophysics. Research must be conducted at a U.S.-based Host
+Institution chosen by the Fellow. Fellows will start their 
+three-year research appointments in Autumn 2008. The SSC 
+anticipates naming up to five new fellows. The complete application
+guidelines are available at
+
+http://ssc.spitzer.caltech.edu/geninfo/fellows/.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA PDS] ODYSSEY RADIO SCIENCE DATA RELEASE 63
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Odyssey data for the RSS instrument.
+
+To access the RSS data, please visit the following link:
+http://pds.nasa.gov/subscription_service/SS-20070813.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+http://starbrite.jpl.nasa.gov/pds/index.jsp
+
+For further information, see the PDS Home Page:
+http://pds.nasa.gov/
+
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA PDS] MARS RECONNAISSANCE ORBITER RELEASE 1 OF SHARAD DATA
+
+The Planetary Data System announces the first release of data from
+the SHARAD (Shallow Radar) instrument on board the Mars
+Reconnaissance Orbiter. This release covers data acquired between
+December 6, 2006, and January 6, 2007. SHARAD data can be accessed
+from the PDS Geosciences Node web site:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+and from the main PDS home page:
+
+http://pds.nasa.gov.
+
+For direct email announcements of future MRO releases from PDS, 
+interested users must sign up via the Subscription Manager on the PDS 
+home page. The next release of all MRO data sets is scheduled for 
+September 7, 2007, with subsequent releases every three months.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SUBMILLIMETER ARRAY CALL FOR PROPOSALS
+
+Deadline: 6 September 2007
+
+The Submillimeter Array (SMA), the radio interferometer on Mauna Kea 
+built by the Smithsonian Astrophysical Observatory and the Academia
+Sinica Institute of Astronomy and Astrophysics, makes available a
+fraction of the observing time to principal investigators from the
+astronomical community (worldwide). The proposal deadline is 6
+September 2007 for the observing semester 1 November 2007 through 30 
+April 2008. SMA comprises of eight 6-m antennas operating at 
+230 GHz, 345 GHz, 420GHz and 690 GHz bands. More information,
+technical details, and instructions and tools for proposal 
+preparation and submission can be found at the SMA Observer Center
+web site:
+
+http://sma1.sma.hawaii.edu
+
+Questions or comments regarding the Call for Proposals can also be
+addressed to proposals@sma.hawaii.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GAS HYDRATES: GLOBAL AND PLANETARY RESERVOIRS FOR WATER AND CARBON
+
+Abstract submissions investigating gas hydrates in planetary systems 
+are invited for this session of the AGU meeting in San Francisco,
+December 10-14, 2007. This session will examine the role of hydrates
+in global-scale processes on Earth and throughout the Solar System,
+including biogeochemical cycles, nutrient fluxes, and climate change.
+
+Deadline: September 6.
+
+Go to http://www.agu.org/meetings/fm07/
+
+Gas hydrates are potentially the largest terrestrial reservoir for
+hydrocarbon gases, forming within seafloor and permafrost sediments 
+at elevated pressures and low temperatures. Gas hydrates may also
+be major reservoirs for water and carbon on terrestrial and icy
+bodies throughout the solar system. This session will focus on gas
+hydrates at the global scale and their impact on global or planetary 
+cycles and processes. Topics include the role of gas hydrates in 
+carbon and water cycles, including distribution and fluxes; climate
+change; and the potential for hydrates to act as sources or traps
+for biogenic gases throughout the Solar System.
+
+Session number GC06, cosponsored by Global Environmental Change,
+Biogeosciences, Cryosphere, Ocean Sciences, Paleoceanography and
+Paleoclimatology, Planetary Sciences
+
+Conveners: Megan Elwood Madden (University of Oklahoma) and Patricia 
+Taboado Serrano (Oak Ridge National Laboratory)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SAUCER-SHAPED SILLS, INJECTED SANDS AND RELATED STRUCTURES: FORMATION
+MECHANISMS, EXAMPLES, AND EXTRA-TERRESTRIAL ANALOGUES
+
+We would like to draw your attention to the special session V14 
+described below for the next AGU fall meeting in San Francisco the 
+10-14th December 2007 (http://www.agu.org/meetings/fm07/).
+
+Deadline: September 6.
+Submissions: http://submissions3.agu.org/submission/entrance.asp
+
+Magma and fluidized sand can develop bowl- or saucer-shaped
+structures that are increasingly recognized by field observations and 
+by detailed seismic imaging in petroleum provinces (Nevada, 
+California, Greenland, Siberia, Svalbard, South Africa, Norwegian
+and North Sea Basins). The intrusions can affect organic matter
+maturation, oil migration pathways, the plumbing systems of
+hydrocarbon reservoirs, and they may also form aquifers. The aim
+of this session is to investigate the origin of saucer-shaped 
+intrusions and genetically related structures in terms of properties
+of the crust and injected liquid, water and volatile contents,
+and depth of emplacement of individual intrusions. We invite
+contributions on saucer-shaped intrusions, either magmatic or
+fluidized sand in origin, with their associated settings, 
+deformation, peripheral structures and physical processes 
+controlling their final geometry. Contributions on potential
+extra-terrestrial analogues are welcome.
+
+Conveners: Stephane Polteau (polteau@fys.uio.no), Joe A. Cartwright
+(joe@ocean.cf.ac.uk) and Richard E. Ernst 
+(Richard.Ernst@ErnstGeosciences.com).
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+Sep 18-20, 2007 
+NASA Astrobiology Institute Field Workshop:
+Biosignatures in Ancient Rocks (BAR)
+Sudbury, Canada
+http://psarc.geosc.psu.edu/RESEARCH/New_Conference/Ontario_new.htm
+
+Oct 1-5, 2007
+From Planets to Dark Energy: the Modern Radio Universe
+Manchester, United Kingdom
+http://www.jb.man.ac.uk/mru2007/
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************

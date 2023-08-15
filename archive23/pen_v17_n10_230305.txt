@@ -1,0 +1,570 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 10 (March 5, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes, 
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planet Characterization in the Solar System and the Galaxy 2024
+2. Upcoming SPICE Training Class in Spain
+3. ESA Archival Research Visitor Programme
+4. [NASA] RFI: Draft Federal Strategy to Advance an Integrated U.S. 
+   Greenhouse Gas Monitoring and Information System (GHGMIS) Released 
+5. Postdoc Position Searching for Asteroid Binaries in Gaia Data at OCA 
+   in Nice, France for Review and Public Comment
+6. International Conference on Aeolian Research (ICAR) Abstract 
+   Deadline Extended to March 14
+7. [NASA] PDS: Aperiodic Data Releases in 2023.02
+8. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 64
+9. Job Opening: Planetary Scientist at NASA Astrophysics Data System
+10. Planetary Geomorphology Image of the Month
+11. OPAG Townhall at LPSC
+12. AGU Honors Nominations Due April 12
+13. Mercury Science and Exploration February 2023 Newsletter Released
+14. LEAG CLOC-SAT Report 
+15. Ancient and Future Brines Abstract Deadline Extended to March 10, 
+    2023
+16. Mars Reconnaissance Orbiter: Sixteen Years Observing a Changing 
+    Mars
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANET CHARACTERIZATION IN THE SOLAR SYSTEM AND THE GALAXY 2024 
+
+The Planet Characterization in the Solar System and the Galaxy 2024 
+meeting will be held February 21-23, 2024, at LPI in Houston. We are 
+looking for 6-8 members to join the program committee to help assemble 
+the program schedule, invited speakers, and submitted abstracts for 
+talks and posters. Diverse representation is desired, including a 
+combination of experts in Solar System planets and exoplanets. If you 
+are interested in serving on the program committee, please email Kirby 
+Runyon at krunyon@psi.edu with your indication of interest by Friday, 
+March 10, 2023 with "Planet Characterization" in the subject line. 
+More information is at: 
+
+https://www.hou.usra.edu/meetings/planetcharacterization2024/ 
+
+Please share this with students, postdocs, and others you may know who 
+could be interested.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+UPCOMING SPICE TRAINING CLASS IN SPAIN
+
+The ESA SPICE Service together with NAIF announce the next SPICE 
+training class will take place April 18-21, 2023 at the European Space 
+Astronomy Center (ESAC) in Madrid, Spain. The combination of the 
+announcement letter and registration form are available at:
+
+https://www.cosmos.esa.int/web/spice/training-class-april-2023
+
+Registration is required, the sooner the better but no later than 
+April 1. Seating is limited and will be offered in the order in which 
+firm registrations are received.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ESA ARCHIVAL RESEARCH VISITOR PROGRAMME
+
+To increase the scientific return from its space science missions, the 
+European Space Agency (ESA) welcomes applications from scientists 
+interested in pursuing research projects based on data publicly 
+available in the ESA Space Science Archives.
+
+The ESA Archival Research Visitor Programme is open to scientists, at 
+all career levels, affiliated with institutes in ESA Member States and 
+Collaborating States. Early-career scientists, including PhD students, 
+are particularly encouraged to apply.
+
+During their stay, visiting scientists will have access to archives and 
+mission specialists for help with the retrieval, calibration, and 
+analysis of archival data. In principle, all areas of space research 
+covered by ESA science missions can be supported.
+
+Residence lasts typically between one and three months, also 
+distributed over multiple visits. Research projects can be carried out 
+at ESAC (Madrid, Spain) and at ESTEC (Noordwijk, Netherlands). To 
+offset the expenses incurred by visitors, ESA covers travel costs and 
+provides support for lodging expenses and meals.
+
+Applications received before 1 May 2023 will be considered for visits 
+in autumn 2023 and winter 2024.
+
+For further details, including areas of research and contact 
+information, please write to arvp@cosmos.esa.int or refer to:
+
+https://www.cosmos.esa.int/web/esdc/visitor-programme
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] RFI: DRAFT FEDERAL STRATEGY TO ADVANCE AN INTEGRATED U.S. 
+GREENHOUSE GAS MONITORING AND INFORMATION SYSTEM (GHGMIS) RELEASED FOR 
+REVIEW AND PUBLIC COMMENT
+
+Release Date:  February 27, 2023
+Response Date: April 4, 2023
+
+https://go.nasa.gov/USGGMIDraftFederalStrategy
+
+This announces the release of 1) a draft interagency report entitled, 
+"Federal Strategy to Advance an Integrated U.S. Greenhouse Gas 
+Monitoring and Information System" (GHGMIS Strategy) and 2) an 
+associated GHGMIS Strategy Request for Information (RFI). Go to: 
+
+https://nspires.nasaprs.com/external/
+
+Select "Solicitations" at the top of the page; input "NNH23ZDA009L" 
+in the search box on the next page.
+
+The RFI seeks information for planning purposes only. Neither NASA 
+nor the GHG IWG intend to award a contract or assistance, i.e., 
+grant or cooperative agreement, funding at this time. As stipulated 
+in FAR 15.201(e), responses to the RFI are not considered offers 
+and cannot be accepted by the Government to form a binding contract.
+
+RFI Point of Contact (POC):  kenneth.w.jucks@nasa.gov (Subject 
+line: "GHGMIS RFI Question/Clarification")
+
+Note: Before emailing the POC, please visit NSPIRES and carefully 
+review 1) the DRAFT interagency GHGMIS Strategy; 2) RFI's full text 
+and 3) any Q&As. 
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOC POSITION SEARCHING FOR ASTEROID BINARIES IN GAIA DATA AT OCA IN 
+NICE, FRANCE
+
+The GaiaMoons research project, supported by the French national 
+research agency ANR, started on 1 Dec 2022 and aims at detecting and 
+characterising asteroid satellites by exploiting the ultra-accurate 
+astrometry obtained by the Gaia mission of the European Space Agency.
+At the level of accuracy of Gaia, astrometric discovery of satellites 
+can become an efficient technique, potentially exploring ranges of 
+sizes and separations that remain difficult to access from the ground. 
+Satellites discovered by astrometry should be validated and 
+characterised through other techniques, including photometry and 
+stellar occultations. Fully characterised systems can give access to 
+fundamental asteroid properties such as density and shapes.
+
+This position is for three years and focused on exploiting astrometry 
+from Gaia DR3 (published in June 2023), the forthcoming Focused Data 
+Release (FDR, end of 2023) and DR4. Go to:
+
+https://tinyurl.com/5n738u44
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INTERNATIONAL CONFERENCE ON AEOLIAN RESEARCH (ICAR) ABSTRACT DEADLINE
+EXTENDED TO MARCH 14
+
+Abstracts are being accepted through March 14 for the International 
+Conference on Aeolian Research (ICAR XI). Go to:
+
+https://www.icarxi.com/attend/registration/  
+
+ICAR will be held July 10-14, 2023 at the Las Cruces Convention Center 
+in Las Cruces, New Mexico and includes a field trip to White Sands 
+National Park and the Jornada Experimental Range. 
+
+Aeolian-related abstracts from the planetary community are strongly 
+encouraged. 
+
+Student and Early Career travel grant applications are being accepted. 
+Review will begin on March 15 and applications accepted through 
+May 31.
+
+Sessions:
+
+- Aerodynamics and Sediment Transport
+- Anthropogenic Interactions
+- Coastal Environments
+- Dunes and Bedforms
+- Dust
+- Experiments and Instrumentation
+- Interactions with Vegetation
+- Modelling and Numerical Simulations
+- Paleoenvironments
+- Planetary 
+
+Special Sessions: 
+
+- Restoration and remediation 
+- Field Instrumentation Demonstration
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2023.02
+
+In February 2023, PDS ingested and made available the following data, 
+none of which were regularly released with an ongoing mission:
+
+- 2023.02.22 Mars Express: HRSC radiometrically calibrated RDRs ext8 
+  V4.0
+- 2023.02.14 Hendrix IUE asteroid reflectance spectra
+- 2023.02.09 Rosetta: RPC-MIP,RPC-LAP cross-calibrated data 
+- 2023.02.09 Rosetta: RPC-MIP derived data 
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230228.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 64
+
+The NASA Planetary Data System announces Release 64 of data from the
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period May 9 through August 8, 2022. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes:
+
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences 
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release, go to:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230301.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/ 
+
+MRO data releases occur every three months. The next release is 
+scheduled for June 1, 2023.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JOB OPENING: PLANETARY SCIENTIST AT NASA ASTROPHYSICS DATA SYSTEM
+
+The NASA Astrophysics Data System (ADS), hosted at the Center for 
+Astrophysics since 1993 in Cambridge, MA, is one of the world's most 
+powerful digital information systems and is expanding its services to 
+serve all of NASA's Science Mission Directorate disciplines.
+
+The ADS has an opening for a Planetary Scientist who will work to 
+establish and maintain the ADS as a world leading information resource 
+for Planetary and Space Sciences. Duties of this job include serving 
+as the principal ADS scientific resource for Planetary Science, 
+developing new methods to search, discover, and use research data and 
+publications, and serving as a research scientist at the intersection 
+of Planetary and Information Science. The employee will devote 30% of 
+their time to do original research in Astrophysics. 
+
+Go to:
+
+https://ui.adsabs.harvard.edu/about/careers/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "A Field Guide to an Ancient Martian Lake Bed" 
+and is contributed by Dr. Zach Dickeson, Natural History Museum, 
+London, UK
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+OPAG TOWNHALL AT LPSC
+
+OPAG will host a community townhall discussion, including Q&A with 
+NASA HQ's Stephen Rinehart.
+
+Tuesday, March 14, 2023
+Indian Springs room (at the Woodlands Marriott)
+11:35 AM - 12:35 PM CT
+
+Remote participation:
+
+https://tinyurl.com/u6bbahsd
+Meeting ID: 896 5158 5677
+Passcode: 794387
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+AGU HONORS NOMINATIONS DUE APRIL 12
+
+Please don't forget to nominate your wonderful, deserving colleagues 
+for AGU Honors. All of the information can be found at: 
+
+https://www.agu.org/Honor-and-Recognize/Honors 
+
+The deadline is April 12!
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MERCURY SCIENCE AND EXPLORATION FEBRUARY 2023 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue 
+10 of "The Mercury Newsletter". The quarterly community newsletter can 
+be accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+This newsletter shares Mercury science and exploration news, debriefs 
+from the third Annual MExAG Meeting, spotlights early-career 
+researchers, notes upcoming meetings, and highlights recent 
+publications.
+
+Please send your Mercury community announcements and calendar items 
+for inclusion in the newsletter to the MExAG Steering Committee to 
+mexag.sc@gmail.com.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+LEAG CLOC-SAT REPORT
+
+LEAG's Continuous Lunar Orbital Capabilities Specific Action Team 
+(CLOC-SAT) Final Report is now available on the LEAG website: 
+
+https://www.lpi.usra.edu/leag 
+
+The Report addresses measurements, technologies, and architectures that 
+will enable NASA's science and exploration objectives for the next 
+decade and beyond. In addition, two key tables are also available 
+online in Excel format. 
+
+The CLOC-SAT team thanks the community for their involvement in this 
+effort and SSERVI (especially Jennifer Baer) for helping produce the 
+Final Report. The team sincerely hopes that this document is useful to 
+all stakeholders in lunar orbital capabilities immediately and well 
+into the future. 
+
+I also want to extend my gratitude to Drs. Carle Pieters, Ben 
+Greenhagen and the rest of the team (Drs. Tim Glotch, Lauren Jozwiak, 
+John Keller, Paul Lucey, Mark Robinson, Angela Stickle, Julie Stopar, 
+James Tuttle Keane & ex-officios Drs. Amy Fagan, Kelsey Young, Brett 
+Denevi, Ben Bussey, and Jose Hurtado) for their extended work. This 
+was not a small undertaking and I know that everyone's time is very 
+valuable. Please join me in thanking the entire team! 
+
+CLOC-SAT Final Report Direct Link: 
+
+https://www.lpi.usra.edu/leag/reports/CLOC-SAT_Report.pdf 
+
+To the Moon, 
+Amy Fagan, PhD 
+Chair, Lunar Exploration Analysis Group 
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ANCIENT AND FUTURE BRINES ABSTRACT DEADLINE EXTENDED TO MARCH 10, 2023
+
+The Ancient and Future Brines hybrid conference will be held in Reno,
+Nevada, from May 15-18, 2023, with an optional field trip on May 19. 
+This is the final conference of the Brines Across the Solar System 
+series. Abstracts will be due March 10, 2023 (5PM CST). Go to:
+
+https://www.hou.usra.edu/meetings/ancientfuturebrines2023
+
+This conference will focus on understanding:
+
+1. The formation, location, and potential habitability of ancient 
+   brines on early planetary bodies
+2. The role of ancient brines in the origins of life and habitable 
+   environments
+3. The technology involved in the detection and characterization of 
+   brines on planetary bodies (both in situ and in returned samples)
+4. The technology involved in mitigating brines in the detection and 
+   characterization of biosignatures
+5. The role and impact of brine systems for In Situ Resource 
+   Utilization
+
+The optional field trip will be at a brines location (finalizing 
+locations, more information coming soon) and will have a connection to 
+technology development and instruments for detecting brines on Earth 
+and elsewhere, including having instrumentation demonstrations.
+
+[Edited for length]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+MARS RECONNAISSANCE ORBITER: SIXTEEN YEARS OBSERVING A CHANGING MARS
+
+For 16 years, the Mars Reconnaissance Orbiter (MRO) has used its three 
+cameras, multi-spectral imaging spectrometer, shallow radar, and 
+atmospheric sounder to observe the surface, subsurface, and atmosphere 
+of Mars at unprecedented spatial resolution and with expanded coverage 
+in space and time. Over time, these observing capabilities have changed 
+in response both to the technical changes inherent in a long-lived 
+deep-space mission and to operational planning changes in response to 
+what the MRO observations were telling us about the planet itself. For 
+instance, although designed to "follow the water" of an ancient Mars 
+climate, the very high spatial resolution imaging and growing timeline 
+of observations has enabled MRO to reveal unprecedented changes 
+occurring on the planet today. A special upcoming issue of Icarus 
+will give an overview of the evolving capabilities of MRO and its 
+investigations, its key findings, and evolving strategies. It will 
+also include latest findings, together with plans for the ongoing 
+exploration of Mars by MRO.
+
+Submission Open: Now
+Submission Deadline: Extended to May 1, 2023
+
+Go to:
+
+https://www.sciencedirect.com/journal/icarus/about/call-for-papers
+
+Please select "Article Type = SI: MRO: 16 Years at Mars."
+
+Guest editors: Rich Zurek and Leslie Tamppari
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+April 11-12, 2023
+MEPAG Hybrid Meeting #40
+https://www.lpi.usra.edu/mepag/meetings/mepagapril2023/
+Washington, DC
+
+April 26, 2023
+Space Technology Competitive Opportunities Workshop
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=441
+Laurel, MD
+
+June 6-9, 2023
+23rd Meeting of the Space Resources Roundtable
+https://learn.mines.edu/srr/
+Golden, CO
+
+September 25-29, 2023
+Origin and Fate of Dust in Our Universe 
+https://cosmic-dust-sweden.sciencesconf.org
+Goteborg, Sweden
+
+October 1-6, 2023
+55th Annual Division for Planetary Sciences (DPS) Meeting Joint with 
+the Europlanet Science Congress (EPSC)
+https://aas.org/meetings/dps55
+San Antonio, TX
+
+December 4-8, 2023
+ALMA at 10 Years: Past, Present, and Future
+https://almaobservatory.org/en/alma-at-10-years-past-present-and-future
+Online
+
+February 21-23, 2024
+Planet Characterization in the Solar System and the Galaxy Workshop
+https://www.hou.usra.edu/meetings/planetcharacterization2024
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Dynamical Consequences of a Super-Earth in the Solar System
+Stephen R. Kane 2023 PSJ 4:38
+https://doi.org/10.3847/PSJ/acbb6b
+
+Functionality of Ice Line Latitudinal EBM Tenacity (FILLET). Protocol
+Version 1.0. A CUISINES Intercomparison Project
+Russell Deitrick et al. 2023 PSJ 4:39
+https://doi.org/10.3847/PSJ/acba05
+
+Erratum: "FUV Observations of the Inner Coma of 46P/Wirtanen" 
+(2021, PSJ, 2, 8)
+John W. Noonan et al. 2023 PSJ 4:40
+https://doi.org/10.3847/PSJ/acbcc0
+
+Constraints on the Size and Composition of the Ancient Martian
+Atmosphere from Coupled CO2-N2-Ar Isotopic Evolution Models
+Trent B. Thomas et al. 2023 PSJ 4:41
+https://doi.org/10.3847/PSJ/acb924
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

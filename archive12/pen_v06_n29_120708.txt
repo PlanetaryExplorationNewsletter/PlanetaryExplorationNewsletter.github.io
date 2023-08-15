@@ -1,0 +1,638 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 29 (July 8, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Fall 2012 Special Session P007. Eyes On Enceladus 
+2. AGU Fall 2012 Special Session P011. Laboratory Investigations 
+   Supporting Analysis of Datasets from Mars, the Moon, and Other 
+   Planetary Bodies
+3. AGU Fall 2012 Special Session P016. Planetary Atmospheres and 
+   Evolution
+4. AGU Fall 2012 Special Session P24. Rapid Environmental Change and 
+   the Fate of Planetary Habitability
+5. AGU Fall 2012 Special Session P34. What Lurks in the Martian Rocks 
+   and Soil? Investigations of Sulfates, Phosphates, and Perchlorates
+6. AGU Fall 2012 Special Session SH017. Sun-Grazing Comets as Solar 
+   Probes: What Goes on Behind the Occulter Disk?
+7. AGU Fall 2012 Special Session. Internal Structure & Composition of 
+   Small Solar System Bodies
+8. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+9. Planetary Geophysics Postdoctoral Fellowship
+10. [NASA] PDS: Cassini Data Release 30
+11. [NASA] PDS: Odyssey Data Release 40
+12. Planetary Geomorphology Image of the Month
+13. First Announcement. The Pluto System on the Eve of Exploration by 
+    New Horizons: Perspectives and Predictions
+14. Mars Exploration Science Monthly Newsletter - July 2012
+15. Special Issue of Earth, Planets and Space (EPS): Cosmic Dust V
+16. NASA Postdoctoral Fellowships
+17. NASA Lunar Science Forum 2012: Final Announcement
+18. [NASA] Release of JUpiter ICy moons Explorer (JUICE) Instrument 
+19. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU FALL 2012 SPECIAL SESSION P007. EYES ON ENCELADUS
+
+Enceladus appears to have all the requirements for life: energy, 
+liquid water, organic material, nitrogen and other essential elements,
+making investigation of this body especially promising and urgent. In 
+this session, we will focus on the most recent observational, 
+theoretical and modeling results on the chemistry, state and dynamics 
+of Enceladus' jets and plumes, the moon's thermal and interior state, 
+geologic activity, as well as its astrobiological potential. New 
+results from the recent Cassini flybys of Enceladus should be 
+submitted to this session.
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+For abstract submission policies see:
+
+http://fallmeeting.agu.org/2012/scientific-program/
+abstract-submission-policies/
+
+Conveners:  
+Chris McKay (NASA, Moffett Field, CA)
+Carolyn Porco (CICLOPS, SSI, Boulder, CO)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU FALL 2012 SPECIAL SESSION P011. LABORATORY INVESTIGATIONS 
+SUPPORTING ANALYSIS OF DATASETS FROM MARS, THE MOON, AND OTHER 
+PLANETARY BODIES
+
+Planetary missions over the past decade have gathered a wealth of data, 
+including spectral (e.g., TES, OMEGA, CRISM, M3), thermophysical (e.g., 
+Diviner, THEMIS), and geochemical/mineralogical (e.g., GRS, APXS, MB, 
+CheMin, ChemCam, SAM). Rigorous laboratory investigations are required 
+for instrument calibration and refinement of data interpretation. This 
+session will focus on measurements/experiments that relate to 
+interpretation of remote sensing or in situ data from planetary 
+bodies. Studies that utilize multiple methods/datasets, analog 
+materials, and advance quantitative compositional analyses of orbital 
+data or the interpretation of MSL/MER instrument data are especially 
+encouraged.
+
+Conveners:
+Christopher S. Edwards (Arizona State University/CalTech)
+Bethany L. Ehlmann (CalTech/JPL)
+Timothy D. Glotch (Stony Brook University)
+Cosponsored by MSA
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU FALL 2012 SPECIAL SESSION P016. PLANETARY ATMOSPHERES AND EVOLUTION
+
+Understanding planetary atmospheres and their evolution is one of the 
+most challenging topics in planetary sciences. The competing 
+influences of planetary geology, geochemistry, climate, atmospheric 
+chemistry, and biology (on the Earth) need to be weighed. While 
+geochemical and geological data provide constraints for the Earth, 
+data from planetary missions and astronomical observations are 
+necessary for other planets. Extrasolar planets have heightened 
+interest in planetary atmospheres, for it is by analysis of their 
+atmospheres that we will assess the characteristics and habitability 
+of these objects. This session welcomes both observational and 
+theoretical studies relevant to planetary atmospheres and their 
+evolution in and out of our solar system.
+
+http://fallmeeting.agu.org/2012/session-search/single/
+planetary-atmospheres-and-evolution/
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU FALL 2012 SPECIAL SESSION P24. RAPID ENVIRONMENTAL CHANGE AND THE 
+FATE OF PLANETARY HABITABILITY
+
+Dear Colleague, 
+
+We would like to draw your attention to a special session at the 
+upcoming Fall AGU meeting in San Francisco, and request that you 
+consider submitting an abstract to this session.  Suggested topics 
+follow:
+
+"Rapid environmental change can be used as a scientific bridge, 
+relating astrobiology to earth, planetary, and space sciences in the 
+study of how life may adapt through abrupt climate crises. Recent 
+discoveries are inspiring the astrobiology community to re-examine 
+its understanding of how rapidly planetary habitats can be 
+redistributed and the variability of habitable zones around stars. 
+Abstracts on the intertwined aspects of changing habitability, 
+including the complex interactions among astronomical, geological, 
+and climatic forces, on the Earth and beyond, are welcome."
+
+We will consider abstracts covering topics such as:
+- exoplanetary habitability
+- icy satellite environments for life and spatio-temporal changes
+- climate change and terrestrial analogs for planetary exploration
+- mars environmental change and life
+- asteroid and comet impacts on environment and life
+
+Abstract deadline:  August 8, 2012,  23:59ET/3:59+1 GMT
+
+Abstract submission:
+
+http://fallmeeting.agu.org/2012/scientific-program/
+abstract-submission-policies/
+
+Conveners:
+Nathalie Cabrol, SETI Institute
+Franck Marchis, SETI Institute
+Cynthia Phillips, SETI Institute
+
+[Edited for Length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU FALL 2012 SPECIAL SESSION P34. WHAT LURKS IN THE MARTIAN ROCKS 
+AND SOIL? INVESTIGATIONS OF SULFATES, PHOSPHATES, AND PERCHLORATES
+
+Sulfates, phosphates, and perchlorates have been found on Mars from
+orbit and/or from surface missions.  Identification of these minerals
+(suites) can enable constraints on the Martian geochemical
+environments.  This session will generate a discussion regarding the
+conditions for the formation of these minerals on Mars, and methods for
+identifying their geological environments and related fluid chemistry.  
+Abstracts describing discoveries of sulfates, phosphates, or
+perchlorates from surface missions and orbital spacecraft data, and
+those covering laboratory analyses and thermodynamic modeling relating
+to the hydration state of these minerals and their stability on Mars
+are welcome.
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+For abstract submission policies see:
+
+http://fallmeeting.agu.org/2012/scientific-program/
+abstract-submission-policies/
+
+Conveners:
+Melissa Lane (Planetary Science Institute)
+Janice Bishop (SETI Institute/NASA Ames Research Center)
+Darby Dyar (Mount Holyoke College)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU FALL 2012 SPECIAL SESSION SH017. SUN-GRAZING COMETS AS SOLAR 
+PROBES: WHAT GOES ON BEHIND THE OCCULTER DISK?
+
+On December 16, 2011, comet C/2011 W3 (Lovejoy) became instantly 
+famous when it not only survived perihelion but had its journey 
+through the corona and around the Sun observed by a large array of 
+solar and astrophysical missions. We have now seen two comets 
+traversing the solar corona, within 100,000 km of the surface of 
+the Sun. However, much remains to be learned about comets and the 
+Sun from observing the Kreutz sun-grazing family. This session 
+solicits papers on the properties of sun-grazing comets and what 
+their perihelion passage reveals about the Sun. Topics include 
+observations of sun-grazing comets, the accurate determination of 
+their orbital elements, models of the comet nucleus, coma, and tail 
+as they pass through perihelion, the fate of the comet material in 
+the solar corona, and the response of the coronal plasma and magnetic 
+field.
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+For abstract submission policies see:
+
+http://fallmeeting.agu.org/2012/scientific-program/
+abstract-submission-policies/
+
+Conveners:
+W. Dean Pesnell, NASA/GSF (William.D.Pesnell@NASA.gov)
+Carey Lisse, JHU-APL (Carey.Lisse@jhuapl.edu)
+Matthew Knight, Lowell Observatory (knight@lowell.edu)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU FALL 2012 SPECIAL SESSION. INTERNAL STRUCTURE & COMPOSITION OF 
+SMALL SOLAR SYSTEM BODIES
+
+Dear colleagues,
+
+Julie Castillo-Rogez & I are organizing a session for the AGU 
+Fall conference entitled "Internal Structure & Composition of Small 
+Solar System Bodies" session scheduled for the AGU Fall Conference, 
+San Francisco, CA (Dec 3-7 2012).
+
+The composition and physical properties of Small Solar System Bodies 
+(SSSBs), remnants of the formation of planets, are key to better 
+understand our solar system. Increased knowledge of their surface 
+properties and their potential as resources are also necessary to 
+prepare for robotic and human exploration. Hints about the internal 
+structure and composition of SSSBs have been acquired recently thanks 
+to flyby/rendezvous data from space missions, study of multiple 
+asteroid systems, or close encounter between asteroids. This 
+session welcomes abstracts on the internal structure and composition 
+of SSSBs based on space and ground-based data, numerical models, 
+and instrument/mission concepts for future exploration.
+
+We encourage you to submit an abstract keeping in mind that the 
+deadline is on August 8, 2012. 
+
+We look forward to seeing you in San Francisco in December 2012.
+
+Cordially,
+Franck Marchis
+
+[Edited for Length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical 
+interactions between intrusive and extrusive volcanic edifice growth, 
+lithospheric flexural response, and magma ascent, using numerical 
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery,
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are: (1) a recent Ph.D. in geophysics or geology, and 
+(2) Experience with quantitative modeling of geophysical, geological, 
+or magmatic processes with advanced codes as COMSOL Multiphysics 
+(FEM) and PFC (DEM). Programming languages, MATLAB or FORTRAN 95 
+are desirable. The position is two years with a possible extension to 
+three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu. Further information may be 
+found at:
+
+www.lpi.usra.edu
+ 
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI) in Houston, Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a 
+NASA-funded project studying the nature of mantle convection on 
+Mars and its effects on the thermal evolution and volcanic history 
+of the planet. The candidate will also have the opportunity to 
+conduct research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics 
+with experience in computer programming and numerical modeling 
+methods, particularly finite elements. Experience with parallel 
+computing in a Linux environment will be an asset. The position 
+will be offered for an initial period of two years with a possible 
+extension to a maximum of three years.
+
+Applicants should send a letter of interest, a curriculum vita 
+listing relevant publications, a brief (maximum three pages) 
+statement of research interests, and a list of three references 
+to resume@lpi.usra.edu. Review of candidates will begin on 
+March 15, 2012, with a hiring decision as soon as possible thereafter.
+Further information about LPI can be found at:
+
+www.lpi.usra.edu
+ 
+USRA is an Equal Opportunity Employer.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS: CASSINI DATA RELEASE 30
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 30, July to September 2011, for instruments:
+
+CIRS, HRD, INMS, ISS, MAG, MIMI, RADAR, RPWS, RSS, SPICE, UVIS, VIMS
+
+Please note that while the data products from this release are 
+available online now, they may not be immediately accessible through 
+PDS web services such as the Planetary Image Data Atlas. Large data 
+sets may take as long as a few days beyond the formal release date 
+to be incorporated into these services. Check each service's web 
+site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20120703.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: ODYSSEY DATA RELEASE 40
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 40, for the following instruments: GRS, 
+THEMIS, RADIO SCIENCE (Releases 118-120) and SPICE. The THEMIS data 
+will be available after July 11th. The gamma sensor component of 
+the GRS instrument suite will no longer return data. The HEND and 
+neutron spectrometer components continue to operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20120702.html
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The July 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+www.psi.edu/pgwg/images/July12Image.html
+
+This Month's topic is on "Surface Monitoring of the 'Greeley Dune 
+Field' in Endeavour Crater, Meridiani Planum, Mars".
+
+Images and Caption contributed by Matthew Chojnacki, Department of 
+Earth and Planetary Sciences, University of Tennessee, Knoxville, TN
+
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+ 
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+FIRST ANNOUNCEMENT. THE PLUTO SYSTEM ON THE EVE OF EXPLORATION BY 
+NEW HORIZONS: PERSPECTIVES AND PREDICTIONS
+
+22-26 July 2013
+Johns Hopkins Applied Physics Laboratory
+Laurel, Maryland USA
+
+In mid-2015, NASA's New Horizons mission will conduct the first 
+spacecraft reconnaissance of the Pluto system. 
+
+In preparation for that flyby, the New Horizons project team will 
+hold a scientific conference at The Johns Hopkins Applied Physics 
+Laboratory 22-26 July 2013. The conference objectives are: 
+
+- To integrate information about this planet, its satellites, and 
+  their context in the Kuiper Belt.
+- To encourage groundbased and spacebased proposals to provide 
+  additional context alongside the New Horizons encounter. And,
+- To inform about the 6-month long New Horizons encounter for 
+  those interested in proposing to the Pluto System Data Analysis 
+  Program.
+
+The meeting's program, invited talks, logistical information, and 
+opportunities for contributed talks and posters and more information 
+can be found at at: 
+
+https://dnnpro.outer.jhuapl.edu/plutoscience/Home.aspx
+
+sign up to the meeting listserv at:
+
+http://pluto.jhuapl.edu/conference/eform/conf_info_form.php
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - JULY 2012
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the July 2012 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+SPECIAL ISSUE OF EARTH, PLANETS AND SPACE (EPS): COSMIC DUST V
+
+This issue of EPS will be primarily devoted to the 5th meeting on 
+Cosmic Dust held at CPS (Center for Planetary Science), Kobe, Japan 
+on August 6-10, 2012 and will contain the papers presented at the 
+meeting. However, it is open for submission of any papers that discuss 
+cosmic dust. All kinds of cosmic dust (intergalactic and interstellar 
+dust, protoplanetary and debris disk dust, cometary, asteroidal and 
+interplanetary dust, circumplanetary dust, stellar nebular condensates, 
+presolar grains, micrometeorites, meteoroids, meteors, regolith 
+particles) are the subject of discussion. Papers on other dust related
+topics, e.g., the formation of molecules and their reactions on and 
+their desorption from the surface of dust particles, are also welcome.
+
+All submitted papers go through a peer review process. The papers
+should not have been previously published nor be currently under
+consideration for publication elsewhere. They must be submitted online
+through:
+
+http://www.editorialmanager.com/eps/
+
+The manuscript submissions deadline is 31 October 2012. The cover 
+letter should mention "Submitted to the Special Issue: Cosmic Dust V".
+
+For more information on this special issue, please contact the
+corresponding editor H. Kimura <dust-inquiries@cps-jp.org>. 
+Questions on manuscript preparation should be addressed to the EPS 
+editorial office <eps@terrapub.co.jp>.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+NASA LUNAR SCIENCE FORUM 2012: FINAL ANNOUNCEMENT
+
+The following announcement includes major changes to the Forum venue 
+and schedule and further details, including registration, can be 
+found at:
+
+http://lunarscience.nasa.gov/lsf2012/  
+
+These updates include:
+- Registration information (abstract submission does not equal 
+ registration)
+- Shoemaker award
+- **IMPORTANT** Venue change from previous years
+- **IMPORTANT** Meal and refreshment changes you want to know about
+- LEAG meeting time change
+- Lightning round talks (some slots still available)
+
+Logistics:
+Due to government restrictions on conference expenditures, there 
+are a few changes to the Forum venue. The Forum will now take place 
+in Building N152 on the eastern part of NASA Ames Research Park. 
+Signs from the Moffett Field front gate will direct you to the new 
+venue location and associated parking. Additionally, there are new 
+rules on provision of food. Please see our website for more details 
+on what to expect for food/refreshments at the Forum.  
+
+Registration Information:
+Submission of an abstract does not register you for the meeting, 
+and we really need everyone to pre-register if possible. There is 
+no cost to register, but it helps our staff tremendously if you 
+pre-register.
+
+[Edited for Length.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] RELEASE OF JUPITER ICY MOONS EXPLORER (JUICE) INSTRUMENT 
+ 
+This Program Element Appendix (PEA) solicits proposals for NASA-funded 
+instrument investigations led by a U.S. PI for the ESA JUpiter ICy 
+moons Explorer (JUICE) mission.  
+
+NASA SMD has offered to collaborate in the mission, providing not more 
+than $100M total for three types of contributions: 
+1) NASA-funded instrument investigations led by a U.S. PI, 
+2) NASA-funded instrument component(s) provided to non-U.S.-led 
+instrument(s), and 
+3) NASA-funded U.S. Co-Investigators (Co-Is) on non-U.S.-led 
+instrument(s).  
+
+NASA's entire contribution shall not exceed $100M (RY) for total life 
+cycle costs. NASA expects to fund ~two U.S.-led instrument 
+investigations along with a number of NASA-funded instrument 
+components and U.S. Co-Is on non-U.S.-led instruments. This PEA 
+solicits proposals for the first type of contribution; parties 
+interested in the latter two types of NASA contributions should 
+respond to the ESA AO as members of a non-U.S.-led team. 
+ 
+This solicitation will be open from July 6, 2012, through 
+September 24, 2012. 
+For the full AO text see:
+
+http://nspires.nasaprs.com/ 
+(select "Solicitations" then "Open Solicitations" then "NNH12ZDA006O")
+ 
+Direct questions to:
+Dr. Curt Niebur
+JUICE Program Scientist for NASA
+curt.niebur@nasa.gov; subject line: "JUICE PEA" (without quotes) 
+(202) 358-0390
+
+[Edited for Length.]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 10-13, 2012
+UN/Japan Nano-Satellite Symposium
+http://www.nanosat.jp/
+Nagoya, Japan
+
+January 6-10, 2013
+Second Symposium on Planetary Atmospheres
+http://annual.ametsoc.org/2013/index.cfm/programs-and-events/
+conferences-and-symposia/second-symposium-on-planetary-atmospheres/
+Austin, TX
+
+June 23-28, 2013
+Gordon Conference on Origins of Solar Systems
+http://www.grc.org/programs.aspx?year=2013&program=origins
+South Hadley, MA
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

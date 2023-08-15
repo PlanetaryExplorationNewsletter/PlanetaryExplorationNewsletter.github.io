@@ -1,0 +1,373 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 24 (June 4, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Michael F. A'Hearn (1940-2017)
+2. Notice of Future Call for NASA Keck Key Strategic Mission Support 
+   Programs
+3. JWST Exposure Time Calculator (ETC) Webinar for Solar System Science
+4. Space Settlement Symposium Call for Abstracts
+5. Request for Proposals: Mapping of Water Deposits to Support Mars 
+   Exploration Program Studies
+6. Planetary Geomorphology Image of the Month
+7. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 41
+8. [NASA] Second Community Announcement Regarding Europa Lander 
+   Instrument Investigation Program Element Appendix
+9. GSA Topical Session T202: Experimental Planetary Geology
+10. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Asteroids: Astronomical and Geological Bodies
+C2. Planetesimals: Early Differentiation and Consequences for Planets
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MICHAEL F. A'HEARN (1940-2017)
+
+Michael Francis A'Hearn, a pioneer in the field of planetary science 
+and comet research, the principal investigator of the NASA Deep Impact 
+and EPOXI missions, and recipient of the American Astronomical Society
+Division for Planetary Sciences Gerard P. Kuiper Prize, passed away at 
+his home on Sunday, May 29, 2017. Born in Wilmington, Delaware in 1940, 
+Mike received his Bachelors of Arts in Science from Boston College and 
+his PhD from the University of Wisconsin, studying polarization of the 
+atmosphere of Venus. An avid sailor, husband, and father of three, Mike 
+made seminal discoveries regarding dust, ice, and gas emitted from 
+comets early in his career. By searching for signatures in the Jupiter 
+Family comets in comparison to the Oort cloud comets, he identified 
+signatures of chemical gradients in the solar system's protoplanetary 
+disk. 
+
+Mike A'Hearn was well-loved by his students, highly respected by the 
+entire planetary science community, and will be greatly missed by his 
+family, friends, and colleagues. 
+
+[Editor Note: The full Memoriam by the NASA Small Bodies Assessment 
+Group is available at: 
+
+http://planetarynews.org/memoriam/michael_f_ahearn.html]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NOTICE OF FUTURE CALL FOR NASA KECK KEY STRATEGIC MISSION SUPPORT 
+PROGRAMS
+
+NASA is a partner in the two 10-m telescopes of the William M. Keck 
+Observatory. Access to NASA's share of this time on the Keck telescopes 
+(~90 nights/year) is available to all astronomers resident at US 
+institutions. Proposals are submitted biannually to the NASA Exoplanet 
+Science Institute (NExScI). Observing time is awarded on the basis of 
+scientific merit and the degree to which the proposed program supports 
+NASA missions and/or strategic goals.
+
+NASA sets aside 1/3 of its allocation for Key Strategic Mission Support 
+programs (KSMS). In the 2016A semester, NASA selected three KSMS 
+projects for a 2 year duration. All three programs end at the 
+completion of the 2017B semester.
+
+NASA is planning to release a new call for KSMS projects for the 2018A 
+semester. Details of the opportunity and the proposal process will be 
+announced in early in August 2017 with non-binding notices of intent 
+due shortly thereafter. Proposals for the 2018A semester will be due 
+on September 14, 2017. A KSMS project is typically multi-semester 
+(10-60 nights, up to three years). The KSMS opportunity will be open 
+for all topics/missions in astrophysics and planetary science.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JWST EXPOSURE TIME CALCULATOR (ETC) WEBINAR FOR SOLAR SYSTEM SCIENCE
+
+ETC Webinar: Thursday, June 15, 12-1 PM EDT (US)
+
+Webex info:
+
+https://tinyurl.com/n662ezq
+
+Meeting number: 640 002 474
+Password: JWST2018
+
+The General Observer (GO) Call for Proposals will be released on 
+November 30, 2017, with a submission due date of March 2, 2018. Get 
+ahead of the game by joining STScI's John Stansberry and Bryan Holler 
+for a hands-on demonstration of the ETC in the context of Solar System 
+observations. This webinar will also feature an overview of Pandeia, 
+the downloadable ETC engine written in Python, and a request for 
+community input on Pandeia tools and capabilities that would be useful 
+for planning observations.
+
+Attendance information and a recording of the webinar will also be 
+available on the JWST events page at:
+
+http://jwst.stsci.edu/news-events/events
+
+Other useful links
+
+JWST ETC web-interface (Note that you must create a MyST log-in to 
+save your workbooks in the ETC.):
+
+http://jwst.etc.stsci.edu
+
+Pandeia download page:
+
+http://ssb.stsci.edu/pandeia/engine/1.0/
+
+JWST Documentation (JDOX) for Solar System targets will begin to be 
+published on May 19 at:
+
+http://jwst-docs.stsci.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SPACE SETTLEMENT SYMPOSIUM CALL FOR ABSTRACTS
+
+The Call for Abstracts is open for the annual Space Settlement 
+Symposium (S3), Austin, TX, USA, Nov. 10-11, 2017. This is part of the 
+New Worlds 2017 Fair and Conference including the Space Cowboy Ball: 
+
+http://newworlds2017.space/ 
+
+Topics include:
+
+Space Resources (Mining the Sky) 
+Space Makers (Manufacturing) 
+Home Sweet Home (Habitats) 
+Space Highways (Intra-Solar-System Transportation) 
+Bioneering (To Survive and Thrive in Space) 
+Farmers in the Sky (Food and Agriculture in space)
+
+To submit an abstract:  
+
+http://newworlds2017.space/s3-2017/ 
+
+For more information contact Philip.Metzger@ucf.edu.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+REQUEST FOR PROPOSALS: MAPPING OF WATER DEPOSITS TO SUPPORT MARS 
+EXPLORATION PROGRAM STUDIES
+
+The Jet Propulsion Laboratory will issue a Request for Proposal (RFP) 
+on June 1, 2017 in support of NASA's Mars Exploration Program. This 
+RFP will seek two data products focused on mapping water in various 
+forms on Mars. These are: 
+
+(1) A map of the distribution and concentration of subsurface water ice 
+    within a predefined swath extending from low to high latitudes; and 
+(2) A global map cataloging all known surface hydrated mineral deposits 
+    and its characteristics.
+
+The resultant products are intended to inform future NASA efforts to 
+better understand the nature and viability of potential water resources 
+on Mars, and options for accessing special regions in NASA's ongoing 
+search for signs of life on Mars.
+
+In addition, these results will be used to inform NASA's Mars Human 
+Landing Sites Study (HLS2), and in accordance with NASA's Space Act 
+Agreement, support the SpaceX landing site selection process.
+
+Notices of Intent (NOIs) are optional, but highly encouraged, and will 
+be due on June 15, 2017. The final proposal submission deadline is 
+June 30, 2017.
+
+Details of this RFP will be posted at: 
+
+https://www.jpl.nasa.gov/acquisition/opportunities/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "The subsurface as the key to surface on Martian 
+gullies", contributed by Dr. Tjalling de Haas, Department of Geography, 
+Durham University.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or Twitter 
+@PlanetGeomorpho.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 41
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There is no SHARAD or derived gravity data in this release.
+
+In general, MRO Release 41 includes data collected from August 9, 2016, 
+to November 8, 2016, though in this release, HiRISE data covers 
+February 1, 2017 to May 5, 2017.
+
+To access the above data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170601.shtml
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] SECOND COMMUNITY ANNOUNCEMENT REGARDING EUROPA LANDER INSTRUMENT
+INVESTIGATION PROGRAM ELEMENT APPENDIX
+
+Please go to:
+
+https://soma.larc.nasa.gov/europalander/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GSA TOPICAL SESSION T202: EXPERIMENTAL PLANETARY GEOLOGY
+
+Contributions are warmly solicited for the GSA 2017 session T202. 
+Experimental Planetary Geology: Using Laboratory and Other Experiments 
+to Advance Our Understanding of Geology on Planetary Bodies. This 
+session encompasses experimental investigations that focus on geologic 
+processes and landforms. All types of experimental work across 
+kinematic, temperature, pressure, and chemical conditions are 
+encouraged, especially investigations into unusual or poorly 
+understood phenomena. The session is sponsored by the GSA Planetary 
+Geology Division, GSA Geophysics Division, and GSA Sedimentary Geology 
+Division.
+
+Information about GSA 2017 is available at: 
+
+http://community.geosociety.org/gsa2017/home  
+
+Abstracts are due August 1.  
+
+Please feel free to contact us (dburr1@utk.edu, 
+Danielle.wyrick@swri.org) with any questions.
+
+All the best, Devon Burr and Danielle Wyrick
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 28-September 1, 2017
+Ondrejov Summer School on Exoplanets
+http://summer2017.asu.cas.cz
+Ondrejov, Czech Republic
+
+October 10-12, 2017
+Annual Meeting of the Lunar Exploration Analysis Group (LEAG)
+http://www.hou.usra.edu/meetings/leag2017/
+Columbia, MD
+
+November 10-11, 2017
+Space Settlement Symposium (S3)
+http://newworlds2017.space/
+Austin, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+ASTEROIDS: ASTRONOMICAL AND GEOLOGICAL BODIES
+
+Asteroid science is key to furthering our understanding of planetary 
+formation and the evolution of the Solar System. In this accessible 
+book, Thomas H. Burbine presents a comprehensive introduction to 
+asteroid science, summarising the astronomical and geological 
+characteristics of asteroids, observational techniques, and past, 
+present and future space missions. Based on an upper-level course on 
+asteroids and meteorites taught by the author, this book is ideal for 
+students, researchers and professional scientists looking for an 
+overview of asteroid science. More details, including sample pages, at: 
+
+http://www.cambridge.org/9781107096844
+
+
+C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2
+
+PLANETESIMALS: EARLY DIFFERENTIATION AND CONSEQUENCES FOR PLANETS
+
+Edited by Linda T. Elkins-Tanton and Benjamin P. Weiss, this 
+transdisciplinary volume presents an authoritative overview of the 
+latest in our understanding of the processes of planet formation. 
+Combining meteorite, asteroid and icy body observations with theory 
+and modelling of accretion and orbital dynamics, this text also 
+provides insights into the exoplanetary system and the search for 
+habitable worlds. This is an essential reference for those interested 
+in planetary formation, solar system dynamics, exoplanets and planetary 
+habitability. More details, including sample pages, at: 
+
+http://www.cambridge.org/9781107118485
+
+ 
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

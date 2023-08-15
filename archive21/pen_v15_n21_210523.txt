@@ -1,0 +1,411 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 15 (May 21, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan, Elisabeth Adams
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. [NASA] ROSES-21 Amendment 22: Payloads and Research Investigations 
+   on the Surface of the Moon (PRISM) DRAFT Text Released for Community
+   Comment
+3. Registration Reminder for Upcoming Small Bodies Assessment Group 
+   (SBAG) Meeting
+4. EPSC2021 Session MITM2: Small Satellite and Dedicated Instruments: 
+   A New Opportunity for Planetary Exploration
+5. EPSC2021 Session MITM8: Machine Learning in Planetary Sciences
+6. EPSC2021 Session ODAA6: The Role of Citizen Science in Scientific 
+   Research: Across Disciplines and Beyond Scientists
+7. EPSC2021 Session ODAA2: Diversity and Inclusiveness in Planetary 
+   Sciences
+8. Mass Spectrometer Calibration Engineer
+9. Postdoctoral Fellow - AEThER program
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Planetary Atlas Collection: A Kickstarter Campaign that Promotes 
+    Space Exploration for Everyone
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Thursday, May 27, 10:00AM-4:30PM ET
+Steering Committee Meeting #14
+
+https://tinyurl.com/8rwwxjbu
+
+Please see link above for agenda and connection information.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-21 AMENDMENT 22: PAYLOADS AND RESEARCH INVESTIGATIONS ON
+THE SURFACE OF THE MOON (PRISM) DRAFT TEXT RELEASED FOR COMMUNITY
+COMMENT
+
+PRISM solicits the development and flight of science-driven
+suites of instruments and technology demonstration payloads that
+address science goals related to the Moon of any SMD division. They
+may, in addition, also address: 1) Strategic Knowledge Gaps of HEOMD
+and/or 2) any technology demonstration goals of STMD that advance
+capabilities for science, exploration, or commercial development of the
+Moon.
+
+NASA expects to select suites for two CLPS deliveries expected to be a
+south polar location in Q4 2024, and the Gruithuisen Domes in Q2 2025.
+For more information read the draft text posted on the NSPIRES page for
+ROSES-2021 F.10 PRISM.
+
+Questions and comments should be addressed to Ryan Watkins and Brad
+Bailey via HQ-PRISM@mail.nasa.gov by June 21, 2021.
+
+This is posted on the NASA research opportunity homepage at:
+
+http://solicitation.nasaprs.com/ROSES2021
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REGISTRATION REMINDER FOR UPCOMING SMALL BODIES ASSESSMENT GROUP (SBAG)
+MEETING
+
+A reminder that the due date for registering for the Small Bodies
+Assessment Group (SBAG) meeting June 7-8 is June 2, 2021:
+
+https://www.lpi.usra.edu/sbag/meetings/
+
+Bonnie Buratti (SBAG Steering Committee Chair)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC2021 SESSION MITM2: SMALL SATELLITE AND DEDICATED INSTRUMENTS: A 
+NEW OPPORTUNITY FOR PLANETARY EXPLORATION
+
+The Europlanet Science Congress virtual meeting is September 13-24,
+2021.
+
+https://www.epsc2021.eu/
+
+We invite you to submit an abstract to the session "Small Satellite and
+Dedicated Instruments: A New Opportunity for Planetary Exploration"
+
+This session will highlight planetary science and space mission
+concepts based on small satellites. Recent advances in small platforms
+make it possible for small satellites, including CubeSats, to be
+considered as independent or complementary elements in planetary
+exploration missions, for example the small probes as part of the
+Hayabusa 2, DART and Hera mission. Presentations on Deep Space
+Planetary CubeSats, e.g. the small satellites accompanying the F-class
+ESA mission Comet Interceptor and those selected or proposed for the
+NASA SIMPLEX program are welcomed. Concepts for future mission may
+either be an augmentation to larger missions or as stand-alone missions
+of their own. We encourage presentations on new planetary science
+mission architectures and associated technologies, as well as dedicated
+instrumentation that can be developed for these applications.
+
+Abstract deadline: 26 May 2021, 13:00 CEST. Submit your abstract at:
+
+https://meetingorganizer.copernicus.org/EPSC2021/session/41598
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC2021 SESSION MITM8: MACHINE LEARNING IN PLANETARY SCIENCES
+
+Please consider submitting an abstract to the EPSC session MITM8
+"Machine Learning in Planetary Sciences" This will be a virtual
+meeting held from September 13-24, 2021.
+
+Due to an increasing amount of data from a continuously increasing
+number of spacecraft in our Solar System, new frameworks for rapidly
+and intelligently extracting information from these data sets are
+needed. Machine learning provides such a framework for tackling a wide
+range of research questions in planetary sciences. Machine learning
+approaches could improve existing models, creating computationally
+efficient algorithms for feature classification and regression
+problems, e.g. solar wind time series data, planetary surface images
+or hyperspectral data.
+
+We encourage submissions dealing with machine learning approaches of
+all levels in planetary sciences. In this session, we aim to provide
+an overview of the current efforts to integrate machine learning
+technologies into data driven space research and to highlight
+state-of-the art developments. Share:
+
+https://meetingorganizer.copernicus.org/EPSC2021/session/41613
+
+Conveners: Ute Amerstorfer, Mario D'Amore, Sahib Julka, Angelo Pio
+Rossi, Hannah Ruedisser Abstract submission
+
+Abstract submission deadline: May 26, 2021, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2021/session/41613
+
+Virtual meeting overview:
+
+https://www.epsc2021.eu/virtual_meeting/overview.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC2021 SESSION ODAA6: THE ROLE OF CITIZEN SCIENCE IN SCIENTIFIC
+RESEARCH: ACROSS DISCIPLINES AND BEYOND SCIENTISTS
+
+Citizen science projects, while existing for a long time, have reached
+new levels of impact on society and allow to engage the public and
+connect citizen to professional researchers. In this session, we invite
+papers from scientists, educators as well as those who design,
+facilitate, evaluate or fund citizen science projects. Topics may
+include methodology, applications of citizen science to enhancing
+outreach, transformative approaches to science education.
+
+The deadline for the abstract submission is 26 May 2021, 13:00 CEST.
+
+If you consider submitting an abstract in this session, you can use the
+following link:
+
+https://meetingorganizer.copernicus.org/EPSC2021/session/41700
+
+We look forward to welcoming you to the virtual EPSC2021 in September.
+
+With best regards,
+
+Conveners: Stijn Calders, Arianna Piccialli
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EPSC2021 SESSION ODAA2: DIVERSITY AND INCLUSIVENESS IN PLANETARY
+SCIENCES
+
+The benefits of diversity and inclusiveness in the scientific community
+are incontrovertible. Following the success of previous years, this
+session aims to foster debate within the planetary sciences community
+about the reasons behind under-representation of different groups
+(gender, cultural, ethnic origin, and national) and best practices to
+make the research environment more inclusive identifying and addressing
+barriers to equality.
+
+We invite abstracts focusing on: under-representation (gender,
+cultural, ethnic origin, and nationality biases) supported by statistics
+and data; outreach and education activities to reach broad and diverse
+audiences, best practices to support inclusiveness; and case studies on
+mentoring and bias-concerned activities. Data and initiatives related
+to COVID are strongly encouraged.
+
+The deadline for the abstract submission is May 26, 2021, 13:00 CEST.
+
+If you consider submitting an abstract in this session, you can use the
+following link:
+
+https://meetingorganizer.copernicus.org/EPSC2021/session/41594 
+
+We look forward to welcoming you to the virtual EPSC2021 in September.
+
+With best regards,
+
+Conveners: Arianna Piccialli, Lena Noack, Andrea Opitz
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MASS SPECTROMETER CALIBRATION ENGINEER
+
+Applications are being accepted for an engineer to support the
+development of flight and ground instrumentation at NASA's Planetary
+Environment Laboratory (PEL) at NASA/GSFC in Greenbelt, MD.
+
+The ideal candidate will have strong programming skills and experience
+operating experimental setups. Duties will include developing software
+for instrument control and data acquisition/display on the ground and
+during flight, and developing software for engineering and data
+telemetry processing.
+
+Mandatory skills include:
+- BS or MA in computer science or engineering
+- Experience with C++ for GUI applications, Qt development, Python 
+  development, communication/data acquisition software development, and 
+  hardware interface programming, and telemetry processing.
+- Comfortable on multiple computer platforms (Linux, Mac, Windows)
+
+Applications received by June 20, 2021 will receive best consideration.
+Start date around July 2021 is preferred; later start date may be 
+negotiated. Application materials should be sent to 
+katherine.s.mckee@nasa.gov. 
+
+To apply, applicant send the following:
+- Curriculum Vitae that shows direct relevance to all mandatory skills.
+- A work sample in the form of either a report, poster, or journal 
+  article, along with the associated source code; and
+- Two letters of reference arranged to be sent directly from your 
+  referees.
+
+Full job information: 
+
+https://inspirehep.net/jobs/1864563
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL FELLOW - AETHER PROGRAM
+
+https://jobs.carnegiescience.edu/jobs/postdoctoral-fellow-aether-program/
+
+The Earth and Planets Laboratory (EPL), Carnegie Institution for
+Science in Washington D.C., seeks applications for a Postdoctoral
+Fellow to investigate mantle solidification from a magma ocean state,
+including chemical interactions with a primordial atmosphere. We are
+committed to building a diverse and inclusive community at the Carnegie
+Institution for Science.
+
+This postdoctoral position is part of the Alfred P. Sloan Foundation
+funded AEThER (Atmospheric Empirical, Theoretical, and Experimental
+Research) team that is investigating how primary atmospheres form in
+conjunction with the solidification of the mantle during planet
+formation. The larger motivation is to aid in the search for life on
+exoplanets by understanding how planetary atmospheres form and evolve. 
+
+Minimum qualifications: The applicant must have completed a doctoral
+degree in geophysics, physics, planetary science, or a related field at
+the time of appointment. 
+
+The position is available September 1, 2021 and will be based at the
+Broad Branch Road campus of the Carnegie Institution for Science in
+Washington, DC. Interested parties should send a cover letter,
+curriculum vitae (including publications), statement of research
+interests, and contact information for three references.
+
+Contact Peter Driscoll (pdriscoll@carnegiescience.edu) for more
+information.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 13-24, 2021
+Europlanet Science Congress 2021
+https://www.epsc2021.eu/
+Online
+
+August 11-13, 2021
+12th Planetary Crater Consortium (PCC) Meeting
+https://www.hou.usra.edu/meetings/crater2021/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Photodetachment and Test-particle Simulation Constraints on Negative
+Ions in Solar System Plasmas
+Ravindra T. Desai et al. 2021 PSJ 2:99
+http://doi.org/10.3847/PSJ/abf638
+
+Sampling Plume Deposits on Enceladus' Surface to Explore Ocean
+Materials and Search for Traces of
+Life or Biosignatures
+Mathieu Choukroun et al. 2021 PSJ 2:100
+http://doi.org/10.3847/PSJ/abf2c5
+
+Physical Constraints on Motility with Applications to Possible Life on
+Mars and Enceladus
+Manasvi Lingam and Abraham Loeb 2021 PSJ 2:101
+http://doi.org/10.3847/PSJ/abfe06
+
+Silicon and Oxygen Isotope Evolution of the Inner Solar System
+Ryoji Tanaka et al. 2021 PSJ 2:102
+http://doi.org/10.3847/PSJ/abf490
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+PLANETARY ATLAS COLLECTION: A KICKSTARTER CAMPAIGN THAT PROMOTES SPACE
+EXPLORATION FOR EVERYONE
+
+Recent years have revealed an upward trend in volume, variety and
+velocity of information coming from space, but where does that data end
+up and how can we use it to inspire everyday people? A newly launched
+Kickstarter Campaign seeks to drive an increase in space exploration
+enthusiasm with their Planetary Atlas Collection of Earth's Moon,
+Mercury and Mars. 
+
+Brothers Eian and Tyler Ray, with their company RedMapper are the space
+enthusiasts behind this campaign committed to bringing romance and
+passion to planetary mapping with a pristine, modern aesthetic. The
+newly launched campaign is focused on providing expert access of
+planetary knowledge to everyday space enthusiasts. Each Atlas in the
+Collection provides a comprehensive catalog of topographic features,
+named places and human activities using modern mapping technology with
+emerging data.
+
+Each reward level consists of materials that promote space exploration
+and make it possible for everyday space enthusiasts to explore the
+inner Solar System on their own. Not everyone has to pledge to
+participate, our online map portals can be accessed anonymously at no
+cost, with no commitments at:
+
+https://redmapper.com/portals
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

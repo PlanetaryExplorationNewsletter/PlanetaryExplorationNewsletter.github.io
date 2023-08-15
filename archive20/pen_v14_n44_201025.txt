@@ -1,0 +1,484 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 44 (October 25, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Discovery about the Moon Announcement
+2. [NASA] Release of Final Text of E.7 Open Source Tools, Libraries, 
+   and Frameworks
+3. [NASA] Habitable Worlds Change in Scope
+4. [NASA] Release of Final Text and Due Dates for C.17 Planetary Major 
+   Equipment and Facilities - Stand-Alone Proposals
+5. [NASA] Coming Soon: PI Launchpad 2021
+6. [PSD] MRO Derived Gravity Model Data Release
+7. [PSD] MRO SHARAD Delayed EDR, RDR and Missing RDR Data Release
+8. Invitation to Suggest Targets for Microscopic Examination of Mars
+9. Virtual School: Planets, Exoplanets and Their Systems in a Broad and 
+   Multidisciplinary Context
+10. DPS Professional Climate and Culture Subcommittee (PCCS) Seeking 
+    New Members
+11. Late-Breaking AGU Session on Venus
+12. MS/PhD Positions for Fall 2021
+13. JPL Open Position: Research Scientist, Outer Planet Magnetospheres 
+    and Moon Interactions
+14. Post-Doctoral Fellow - Mars 3D Icecap Radar Imaging
+15. Planetary Geomorphology Image of the Month
+16. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW DISCOVERY ABOUT THE MOON ANNOUNCEMENT
+
+NASA will announce an exciting new discovery about the Moon from the
+Stratospheric Observatory for Infrared Astronomy (SOFIA) at a media
+teleconference at 12 p.m. EDT Monday, Oct. 26.
+
+This new discovery contributes to NASA's efforts to learn about the
+Moon in support of deep space exploration.
+
+SOFIA is a modified 747 that flies high in the atmosphere to provide
+its nearly 9-foot telescope a view above 99% of the atmosphere's
+obscuring water vapor. SOFIA observes in infrared wavelengths and can
+pick up phenomenon impossible to see with visible light.
+
+For the Monday briefing, go to: 
+
+https://www.nasa.gov/nasalive
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] RELEASE OF FINAL TEXT OF E.7 OPEN SOURCE TOOLS, LIBRARIES, AND 
+FRAMEWORKS
+
+SMD seeks proposals for the improvement and sustainment of high-value,
+open source tools, frameworks, and libraries that have made significant
+impacts to the SMD science community, were developed following
+open and collaborative practices, and are aligned with the scientific
+and data strategic plans.
+
+Proposals should look to improve the sustainability and utility of
+these packages through improvements to documentation or infrastructure,
+by adding extensions, and improving maintenance of the existing
+software.
+ 
+This program seeks to support projects under active development and
+usage. It does not support updating of legacy software that is no
+longer supported, which can be supported under other calls. We are not
+soliciting the development of new open source tools, frameworks, or
+libraries with this call.
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b958CF134-D655-E512-B5AD-84501D14A0C1%7d&path=&method=init
+
+Notices of Intent to propose are requested by November 19, 2020 and
+proposals are due January 19, 2021. 
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+Questions concerning this AO may be directed to Steven Crawford 
+at steven.m.crawford@nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] HABITABLE WORLDS CHANGE IN SCOPE
+
+The goal of the Habitable Worlds program is to use knowledge of the
+history of the Earth and the life upon it as a guide for determining
+the processes and conditions that create and maintain habitable
+environments and to search for ancient and contemporary habitable
+environments and explore the possibility of extant life beyond the
+Earth.
+
+The scope of this program element has been updated to include transient
+environments. Please refer to the bullet list of target bodies in
+Section 1. The main point of contact has also changed, see below. The
+proposal due dates remain unchanged: Step-1 proposals are due
+11/17/2020 and Step-2 proposals are due 01/15/2021.
+
+This Amendment will be posted on the NASA research opportunity homepage
+at: 
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+and will appear on SARA's ROSES blog at: 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+Questions concerning Habitable Worlds may be directed to Lindsay Hays
+at lindsay.hays@nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] RELEASE OF FINAL TEXT AND DUE DATES FOR C.17 PLANETARY MAJOR 
+EQUIPMENT AND FACILITIES: STAND-ALONE PROPOSALS
+
+The Planetary Major Equipment and Facilities (PMEF) program element
+allows proposals for the purchase or development of new or upgraded
+non-flight analytical, computational, telescopic, and other
+instrumentation to be used in investigations in Planetary Science
+Division (PSD) research programs.
+
+This Amendment pertains specifically to Stand-Alone PMEF requests,
+which are self-contained, full proposals submitted to enable future
+PSD-funded research or enhance PSD-funded research in one or more of
+the Target Programs. Both Investigator Instruments and Facility
+Instruments may be requested in Stand-Alone PMEF proposals.
+
+Amendment 62 releases final text and due dates for C.17 Planetary Major
+Equipment and Facilities: Stand-alone proposals. The changes are not
+tracked, the text is replaced in its entirety. The expected annual
+program budget for new awards has been increased to ~$1.5M. C.24 YORPD
+is not eligible for stand-alone PMEF proposals.
+
+Step-1 proposals are due by December 4, 2020. Step-2 proposals are due
+February 5, 2021.
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+Questions concerning this AO may be directed to Jeffrey Grossman 
+at HQ-PME@mail.nasa.gov.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] COMING SOON: PI LAUNCHPAD 2021 
+
+NASA's Science Mission Directorate, in partnership with the
+Heising-Simons Foundation, will host a virtual workshop planned for
+early Summer 2021 to explore the fundamentals of how to turn a science
+question into a mission concept.
+
+The workshop is targeted towards researchers who have previously
+submitted proposals to any organization and are thinking about
+developing their first flight mission proposal within the next few
+years. Participants will go step-by-step through the process to develop
+a science case, define requirements, build a team, and gain support.
+There is no cost to attend the workshop.
+
+A call will be posted on NSPIRES in early 2021 with an opportunity to
+apply to Launchpad 2021. 
+
+https://science.nasa.gov/researchers/pi-launchpad
+
+The format of the application will consist of no more than 5 questions, 
+focused on: 
+
+- What science question would you like to develop into a mission 
+  concept?
+- Views on Leadership.
+- Role of Diversity, Equity, Inclusion, and Accessibility (DEIA) in 
+  teams.
+- Group and power dynamics in teams.
+- Management for effective teams.
+ 
+If you have questions, please contact Prof. Erika Hamden
+(hamden@arizona.edu)
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[PSD] MRO DERIVED GRAVITY MODEL DATA RELEASE
+
+A new derived gravity model has been released. JGMRO_120F_SHA.TAB
+contains coefficients and related data for the JPL Mars gravity field
+MRO120F, a 120th degree and order spherical harmonic model. It is the
+sixth archived JPL gravity field that includes Mars Reconnaissance
+Orbiter (MRO) tracking data.
+
+Data are available here:
+
+http://pds-geosciences.wustl.edu/missions/mro/gravity.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[PSD] MRO SHARAD DELAYED EDR, RDR AND MISSING RDR DATA RELEASE
+
+Delayed MRO SHARAD raw and derived data from the ASI (Italian Space
+Agency) SHARAD Ground Operations Center have been released covering the
+period November 10, 2019, through February 8, 2020. This time period
+covers the recent MRO release 54.
+
+Missing MRO SHARAD derived data from the ASI SHARAD Ground Operations
+Center have also been released covering the period June 3 through
+August 3, 2012. This time period corresponds to previous MRO release
+24.
+
+Data are available here:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+Mail to: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INVITATION TO SUGGEST TARGETS FOR MICROSCOPIC EXAMINATION OF MARS
+
+The USGS Astrogeology Science Center is funded to construct new Digital
+Elevation Models from Microscopic Imager data collected by the MER
+rovers Spirit and Opportunity. We are soliciting requests from the
+general science community for new MI DEMs that were not processed
+during the MER mission. Please send your highest priority candidates,
+specifying target names and the sol number(s) on which the MI stereo
+images were acquired, along with a brief justification for each
+request to pgeissler@usgs.gov or kherkenhoff@usgs.gov.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VIRTUAL SCHOOL: PLANETS, EXOPLANETS AND THEIR SYSTEMS IN A BROAD AND
+MULTIDISCIPLINARY CONTEXT
+
+The Instituto de Astrofisica de Andalucia-CSIC, in the frame of its
+Severo Ochoa programme of excellence, will host a virtual advanced
+school about "Planets, Exoplanets and Their Systems in a Broad and
+Multidisciplinary Context" from the 18th to the 29th of January 2021.
+The pre-registration of interested participants is open from Oct. 20 to
+Dec. 18, 2020. Announcement and booklet of the school are available at:
+
+http://so.iaa.csic.es/reports/training
+
+After Dec. 18, 2020, every pre-registered participant will receive
+instructions for how to log into the Aula Virtual of the CSIC to take
+the lessons:
+
+https://www.aulavirtual.csic.es/course/index.php?categoryid=8 
+
+Participants will have opportunities to interact with the lecturers for
+posing their questions. The schedule for Q&A live session will be
+distributed in the first week of Jan. 2021.
+
+Please, feel free to forward this announcement to universities,
+research institutions, scientific societies, etc.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DPS PROFESSIONAL CLIMATE AND CULTURE SUBCOMMITTEE (PCCS) SEEKING NEW
+MEMBERS
+
+Are you interested in making the planetary science community more
+diverse and inclusive? If so, please contact dpspccs@gmail.com by Oct.
+30 to volunteer to be part of the DPS Professional Culture and Climate
+subcommittee (PCCS). A list of our charge, duties, and expectations can
+be found at: 
+
+https://dps.aas.org/leadership/climate 
+
+You also can speak with any current PCCS members (listed at above site)
+and, in particular, you are welcome to contact Co-Chair Serina Diniega
+(serina.diniega@jpl.nasa.gov). At the DPS meeting, PCCS efforts will be
+described a bit at the DPS Members meeting (Oct 28, 1-2pm EDT) and with
+the PCCS Plenary speaker (Oct 30, 12:45-1:40pm EDT).
+
+To express interest in becoming a PCCS member, please send an email to
+dpspccs@gmail.com by the end of the DPS meeting (Oct 30), including:
+(1) why you are interested, 
+(2) a brief description of any EDIA work you've already done, and 
+(3) a brief statement on what you might hope to accomplish with the 
+PCCS. Comments about past or potential future work by PCCS are also 
+welcomed, as always.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LATE-BREAKING AGU SESSION ON VENUS
+
+Session title: "Phosphine in the Venusian Atmosphere: Observations and 
+Implications"
+
+The recent observations suggesting the possible presence of phosphine
+on Venus, previously considered as a potential biosignature for
+exoplanetary atmospheres, presents a challenge for existing models of
+atmospheric chemistry and possibly supports the case for an aerial
+ecosystem in an otherwise hyperacidic, oxidizing atmosphere. In this
+session, we invite presentations regarding current and past
+observations and interpretations of phosphine in the Venusian
+atmosphere; surface-atmosphere interactions and chemistry relevant to
+the phosphine cycle; design considerations for upcoming spacecraft and
+instruments; and other work inspired by these recent events.
+
+Abstract submission deadline: November 11, 2020 (11:59 ET)
+
+https://www.agu.org/Fall-Meeting/Pages/Present/Sessions#5
+
+- Alexander Thelen, David Grinspoon, Sanjay Limaye, Colin Wilson,
+Arielle Moullet and Sushil Atreya
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MS/PHD POSITIONS FOR FALL 2021
+
+I am community sourcing a list of people who are actively in search of
+MS/PhD students in planetary science for Fall 2021. If you are such a
+person, please fill out the following google form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSerZCWHS7_u_K4F6gH8LZKBiyrgJjCl87TA2jowyXXkWZ_o3A/viewform?usp=send_form
+
+Prospective graduate students, please find the resulting list at: 
+
+https://docs.google.com/spreadsheets/d/12yRS2c9-eW4DGLcb3cPgZU759gll_QZjnDk-ptlh3k4/htmlview
+
+Questions: Please email Sarah Horst (Sarah.horst@jhu.edu)
+ 
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, OUTER PLANET MAGNETOSPHERES AND 
+MOON INTERACTIONS
+
+Job Title: Research Scientist II, Planetary and Exoplanetary 
+Atmospheres
+Location: Pasadena, CA
+
+The Jet Propulsion Laboratory, California Institute of Technology,
+invites applications for a staff Scientist position in observational
+studies of the atmospheres of the Gas and Ice Giant planets from
+ground-based and airborne facilities. It is expected that the
+successful candidate will develop an independently funded research
+program and will pursue new lines of research focusing on the dynamics
+and chemistry of the giant planets of the Solar System.
+
+The position requires a Ph.D. in planetary science, planetary physics,
+astronomy, or related scientific discipline, along with demonstrated
+experience in conducting observations with large ground-based or
+airborne telescopes, with a successful track record and strong interest
+in applying those efforts to problems related to planetary science. The
+successful candidate will have a demonstrated professional reputation
+as a productive researcher with a track record of publications in
+peer-reviewed journals.
+
+For a full description and to apply please visit:
+
+http://jpl.jobs/jobs/2020-12485-Research-Scientist-II-Planetary-and-Exoplanetary-Atmospheres
+
+Applications received by November 23, 2020, will receive full 
+consideration.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+POST-DOCTORAL FELLOW - MARS 3D ICECAP RADAR IMAGING
+
+The Colorado School of Mines Department of Geophysics invites
+applications for a postdoctoral position in 3D radar imaging of the
+Mars ice caps. Responsibilities consist of developing custom radar
+processing and imaging software, and the processing of large 3D data
+volumes obtained from Mars orbiters equipped with radar systems (SHARAD
+and MARSIS). We seek an outstanding individual holding a Ph.D. in
+geophysics, (electrical) engineering, or a related discipline with
+demonstrated
+
+- experience with orbital radar instrumentation and data processing;
+- experience with large scale numerical modeling, imaging, and
+  inversion;
+- excellent programming skills in C++ and Python, or equivalent
+  languages;
+- experience with high-performance distributed computing.
+
+The successful candidate will receive a one-year full-time position,
+with the possibility for a second year. Our goal is to fill the 
+position by January 2021. Application reviews begin November 15, 2020. 
+Applications must include:
+
+- a cover letter outlining suitability and motivation;
+- a curriculum vitae;
+- copies of university certificates;
+- a list of 3 potential referees.
+
+Applications must be submitted through the Mines portal:
+
+https://jobs.mines.edu/cw/en-us/job/494592/postdoctoral-fellow-geophysics-mars-3d-icecap-radar-imaging
+
+Send any questions to Dr. Paul Sava (psava@mines.edu).
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 22-26, 2021
+Habitable Worlds
+https://aas.org/meetings/aastcs8/habitable
+Virtual
+
+September 13-24, 2021
+Spatially Resolved Spectroscopy with Extremely Large Telescopes
+https://elt2020.web.ox.ac.uk/
+Oxford, UK
+ 
+March 21-27, 2022
+Protostars and Planets VII
+http://ppvii.org/
+Kyoto, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new PSJ articles.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

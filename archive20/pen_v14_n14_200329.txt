@@ -1,0 +1,702 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 14 (March 29, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: William Cassidy
+2. [NASA] COVID-19 Community Update from Dr. Thomas Zurbuchen
+3. [NASA] NASA Science Division Updates to the Community
+4. [NASA] Upcoming NASA SMD Job Announcement: Senior Program Executive 
+   for Scientific Data & Computing (AST, Technical Management)
+5. Canceling the Planetary Science Informatics and Data Analytics 
+   Conference (PSIDA)
+6. Cancellation of NASA Astrobiology Summer School 2020
+7. Canceling the 2020 SPICE Training Class At ESAC/ESA
+8. 2020B NASA Infrared Telescope Facility Observing CallL For Proposals
+9. JWST Cycle 1 Proposal Deadline Delayed
+10. EPSC Session: Exoplanet Observations, Modeling, and Experiments
+11. EPSC Session: Interstellar Probe - Pushing the Boundaries of Space
+    Science
+12. EPSC Session MITM17: Polarimetry as a Tool for Characterizing Dust
+    Particles - Observations, Modeling, and Laboratory Data
+13. Astrobiology 2020: A Research Meeting of IAU Commission F3
+14. MUAN Workshop2020: Upper Atmospheres and Ionospheres in the Inner 
+    Solar System
+15. NEOWISE 2020 Data Release Available
+16. American Physical Society Recruits CEO
+17. Solar System Exploration Postdoc at Johns Hopkins University 
+18. Postdoctoral Fellow Position at the Jet Propulsion Laboratory
+19. Post-doctoral Position at the National Research Council in Italy
+20. Emirates Mars Mission Postdoctoral Research Fellowships
+21. NASA Planetary Data System (PDS) Annual Customer Satisfaction 
+    Survey 2020
+22. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: WILLIAM CASSIDY
+
+Emeritus Professor William A. Cassidy of the Department of Geology and
+Environmental Science (formerly the Geology and Planetary Science
+Department) at the University of Pittsburgh passed away of a heart
+attack on March 22, 2020. Bill is best known for creating the ANSMET
+(Antarctic Search for Meteorites) program in 1976, serving as its PI
+for nearly 20 years. The ANSMET program has recovered more than 22,000
+samples its start, and Bill's efforts helped to triple the world's
+inventory of meteorites.
+
+Because of those efforts, the Cassidy Glacier in Antarctica was named
+for him, as well as the mineral Cassidyite, and the asteroid 3382
+Cassidy. In 1979, he was awarded the Antarctica Service Medal. His
+efforts in Antarctica were documented in his memoir, "Meteorites, Ice,
+and Antarctica: A Personal Account" published by Cambridge University
+Press in 2003.
+
+Bill had a marvelous sense of humor that rivaled his sense of
+adventure, which took him to impact craters in Canada, South America,
+Africa, and Australia. He will be missed by his colleagues and friends.
+
+More information can be found here:
+
+https://www.geology.pitt.edu/news/emeritus-faculty-member-dr-william-cassidy
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] COVID-19 COMMUNITY UPDATE FROM DR. THOMAS ZURBUCHEN
+
+Last Friday, I hosted a public town hall and wanted to reiterate some
+of the key messages from that discussion:
+
+ - Our priority is everyone's safety and protecting hardware and
+   integrity of data for operating missions
+ - We are working with each mission and project in detail based on
+   where they are in the development process
+ - Missions in I&T will continue with the smallest teams possible
+ - We are anticipating impacts to solicitations and evaluations and
+   will work with the research community to mitigate them
+ - We encourage all to continue to pay graduate students, post-docs,
+   and lab staff
+
+Audio and charts from the town hall are available for download at
+
+https://science.nasa.gov/researchers/virtual-townhall-2020
+
+We will also continue to provide updates to the community.
+
+As we work through this unprecedented situation, please keep yourselves
+and your families safe. The government has established a new
+informational website, coronavirus.gov, which has useful information,
+and watch for continued communications from agency leaders about NASA's
+status and steps you may need to take.
+
+Be safe!
+
+Sincerely,
+Thomas H. Zurbuchen, PhD
+Associate Administrator, NASA Science Mission Directorate
+
+[Edited for length. For full message, go to
+http://spaceref.com/news/viewsr.html?pid=53452]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] NASA SCIENCE DIVISION UPDATES TO THE COMMUNITY
+
+The NASA Science Division Directors will provide community updates on
+Tuesday, March 31, when they address the discipline committees of the
+National Academies' Space Studies Board (SSB) during Space Science Week
+2020. During the updates, the Science Division Directors will discuss
+the President's Fiscal Year 2021 budget request for NASA Science and
+other Division specific updates of NASA's science programs.
+
+NASA SMD Director of Planetary Science Lori Glaze will address the
+Committee on Astrobiology and Planetary Science (CAPS) at 4 pm EDT / 1
+pm PDT on Tuesday, March 31.
+
+For the complete agenda of the four discipline committee meetings and
+instructions for connecting to the meetings, visit the Space Science
+Week 2020 homepage at:
+
+https://www.nationalacademies.org/event/03-31-2020/space-science-week-2020
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] UPCOMING NASA SMD JOB ANNOUNCEMENT: SENIOR PROGRAM EXECUTIVE FOR
+SCIENTIFIC DATA & COMPUTING (AST, TECHNICAL MANAGEMENT)
+
+This upcoming NASA SMD job announcement will open on March 30 and close
+on April 3. The USAJOBS announcement number will be HQ20H0013.
+
+NASA's Science Mission Directorate (SMD) will be releasing a
+USAJOBS announcement to fill the position of Senior Program Executive
+for Scientific Data and Computing (AST, Technical
+Management/GS-801-15).
+
+This will be a Direct Hire Authority (DHA) announcement through
+USAJOBS, so it will only be open for 5 days. The short period that the
+announcement is open is due to the type of hiring authority, which
+streamlines the hiring process and assists with rapidly filling
+competitive positions. This is a term position of up to three years,
+with an option to extend an additional three years.
+
+Please note that this is a fair and open competition to which all U.S. 
+Citizens and Status candidates may apply.
+
+Given the short period the announcement is open, interested applicants
+are encouraged to log into USAJOBS ahead of time and update your
+username, password, resume, etc., to facilitate the timely submission
+of an application.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CANCELING THE PLANETARY SCIENCE INFORMATICS AND DATA ANALYTICS
+CONFERENCE (PSIDA)
+
+On March 24th 2020, after careful consideration and comprehensive
+evaluation of currently available information related to the COVID-19
+outbreak, the PSIDA Programme Organizing Committee made the difficult
+for safe decision to cancel the Planetary Science Informatics and Data
+Analytics Conference, originally scheduled for June 22-24 at ESAC in
+Madrid, Spain.
+
+We continue to closely monitor the developments surrounding COVID-19,
+and we wish to inform you, that we are planning to take the opportunity
+to keep some PSIDA activities later this year using EuroPlanet Science
+Congress 2020, that will be held in Granada, Spain, between September
+27 and October 2 2020, and possibly at the AGU, if the circumstances 
+allow. In agreement with the session conveners, we are thinking of 
+using the EPSC 2020 MITM9 session "Tools and Databases for Solar and 
+Planetary Sciences at the Big Data Era", to include PSIDA themes.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CANCELLATION OF NASA ASTROBIOLOGY SUMMER SCHOOL 2020
+
+We have been monitoring the outbreak and spread of COVID-19 and, after
+consultation with our partners at the Centro de Astrobiologia, we
+regretfully have come to the conclusion that we must cancel the 2020
+Josep Comas i Sola International Astrobiology Summer School. For any
+students who applied, we thank you for your interest and application,
+and hope that you will consider participating in next year's school.
+Please also subscribe to the NASA Astrobiology Program mailing list, 
+to be kept up to date with other opportunities:
+
+https://astrobiology.nasa.gov/mailing-list/ 
+
+Rosaly Lopes (US Director, International Astrobiology Summer School)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CANCELING THE 2020 SPICE TRAINING CLASS AT ESAC/ESA
+
+Given the developing situation regarding the COVID-19 Virus, we sadly
+need to announce that we have decided not to hold the June 2020 SPICE
+Training Class at ESAC. We are deeply sorry for any inconvenience
+caused by the cancelation.
+
+To mitigate this cancellation you might consider using the
+self-training from NAIF. This option makes use of the same tutorials
+and lessons used in the live training classes. The tutorials are
+available here: 
+
+https://naif.jpl.nasa.gov/naif/self_training.html
+
+SPICE at ESA is described at:
+
+http://spice.esac.esa.int
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+2020B NASA INFRARED TELESCOPE FACILITY OBSERVING CALL FOR PROPOSALS
+
+Here is the NASA IRTF Call for Proposals for the 2020B semester. Please
+let me know if you have any questions. The full text is available here:
+
+http://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+
+Due to the COVID-19 pandemic and its global impact, the 2020B IRTF
+proposal deadline has been extended to Thursday, April 9. The IRTF form
+and website are in the process of being updated to reflect the new
+dates. Please contact John Rayner or Bobby Bus if you have any
+questions or concerns.
+
+See our online submission form. Information on available facility and 
+visitor instruments and performance can be found at:
+
+http://irtfweb.ifa.hawaii.edu/instruments
+
+Observing on-site or remote observing is available with SpeX, MORIS,
+and iSHELL; please see the instrument pages for more information,
+including the exposure time calculators for SpeX and iSHELL.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JWST CYCLE 1 PROPOSAL DEADLINE DELAYED
+
+The Cycle 1 Call for Proposals for the James Webb Space Telescope
+(JWST) was released on Jan. 23, 2020. The novel coronavirus COVID19 is 
+causing significant impact and disruption on the worldwide community. 
+
+Given those circumstances, STScI, NASA, ESA, and CSA have decided to
+delay the proposal deadline for JWST Cycle 1 GO proposals to May 27, 
+2020. We are continuing to monitor the situation, and will provide an 
+update on the schedule on April 15, 2020. The announcement of
+opportunity is here:
+
+http://www.stsci.edu/contents/news/jwst/2020/the-jwst-cycle-1-call-for-proposals-is-now-reopened
+
+Full details about proposing can be found at:
+
+https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-1
+
+These are stressful and challenging times. Our thoughts go out to all
+those affected by the current situation. As always, please contact the
+JWST helpdesk if you have any questions:
+
+http://jwsthelp.stsci.edu
+
+Future updates regarding the Call can be found at:
+
+http://www.stsci.edu/jwst/news-events/news
+
+To get regular updates on JWST, sign up for email alerts/subscriptions
+by updating your MyST account under message subscriptions:
+
+https://proper.stsci.edu/proper/authentication/auth
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EPSC SESSION: EXOPLANET OBSERVATIONS, MODELING, AND EXPERIMENTS
+
+The EPSC 2020 conference will take place in Granada, Spain, 27
+September - 2 October 2020
+
+https://www.epsc2020.eu/
+
+Many sessions will focus on exoplanets, and we would like to highlight 
+especially the following session dedicated to exoplanet atmospheres:
+
+Exoplanet observations, modelling and experiments (EXO4): 
+Characterization of their atmospheres
+
+A complete description of the session can be found here:
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38490
+
+We would like to encourage all people interested in this topic to
+submit an abstract, in particular early career scientists. The abstract
+submission deadline is 13 May 2020, 13:00 CEST.
+
+Sincerely yours,
+
+Olivia Venot, Monika Lendl, Giuseppe Morello, Vivien Parmentier, Ingo
+Waldmann
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+EPSC SESSION: INTERSTELLAR PROBE - PUSHING THE BOUNDARIES OF SPACE
+SCIENCE
+
+An Interstellar Probe through the boundaries of the heliosphere, in to
+the Local Interstellar Medium (LISM) would be the first dedicated
+mission to venture into this largely unexplored frontier of space.
+Relatively modest contributions from the Planetary Sciences and
+Astrophysics would offer historic science returns, including a flyby of
+one or two Kuiper Belt dwarf planets or planetesimals, first insights
+in to the structure of the circum-solar dust disk, and the first
+measurements of the Extra-galactic Background Light beyond the
+obscuring Zodiacal cloud. This EPSC session welcomes discussions on the
+current state of understanding and outstanding science questions that
+could be addressed by missions passing through the Kuiper Belt to the
+LISM, and reports on realistic design concepts, enabling technologies,
+lessons-learned from prior missions, and programmatic challenges.
+
+Conveners: Michel Blanc (main organizer), Olivier Witasse (Deputy
+organizer)
+
+Pontus Brandt, Pascale Ehrenfreund, Kathleen Mandt, Merav Opher, Bob
+Wimmer-Schweingruber, Qiugang Zong
+
+EPSC abstracts are due May 13, 2020.
+
+https://meetingorganizer.copernicus.org/EPSC2020/sessionprogramme
+
+EPSC will be Sept. 27-Oct. 2, 2020, in Granada, Spain.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+EPSC SESSION MITM17: POLARIMETRY AS A TOOL FOR CHARACTERIZING DUST
+PARTICLES - OBSERVATIONS, MODELING, AND LABORATORY DATA
+
+The aim of this session is to bring together observers, modelers, and
+experimental physicists to discuss the most recent results and advances 
+in the characterization of dust particles by their spectropolarimetric
+pattern. For more details see:
+
+https://meetingorganizer.copernicus.org/EPSC2020/sessionprogramme
+
+Conveners: O. Munoz, F. Moreno, A. Penttila, A.C. Levasseur-Regourd, O.
+Ivanova, L. Kolokolova, P. Tanga, A. Cellino.
+
+The Europlanet Science Congress (EPSC) 2020 will be held in Granada,
+Spain on 27 September - 2 October 2020, see details at
+
+https://www.epsc2020.eu/
+
+Abstract deadline: 13 May 2020, 13:00 CEST.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ASTROBIOLOGY 2020: A RESEARCH MEETING OF IAU COMMISSION F3
+
+https://astrobiology.uj.ac.za
+
+Astrobiology 2020, will trace the pathway to life on Earth and beyond
+from the simple chemistry established in astrophysical environments,
+through the formation and evolution of planetary systems, to beyond the
+beginnings of life, as informed by studies of the earliest terrestrial
+fossil record. Astrobiology 2020 is the first international
+astrobiology conference ever held in Africa. Vredefort Dome, located 
+~120 km southwest of Johannesburg, is one of the oldest and largest 
+impact structures on Earth.
+
+In addition to the scientific program the meeting offers:
+ 
+Field trips:
+ - Early Earth geology of the Barberton greenstone belt, 1-5 Nov
+ - Vredefort Dome impact structure, 11 Nov (part of conference program)
+ - Square Kilometre Array (SKA) telescope site, 15-17 Nov
+ - Namib Research Institute, Namibia, 14-18 Nov
+
+Training school on Astrobiology:
+A 2-day pre-conference training school for postgraduate students and
+young researchers on the fundamentals of Astrobiology; 6-7 November.
+
+Important Dates:
+31 July: Registration for training school and field trips closes
+31 July: Early registration closes
+31 August: Abstract submission closes
+15 October: Registration closes
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MUAN WORKSHOP2020: UPPER ATMOSPHERES AND IONOSPHERES IN THE INNER SOLAR 
+SYSTEM
+
+9-11 September 2020 - New York, USA
+
+The Mars Upper Atmosphere Network (MUAN) organises this three-day
+workshop that will bring together scientists interested in the general
+dynamics of, and coupling between, ionised and neutral atmospheric
+constituents of three key inner Solar System planets: Mars, Earth, and
+Venus. Other bodies, such as comets and moons are also welcome. The
+objective is to embrace comparative studies between different planetary
+bodies in addition to the usual Mars aeronomy and plasma physics
+discussions, as this will lead to a better understanding of the role of
+upper atmospheres on planetary evolution and habitability at Mars and
+in the Solar System.
+
+The main topics to discuss are:
+ - Planetary aeronomy - past, present and future. 
+ - Thermosphere-ionosphere-magnetosphere-exosphere (TIME) coupling.
+ - Lower-upper atmosphere connections.
+
+A significant part of the workshop will be devoted to brainstorming and
+opportunities to discuss different science aspects, and to help
+establish fruitful collaborations. There will be opportunities to
+present posters or talks. The workshop will be limited to 100
+attendees, so please indicate your interest to aid us in planning in 
+here:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdVgrQ8cIQx8mOgF5rVV76Re6hh6u1_xwtK4XXhKSpVSOU2_A/viewform
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+NEOWISE 2020 DATA RELEASE AVAILABLE
+
+The 2020 Data Release includes all data acquired during the sixth year
+of the The Near-Earth Object Wide-field Infrared Survey Explorer
+(NEOWISE) Reactivation mission, 13 December 2018 to 13 December 2019.
+These data are combined with the Year 1-5 NEOWISE data into a single
+archive that contains approximately 15.3 million sets of 3.4 and 4.6
+micron images and a database of over 114 billion source detections
+extracted from those images.
+
+With twelve or more independent 3.4 and 4.6 micron exposures made on
+each point of the sky during each survey epoch, the NEOWISE archive is
+a time-domain resource for extracting multiple, independent thermal
+flux and position measurements of Solar System small bodies, as well as
+background galactic and extragalactic sources.
+
+A quick guide to the NEOWISE data release, data access instructions and
+supporting documentation is available at:
+
+http://wise2.ipac.caltech.edu/docs/release/neowise/
+
+Access to the NEOWISE data products is available via the on-line and
+API services of the NASA/IPAC Infrared Science Archive (IRSA) at:
+
+https://irsa.ipac.caltech.edu
+
+[Edited for length]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+AMERICAN PHYSICAL SOCIETY RECRUITS CEO
+
+American Physical Society (APS), the world's leading physics
+professional society seeks a compelling leader with top-level
+management experience as its next CEO to advance its mission, lead a
+strong and successful nonprofit membership corporation of 55,000
+members, and manage its budget of $68 million and 250 staff in 3
+offices.
+
+Ideal candidate is excited by scientific discovery and research
+dissemination; changing scientific publishing landscape; ensuring
+long-term organizational sustainability; promoting membership growth
+and retention; applying effective meeting strategies; strengthening
+collaboration; advocating for physics/ physicists and effective physics
+education; and promoting opportunities for underrepresented groups.
+
+The top candidate will be a qualified scientific leader with knowledge
+of the U.S. legislative process, science policy, and global scientific
+collaboration. They will have experience with the needs of diverse,
+multidisciplinary audiences and appreciate the intricacies of working
+with member-elected governing bodies. They will manage, lead, and
+inspire staff and members to accelerate organizational change and
+resilience.
+
+For additional information, applicationinstructions, including how to 
+apply, as soon as possible visit:
+
+https://www.TransitionCEO.com/careers 
+
+Candidate are considered on a rolling basis; submit your materials
+asap. Email questions to APS2020_Search@TransitionCEO.com. Closes 
+4/30/20.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+SOLAR SYSTEM EXPLORATION POSTDOC AT JOHNS HOPKINS UNIVERSITY 
+
+Applications are invited for a postdoctoral position in the Department 
+of Earth and Planetary Sciences at Johns Hopkins University working
+with the new SSERVI team Project ESPRESSO.
+
+http://eps.jhu.edu
+
+https://www.espresso.institute
+
+The Postdoctoral Fellow will be working under the supervision of Prof. 
+Sarah Horst
+
+https://www.sarahhorst.com
+
+but will include collaborations with Prof. Kevin Lewis in EPS and
+ESPRESSO Team Members at other institutions. The Postdoctoral Fellow's
+primary responsibilities will include laboratory measurements of
+optical constants and a candidate with experience in these types of
+measurements and data analysis is preferred. Secondary responsibilities
+of the Postdoctoral Fellow will include participation in fieldwork and
+data analysis of geological materials using LIBS and Raman spectroscopy
+under the supervision of Prof. Kevin Lewis.  
+
+Applicant must have a Ph.D. in a related field. 
+
+Applicants should submit their CV (including publications), a 1-2 page
+statement of research interests, and contact information including
+email addresses for 3 references. Please contact Prof. Horst with any
+questions about the position (sarah.horst@jhu.edu). Review of
+applications will begin on April 15, 2020.
+
+More information including application submission found here:
+
+http://apply.interfolio.com/75174
+
+[Edited for length]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+POSTDOCTORAL FELLOW POSITION AT THE JET PROPULSION LABORATORY
+
+The Jet Propulsion Laboratory (JPL) invites applications for a
+Postdoctoral Fellow to work with Dr. Catherine Elder to study lunar
+surface processes using a combination of thermal modeling and
+observations by the Lunar Reconnaissance Orbiter (LRO) Diviner Lunar
+Radiometer Experiment (Diviner). Diviner observations can constrain the
+material properties of the lunar surface and shallow subsurface which
+leads to a better understanding of the geologic history of the Moon.
+Topics of particular interest include volcanism, regolith formation and
+evolution, and impact processes.
+
+Candidates should have a recent PhD in planetary science, physics,
+geology, or a related field. Candidates should have experience with
+numerical modeling and a strong background in physics. Experience using
+remote sensing data is preferred but not required. Candidates who have
+received their PhD within the past five years since the date of their
+application are eligible.
+
+Applications are due by April 25, 2020 or until filled and should be
+submitted at: 
+
+https://jpl.jobs/jobs/2020-11715-JPL-Postdoctoral-Fellow
+
+For more information contact Catherine.Elder@jpl.nasa.gov
+ 
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+POST-DOCTORAL POSITION AT THE NATIONAL RESEARCH COUNCIL IN ITALY
+
+The National Research Council (CNR) in Italy is offering a
+post-doctoral position at the Institute of Applied Mathematics and
+Information Technology in Milan. The project is entitled  "Co-orbital
+motion and three-body regimes in the Solar System", and the scientific
+supervisor is Dr. Elisa Maria Alessi.
+
+The aim is to analyze co-orbital motion using perturbation
+methods and the restricted three-body problem and the
+corresponding invariant objects. The focus will be to understand the
+relationship between the two approaches and the possible transition
+towards different orbital regimes. A special emphasis will be given to
+apply the analysis and the results to asteroidal motion.
+
+The official call can be found here:
+
+http://www.imati.cnr.it/index.php/opportunities?layout=edit&id=826
+
+The duration of the position is 12 months, renewable 6 more months. 
+Application deadline is April 24, 2020. Due to the COVID-19 emergency, 
+the interview will be held remotely. In addition, the researcher may be
+allowed to work from her/his place, upon agreement with the Director of
+the Institute and the supervisor of the project.
+
+For further information contact Dr. Alessi: em.alessi@mi.imati.cnr.it
+
+[Edited for length]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+EMIRATES MARS MISSION POSTDOCTORAL RESEARCH FELLOWSHIPS
+
+The Emirates Mars Mission (EMM) and Khalifa University (KU) are
+inviting applications for up to 5 postdoctoral research fellowships. We
+seek candidates interested in spacecraft observations and models of the
+Martian atmosphere relevant to EMM observations. EMM will arrive at
+Mars in early 2021 and carries an imaging system with several visible 
+and UV bandpasses (EXI), a thermal IR spectrometer (EMIS), and a UV 
+imaging spectrometer (EMUS).
+
+Postdocs will split their time between a U.S. or French host
+institution affiliated with the EMM science team and KU in Abu Dhabi,
+United Arab Emirates. While at KU the postdocs will continue their EMM
+research and participate in the formation of a new space science and
+technology center. One or more of the postdocs may be able to
+transition to a tenure-track faculty position at KU during or after the 
+postdoc period.
+
+Applicants should have met the requirements for a Ph.D. in a relevant
+field by May 2020. Applications will be considered on a rolling basis,
+with initial review starting May 23.
+
+Please contact KUMarsPostdoc@lasp.colorado.edu with questions.
+
+A complete posting with additional information can be found at:
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=24229
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+NASA PLANETARY DATA SYSTEM (PDS) ANNUAL CUSTOMER SATISFACTION SURVEY 
+2020
+
+NASA's PDS customer satisfaction survey of the Planetary Data System
+(PDS) is still open. This survey will be used to set priorities for the
+PDS, identify areas for improvement, determine what new services are
+needed, and ensure that the needs of the scientific community are well
+met both now and in the future.
+
+The survey is available at the following anonymous link: Below is the
+anonymous survey link that can be posted to any website:
+
+https://feedback.app.cfigroup.com/l/r/NASAPDSGen
+
+Alternatively, you may have also received an email invitation with a
+link from our consultant, CFI Group, which is working on behalf of NASA
+and the PDS to administer the survey. Note that no personal data is
+tracked and the survey will remain anonymous.
+
+We hope to get the widest response possible and appreciate your support
+in helping us to improve the PDS. Please contact the PDS at
+pds-operator@jpl.nasa.gov with questions on the survey.
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

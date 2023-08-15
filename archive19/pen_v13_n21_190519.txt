@@ -1,0 +1,343 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 21 (May 19, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2019 AAS Laboratory Astrophysics Division Vote
+2. [NASA] ROSES-19: C.22 BepiColombo PSP Replaced by ESA/JAXA 
+   Solicitation
+3. [NASA] Dawn Final Data Release, Part 1
+4. [NASA] MAVEN Data Release 17
+5. Open Position at NASA Marshall Space Flight Center: MSFC Chief 
+   Scientist
+6. Symposium in Celebration of Mike A'Hearn
+7. Upcoming Science Program Management (Program Scientist) Positions 
+   at NASA HQ
+8. Software Systems for Astronomy Registration Open
+9. [NASA] Update on Mission Principal Investigator Development 
+   Initiative
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2019 AAS LABORATORY ASTROPHYSICS DIVISION VOTE
+
+The LAD election for Vice-Chair, Secretary, Treasurer, and two 
+Members-at-Large, for terms beginning in 2019 is now open. The elected 
+candidates will assume their positions in June 2019. The elected 
+Vice-Chair will serve for two years as Vice-Chair, followed by two 
+years as Chair, and then two more years as Past-Chair. All other open 
+positions are for three year terms.
+
+The Officers and Members-at-Large will help decide the Division's 
+direction and goals. Your voice is important.
+
+The ballot is now available online at:
+
+http://members.aas.org/Services/AAS_Member/Division_Voting/
+LAD_Voting.aspx
+
+LAD voting members will need to log in to access the voting information 
+page and ballot. The ballot will open in a new window so you can toggle 
+between the candidate statements and your ballot. If a member clicks on 
+the "Vote Now" button but does not cast a ballot, then the AAS will 
+need to update the member's record to restore access to the slate. 
+Please contact Diane Frendak at the AAS should you encounter log in or 
+balloting challenges. She can be reached at diane.frendak@aas.org or 
+202-328-2010 x109.
+
+Balloting closes at 11:59 pm EDT on Sunday, June 2, 2019.
+
+Daniel Wolf Savin
+Outgoing LAD Secretary
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-19: C.22 BEPICOLOMBO PSP REPLACED BY ESA/JAXA SOLICITATION  
+
+BepiColombo Participating Scientists Program has been superseded by a 
+joint ESA and JAXA Announcement of Opportunity that invites proposals 
+for Interdisciplinary Scientists and Guest Investigators to increase 
+the scientific return of the BepiColombo Mercury mission.
+
+A mandatory letter of intent is due June 13, 2019, at 12:00pm (noon) 
+CEST and proposals are due by July 15, 2019 at 12:00pm (noon) CEST. For 
+the latest information, go to:
+
+https://www.cosmos.esa.int/documents/2088384/2088470/
+BepiColombo_IDS_AO.pdf/
+e702ef1f-66f5-b11b-ea89-0adac9386bf1?t=1557413378262
+
+The BepiColombo mission consists of two satellites launched together: 
+The Mercury Planetary Orbiter (MPO) and the Mercury Magnetospheric 
+Orbiter (MMO). BepiColombo is due to arrive at Mercury and begin its 
+science exploitation phase in December 2025 (MPO) and April 2026 (MMO), 
+respectively. The duration of the nominal science operations is one 
+year.
+
+Successful candidates will be appointed for a first period of three 
+years (renewable). For more information, please refer to the ESA 
+Announcement of Opportunity available at:
+
+https://cosmos.esa.int/web/bepicolombo-ids-gi-2019.
+
+Proposals from investigators at US organizations will require letters 
+of endorsement. For NASA letters of endorsement or any other questions 
+concerning this program element please contact Shoshana Weider at 
+shoshana.z.weider@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] DAWN FINAL DATA RELEASE, PART 1
+
+The first part of the final Dawn data release is available. This 
+includes:
+- Dawn GRaND L1a and L1b for the 2nd extended mission
+- Dawn VIR L1a for the 2nd extended mission
+- Dawn Ceres Regional DTMs and Mosaics for Selected Regions
+- Dawn FC2 Calibration Data with added 2nd extended mission data
+
+Links to these datasets are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190514.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/dawn/dwncgrdL1.html
+
+https://sbn.psi.edu/pds/resource/dawn/dwncvirL1.html
+
+https://sbn.psi.edu/pds/resource/dawn/dwncfcshape.html
+
+https://sbn.psi.edu/pds/resource/dawn/dwnfcmarscruisecal.html
+
+Coming soon are:
+- Dawn Framing Camera 2 L1a and L1b for the 2nd extended mission
+- Dawn VIR L1b for the 2nd extended mission
+
+To access all Dawn data:
+
+https://sbn.psi.edu/pds/resource/dawn/
+
+To access all data archived in the PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] MAVEN DATA RELEASE 17
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 17:
+
+    ACCEL (Accelerometer)
+    ANC (ancillary)
+    EUV (Extreme Ultraviolet Monitor)
+    IUVS (Imaging Ultraviolet Spectrometer)
+    LPW (Langmuir Probe and Waves)
+    MAG (Magnetometer)
+    NGIMS (Neutral Gas and Ion Mass Spectrometer)
+    ROSE (Radio Occultation Science Experiment)
+    SEP (Solar Energetic Particle)
+    SPICE
+    STATIC (Supra-Thermal and Thermal Ion Composition)
+    SWIA (Solar Wind Ion Analyzer)
+
+KP and SWEA data up to February 2019 are not yet available.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190515.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OPEN POSITION AT NASA MARSHALL SPACE FLIGHT CENTER: MSFC CHIEF 
+SCIENTIST
+
+NASA is currently seeking highly skilled applicants for the Chief 
+Scientist position at Marshall Space Flight Center (MSFC) in 
+Huntsville, AL. The Chief Scientist provides scientific leadership to 
+all MSFC Science and Technology Office programs, projects, and 
+activities and advises center leadership on key scientific issues 
+related to the health and growth of science at MSFC. The incumbent 
+represents MSFC science to the external community including NASA 
+Headquarters and field centers, academia, government agencies, and 
+private industry and is part of a team of Chief Scientists at each 
+Center.
+
+Please click the following link below for the full list of 
+responsibilities and qualifications. The position is open to all U.S. 
+citizens and is scheduled to close on Monday, June 3, 2019. This is an 
+exciting time to join the NASA team as we prepare to send Astronauts to 
+the Moon by 2024, followed by a sustained presence on and around the 
+Moon by 2028 and then onto Mars. I encourage you to consider applying 
+and accepting the opportunity to become a part of this great endeavor. 
+
+https://www.usajobs.gov/GetJob/ViewDetails/533547500
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SYMPOSIUM IN CELEBRATION OF MIKE A'HEARN
+
+New Cometary Insights from the Close Approach of 46P/Wirtanen: A 
+Symposium in Celebration of Mike A'Hearn.
+
+Registration for the meeting, which will be held August 6-8, 2019 on 
+the University of Maryland campus is now open.  
+
+For more information about the meeting and a link to the registration 
+site, go to:
+
+http://wirtanen.astro.umd.edu/symposium/index.shtml
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+UPCOMING SCIENCE PROGRAM MANAGEMENT (PROGRAM SCIENTIST) POSITIONS AT 
+NASA HQ
+
+The Science Mission Directorate (SMD) will seek to fill multiple 
+Science Program Management (GS-1301-14/15 AST, Program Scientist) 
+positions in the Earth Science, Heliophysics, Planetary Science, and 
+Astrophysics Divisions, and/or the SMD Front Office.
+
+This will be a Direct Hire Authority (DHA) announcement through 
+USAJOBS, so it will only be open for 5 days. The short period that the 
+announcement is open is due to the type of hiring authority, that 
+streamlines the hiring process and assists with rapidly filling 
+competitive positions. This competition is open to all U.S. Citizens.
+
+The announcement will open on June 10 and close on June 14 at 
+
+https://www.usajobs.gov/
+
+The NASA Announcement Number will be HQ19H0004.
+
+Please log into USAJOBS to create/update your resume, etc., in advance, 
+so as not to miss this opportunity that will be open for only 5 days.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SOFTWARE SYSTEMS FOR ASTRONOMY REGISTRATION OPEN
+
+Please note that registration is now open for the summer school in 
+Software Systems for Astronomy (SSfA-6). The course will take place 
+July 15-26, 2019, on the Big Island of Hawaii. The course covers 
+software design and implementation of telescope and instrument control 
+systems, observation planning tools, and software for analyzing and 
+archiving astronomical data. 
+
+If you are not a UHH student, use this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerAdmissions.php
+
+If you are a UHH student, use this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerCourseRegistration.php
+
+More information can be found here:  
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2019/ssfa19.php
+
+Direct questions to aconrad@hawaii.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] UPDATE ON MISSION PRINCIPAL INVESTIGATOR DEVELOPMENT INITIATIVE
+
+Dear Colleagues:
+
+As you know, I am passionate about building effective and innovative 
+teams that achieve amazing results for NASA Science. NASA Science 
+recognizes and supports the benefits of having diverse and inclusive 
+scientific, engineering, and technology communities and fully expects 
+that such values will be reflected in the composition of all mission 
+and mission proposal teams. This past November, we hosted a mission 
+principal investigator diversity workshop to understand where there 
+could be areas for improvement. Based on the feedback and lessons 
+learned from that workshop, I would like to share with you some 
+exciting opportunities that will be forthcoming later this year. I hope 
+that you will take advantage of these new offerings.
+
+[See full message: http://planetarynews.org/nasa/zurbuchen_190517.txt]
+
+Sincerely,
+
+Thomas H. Zurbuchen
+Associate Administrator for the Science Mission Directorate
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

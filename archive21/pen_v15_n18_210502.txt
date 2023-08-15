@@ -1,0 +1,435 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 18 (May 2, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. Upcoming Open Decadal Survey Venus Panel Session on the Venus 
+   Atmosphere
+3. [NASA] Lunar Surface Science Workshop: Fundamental and Applied Lunar 
+   Surface Research in Physical Sciences
+4. [NASA] ROSES-21: DRAFT C.26 EnVision VenSAR Science 
+   Team Released for Community Comment
+5. [NASA] NASA-funded Scientific Payload for the Canadian Space Agency 
+   Lunar Exploration Accelerator Program (LEAP) Phase A Lunar Rover to 
+   be Delivered by CLPS
+6. EPSC 2021 Session: Mars Science and Exploration
+7. [PDS] Aperiodic PDS Data Releases in 2021.04
+8. [PDS] Hayabusa2 NIRS3 Release
+9. Summer School in Software Systems for Astronomy
+10. InSightSeers Program Application Open
+11. Postdoctoral Associate Position at the University of Maryland
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Wednesday, May 5, 11:00AM-4:00PM ET Panel on Venus Meeting #16
+
+https://tinyurl.com/2exht3pr
+
+Friday, May 7, 12:00PM-6:00PM ET Panel on Mercury and the Moon Meeting
+#16 
+
+https://tinyurl.com/6cjhdbu8 
+
+(further information not posted; not clear whether there are open 
+sessions as part of this meeting)
+
+Please see links above for agenda and connection information.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+UPCOMING OPEN DECADAL SURVEY VENUS PANEL SESSION ON THE VENUS 
+ATMOSPHERE
+
+The Venus panel of the Decadal Survey on Planetary Science and
+Astrobiology will hold a themed session on the Venus atmosphere on
+Wednesday, May 5. This session is open to the public, and will run
+from 11:00 am to 1:00 pm Eastern.
+
+Confirmed speakers for this session include Yoshifumi Futaana, 
+Sebastien Lebonnois, Javier Peralta, and Ann Carine Vandaele.
+
+You can find connection details, as well as information on future
+session themes and speakers, on the Venus panel webpage on the National
+Academies website:
+
+https://tinyurl.com/VenusPanel
+
+A Google Doc will be available on the day for members of the public to
+post questions for the speakers.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] LUNAR SURFACE SCIENCE WORKSHOP: FUNDAMENTAL AND APPLIED LUNAR 
+SURFACE RESEARCH IN PHYSICAL SCIENCES
+
+August 18-19, 2021
+
+This workshop will bring together the science community, commercial
+companies, and NASA Divisions and Programs with the goals of discussing
+investigations on reduced gravity and lunar environmental effects in
+physical sciences research for sustained lunar human habitation and in
+preparation for human exploration to Mars and to inform and inspire the
+science community to contribute white papers for the Biological and
+Physical Sciences Decadal Survey.
+
+This workshop will focus on:
+- Lunar dust and its properties, behavior, and mitigation
+- Life support and thermal management
+- Materials flammability and habitat fire safety
+- Extraction of water-ice from regolith research, including separation,
+  purification, electrolysis, and liquefaction
+- Lunar environment and its effects on materials
+- Lunar research in extraction, processing, and handling
+- Lunar research for advanced manufacturing
+
+The call for abstracts opens May 3, 2021. Abstracts are limited to 
+3,000 characters.
+
+Registration fees are not being collected, but registration is 
+required. To continue receiving e-mail updates about the session, 
+including virtual login information, complete the electronic 
+registration form at the link below.
+
+Registration Deadline: August 13, 2021
+
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-21: DRAFT C.26 ENVISION VENSAR SCIENCE TEAM 
+RELEASED FOR COMMUNITY COMMENT
+
+ROSES-2021 Program Element C.26 EnVision VenSAR ST would solicit
+proposals for VenSAR team members and a Team Leader over the period of
+2021-2026. The nine-member VenSAR Science Team would work with the JPL
+project and the broader EnVision mission to provide scientific feedback
+into VenSAR development. Of these nine members, approximately seven
+members are expected to be from U.S. institutions that will be
+supported under NASA awards under this element, and up to two members
+are expected to be from institutions located in ESA member states with
+support from their own national or other program.
+
+Questions and comments concerning the draft ROSES-2021 C.26 EnVision
+VenSAR Science Team should be addressed to Adriana Ocampo at
+adriana.c.ocampo@nasa.gov by May 14, 2021.
+
+This Amendment is posted on the NASA research opportunity homepage at: 
+
+http://solicitation.nasaprs.com/ROSES2021 
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA-FUNDED SCIENTIFIC PAYLOAD FOR THE CANADIAN SPACE AGENCY LUNAR
+EXPLORATION ACCELERATOR PROGRAM (LEAP) PHASE A LUNAR ROVER TO BE
+DELIVERED BY CLPS
+
+NASA Science Mission Directorate's (SMD) Exploration Science Strategy
+and Integration Office (ESSIO) announces an upcoming opportunity for
+interested U.S. investigators to provide a U.S. scientific payload to
+be integrated onto a Canadian lunar rover. Proposal teams will be led
+by Canadian companies and submitted proposals will be evaluated and
+selected by the Canadian Space Agency (CSA), with NASA participation.
+The rover, carrying one Canadian science payload and one U.S. science
+payload, will be delivered by a NASA Commercial Lunar Payload Services
+(CLPS) provider to the lunar surface in 2025. It is anticipated that 
+this opportunity will be solicited by CSA in late May 2021. Canadian 
+rover teams preparing to submit proposals may reach out to U.S. 
+institutions to gauge interest in providing an instrument for 
+consideration.
+
+Further information regarding this CSA opportunity is included in CSA's
+Letter of Interest, available on:
+
+https://buyandsell.gc.ca/procurement-data/tender-notice/PW-ST-048-38561
+
+Questions regarding this opportunity can be directed via email to
+debra.m.hurwitz@nasa.gov and (Zachary Pirtle) zpirtle@nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC 2021 SESSION: MARS SCIENCE AND EXPLORATION
+
+Abstract submission open until May 26.
+
+https://tinyurl.com/2cuzhbf9
+
+Conveners: Alejandro Cardesin-Moinelo, Gerhard Kminek, Patrick Martin,
+Claire Newman, Elliot Sefton-Nash, Hakan Svedhem, Dmitrij Titov, Jorge
+Vago
+
+The aim of this session is to share the knowledge and experience
+between all Mars missions in operations and development, including the
+3 new missions arrived this year, promoting multi-mission and
+multi-disciplinary synergies between the various exploration programs
+in Europe and worldwide.
+
+We welcome contributions from any field of Mars science and
+exploration, in particular latest scientific results and instrument
+overviews for all operational orbiters (Mars Express, ExoMars TGO,
+Odyssey, MRO, MAVEN, Mangalyaan/MOM, Tianwen-1, Hope) and surface
+assets (MSL, Insight, Mars2020, Tianwen-1), including operational and
+technical developments in preparation for the new missions (ExoMars
+RSP, MMX, Mars Sample Return and others).
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[PDS] APERIODIC PDS DATA RELEASES IN 2021.04
+
+In April 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2021.04.05 Mars targets associated with scientific publications
+2021.04.15 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.04.20 Arecibo and Green Bank Observations of Venus
+2021.04.23 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.04.23 Mars Express: OMEGA data for Extended Mission 7
+2021.04.30 Mars Express: SPICAM IR EDR data through EXT 7
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210430.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[PDS] HAYABUSA2 NIRS3 RELEASE
+
+This is the first PDS (Planetary Data System) release of Hayabusa2
+data. It includes the NIRS3 (Near-Infrared Camera) raw and calibrated
+data bundle and the Hayabusa2 Mission bundle. The included data cover
+the full Ryugu encounter.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210428.shtml
+
+Or more directly at the PDS Hayabusa2 mission archive page at
+
+https://sbn.psi.edu/pds/resource/hayabusa2/
+
+To subscribe to future announcements of Hayabusa2 data releases:
+
+https://pds.nasa.gov/tools/subscription_service/top.cfm
+
+More Hayabusa2 data are in the process of being prepared for PDS
+archiving. We expect most raw and calibrated orbiter data and MASCAM
+data to be released over the course of 2021. Other surface
+observations, radio science, and derived data are expected in 2022. 
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+Software Systems for Astronomy (SSfA-8) will again be offered online
+this year, and will be spread over 7 weeks, June 21 to July 30, 2021. 
+The course covers the design and implementation of software for
+telescope and instrument control systems, observation planning tools,
+and software for analyzing and archiving astronomical data.
+
+If you are not a University of Hawaii at Hilo (UHH) student, follow the
+instructions given at this link:
+
+https://astro.uhh.hawaii.edu/ssfa.php#Special_Summer_Note
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+INSIGHTSEERS PROGRAM APPLICATION OPEN
+
+The InSight team is recruiting a second round of "InSightSeers". This
+program is intended to expose early career scientists to the experience
+of working on an interplanetary mission team. They will be paired with
+a mentor from the science team and allowed to observe all virtual
+science team meetings from June 28 - July 2, 2021. We hope that this
+will provide valuable insight (ha) into the work and team dynamics that
+take place on missions and help early career scientists make informed
+decisions about their career paths.
+
+This opportunity is open to graduate students in or beyond their third
+year of postgraduate studies (PhD or Master's) and early career
+scientists within seven years of receiving their post-graduate degree.
+Respondents will be selected based upon the anticipated impact to their
+career path and the alignment of their research interests with the
+scientific objectives of the mission. InSight recognizes and supports
+the benefits of having diverse and inclusive communities and expects
+that such values will be reflected in this opportunity. 
+
+Questions to: ingrid_daubar@brown.edu with subject line "InSightSeers". 
+For more details and to apply, fill out this form by Friday, May 28: 
+
+https://forms.gle/QvSUMfr5gWb7Mdrt8
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL ASSOCIATE POSITION AT THE UNIVERSITY OF MARYLAND
+
+The Planetary Surfaces and Spacecraft Lab at the University of
+Maryland, College Park has one open postdoctoral researcher position.
+We are looking for a scholar with strong computational modeling skills
+and an interest in the intersection of planetary science and aerospace
+engineering. The researcher will work on two projects: 1. modeling
+rarefied gas drag on particles ejected from comets and 2. modeling
+triboelectric charging of spacecraft interacting with regolith (e.g.
+rover wheels on the Moon). An existing experimental teststand will be
+used for subsequent validation of the triboelectric modeling. We are
+looking for a scholar with prior experience relevant to at least one of
+these two projects (e.g., rarefied flows, triboelectric charging, or
+granular materials) and/or relevant simulation tools (DSMC or DEM/MD).
+The scholar will work with Dr. Christine Hartzell develop new modeling
+capabilities using open source software, and present research results
+(via conferences and journal publications) to the wider planetary
+science and exploration community.
+
+Additional information can be found at:
+
+http://ejobs.umd.edu/postings/82169
+
+Any questions regarding this position should be addressed to Dr. 
+Christine Hartzell (hartzell@umd.edu).
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 21-July 2, 2021
+Software Systems for Astronomy Summer School
+https://astro.uhh.hawaii.edu/ssfa.php#Special_Summer_Note
+Virtual
+
+August 18-19, 2021
+Fundamental and Applied Lunar Surface Research in Physical Sciences
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Persephone: A Pluto-system Orbiter and Kuiper Belt Explorer
+Carly J. A. Howett et al. 2021 PSJ 2:75
+http://doi.org/10.3847/PSJ/abe6aa
+
+The Mars Orbiter for Resources, Ices, and Environments (MORIE) Science
+Goals and Instrument Trades in Radar, Imaging, and Spectroscopy
+Wendy M Calvin et al. 2021 PSJ 2:76
+http://doi.org/10.3847/PSJ/abe4db
+
+The Enceladus Orbilander Mission Concept: Balancing Return and
+Resources in the Search for Life
+Shannon M. MacKenzie et al. 2021 PSJ 2:77
+http://doi.org/10.3847/PSJ/abe4da
+
+Tilting Uranus: Collisions versus Spin-Orbit Resonance
+Zeeve Rogoszinski and Douglas P. Hamilton 2021 PSJ 2:78
+http://doi.org/10.3847/PSJ/abec4e
+
+The Inner Solar System Chronology (ISOCHRON) Lunar Sample Return
+Mission Concept: Revealing Two Billion Years of History
+David S. Draper et al. 2021 PSJ 2:79
+http://doi.org/10.3847/PSJ/abe419
+
+Understanding the Lunar Nearside-Farside Dichotomy via In Situ Trace
+Element Measurements: The Scientific Framework of a Prospective Landed
+Mission
+Benjamin Farcy et al. 2021 PSJ 2:80
+http://doi.org/10.3847/PSJ/abee7f
+
+Deep, Closely Packed, Long-lived Cyclones on Jupiter's Poles
+Tao Cai et al. 2021 PSJ 2:81
+http://doi.org/10.3847/PSJ/abedbd
+
+Validation of Stereophotoclinometric Shape Models of Asteroid (101955)
+Bennu during the OSIRIS-REx Mission
+M. M. Al Asad et al. 2021 PSJ 2:82
+http://doi.org/10.3847/PSJ/abe4dc
+
+Dione's Wispy Terrain: A Cryovolcanic Story?
+Cristina M. Dalle Ore et al. 2021 PSJ 2:83
+http://doi.org/10.3847/PSJ/abe7ec
+
+Science-rich Sites for In Situ Resource Utilization Characterization
+and End-to-end Demonstration Missions
+Carolyn H. van der Bogert et al. 2021 PSJ 2:84
+http://doi.org/10.3847/PSJ/abedbb
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

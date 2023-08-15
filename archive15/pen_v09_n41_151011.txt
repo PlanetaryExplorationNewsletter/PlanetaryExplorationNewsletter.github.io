@@ -1,0 +1,470 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 41 (October 11, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. [NASA] PDS - Cassini Data Release 43
+3. LEAG Annual Meeting 20-22 October 2015
+4. 2016 Pierazzo International Student Travel Award
+5. One-year Postdoc at IAPS-INAF Rome
+6. Lowell Observatory: Tenure-Track or Tenured Astronomer
+7. Post-doctoral Positions in Brazil
+8. IMPRS PhD Positions in Solar System Science
+9. NASA Postdoctoral Fellowships
+10. DPS E/PO Workshop on Sunday Morning
+11. DPS E/PO Workshop on Sunday Afternoon
+12. [NASA] Approval to Exceed Per Diem Lodging for DPS 2015
+13. [NASA] PDS - MESSENGER Data Release 14
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The October image of the month is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is “A cracking comet!". Contributed by Dr. M. Ramy 
+El-Maarry, Institute of Physics, University of Berne, Switzerland. 
+
+You can now follow IAG Planetary Geomorphology Image of the Month on 
+Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology 
+
+or Twitter @PlanetGeomorpho
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - CASSINI DATA RELEASE 43
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 43, October to December 2014, for instruments:
+
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+HRD data for this period was announced in release 41.
+CDA and CIRS data will be available shortly.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+  
+http://pds.nasa.gov/tools/subscription_service/SS-20151002.shtml
+
+To access the latest PDS Data Releases, please visit:
+  
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+  
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+  
+http://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LEAG ANNUAL MEETING 20-22 OCTOBER 2015
+
+The 2015 Annual Meeting of the Lunar Exploration Analysis Group will 
+be held at USRA HQ (Columbia, Maryland). See:
+
+http://www.hou.usra.edu/meetings/leag2015/ 
+
+The meeting will bring together scientists, engineers, and commercial-
+sector entrepreneurs to focus on issues involving science, exploration, 
+and utilization of the Moon. The meeting goals are three-fold:
+
+• Integrate the perspectives of the different stakeholders (science, 
+  engineering, government, and private sector) to explore common goals 
+  of lunar exploration regarding identification, evaluation, 
+  extraction, and use of lunar resources.
+• Use the results of missions to examine the dynamic nature of the 
+  Moon, 
+  influencing future science and exploration missions.
+• Provide a forum for community updates and input into the issues that 
+  affect lunar science and exploration.
+
+The meeting will result in findings formulated through community 
+consensus that will be published on the LEAG website and forwarded to 
+NASA HQ (SMD and HEOMD). Time for discussion and community input will 
+be made available during each session. 
+
+Community updates from SMD and HEOMD will be given, followed by 
+focused sessions that will discuss the dynamic Moon and lunar 
+resources/ISRU. The meeting will be live-streamed.  Full details for 
+remote access will be sent to the LEAG email list and the Lunar-L.
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+2016 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+Application deadline: 9 PM PST, November 13, 2015
+
+Awards will be announced on or before November 30, 2015
+
+This award is established by the Planetary Science Institute in memory 
+of Senior Scientist Betty Pierazzo to support and encourage graduate 
+students to build international collaborations and relationships in 
+planetary science. Two awards will be made each year, contingent upon 
+there being meritorious applications. One will be awarded to a graduate 
+student working on his or her Ph.D. at an institution within the U.S. 
+This is to support travel to a planetary science related meeting 
+(conferences and workshops) outside of the U.S. The second award will 
+be to a graduate student working on his or her Ph.D. at an institution 
+outside of the U.S. This is to support travel to a planetary science 
+related meeting within the U.S. These include general meetings that 
+have planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ONE-YEAR POSTDOC AT IAPS-INAF ROME
+
+A one-year postdoc is available at IAPS-INAF Rome. For those interested 
+in spectral analogues characterization, learn more at:
+
+http://www.inaf.it/it/lavora-con-noi/assegni-di-ricerca/assegno-di-
+ricerca-nellambito-dei-progetti-dawn-e-exomars-mamiss
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track 
+or tenured research positions in astronomy or planetary science. We 
+invite applicants at any career level who can build on current 
+strengths or open new areas for Lowell. A Ph.D. in astronomy, planetary 
+science, or a related field is required, as is an outstanding record of 
+research and demonstrated ability or potential to obtain external 
+research funding. Candidates are invited to describe how they would 
+make use of our observational facilities, but we will give equal 
+consideration to all research areas. The start date for this position 
+is flexible but desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07/Tenure-track-
+Astronomer.pdf
+
+To apply, send applications electronically to:
+
+humanresources@lowell.edu
+
+Applications should include:
+
+(1) a cover letter and CV,
+
+(2) a research plan of 3 pages or less, and
+
+(3) names and mail/email addresses of three individuals who have 
+agreed to serve as references. Do not ask for reference letters to be 
+sent in advance.
+ 
+Applications must be received by November 1, 2015 for full 
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POST-DOCTORAL POSITIONS IN BRAZIL
+
+The Group of Orbital Dynamics & Planetology invites applications for 
+post-doc positions. There are 4 positions that will be funded by 
+FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo). The 
+candidates must have experience on Planetary Dynamics and/or Spacecraft 
+Dynamics. The projects to be developed are the following:
+
+- Spin-orbit coupling in solar system dynamics;
+- Problems in orbital dynamics involving small bodies under 
+  gravitational close approaches;
+- Dynamics of narrow planetary rings and small satellites;
+- Attitude and orbit analysis for a mission to a triple asteroid system
+
+The projects will be developed in one of the following institutions: 
+I) São Paulo StateUniversity – UNESP in Guaratinguetá
+II) National Institute for Space Research – INPE in São José dos Campos
+
+Applicants should send a statement of research interest and a 
+curriculum vitae with a list of publications to:
+
+Prof. Othon Winter (email: ocwinter@gmail.com)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+IMPRS PHD POSITIONS IN SOLAR SYSTEM SCIENCE
+
+Deadline November 15, 2015
+
+The International Max Planck Research School (IMPRS) for Solar System 
+Science at the University of Göttingen in Germany (Solar System School) 
+offers a research-oriented doctoral programme covering the physical 
+aspects of Solar system science. It is jointly run by the Max Planck 
+Institute for Solar System Research (MPS) and the University of 
+Göttingen.
+
+The Solar System School is open to students from all countries and
+offers an international three-year PhD programme in an exceptional
+research environment with state-of-the-art facilities on the Göttingen
+Campus. Successful applicants will be offered a three-year doctoral
+support contract as well as postdoc wrap-up funding.
+
+Applicants to the Solar System School should have a keen interest in
+Solar system science and a record of academic excellence. They must
+have, or must be about to obtain, an M.Sc. degree or equivalent in
+physics or a related field, including a written Masters thesis (or a
+scientific publication), and must document a good command of the
+English language.
+
+Applications may be submitted via our online application portal.
+Review of applications will begin on 15 November 2015.
+
+https://www.mps.mpg.de/phd/applynow
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://apps.orau.gov/NPDoc/Catalog/17721
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/1UA7aHs
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DPS E/PO WORKSHOP ON SUNDAY MORNING
+
+DPS Meeting 2015 National Harbor
+
+Broadening your impact: A workshop for scientists engaged in education 
+and public outreach (or who want to get involved) 
+
+Please join your fellow scientists for a half day workshop about how 
+to get involved in education and outreach, and how to have the most 
+impact with your efforts, on Sunday morning, November 8th from 9 a.m. 
+to noon (Room - Woodrow Wilson A). We will share tried-and-true
+techniques, best practices, and useful resources and activities. 
+
+Topics will include participants sharing resources from their own work 
+in a "share-a-thon", presentation of resources for teaching and 
+outreach, and one-on-one and small group discussions. Topics may 
+include resources for higher education classes, writing broader impact 
+statements for grants, press releases, partnering in education and 
+public outreach, and evaluation. Final topics will be determined by 
+participants, register early to cast your vote! Contact Sanlyn Buxner, 
+buxner@psi.edu with questions.  
+
+Register now at:
+
+https://www.surveymonkey.com/r/DPS_Sci_EPO
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DPS E/PO WORKSHOP ON SUNDAY AFTERNOON
+
+DPS Meeting 2015 National Harbor
+
+First Time Presenter's Review 
+
+Is the DPS 2015 your first conference presentation (oral or poster)?  
+Nervous? Would you like advice? Join others like you for this 
+educational opportunity to get feedback from seasoned presenters at the 
+First Timers' Review on Sunday afternoon, November 8th (Room - Woodrow
+Wilson A). Undergraduates, Graduate Students, and new Post-Docs are
+all welcome for this event from 12 p.m. to 2:30 p.m. that includes 
+lunch. 
+
+If you would like to participate in the First Time Presenters’ Review, 
+please register now at:
+
+https://www.surveymonkey.com/r/2015_DPS_1st_Timers
+
+If you have any questions, or are a seasoned presenter that would like 
+to add your voice to the review, please contact Andy Shaner at 
+shaner@lpi.usra.edu.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] APPROVAL TO EXCEED PER DIEM LODGING FOR DPS 2015
+
+NASA has issued a waiver for grantees allowing them to be reimbursed 
+out of their grants for lodging above per diem up to the cost of the 
+conference hotel. 
+
+For details, please see:
+
+http://science.nasa.gov/researchers/sara/letters-from-sara/2015/9/25/
+approval-exceed-per-diem-lodging-dps-2015/
+
+Please note that some organizations have written policies that do not 
+allow their employees to charge more than the federal per diem rate 
+for conference or other local area hotels, so please check with your 
+organization about its policy.
+
+Max Bernstein, SMD lead for research
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS - MESSENGER DATA RELEASE 14
+
+The Planetary Data System is pleased to announce Release 14 of data 
+collected by the MErcury Surface, Space ENvironment, GEochemistry, and 
+Ranging (MESSENGER) mission, including raw and calibrated products 
+created from data acquired through the end of Mercury orbital 
+operations on 30 April 2015.
+
+MESSENGER's instruments are the Mercury Dual Imaging System (MDIS), 
+with wide-angle and narrow-angle cameras for imaging Mercury's 
+surface; a Gamma-Ray and Neutron Spectrometer (GRNS) and an X-Ray 
+Spectrometer (XRS) for remote geochemical mapping; a Magnetometer (MAG) 
+to measure the planetary magnetic field; a Mercury Laser Altimeter 
+(MLA) to measure surface topography and planetary shape; the Mercury 
+Atmospheric and Surface Composition Spectrometer (MASCS), combining 
+an Ultraviolet and Visible Spectrometer (UVVS) with a Visible and 
+Infrared Spectrograph (VIRS) to make high-resolution spectral 
+measurements of the surface and to survey the structure and 
+composition of Mercury's tenuous neutral exosphere; and an Energetic 
+Particle and Plasma Spectrometer (EPPS) to characterize the charged 
+particle and plasma environment of Mercury.
+
+The final release of calibrated and advanced products is 6 May 2016.
+
+This release's data:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20151009.shtml
+
+Data archived in the PDS:
+
+http://pds.nasa.gov
+
+ACT-REACT QuickMap interactive Web interface:
+
+http://messenger.jhuapl.edu
+
+MDIS mosaics:
+
+http://messenger.jhuapl.edu/the_mission/mosaics.html
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+March 14-18, 2016
+International Workshop on Scientific Use, Digitization and Preserving 
+Astronomical Photographic Records 
+http://www.astroplate.cz
+Prague, Czech Republic
+
+June 6-10, 2016
+31st IUGG Conference on Mathematical Geophysics: From Mathematics to 
+Experiments
+http://cmg2016.sciencesconf.org/
+Paris, France
+
+October 2-7, 2016
+XV Latin American Regional IAU meeting
+http://larim.unal.edu.co
+Cartagena de Indias, Colombia
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

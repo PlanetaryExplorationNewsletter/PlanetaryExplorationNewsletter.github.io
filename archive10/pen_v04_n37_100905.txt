@@ -1,0 +1,249 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 37 (September 5, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Susan Benecchi, Melissa Lane
+Email: pen_editor at psi.edu
+
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Infrared Telescope Facility Observing Proposals
+2. Planetary Geomorphology Image of the Month
+3. [NASA PDS] Mars Reconnaissance Orbiter Data Release 14
+4. [NASA] Postdoctoral Fellow at NASA Johnson Space Center
+5. [NASA] August 2010 Discovery and New Frontiers Newsletter Released
+6. Cosmochemistry Illustrated: Slides for the Classroom
+7. Mars Exploration Science Monthly Newsletter Available
+8. Postdoctoral Research Position - UI Urbana Champaign
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS
+
+Due date for the February to July 31, 2011 semester is Friday, 
+October 1, 2010. See 
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php 
+
+for our new ONLINE submission form.  Available instruments include:  
+
+(1) SpeX, a 1-5 micron cross-dispersed medium-resolution spectrograph 
+    (up to R=2,500);  
+(2) CSHELL, a 1-5 micron high-resolution spectrograph (up to R=30,000);  
+(3) MIRSI, a 5 to 25 micron camera and low-resolution spectrometer 
+    (R=100 to 200); 
+(4) NSFCAM2, a 2048x2048 pixel, 1-5 micron camera with a 0.04 
+    arcsec/pixel scale and a circular variable filter; and 
+(5) PI-instruments including a low-resolution 3-14 micron spectrograph 
+    and high-resolution spectrographs for 8-25 microns.  
+
+Information on available instruments can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/Facility/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The September 'Image of the month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/sep10.html
+
+This month's topic is on "Young volcanism on Mercury." Images and 
+caption contributed by Carolyn Ernst, Johns Hopkins University Applied 
+Physics Laboratory, Laurel, MD 20723, USA.
+ 
+Past images and captions are available at: 
+
+http://www.psi.edu/pgwg/images/index.html
+ 
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA PDS] MARS RECONNAISSANCE ORBITER DATA RELEASE 14
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SHARAD
+SPICE
+
+In general, MRO Release 14 includes data collected between November 9, 
+2009 and  February 8, 2010.  The HiRISE release includes data acquired 
+between May 6 and July 31, 2010 (MRO Orbits 17,700 - 18,799). 
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100901.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] POSTDOCTORAL FELLOW AT NASA JOHNSON SPACE CENTER
+
+We seek a postdoctoral fellow to do geophysical modeling of the thermal 
+history of crusts of differentiated asteroids, and the transport of 
+magmas through the crusts.  Geophysical models for the formation of the 
+earliest crust on 4 Vesta will be constructed to further understand the 
+nature of the solid substrate that hosted diogenite and cumulate 
+eucrite intrusions, and extrusive basaltic eucrite flows.  One goal of 
+this project is to develop better physical models for the thermal 
+boundary layer on Vesta and its evolution as the asteroid 
+differentiated.  This work is being done at NASA/Johnson Space Center 
+in support of NASA's Dawn mission.
+
+The postdoctoral position is through the NASA Postdoctoral Program, 
+administered by Oak Ridge Associated Universities.  Information on the 
+program is at: 
+
+http://nasa.orau.org/postdoc/  
+
+Information on this project is at: 
+
+http://www2.orau.gov/NASA_Catalog/Opportunity/18558  
+
+The deadline for applications is 1 November 2010, with a desired start 
+date of 1 June 2011.  Interested scientists should first contact the 
+project well in advance of the deadline.
+
+David W. Mittlefehldt (PI)
+NASA/Johnson Space Center
+david.w.mittlefehldt at nasa.gov
+
+Walter S. Kiefer (Co-I)
+Lunar and Planetary Institute
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] AUGUST 2010 DISCOVERY AND NEW FRONTIERS NEWSLETTER RELEASED
+ 
+EPOXI Nears Comet Encounter
+Stardust-NExT Getting Ready for its Encore
+Mercury Orbit Nearing for MESSENGER
+Dawn Prepares for Vesta Arrival
+New Horizons Wakes Up and Works Out
+Juno Armored Up for Jupiter
+"Space School Musical" Brings Fun to Science Learning
+Scenes from JPL Open House
+GRAIL Assembly Begins
+ 
+Go to:
+
+http://discoverynewfrontiers.nasa.gov/news/newsletters
+
+to view and subscribe.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+COSMOCHEMISTRY ILLUSTRATED: SLIDES FOR THE CLASSROOM
+ 
+We are creating a website containing short PowerPoint presentations in 
+cosmochemistry. We hope to enhance the cosmochemical expertise of 
+students studying planetary geology and geophysics, and astronomy and 
+astrophysics. The sets will also be useful to planetary scientists when 
+they give public presentations and courses for non-science majors. Each 
+slide includes thorough explanations in the notes pages and an 
+appropriate reference. Please try out the presentations. Comments 
+welcomed, as are contributed presentations, gjtaylor@higp.hawaii.edu
+ 
+http://www.higp.hawaii.edu/cosmoeye/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the September 
+2010 edition of the Mars Exploration Science Monthly Newsletter can be
+found at:
+ 
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCH POSITION - UI URBANA CHAMPAIGN
+
+The Department of Geology at the University of Illinois at Urbana 
+Champaign seeks a postdoctoral researcher to develop and extend 
+computational modeling of volcanic eruptions into a vacuum on Io, with 
+extensions to volcanism on the earth and other planets. The researcher 
+will use and extend an existing continuum fluid dynamics code, and will 
+play a key role in interfacing the output of this code into a rarified 
+gas dynamics code.  A Ph.D. in a related field and experience with 
+numerical modeling are required. Expertise in high-speed supersonic 
+flows will be valued.  We will begin reviewing applications on October 
+4, 2010, and anticipate a start date ASAP.  The position is for one year 
+and is renewable, contingent on funding and performance.  Please send 
+curriculum vitae, statement of research interests, and the names of 
+three professional references to: Susan W. Kieffer, at 
+skieffer@illinois.edu.  UIUC is an Affirmative Action/Equal Opportunity 
+Employer and Educator.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+December 7-9, 2010
+Planetary Protection: Policies and Practices
+Contact: Technical Administrative Services (tasalb@msn.com)
+Kennedy Space Center, FL
+
+January 10-14, 2011
+The Millimeter and Submillimeter Sky in the Planck Mission Era
+http://www.planck2011.fr/
+Paris, France
+
+June 5-10, 2011
+Second Workshop on Robotic Autonomous Observatories
+http://arae.iaa.es:8000/malaga-2011/
+Malaga, Spain
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

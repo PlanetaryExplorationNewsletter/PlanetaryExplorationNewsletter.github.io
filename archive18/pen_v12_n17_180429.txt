@@ -1,0 +1,488 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 17 (April 29, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Karen R. Stockstill-Cahill, Mark V. Sykes  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC Session: Post-differentiation Magmatism on the Moon - Current
+   Insights on Lunar Volcanism
+2. EPSC Session: Lunar Volatiles
+3. EPSC Session: Machine Learning for Planetary Science in Times of
+   Increasing Data Volume and Complexity
+4. SBAG 19 Early Career Opportunities
+5. Final Landing Site Workshop for Mars 2020
+6. Postdoctoral Research Associate in Venus or Mars Science, Wesleyan
+   University
+7. Postdoctoral Position in Cometary Plasma Physics at IRF in Uppsala,
+   Sweden
+8. Small Innovative Missions for Planetary Exploration Released as
+   Amendment 2 To SALMON-3
+9. Three-year Postdoc position at the University of Idaho
+10. PhD Position at University of Idaho
+11. Lecturer Position at the University of Tennessee, Knoxville
+12. Draft of Instrument Concepts for Europa Exploration 2 (ICEE 2)
+    Posted for Comment
+13. MEPAG Meeting 36 Presentations, Summary, and Findings are Posted
+14. SMD Seeks Volunteer Reviewers
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC SESSION: POST-DIFFERENTIATION MAGMATISM ON THE MOON: CURRENT
+INSIGHTS ON LUNAR VOLCANISM
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://www.epsc2018.eu/home.html
+
+Based on lunar samples (Apollo and Luna missions and meteorites)
+volcanism on the Moon occurred from 4.3 to 2.9 Ga. However, remote
+sensing data suggest a longer period of volcanic activity to as
+recently as 1.2 Ga, or even as young as 0.1 Ga. Samples have suggested
+a wide range of compositional magma sources, which are not always well
+understood, especially in terms of lunar bulk composition estimates for
+the heat-producing elements versus the potentially 3+ Ga of volcanism.
+Volcanism on the Moon occurred mostly in two main versions: flows of
+low-viscosity lavas and gas-charged fire-fountain eruptions. In
+addition, new orbital data indicate the presence of silica-rich
+volcanic domes and pyroclastic deposits. Understanding the melting,
+crystallization, and ascent of these magmas is critical to enable
+better assessment on the role of volatiles in melting and eruption.
+
+Looking forward to meet you in Berlin!
+
+Co-conveners:V. Assis Fernandes, B. Bultel , C. Neal and N. Zellner
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC SESSION: LUNAR VOLATILES
+ 
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+ 
+Abstracts submission is now open to Session LSE5
+Deadline: 16 May 2018, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29984
+ 
+The abundance, distribution, history and transport of volatiles on the
+Moon are important topics for Lunar science and exploration. Several
+missions have been flown or are being planned to address questions
+related to Lunar volatiles. This session would invite presentations
+related to the advancement in understanding of volatiles on the Moon
+through data analysis, modeling, and laboratory studies as well as
+plans for the future. 
+
+Co-conveners: K. Mandt, G. W. Patterson, O. Mousis, E. Sefton-Nash  
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC SESSION: MACHINE LEARNING FOR PLANETARY SCIENCE IN TIMES OF
+INCREASING DATA VOLUME AND COMPLEXITY
+
+We invite contributions to out session at
+EPSC 2018 
+Berlin, Germany 
+September 16-21, 2018.
+
+Abstracts deadline is Wednesday, May 16, 2018.
+
+This session is cross-disciplinary meeting point for planetary
+scientist from various various interested in sharing experience, tools,
+application in the Machine Learning applied to planetary science at
+large.
+
+Machine Learning is the subfield of computer science that gives
+"computers the ability to learn without being explicitly programmed." 
+
+Find a complete description at:
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29963
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SBAG 19 EARLY CAREER OPPORTUNITIES
+
+Early career travel support: We are planning to offer limited U.S.
+travel support for early career scientists to participate in the SBAG
+meeting, to be held at the University of Maryland in College Park, MD
+on June 13-14, 2018. Interested early career scientists (within 3 years
+of PhD/MS/BS) should submit a letter and a CV to SBAG Early Career
+Secretary Hannah Susorney (hsusorney@eoas.ubc.ca) by COB (5 pm Eastern
+time) April 27th, 2018. Included in the letter, which must not exceed 2
+pages, should be a demonstration of financial need and an explanation
+of how the applicant's work relates to the purposes of the SBAG. The
+letter and CV should be combined into a single PDF document for
+submission by e-mail attachment. Recipients of travel support will be
+expected to give a short presentation (10-15 minutes) of their
+SBAG-relevant work at the SBAG 19 meeting.
+
+Lightning Talks: We are providing time on the agenda for early-career
+scientists and engineers present at the meeting to introduce themselves
+and their research to the community. The talks will be 3 minutes each.
+If you are interested in giving a lightning talk, please contact the
+early-career secretary Hannah Susorney (hsusorney@eoas.ubc.ca). 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FINAL LANDING SITE WORKSHOP FOR MARS 2020
+
+The fourth and final landing site workshop for the Mars 2020 rover
+mission will be October 16-18, 2018, in Glendale, CA. The workshop will
+focus on the science potential of the three remaining candidate sites
+under consideration: Columbia Hills, Jezero Crater, and NE Syrtis.
+
+New analyses of the science potential of the sites and presentations on
+potential extended mission targets at each of the final sites are
+encouraged. We anticipate that the Mars 2020 Project will provide
+detailed mission scenarios for each site that include discussion of
+potential exploration targets, observations, and sampling strategies
+relative to mission goals and important Mars science described in the
+2013-2022 Planetary Science Decadal Survey.
+
+Additional details will be posted this summer at: 
+
+https://marsnext.jpl.nasa.gov/index.cfm 
+
+For those planning to attend in-person and who typically forecast for
+conference attendance, please put your forecast into your institution's
+system for NCTS# 34492-19 before May 18.
+
+A community assessment will be made at the end of the workshop for the
+final three candidate landing sites and will be factored into
+subsequent deliberations that will conclude with the Mars 2020 Project
+recommendation of the landing site to NASA Headquarters.
+
+John Grant and Matt Golombek
+Co-chairs, Mars Landing Site Steering Committee
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL RESEARCH ASSOCIATE IN VENUS OR MARS SCIENCE, WESLEYAN
+UNIVERSITY
+
+Wesleyan University Department of Earth and Environmental Sciences,
+Planetary Sciences Group is seeking a Postdoctoral Research Associate
+for one of two potential projects to work under the direction of Prof.
+Martha Gilmore. The funds will be available July 1, 2018 for two
+years.
+
+Venus Surface Mineralogy - we seek someone with expertise in
+geomorphology, remote sensing and mineralogy to undertake analysis of
+radar properties of the Venus surface to constrain the origin and
+composition of tessera highlands and the lowland plains materials. We
+will also examine chemical changes in relevant minerals exposed to
+Venus conditions using a number of analytical techniques.
+
+Mars Geochemistry and Spectroscopy - The project is to create a series
+of Mars analogue brines and precipitate them under terrestrial and
+martian conditions in a Mars chamber. VNIR spectra of the precipitates
+will be collected in situ and compared to data collected by CRISM in
+Mars orbit.
+
+The Planetary Sciences Group comprises 6 core faculty, 7 affiliated
+faculty and postdocs across the sciences and offers both graduate and
+undergraduate planetary curricula.
+
+http://www.wesleyan.edu/planetary
+
+Wesleyan University is in Middletown CT, a New England college town
+midway between New York and Boston.
+
+To apply:
+
+https://careers.wesleyan.edu/postings/6316
+
+Questions: Prof. Martha Gilmore, mgilmore@wesleyan.edu
+
+Applications will be reviewed as they are received.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL POSITION IN COMETARY PLASMA PHYSICS AT IRF IN UPPSALA,
+SWEDEN
+
+The Swedish Institute of Space Physics is seeking candidates for a
+postdoctoral position in space physics to study the complex dynamics of
+a cometary ionosphere. Our group is responsible for one of the plasma
+instruments on the Rosetta spacecraft to comet 67P, and we collaborate
+closely with other Rosetta teams. In this project, there will also be
+collaboration with a team doing particle-in-cell plasma simulations.
+The work involves both analysis of Rosetta data and theoretical
+modeling. Experience in the analysis of space plasma data is expected,
+and experience in relevant theoretical modelling is an advantage.
+
+Candidates should have completed a PhD during 2015 or later. Candidates
+planning to obtain their PhD degree no later than September 2018 can
+also apply.
+
+The position is available at our Uppsala office for 2 years. At IRF
+Uppsala some 20 researchers work on the space plasma mainly around
+Earth, Saturn, Mars and comet 67P using data from our own instruments
+on Rosetta, Cluster, MMS, Swarm and Cassini as well as other data. The
+project is financed by the Swedish National Space Board.
+
+More information:
+
+http://www2.irf.se/Topical/Vacancies/?group=P4&vacid=62
+
+Closing date: 15 May 2018
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SMALL INNOVATIVE MISSIONS FOR PLANETARY EXPLORATION RELEASED AS
+AMENDMENT 2 TO SALMON-3
+   
+SALMON-3 is an omnibus AO that provides a solicitation and procurement
+base for modest investigations, also referred to as Missions of
+Opportunity (MO), requiring space flight. Amendment #2 to SALMON-3
+creates PEA J, which describes the requirements for Small Complete
+Mission of Opportunity proposals and documents specific requirements
+for SIMPLEx. Through this PEA, SMD/PSD solicits investigations for a
+secondary payload small spacecraft to be built and deployed from a
+primary spacecraft mission, followed by production of high quality and
+highly useful science data from that SmallSat, analysis of the data and
+publication of scientific results, and delivery of the data to an
+appropriate NASA archive.
+
+Further information:
+
+https://soma.larc.nasa.gov/simplex/programlibrary.html
+ 
+A Preproposal Conference regarding this solicitation will take place
+(via webinar) on May 22, 2018 1-4 pm eastern time.
+
+Dial-in number: 1-844-467-4685
+Passcode 869324.
+
+WebEx information:
+
+https://nasa.webex.com/nasa/
+j.php?MTID=mc239099c50bb2c7e87415d23d03da96a
+
+Meeting number: 996 358 354
+Meeting password: SIMPLEx0522!
+ 
+Any changes to this meeting or additional information will be posted on
+the NSPIRES page for NNH17ZDA004O-SIMPLEx and on the SOMA SIMPLEx
+investigation acquisition homepage prior to the Preproposal Conference.
+
+Email Doris.Daou@nasa.gov (subject line "SIMPLEx FINAL AO").
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THREE-YEAR POSTDOC POSITION AT THE UNIVERSITY OF IDAHO
+
+Position Summary
+
+The IceCrystal project has a post-doctoral fellowship available. The
+individual will be expected to perform visible-near infrared
+reflectance (VNIR) spectral analysis of terrestrial basaltic lava flows
+with particular emphasis on unaltered glassy surfaces. Spectral
+measurements will be conducted during field campaigns, which involves
+travel to rugged and remote volcanic regions located in Idaho, Iceland,
+and Alaska. This individual will then compare spectral signatures of
+glassy basalts from different regions and apply these findings to lava
+flows on Mars using the CRISM dataset. The work will be performed in
+collaboration with NASA Ames Research Center and the SETI Institute.
+Starting date for the position is as soon as August-2018.
+
+Please contact erader@uidaho.edu with questions about the position and
+application instructions. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PHD POSITION AT UNIVERSITY OF IDAHO
+
+The IceCrystal project has an open position for a student seeking a
+PhD. The individual will be working with VNIR spectral analysis of lava
+flows and will focus on  microcrystal distribution throughout flow
+features. The student will participate in field campaigns in rugged and
+remote volcanic regions located in Idaho, Iceland, and Alaska. The
+student will produce a protocol for the most effective method for
+collecting spectral data with the purpose of identifying environmental
+conditions experienced by lava flows during emplacement. The work will
+be performed in collaboration with NASA Ames Research Center and the
+SETI Institute. Starting date for the position is as soon as
+August-2018. 
+
+Please contact erader@uidaho.edu with questions about the position and
+instructions on how to apply.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LECTURER POSITION AT THE UNIVERSITY OF TENNESSEE, KNOXVILLE
+
+Lecturer / Laboratory Director position in the Department of Earth and
+Planetary Sciences
+
+Further details and instructions for applying are at:
+
+https://webapps.utk.edu/humanresources/utjoblist/
+
+We seek to hire a dynamic educator to teach introductory geoscience
+courses (including planetary science), coordinate laboratory sections
+and mentor graduate students. This is a 12-month position with a
+competitive salary and would be a great fit for those interested in
+geoscience education and curriculum development. Although the initial
+appointment is for one year, the contract is renewable. The University
+of Tennessee, Knoxville has a three-tiered promotional structure for
+lecturers, so career advancement and wage increases are expected,
+contingent upon performance evaluations. Knoxville has a growing arts
+and culture scene, fantastic outdoor recreational opportunities and
+provides excellent quality of life. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+DRAFT OF INSTRUMENT CONCEPTS FOR EUROPA EXPLORATION 2 (ICEE 2) POSTED
+FOR COMMENT
+ 
+A draft version of the ICEE 2 program element has been posted at
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId={17B73E96-6B65-FE78-5B63-84C804831035}&path=open
+
+for community comment. The goal of the program is to advance both the
+technical readiness and spacecraft accommodation of instruments and the
+sampling system for a potential future Europa lander mission. Comments
+must be submitted in writing to Dr. Curt Niebur (curt.niebur@nasa.gov)
+by May 11, 2018. Individual responses should not be anticipated.
+Changes to this program element or additions to a Frequently Asked
+Questions (FAQs) page may be made in response to comments, as
+appropriate. The final text of this program element will be added to
+ROSES-2018 by amendment. It is anticipated that the due date for Step-1
+proposals will be 45 days after release of the final text and the due
+date for Step-2 proposals will be 90 days after release of the final
+text.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MEPAG MEETING 36 PRESENTATIONS, SUMMARY, AND FINDINGS ARE POSTED
+
+Thank you to all who attended MEPAG Meeting 36! This meeting was held
+Tuesday-Thursday, April 3-5, 2018, at the Crystal City Marriott at
+Reagan National Airport, in Arlington, VA. A total of 135 people
+attended in-person, and there were nearly 100 unique Adobe Connect
+logins each day.
+
+Nearly all meeting presentations have been added to the meeting 
+webpage:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m36
+
+The Meeting Summary and Findings have also been finalized and posted.
+Also available are all forum abstracts and, for some presentations,
+e-poster files.
+ 
+Comments or questions, regarding the meeting, the Summary, or future
+MEPAG activities, can be sent to MepagMeetingQs@jpl.nasa.gov. And we
+hope you will join us at the virtual meeting(s) that we expect to hold
+this summer.
+
+[Edited for length]
+ 
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+SMD SEEKS VOLUNTEER REVIEWERS
+                                                     
+Seeking volunteer reviewers in Earth and Space Science
+ 
+NASA's Science Mission Directorate (SMD) is seeking subject matter
+experts to serve as mail-in and/or panel reviewers of proposals to
+ROSES and other SMD solicitations. Just follow the links below to the
+volunteer review forms and click the boxes to indicate the topics in
+which you consider yourself to be a subject matter expert. If your
+skills match our needs for that review, we will contact you to discuss
+scheduling. 
+ 
+We are currently seeking reviewers for:
+
+Heliophysics Programs (Appendix B of ROSES-18)
+Emerging Worlds (C.2 of ROSES)
+Exobiology (C.5 of ROSES)
+Solar System Observations (C.6 of ROSES)
+Planetary Data Archiving, Restoration, and Tools (C.7 of ROSES)
+MatISSE and DALI (high-TRL planetary instrument programs) C.13 and C.22
+ of ROSES
+Juno Participating Scientist Program (E.5 of ROSES)
+Earth Surface and Interior and Space Geodesy Programs
+Astrophysics Data Analysis Program (D.2 of ROSES)
+Small Innovative Missions for Planetary Exploration (SIMPLEx PEA J of
+ SALMON-3 AO)
+
+The landing page all of these forms may be found at:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/ 
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 20-24, 2018
+Japan Geoscience Union Meeting 2018 
+http://www.jpgu.org/meeting_e2018/
+Chiba, Japan
+
+October 21-26, 2018
+https://aas.org/meetings/dps50
+50th Meeting of the AAS Division for Planetary Sciences
+Knoxville, TN
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

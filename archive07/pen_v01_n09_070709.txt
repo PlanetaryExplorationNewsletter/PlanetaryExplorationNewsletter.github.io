@@ -1,0 +1,140 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 9 (July 9, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Matt Balme, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS----------------------------o
+
+1. [NASA] DISCOVERY AND NEW FRONTIERS NEWSLETTER 
+2. [NASA] NEW MARS ODYSSEY DATA AVAILABLE FROM PDS
+3. [NASA] NSPIRES: NASA OFFERS PRE-SCREENING OF PRINCIPAL INVESTIGATOR 
+   REQUIREMENTS FOR SMALL EXPLORER (SMEX) OPPORTUNITY
+4. REMINDER: ABSCICON 2008 CALL FOR SESSION TOPIC PROPOSALS
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] DISCOVERY AND NEW FRONTIERS NEWSLETTER
+
+The Discovery and New Frontiers News is published on a quarterly 
+basis by the Discovery and New Frontiers Programs Office.  It includes 
+an overview of the current status of each mission, including highlights 
+of their education and public outreach efforts.  Missions reaching 
+significant milestones, such as launch, are featured. The Dawn mission 
+is the focus of the current issue.
+
+View the Discovery and New Frontiers News online at
+
+http://discoverynewfrontiers.nasa.gov/news/newsletters/index.html. 
+
+To receive email notification when the the newsletter is published, 
+you may contact Shari Asplund at shari.e.asplund@jpl.nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NEW MARS ODYSSEY DATA AVAILABLE FROM PDS
+
+The NASA Planetary Data System announces the release of the following
+data from the Mars Odyssey mission (July 3, 2007):
+
+ODY Mars Gamma Ray Spectrometer 2 EDR V1.0
+ODY Mars Gamma Ray Spectrometer 4 CGS V1.0
+ODY Mars Gamma Ray Spectrometer 4 DHD V1.0
+ODY Mars Gamma Ray Spectrometer 4 DND V1.0
+ODY Mars Gamma Ray Spectrometer 5 AHD V1.0
+ODY Mars Gamma Ray Spectrometer 5 AND V1.0
+ODY Mars Gamma Ray Spectrometer 5 SGS V1.0
+ODY Mars SPICE Kernels V1.0
+ODYSSEY THEMIS IR EDR V1.0
+ODYSSEY THEMIS VIS EDR V1.0
+ODYSSEY THEMIS IR Brightness Temperature Record V1.0
+ODYSSEY THEMIS IR RDR V1.0
+ODYSSEY THEMIS VIS Apparent Brightness Record V1.0
+ODYSSEY THEMIS VIS RDR V1.0
+ODYSSEY THEMIS VIS Geometric Images V1.0
+
+To access the above data, please visit the following link:
+http://pds.nasa.gov/subscription_service/PDS-Subscription-Service-03-Jul-07.html
+
+To access the latest PDS Data Releases, please visit the following link:
+http://pds.nasa.gov/subscription_service/PDS-Subscription-Service-Data-Release-Summary.html
+
+All available PDS data may be downloaded from:
+http://starbrite.jpl.nasa.gov/pds/index.jsp
+
+For further information, see the PDS Home Page:
+http://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] NSPIRES: NASA OFFERS PRE-SCREENING OF PRINCIPAL INVESTIGATOR 
+REQUIREMENTS FOR SMALL EXPLORER (SMEX) OPPORTUNITY
+
+The National Aeronautics and Space Administration (NASA) Science 
+Mission Directorate (SMD) offers the opportunity of pre-screening 
+Principal Investigator (PI) experience requirements to prospective 
+investigators who plan to respond to its Announcement of Opportunity 
+(AO) for Small Explorer (SMEX) missions, a draft of which was 
+released for public comment on June 8, 2007. A copy of the draft AO is 
+available at 
+
+http://nspires.nasaprs.com/
+
+(select "Solicitations" then "Open Solicitations" then 'Small Explorer 
+(SMEX) and Missions of Opportunity - DRAFT (NNH07ZDA00XO)'). The PI 
+minimum experience requirements will be described in Section 4.5.1 and 
+Appendix H of the AO when it is released, and instructions for 
+demonstrating the satisfaction of the PI minimum experience 
+requirements will be described in Appendix B part I.7 of the final AO.
+
+[Editor: The full text of this announcement is available at
+http://explorers.larc.nasa.gov/smexacq.html]
+
+Questions may be addressed to Dr. Hashima Hasan, Explorer Program 
+Scientist, Science Mission Directorate, NASA, Washington, DC  20546; 
+Tel.: (202) 358-0692; Email: smexao@nasa.gov.  
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+ 
+REMINDER: ABSCICON 2008 CALL FOR SESSION TOPIC PROPOSALS
+ 
+The Science Steering Committee of the 2008 Astrobiology Science Conference
+(April 15-17, Santa Clara, California, USA) invites proposals for sessions
+related to the major scientific themes:  The Astronomical and Planetary
+Context for Life, The Origin and Evolution of Life, and The Search for
+Life in our Solar System and Beyond.
+ 
+To submit proposals, and for more details, please go to the conference
+website, http://abscicon.seti.org.
+ 
+The deadline for submission of session topic proposals is July 23, 2007.
+ 
+Questions can be addressed to: session.proposals@seti.org.
+
+
+
+**************************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+**************************************************************************

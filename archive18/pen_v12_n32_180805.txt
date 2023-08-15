@@ -1,0 +1,299 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 32 (August 5, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: On the Insensitive Use of the Term "Planet 9" for Objects
+   Beyond Pluto
+2. Symposium in Celebration of Mike A'Hearn
+3. GSA Session T147: Memorial Session in Memory of Lawrence A. Taylor
+   on Planetary Mantles - Using Samples to Explore Earth, the Moon, and
+   Mars
+4. Mars Science Laboratory Release 18
+5. Planetary Geomorphology Image of the Month
+6. [NASA] Lodging Waiver for the 50th DPS
+7. The Art of Planetary Science at DPS
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: ON THE INSENSITIVE USE IF THE TERM "PLANET" 9 FOR OBJECTS
+BEYOND PLUTO
+
+We the undersigned wish to remind our colleagues that the IAU planet 
+definition adopted in 2006 has been controversial and is far from 
+universally accepted. Given this, and given the incredible 
+accomplishment of the discovery of Pluto, the harbinger of the solar 
+system's third zone - the Kuiper Belt - by planetary astronomer 
+Clyde W. Tombaugh in 1930, we the undersigned believe the use of the 
+term "Planet 9" for objects beyond Pluto is insensitive to Professor 
+Tombaugh's legacy.
+
+We further believe the use of this term should be discontinued in favor 
+of culturally and taxonomically neutral terms for such planets, such as 
+Planet X, Planet Next, or Giant Planet Five. 
+
+Paul Abell
+Michael Allison
+Nadine Barlow
+James Bauer
+Gordon Bjoraker
+Paul Byrne
+Eric Christiansen
+Rajani Dhingra
+Timothy Dowling
+David Dunham
+Tony L. Farnham
+Harold Geller
+Alvero Gonzalez
+David Grinspoon
+Will Grundy
+George Hindman
+Kampalayya M. Hiremath
+Brian Holler
+Stephanie Jarmak
+Martin Knapmeyer
+Rosaly Lopes
+Amy Lovell
+Ralph McNutt
+Phil Metzger
+Sripada Murty
+Michael Paul
+Kirby Runyon
+Ray Russell
+John Stansberry
+Alan Stern
+Mike Summers
+Henry Throop
+Hal Weaver
+Larry Wasserman
+Sloane Wiktorowicz
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SYMPOSIUM IN CELEBRATION OF MIKE A'HEARN
+
+We will be holding a symposium at the University of Maryland in College 
+Park on August 6-8, 2019, in celebration of the contributions that 
+Mike A'Hearn made to cometary science.
+
+In Mike's honor, this symposium will focus on results from observations 
+of comet 46P/Wirtanen (and the other recent bright comets) to allow the 
+compilation of individual studies into a comprehensive understanding of 
+the comet.
+
+We encourage comet scientists of all types as well as anyone who knew 
+and worked with Mike in any capacity to come and participate in this 
+event and to reflect on his legacy.
+
+For additional details on the Wirtanen Observing Campaign and for 
+future updates on the symposium, please visit the campaign website: 
+
+http://wirtanen.astro.umd.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GSA SESSION T147: MEMORIAL SESSION IN MEMORY OF LAWRENCE A. TAYLOR ON
+PLANETARY MANTLES - USING SAMPLES TO EXPLORE EARTH, THE MOON, AND MARS
+
+Please consider submitting an abstract to honor the legacy of the late, 
+great, Dr. Larry Taylor, who impacted many of us through his dedication 
+to students, post-docs, and early-career scientists as well as delving 
+deep to better understand the mantles of our home planet, the Moon and 
+Mars.
+
+Session Description: Comparative planetology through the study of 
+terrestrial, lunar, and martian mantles was the essence of Prof. 
+Taylor's long research career, during which he mentored numerous 
+students and post-doctoral researchers, as well as forging many 
+international partnerships and collaborations. This session is looking 
+for papers that focus on the mantles of the Earth, Moon and Mars and 
+in doing so, celebrate the life and legacy of Larry Taylor.
+
+Abstract deadline: Tuesday, August 14, 11:59 pm (Pacific)
+
+Conveners:
+
+Clive R. Neal (University of Notre Dame)
+Amy L. Fagan (Western Carolina University)
+Molly C. McCanta (University of Tennessee, Knoxville)
+Bradley J. Thomson (University of Tennessee, Knoxville)
+
+Co-sponsored by GSA Planetary Geology Division; GSA Geophysics and 
+Geodynamics Division
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS SCIENCE LABORATORY RELEASE 18
+
+The NASA Planetary Data System announces the 18th release of data from
+the Mars Science Laboratory (MSL) mission, covering data acquired from
+Sol 1870 through Sol 2003 (November 8, 2017, to March 26, 2018).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+APXS
+ChemCam
+CheMin
+DAN
+Hazcam
+MAHLI
+MARDI
+Mastcam
+Navcam
+PLACES
+RAD
+REMS
+SAM
+SPICE
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180801.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl 
+
+The data may also be reached from the main PDS home page: 
+
+https://pds.nasa.gov 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives.
+
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August image of the month is now available at the IAG's Planetary
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Measuring Cross-Bed Geometry in Upper Aeolis
+Mons, Gale Crater, Mars", contributed by Ryan B. Anderson, 
+Astrogeology Science Center, United States Geological Survey.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology 
+
+or Twitter @PlanetGeomorpho
+
+Susan Conway (temporarily replacing Tjalling de Haas, IAG Planetary
+Geomorphology working group)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] LODGING WAIVER FOR THE 50TH DPS
+
+SMD has issued a waiver for grantees attending Division for Planetary 
+Sciences (DPS) 50th Annual Meeting allowing them to be reimbursed out 
+of their grants for their actual lodging costs (within limits) in 
+excess of the GSA $98 per night for Knoxville. This waiver does not 
+supersede the travel policy of your institution if it is more 
+restrictive. For more information see:
+
+https://science.nasa.gov/researchers/sara/letters-from-sara
+/approval-exceed-gsa-lodging-dps-2018
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+THE ART OF PLANETARY SCIENCE AT DPS
+
+Submissions are open for The Art of Planetary Science exhibition at the 
+2018 DPS Meeting, from October 21-25th in Knoxville, TN. All types and 
+levels of artists and scientists are encouraged to submit. We accept 
+both physical and digital works. Scientists are especially encouraged 
+to submit art created from research or spacecraft data, or containing 
+scientific information or ideas. This could even include photos from 
+field/lab work or spruced up publication figures. The exhibition will 
+serve as a space to reflect on the beauty of our universe, and our 
+role in discovery and exploration.
+
+TAPS is a science-art outreach effort founded in 2013 by graduate 
+students at the University of Arizona's Lunar and Planetary 
+Laboratory. Events are organized by volunteers across multiple 
+institutions to engage the public in our work and celebrate the beauty 
+of science. Information and photos can be found at the website below.
+
+Submission deadline: September 21, 2018
+
+Guidelines and submission form: 
+
+http://www.lpl.arizona.edu/art/tapsdps-2018
+
+Direct inquiries to: Jamie Molaro, art@lpl.arizona.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 29-31, 2019
+20th Meeting of the NASA Small Bodies Assessment Group
+https://www.lpi.usra.edu/sbag/meetings/
+Houston, Texas
+
+August 6-8, 2019
+Symposium in Celebration of Mike A'Hearn
+http://wirtanen.astro.umd.edu
+College Park, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

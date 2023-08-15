@@ -1,0 +1,524 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 27 (June 25, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. ESA Research Fellowships in Space Science
+2. SPICE Training Class
+3. AGU Session: Present-Day Landscape Evolution on Mars
+4. AGU Session: Nature, Distribution and Evolution of Organic Matter in
+   the Solar System
+5. AGU Session: From the Earth to the Moons: Ice-ocean Systems on Earth
+   and Ocean Worlds
+6. AGU Special Session: Planetary Spatial Data Infrastructure
+7. Scientific Programmer, University of Maryland
+8. PDS Release 52 of MER data
+9. Swedish Institute of Space Physics Postdoc in Space Physics
+10. Tenure-Track Faculty Position in Astronomy/Astrophysics
+11. Non-Tenure-Track Faculty Observatory Support Scientist/Engineer
+12. LSST Solar System Science Collaboration
+13. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Mars: The Pristine Beauty of the Red Planet
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ESA RESEARCH FELLOWSHIPS IN SPACE SCIENCE
+
+The European Space Agency awards several postdoctoral fellowships each
+year.
+
+The aim of these fellowships is to provide young scientists, holding a
+PhD or the equivalent degree, with the means of performing space
+science research in fields related to the ESA Science Programmes.
+
+Areas of research include planetary science, astronomy and
+astrophysics, solar and solar-terrestrial science, plasma physics and
+fundamental physics. The fellowships have a duration of two years, with
+the possible extension to three years, and are tenable at the European
+Space Research and Technology Centre (ESTEC) in Noordwijk, Netherlands,
+or at the European Space Astronomy Centre (ESAC) in Villafranca del
+Castillo, near Madrid, Spain.
+
+Applications are now solicited for fellowships in space science to
+begin in the fall of 2018. Preference will be given to candidates
+within five years of receiving their PhD. Candidates not holding a PhD
+yet are encouraged to apply, but they must provide evidence of
+receiving their degree before starting the fellowship.
+
+Deadline: October 2, 2017
+
+More information on the ESA Research Fellowship programme in Space
+Science, on the conditions and eligibility, as well as the application
+form, can retrieved from
+
+http://cosmos.esa.int/fellowship
+
+Questions on the scientific aspects: Dr. Oliver Jennrich or Dr. Bruno
+Altieri, fellowship@cosmos.esa.int
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SPICE TRAINING CLASS
+
+NASA's Navigation and Ancillary Information Facility (NAIF) announces a
+"SPICE" training class to be held November 7-9, 2017, in the Pasadena,
+CA, area. SPICE is a system used by scientists worldwide to
+compute observation geometry associated with instruments aboard robotic
+spacecraft. The class is free and open to all persons, including
+foreign and commercial. 
+
+Further information and a registration form are available at:
+
+https://naif.jpl.nasa.gov/naif/WS2017_prelim_announcement
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION: PRESENT-DAY LANDSCAPE EVOLUTION ON MARS
+
+Session ID: 23844
+
+Session details: Long-lived robotic missions have documented many
+active surface processes on Mars, including slope, impact, aeolian, and
+polar processes. These data are now producing insights into landscape
+evolution over longer timescales. Examples include formation of
+complex gullied slopes, carbon-dioxide-driven erosion of south polar
+terrains (including "spiders"), dune field evolution and implications
+for erosion of layered sediments, steep polar scarps with seasonal
+avalanches, and new impact events causing dust avalanches. Of special
+interest due to the possible role of water are recurring slope lineae
+(RSL), with characteristic associated morphologies such as small
+gullies or channels, sandy fans, and slumps. There are also better
+constraints on the rates of other processes, such as ice sublimation
+and glacial flow in the middle latitudes and tectonic activity. Rovers
+and landers provide important in situ measurements supporting orbital
+monitoring. We invite submissions documenting active surface change or
+assessing current landscape evolution on longer timescales.   
+
+Abstract deadline: August 2, 2017
+
+For more information see:
+
+https://fallmeeting.agu.org/2017/
+
+Conveners: Alfred McEwen, Ganna Portyankina, Colin Dundas
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION: NATURE, DISTRIBUTION AND EVOLUTION OF ORGANIC MATTER IN
+THE SOLAR SYSTEM
+
+Organic matter is critical for habitability of an extraterrestrial
+environment and the development of life. It is believed that life on
+Earth arose from a chemical complexification of simple organic
+molecules, yet many questions remain about the nature and origin of
+these building blocks for life. Understanding the chemical processes
+that occur in the varied environments of the solar system (e.g. Ocean
+Worlds, Mars, comets, meteorites), and investigating the nature,
+abundance and distribution of those molecules, give insights on the
+processes that occurred on primitive Earth. It also provides valuable
+information on the habitability and potential for life throughout the
+solar system.
+
+We invite contributions that include (1) remote or in situ observations
+of organic matter on planetary bodies, (2) field work, experimental and
+modeling studies that could predict organics distribution in planetary
+environments, and (3) promising locations, instrument concepts and
+strategies for investigating organic astrochemistry.
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26955
+
+Abstract deadline: August 2, 2017
+
+Caroline Freissinet, Cyril Szopa, Richard C. Quinn, Melissa Trainer
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION: FROM THE EARTH TO THE MOONS: ICE-OCEAN SYSTEMS ON EARTH
+AND OCEAN WORLDS
+
+We're excited to invite abstracts for our session "From the Earth to
+the Moons: Ice-ocean systems on Earth and Ocean Worlds" (P014).
+
+We had a great turnout and valuable cross-disciplinary discussions last
+year and look forward to doing so again in New Orleans!
+
+We're seeking a wide range of terrestrial glaciology/oceanography and
+planetary research to foster the Earth-planetary connection,
+specifically focusing on the geological, glaciological and
+oceanographic aspects of Ocean Worlds and their analogues. Bringing
+together Earth and planetary studies to foster interdisciplinary
+collaboration and broaden understanding is the aim of this session! We
+welcome contributions regarding sea ice; glaciers and ice shelves; icy
+satellites and small bodies; analog studies; field work,
+in-situ/remotely-sensed observations; experimental and/or modeling
+projects on ice/ice-water regimes; impact of melt beneath or within
+ice; coupled ice-ocean physical and circulation models; and beyond!
+
+We look forward to seeing you at AGU!
+
+Catherine Walker (JPL)
+Britney Schmidt (Georgia Tech)
+Kelly Brunt (NASA-GSFC)
+Justin Burton (Emory U.)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SPECIAL SESSION: PLANETARY SPATIAL DATA INFRASTRUCTURE
+
+11-15 December 2017
+New Orleans, LA
+
+Abstract submission is now open for a special session on Planetary
+Spatial Data Infrastructure (PSDI) at:
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26632
+
+Spatial Data Infrastructures (SDIs) support data analysis and research
+using in situ and remotely sensed spatial data. The concept of an
+infrastructure is to enable users to (1) efficiently discover data, (2)
+experience improved data integration and usage and (3) engage in
+collaborative research through integrated research environments. SDIs
+have been developed for a wide range of topics using a myriad of
+technologies.
+
+The special session is soliciting abstracts focusing on best practices
+for creating and managing spatial data infrastructure frameworks for
+processing, analyzing, visualizing, serving and sharing Planetary
+science spatial data.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SCIENTIFIC PROGRAMMER, UNIVERSITY OF MARYLAND
+
+The Small Bodies Node (SBN) of NASA's Planetary Data System, based in
+the Department of Astronomy at the University of Maryland, College
+Park, is seeking a programmer with analytic experience who would work
+with a larger group of planetary scientists and programmers. The ideal
+candidate will also work closely with programmers at the Minor Planet
+Center at the Center for Astrophysics, Cambridge, MA, concerned with
+small body astronomy and orbital calculation. 5 years experience is
+required, including some system administration experience or training,
+and with some experience either designing or implementing IT security
+measures in a Linux network environment. A familiarity with relational
+database management is also desired. A Bachelor's or Master's level
+degree in computer science or a related field is prefered, but previous
+work experience will also be considered. Near-term tasks include
+developing a cross-identification database for all bodies represented
+in the archive, overseeing the security plan for the SBN, back-end
+development and user interface development, and reporting to NASA.
+
+For more details and to apply, visit:
+
+https://jobs.physicstoday.org/jobs/9151374
+
+To receive full consideration, applications must be submitted by August
+25, 2017.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PDS RELEASE 52 OF MER DATA
+
+The Planetary Data System (PDS) is pleased to announce Release 52
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 4501 through 4590, rover Opportunity (MER1/B), instruments:
+
+  APXS
+  Atmospheric Opacity
+  HAZCAM
+  MI
+  NAVCAM
+  PANCAM
+  RAT
+  Rover Motion Counter
+  SPICE
+
+There is no Radio Science data in this release, and no more Mini-TES
+or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170621.shtml
+
+The following special services are provided for accessing MER data:
+  
+  MER Analyst's Notebook:
+  
+  http://an.rsl.wustl.edu/mer
+  
+  Planetary Image Atlas:
+  
+  https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, please visit the following link:
+
+  https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+  https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+  https://pds.nasa.gov/
+  
+  
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SWEDISH INSTITUTE OF SPACE PHYSICS POSTDOC IN SPACE PHYSICS
+
+The Swedish Institute of Space Physics (IRF), Uppsala, Sweden, is
+seeking candidates for a postdoctoral position to study magnetic
+reconnection in space and, in particular, in the Earth's magnetosphere
+based on data from the multi-spacecraft missions Cluster (ESA, launched
+2000) and MMS (NASA, launched 2015). The successful candidate will be
+involved in international collaboration. Analysis of data is an
+important part of the work and experience in combining advanced data
+analysis with theoretical modelling is an advantage. Interest and
+experience in development of scientific instruments and measurement
+techniques will likewise be positively valued, as will experience in
+coordination of scientific activities.
+
+Candidates should have completed a PhD during 2014 or later. The
+position is available at the Uppsala office of IRF, for 2 years.
+Candidates should be ready to start no later than January 2018.
+
+Closing date: 21 August 2017.
+Reference number: 2.2.1-182/17
+
+More information and how to apply at:
+
+http://www.irf.se/jobb
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+TENURE-TRACK FACULTY POSITION IN ASTRONOMY/ASTROPHYSICS
+
+The Department of Physical Sciences at Embry-Riddle Aeronautical
+University invites applications for a tenure-track faculty position in
+Astronomy/Astrophysics. The position may be at any rank, assistant
+through full professor. Preference will be given to candidates with
+observational and/or instrumentation expertise in stellar, exoplanet,
+and/or planetary astronomy/astrophysics who will use guaranteed access
+to the campus 1-m telescope:
+
+http://observatory.db.erau.edu
+
+and the SARA facilities in Arizona, Chile, and the Canary Islands:
+
+http://www.saraobservatory.org
+
+ERAU is located on the eastern coast of central Florida, just north of
+the Kennedy Space Center. Information about the Department can be found
+at:
+
+http://daytonabeach.erau.edu/college-arts-sciences/physical-sciences/
+index.html.
+
+Candidates who can begin in January 2018 are especially encouraged to
+apply, but the position will remain open until filled. Applications
+must be submitted online at: 
+
+www.erau.edu/jobs
+
+Submissions must include a cover letter, full CV, statements of
+teaching philosophy and research interests, and contact information for
+at least three professional references.
+
+Inquiries may be addressed to: Dr. Terry D. Oswalt, Chair Dept.
+Physical Sciences, (386) 226-7571; terry.oswalt@erau.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NON-TENURE-TRACK FACULTY OBSERVATORY SUPPORT SCIENTIST/ENGINEER
+
+Applications are invited for a position in support of the Embry-Riddle
+Aeronautical University's campus observatory and astronomy program:
+
+http://observatory.db.erau.edu
+
+The primary duties are to maintain the campus 1-m telescope and its
+instrumentation, to regularly update and maintain relevant software, to
+supervise observational astronomy classes and to support our regular
+observatory outreach events. Required qualifications include experience
+with astronomical optics and instruments and expertise in relevant
+programming languages. Interest in using ERAU's guaranteed access to
+the SARA observatories:
+
+http://www.saraobservatory.org
+
+for independent research would be a plus. Minimum qualifications
+include a master's degree in astronomy, physics, or a related field,
+and 3-5 years of astronomy-related work experience. The position is
+non-tenure-track but permanent, subject to satisfactory annual reviews.
+Rank may be assistant or associate professor level depending upon the
+candidate's qualifications.
+
+Candidates who can begin in January 2018 are especially encouraged to
+apply, but the position will remain open until filled. Applications
+must be submitted online at: 
+
+http://www.erau.edu/jobs
+
+Submissions must include a cover letter, CV, statements of teaching and
+research interests, and contact information for three professional
+references.
+
+Inquiries may be addressed to: Dr. Terry D. Oswalt, Chair Dept.
+Physical Sciences, (386) 226-7571; terry.oswalt@erau.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+LSST SOLAR SYSTEM SCIENCE COLLABORATION
+
+Over its 10 year lifespan, the Large Synoptic Sky Survey Telescope
+(LSST) will catalog over 5 million Main Belt asteroids, almost 300,000
+Jupiter Trojans, over 100,000 NEOs, over 40,000 KBOs, and over 10,000
+comets. Many of these objects will receive hundreds of observations in
+multiple bandpasses. The LSST Solar System Science Collaboration (SSSC)
+is preparing methods and tools to analyze this data, as well as
+understand optimum survey strategies for discovering moving objects
+throughout the Solar System.
+
+The SSSC launched a new website. Check it out at:
+
+http://www.lsstsssc.org
+
+and please consider joining the collaboration if you're an eligible
+researcher. 
+
+If you have any questions, please contact the SSSC Co-Chairs, Meg
+Schwamb (mschwamb.astro@gmail.com) and David Trilling
+(David.Trilling@nau.edu). 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+
+November 13-15, 2017
+Planning Solar System Observations with JWST
+https://jwst.stsci.edu/news-events/events/events-area/stsci-events-
+listing-container/planning-solar-system-observations-with-jwst---stsci-
+venue?mwc=4
+Baltimore, MD
+
+December 11-15, 2017
+Exoplanets and Planet Formation
+https://indico.leeinst.sjtu.edu.cn/event/25/
+Shanghai, China
+
+December 11-15, 2017
+JWST Proposal and Planning Workshop 
+https://jwst.stsci.edu/news-events/events/events-area/stsci-events-
+listing-container/jwst-proposal-and-planning-workshop-1?mwc=4
+Pasadena, CA
+
+December 12-15, 2017
+Space Science and Technology
+http://sst.phy.hcmiu.edu.vn
+Ho Chi Minh City, Vietnam
+
+December 13-15, 2017
+JWST Solar System Workshop
+https://www.cosmos.esa.int/web/jwst-ssws-2017/home
+Noordwijk, The Netherlands
+
+March 19-23, 2018
+49th Lunar and Planetary Science Conference
+https://www.hou.usra.edu/meetings/lpsc2018/
+The Woodlands, Texas
+
+May 1-3, 2018
+Mercury:  Current and Future Science of the Innermost Planet
+https://www.hou.usra.edu/meetings/mercury2018/
+Columbia, MD
+
+May 7-11, 2018
+Differentiation: Building the Internal Architecture of Planets
+https://www.hou.usra.edu/meetings/differentiation2018/
+San Gabriel Valley, CA
+
+August 28-30, 2018
+A Century of Asteroid Families 
+http://asteroidfamilies.net/IAU2018/
+Vienna, Austria
+
+September 23-28, 2018
+Extrasolar Cloud Academy: Cloud Formation and Properties in Extrasolar Planets
+http://eos-nexus.org/clouds/
+Grenoble, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+MARS: THE PRISTINE BEAUTY OF THE RED PLANET
+
+The most outstanding and uniquely curated selection of Mars orbital
+images ever assembled in one volume. With explanatory captions in 24
+languages and a gallery of more than 200 images from HiRISE, this
+distinctive volume underscores the need for such a camera on future
+orbiters, especially as more landing missions are planned. Mars: The
+Pristine Beauty of the Red Planet provides a stunning keepsake of one
+of humanity's greatest accomplishments in space travel.
+
+More information:
+
+http://www.uapress.arizona.edu/Books/bid2683.htm
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

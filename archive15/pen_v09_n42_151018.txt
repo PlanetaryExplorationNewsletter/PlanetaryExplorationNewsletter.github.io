@@ -1,0 +1,346 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 42 (October 18, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Lowell Observatory: Tenure-Track or Tenured Astronomer 
+2. [NASA] PDS - Odyssey Data Release 53, Part 2
+3. [NASA] SBAG 14 Meeting Announcements
+4. [NASA] Three-Day Training Course on Planetary Protection
+5. Open Source Release of the VICAR Image Processing System
+6. NASA Postdoctoral Fellowships
+7. Planetary Science Nuggets Website
+8. NAIF Job Opening
+9. Two Assistant Professors in Astronomy, University of Connecticut
+10. [NASA] PDS - Dawn Ceres Initial Data Release
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track or 
+tenured research positions in astronomy or planetary science. We invite 
+applicants at any career level who can build on current strengths or 
+open new areas for Lowell. A Ph.D. in astronomy, planetary science, or 
+a related field is required, as is an outstanding record of research 
+and demonstrated ability or potential to obtain external research 
+funding. Candidates are invited to describe how they would make use of 
+our observational facilities, but we will give equal consideration to 
+all research areas. The start date for this position is flexible but 
+desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07
+/Tenure-track-Astronomer.pdf
+
+To apply: Send applications electronically to:
+
+humanresources@lowell.edu
+
+Applications should include:
+
+(1)  a cover letter and CV,
+(2)  a research plan of 3 pages or less, and
+(3)  names and mail/email addresses of three individuals who have 
+agreed to serve as references. Do not ask for reference letters to be 
+sent in advance.
+
+Applications must be received by November 1, 2015 for full 
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - ODYSSEY DATA RELEASE 52, PART 2
+
+The Planetary Data System (PDS) is pleased to announce the completion 
+of Odyssey Data, Release 53, following the delivery of NS and HEND data
+from the instrument:
+
+GRS
+
+The gamma sensor component no longer returns data.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20151012.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SBAG 14 MEETING ANNOUNCEMENTS
+
+The SBAG 14 meeting is scheduled for January 27-29, 2016, in Monrovia, 
+CA. Logistical details are being finalized for the venue and hotel 
+arrangements. However, the SBAG 14 meeting is in the NASA Conference 
+Tracking System and available for sign up. 
+
+** If you typically use the NASA Conference Tracking System for your 
+travel, or have a different travel authorization processes for your 
+institution, please follow those usual procedures. **
+
+1) Draft Agenda
+A draft agenda for the SBAG 14 meeting is now posted online.
+
+2) Early Career Travel Support
+The deadline is October 21, 2015. See this page for more details and 
+please pass this opportunity on to appropriate individuals:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+Nancy Chabot
+SBAG Chair
+Nancy.Chabot@jhuapl.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] THREE-DAY TRAINING COURSE ON PLANETARY PROTECTION
+
+Course: "Planetary Protection: Policies and Practices"
+
+Dates: February 2-4, 2016
+
+Location: Kennedy Space Center, Florida
+
+We cordially invite all interested parties to participate in the 
+upcoming course on Planetary Protection Policies and Practices, which 
+is designed to familiarize current and future practitioners with NASA, 
+ESA, and COSPAR planetary protection programs. The course provides an 
+overview of applicable policies, practices and procedures necessary to 
+implement a successful planetary protection program, emphasizing 
+integration of managerial, administrative, and laboratory activities. 
+It is supported by the NASA Planetary Protection Officer. Go to:
+
+http://planetaryprotection.nasa.gov/course
+
+Enrollment: 14 participants
+
+Application: contact tasalb@msn.com
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OPEN SOURCE RELEASE OF THE VICAR IMAGE PROCESSING SYSTEM
+
+The VICAR image processing system is now available in Open Source form:
+
+http://www-mipl.jpl.nasa.gov/vicar_open.html
+
+VICAR is an image processing system developed and used by the 
+Multimission Image Processing Lab at JPL. With origins in 1966, it is 
+quite possibly the oldest continuously used image processing system in 
+the world.
+
+VICAR was developed for use with JPL's planetary missions, from 
+Surveyor up to the present day. The majority of JPL's planetary 
+missions that have cameras use VICAR in some way, up to and including 
+the current Mars landers/rovers (MER, MSL, InSight, Mars 2020).
+
+The VICAR format is compatible with both PDS 3 and PDS 4. Many missions 
+have supplied data to PDS 3 in VICAR format, with detached or attached 
+PDS labels: MSL, MER, Phoenix, Cassini, Galileo, Voyager, Magellan, MEX 
+(HRSC), and many older missions. InSight and Mars 2020 will supply 
+VICAR images with detached labels to PDS 4.
+
+Questions: vicar_help@jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://apps.orau.gov/NPDoc/Catalog/18314
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1UA7aHs
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY SCIENCE NUGGETS WEBSITE
+
+We want to bring your attention to a new website where you can find
+the collection of NASA SMD Planetary Science Nuggets for 2015 and 2014:
+
+http://www.lpi.usra.edu/nuggets/
+
+Planetary Science Nuggets are PowerPoint slides that have been provided
+to NASA's SMD Planetary Science Division by members of the scientific
+community to highlight important science results or mission activities.
+
+A subset of these submissions are selected by the Planetary Science
+
+Division to be presented to SMD leadership and potentially NASA 
+leadership, OSTP, and the White House. The collection on this website 
+represents those selected nuggets and will be updated as new nuggets 
+are accepted.
+
+On the website, you will also find a Powerpoint Presentation by Jim 
+Green on how to prepare nuggets:
+
+http://www.lpi.usra.edu/opag/meetings/aug2015/presentations
+/day-1/2_green.pdf
+
+Green encourages anyone in the planetary science community to submit 
+nuggets.
+
+The nugget coordinator at JPL is Lindsay Hays 
+(Lindsay.E.Hays@jpl.nasa.gov); mission nuggets should be communicated 
+through the mission program scientist; and R&A science nuggets should 
+be communicated through the Headquarters program scientist who funded 
+the work. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NAIF JOB OPENING
+
+NASA's Navigation and Ancillary Information Facility (NAIF) is 
+contemplating hiring a permanent, full-time staff member to work on 
+the full spectrum of tasks associated with the "SPICE" observation 
+geometry system that supports planetary missions. To find out more 
+about NAIF, SPICE and the possible new position, go to: 
+
+http://naif.jpl.nasa.gov/naif/possiblenewhire.pdf
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+TWO ASSISTANT PROFESSORS IN ASTRONOMY, UNIVERSITY OF CONNECTICUT
+
+The Department of Physics at the University of Connecticut invites 
+applications for two full-time tenure-track faculty positions in 
+astronomy at the rank of Assistant Professor. Researchers in all 
+subfields of astronomy are encouraged to apply, especially those 
+applicants whose research programs take advantage of new resources and 
+facilities such as LSST, JWST, Gemini, and ALMA. Go to:
+
+http://www.phys.uconn.edu/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS - DAWN CERES INITIAL DATA RELEASE
+
+The NASA Planetary Data System is pleased to announce the availability 
+of Dawn Visible and Infrared Spectrometer (VIR) and Framing Camera 2 
+(FC2) data from the Approach and RC3 phases of the Ceres encounter, 
+along with some data from the Survey phase.
+
+The data sets now available include:
+
+- VIR VIS and IR raw (L1a) data from Ceres Approach and RC3
+- VIR VIS and IR calibrated (L1b) data from Ceres Approach and RC3
+- VIR VIS raw (L1a) data from Ceres Survey
+- FC2 raw (L1a) data from Ceres Approach and RC3
+- FC2 updated calibration volume including calibration files from 
+  Vesta-Ceres cruise
+
+These data sets have been certified and released with minor liens as of
+Oct. 16, 2015.
+
+To access these data sets, use the following links.
+
+VIR Ceres data:  
+
+http://sbn.psi.edu/pds/resource/dwncvir.html
+
+FC2 Ceres data:  
+
+http://sbn.psi.edu/pds/resource/dwncfc2.html
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 22-25, 2016
+2016 Nuclear and Emerging Technologies for Space (NETS-2016)
+http://anstd.ans.org/nets-2016/
+Huntsville, AL
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

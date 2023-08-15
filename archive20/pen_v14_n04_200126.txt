@@ -1,0 +1,469 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 4 (January 26, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Seeking Earth and Space Science Volunteer Reviewers
+2. Icarus News: Reduced Open Access Fees
+3. Planetary Protection Sessions at the COSPAR 2020 General Assembly: 
+   Call for Abstracts
+4. COSPAR 2020 Session 20-F3.6: Climate and Astrobiological Potential 
+   of Icy Deposits on Mars
+5. AOGS2020 Session PS-09: Planetary Data in the Big Data Era - 
+   Archives, Tools, and International Collaborations
+6. JPGU-AGU Joint Meeting 2020 Session P-AE22: Exoplanets
+7. Microsymposium 61 Planets Underground: The Next Frontier in
+   Planetary Exploration
+8. Informational Webinar on Mars 2020 / SuperCam
+9. LEAG Virtual Meeting
+10. Kaguya GRS Data Release
+11. MEPAG Service Announcement: Director of the Mars Sample Return 
+    Campaign Senior Executive Service Opportunity
+12. Post-Doc on Asteroid/Comet Observations at the University of 
+    Edinburgh
+13. Research Scientist (Assistant, Associate or Full) Senior Fellow - 
+    Space Sciences Laboratory
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SEEKING EARTH AND SPACE SCIENCE VOLUNTEER REVIEWERS
+
+NASA's Science Mission Directorate (SMD) seeks subject matter experts
+(SMEs) to serve as reviewers of proposals submitted to our annual
+Research Opportunities in Space and Earth Sciences (ROSES)
+Solicitation.
+
+Qualified SMEs may, and are encouraged, to volunteer to one or more
+program's panel reviewer call. If you volunteered in a prior year and
+were not invited or were invited but not available, please complete a
+new form(s).
+
+We are currently seeking reviewers for:
+
+Exoplanet Research Program (ROSES E.3)
+ - Akatsuki Participating Scientist Program (ROSES C.25)
+ - Future Investigators in NASA Earth Science and Technology (FINESST
+   Earth)
+ - Future Investigators in Space Science and Technology (FINESST Space)
+ - Habitable Worlds (ROSES E.4)
+ - Heliophysics Living With a Star Science (ROSES B.6)
+ - Lunar Data Analysis (ROSES C.8)
+ - The Physical Oceanography Program (PO)
+ - Solar System Workings (ROSES C.3)
+ - Heliophysics Theory, Modeling, and Simulations (ROSES B.3)
+ - Earth Surface and Interior and Space Geodesy Programs
+ - Astrophysics Data Analysis Program (Appendix D.2 of the annual ROSES
+   NRA)
+
+Go to:
+
+https://science.nasa.gov/researchers/volunteer-review-panels
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ICARUS NEWS: REDUCED OPEN ACCESS FEES
+
+The maximum Open Access fee for Icarus has been reduced from $2900 to
+$2680. The fee may be less than this amount or free, as a growing
+number of countries and institutes have agreements with Elsevier to
+reduce or completely cover the costs of open access publishing in
+Elsevier journals (including Icarus). Some national, funder, or
+institution level agreements completely cover the cost of open access
+publishing fees for eligible authors. These agreements include (but are
+not limited to):
+ 
+Several UK institutions:
+
+https://www.elsevier.com/about/open-science/open-access/agreements/JISC
+-prepaid-open-access-plan
+
+Carnegie Mellon University (USA)
+Sweden
+Norway
+Netherlands
+Ireland
+Hungary
+Poland
+ 
+Authors can check what reduction of cost they may be eligible for here:
+
+https://www.elsevier.com/about/open-science/open-access/agreements 
+ 
+As agreements are being updated frequently, the agreements page will be
+the place to find the most up-to-date information on open access fee
+reductions and requirements. The open access fee reductions and
+coverages are integrated into the acceptance pages in the submission
+system which authors are taken through once their article is accepted
+and ready to publish.
+
+Rosaly Lopes
+Icarus Editor-in-Chief
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY PROTECTION SESSIONS AT THE COSPAR 2020 GENERAL ASSEMBLY: CALL
+FOR ABSTRACTS
+
+We would like to encourage you to attend and present in the following
+sessions of the 43d COSPAR Scientific Assembly which will take place at
+the International Convention Centre, in Sydney, Australia from 15-22
+August 2020. 
+
+https://www.cospar2020.org
+
+Abstract submission deadline is 14 February 2020. 
+
+There will also be a COSPAR Panel on Planetary Protection Business
+to which you are welcome. More information on time, place and
+date will follow in the spring. See our web site:
+
+https://cosparhq.cnes.fr/
+
+COSPAR-20-PPP.1: Planetary Protection Policy
+This session will include reports on recent planetary protection
+studies, colloquia, workshops and agency activities with relevance to
+the COSPAR Planetary Protection Policy and implementation guidelines.
+
+COSPAR-20-PPP.2: Planetary Protection Mission Implementation and Status
+This session will focus on techniques, measures and procedures applied 
+to spacecrafts, payloads and ground facilities to meet and verify the 
+respective planetary protection requirements. 
+
+COSPAR-20-PPP.3: Planetary Protection Research and Development
+This session will report on planetary protection research and
+development activities, including preparation for new mission
+concepts and more challenging scientific endeavors, such as life 
+detection.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+COSPAR 2020 SESSION 20-F3.6: CLIMATE AND ASTROBIOLOGICAL POTENTIAL OF
+ICY DEPOSITS ON MARS
+
+Please consider submitting an abstract to the session that joins Mars
+climate scientists and astrobiologists at the 43rd COSPAR Scientific
+Assembly on August 15-22 in Sydney, Australia.
+
+The planet Mars contains numerous, massive deposits of water ice that
+are spread over the polar regions and the mid-latitudes in each
+hemisphere. Many of the deposits contain a layered record of Mars
+climate history going back millions to hundreds of millions of years.
+They may be considered habitable by extant or extinct life. The
+potential to discover the climate history of Mars in those ice deposits
+is immense. Further, the astrobiological potential of polar and
+mid-latitude ice deposits may cover a wide range based on variable
+salinity, acidity, pH, and temperature. It is important that
+astrobiologists and Mars ice + climate scientists continue discussions
+about the properties of ice in order to design future missions that are
+well prepared to assess the climate and astrobiological potential of
+icy deposits on Mars.
+
+Abstract deadline: February 14, 2020
+
+https://www.cospar-assembly.org/
+
+On behalf of conveners
+Isaac Smith and Jennifer Eigenbrode
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS2020 SESSION PS-09: PLANETARY DATA IN THE BIG DATA ERA - ARCHIVES,
+TOOLS, AND INTERNATIONAL COLLABORATIONS
+
+Abstract deadline extended to February 4, 2020
+
+Asia Oceania Geosciences Conference 2020
+
+June 28 - July 4, Sono Belle Vivaldi Park, Hongcheon, Korea
+
+Conference website:
+
+http://www.asiaoceania.org/aogs2020/public.asp?page=home.html
+
+Enormous volumes of data are being generated every day in planetary
+science researches. Data technologies are playing more and more
+important roles in planetary researches, especially in the big data
+era. Long-term preservation and unrestricted sharing of all planetary
+data have been recognized to be essential for the development of
+researches and rapid generations of new knowledge. This session
+provides us with a forum to present and discuss new developments
+related to planetary science data science, including but not limited
+to, archiving standards, archive organizations, data services and
+accessibilities, indexing and searching, data mining and manipulation,
+and applications of big data technology and artificial intelligence in
+data analysis, in order to facilitate effective and efficient planetary
+data archiving and sharing around the globe in the future.
+
+Conveners:  Jian-Yang Li (Planetary Science Institute, USA), Sebastien
+Besse (ESA), Ludmilla Kolokolova (University of Maryland, USA), Yukio
+Yamamoto (JAXA), Young-Jun Choi (KASI)
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JPGU-AGU JOINT MEETING 2020 SESSION P-AE22: EXOPLANETS
+
+We call your attention and invite contributed talks for the JpGU-AGU
+Joint Meeting 2020 Session P-AE22 on "Exoplanets". Abstract submission
+is open until February 18 at 5 PM JST (Early registration: February 4,
+11:59 PM JST). The meeting 2020 will be held May 24-28, 2020 in 
+Makuhari Messe, Chiba, Japan.
+
+http://www.jpgu.org/meeting_e2020/
+
+Exoplanetary science, which began with the discovery of a hot Jupiter
+in 1995, reached a significant turning point by the detection of
+countless super-Earths by the Kepler space telescope. Recent
+observations have identified a growing number of terrestrial planets in
+the so-called habitable zone. While exoplanets have been targeted
+mainly for astronomy until recently, it would be fair to say that Earth
+and planetary science is finally becoming a research field to make a
+central contribution. This session aims at allowing participants to
+share their research results and new ideas regarding exoplanets and
+also inform the current status of their projects. Exoplanet science is
+a growing, interdisciplinary research field. We welcome participants
+from various fields.
+
+On behalf of the session conveners: Masahiro Ikoma, Norio Narita, Yuka
+Fujii
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MICROSYMPOSIUM 61 PLANETS UNDERGROUND: THE NEXT FRONTIER IN PLANETARY 
+EXPLORATION
+
+The third dimension of planetary bodies remains largely unexplored, yet
+is a frontier for expanding our knowledge of planetary evolution and
+habitability. Groundbreaking discoveries of the Moon's low crustal
+porosity by the GRAIL mission are transformative and have profound
+implications for understanding the subsurface habitability of Mars,
+Early Earth and other planets. While the surface of Mars, Europa and
+Enceladus are widely considered to be uninhabitable, their subsurfaces
+are hypothesized to be the long-lived habitable environments. We are 
+learning more and more of the vast world of Life Underground on Earth 
+from the diverse, yet largely unexplored biology to the prospects of 
+billion-year old groundwater.
+
+Microsymposium 61, Planets Underground, poses many exciting science
+questions and the technological challenges to acquire measurements
+relevant to these questions. The program will be a mix of invited and
+contributed papers and will convene on Saturday, March 14, 2020 (1 PM-6
+PM) and Sunday, March 15, 2020 (8:30 AM-12 Noon). The Microsymposium
+will emphasize an open discussion format, anchored by invited
+overviews, contributed talks and posters. Details for the
+Microsymposium, including a registration page:
+
+http://www.planetary.brown.edu/html_pages/micro61.htm
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INFORMATIONAL WEBINAR ON MARS 2020 / SUPERCAM
+
+The Mars 2020 / SuperCam team is holding a 2-hour informational webinar
+at 8 am PST, Tuesday, February 25. The webinar is aimed at prospective
+participating scientists, but is open to anyone who is interested. The
+content will cover the SuperCam instrument, its capabilities, planned
+investigations, and operations. The webinar can be accessed at:
+
+https://jpl.webex.com
+
+meeting number 907 024 912. The audio can also be accessed by phone at 
+510-210-8882 using the same meeting number. We intend to record the 
+session. The slides and informational content will be posted shortly 
+before the meeting at the PDS workshop site: 
+
+https://pds-geosciences.wustl.edu/workshops/default.htm
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+LEAG VIRTUAL MEETING
+
+Please join us for a LEAG virtual meeting, Feb. 7, focused on NASA's
+current portfolio of missions, instruments, and concepts for the Moon.
+Invited missions and instrument activities include selected and funded
+activities in DALI, NPLP, LSITP, SIMPLEX, Artemis-1, LDEP, and PCMS.
+
+Schedule and dial-in information is at:
+
+https://docs.google.com/document/d/
+1bCdVP8303Tp5vqaCZpl_9vX3DzlR9dByT5ZA48u5r7M/edit
+
+There is no scheduled break so please feel free to step out and rejoin
+as you need to. We encourage you to set up conference rooms at your
+institution to participate with your colleagues.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+KAGUYA GRS DATA RELEASE
+
+This data set contains Kaguya Gamma-Ray Spectrometer corrected and
+calibrated time-series spectra and ephemerides, pointing, and geometry
+data for the nominal and extended observation periods of JAXA's SELENE
+(Kaguya) mission. This data set was provided by Naoyuki Yamashita,
+Planetary Science Institute.
+
+The data may be accessed at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200122.shtml
+
+or more directly from:
+
+https://pds-geosciences.wustl.edu/missions/kaguya/grs_spectra.htm
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG SERVICE ANNOUNCEMENT: DIRECTOR OF THE MARS SAMPLE RETURN CAMPAIGN 
+SENIOR EXECUTIVE SERVICE OPPORTUNITY
+
+With the Mars 2020 Rover about to ship to Florida for preparations for
+launch this July, NASA HQ has been considering options for organizing
+the remaining elements of the Mars Sample Return campaign. Recently,
+HQ posted a senior executive service opportunity for a Director of the
+Mars Sample Return campaign. The announcement indicates that this
+individual will be responsible for implementation of all MSR program
+activities and will report to the SMD Associate Administrator.
+Applications are expected to have demonstrated skill in the
+formulation, development and implementation of spaceflight programs,
+particularly programs involving multiple stakeholders, and demonstrated
+experience managing spaceflight program financial, schedule, and policy
+constraints. The closing date for applications is Feb. 5.
+
+Detailed information about this open call is available at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/556552400
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POST-DOC ON ASTEROID/COMET OBSERVATIONS AT THE UNIVERSITY OF EDINBURGH
+
+The Institute for Astronomy at the University of Edinburgh is offering
+a post-doc position on asteroid/comet observations, funded as part of
+the EU NEOROCKS programme on near-Earth asteroids. This is a one year
+position, which will hopefully be extended depending on future
+applications for funding to extend the work for other surveys (e.g.
+LSST, maybe EUCLID). The main goal will be to develop software that
+will be useful for surveys to search for faint comet-like activity.
+
+To view details, go to:
+
+https://www.vacancies.ed.ac.uk
+
+and enter vacancy reference 051083.
+
+For informal enquiries, please contact Colin Snodgrass,
+csn@roe.ac.uk
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+RESEARCH SCIENTIST (ASSISTANT, ASSOCIATE OR FULL) SENIOR FELLOW - SPACE
+SCIENCES LABORATORY
+
+The Space Sciences Lab at the University of California, Berkeley is
+recruiting for a Ph.D. Scientist who has demonstrated leadership and
+creativity in the space sciences. The anticipated start date for the
+position is between August 2020 and October 2020. For more information
+about the position, including required qualifications application
+materials, and deadlines, go to:
+
+https://aprecruit.berkeley.edu/JPF02469
+
+The position will remain open until filled. 
+
+For questions, please email Caylen Garrie at cgarrie@berkeley.edu. 
+
+All qualified applicants will receive consideration for employment 
+without regard to race, color, religion, sex, sexual orientation, 
+gender identity, national origin, disability, age, or protected veteran 
+status.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 3-8, 2020
+Atmospheres and Exospheres of Terrestrial Planets, Satellites, and
+Exoplanets 
+https://meetingorganizer.copernicus.org/EGU2020/abstractsubmission/
+36525
+Vienna, Austria
+
+June 30-July 1, 2020
+Magnetism and Accretion
+https://eas.unige.ch//EAS_meeting/session.jsp?id=S1
+Leiden, the Netherlands
+
+September 27-October 2, 2020
+Europlanet Science Congress
+https://www.epsc2020.eu/
+Grenada, Spain
+
+November 16-20, 2020
+Planet Formation Enters the Observational Era (A Symposium During EWASS
+2020)
+http://ma2020.saao.ac.za/
+Cape Town, South Africa
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,567 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 27 (June 16, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Researcher in Planetary Mapping and Impact Studies: 
+   Lunar and Planetary Institute
+2. Uranus Beyond Voyager 2: From Recent Advances to Future Missions
+3. Registration Open for SBAG 9
+4. Registration Opens For NASA Night Rover Energy Challenge
+5. New Horizons Encounter Hazard Update
+6. [NASA] PDS Mars Science Laboratory Release 2
+7. Optical Characterization of Atmospheric Aerosols Workshop
+8. Icarus Special Issue: Dynamic Mars From Long-Term Observations
+9. [NASA] Clarification On Research Supported by MFRP
+10. Announcement of Opportunity to Submit Input to Study on Human 
+    Spaceflight
+11. NASA Postdoctoral Fellowships
+12. CPSX Planetary Scinece Short Course
+13. International Scientific Workshop on Golden Spike Human Lunar 
+    Expeditions - Call for Abstracts
+14. [NASA] PDS GRAIL Release 2
+15. Comet ISON Observer's Workshop, Aug 1-2, 2013
+16. Student Opportunity - Sudbury Field Camp
+17. [NASA] Outer Planet Working Group (OPAG) Meeting Site Now Open
+18. Planetary Meeting Calendar Additions
+
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL RESEARCH IN PLANETARY MAPPING AND IMPACT STUDIES: LUNAR
+AND PLANETARY INSTITUTE
+
+Universities Space Research Association (USRA) invites applications 
+for a postdoctoral fellowship in planetary science in Houston, Texas.
+
+The candidate will work with Dr. Paul Schenk, investigating the impact 
+crater shapes and distributions on icy satellites, including 
+Enceladus, using the entire Cassini image library, and supplementary 
+stereo and shape-from-shading techniques (although experience in these 
+tools is not required). The candidate will also be expected to develop 
+their own research projects using this data.
+
+Candidate must have a recent Ph.D. in geology or geophysics and have a 
+strong background in remote sensing/image processing of spacecraft 
+data, and preferably experience in geophysical or mapping 
+investigations. The position is generally for two years, with a 
+possible extension to three years. Apply to the posting at: 
+
+https://usracareers.silkroad.com/ 
+
+include a letter of interest, a curriculum vita with a list of 
+publications, a brief statement of research interests, and a list of 
+three references. Review of candidates begins August 1, 2013, with 
+a hiring decision, as soon as possible thereafter. Information on 
+current research and facilities at the LPI is found on our website: 
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+URANUS BEYOND VOYAGER 2: FROM RECENT ADVANCES TO FUTURE MISSIONS
+
+With rising interest in the community for Uranus and its environment, 
+we are pleased to announce an international conference on "Uranus 
+Beyond Voyager 2: From Recent Advances to Future Missions". The meeting 
+will be held from 16 to 18 September 2013 at the Observatory of Paris 
+(Meudon, France), immediately after the EPSC meeting (the week before 
+in London, UK) to facilitate travels. 
+
+The meeting will be organized along eight sessions addressing various 
+aspects of the study and the exploration of this planetary system, 
+with ample time for presentations and discussions. We also welcome 
+specific posters on possible instrumentation suitable to a Uranus 
+mission. A preliminary program, including invited presentations, is 
+available on the webpage below. We warmly welcome contributions to 
+these sessions *** by 15 June 2013 ***. (Note: This announcement was 
+submitted late to the PEN editorial office, so we will accommodate 
+contributions submitted shortly after 15 June where possible.)
+
+More details can be found on the webpage: 
+
+http://uranus.sciencesconf.org 
+
+We hope you will be able to attend.
+
+Sincerely,
+
+Laurent Lamy and Mark Hofstadter on behalf of the organizing committee
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REGISTRATION OPEN FOR SBAG 9
+
+Registration is now open for SBAG 9, to be held at the Marriott 
+Wardman Park Hotel in Washington, DC, July 10-11. Go to:
+
+http://www.lpi.usra.edu/sbag/
+
+A draft agenda is also posted. To get on the SBAG listserv, go to:
+
+http://www.lpi.usra.edu/sbag/iOfi/index.cfm
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REGISTRATION OPENS FOR NASA NIGHT ROVER ENERGY CHALLENGE
+
+Registration is now open for teams wishing to compete in the 
+$1.5 million energy storage competition known as the Night Rover 
+Challenge, sponsored by NASA and managed by Cleantech Open of Palo 
+Alto, Calif. Registration for the competition will close October 25, 
+2013. The competition will be held January 20, 2014 through March 24, 
+2014.
+
+For more information, go to:
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method
+=init&solId={22395A3D-DA0E-BB95-4C82-2C50ECD97E08}&path=open
+
+"The goal of the Night Rover Challenge is to stimulate innovations in 
+energy storage technologies of value in extreme space environments, 
+such as the surface of the moon, or for electric vehicles and renewable 
+energy systems here on Earth," said Michael Gazarik, NASA's associate 
+administrator for Space Technology. "NASA wants this challenge to
+generate new ideas that will allow planetary rovers the ability to take 
+on a night shift, and possibly create new energy storage technologies 
+for applications of benefit here on our home planet."
+
+The Night Rover Challenge is part of the Centennial Challenges Program 
+within NASA's Space Technology Mission Directorate, which is 
+innovating, developing, testing and flying hardware for use in NASA's 
+future missions. For more information about NASA's investment in space 
+technology, visit: 
+
+http://www.nasa.gov/spacetech
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW HORIZONS ENCOUNTER HAZARD UPDATE
+
+Alan Stern (SwRI) & Hal Weaver (JHU/APL)
+
+The New Horizons Project recently completed a 1.5-year study of the 
+potential dust impact hazard from small-satellite-generated debris as 
+the spacecraft flies through the Pluto system in July 2015. 
+
+This study concluded that the probability of a mission-ending dust 
+impact is <0.3% if the spacecraft follows the current baseline plan, 
+far below some early, more conservative estimates. Thus, the 
+expectation is that the NH spacecraft will follow this baseline plan, 
+with a close approach of ~12,500 km from the surface of Pluto.
+
+However, two alternative plans (called SHBOTs, for Safe Haven By 
+Other Trajectories) are also being developed to mitigate the 
+(unlikely) possibility that new knowledge indicates the hazard risk 
+is greater than predicted. For both SHBOTs, the spacecraft will be 
+turned so the antenna faces the incoming dust particles 
+("Antenna-To-Ram", or ATR) during the few hours of greatest risk, but 
+Generic Inner SHBOT (GIS) has essentially the same trajectory as the 
+current baseline, while Deep Inner SHBOT (DIS) diverts the trajectory 
+to within ~3000 km of Pluto's surface, where atmospheric drag removes 
+dust on very short timescales.
+
+Further discussion is available at: 
+
+http://pluto.jhuapl.edu/overview/piPerspective.php
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS MARS SCIENCE LABORATIRY RELEASE 2
+
+The NASA Planetary Data System announces the second release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sols 90 through 179 (November 6, 2012, through February 6, 2013).
+
+This release consists of raw and derived data sets from instruments:
+
+Alpha Particle X-ray Spectrometer (APXS)
+Chemistry & Micro-Imaging (ChemCam)
+Chemistry and Mineralogy (CheMin)
+Dynamic Albedo of Neutrons (DAN)
+Hazard Avoidance Cameras (Hazcam)
+Mars Hand Lens Imager (MAHLI)
+Mars Descent Imager (MARDI)
+Mast-mounted Cameras (Mastcam)
+Navigation Cameras (Navcam)
+Rover Environmental Monitoring Station (REMS)
+Sample Analysis at Mars (SAM)
+SPICE kernels
+
+Links to all MSL data sets may be found at:
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from: 
+
+http://pds.nasa.gov/ 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search.
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPTICAL CHARACTERIZATION OF ATMOSPHERIC AEROSOLS WORKSHOP
+
+The Optical Characterization of Atmospheric Aerosols workshop will take
+place at the Congress Centre Smolenice SAS, Slovak Republic in 
+November 5-7, 2013.
+
+The main goal of the workshop is to present an opportunity for 
+scientists in different fields to meet and form efficient 
+collaborations in the research of atmospheric aerosols, including 
+aerosol characterization, remote sensing, instrumentation, and optical 
+modeling. 
+
+Abstract submission due is June 30, 2013.
+
+The meeting website is: 
+
+http://www.ocaa2013.sav.sk/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+  
+ICARUS SPECIAL ISSUE: DYNAMIC MARS FROM LONG-TERM OBSERVATIONS
+
+We are well into the 2nd decade of continuous Mars observations that 
+began with MGS and have continued with ODY, MEX, MRO, and our landed 
+spacecraft. Bridged to earlier times by spacecraft observations from 
+the 1960s onwards, and a continuous telescopic campaign, our view of 
+Mars is now one of a planet on which surface and atmospheric changes 
+occur at frequencies of days, years, and decades, a testament to 
+long-term monitoring that continues to this day. At this time, it is 
+appropriate that this record, with implications for Martian geology, 
+climate, atmospheric dynamics, and other processes, be integrated into 
+a journal special section, submitted to Icarus by November 15, 2013.
+
+This special issue is for for papers that: 
+
+-Include surface, sub-surface, and atmosphere observations, or model 
+ results, that are new and a unique outcome of the long-term data 
+ acquisition provided by Mars spacecraft and telescopes
+-Highlight the long-term implications of processes that are observed 
+ and ongoing now
+-Are not reviews of previous work, unless new conclusions are drawn
+
+Author guidelines for preparation of manuscript can be found at: 
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home
+/505620/authorinstructions
+
+For more information, please contact the editorial office at 
+icarus@astro.cornell.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] CLARIFICATION ON RESEARCH SUPPORTED BY MFRP
+
+The Mars Fundamental Research Program (MFRP) includes identifying past 
+or present environments on Mars that have the potential to support 
+microbial life. However, investigations exploring the capabilities of 
+Terran life to survive, metabolize, and/or propagate in extreme 
+environments are not considered part of MFRP.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ANNOUNCEMENT OF OPPORTUNITY TO SUBMIT INPUT TO STUDY ON HUMAN 
+SPACEFLIGHT
+
+The NRC's Committee on Human Spaceflight is conducting a 
+congressionally-requested study to examine the goals, core 
+capabilities, and direction of human space flight. This study will 
+provide findings and recommendations to guide the U.S. human 
+spaceflight enterprise in a sustainable manner. One important source 
+of input is this call for short papers from communities around the 
+world with an interest in human spaceflight.
+
+These papers should consider:
+
+1. What are the important benefits provided to the United States and 
+   other countries by human spaceflight endeavors?
+
+2. What are the greatest challenges to sustaining a U.S. government 
+   program in human spaceflight?
+
+3. What are the ramifications and what would the nation and world lose 
+   if the United States terminated NASA's human spaceflight program?
+
+In discussing the above questions, respondents are asked to describe 
+the reasoning that supports their arguments and, to the extent 
+possible, include or cite any evidence that supports their views. In
+considering #1 above, submitters may consider private as well as 
+government space programs.
+
+For more information on the committee and the goals of the study, go 
+to:
+
+http://www.nationalacademies.org/humanspaceflight.
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CPSX PLANETARY SCIENCE SHORT COURSE
+
+The Centre for Planetary Science and Exploration (http://cpsx.uwo.ca) 
+and the NSERC CREATE program "Technologies and Techniques for Earth and 
+Space Exploration" (http://create.uwo.ca) are pleased to announce that 
+the next annual Planetary Science Short Course is now open for 
+registration. This course will run September 2 to 8, 2013, at the 
+University of Western Ontario, London, ON, and is suitable for 
+graduate students, advanced undergraduate students and professionals 
+from industry and government. Topics to be covered include origin of 
+the solar system and planet formation; planetary interiors; planetary 
+surfaces; astromaterials, planetary atmospheres; astrobiology, and 
+exoplanets.
+
+Details on the course can be found here: 
+
+http://cpsx.uwo.ca/study/courses/2013-short-course 
+
+Students from Ontario can take this course for credit and details as to 
+how to do this are provided on the website. Contact cpsx@uwo.ca for 
+questions.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+INTERNATIONAL SCIENTIFIC WORKSHOP ON GOLDEN SPIKE HUMAN LUNAR 
+EXPEDITIONS - CALL FOR ABSTRACTS
+
+Golden Spike and the Universities Space Research Association (USRA) 
+have announced a two-day workshop for the U.S. and international 
+scientific community to explore the planned capabilities of Golden 
+Spike human lunar expeditions planned to begin in 2020.
+
+The workshop will be held at the Lunar and Planetary Institute (LPI), 
+located in the Universities Space Research Association (USRA) building, 
+3600 Bay Area Boulevard, Houston TX 77058, on October 3-4, 2013. The 
+workshop will focus on landing site selection, surface experiment 
+packages, sample return capabilities, and surface traverse planning.
+
+The second announcement with the call for abstracts and other detailed 
+information is available at the meeting website:
+
+http://www.hou.usra.edu/meetings/gs2013/
+
+More information about Golden Spike can be found at:
+
+http://www.goldenspikecompany.com
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] PDS GRAIL RELEASE 2
+
+The Planetary Data System (PDS) announces the second release of the 
+following Gravity Recovery and Interior Laboratory (GRAIL) data:
+
+- LGRS EDR - Raw science data originating from the Lunar Gravity 
+  Ranging System (LGRS) on each of the two spacecraft comprising the 
+  GRAIL mission.
+- LGRS CDR - Calibrated and resampled data from the LGRS on each of 
+  the two spacecraft comprising the GRAIL mission.
+- RSS EDR - Raw radio science data and ancillary files from the GRAIL 
+  mission.
+- NAIF SPICE - Complete set of SPICE kernels created by GRAIL 
+  Navigation and archived by NAIF.
+
+This release includes LGRS EDR, LGRS CDR, and RSS EDR data acquired 
+during the extended mission phase, from 2012-08-30 through 2012-12-12 
+and RSS EDR data acquired during the decommissioning mission phase, 
+from 2012-12-12 through 2012-12-18.
+
+LGRS RDR data will be released in October, 2013.
+
+To access the above data, please visit:
+http://pds-geosciences.wustl.edu/missions/grail/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+COMET ISON OBSERVER'S WORKSHOP, AUG 1-2, 2013
+
+Colleagues,
+
+I am pleased to invite you the Comet ISON Observer's Workshop. In order 
+to facilitate the maximal observing of ISON, we will be holding a 2-day 
+pre-encounter workshop at JHU/APL on 1-2 August 2013. The meeting's 
+overarching goal is to maximize the scientific return from ISON's 2013 
+apparition. Confirmed speakers to date include Fast, Green, and 
+Johnson of NASA HQ and Schrijver, Feaga, Fernandez, Knight, Lisse, and 
+Wooden of our comet community.
+
+All interested parties are welcome to attend and discuss their 
+observing plans and needs, and what is currently known about the comet. 
+The format of the meeting will maximize group discussion and 
+communication. There is no cost for attending this meeting, and a light 
+breakfast and afternoon snacks will be served. Pre-registration using 
+the Registration page linked to: 
+
+https://dnnpro.outer.jhuapl.edu/isonworkshop/Home.aspx 
+
+is required for attendance. Nearby hotels and restaurants are listed on 
+the linked Lodging and Accommodations page.
+
+We look forward to seeing you at a lively and informative meeting. If 
+you have any questions, please feel free to send me an email.
+
+Cordially,
+
+Casey
+
+Dr. Carey M. Lisse
+Carey.Lisse@jhuapl.edu
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+STUDENT OPPORTUNITY - SUDBURY FIELD CAMP
+
+The Short Course and Field School at the Sudbury Impact Structure is a 
+week-long classroom and field training program based in Sudbury, 
+Ontario. The goal of the program will be to introduce students to 
+impact cratering processes and observe, in the field, the attributes 
+of an immense basin-size impact structure. Sudbury is known for 
+spectacular shatter cones, tremendously thick melt-bearing impact 
+breccias (the Onaping Formation), and a differentiated impact melt 
+sheet (the Sudbury Igneous Complex). Skills developed during the 
+program should better prepare students for their own thesis studies in 
+impact cratered terrains, whether they be on Earth, the Moon, Mars, 
+or some other solar system planetary surface. This field camp is being 
+organized under the auspices of the NASA Lunar Science Institute, 
+which is designed, in part, to train a new generation of explorers 
+for the Moon and beyond. The activity is being led the Canadian 
+Lunar Research Network and the LPI-JSC Center for Lunar Science 
+and Exploration.
+
+Course details are available in our syllabus.
+
+Please pass this information on to any students who might be 
+interested.
+
+Application deadline: July 5, 2013
+
+Required online application form at:
+
+www.lpi.usra.edu/nlsi/sudbury/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] OUTER PLANET WORKING GROUP (OPAG) MEETING SITE NOW OPEN
+
+Go to:
+
+http://icpi.nasaprs.com/OPAG
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 16-18, 2013
+Uranus Beyond Voyager 2: From Recent Advances to Future Missions
+http://uranus.sciencesconf.org
+Meudon, France
+
+September 29 - October 4, 2013
+Sudbury Field Camp 
+http://www.lpi.usra.edu/nlsi/sudbury/
+Sudbury, Canada
+
+November 5-7, 2013
+Optical Characterization of Atmospheric Aerosols Workshop
+http://www.ocaa2013.sav.sk/
+Smolenice, Slovak Republic
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

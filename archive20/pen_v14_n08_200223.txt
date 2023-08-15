@@ -1,0 +1,412 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 8 (February 23, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. COSPAR 2020: Call for abstracts in the Planetary Protection Sessions
+2. COSPAR Session PPP.1: Planetary Protection Policy
+3. COSPAR Session PPP.2: Planetary Protection Mission Implementation 
+   and Status
+4. COSPAR Session PPP.3: Planetary Protection Research and Development
+5. Postdoctoral Research Position at the Lunar and Planetary Institute 
+   in Planetary Radar
+6. [NASA] Dual-Anonymous Peer Review Virtual Town Hall - March 3, 2020
+7. [NASA] PDS: MRO SHARAD RDRs for Releases 36-47
+8. [NASA] PDS: Mercury MESSENGER Derived Gravity Model
+9. 2020 Astrobiology Graduate Conference
+10. Technical Assistant in Photogrammetry for Martian Geomorphology
+11. Stars and Planets in the Ultraviolet: A Cross-Community Symposium
+12. MER Data Catalog Survey
+13. ISIS Request For Comment 5 Posted
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COSPAR: CALL FOR ABSTRACTS IN THE PLANETARY PROTECTION SESSIONS
+
+Please note the following sessions at the 43d COSPAR Scientific 
+Assembly in Sydney, Australia, 15-22 August 2020. Go to:
+
+http://www.cospar2020.org
+
+http://https://cosparhq.cnes.fr
+
+Abstract deadline: February 23, 2020
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COSPAR SESSION PPP.1: PLANETARY PROTECTION POLICY
+
+We invite reports on planetary protection studies, colloquia, workshops 
+and agency activities related to the COSPAR Planetary Protection Policy 
+and implementation guidelines. Also adaptations and updates of the 
+Policy proposed by the COSPAR Panel on Planetary protection and 
+validated by the Bureau, based on documented studies and revisions 
+proposed by the current international space exploration context or new 
+scientific discoveries.
+
+Organizers: A. Coustenis and A. Yamagishi
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+COSPAR SESSION PPP.2: PLANETARY PROTECTION MISSION IMPLEMENTATION AND 
+STATUS
+
+We invite reports on the planetary protection implementation and status 
+of launched, ongoing and planned missions with focus on techniques, 
+measures and procedures applied to spacecrafts, payloads and ground 
+facilities to meet and verify the respective planetary protection 
+requirements.
+
+Organizers: G. Kminek and L. Pratt
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+COSPAR SESSION PPP.3: PLANETARY PROTECTION RESEARCH AND DEVELOPMENT
+
+This session will report on planetary protection research and 
+development activities, including in preparation for new mission 
+concepts and, taking into account challenging scientific endeavors, on 
+life detection.
+
+Organizers: N. Hedman and P. Rettberg
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL RESEARCH POSITION AT THE LUNAR AND PLANETARY INSTITUTE IN
+PLANETARY RADAR
+
+The Lunar and Planetary Institute (LPI) invites applications for a 
+Postdoctoral Fellow in Planetary Radar Studies to work with 
+Drs. Patrick A. Taylor and Edgard Rivera-Valentin to conduct detailed 
+studies of near-Earth objects and planetary surfaces via radar 
+observations, data analysis, and modeling. Additionally, the successful 
+candidate is expected to carry out an independent research program and 
+contribute to public engagement events at the LPI.
+
+Required expertise includes: a recent Ph.D. in planetary science, 
+astronomy, physics, geoscience, electrical engineering, or a related 
+field, experience in numerical and statistical techniques, proficiency 
+in a common astronomy programming language (e.g., IDL, MATLAB, Python), 
+and demonstrated knowledge of planetary radar studies. Direct 
+experience with radar observations and techniques is strongly desired, 
+but not required. Complementary experience with astronomical or Solar 
+System observations (e.g., optical or infrared), small-body geophysics, 
+or astronomical instrumentation is preferred, but not required.
+
+Applications must include a cover letter, curriculum vitae, statement 
+of research interests, and contact information for at least three 
+professional references.
+
+Application deadline: February 24, 2020 or until filled
+
+Questions: ptaylor@lpi.usra.edu
+
+To apply:  
+
+https://usra-openhire.silkroad.com/epostings/index.cfm?fuseaction
+=app.jobinfo&jobid=993
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] DUAL-ANONYMOUS PEER REVIEW VIRTUAL TOWN HALL - MARCH 3, 2020 
+ 
+On March 3, 2020 at 12:30pm Eastern Time, join leadership and division 
+representatives from NASA's Science Mission Directorate for a virtual 
+community Town Hall. The Town Hall will discuss a pilot study to 
+implement dual-anonymous peer review for four programs in ROSES-2020. 
+Under this system, not only are proposers unaware of the identity of 
+reviewers, but the reviewers do not have explicit knowledge of the 
+proposing teams and institutions during the scientific evaluation of 
+the proposal.
+
+The four ROSES-2020 programs that will be evaluated using 
+dual-anonymous peer review are:
+
+A.30 Earth Science U.S. Participating Investigator
+B.4 Heliophysics Guest Investigators-Open (Step-1 and Step-2 proposals 
+will be anonymized)
+D.2 Astrophysics Data Analysis (ADAP)
+E.4 Habitable Worlds (only Step-2 proposals will be anonymized)
+
+In advance of the SMD Town Hall, questions may be submitted and upvoted 
+on at:
+
+https://arc.cnf.io/sessions/qg98/#!/dashboard
+
+The Town Hall will be broadcast live via WebEx. Connection details 
+follow:
+
+https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID
+=m1dee6af29711d54dce8e7c250f66c4e7
+
+Meeting password: Smddapr2020!
+
+Audio-only participation is available by calling +1-415-527-5035 and 
+providing access code 901 604 462.
+
+For more information on dual-anonymous peer review, please visit:
+
+https://science.nasa.gov/researchers/dual-anonymous-peer-review
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: MRO SHARAD RDRS FOR RELEASES 36-47
+
+MRO SHARAD derived data from the ASI (Italian Space Agency) SHARAD 
+Ground Operations Center have been released covering the period 
+May 17, 2015 to April 20, 2018. These time periods correspond to 
+previous MRO releases 36-47. The SHARAD team is recovering data from 
+deliveries that were missed due to a hiatus in ground operations 
+between June 2012 and March 2013. For details, see the file ERRATA.TXT 
+on the archive volume at:
+
+https://pds-geosciences.wustl.edu/mro/mro-m-sharad-4-rdr-v1/mrosh_1004
+
+Data are available here:
+
+https://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: MERCURY MESSENGER DERIVED GRAVITY MODEL
+
+A new Mercury gravity model derived from MESSENGER radio science data 
+has been released to PDS by the JPL Gravity Science Team. The data 
+product contains the covariance matrix and related data for the JPL 
+Mercury gravity field MESS160A, a 160th degree and order spherical 
+harmonic model. It is the first archived JPL gravity field that 
+includes MESSENGER tracking data. Two versions are provided, one with 
+the full covariance matrix and one with the covariance matrix truncated 
+to degree 50.
+
+The data are available from:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200219.shtml
+
+Or more directly from:
+
+https://pds-geosciences.wustl.edu/missions/messenger/rs.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2020 ASTROBIOLOGY GRADUATE CONFERENCE
+
+On September 14-18, 2020, the NASA Astrobiology Graduate Conference 
+(AbGradCon) will be hosted at ELSI (Earth-Life Science Institute) in 
+Tokyo, Japan. AbGradCon is an annual conference specifically for 
+graduate students and early-career postdocs, organized and executed by 
+graduate students and early-career postdocs, who study the diverse 
+topics encompassing the field of astrobiology. 
+
+The application deadline is March 15, 2020 and we also expect to 
+secure some travel funds for young researchers around the world. If 
+you are interested, the website and application can be found at: 
+
+http://abgradcon.org
+
+This year is the first time AbGradCo will be held in Asia, and the 
+conference's main theme will be international collaboration. We hope 
+to have representation from all regions of the world, but especially 
+from Asia and Oceania We plan to have career development events such as 
+a science communication workshop, a career panel, keynote speakers by 
+leaders in the field, and field excursions to various related research 
+centers around the Tokyo area.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+TECHNICAL ASSISTANT IN PHOTOGRAMMETRY FOR MARTIAN GEOMORPHOLOGY
+
+We have an opening for technical assistant (ingenieur d'etudes) at 
+Masters or PhD level to produce digital elevation models of Mars at 
+high resolution using stereo-photogrammetry (from HiRISE). The post is
+full-time for one year and is based at the University of Nantes in
+France, salary is based on experience. The post is part of a project
+studying the geomorphology of gullies on Mars and the recruited person
+would be encouraged to take part in the scientific exploitation of the
+data they produce. More details here:
+
+https://emploi.cnrs.fr/Offres/CDD/UMR6112-SUSCON-001/Default.aspx
+
+If you have GIS or photogrammetry capable students who have just
+finished their masters or their PhD, please can you pass this message
+along to them.
+
+For more information contact Susan Conway (susan.conway@univ-nantes.fr)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+STARS AND PLANETS IN THE ULTRAVIOLET: A CROSS-COMMUNITY SYMPOSIUM
+
+Symposium Rationale:
+
+Ultraviolet (UV) photons are diagnostic of many stellar and planetary 
+processes, including system formation, planet atmospheres, 
+habitability, stellar activity, and star-planet interactions. With 
+very limited access to UV observations of exoplanetary systems, it is 
+time to bring the exoplanet, stellar and solar-system communities 
+together to discuss the state of knowledge, identify the missing 
+information, and plan the instrumentation needed for future space-based 
+UV observatories. 
+
+Symposium Dates: May 4-6, 2020 
+Location: Arizona State University, Tempe, Arizona
+Registration and Abstract Deadline: March 10, 2020
+
+https://www.eiseverywhere.com/ultraviolet
+
+Check back for updates on registration, lodging, and schedule.
+
+Questions can be sent to UltravioletASU@gmail.com.
+
+Topics:
+Exoplanet UV transits 
+Photoevaporation
+Photochemistry
+Solar & stellar UV emission 
+Variability & flares
+Star and planet formation
+Solar System planets
+Future UV instrumentation
+
+Confirmed Invited Speakers:
+Dave Brain (CU)
+Catherine Espaillat (BU)
+Kevin France (CU)
+Cynthia Froning (UT-Austin)
+Walt Harris (UA)
+Amanda Hendrix (PSI)
+R. Parke Loyd (ASU)
+Victoria Meadows (UW)
+Ruth Murray-Clay (UCSC)
+Shouleh Nikzad (JPL)
+Antonija Oklopcic (Harvard)
+James Owen (ICL)
+Paul Scowen (ASU)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MER DATA CATALOG SURVEY
+
+The goal of the Mars Exploration Rovers (MER) Data Catalog Project is 
+to make it easy and simple for researchers who were not members of the 
+MER team (as well as the general public) to discover and use Spirit and
+Opportunity data. We are conducting a survey to find out what features
+potential users would like to see in the catalog. We would appreciate
+it if you would take the survey, which should take ~5-10 minutes, by
+going to:
+
+http://www.merdatacatalog.com/survey
+
+In addition to completing the survey yourself, please pass the link on
+to anyone who might want to use MER data. We're hoping to hear from
+Mars-focused and non-Mars-focused planetary scientists, Earth
+scientists, high school teachers, undergraduates, engineers, museum
+workers, and anyone at all who might be interested in working with MER
+data.
+
+Conducting a survey constitutes experimenting on humans, so we have
+sought and received approval for the survey from Cornell University's
+Institutional Review Board (IRB) Office. The survey does not collect
+any identifying information, and all data will be presented in
+aggregate. It will be open through April 2020; we will present interim
+results collected by February 29th 2020 at LPSC.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ISIS REQUEST FOR COMMENT 5 POSTED
+
+Request for Comment 5 (RFC5) concerning the removal of outdated 
+LOLAGRAIL SPK kernels from the ISIS data area has been posted at: 
+
+http://bit.ly/isisrfc5 
+
+Users working with lunar data in ISIS are likely impacted by the 
+proposed change. Please see the linked RFC and associated GitHub post 
+to participate in the discussion and learn about the potential impact. 
+Links to other open RFCs are available via the ISIS GitHub homepage at: 
+
+https://github.com/USGS-Astrogeology/ISIS3
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 4-6, 2020
+Stars and Planets in the Ultraviolet: A Cross-Community Symposium
+https://www.eiseverywhere.com/ultraviolet
+Tempe, AZ
+
+June 1-2, 2020
+23rd Meeting of the Small Bodies Assessment Group
+https://www.lpi.usra.edu/sbag/meetings
+Laurel, MD
+
+July 20-31, 2020
+Data Analysis for Planetary Science (DAPS-CBW 2020)
+http://cospar.das.uchile.cl
+Antofagasta, Chile
+
+September 14-18, 2020 
+NASA Astrobiology Graduate Conference (AbGradCon)
+http://abgradcon.org
+Tokyo, Japan
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

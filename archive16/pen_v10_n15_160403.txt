@@ -1,0 +1,435 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 15 (April 3, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Susan Benecchi, Karen Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 4th European Lunar Symposium
+2. Linking Exoplanet and Disk Compositions
+3. [NASA] SMD Seeking Volunteer Reviewers for Proposals to Astrophysics 
+   and Planetary Science
+4. 2016 NASA Planetary Science Summer School Applications Open
+5. MAVEN Public Datasets Released in March 2016
+6. Third International Conference on the Exploration of Phobos and 
+   Deimos
+7. [NASA] PDS - New Rosetta Data Releases
+8. Postdoctoral Researcher in Experimental Lunar PSR Simulation at York 
+   University
+9. [NASA] PDS - Odyssey Data Release 55
+10. Announcement for the Joint DPS/EPSC Meeting
+11. AGU Honors - There's Still Time to Nominate a Deserving Colleague!
+12. Planetary Geomorphology 'Image of the Month'
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+4TH EUROPEAN LUNAR SYMPOSIUM
+
+May 18 - May 19
+
+The 4th European Lunar Symposium will take place at the Trippenhuis 
+(Dutch Royal Academy of Arts and Sciences), Amsterdam, The Netherlands 
+on Wed, 18th May and Thu, 19th May, 2016 (pre-registration on the 
+evening of Tue 17th May, 2016).
+
+A global surge in lunar exploration has thrust lunar science and 
+exploration back into the limelight once again. Current interests in 
+the exploration of the Moon range from astronomical, astrophysical, 
+geological, commercial, resource utilization, and strategic 
+considerations, to its use as an outpost for future human exploration 
+of the Solar System. One of the main aims of this meeting is to bring 
+together the European scientific community interested in various 
+aspects of lunar exploration. In addition, lunar experts from countries 
+engaged in launching lunar missions are also invited to attend this 
+meeting.
+
+The format will consist of both oral and poster presentations divided 
+into four broad themes of: "Science of the Moon", "Science on the 
+Moon", "Science from the Moon" and "Future Lunar Missions".
+
+Further information relating to abstract submission, registration etc. 
+will be made available via the meeting website which is located at: 
+
+http://sservi.nasa.gov/els2016/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LINKING EXOPLANET AND DISK COMPOSITIONS
+
+Workshop at the Space Telescope Science Institute, Baltimore MD, USA
+
+Dates: September 12-14, 2016
+
+This workshop will gather scientists working on the compositional 
+characterization of planets and planet-forming regions in 
+protoplanetary disks. Recent and upcoming advancements make it timely 
+to have a round-table conversation among the communities involved, to 
+join forces in tackling our most compelling questions on the origins 
+of exoplanet diversity. Do exoplanet compositions retain the imprint of 
+large-scale disk processes? Do disks include compositional trends that 
+imprint planets? What do we learn in this context from observations of 
+Solar System bodies? And what can we test with observations of disks 
+and exoplanets in the near future? We intend to identify long-lasting 
+and observable links between exoplanet and disk compositions, to help 
+the community in shaping ongoing modeling efforts as well as the 
+essential parameter space to cover with existing and upcoming 
+observatories for exoplanet and disk characterization.
+
+Pre-registration and abstract submission are now open: 
+
+http://www.cvent.com/d/ffqwn1
+
+Contact: exodisks@stsci.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SMD SEEKING VOLUNTEER REVIEWERS FOR PROPOSALS TO ASTROPHYSICS 
+AND PLANETARY SCIENCE
+
+NASA's Science Mission Directorate is recruiting reviewers for ROSES 
+proposals to Astrophysics and Planetary Science. If you are interested 
+in being a reviewer, please go to: 
+
+http://science.nasa.gov/researchers/volunteer-review-panels/ 
+
+We especially encourage post-doctoral fellows and other early career 
+scientists to volunteer. The following programs are currently listed: 
+Astrophysics Data Analysis, Exoplanets Research, Emerging Worlds, Solar 
+System Observations, Cassini Data Analysis, Maturation of Instruments 
+for Solar System Exploration.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+2016 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS OPEN
+
+NASA is accepting applications from science and engineering post-docs, 
+recent PhDs, and doctoral students for its 28th Annual Planetary 
+Science Summer School, which will be held July 25-29, 2016 at the Jet 
+Propulsion Laboratory in Pasadena, Calif.
+
+During the program and pre-session webinars, student teams will carry 
+out the equivalent of an early mission concept study, prepare a 
+proposal authorization presentation, present it to a review board, and 
+receive feedback. By the end of the session, students will have a 
+clearer understanding of the life cycle of a space mission; 
+relationships between mission design, cost, and schedule; and the 
+tradeoffs necessary to stay within cost and schedule while preserving 
+the quality of science.
+
+Applications are due April 6, 2016. Partial financial support is 
+available for a limited number of individuals. Further information is 
+available at: 
+
+http://pscischool.jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MAVEN PUBLIC DATASETS RELEASED IN MARCH 2016
+
+The MAVEN Science Data Center is pleased to announce that all MAVEN 
+data collected between November 15th, 2014 and November 15th, 2015 
+have been made available to the public. This includes data from all 
+instruments (IUVS, NGIMS, EUV, STATIC, SWIA, SWEA, MAG, ACC, SEP, LPW), 
+as well as "Key Parameter" and Ancillary data. 
+
+The MAVEN Science Data Center website contains interactive browse 
+plots, a form for searching and downloading data, a list of mission 
+events, and an IDL toolkit for retrieving and visualizing data.
+
+To access the SDC, please visit: 
+
+https://lasp.colorado.edu/maven/sdc/public/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+THIRD INTERNATIONAL CONFERENCE ON THE EXPLORATION OF PHOBOS AND DEIMOS
+
+July 18-19, 2016 at NASA Ames Research Center
+
+The Third International Conference on the Exploration of Phobos and 
+Deimos, subtitled The Science, Robotic Reconnaissance, and Human 
+Exploration of the Two Moons of Mars, will be an open international 
+forum gathering scientists, engineers, space exploration professionals 
+and students interested in discussing the status and advancement of 
+the exploration of Mars' natural satellites, the investigation of 
+other small bodies in relation to Phobos and Deimos, the exploration of 
+Mars itself via its moons, and the importance of exploring these moons 
+for Solar System science.
+
+The conference is being convened at a time of growing interest in the 
+exploration of Phobos and Deimos, with several international robotic 
+spacecraft missions and concept studies underway, in particular in 
+Europe, Japan, Russia, and the United States. Important new scientific 
+data relating to Phobos have also been obtained recently by NASA's 
+Mars Atmosphere and Volatile EvolutioN (MAVEN) mission and ESA's Mars 
+Express (MEX) mission. The human exploration of Phobos and Deimos is 
+also under serious consideration in the international context of the 
+Global Exploration Roadmap.
+
+The deadline for submission of abstracts is Tuesday, 19 April 2016, 
+5:00 pm Pacific Daylight Time. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS - NEW ROSETTA DATA RELEASES
+
+The Small Bodies Node of the NASA Planetary Data System is pleased to 
+announce that the following datasets have been released:
+
+Rosetta 67P Prelanding Phase data:
+- Rosetta-Orbiter MIRO  Raw and Calibrated Data
+- Rosetta-Orbiter RPC MIP Calibrated Data (parts 1-3)
+
+Rosetta 67P Escort Phase data:
+- Rosetta-Orbiter ALICE Escort 1 Raw, Calibrated, and Resampled Data
+- Rosetta-Orbiter GIADA Escort 1 Raw and Calibrated Data
+- Rosetta-Orbiter RPC MAG Escort 1 and 2 Raw and Resampled Data
+- Rosetta-Orbiter RPC MIP Escort 2 Calibrated Data
+- Rosetta-Orbiter NAVCAM Escort 3 (MTP018 - MTP021) Raw Data
+- Rosetta-Orbiter NAVCAM Escort 4 (MTP022 - MTP025) Raw Data
+
+The datasets are ESA PSA certified. To see and download the data as 
+well as mission and instrument information, go to: 
+
+http://pdssbn.astro.umd.edu/
+
+The data can be also accessed through the ESA PSA website: 
+
+http://www.sciops.esa.int/index.php?project=PSA&page=rosetta
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCHER IN EXPERIMENTAL LUNAR PSR SIMULATION AT YORK
+UNIVERSITY
+
+A postdoctoral researcher is sought for cryo-vacuum facilities to 
+simulate the Lunar Permanently Shadowed Regions (PSRs), to lead 
+experimental investigations into the PSRs, and to develop lab-scale 
+instrumentation. Prof. John Moores will supervise the work, which will 
+also involve collaboration with Profs Michael Daly and Tom McElroy. 
+The ideal candidate will be less than 3 years from receipt of their 
+PhD at the start date of the term of employment, will have previous 
+experience with experimental chambers, electronics and far ultraviolet 
+sensing techniques and equipment. The successful applicant must be 
+willing to relocate to Toronto.
+
+To apply, please send to jmoores@yorku.ca: 
+
+(1) a detailed C.V., 
+
+(2) the names, phone numbers and email addresses of at least two 
+    references that have agreed to speak on your behalf and 
+
+(3) two examples of published work that you have led. For full 
+    consideration, please send these materials by April 30, 2016.
+
+Founded in 1965, CRESS is a leader in Canadian Planetary 
+Instrumentation, most recently leading the development of the 
+Osiris-Rex Laser Altimeter (OLA) and the Phoenix LiDAR instrument. 
+CRESS is also the home of the Canadian Planetary Simulator, a 
+$3.76 Million facility currently under construction.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS - ODYSSEY DATA RELEASE 55
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 55, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 163-165)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160401.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ANNOUNCEMENT FOR THE JOINT DPS/EPSC MEETING
+
+Please join us for the joint 48th Division of Planetary Sciences (DPS) 
+and 11th European Planetary Science Conference (EPSC) meeting in 
+Pasadena, CA, USA from October 16-21, 2016. We anticipate an exciting 
+program that captures the breadth of the international planetary 
+science by combining the scientific results of the participants in the 
+DPS and EPSC research  communities at one single joint meeting.  
+
+Scientific Program
+
+Contributed research papers for oral and poster presentations are 
+solicited for original research at:  
+
+aas.org/meetings/dps48/abstracts.  
+
+Key Deadlines
+
+Abstract Submission Opens - May 3, 2016
+Abstracts Due - June 23, 2016
+Late Abstract Deadline - August 2, 2016 (poster submissions only)
+
+Workshops
+
+Space is available for topical workshops to be held in conjunction 
+with the joint DPS/EPSC. Guidelines are available at: 
+
+http://aas.org/meetings/dps48/workshop_guidelines    
+
+The proposal form is now available and open for submission. Workshops 
+requests submitted by May 23, 2016 can be included in the registration 
+form so as to be open to all meeting attendees.
+
+Lodging
+
+Group room rates are available in three local hotels to those who 
+make reservations prior to Sept 14, 2016 at:
+
+http://aas.org/meetings/dps48/travel_and_lodging
+
+We hope to see you in Pasadena!  
+
+For more information visit our website: 
+
+http://aas.org/meetings/dps48
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU HONORS - THERE'S STILL TIME TO NOMINATE A DESERVING COLLEAGUE!
+
+Nominations are due 15 April for Section and Focus Group Awards and 
+Lectures. Please consider nominating a deserving colleague.
+
+Ronald Greeley Early Career Award in Planetary Science
+
+Established in 2012, the Ronald Greeley Early Career Award in Planetary 
+Science is given annually to one honoree (no more than 6 years post
+degree) in recognition of significant early career contributions to 
+planetary science. This award is named in honor of AGU Fellow Ronald 
+Greeley for his influential contributions made to training and 
+mentoring planetary scientists.
+
+Whipple Award
+
+Established in 1989, the Whipple Award is given annually to one 
+honoree in recognition of outstanding contributions in the field of 
+planetary science. This award is named in honor of AGU Fellow Fred 
+Whipple, a gifted astronomer most noted for his work on comets. The 
+Whipple Award includes an opportunity to present an invited lecture 
+during the AGU Fall Meeting, held in San Francisco, Calif. The Whipple 
+Lecture is webcast and made available as an archived presentation on 
+the AGU website.
+
+For more information about nominations for Planetary Sciences section 
+awards, please visit:
+
+http://honors.agu.org/scientific-contribution/planetary-sciences/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The April image of the month is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Sedimentology and Hydrology of an Amazonian 
+paleo-fluivo-lacustrine systems on Mars (Moa Valles)". Contributed by 
+Francesco Salese from IRSPS/Dipartimento INGEO, Universita D'Annunzio, 
+Pescara, Italy.
+
+Don't be an April-fool you can now follow IAG Planetary Geomorphology 
+Image of the Month on Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology 
+
+or Twitter @PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 18-19, 2016
+Third International Conference on the Exploration of Phobos and Deimos
+http://phobos-deimos.arc.nasa.gov/
+Moffett Field, CA
+
+September 26-27, 2016
+The 6th International Workshop on Lunar Surface Applications
+http://www.lsaworkshops.com/
+Bellevue, WA
+
+September 28-29, 2016
+The 6th International Workshop on LunarCubes
+http://www.lsaworkshops.com/
+Bellevue, WA
+
+October 16-21, 2016
+Joint  48th Division of Planetary Sciences (DPS)
+and 11th European Planetary Science Conference (EPSC)
+http://aas.org/meetings/dps48
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

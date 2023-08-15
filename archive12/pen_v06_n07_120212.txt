@@ -1,0 +1,408 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 7 (February 12, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Horizons Stamp Petition
+2. Planetary Data: A Workshop for Users and Software Developers
+3. Workshop Announcement: Moving FORWARD in Space
+4. NASA Lunar Science Forum: First Announcement
+5. NASA Postdoctoral Fellowships
+6. European Lunar Symposium
+7. First Landing Site Workshop for Future Mars Missions
+8. Planetary Geophysics Postdoctoral Fellowship
+9. Dawn Data Release: Level 1a Data from Approach and Survey
+10. AAS Opposes the Grant Act of 2011 (H.R. 3433)
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW HORIZONS STAMP PETITION
+
+As a part of its EPO program, the New Horizons mission to the Pluto 
+system is proposing a stamp commemorating its exploration of Pluto to
+the US Postal Service.
+
+The post office requires that stamp proposals be accompanied by a 
+petition signed by members of the public who support the stamp 
+proposal.  On Feb 1, the New Horizons team debuted their stamp 
+petition at:
+
+http://www.change.org/petitions/usps-honor-new-horizons-and-the-
+exploration-of-pluto-with-a-usps-stamp#USA%20#NASA
+
+Members of the PEN community are invited to sign on this petition 
+with the public. Like the public, planetary scientists are also 
+urged to tell their friends and colleagues via email, Facebook, 
+Twitter, and other social media, and ask them to sign on as well.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY DATA: A WORKSHOP FOR USERS AND SOFTWARE DEVELOPERS
+
+Northern Arizona University, Flagstaff, AZ (USA)
+June 25-29, 2012
+
+April 30 - Deadline for Abstract Submission 
+(for presentation or poster)
+June 15 - Registration Deadline (if not submitting an abstract)
+June 25-27 - Data Users Track
+June 27-29 - Software Developers Track
+
+To view the full announcement, please visit:
+
+http://on.doi.gov/PlanetD
+
+The Data Users Track will provide a forum for discussion of available
+planetary data, including how these data are located, downloaded, 
+processed, and used for cartography and scientific data analysis. 
+Topics may include: basic data search and retrieval tools (e.g., the 
+Planetary Image Atlas, the Orbital Data Explorers, the Analysts 
+Notebook, PILOT, etc.) for data from current planetary missions, 
+summary of data processing and visualization tools (e.g., ISIS, 
+JMARS/JMOON, Google Mars/Moon, ArcMap, etc.), and an introduction 
+to PDS4 for users and data providers.
+
+The Software Developers Track will bring researchers and technology
+experts together to discuss and exchange ideas to identify difficult
+planetary research issues that can be addressed by software 
+development, and will present planetary data processing and software 
+development methods and techniques.
+
+For further information, contact:
+
+Trent Hare (thare@usgs.gov)
+Lisa Gaddis (lgaddis@usgs.gov)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+WORKSHOP ANNOUNCEMENT: MOVING FORWARD IN SPACE
+
+To be held in Philadelphia on June 4-6, 2012.
+
+The primary goals of the workshop are to provide young female
+scientists with information and skills development necessary for a
+successful bid for a tenured professorship in the planetary sciences.
+Workshop activities will focus on developing mentoring and networking
+connections, techniques for more successful writing, acquiring grant
+funding, sharing of classroom ideas and materials, maintaining
+work-life balance, and challenges for dual career couples.
+
+Invited participants include finishing doctoral students, postdocs,
+scientists in a career break after a PhD or postdoc, in the early
+stages of a tenure-track position or employed outside academia. Though
+this conference is aimed specifically at maintaining female scientists
+in the tenure-track pipeline, we encourage all underrepresented
+minorities in the planetary sciences to apply. Dual career couples are
+encouraged to apply as well.
+
+Applications to attend available: March 7, 2012. 
+
+E-mail: planetary@temple.edu for an application or additional 
+information. We expect to invite 30-35 attendees to the workshop -  
+and will have some funds available to help cover hotel costs for those
+who request them (via a separate application).
+
+Conference sponsor: National Science Foundation via
+the FORWARD to Professorship Program.
+
+More information at:
+
+https://sites.google.com/a/temple.edu/forward-in-space/home
+
+(Edited for lenth.)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA LUNAR SCIENCE FORUM: FIRST ANNOUNCEMENT
+
+The NASA Lunar Science Institute is pleased to announce the 5th annual
+NASA Lunar Science Forum, to be held July 17-19, 2012.  This year's 
+forum will feature sessions on in-depth scientific results from Lunar 
+Reconnaissance Orbiter (LRO), Acceleration, Reconnection, Turbulence 
+and Electrodynamics of the Moon's Interaction with the Sun (ARTEMIS),
+Lunar Atmosphere and Dust Environment Explorer (LADEE) and Gravity 
+Recovery And Interior Laboratory (GRAIL), a dedicated side-conference
+for graduate students and young lunar professionals, as well as the 
+annual Shoemaker Award ceremony and associated keynote lecture.  This
+year's Shoemaker Award winner is Dr. S. Ross Taylor in recognition of
+his significant scientific accomplishments and contributions to the 
+lunar field.  As in past years, science sessions are structured to 
+report on both recent results and future opportunities for lunar 
+science, exploration, education and outreach.
+
+Abstracts will be accepted starting February 20 through 
+May 1, 2012 at:
+
+http://lunarscience.nasa.gov/LSF2012/
+
+The next announcement in March 2012 will discuss the Lunar Science 
+Forum Logistics.  
+
+We look forward to another exciting meeting focusing on science of, 
+on and from the Moon!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics,
+space operations, exploration systems, lunar science, or astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends for Postdoctoral Fellows start at $50,000 per year, with 
+moderate supplements for high cost-of-living areas and for certain
+academic specialties. Funds are available for relocation expenses, 
+up to a specified limit, and health insurance is available through 
+the program. Fellows also receive $8,000 per appointment year to 
+support travel to conferences, meetings, and other activities that 
+directly support their research.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EUROPEAN LUNAR SYMPOSIUM
+
+April 19-20, 2012, Berlin
+
+We are pleased to announce that the website for abstract submission 
+and registration for the 2012 European Lunar Symposium is now open. 
+Please visit:
+
+http://lunarscience.nasa.gov/els2012/ 
+
+and navigate your way around to submit an abstract and register for 
+this symposium.
+
+We are limited to 170 participants and will adopt a first-come, 
+first-served policy, so submit your abstract at your earliest 
+convenience and register yourself for the meeting. The abstract 
+submission deadline is February 28.
+
+We look forward to seeing you at the European Lunar Symposium in 
+April 2012.
+
+Mahesh Anand (Open University, UK) and Ralf Jaumann (DLR, Germany)
+(on behalf of the ELS organizers)
+
+ 
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FIRST LANDING SITE WORKSHOP FOR FUTURE MARS MISSIONS
+       			   
+Organized by the NASA-ESA collaboration 
+February 29, 2012
+Hilton Washington Dulles Airport hotel in Herndon, VA
+Preceded by the second international meeting of MEPAG. 
+
+Dear Colleagues:
+
+The workshop will begin the identification and discussion of future 
+possible landing sites for a rover mission to conduct in-situ 
+science investigations including drilling and caching samples for 
+possible return to Earth and subsequent analysis, within the 
+constraints imposed by engineering requirements, planetary protection 
+requirements, and the necessity of ensuring a safe landing. The goal 
+is to gather information on candidate landing sites and develop a 
+list of high priority candidates for future joint missions in a 
+timely manner utilizing various orbiter instruments while they 
+are still operating.  
+
+The program for the workshop is now available at: 
+
+http://marsnext.jpl.nasa.gov/
+
+There is no registration fee for the workshop and all members of 
+the scientific community are encouraged to participate in this 
+important activity.  For those unable to travel to the workshop, it 
+is expected that content will be made available via Webex. Further 
+information on accessing Webex will be posted at: 
+
+http://marsnext.jpl.nasa.gov/
+
+Regards,
+John Grant, Matt Golombek, and Nicolas Mangold, Co-Chairs, 
+Mars Landing Site Steering Committee
+
+(Edited for lenth.)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a 
+NASA-funded project studying the nature of mantle convection on Mars 
+and its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct
+research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics with
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in 
+a Linux environment will be an asset. The position will be offered 
+for an initial period of two years with a possible extension to a 
+maximum of three years.
+
+Applicants should send a letter of interest, a curriculum vita 
+listing relevant publications, a brief (maximum three pages) 
+statement of research interests, and a list of three references to 
+resume@lpi.usra.edu.  Review of candidates will begin on 
+March 15, 2012, with a hiring decision as soon as possible thereafter.  
+Further information about LPI can be found at:
+
+www.lpi.usra.edu
+
+USRA is an Equal Opportunity Employer.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DAWN DATA RELEASE: LEVEL 1A DATA FROM APPROACH AND SURVEY
+
+The Dawn project has created a public website that is available to 
+serve the cruise and Vesta data sets that have been delivered to the 
+Planetary Data System (PDS) while the data are still under review. 
+Data are available from all three Dawn instruments, the Framing Camera 
+(FC), the Visual and Infrared Mapping Spectrometer (VIR), and the Gamma 
+Ray and Neutron Detector (GRaND).  The data that are currently 
+available are raw data, in engineering units, sometimes referred to 
+as EDRs by the PDS or as NASA level-1a data. Additional data sets will 
+be added when they are submitted to the PDS.
+
+The Dawn website is located at:   
+
+http://dawnpub.igpp.ucla.edu
+
+Users of these data should exercise caution. Invariably there will be
+errors or omissions in the documentation.  Please report any problems
+that are encountered to:
+
+Joseph Mafi (jmafi@igpp.ucla.edu - Dawn Science data archivist) or 
+Steven Joy (sjoy@igpp.ucla.edu - Dawn Science Center manager)
+
+and they will be added to the PDS peer review liens and corrected 
+before final archive.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AAS OPPOSES THE GRANT ACT OF 2011 (H.R. 3433)
+
+AAS endorsed a letter by the Coalition for National Science Funding on
+30 January 2012, writing in opposition to the Grant Reform and New
+Transparency (GRANT) Act of 2011 (H.R. 3433) because as written this
+bill could have unintended adverse effects on the continued
+development of the scientific and engineering research enterprise and
+compromise the U.S. innovation system. Many other scientific
+organization, such as the American Institute of Physics (AIP) and the
+American Physical Society (APS), oppose the legislation as written.
+For a link to the AAS endorsement see:
+
+http://aas.org/policy/endorsements 
+
+The text of the bill is posted at:
+
+http://oversight.house.gov/images/stories/Markups/LANKFO_036_xml.pdf
+
+Page 9, line 15 is where these requirements are outlined.
+
+[Editor Note: This bill requires federal agencies to post online the 
+full text of awarded grant proposals not later than three years after 
+the grant is awarded, the full names and employers of the proposal
+reviewers, and the reviews and scores.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 29, 2012
+First Landing Site Workshop for Future Mars Missions
+http://marsnext.jpl.nasa.gov/
+Herndon, VA
+
+April 19-20, 2012
+European Lunar Symposium
+http://lunarscience.nasa.gov/els2012/ 
+Berlin, Germany
+
+April 20, 2012
+Photogrammetry, Remote Sensing and GIS in Extreme Environments
+http://astrogeology.usgs.gov/groups/ASPRS-Southwest-Technical-Meeting
+Flagstaff, AZ
+
+June 4-6, 2012
+Moving Forward in Space
+https://sites.google.com/a/temple.edu/forward-in-space/home
+Philadelphia, PA
+
+June 25-29, 2012
+Planetary Data: A Workshop for Users and Software Developers
+http://on.doi.gov/PlanetD
+Flagstaff, AZ
+
+July 17-19, 2012
+5th Annual Lunar Science Forum
+http://lunarscience.nasa.gov/LSF2012/
+Moffett Field, CA
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*
+* To unsubscribe, send an email to pen_editor at psi.edu
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements.  Title plus text is limited to 200 words.  Go to
+* http://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu).
+***********************************************************************

@@ -1,0 +1,535 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 10 (March 7, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: John Hoffman
+2. Planetary Geomorphology Image of the Month
+3. [NASA] PDS: Aperiodic Data Releases in 2021.02
+4. [NASA] PDS: Mars Reconnaissance Orbiter PDS Data Release 56
+5. [NASA] PDS: MRO CRISM MTRDR and TER Release 16
+6. [NASA] PDS: OSIRIS-REx Bennu Release 8
+7. [NASA] PDS: Important Notice for Data Users
+8. [NASA] PDS: R&A Proposal Support Webpages
+9. Urey Fellow Position at the Lunar and Planetary Institute
+10. 2021 International Summer School in Astrobiology: Searching for 
+    Life on Mars
+11. 2021B NASA IRTF Call for Proposals
+12. 44th Scientific Assembly of the Committee on Space Research 
+    (COSPAR 2022) 
+13. [NASA] Planetary Protection Officer Sought
+14. Mars Exploration Science Monthly Newsletter for March 2021
+15. Laboratory Astrophysics Division (LAD) Virtual Summer Meeting 
+16. Venus Decadal Panel Meeting Sessions
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: JOHN HOFFMAN
+
+It is with great sadness that we announce the passing of Dr. John 
+Hoffman at the age of 91. John was a wonderful colleague, mentor, and 
+scientist who contributed tremendously to the field of space research 
+and education. He was always willing to give of his time and expertise 
+and quick to adopt technical problems and contribute in national and 
+international collaborations. He will be sorely missed. 
+
+John developed instruments for the Apollos 15, 16, and 17 lunar 
+missions, the latter being part of the ALSEP surface package. He also 
+flew mass spectrometers on the earth orbiting satellites, Explorer 31, 
+ISIS-II, AE-C, D, and E, and Wake Shield, plus numerous sounding 
+rockets and stratospheric balloon flights. The first observations of 
+the polar wind, ions flowing out from the atmosphere, were made by his 
+ion mass spectrometer flown on the ISIS spacecraft in 1971. In 1978, 
+his instrument flew on the Pioneer Venus mission to Venus where data 
+was received throughout the descent of the probe to the surface. 
+
+For his full obituary and memorial events, please go to:
+
+http://lists.igpp.ucla.edu/pipermail/spa/2021-February/000433.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The March image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "A Canyon in Gale Crater, Mars, and Implications 
+for Exploration by the Curiosity Rover", contributed by Divya Persaud 
+(University College London, UK/ NASA Jet Propulsion Laboratory, USA).
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2021.02
+
+In February 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2021.02.01 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.02.08 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.02.16 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.02.25 Gartrelle et al. IRTF Asteroid Spectra
+2021.02.26 Mars Express: MRS Raw Radio Science Extended Mission 3
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210228.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 56
+
+The NASA Planetary Data System announces Release 56 of data from the 
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period May 9, 2020, through August 8, 2020. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes.
+
+CRISM, SHARAD, and Radio Science data are archived at the Geosciences 
+Node. HiRISE, CTX, and MARCI data are archived at the Cartography and 
+Imaging Sciences Node. MCS data are archived at the Atmospheres Node.
+SPICE data are archived at the NAIF Node
+
+No new Radio Science data will be produced.
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210301.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: MRO CRISM MTRDR AND TER RELEASE 16
+
+PDS announces Release 16 of Mars Reconnaissance Orbiter CRISM Targeted 
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data 
+Record (MTRDR) products, at:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from August 9 through December 25, 2008.
+
+TER products are image cubes derived from CRISM hyperspectral targeted 
+observations, post-processed to standardize the illumination and 
+observation geometry and remove atmospheric gas absorptions and 
+instrument artifacts. MTRDRs are the same products map-projected using 
+terrain models of the Martian surface.
+
+To access all PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: OSIRIS-REX BENNU RELEASE 8
+
+This release of OSIRIS-REx data includes the following data, through 
+August 17, 2020:
+
+OCAMS raw and calibrated
+TAGCAMS raw
+OTES raw and calibrated
+OVIRS raw and calibrated
+SPICE
+
+OLA and Radio Science data for this time range are coming soon.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210305.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+https://sbn.psi.edu/pds/resource/orex/ocams.html
+https://sbn.psi.edu/pds/resource/orex/tagcams.html
+https://sbn.psi.edu/pds/resource/orex/ovirs.html
+https://sbn.psi.edu/pds/resource/orex/otes.html
+https://naif.jpl.nasa.gov/pub/naif/pds/pds4/orex/orex_spice/
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+ 
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: IMPORTANT NOTICE FOR DATA USERS
+
+PDS is making a change to its standards, which may impact users of PDS 
+data, especially if you have written custom scripts/software to read 
+data. This change to allowed line feed markers was previously posted 
+here with a request for input, and PDS is moving forward after 
+receiving positive feedback.
+
+This change is scheduled to go into effect June 2021 with IM version 
+1.16.0.0.
+
+The current PDS standard requires that each line in ASCII table data 
+and most text files ends with Carriage Return (CR) and Line Feed (LF) 
+characters, the standard format for Windows. The change being 
+implemented would additionally allow a second format used by Linux and 
+MacOS systems in which every line ends with a Line Feed character (LF) 
+alone.
+
+Most software applications can accommodate either format, regardless of 
+the operating system. However, this change could affect some end users, 
+especially those who have written software based on the current PDS 
+standard. The line delimiter will continue to be specified in the PDS4 
+label accompanying such data files. PDS3 products and labels are 
+unchanged.
+
+More details, and guidance for updating your tools, can be found at: 
+
+https://sbn.psi.edu/line-feed-notice
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: R&A PROPOSAL SUPPORT WEBPAGES
+
+NASA's Planetary Data System (PDS) announces new web pages designed to 
+provide a comprehensive set of resources for R&A proposers who are 
+considering archiving their data in the PDS: 
+
+https://pds.nasa.gov/home/proposers/ 
+
+These pages cover the how and why of archiving in the PDS, from 
+requesting letters of support for proposals to the entire archiving 
+process. Proposers are encouraged to consult these pages as a first 
+stop for seeking information about data archiving, followed by making 
+contact with the relevant PDS node(s). We welcome your input on the 
+usability of this new resource for the planetary community; please send 
+all feedback to Nancy Chanover (nchanove@nmsu.edu).
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+UREY FELLOW POSITION AT THE LUNAR AND PLANETARY INSTITUTE
+
+The Lunar and Planetary Institute, managed for NASA by the Universities 
+Space Research Association, is seeking a senior postdoctoral scholar 
+for its prestigious Urey Fellowship. This fellowship recognizes and 
+promotes excellence in planetary science research for scientists who 
+are at least two years past their doctorate and have a strong 
+publication record.
+
+More information can be found here:
+
+http://bit.ly/LPIUrey
+
+Questions may be directed to Lisa Gaddis at lgaddis@lpi.usra.edu.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+2021 INTERNATIONAL SUMMER SCHOOL IN ASTROBIOLOGY: SEARCHING FOR LIFE ON 
+MARS
+
+The 2021 International Summer School in Astrobiology will review and 
+assess the types of techniques that are necessary for detection of 
+biosignatures on Mars, including Raman spectroscopy, the isotopic and 
+chirality analyses that Rosalind Franklin rover will perform, and the 
+advanced techniques needed to analyze samples both in-situ and in 
+Earth-based laboratories.
+
+The central question will be "how can we unequivocally detect 
+biosignatures on Mars?" and the discussions will involve in-situ 
+rovers, sample collecting and return, laboratory analyses on Earth, and 
+the experiments that future human explorers may be able to perform. The 
+lectures will be focused on instrumentation and techniques.
+
+In addition to lectures, during the week the students will participate 
+in discussions about the theme, prepare and present group projects, and 
+take part in an excursion to a relevant astrobiological site near 
+Santander.
+
+Summer School Dates: Monday, September 6, through Friday, September 10, 
+2021, contingent on travel approval.
+
+https://astrobiology.nasa.gov/career-funding/astrobiology-summer-school
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+2021B NASA IRTF CALL FOR PROPOSALS
+
+The due date for the 2021B semester (August 1, 2021 to January 31, 
+2022) is Thursday, April 1, 2021. See our online submission form at: 
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php
+
+Information on available facility and visitor instruments and 
+performance can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/instruments 
+
+Observing on-site or remote observing is available with SpeX, MORIS, 
+and iSHELL; please see the instrument pages for more information, 
+including the exposure time calculators for SpeX and iSHELL. 
+
+The full call for proposals is available here:
+
+http://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+44TH SCIENTIFIC ASSEMBLY OF THE COMMITTEE ON SPACE RESEARCH (COSPAR 
+2022)
+
+July 16-24, 2022
+
+Athens, Greece
+ 
+Abstract Deadline: Mid-February 2022
+
+Contact: cospar@cosparhq.cnes.fr
+
+There will be approximately 140 meetings covering the fields of COSPAR 
+Scientific Commissions (SC) and Panels:
+
+SC A: The Earth's Surface, Meteorology and Climate
+SC B: The Earth-Moon System, Planets, and Small Bodies of the Solar 
+      System
+SC C: The Upper Atmospheres of the Earth and Planets Including 
+      Reference Atmospheres
+SC D: Space Plasmas in the Solar System, Including Planetary 
+      Magnetospheres
+SC E: Research in Astrophysics from Space
+SC F: Life Sciences as Related to Space
+SC G: Materials Sciences in Space
+SC H: Fundamental Physics in Space
+Panel on Satellite Dynamics (PSD)
+Panel on Scientific Ballooning (PSB)
+Panel on Potentially Environmentally Detrimental Activities in Space 
+      (PEDAS)
+Panel on Radiation Belt Environment Modelling (PRBEM)
+Panel on Space Weather (PSW)
+Panel on Planetary Protection (PPP)
+Panel on Capacity Building (PCB)
+Panel on Education (PE)
+Panel on Exploration (PEX)
+Panel on Interstellar Research (PIR)
+Panel on Innovative Solutions (PoIS)
+Task Group on Establishing a Constellation of Small Satellites (TGCSS)
+Special events: Interdisciplinary lectures, round table, etc.
+
+Go to: 
+
+https://www.cospar-assembly.org
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PLANETARY PROTECTION OFFICER SOUGHT
+
+Posting on behalf of NASA's Office of Safety and Mission Assurance, 
+where the agency's Planetary Protection Office resides. There is a 
+posting just open on USAJobs for NASA's Planetary Protection Officer, 
+which closes March 31. The position is an "SL" for Senior Level; these 
+positions are above GS-15 grade but not in the Senior Executive 
+Service. As with all civil service positions, US citizenship is 
+required. Please see full details, including contact info for any 
+questions you may have, and apply at this link:
+
+https://www.usajobs.gov/GetJob/ViewDetails/594075800
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MARCH 2021
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the March 
+2021 edition of the Mars Exploration Science Monthly Newsletter can be 
+found at: 
+
+http://mepag.jpl.nasa.gov 
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+LABORATORY ASTROPHYSICS DIVISION (LAD) VIRTUAL SUMMER MEETING
+
+June 7-9, 2021
+
+We invite you to submit abstracts (Deadline March 16, 2021) to the 
+Laboratory Astrophysics Division (LAD) meeting, held together with 
+238th AAS Virtual Meeting (June 7-9, 2021) for contributed Oral and 
+iPoster-plus (also oral) presentations. Abstracts from any area of 
+Laboratory Astrophysics (which includes Planetary Sciences) are 
+accepted. Important details are given below. Please mark your calendar 
+and join us from your home virtually.
+
+Room has been left in the schedule for several contributed talks and 
+iposter-plus talks! Please plan to attend and present your latest 
+results at what will be one of top meetings for Laboratory Astrophysics 
+in 2021.
+
+We encourage observers and modelers who use laboratory data to present 
+your work and form collaborations with the laboratory researchers. 
+Similarly, if you are a laboratory researcher, showcase your work and
+ meet observers and modelers for potential future collaborations.
+
+Laboratory astrophysics is the Rosetta Stone that enables astronomers 
+to understand and interpret the cosmos. 
+
+For abstract submission, registration, etc., please go to: 
+
+https://aas.org/meetings/aas238 
+
+For the LAD Executive Committee,
+
+Murthy Gudipati
+Vice-chair
+Laboratory Astrophysics Division
+American Astronomical Society
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+VENUS DECADAL PANEL MEETING SESSIONS
+
+Over the coming weeks, the Venus panel of the Decadal Survey on 
+Planetary Science and Astrobiology will hold a series of themed 
+sessions on various aspects of Venus science. These sessions are open 
+to the public, and will be held every two weeks starting Wednesday, 
+March 10, from 11:00 am to 1:00 pm Eastern.
+
+You can find information on session themes and speakers, as well as 
+connection details, on the Venus panel webpage on the National 
+Academies website:
+
+https://tinyurl.com/VenusPanel
+
+Best wishes,
+
+Paul Byrne (Panel Chair)
+Larry Esposito (Panel Vice-Chair)
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 24-26, 2021
+Emerging Researchers in Exoplanet Science Symposium (ERES) VI
+https://eres2021.com
+Virtual
+
+June 7-9, 2021
+Laboratory Astrophysics Division (LAD) Virtual Summer Meeting
+https://aas.org/meetings/aas238
+Virtual
+
+September 6-10, 2021
+2021 International Summer School in Astrobiology
+https://astrobiology.nasa.gov/career-funding/astrobiology-summer-school
+Santander, Spain
+
+July 16-24, 2022
+44th Scientific Assembly of the Committee on Space Research 
+(COSPAR 2022)
+https://www.cospar-assembly.org
+Athens, Greece
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

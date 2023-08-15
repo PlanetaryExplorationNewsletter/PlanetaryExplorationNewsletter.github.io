@@ -1,0 +1,357 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 37 (September 13, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC: MarsSI User Workshop
+2. Lowell Observatory: Tenure-Track or Tenured Astronomer
+3. NASA Postdoctoral Fellowships
+4. [NASA] Competitive Program for Science Museums, Planetariums and 
+   NASA Visitor Centers Plus Other Opportunities 
+5. [NASA] Community Announcement for the Heliophysics Explorer Program
+6. [NASA] Revised Text and New Due Date for NuSTAR Cycle 2
+7. Call for Proposals for the NASA Infrared Telescope Facility
+8. Job Openings at Space Telescope Science Institute
+9. Planetary Meeting Calendar Additions
+
+Commercial Announcement:
+
+C1. 5th International Workshop on LunarCubes
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC: MARSSI USER WORKSHOP
+
+Location: Room Mars, La Cité des Congrès, Nantes, France
+Time/date: Wed, 30 Sep, 14:00–15:30
+
+MarsSI (MARS System of information) is a web Geographic Information 
+System application which allows managing and processing of Martian 
+orbital data. From this application, the users are able to easily and 
+rapidly select observations, to process raw data via proposed automatic 
+pipelines and to get back final products which can be visualized under 
+Geographic Information Systems like ARCGIS and QGIS. Also, MarsSI 
+proposes automatic stereo-restitution pipelines to produce Digital 
+Terrain Models (DTMs) from CTX and HIRISE stereo pairs. This 
+application is part of the ERC project e-Mars founding from the 
+European Union’s Seventh Framework Program (FP7/2007-2013) (ERC Grant 
+Agreement No. 280168).
+
+A 1 1/2-hour workshop will be held at 2 pm Wednesday, September 30 
+during European Planetary Science Congress 2015 (Nantes, France) for 
+community members using martian orbital data. In the workshop, we will 
+present and describe the basic functions of MarsSI (data processing, 
+stereo-restitution...).
+
+MarsSI website can be found at:   
+
+https://emars.univ-lyon1.fr
+
+The contact is Cathy Quantin-Nataf (cathy.quantin@univ-lyon1.fr)
+-To get an account, please send an email to loic.lozach@univ-lyon1.fr
+-Tutorials (e.g., available observations, proposed processing 
+ pipelines) can be found at:
+
+https://www.youtube.com/channel/UCAn2ZPUPJ6g-ZaJkiOhue7A
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track 
+or tenured research positions in astronomy or planetary science. We 
+invite applicants at any career level who can build on current 
+strengths or open new areas for Lowell. A Ph.D. in astronomy, 
+planetary science, or a related field is required, as is an outstanding 
+record of research and demonstrated ability or potential to obtain 
+external research funding. Candidates are invited to describe how they 
+would make use of our observational facilities, but we will give equal 
+consideration to all research areas. The start date for this position 
+is flexible but desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07/Tenure-track-
+Astronomer.pdf
+
+To apply: Send applications electronically to:
+humanresources@lowell.edu
+
+Applications should include:
+(1) a cover letter and CV,
+(2) a research plan of 3 pages or less, and
+(3) names and mail/email addresses of three individuals who have 
+agreed to serve as references. Do not ask for reference letters to be 
+sent in advance.
+
+Applications must be received by November 1, 2015 for full 
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://apps.orau.gov/NPDoc/Catalog/17883
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1UA7aHs
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] COMPETITIVE PROGRAM FOR SCIENCE MUSEUMS, PLANETARIUMS AND NASA 
+VISITOR CENTERS PLUS OTHER OPPORTUNITIES 
+
+The NASA Office of Education is issuing a NASA Research Announcement 
+(NRA) to solicit proposals to support NASA-inspired S-STEM informal 
+education projects, including exhibits, through partnerships with K-12 
+schools or districts, youth-serving organizations, higher education, 
+and/or other agencies to support Federal STEM education goals. 
+
+Successful proposals typically will be funded as grants or cooperative 
+agreements depending on the size and complexity of the proposed 
+project.
+ 
+See NASA release NNH15ZHA001N at: 
+
+https://nspires.nasaprs.com/
+
+An organization that is operated by a K-12 school, district, higher 
+education institution, or other entity such as a planetarium, museum, 
+or youth-serving organization should refer to the special instructions 
+in the NRA (Section III – Eligibility).
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] COMMUNITY ANNOUNCEMENT FOR THE HELIOPHYSICS EXPLORER PROGRAM
+
+NASA’s Science Mission Directorate (SMD) is releasing this Community 
+Announcement concerning its intention to solicit investigations for 
+the Heliophysics Explorer Program. The Heliophysics Explorer Program 
+conducts Principal Investigator (PI)-led space science investigations 
+to advance NASA’s strategic objective in heliophysics, which is to 
+"Understand the Sun and its interactions with the Earth and the solar 
+system, including space weather." Additional information concerning 
+these areas of investigation is provided through appropriate links 
+found on the SMD homepage at:
+
+http://science.nasa.gov/heliophysics/
+  
+Further information will be posted on the Explorer Program Acquisition 
+website at: 
+
+http://explorers.larc.nasa.gov/ 
+
+Questions or comments about this intention to release a Heliophysics 
+AO may be addressed to the Heliophysics Explorer Program Scientist:
+ 
+Dr. Elsayed R. Talaat
+National Aeronautics and Space Administration
+ 
+E-mail: hq-explorers@nasa.gov (subject line to read "Heliophysics SMEX 
+AO").
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REVISED TEXT AND NEW DUE DATE FOR NUSTAR CYCLE 2
+
+The Nuclear Spectroscopic Telescope Array (NuSTAR) Guest Observer (GO) 
+Program solicits proposals for basic research relevant to the Nuclear 
+Spectroscopic Telescope Array (NuSTAR) mission.
+ 
+This amendment releases final text for Program Element D.10 NuSTAR 
+Cycle 2. The new text replaces in its entirety the prior version of the 
+text released with ROSES-2015 in February 2015. 
+
+This Amendment to the NASA Research Announcement "Research 
+Opportunities in Space and Earth Sciences (ROSES) 2015" (NNH15ZDA001N) 
+is posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+The NASA point of contact for programmatic information is Louis 
+Kaluzienski, louis.j.kaluzienski@nasa.gov. Technical questions 
+concerning this program element may be directed to Craig Markwardt 
+at Craig.Markwardt@nasa.gov.
+ 
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR PROPOSALS FOR THE NASA INFRARED TELESCOPE FACILITY
+
+The due date for the 2016A semester (February 1, 2016 to July 31, 2016) 
+is Thursday, October 1, 2015. 
+
+See the online submission form, available at:
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php
+
+Available instruments include: 
+(1) SpeX
+(2) CSHELL
+(3) MORIS 
+(4) PI-instruments including a low-resolution 3-14 micron spectrograph 
+    and a 8-25 micron high-resolution spectrograph. 
+
+Information on available instruments and performance can be found at:
+
+http://irtfweb.ifa.hawaii.edu/Facility
+
+Visitor instruments (available on a collaborative basis with the 
+instrument team) include: 
+
+TEXES (Matt Richter at richter@physics.ucdavis.edu)
+BASS (Ray Russell at ray.w.russell@aero.org)
+CELESTE (Don Jennings at donald.e.jennings@nasa.gov)
+HIPWAC (Ted Kostiuk at theodor.kostiuk-1@nasa.gov)
+
+Remote observing is available with SpeX, CSHELL, and MORIS.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+JOB OPENINGS AT SPACE TELESCOPE SCIENCE INSTITUTE
+
+https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID
+=*2357526FC6D627A1
+
+The Space Telescope Science Institute (STScI) has multiple openings
+(ranging from entry level to highly experienced) for Analysts and
+Scientists in our Instruments and Operations and Engineering
+Divisions. Research and Instrument Analysts (RIAs) will assist
+Instrument Scientists in the operational and developmental support
+for Hubble Space Telescope, James Webb Space Telescope, and Wide-Field
+InfraRed Survey Telescope missions. Science Operations Analysts
+support science planning and scheduling operations for the Hubble
+Space Telescope and testing of the James Webb Space Telescope science
+planning and scheduling ground system. Archive Analysts are responsible
+for processing and archiving science and engineering data from the
+Hubble Space Telescope, the Kepler spacecraft and soon the James Webb
+Space Telescope. Archive Scientists provide scientific, technical,
+computational expertise and support in the areas of archive operations,
+data processing operations, archival research, and problem
+investigation and analysis.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 21-23, 2016
+Binaries in the Solar System IV
+http://www.boulder.swri.edu/binaries4-mtg/
+Prague, Czech Republic
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+5TH INTERNATIONAL WORKSHOP ON LUNARCUBES
+
+Noted mathematician and artist Ed Belbruno will be a featured speaker 
+at the 5th International Workshop on LunarCubes, October 6-9 in San 
+Jose, CA.
+
+Belbruno's ballistic capture, or low-energy transfer theory that 
+coasted spacecraft into lunar orbit in the early 90's, has found new 
+life with its possible applications for reaching Martian orbit and will 
+be a major topic of discussion at the LunarCubes workshop.
+
+Don't miss this incredible opportunity to hear firsthand how ballistic 
+capture can open the Martian frontier for robotic missions, future 
+manned expeditions and colonization efforts.
+
+Ed Belbruno is also the author of Fly Me to the Moon: An insider's 
+Guide to the New Science of Space Travel and the subject of a recent 
+documentary, Painting the Way to the Moon, where he describes the 
+strong relationship between art and science.
+
+Register today to hear Ed Belbruno and other noted speakers at the 
+5th International Workshop on LunarCubes! Regular registration rates 
+end September 15, 2015.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

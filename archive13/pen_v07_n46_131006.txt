@@ -1,0 +1,279 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 46 (October 6, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. [NASA] PDS Odyssey Data Release 45
+3. Uranus/Neptune Workshop at DPS
+4. Lunar and Planetary Science Positions
+5. [NASA] PDS Cassini Data Release 35
+6. Mars 2020 Pre-proposal Conference Delayed
+7. Job Announcement - SSI Executive Director
+8. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The October 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This Month’s topic is on "Young gullies and their relationships to the 
+dust-ice mantle on Mars".
+
+Image and caption contributed by Jan Raack, Institut für Planetologie, 
+WWU Münster, Germany.
+
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS ODYSSEY DATA RELEASE 45
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 45, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 133-135)
+SPICE
+
+The gamma sensor component of the GRS instrument suite will no longer 
+return data. The HEND and neutron spectrometer components continue to 
+operate, but there are no neutron spectrometer data in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20131001.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+URANUS/NEPTUNE WORKSHOP AT DPS
+
+Time:  Wednesday, 9 October 2013, 12:00 - 1:30 pm
+Location:  Plaza F
+
+A high-level summary of the mid-September conference "Uranus beyond 
+Voyager 2" (held in Meudon) will be presented, after which we will 
+discuss recent science results and possible future missions to Uranus 
+and Neptune. Most of the meeting time will be devoted to this group 
+discussion. We will not have formal science presentations, though 
+projection capabilities will be available to support the conversation 
+as needed.
+
+Organizer:  Mark Hofstadter
+Mark.Hofstadter@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LUNAR AND PLANETARY SCIENCE POSITIONS
+
+Florida Space Institute of the University of Central Florida (UCF), 
+Orlando, Florida 
+
+The Florida Space Institute (http://fsi.ucf.edu/), a multi-
+disciplinary center devoted to facilitating and conducting leading 
+edge basic applied space research, and space education programs in 
+fields ranging from planetary science to space physics to Earth 
+science. FSI is now seeking applications for lunar, planetary and 
+extra-solar research scientist positions.  
+
+UCF and FSI have an outstanding group of planetary scientists, 
+primarily working in small body studies, Mars, and exoplanets, and we 
+are committed to becoming a premier institution in all aspects of 
+planetary science and education. See: 
+
+http://planets.ucf.edu/
+
+Of particular interest to FSI are Principal Investigators of lunar 
+planetary science research grants, centers, and mission experiments who 
+are seeking greater career opportunities and the low cost of living 
+enjoyed by Floridians.
+
+Review of applications will begin October 31, 2013 and will continue 
+through December 31, 2013. Applicants should apply on line at: 
+
+http://wwww.jobswithucf.com and click on the 'Search Available 
+Positions' option on the top left. Once there, type in position 
+numbers 42117 (at least 3 years experience), 42554 (at least 5 years 
+experience), 42542 (at least 10 years experience) to search for these 
+positions.  
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS CASSINI DATA RELEASE 35
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Cassini data, Release 35, October to December 2012, for 
+instruments:
+
+CDA
+CIRS
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+HRD data for this period was delivered earlier. CAPS data for this 
+period are not available yet.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20131004.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+  
+http://pds.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS 2020 PRE-PROPOSAL CONFERENCE DELAYED
+ 
+As a result of the continuing Government shutdown, the Mars 2020 Pre-
+Proposal Conference (PPC), originally scheduled for October 8, 2013, 
+has been delayed. The conference will be rescheduled once the 
+Government employees return to work. The new date and time, as well as 
+information on accessing the PPC, will be advertised as soon as 
+possible on NSPIRES at:
+
+http://solicitation.nasaprs.com/Mars2020  
+
+The AO has been updated to indicate that the PPC date is now "TBD".
+ 
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: SSI EXECUTIVE DIRECTOR
+
+Start date: September 2014
+
+Application period: October 2013 through January 2014
+
+Further information: 
+
+http://www.spacescience.org
+
+The Space Science Institute (SSI) in Boulder, CO, is seeking a dynamic, 
+forward-looking individual to lead the organization as Executive 
+Director. Qualified candidates will have a strong reputation within a 
+scientific field relevant to the institute (e.g., planetary science, 
+astrophysics, space physics, or Earth science) and will possess 
+excellent leadership, managerial, interpersonal, and administrative 
+skills. The Executive Director will be expected to maintain his/her 
+own independent research program to help support a dedicated portion 
+(ideally, no less than 25%) of time/salary. Candidates must have a 
+Ph.D. and approximately ten years of experience in project management.
+
+Applications should include a cover letter, CV, description of current 
+research/education interests, and contact information for three 
+references. Inquiries and applications should be sent to:
+
+searchcommittee@spacescience.org
+
+SSI is a non-profit, public-benefit 501(c)3 corporation and operates 
+as an Equal Opportunity employer. This job description is general 
+in nature and should not be interpreted as a comprehensive inventory 
+of all duties, responsibilities and qualifications of the position. 
+More information about SSI can be found at:
+
+http://www.spacescience.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 28 - May 3, 2014
+21th Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua/
+Kyiv, Ukraine
+
+May 19-21, 2014
+Venus Exploration Targets Workshop
+http://www.hou.usra.edu/meetings/venus2014/
+Houston, TX
+
+July 28 - August 1, 2014
+11th Annual Meeting of the Asia Oceania Geosciences Society
+http://www.asiaoceania.org/aogs2014/public.asp?page=home.htm
+Sapporo, Japan
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

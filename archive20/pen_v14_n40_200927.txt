@@ -1,0 +1,136 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 40 (September 27, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. JPL Postdoc in Ocean Worlds Ice Shells
+2. First Meetings of the Decadal Survey Scheduled
+3. Important Notice for NASA PDS Data Users
+4. Planetary Meeting Calendar Additions
+5. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JPL POSTDOC IN OCEAN WORLDS ICE SHELLS
+
+https://jpl.jobs/jobs/2020-12443-Postdoctoral-Researcher-Ocean-Worlds-Ice-Shell-Modeling
+ 
+In search of an enthusiastic researcher to join a wonderful group of
+icy explorers at JPL! JPL is accepting applications for a postdoctoral
+research position in geophysical modeling relevant to the icy layers of
+Jupiter's moon Europa, and potentially to other ocean worlds. This may
+involve modeling of tectonic processes, constructing analytical or
+first-principles arguments, describing ice shell evolution, melting,
+freezing, and/or non-ice chemistry incorporation. These results will be
+used to understand the potential for future measurements by robotic
+spacecraft, and to derive environmental constraints on potential future
+concepts for subsurface and ocean access. Dr. Samuel Howell, an ocean
+worlds research scientist in the Planetary Interiors and Geophysics
+group, will serve as the primary postdoctoral advisor. Please contact
+samuel.m.howell@jpl.nasa.gov with any questions. Candidates should have
+a recent Ph.D. in geology, planetary science, physics, or a related
+field, with a strong background in analytical, numerical, and/or
+statistical analysis as applied to geophysical research. Experience in
+research relevant to the outer planet satellites and the impacts of
+geophysical processes on habitability are highly desirable
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FIRST MEETINGS OF THE DECADAL SURVEY SCHEDULED
+ 
+The Steering Group of the Decadal Survey on Planetary Science and
+Astrobiology will hold its first three meetings on the following dates:
+30 September, 2 October, and 16 October. Agendas and URLs will be
+posted on the survey's website as they become available.
+
+http://nas.edu/planetarydecadal
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+IMPORTANT NOTICE FOR NASA PDS DATA USERS
+
+PDS is considering a change to its standards, which may impact users of
+PDS data.
+
+The current PDS standard requires that each line in ASCII table data
+and most text files ends with Carriage Return (CR) and Line Feed (LF)
+characters, the standard format for Windows. The change under
+consideration would additionally allow a second format used by Linux
+and MacOS systems in which every line ends with a Line Feed character
+(LF) alone.
+
+Most software applications can accommodate either format, regardless of
+the operating system. However, this change could affect some end users,
+especially those who have written software based on the current PDS
+standard. The line delimiter will continue to be specified in the PDS4
+label accompanying such data files. PDS3 products and labels would be
+unchanged.
+
+If and how PDS proceeds with this change depends in large part on the
+response of the community. Please send us feedback at sbn@psi.edu.
+Please indicate whether you support this change, and how much advanced
+notification you would need (e.g., for software revision). 
+
+More details can be found at:
+
+https://sbn.psi.edu/line-feed-notice
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 14-16, 2021
+The UK Exoplanet Community Meeting 2021 
+http://www.ukexom2020.uk
+Birmingham, UK
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new articles.
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

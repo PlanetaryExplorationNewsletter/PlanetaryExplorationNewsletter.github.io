@@ -1,0 +1,285 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 23 (June 6, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Mark V. Sykes, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Data System Enceladus Cartographic Volume Update
+2. Planetary Scientist Position - Max Plank Institute
+3. Planetary Geomorphology Image of the Month
+4. Postdoctoral or Scientist Position in Small Bodies Research at
+   University of Maryland
+5. [NASA PDS] Mars Reconnaissance Orbiter Data Release 13
+6. Special Issue of Planetary and Space Science - "Titan Through Time"
+7. Second announcement:  Next Generation Lunar Scientists and 
+   Engineers (NGLSE) Workshop
+8. Basic Science Observations with SOFIA
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY DATA SYSTEM ENCELADUS CARTOGRAPHIC VOLUME UPDATE
+
+The Imaging Node of the Planetary Data System has published a revision 
+for the Cassini Imaging Science System (ISS) cartographic volume
+coiss_3002.  This can be found on the Imaging Node website at:
+
+http://pds-imaging.jpl.nasa.gov/data/cassini/cassini_orbiter/
+coiss_3002/
+
+This volume contains the cartographic image of Enceladus.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY SCIENTIST POSITION - MAX PLANK INSTITUTE
+
+The Max Planck Institute for Solar System Research at Katlenburg-Lindau 
+(Germany, http://www.mps.mpg.de/) is looking for a Planetary Scientist 
+in the field of planetary geology for the DAWN Framing Camera Project. 
+The successful candidate will join the DAWN FC group at MPS and will 
+be involved in the analysis of the images that the DAWN spacecraft will 
+return from 4 Vesta. In addition, the successful candidate will be 
+involved in the FC operations planning and data archiving process. The 
+ideal candidate has several years of experience in the following areas: 
+Planetary (surface) geology and mineralogy, asteroid science or related 
+science (e.g. Moon, Mars), image processing and analysis of remote 
+sensed data using e.g. ENVI or ISIS. Details about the open position 
+and the application process can be found on our homepage: 
+
+http://www.mps.mpg.de/de/aktuelles/jobs/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June 'Image of the month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/jun10image.html
+ 
+This month's topic is on "Rectilinear Fluvial Networks on Titan", 
+contributed by Devon Burr, Sarah Drummond, and Robert Jacobsen.
+ 
+Past images and captions are available at: 
+
+http://www.psi.edu/pgwg/images/index.html
+ 
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL OR SCIENTIST POSITION IN SMALL BODIES RESEARCH AT 
+UNIVERSITY OF MARYLAND
+
+The Small Bodies Group in the Department of Astronomy at the University 
+of Maryland, College Park, has an opening available for a Post-Doctoral 
+Researcher in small bodies.  Our group specializes in remote sensing 
+observations, both ground-based and space-based, and theoretical
+modeling primarily of comets, asteroids, and the Moon.  Our group is 
+involved with the planning, acquisition and analysis stages on the 
+following missions and instrument teams:  EPOXI, the M3 spectrometer on 
+Chandrayaan, Stardust NExT, Rosetta, and the Russian Phobos sample
+return mission.  We also operate the Small Bodies Node of NASA's
+Planetary Data System, which maintains all mission data related to
+small bodies in the Solar System.
+
+Applicants in search of 1) a limited-term post-doctoral position OR 
+2) a longer-term position in which they bring and continue to apply for 
+grants are welcome.
+
+Anyone interested in applying should send a CV, a short statement 
+(no more than 2 pages) of research goals and their connection to 
+research carried out at Maryland, and arrange for three letters of 
+reference to be sent electronically to both: 
+
+ma@astro.umd.edu 
+
+and 
+
+sbjob@astro.umd.edu
+
+Applications received by July 15, 2010 will receive full consideration.
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA PDS] MARS RECONNAISSANCE ORBITER DATA RELEASE 13
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments: CRISM, HiRISE, MCS, RSS, SHARAD, and SPICE.
+
+No CTX/MARCI data are included in this release, as both instruments 
+were off due to the spacecraft having been in safe mode for the 
+delivery period.
+
+In general, MRO Release 13 includes data collected August 9, 2009 
+through November 8, 2009.    
+
+The HiRISE Operations Center has released HiRISE image data acquired 
+over the time period spanning January 17, 2010 through May 6, 2010 in 
+the orbit range of 16,300 to 17,699.  This release contains 5 TB of 
+image data in 75,032 products and 4 TB in 191,072 extra products.  
+All HiRISE RDR data products for March 24, 2006 - June 27, 2007 
+(Orbits 1 - 4,299) have been reprocessed (4,135 RDRs, with extras, 
+totally 6.2 TB).
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100601-2.html
+
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html                      
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SPECIAL ISSUE OF PLANETARY AND SPACE SCIENCE - "TITAN THROUGH TIME"
+
+A special issue of the journal Planetary and Space Science is currently
+being arranged, on the theme of "Titan Through Time: Formation,
+Evolution and Fate".
+
+The issue was originally conceived to capture science presented at the
+recent workshop held at NASA Goddard Space Flight Center, April 6-8th
+2010, with the same name.  However, the PSS special issue is open to 
+any authors wishing to submit an original contribution related to the 
+topic.  The theme is interpreted in a broad sense, encouraging articles 
+on not only Titan data analysis and modeling, but also progress in key 
+related scientific areas such as laboratory experimentation, which 
+having an important bearing on the interpretation of Titan's history 
+on daily, seasonal, climatic and cosmological timescales.
+
+The deadline for article titles, author lists and abstracts (to
+conor.a.nixon@nasa.gov) is June 30th. First submission of the complete
+article is expected by August 31st: late submissions will be considered
+for a regular issue of PSS. Articles should adhere to regular PSS
+formatting, and authors will be informed of detailed submission
+instructions in July.
+
+We look forward to reviewing a wide range of contributions, and a very
+successful PSS Special Issue on this exciting and topical theme.
+
+Conor Nixon & Ralph Lorenz, Guest Editors
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SECOND ANNOUNCEMENT:  NEXT GENERATION LUNAR SCIENTISTS AND ENGINEERS 
+(NGLSE) WORKSHOP
+
+Interested in the future of lunar science and engineering?  Want to 
+connect with other like-minded individuals?   Then attend the free Next 
+Generation Lunar Scientists and Engineers (NGLSE) workshop!  
+
+http://lunarscience.arc.nasa.gov/events/nextgenworkshop   
+
+The day-long workshop will be held at Ames on Monday, July 19 (the day 
+before the NASA Lunar Science Forum: 
+
+http://lunarscience2010.arc.nasa.gov/
+
+Lunch will be provided.  Space is limited to 30 participants, at least 
+half of which are reserved for students.  Small travel stipends are 
+also available for students.  To register, download an application 
+from: 
+
+http://lunarscience.arc.nasa.gov/events/nextgenworkshop 
+
+and return it to Lora Bleacher (Lora.V.Bleacher@nasa.gov). 
+The application deadline is June 10.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+BASIC SCIENCE OBSERVATIONS WITH SOFIA
+
+The Call for Proposals for Basic Science observations with the 
+Stratospheric Observatory For Infrared Astronomy (SOFIA) is now open. 
+The deadline for responding to the call is Friday, July 30, 2010.
+
+The Basic Science program will consist of about 75 hours of on-sky 
+exposure with either the FORCAST mid-infrared camera or the GREAT 
+sub-millimeter heterodyne spectrometer. The observing time is 
+expected to take place during a 2-3 month interval within the time 
+frame of March 1 through August 31, 2011.
+
+Documents needed to consider observational possibilities and 
+constraints, and to prepare and submit observing proposals, are at:
+
+http://www.sofia.usra.edu/Science/proposals/basic_science
+
+Those documents include the Call for Proposals, the SOFIA Observers 
+Handbook for Early Science, the Early Science Calibration Plan, 
+exposure estimation tools and tutorials and the "Reserved 
+Observations Catalogs" for the two instruments (Call for Proposals, 
+Appendix A).
+
+Proposals are invited from the world scientific community. Successful 
+proposers with U.S. professional affiliations will be eligible to 
+receive funding to support the acquisition, analysis and publication 
+of Basic Science data, consistent with other NASA-sponsored observing 
+programs.
+
+Please direct questions and comments to:
+
+sofia_help@sofia.usra.edu
+
+We look forward to your participation in this exciting research 
+opportunity.
+
+SOFIA Science Mission Operations
+
+(Editor note: Edited for length)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 19-24, 2010
+7th International Workshop on Planetary, Solar and Heliospheric Radio 
+Emissions (PREVII)
+http://pre7.oeaw.ac.at/
+Graz, Austria
+
+December 5-7, 2011
+The First Kepler Science Conference
+http://kepler.nasa.gov/Science/keplerconference/
+Moffett Field, CA
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

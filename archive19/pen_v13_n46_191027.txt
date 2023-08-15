@@ -1,0 +1,420 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 46 (October 27, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. COSPAR2020 B0.1: Unifying Planetary System Formation Out of
+   Elementary Building Blocks
+2. Upcoming Proposal Writing Workshops for R&A Proposals
+3. Job Opportunity: GIS Teaching Position
+4. Postdoctoral Research Scholar in Planetary Geophysics
+5. [NASA] Amendment to the SALMON-3 AO
+6. EGU 2020 Session GM2.2: Landform Mapping
+7. [NASA] Request for Information: Application of Artificial
+   Intelligence/Machine Learning Tools to NASA Science
+8. Mars Architecture Strategy Working Group Is Asking for Your Input
+9. Postdoctoral Position in Early Mars Geochemistry
+10. Research Associate in Data Science, Machine Learning, and
+    Scientific Programming
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COSPAR2020 B0.1: UNIFYING PLANETARY SYSTEM FORMATION OUT OF ELEMENTARY
+BUILDING BLOCKS
+
+Event B0.1 at the 43rd COSPAR Scientific Assembly that will be held in
+Sydney, Australia, 15-22 August, 2020: "Unifying Planetary System
+Formation Out of Elementary Building Blocks: From Dust, Gas and Ice to
+Our Solar System and Exoplanets".
+
+Abstract submission deadline is 14 February 2020
+
+https://www.cospar2020.org/
+
+https://www.cospar-assembly.org/ 
+
+Confirmed Invited Speakers:
+
+Fred Ciesla (University of Chicago, U.S.A.); Joanna Drazkowska
+(University Observatory of the Ludwig Maximilian University of Munich,
+Germany); Davide Fedele (INAF/Osservatorio Astrofisico di Arcetri,
+Italy); Mark Krumholz (ANU, Australia); Jeong-Eun Lee (Kyung Hee
+University, South Korea); Yamila Miguel (Leiden University, The
+Netherlands); Paola Pinilla (Max Planck Institute for Astronomy in
+Heidelberg, Germany); Alessandro Sozzetti (INAF/Osservatorio
+Astronomico di Torino, Italy); Frances Westall (CNRS in Orleans,
+France); Makoto Yoshikawa (JAXA, Japan)
+
+Main Scientific Organizers:
+
+Maria Drozdovskaya (CSH; Switzerland) & Diego Turrini (INAF-IAPS;
+Italy)
+
+Scientific Organizing Committee:
+
+Michael Ireland, ANU, Australia; Stavro Ivanovski, INAF-OATS, Italy;
+Niels Ligterink, CSH, Switzerland; Gianfranco Vidali, Syracuse, U.S.A.;
+Eric Herbst, UVA, U.S.A.; Martin Rubin, UniBe, Switzerland; Trevor
+Ireland, ANU, Australia; Raphael Marschall, SwRi, U.S.A.; Sho Sasaki,
+Osaka, Japan; Sean Andrews, CfA, U.S.A.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+UPCOMING PROPOSAL WRITING WORKSHOPS FOR R&A PROPOSALS
+
+The success of scientists depends upon their ability to obtain
+funding. One of the largest challenges is to create strong proposals.
+Using Research Opportunities in Space and Earth Sciences (ROSES) from
+NASA Science Mission Directorate as a template, this presentation will
+focus on teaching the audience key points to communicating science
+through successful proposal writing. As a result of this session,
+participants will be able to understand the proposal writing,
+reviewing, and selection process for federally funded research. How to
+understand one's values and maintain those throughout this process will
+also be focused on during this workshop.
+
+Workshops will be held at the follow locations:
+
+The University of Hawaii at Manoa
+Wednesday, Oct 30, 2019, 2-4 PM HST
+POST 601
+Note: registration not required. 
+This will be a shortened Tips and Tricks Talk.
+
+https://www.higp.hawaii.edu/seminars/2019seminars.html?fbclid=
+IwAR3l8Af3rGwEeCO7d2RRCAoHjLR-G5EZb9Bo4I27-J-3H6Mj_Ri2xPffD40
+
+The AGU Fall Meeting:
+Sunday, Dec 8, 2019: 8 am-noon PDT
+Grand Hyatt, Sunset Room
+Registration required for this workshop through the meeting website.
+
+https://www.agu.org/fall-meeting
+
+The 235th American Astronomical Society Meeting:
+January 4, 2020: 10 am-4 pm HST (lunch break included)
+Honolulu Convention Center, Room 307 B
+Registration required for this workshop through the meeting website.
+
+https://aas.org/meetings/aas235 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JOB OPPORTUNITY: GIS TEACHING POSITION
+
+Tulane University's Department of Earth & Environmental Sciences seeks
+to fill a Professor of Practice position to begin in July 2020. The
+responsibilities of this position include teaching courses related to
+the department's GIS Certificate Program, teaching courses in the
+applicant's area of specialization, and service to the educational
+mission of the department and university. Opportunities exist for
+advising undergraduate research and development of service-learning
+courses. A doctoral degree in an environmental science or related
+field is required. Applicants will be expected to teach introductory
+and advanced GIS courses.
+
+Applications are due November 1 and details regarding the position and
+the application materials can be found at: 
+
+http://apply.interfolio.com/64259
+
+Questions regarding the position can be addressed to Dr. Nancye Dawers
+(ndawers@tulane.edu)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL RESEARCH SCHOLAR IN PLANETARY GEOPHYSICS
+
+The School of Earth and Space Exploration (SESE) at Arizona State
+University invites applications for a postdoctoral research scholar in
+Planetary Geophysics to work with Profs. Joseph O'Rourke and Linda
+Elkins-Tanton. We seek an individual with the mathematics and physics
+training and expertise with scientific programming to model the surface
+temperature of an asteroid as it receives varying insolation over the
+course of the year. This work will be in service to the NASA Psyche
+mission and in collaboration with Prof. Elkins-Tanton. This individual
+will also undertake related research on the formation, evolution,
+and/or characterization of large asteroids and protoplanets in
+partnership with Prof. O'Rourke. The successful candidate will be
+encouraged to pursue research of their own interest and professional
+development in preparation for seeking a permanent position after their
+fellowship.
+
+The initial appointment is for one year with subsequent annual renewal
+for up to two additional years contingent upon satisfactory
+performance, the needs of the university, and availability of
+resources. The start date is no later than August 1, 2020. This fiscal
+year position comes with a competitive salary, funding for travel,
+moving expenses, and full health insurance coverage.
+
+http://apply.interfolio.com/70090
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] AMENDMENT TO THE SALMON-3 AO
+ 
+The common SALMON-3 AO body provides a base for investigations referred
+to as Missions of Opportunity (MO). MOs are SALMON-3 amendments that
+NASA releases as a separate, i.e., a lettered program element
+appendix (PEA). Because NASA released PEAs lettered I through O prior
+to the issuance of Amendment number 17, these existing PEAs are not
+impacted by the Amendment 17 to the SALMON-3 Common AO body. PEAs
+released after the date of Amendment 17, however, will be subject to
+these changes unless otherwise specified in the PEA.
+
+NASA made multiple changes that range from simple updates, e.g., a new
+point of contact for SALMON-3's common AO body, formatting corrections,
+e.g., typos, etc., to complex matters related to requirements, sections
+and common appendices. 
+
+Proposers should not rely on this email announcement of SALMON-3 AO
+Amendment 17, because it is not a complete or verbatim summary of the
+changes. Proposers must visit NSPIRES to download the SALMON-3 AO and
+read carefully. For the full text search on "SALMON-3" under open
+solicitations at:
+
+https://nspires.nasaprs.com
+
+Comments and questions: Michael.H.New@nasa.gov (subject line to read
+"SALMON-3 AO").
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EGU 2020 SESSION GM2.2: LANDFORM MAPPING
+
+Please consider submitting an abstract to the following PICO session at
+the 2020 EGU General Assembly (3-8 May 2020 in Vienna), which this year
+has expanded its scope to include the theme of planetary mapping,
+including landing site characterisation for planetary lander and rover
+missions:
+
+GM2.2 Landform mapping - recent advances in data collection and mapping
+approaches
+
+This session aims to showcase recent advances in landform mapping, and
+we invite contributions related to mapping of specific landforms as
+well as whole landsystems in different environments and on other
+planetary bodies. We particularly welcome studies that (a) demonstrate
+the potential of multi-method and innovative mapping approaches, (b)
+showcase novel methods of data collection to solve previously
+overlooked problems, or (c) present mapping of previously unmapped or
+newly-emerging landscapes.
+
+An introductory keynote will be given by Mark Johnson (University of
+Gothenburg) on 'The LiDAR revolution in glacial geomorphology: its
+gifts and challenges'.
+ 
+Conveners:
+Benjamin Chandler, Frances Butcher, Marek Ewertowski, Ramon Pellitero
+Ondicol, and Aleksandra Tomczyk
+ 
+Abstract submission:
+https://meetingorganizer.copernicus.org/EGU2020/session/37480
+ 
+Support application deadline:
+1 December 2019, 13:00 CET
+ 
+Abstract deadline:
+15 January 2020, 13:00 CET
+
+Best wishes,
+ 
+Ben, Frances, Marek, Ramon, and Aleksandra
+GM2.2 conveners
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] REQUEST FOR INFORMATION: APPLICATION OF ARTIFICIAL
+INTELLIGENCE/MACHINE LEARNING TOOLS TO NASA SCIENCE
+
+The Science Mission Directorate (SMD) seeks suggestions for topics
+relevant to 2014 SMD Science Plan amenable to application of Artificial
+Intelligence/Machine Learning tools for the 2020 Frontier Development
+Laboratory Program.
+ 
+Responses due: 11:59 PM (ET) November 7, 2019
+ 
+FDL is an applied artificial intelligence (AI) research accelerator
+leveraging the newest developments in AI and Machine Learning (ML)
+technologies from academia and the private sector and applying them to
+challenges relevant to NASA's goals in space and earth sciences. Teams
+of computer scientists and space and earth scientists work to solve
+problems important to NASA and humanity's future within a given time
+frame. Each team is made up of four participants (two computer
+scientists and two domain scientists). The teams are mentored by
+subject matter experts (SMEs) in both science domains and AI/ML. FDL is
+a public-private partnership between NASA and the SETI Institute,
+commercial and academic institutions and other foreign and domestic
+agencies.
+
+Submissions shall be as a Notice of Intent (NOI) via the NSPIRES page
+for Request for Information: Application of Artificial
+Intelligence/Machine Learning Tools to NASA Science NNH20ZDA002L.
+
+Questions: Madhulika Guhathakurta (madhulika.guhathakurta@nasa.gov) and
+Michael Seablom (michael.s.seablom@nasa.gov)
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS ARCHITECTURE STRATEGY WORKING GROUP IS ASKING FOR YOUR INPUT
+
+The Mars Architecture Strategy Working Group (MASWG) requests
+input on Mars mission concepts by Friday, November 22.
+ 
+NASA has formed a Mars Architecture Strategy Working Group
+(MASWG). MASWG would like to understand the types of mission
+concepts that could be feasible to launch in the period 2020-2035, in
+parallel with or following Mars Sample Return. 
+
+We are asking the community to share high-level one-page descriptions
+of potential mission concepts with the working group. The goal is to
+understand the breadth of mission types and approaches in each size
+class. This is not an opportunity for funding, to get your mission
+concept into a queue, or to promote any single mission. All mission
+types up through New Frontiers cost class are requested.
+
+Submitters should use the template (email MASWGcomments@jpl.nasa.gov
+for a copy) and submit to MASWGcomments@jpl.nasa.gov. All inputs will
+be treated as confidential; submissions will be kept internal to the
+MASWG and will not be distributed to NASA HQ or to the community.
+ 
+Details of MASWG and this request will be discussed in the MEPAG
+Virtual Meeting (VM7) on Wednesday, November 13.
+  
+[Edited for length] 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL POSITION IN EARLY MARS GEOCHEMISTRY
+
+The Department of Planetology and Habitability at the Centro de
+Astrobiologia (CAB) invites applications for one postdoctoral position
+to support investigations on the geochemical nature of the early Mars
+environments. We are seeking enthusiastic and excellent candidates to
+join a planetary science team funded by the European Research Council
+(ERC), working with Dr. Alberto Fairen in the Project "MarsFirstWater"
+(ERC Consolidator Grant) broadening the efforts of the Project
+"icyMARS" (ERC Starting Grant).
+
+Applicants should have a recent Ph.D. in Geochemistry, and a background
+in Mars research and Planetary Science.
+
+The position, placed in Madrid, would be for two years, with possible
+extension to a third year contingent upon satisfactory performance.
+Benefits include working in a young enthusiastic team at the leading
+Astrobiology institution in Europe, full social benefits according to
+the Spanish social care system, and a very competitive salary.
+
+Applicants should send a letter of interest, a curriculum with a list
+of publications, a brief (maximum two pages) statement of research
+interests, and a list of three references, no later than December 31
+2019, to Alberto Fairen (agfairen@cab.inta-csic.es).
+
+The starting date is negotiable, but should be no later than March 1,
+2020. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+RESEARCH ASSOCIATE IN DATA SCIENCE, MACHINE LEARNING, AND SCIENTIFIC
+PROGRAMMING
+
+The department of Geophysics of the GFZ German Research Centre for
+Geosciences invites applications for 1 position of Research Associate
+in Data Science, Machine Learning, and Scientific Programming in the
+group "Magnetospheric Physics".
+
+Candidates should have a PhD in space physics, plasma physics, or
+related field. Experience in programming (in particular in code
+development), as well as a strong knowledge of programming languages
+and operating systems is also required. Experience in machine learning,
+data mining, and data assimilation is a plus.
+
+Deadline: 17 November 2019
+
+For more details please see:
+
+https://tinyurl.com/PDGFZ-ML-2019
+
+The work will be performed in the context of the EU Horizon 2020-funded
+consortium PAGER led by GFZ Potsdam, and of the Helmholtz
+Association-funded pilot project MAP also led by GFZ. The primary aim
+of PAGER is to provide space weather predictions initiated from
+observations on the Sun and to predict radiation in space and its
+effects on satellite infrastructure. In the frame of the MAP project,
+we aim to use ML tools to model the plasma density in the ionosphere
+and plasmasphere.
+
+For questions please contact Prof. Shprits: yshprits@gfz-potsdam.de
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 14-16, 2020
+Small Bodies Assessment Group (SBAG) Meeting
+https://www.lpi.usra.edu/sbag/meetings
+Pasadena, CA
+
+March 30-April 3, 2020
+Thermal Infrared Astronomy - Past, Present and Future
+http://www.eso.org/sci/meetings/2020/IR2020.html
+Garching, Germany
+
+September 28-October 2, 2020
+From Clouds to Planets II: The Astrochemical Link
+https://events.mpe.mpg.de/event/12/
+Berlin, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

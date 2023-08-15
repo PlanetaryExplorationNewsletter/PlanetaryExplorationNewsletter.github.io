@@ -1,0 +1,478 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 35 (August 28, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Reminder: (Artemis II) E.11 Research Pathfinder for Beyond 
+   Low Earth Orbit Space Biology Step-1 Proposals Are Due September 1
+2. [NASA] SMD Seeks Volunteer Reviewers for Research Proposals
+3. Mars 2020/MSR Sample Depot Science Community Workshop
+4. Arecibo Observatory Quarterly Newsletter Now Available
+5. Planetary Impacts Community Wiki Project
+6. Lunar Volatiles '22 Meeting Moved to CO & Abstract Deadline Extended
+7. Call for Papers: The Planetary Science Journal Focus Issue on 
+   Centaurs
+8. 2023A NASA Keck Call for Proposals
+9. Advance Notice of Joint JWST/Keck Programs
+10. ESA Research Fellowships in Space Science
+11. Academy Scientist in Machine Learning
+12. Postdoc Opportunity at UC Berkeley on MAVEN Mission
+13. Job Announcement - Tenure Track Faculty Position in Planetary 
+    Science at Georgia Institute of Technology
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] REMINDER: (ARTEMIS II) E.11 RESEARCH PATHFINDER FOR BEYOND LOW
+EARTH ORBIT SPACE BIOLOGY STEP-1 PROPOSALS ARE DUE SEPTEMBER 1
+
+On August 11, official text and due dates for Artemis II Research
+Pathfinder for Beyond Low Earth Orbit Space Biology Investigations were
+added to ROSES as program element E.11. This program solicits proposals
+for biological research experiments to be flown beyond LEO as internal
+payloads on the capsule of the Orion spacecraft during the upcoming
+Artemis II mission. To be eligible, proposals to this program element
+must utilize and will be limited to only one of the two following model
+organisms: Drosophila melanogaster (fruit fly) or Caenorhabditis
+elegans (nematode).
+
+Proposals to this program will be submitted by a binding two-step
+process in which the Notice of Intent is replaced by a mandatory Step-1
+proposal that must be submitted by an organization's Authorized
+Organizational Representative. Only proposers who submit a Step-1
+proposal are eligible to submit a Step-2 (full) proposal. Step-1 
+proposals are due September 1, 2022, and Step-2 proposals are due 
+October 13, 2022.
+
+Questions concerning this program element may be directed to Sharmila
+Bhattacharya at spacebiology@nasaprs.com.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SMD SEEKS VOLUNTEER REVIEWERS FOR RESEARCH PROPOSALS
+
+NASA's Science Mission Directorate is seeking subject matter experts to
+serve as external (email) and/or virtual panel reviewers of proposals
+to the "ROSES" research solicitation. All of the reviewer volunteer
+forms may be accessed on the main landing page at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels
+
+Once on a form, click the boxes to indicate the topics in which you
+consider yourself to be a subject matter expert. If your skills match
+our needs for that review and there are not too many organizational
+conflicts of interest, we will contact you to discuss scheduling.
+
+A wide range of volunteer reviewer web forms have been (re)posted
+recently including:
+
+- Heliophysics Technology and Instrument Development for Science
+- Heliophysics Early Career Investigator Program
+- Weather and Atmospheric Dynamics
+- Emerging Worlds
+- Solar System Workings
+- Planetary Data Archiving and Restoration
+- Exobiology
+- Solar System Observations
+- Mars Data Analysis Program
+- Discovery Data Analysis
+- PICASSO
+- Planetary Protection Research
+- Astrophysics Data Analysis Program
+- Astrophysics Research and Analysis
+- Theoretical and Computational Astrophysics Networks
+- Habitable Worlds
+- Earth Surface and Interior and Space Geodesy Programs
+- The New Frontiers Data Analysis Program
+- The Physical Oceanography Program
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS 2020/MSR SAMPLE DEPOT SCIENCE COMMUNITY WORKSHOP
+
+September 28 & 30 8am-12pm PDT / 11am-3pm EDT / 5pm-9pm CEST
+
+A depot of samples acquired by the Perseverance Rover in Jezero Crater
+needs to be established in the near future for risk management and
+other strategic reasons along the Jezero Delta Front. The goal of this
+workshop is to inform and solicit input from the science community on
+the potential for the samples in this proposed depot to sufficiently
+satisfy Mars Sample Return science objectives and thus, constitute a
+scientifically return-worthy (SRW) sample set.
+
+The science community is an important stakeholder in the decisions
+about the formation of the first depot, and we encourage broad
+participation in this discussion. The output from this workshop will be
+considered as critical input for the final decision on depot placement.
+Logistics
+
+The MSR Campaign Science Group (MCSG) is the primary organizer of this
+meeting. This workshop will be held virtually from 8am-12pm PDT on
+Wednesday, September 28 and Friday, September 30, with the
+intervening Thursday being an "off" day to allow the participants to
+consider and develop their thoughts and feedback. Further information
+on the agenda and virtual connection information:
+
+https://mepag.jpl.nasa.gov/announcements/Depot_Caching_Workshop_2nd_Announcement.pdf
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ARECIBO OBSERVATORY QUARTERLY NEWSLETTER NOW AVAILABLE
+
+The 2022 Summer AO Newsletter is now available! Each newsletter
+features science highlights and updates about the facility, staff, and
+current education programs.
+
+https://www.naic.edu/ao/newsletters
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY IMPACTS COMMUNITY WIKI PROJECT
+
+https://impacts.wiki
+
+The purpose of this project is to promote collaborations and sharing of
+research and educational materials in the topics related to planetary
+impact processes. We hope that the connections nurtured through this
+project can enable community development and international connections.
+
+The site includes an opt-in Community Directory to help students and
+researchers find scientists with specific expertise. You can support
+this project by contributing materials, becoming an editor, or
+advertising the site. The site will advertise new materials by an
+opt-in Newsletter and social media.
+
+We plan to organize community meetings at upcoming conferences to
+discuss the needs of the planetary impacts community and potential
+community development projects.
+
+Founding editors: Sarah Stewart, Terik Daly, Chris Cline, Angela
+Stickle, Phil Carter
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LUNAR VOLATILES '22 MEETING MOVED TO CO & ABSTRACT DEADLINE EXTENDED
+
+The Lunar Polar Volatiles conference (November 2-4) has been moved from
+Houston, TX, to Boulder, Colorado. The new meeting location is The
+Laboratory for Atmospheric and Space Physics (LASP) is located at 1234
+Innovation Dr, Boulder, CO 80303 in the CU Boulder East Campus. 
+
+Due to this change, we will continue to accept abstracts throughout
+September 1:
+
+https://www.hou.usra.edu/meeting_portal/abstract_submission/
+
+Please see website for more information:
+
+https://www.hou.usra.edu/meetings/lunarpolar2022/
+
+Thanks!
+Meeting conveners,
+Ariel Deutsch, Paul Hayne, Shuai Li, Kathy Mandt and Lior Rubanenko
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR PAPERS: THE PLANETARY SCIENCE JOURNAL FOCUS ISSUE ON CENTAURS
+
+The AAS's Planetary Science Journal announces a new focus issue on
+Centaurs. Centaurs are icy planetesimals, typically exhibiting
+qualities similar to asteroids and comets, which are currently on
+unstable orbits in the outer Solar System and in transition between
+Trans-Neptunian Objects (TNOs) and Jupiter Family Comets (JFCs).
+
+We invite papers presenting recent results and analysis regarding the
+origin, evolution, and composition of Centaurs, as well as discussion
+of the scientific importance and relevance of Centaurs as space
+exploration targets. Study of individual objects, sub-groups, or the
+Centaur population should be a substantial part of the manuscript but
+need not be the only topic. 
+
+The Focus Issue is open to submissions immediately and will continue
+until December 2023. Accepted manuscripts will be made available in 
+the PSJ Focus Issue website as soon as they are published. Checkout 
+the first three articles here:
+
+https://iopscience.iop.org/journal/2632-3338/special/2632-3338_Centaurs
+
+Please complete this form telling us about your manuscript:
+
+https://tinyurl.com/nhdctcen
+
+Submitted articles will be evaluated to ensure they are within scope.
+Articles in scope will be sent out for review following PSJ policy and 
+guidelines.
+
+Email mwomack@ucf.edu for more information.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+2023A NASA KECK CALL FOR PROPOSALS
+
+The NASA Exoplanet Science Institute is soliciting proposals to use
+NASA's portion of time on the Keck Telescopes for the 2023A observing
+semester (February 1-July 31, 2023). All proposals are due by September
+15, 2022 at 4 pm Pacific. 
+
+NASA intends the use of the Keck telescopes to be highly strategic in
+support of on-going space missions and/or high priority, long-term
+science goals. Proposals are sought to support science goals and
+missions in the following discipline areas:
+
+- Our Own Solar System
+- Exoplanet Exploration
+- Physics of the Cosmos
+- Cosmic Origins
+- Mission Support Proposals in any of these areas are also encouraged
+ 
+Please read the Call for Proposals for complete information, semester
+highlights, instrument availability, and application guidelines:
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/gen-info.shtml
+
+The opportunity to propose as a Principal Investigator for NASA time on
+the Keck Telescopes is open to all U.S.-based astronomers (i.e. who
+have their principal affiliation at a U.S. institution). Investigators
+from institutions outside of the U.S. may participate as
+Co-Investigators.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ADVANCE NOTICE OF JOINT JWST/KECK PROGRAMS
+
+Call for Proposals: 
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/
+
+The James Webb Space Telescope (JWST) Cycle 2 Call for Proposals will
+include the opportunity to propose for joint programs requiring JWST
+and NASA Keck observations. This does not affect this 2023A NASA Keck
+Call for Proposals. For more information:
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/jwst-keck.shtml
+
+Questions: KeckCFP@ipac.caltech.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ESA RESEARCH FELLOWSHIPS IN SPACE SCIENCE
+
+ESA's postdoctoral Research Fellowship programme offers early career
+scientists and engineers the possibility to carry out research in a
+variety of disciplines related to space science, space applications or
+space technology. Research Fellowships in Space Science specifically
+offer the opportunity to contribute to ESA's endeavour to explore our
+Solar System and the Universe, and cover the fields of heliophysics,
+planetary science, astrophysics and fundamental physics. 
+
+The research fellowships offer a unique insight into ESA's environment
+and activities while conducting cutting edge research. Mentoring and
+training opportunities are available, as are possibilities to engage
+with ESA science-related activities (e.g., archive/data science,
+operations, calibration, communication, citizen science). 
+
+Duration: Appointments are for a maximum of three years. The initial
+project is for two years. An extension for a third year requires a
+dedicated proposal and is frequently granted.
+
+Eligibility: Citizens of ESA Member States or of cooperating and
+associated countries. 
+
+More information on the Research Fellowship programme and on how to
+apply can be found at:
+
+https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships 
+
+Deadline for applications is 19 September 2022. 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ACADEMY SCIENTIST IN MACHINE LEARNING
+
+The Space Research Institute (IWF) of the Austrian Academy of Sciences
+(OeAW), is offering a position as academy scientist in machine
+learning. We invite ambitious candidates who are interested in the
+development and application of machine learning techniques in astronomy
+and instrumentation at the IWF. We strive for a tight collaboration
+between instrumentation and space science as we understand
+instrumentation as science enabler. A main task will be the development
+of a competence hub for machine learning for application in astronomy,
+space science and space technology development
+
+The appointment begins as early as January 1, 2023 and is initially for
+three years with the possibility to extend for another three years.
+
+Applications must include a cover letter, curriculum vitae, list of
+publications, a statement of the applicant's experience in machine
+learning (2 page) and a machine learning plan with view on the IWFs
+research spectrum (1 page), certificates for full academic record, and
+the full contact information for two references. Please send the
+application as one PDF file, mentioning Job ID: IWF106AS122 to Cosima
+Muck, cosima.muck@oeaw.ac.at, no later than October 31, 2022.
+
+Further information can be found here:
+
+https://www.oeaw.ac.at/en/iwf/aktuelles/layer/details/open-position-job-id-iwf106as122
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POSTDOC OPPORTUNITY AT UC BERKELEY ON MAVEN MISSION
+
+The Space Sciences Laboratory (SSL) at the University of California,
+Berkeley, seeks applicants for Postdoctoral Associate positions to
+support the Mars Atmosphere and Volatile Evolution mission (MAVEN). The
+mission's goal is to explore the planet's upper atmosphere, ionosphere,
+and interactions with the Sun and solar wind to better understand
+atmospheric escape and climate evolution. SSL leads the MAVEN Particle
+and Fields science and instrument teams (STATIC, SWIA, SWEA, MAG and
+SEP investigations) that make measurements of magnetic fields,
+electrons, protons, and planetary ions.
+
+We seek qualified applicants to contribute to one or more of the
+following areas:
+
+- Plasma data analysis including magnetic field and charged particle 
+  data obtained in Mars' ionosphere and space environment
+- MAVEN data analysis with respect to understanding the effects of 
+  space weather
+- MAVEN data analysis with respect to Martian global dust storms
+- MAVEN data analysis with respect to atmospheric escape and magnetic
+  topology
+- MHD, hybrid or kinetic simulations of the Mars-solar wind 
+  interaction, exospheric, or photochemical atmospheric dynamics
+- Instrument development for future missions
+
+For more information go to:
+
+https://aprecruit.berkeley.edu/JPF03423
+
+The positions will remain open until filled. For questions, please
+email Dave Mitchell at davem@berkeley.edu.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JOB ANNOUNCEMENT - TENURE TRACK FACULTY POSITION IN PLANETARY SCIENCE 
+AT GEORGIA INSTITUTE OF TECHNOLOGY
+
+The School of Earth and Atmospheric Sciences at Georgia Tech invites
+applications for a tenure-track faculty position in planetary and space
+sciences. Applicants will be considered at all ranks. We invite
+candidates who will build a competitive research program that
+complements the strengths of our ongoing planetary, space, and
+astrobiology research. The ideal candidate will bridge connections with
+other solid Earth geoscience programs here and to ongoing and future
+missions through observational, theoretical, or modeling approaches. We
+seek individuals who are interested in working in a dynamic and
+interdisciplinary university that includes a diverse group of planetary
+and space, Earth, ocean, and atmospheric sciences, and many top-ranked
+engineering programs. Candidates are expected to demonstrate an
+exceptional commitment to teaching and mentoring of students.
+
+An earned doctorate in Planetary Science or a related field is required
+before start of employment. For more details and to apply please visit:
+
+https://bit.ly/3TkEExo
+
+Applications will be considered beginning October 1, 2022 but the
+search will continue until the position is filled. Georgia Tech is an
+equal education/employment opportunity institution dedicated to
+building a diverse, equitable, and inclusive community.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+January 16-19, 2023
+Magnetism & Accretion
+http://ma2020.saao.ac.za
+Cape Town, South Africa
+
+January 30-February 1, 2023
+Venus Surface and Atmosphere Conference
+https://www.hou.usra.edu/meetings/venussurface2023/
+Boulder, CO
+
+March 27-30, 2023
+The Fifth Workshop on Extremely Precise Radial Velocities
+https://conference.ipac.caltech.edu/eprv5/
+Santa Barbara, CA
+
+December 4-8, 2023
+ALMA at 10 years: Past, Present, and Future
+https://www.almaobservatory.org/en/alma-at-10-years-past-present-and-future/
+Puerto Varas, Chile
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Insight into the Distribution of High-pressure Shock Metamorphism in
+Rubble-pile Asteroids
+Nicole Guldemeister et al. 2022 PSJ 3:198
+https://doi.org/10.3847/PSJ/ac83c0
+
+Callisto and Europa Gravity Measurements from JUICE 3GM Experiment
+Simulation
+Paolo Cappuccio et al. 2022 PSJ 3:199
+https://doi.org/10.3847/PSJ/ac83c4
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

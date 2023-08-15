@@ -1,0 +1,467 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 8 (February 19, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Karen R. Stockstill-Cahill, Mark V. Sykes, Susan Benecchi   
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Release of ROSES-2017
+2. [NASA] Space Technology Mission Directorate - Early Career Faculty
+3. [NASA] Science/Technology Platform Satellite Request For Information 
+4. Summer Internships at Johns Hopkins Applied Physics Lab (APL)
+5. Outer Planets Assessment Group Updates
+6. NASA Postdoctoral Fellowships (NPP)
+7. Call for External Reviewers NASA Postdoctoral Program (NPP)
+8. 2017B NASA Keck Call for proposals
+9. Brown University: Tenure-Track Faculty Position in Planetary
+   Geological Processes
+10. Roadmaps to Ocean Worlds (ROW) Townhall at LPSC
+11. Election for Secretary for the IAVCEI/IACS Joint Commission on
+    Volcano-Ice Interactions
+12. Planetary Meeting Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+RELEASE OF 2017 RESEARCH OPPORTUNITIES IN SPACE AND EARTH SCIENCE
+(ROSES-2017)
+
+NASA's Science Mission Directorate (SMD) announces the release of its
+annual omnibus solicitation, Research Opportunities in Space and Earth
+Science (ROSES) 2017 at:
+
+http://solicitation.nasaprs.com/ROSES2017
+
+Details of the solicited programs will be in the Appendices of
+ROSES-2017. Names, due dates, and links for the individual calls will
+appear in Tables 2 and 3 of this ROSES-2017 NRA. Interested proposers
+should monitor:
+
+http://nspires.nasaprs.com/
+
+or subscribe to the electronic notification system there for additional
+new programs or amendments to ROSES-2017 through February 2018, at
+which time release of a subsequent ROSES NRA is planned. A web archive
+(and RSS feed) for amendments, clarifications, and corrections to
+ROSES-2017 will be available at:
+
+http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2017
+
+Frequently asked questions about ROSES-2017 will be posted at:
+
+http://science.nasa.gov/researchers/sara/faqs/
+
+Further information about specific program elements may be obtained
+from the individual Program Officers listed in the Summary of Key
+Information for each program element in the Appendices of ROSES-2017
+and at:
+
+http://science.nasa.gov/researchers/sara/program-officers-list/
+
+Questions concerning general ROSES-2017 policies and procedures may be
+directed to Max Bernstein, Lead for Research, Science Mission
+Directorate, at: sara@nasa.gov
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA SPACE TECHNOLOGY MISSION DIRECTORATE - EARLY CAREER FACULTY
+
+The Space Technology Mission Directorate (STMD), and the Space
+Technology Research Grants (STRG) Program, seek proposals from
+accredited U.S. universities on behalf of faculty members early in
+their careers as they conduct space technology research of high
+priority to NASA's Mission Directorates and STMD. NASA is seeking
+proposals that plan to pursue innovative, early-stage space technology
+research in the topic areas specifically enumerated in the
+solicitation. Specifically, the proposals must address one of the
+following six topics:
+
+Topic 1 - Integrated Photonic Sensors and Science Instrument Subsystems
+Topic 2 - Meso- and Micro-scale Fluidic Sample Acquisition and Handling
+for Human Exploration and Space Science Missions
+Topic 3 - Cognitive Communications for NASA Science and Exploration
+Topic 4 - Big Data and Artificial Intelligence Solutions for NASA Data
+Challenges
+
+The solicitation is available at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId={ABF4264B-6D71-F670-F10E-19DB21BC6BBD}&path=open
+
+Notices of Intent Due: March 3, 2017
+Proposals Due: March 31, 2017
+
+Technical and programmatic comments and questions: 
+Claudia Meyer (hq-ecf-call@mail.nasa.gov) 
+
+Procurement questions: 
+Kimberly Cone (hq-ecf-call@mail.nasa.gov) 
+
+Responses to will be answered by e-mail and may also be included in the
+Frequently Asked Questions (FAQ) documents. Anonymity of 
+persons/institutions who submit questions will be preserved.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA SCIENCE/TECHNOLOGY PLATFORM SATELLITE (NSTP-SAT) REQUEST FOR
+INFORMATION
+
+SMD has released a Request for Information (RFI) NNH17ZDA002L to assist
+in planning for potential payloads on the NASA Science/Technology
+Platform Satellite (NSTP-Sat) with a possible launch to low earth
+orbit, geostationary equatorial orbit, medium Earth orbit, Earth-Moon
+L1, or lunar orbit in the 2021 timeframe.
+
+To respond to this RFI please upload a PDF of up to 10 pages in length
+to the NSPIRES system by 11:59 p.m. Eastern time on March 17, 2017.
+Based on responses to this RFI, NASA will consider
+
+(i) whether there are science opportunities for new uses of this
+spacecraft and 
+(ii) whether a solicitation for proposals is warranted to enable such
+opportunities.
+
+The full text of the RFI including background on the NSTP-Sat, schedule
+milestones, Potential payload classes and accommodations and bus
+capabilities, and instructions for responding to this RFI may be found
+by following this link or by going to:
+
+https://nspires.nasaprs.com/
+
+choosing "Solicitations" then "Open" and searching on "NNH17ZDA002L".
+
+Questions concerning this Request for Information may be addressed to
+Alan Zide at: Alan.J.Zide@nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SUMMER INTERNSHIPS AT JOHNS HOPKINS APPLIED PHYSICS LAB (APL)
+
+APL is looking for the next generation of explorers! The 2017 APL NASA
+Intern Program provides unique opportunities for university students to
+work on NASA missions or other space-related research projects. The
+internship program runs 10 weeks in the summer and applications are due
+March 26; however, selections are made on a continuous basis, so
+interested students should apply as early as possible. More information
+is available at:
+
+http://www.jhuapl.edu/NASAIntern/
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OUTER PLANETS ASSESSMENT GROUP UPDATES
+
+1. OPAG meeting February 22-23, 2017, in the grand ballroom of the 
+Georgian Terrace Hotel in Atlanta, Georgia. See final agenda at:
+
+http://www.lpi.usra.edu/opag/
+
+Highlights include updates on Juno, Cassini, and Europa Clipper, Europa
+Lander SDT report and community discussion, report from the Roadmaps to
+Ocean Worlds study, and presentations on seven New Frontiers mission
+concepts to outer planets and ocean worlds.
+
+Webex: OPAG Workshop 2017
+Wednesday, February 22, 2017
+7:00 am Eastern Standard Time (GMT-05:00)
+12 hours 50 minutes
+Recurrence: every day from Wed Feb 22, 2017, to Thur Feb 23, 2017
+
+Meeting Link:
+
+https://nasa.webex.com/nasaj.php
+?MTID=m4f25a0acefb7ee05be4dc1ac6dadfb96
+
+Meeting number: 998 698 611
+Meeting password: W@lc0m31
+
+Audio connection:
+Conference Number: 1-888-324-7108 
+Participant Code: 3118411
+
+Please use the link below to test your connection prior to the meeting:
+
+https://www.webex.com/test-meeting.html
+
+2. OPAG meeting September 6-7, 2017, at the Samuel H. Scripps 
+Auditorium in La Jolla, California: 
+
+https://scripps.ucsd.edu/about/venues/seaside-forum
+
+next to the largest ocean in the inner solar system. Additional details
+will be posted on the OPAG website as they become available:
+
+http://www.lpi.usra.edu/opag/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program offers US and international scientists
+the opportunity to advance their research while contributing to NASA's
+scientific goals. The NPP supports fundamental science; explores the
+undiscovered; promotes intellectual growth; and encourages scientific
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+
+Current research opportunities in planetary science can be viewed here:
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before
+beginning the fellowship, but may apply while completing the degree
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high
+cost-of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and $8,000
+per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR EXTERNAL REVIEWERS NASA POSTDOCTORAL PROGRAM
+
+The NASA Postdoctoral Program (NPP), managed by USRA, provides young
+and more senior scientists the opportunity to work on 1 to 3 year
+assignments with NASA scientists and engineers at NASA centers and
+institutes to advance NASA's missions in earth science, heliophysics,
+planetary science, astrophysics, space bioscience, aeronautics,
+engineering, human exploration and space operations, astrobiology, and
+science management. USRA is recruiting well-qualified reviewers for
+upcoming applications.
+
+Reviewers may be asked to review up to 5 applications (each application
+is 15 pages, including figures and citations; double-spaced). 
+Proposals deadlines are March 1, July 1, and November 1. The reviewer
+evaluations are submitted online and those who are eligible will
+receive an honorarium of $50 for each review submitted.
+
+Reviewers should have the following minimum qualifications: three (3)
+years past PhD; 10 or more peer-reviewed publications; at least five
+(5) peer-reviewed publications as first author; work in a field
+relevant to NASA; and show national and international prominence
+through awards and invitations to speak at major scientific meetings.
+
+If you are interested in being a reviewer, visit:
+
+https://npp.usra.edu/reviewer_connect/
+
+and create an account. For additional questions email:
+nppreview@usra.edu.
+
+Feel free to pass this information to colleagues.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+2017B NASA KECK CALL FOR PROPOSALS 
+
+Due date: March 16, 2017
+
+NASA intends the use of the Keck telescopes to be highly strategic in
+support of on-going space missions and/or high priority, long-term
+science goals.
+
+Proposals are sought in the following discipline areas: (1)
+investigations in support of Exoplanet Exploration science goals and
+missions; (2) investigations of our own Solar System; (3)
+investigations in support of Cosmic Origins science goals and missions;
+and (4) investigations in support of Physics Of The Cosmos science
+goals andmissions. Direct mission support proposals in any of these
+scientific areas are also encouraged.
+
+Highlights for 2017B can be found at:
+
+http://nexsci.caltech.edu/missions/KeckSolicitation/gen-info.shtml
+
+Complete proposal call information:
+
+http://nexsci.caltech.edu/missions/KeckSolicitation/
+
+The proposal process is managed by the NASA Exoplanet Science Institute
+(NExScI) at Caltech.
+
+Questions: keckcfp@ipac.caltech.edu
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+BROWN UNIVERSITY: TENURE-TRACK FACULTY POSITION IN PLANETARY GEOLOGICAL
+PROCESSES
+
+The Brown University Department of Earth, Environmental and Planetary
+Sciences
+
+http://www.geo.brown.edu/
+
+will will soon be formally inviting applications for a tenure-track
+faculty position in Planetary Geological Processes. complement our
+current planetary science strengths in crustal evolution, volcanism,
+impact cratering, and remote sensing and departmental focus areas of
+Climate and Environment, Geophysics, and Geochemistry. See:
+
+http://www.planetary.brown.edu/
+
+Candidates with interests in the following areas will be encouraged to
+apply: the chemistry and mineralogy of early planetary processes,
+weathering and alteration processes of different environments,
+evolution of the Earth-Moon system, processes associated with the
+interaction of water and solar system materials, quantitative
+geomorphology of planetary processes, the geologic record of climate
+changes on planets, chronology and early history of the planets,
+astrobiological implications of planetary evolution processes, and
+interactions of the crust of planets with the atmosphere and space
+environments. Appointment is expected at the Assistant Professor level
+and the search will be finalized in the coming academic year. Brown
+University is committed to fostering a diverse and inclusive academic
+global community. For further information, please contact Professor
+James Head (james_head@brown.edu).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ROADMAPS TO OCEAN WORLDS (ROW) TOWNHALL AT LPSC
+
+The Roadmaps to Ocean Worlds (ROW) team was chartered by OPAG to
+identify science objectives for Ocean Worlds and to design a roadmap
+(or roadmaps) to explore these worlds to address the identified science
+objectives. We will be holding a ROW townhall at LPSC (Thursday, March
+23, 12-1PM) to share our progress and allow for community input. We
+hope to see you there!
+
+Amanda Hendrix (arh@psi.edu)
+Terry Hurford (terry.a.hurford@nasa.gov)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ELECTION FOR SECRETARY FOR THE IAVCEI/IACS JOINT COMMISSION ON
+VOLCANO-ICE INTERACTIONS
+
+Nominations due: February 20, 2017
+Election held: February 24, 2017
+
+The International Association of Volcanology and Chemistry of the
+Earth's Interior (IAVCEI) and International Association of Cryospheric
+Science (IACS) runs a Joint Commission on Volcano-Ice Interactions and
+would like to request nominations for a new Secretary.
+
+The Commission, which was founded in 2007 and marks its tenth
+anniversary this year, is charged with promoting research and interest
+in the complex interactions between magmas and ice in all its forms on
+Earth and other planets.
+
+Elected Officers rotate each year and the Secretary elected for the
+2017-2018 term will become the Vice-Chair in 2018-2019, the Chair in
+2019-2020 and then becomes ex officio for one year to serve as a
+consultant, if needed.
+
+This year, nominees are encouraged to have a research focus in
+Planetary Sciences, whereas next year the focus will be Glaciology and
+the year after Field Geology.
+
+Please send your nominations either to Christopher Hamilton
+(hamilton@lpl.arizona.edu) or to Benjamin Edwards
+(edwardsb@dickinson.edu). Nominations must be received no later than
+February 20, 2017, and elections will be held on February 24, 2017.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+April 3-7, 2017
+Early Earth and ExoEarths: Origin and Evolution of Life
+http://lifeorigins2017.ing.pan.pl/home.html
+Warsaw, Poland
+
+April 23-28, 2017
+European Geosciences Union General Assembly 2017
+http://egu2017.eu/home.html
+Vienna, Austria
+
+May 22-24, 2017
+The Migration Issue: From Protoplanets to Supermassive Black Holes
+http://www.ast.cam.ac.uk/meetings/2017
+/migration.issue.protoplanets.supermassive.black.holes
+Cambridge, United Kingdom
+
+June 19-23, 2017
+Kepler & K2 Science Conference IV: Legacy & Scion
+https://keplerscience.arc.nasa.gov/scicon4/
+Moffett Field, CA
+
+June 26-30, 2017
+Near Infrared High Resolution Spectroscopy: Where Are We?
+http://eas.unige.ch/EWASS/session.jsp?id=SS7
+Prague, Czech Republic
+
+July 24-28, 2017
+Celebrating 25 Years of the OGLE Project
+http://ogle25.astrouw.edu.pl
+Warsaw, Poland
+
+August 20-24, 2017
+Exoclipse 2017: Exploring New Worlds in the Shade
+https://physics.boisestate.edu/exoclipse/?
+Boise, ID
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

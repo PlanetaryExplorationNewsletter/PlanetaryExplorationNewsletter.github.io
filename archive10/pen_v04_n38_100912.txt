@@ -1,0 +1,223 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 4, Number 38 (September 12, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Melissa Lane, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. MESSENGER Postdoctoral Researcher
+2. 4th International Workshop on the Mars Atmosphere: Modelling and 
+   Observations
+3. [NASA] Cancellation of the GALEX Guest Investigator Program
+4. Upcoming OPAG Meeting Video Feed
+5. Cassini/RPWS/HFR Radio Data Browse Tool
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MESSENGER POSTDOCTORAL RESEARCHER
+
+The Department of Geological Sciences: 
+
+http://geology.case.edu
+
+at Case Western Reserve University is seeking applications for a 
+postdoctoral researcher to work on data collected by the MESSENGER 
+mission to Mercury. Individuals with interest in working on an active 
+planetary spacecraft mission and with geophysics and/or tectonics 
+expertise are encouraged to apply.   Candidates interested in 
+tectonics and lithospheric structure, planetary interior structure, 
+mantle convection or core dynamics, particularly those with experience 
+working with gravity, topography, imaging or magnetic field data sets 
+will be given preference.  The Department and the University maintain 
+high-performance computing facilities that will be available for 
+postdoctoral modeling and data analysis investigations. Applications 
+received by September 21, 2010 will receive full consideration,
+though applications will be accepted until the position is filled.  
+The position requires a Ph.D. at the time of appointment and is 
+available for one year with the possibility of renewal for another 
+year.  Additional information and application requirements are 
+available at:
+
+http://ow.ly/2ucwE
+
+Applications and inquiries may be directed to Prof. Steven A. Hauck, 
+II at messenger-postdoc@case.edu. CWRU is committed to Equal 
+Opportunity and Diversity.  Women, veterans, members of 
+underrepresented minority groups, and individuals with disabilities 
+are encouraged to apply.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+4TH INTERNATIONAL WORKSHOP ON THE MARS ATMOSPHERE: MODELLING AND 
+OBSERVATIONS
+
+Dear all,
+
+We confirm the "4th international workshop on the Mars atmosphere: 
+modelling and observations" will take place on February 8-11 2011
+in Paris, France.
+
+Abstract deadline: November 26, 2010
+
+More information will be posted on:
+
+http://www-mars.lmd.jussieu.fr/paris2011/
+
+Please spread the word,
+We look forward to seeing you in Paris!
+Best regards
+
+Francois and the organizing comittee
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] CANCELLATION OF THE GALEX GUEST INVESTIGATOR PROGRAM
+
+The GALEX Guest Investigator Program solicits proposals for the
+acquisition and analysis of new scientific data from the GALEX
+Evolution Explorer (GALEX) and for the prioritization of observations
+in the GALEX Legacy Survey (GLS).
+
+The GALEX Guest Investigator Program (GALEX GI), will not be solicited 
+in ROSES 2010. Structural changes to the GALEX Program derived from 
+the recommendations by the 2010 Astrophysics Senior Review, resulted 
+in the decision not to solicit further Guest Investigator programs 
+for GALEX.  The report of the 2010 Astrophysics Senior Review is 
+available at:
+
+http://science.nasa.gov/astrophysics/2010-senior-review/
+
+GALEX will continue to collect survey data, and proposals for GALEX
+archival research may be submitted to the Astrophysics Data 
+Program.
+
+This Amendment to the NASA ROSES 2010 is posted at:
+
+http://nspires.nasaprs.com/
+
+(select "Solicitations" then "Open Solicitations" then "NNH10ZDA001N"). 
+
+Questions regarding the GALEX GI Program may be addressed to:
+
+Dr. Mario Perez
+202-358-1535
+mario.perez@nasa.gov
+
+(Editor note: Edited for length)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+UPCOMING OPAG MEETING VIDEO FEED
+
+The upcoming OPAG meeting being held September 16-17 will be accessible 
+to remote participants using WebEx.  A video feed will provide live 
+coverage of the speakers and the presentations being given and a 
+separate teleconference line will provide the audio.  To participate, 
+visit:
+
+https://nasa.webex.com
+
+enter the appropriate meeting number, and click on the "Register" 
+button near the bottom of the webpage. After registering the system 
+will immediately send you an email with the meeting password, which 
+you can enter on the webpage to log in to the meeting.  Alternatively, 
+you may simply follow the directions in the email you receive 
+(please note that since this is an automatically generated email 
+some spam filters may intercept it).  Teleconference instructions 
+will be provided in WebEx after you log in to the meeting.
+ 
+Meeting number for Thursday, September 16:  999 706 032
+ 
+Meeting number for Wednesday, September 17:  994 514 924
+ 
+You can save time by setting up WebEx Meeting Manager, on Windows 
+or Mac, in advance of the meeting by visiting: 
+
+https://nasa.webex.com/nasa/mc
+
+On the left side press "Set Up", then press "Meeting Manager" and 
+the follow the instructions. 
+ 
+For more information on the workshop, please visit:
+
+http://www.lpi.usra.edu/opag/
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CASSINI/RPWS/HFR RADIO DATA BROWSE TOOL
+
+During the Cassini/MAPS (Magnetosphere And Plasma Science working 
+group) meeting in Meudon, France (April 2010), we announced a public 
+Cassini/RPWS/HFR radio data browse tool, which is now open on the 
+LESIA/RPWS website:
+
+http://www.lesia.obspm.fr/kronos 
+
+(follow the "Browse HFR data" link)
+or go directly to:
+
+http://www.lesia.obspm.fr/kronos/public_browse.php
+
+This tool provides browsable access to daily summary plots of various 
+radio observables (raw power, flux density, circular polarization) 
+with the option to overplot SKR (auroral Saturn Kilometric Radiation) 
+burst phases predicted by available Saturn longitude systems (SLS-3, 
+or empirical Northern/Southern SKR phase, as described on the website).
+
+Please contact baptiste.cecconi@obspm.fr for any issue.
+
+Regards,
+
+Baptiste Cecconi, Laurent Lamy and Philippe Zarka.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 3-9, 2011
+From Planets to Life
+http://www.isdc.unige.ch/sf2011/
+Villars-sur-Ollon, Switzerland
+
+May 2-7, 2011
+18th Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua/
+Kyiv, Ukraine
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************
+

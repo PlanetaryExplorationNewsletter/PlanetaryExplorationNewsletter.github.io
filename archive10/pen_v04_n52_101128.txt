@@ -1,0 +1,222 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 4, Number 52 (November 28, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Susan Benecchi, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Magnetosphere for Outer Planets Conference 2011
+2. Call for Abstracts, EGU 2011, Session: Aurora, Airglow and 
+   Transient Luminous Events in Planetary Atmospheres
+3. Moon Mineralogy Mapper (M3) Data Tutorial at 2010 AGU
+4. [NASA] PDS Releases More MER Data
+5. Planetary Geomorphology Session, EGU
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MAGNETOSPHERE FOR OUTER PLANETS CONFERENCE 2011
+
+Tohoku University, Sendai, Japan on July 11-15, 2011.
+(the next week of IUGG @ Melbourne, on 28 June - 7 July 2011)
+
+Topics of the conference include all aspects of the magnetospheres of 
+the outer planets, including aurorae, ionospheres, satellites, torus, 
+and any comparative studies of these including exoplanets.
+
+Planned Schedule (tbc):
+  * Abstract Submission : Apr 29(Fri), 2011
+  * Program issue       : May 13(Fri), 2011
+
+Website (tentative):
+
+http://pat.gp.tohoku.ac.jp/MOP/
+
+MOP Mailing list:
+You can also subscribe to the MOP mailing list, Mop@ion.le.ac.uk
+
+https://mail.ion.le.ac.uk/mailman/listinfo/mop/
+
+Contact:
+MOP2011 LOC  mop2011@pat.gp.tohoku.ac.jp
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALL FOR ABSTRACTS, EGU SESSION: AURORA, AIRGLOW AND TRANSIENT 
+LUMINOUS EVENTS IN PLANETARY ATMOSPHERES
+
+Dear Colleagues,
+
+We kindly invite you to submit an abstract to the joint session
+PS7.2/AS4.16 Aurora, Airglow and Transient Luminous Events in Planetary
+Atmospheres at EGU 2011 in Vienna (3-8 april). Abstracts are due 10
+January 2011.
+
+The goal of this session is to stimulate exchanges between the many
+communities working on subjects involving all aspects of atmospheric
+emissions encountered at Earth, planets and other planetary bodies
+(satellites and comets) from the mesosphere to the exosphere.
+
+Theoretical, observational, experimental as well as technical (including
+but not limited to instruments, databases...) contributions are
+encouraged. New results from space missions (Mars Express, Venus
+Express, Akatsuki, Cassini) will be presented.
+
+At the end of the session, a forum will be organized to discuss the
+needs of the different communities, the expected improvements, future
+missions and the possibility of more regular dedicated meetings.
+
+More information, and abstract submission:
+
+http://meetingorganizer.copernicus.org/EGU2011/session/6945
+
+The conveners,
+
+Cyril Simon Wedlund, BIRA-IASB, Belgium
+Guillaume Gronoff, NASA-LaRC, USA
+Tom Slanger, SRI International, USA
+Yoav Yair, The Open University, Israel
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MOON MINERALOGY MAPPER (M3) DATA TUTORIAL AT 2010 AGU
+
+December 13, 2010
+ 
+With the first delivery of M3 data to the PDS, the M3 team, with the 
+support of the Planetary Data System, is offering a comprehensive 
+tutorial on accessing and using M3 data. Topics to be covered in the 
+3 hour session includes searching and obtaining the relevant data via 
+the PDS Orbital Data Explorer, an overview of the PDS M3 file 
+structure, and insights into the various intricacies of working with 
+the data. This overview is intended for researchers who have some prior 
+experience with imaging spectrometer data, though the session is open 
+to all who wish to attend. The tutorial will be held from 1 to 4 PM on 
+Monday, December 13, at the San Francisco Marriott Marquis in Salon 12. 
+Contact Noah.E.Petro@nasa.gov if you have any questions about the 
+session.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS RELEASES MORE MER DATA
+
+The Planetary Data System (PDS) is pleased to announce Release 26 of 
+Mars Exploration Rover data.  This release includes primarily data from 
+Sols 2161 through 2250 for both rovers.  
+
+To access the above data, please visit the following link:
+ 
+http://pds.nasa.gov/subscription_service/SS-20101123.html
+  
+The following special services are provided for accessing MER data:
+  
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+  
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY SESSION, EGU
+
+Does your work concern surface processes on planetary bodies 
+(e.g. Venus, the Moon, Europa, Mars,...)? Or are you studying 
+terrestrial analogues of planetary surface processes (dunes, rockfalls, 
+impact craters, gullies, etc.)?
+
+If the answer to either of these questions is 'yes' please consider 
+submitting an abstract to the Planetary Geomorphology Session at EGU 
+to be held 3-8 April 2011 in Vienna, Austria. Students/postdocs 
+note that the deadline for financial support is rapidly approaching!
+
+Please find more details on the session here:
+
+http://meetingorganizer.copernicus.org/EGU2011/session/7410
+
+3rd December 2010 is the deadline for ALL support applications to be 
+considered. More details at: 
+
+http://meetings.copernicus.org/egu2011/support_and_distinction/
+financial_support.html
+
+Please note that each abstract submitted will incur an 'Abstract 
+Processing Charge' - this will be deducted from the conference fee 
+on registration. Details on how to submit an abstract are here:
+
+http://meetings.copernicus.org/egu2011/abstract_management/
+how_to_submit_an_abstract.html
+
+Please contact me at susan.conway@univ-nantes.fr  if you have any 
+questions about this session. We look forward to welcoming you to 
+Vienna in the spring.
+
+Susan Conway, Matt Balme and Colman Gallagher
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 8-11, 2011
+Fourth International Workshop on the Mars Atmosphere: Modelling and 
+Observations
+http://www-mars.lmd.jussieu.fr/paris2011/
+Paris, France
+
+March 28-31, 2011
+Resolving the Future of Astronomy with Long-Baseline Interferometry
+http://www.mro.nmt.edu/workshop/
+Socorro, NM
+
+June 22-24, 2011
+The Annual Meeting of Planetary Geologic Mappers
+Contact: Les Bleamaaster (lbleamas@psi.edu)
+Greenbelt, MD
+
+July 11-15, 2011
+Magnetosphere for Outer Planets Conference 
+http://pat.gp.tohoku.ac.jp/MOP/
+Sendai, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

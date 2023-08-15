@@ -1,0 +1,603 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 14 (April 5, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. USGS Lunar & Planetary Maps Available to Planetary Science Community 
+   at no Cost
+2. Charles A. Barth Memorial Symposium
+3. NASA Postdoctoral Fellowships
+4. [NASA] Seeking Reviewers for ROSES Research Proposals
+5. [NASA] PDS - Odyssey Data Release 51
+6. 2015 NASA Planetary Science Summer School Applications Open
+7. [NASA] Change of Due Date - K2 Guest Observer Cycle 3
+8. HST 25th Anniversary Slide Set
+9. Director, NASA Astrobiology Institute (NAI)
+10. Mars Exploration Science Monthly Newsletter: April 2015
+11. [NASA] PDS - Cassini Data Release 41
+12. Archive Your Small Bodies Data in PDS Small Bodies Node
+13. NASA Vesta Portal Release
+14. Remote Connection into the Venus Instrument & Lab Measurement 
+    Workshop
+15. NASA Advisory Council Science Committee Meeting
+16. NASA Advisory Council Meeting
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+USGS LUNAR & PLANETARY MAPS AVAILABLE TO PLANETARY SCIENCE COMMUNITY 
+AT NO COST
+
+The NASA/USGS Astrogeology Regional Planetary Information Facility is 
+mandated by NASA to supply paper lunar and planetary maps to members 
+of the planetary science community worldwide. Scientists, engineers, 
+formal and informal educators, and students are encouraged to request 
+our maps. Maps are available at no cost to the requestor. To learn 
+what is currently available and place an order, please visit: 
+
+http://astrogeology.usgs.gov/site/mapRequestForm
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CHARLES A. BARTH MEMORIAL SYMPOSIUM
+
+May 15, 2015: 9:00 am-5:30pm at CU's Laboratory for Atmospheric and 
+Space Physics (LASP), 3665 Discovery Drive, Boulder, CO
+
+This symposium will include invited and contributed talks on topics 
+to which Barth made significant contributions. Subjects include Earth 
+and planetary atmospheres, UV spectroscopy, rocket studies, solar UV 
+irradiance, nitric oxide, mission operations, student and PI-led 
+missions. (Invited speakers: Scott Bailey, Phil Eberspeaker, 
+Paul Feldman, Bill Possel, Gary Rottman, Kent Tobiska.) Given Barth's 
+long commitment to education, we also solicit talks and posters from 
+current students, former Barth students, and students of his former 
+students. The symposium will close with a dinner and presentation 
+of the first Barth Scholarship recipient.
+
+More information and registration:   
+
+http://lasp.colorado.edu/home/about/events/special-events/
+charles-a-barth-memorial-symposium/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+A sample research opportunity is:
+
+https://www3.orau.gov/NPDoc/Catalog/18624
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar 
+may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1Kjlmyr
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] SEEKING REVIEWERS FOR ROSES RESEARCH PROPOSALS
+
+The Planetary Science Division is seeking volunteers to serve as 
+reviewers for proposals from the following ROSES-2015 programs: 
+
+ ROSES-2015 E.3 Exoplanet Research Program
+ ROSES-2015 C.2 Emerging Worlds
+ ROSES 2015 C.6 Solar System Observations
+
+In addition, some volunteer opportunities also exist for proposals 
+from the physics divisions as well:
+
+ ROSES 2015 D.2 Astrophysics Data Analysis Program
+ ROSES 2015 Heliophysics Programs
+
+All of these opportunities to review currently and others in the 
+future can be found at:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+Finally, proposers may also suggest reviewers for ROSES Planetary 
+Science Proposals at:
+
+http://science.nasa.gov/researchers/suggested-reviewers/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - ODYSSEY DATA RELEASE 51
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 51, for the following instruments:
+
+ GRS
+ THEMIS
+ Radio Science (Releases 151-153)
+ SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue 
+to operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20150401.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+2015 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS OPEN
+
+NASA is accepting applications from science and engineering post-docs, 
+recent PhDs, and doctoral students for its 27th Annual Planetary 
+Science Summer School, which will be held in one single session in 
+summer 2015 (August 10-14 only) at the Jet Propulsion Laboratory in 
+Pasadena, Calif.  
+
+During the program and pre-session webinars, student teams will carry 
+out the equivalent of an early mission concept study, prepare a 
+proposal authorization review presentation, present it to a review 
+board, and receive feedback. By the end of the session, students will 
+have a clearer understanding of the life cycle of a space mission; 
+relationships between mission design, cost, and schedule; and the 
+tradeoffs necessary to stay within cost and schedule while preserving 
+the quality of science. 
+
+Applications are due April 10, 2015. Partial financial support is 
+available for a limited number of individuals. Further information 
+is available at:
+
+http://pscischool.jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] CHANGE OF DUE DATE - K2 GUEST OBSERVER CYCLE 3
+
+This amendment details the Campaign 9 Microlensing Science Team Call 
+and changes the due dates for program element D.7 K2 Guest Observer 
+Cycle 3. 
+
+Step-1 proposals are due on June 2, 2015
+Step-2 proposals are due on July 1, 2015
+
+New text is in bold and deleted text is struck through.
+
+Program element D.7 of ROSES-2015 solicits proposals for the 
+acquisition and analysis of new scientific data from the K2 mission 
+(http://keplerscience.arc.nasa.gov/K2). K2 repurposes the space-borne 
+hardware and ground-based operations of the Kepler mission 
+(http://keplerscience.arc.nasa.gov) for a pointed survey of 
+predetermined locations along the ecliptic plane. The single, 
+visible-wavelength instrument on board K2 provides high-precision 
+photometry capability, with short cadence and long cadence modes 
+(1 minute and 30 minute exposures), and provides a powerful tool 
+for broadband variability analyses of planetary, stellar, 
+extragalactic, and solar system sources.
+
+Research Announcement #NNH15ZDA001N
+
+Posted at:
+
+http://nspires.nasaprs.com 
+
+and RSS feed at: 
+http://science.nasa.gov/researchers/sara/grant-solicitations/
+roses-2015/
+
+Technical questions: keplergo@mail.arc.nasa.gov
+
+Programmatic questions: debra.j.wallace@nasa.gov
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+HST 25TH ANNIVERSARY SLIDE SET
+
+Hubble will celebrate its 25th anniversary in space on April 24, 2015.   
+We are pleased to announce the availability of a Hubble 25th 
+anniversary commemorative slide set that provides a brief overview of 
+the Hubble Space Telescope and some of its achievements. Presenter 
+notes containing brief remarks and further sources of information for 
+each slide are included. The slides, which are presentation-ready,
+are available in both PowerPoint and PDF formats. They are suitable 
+for a variety of audiences and can be tailored according to your 
+needs with the resources available in the image/video galleries on 
+the 25th anniversary website:
+ 
+http://hubble25th.org
+
+and Hubblesite 
+
+http://hubblesite.org
+
+We hope you find these slides useful as Hubble's silver anniversary 
+approaches.
+ 
+25th Anniversary Slide Set:   
+
+http://hubble25th.org/resources/7#categories_bar
+
+(Be sure to check out the related links here for other anniversary 
+product downloads - ibooks, posters, logos, activities, etc.)
+ 
+Hubblesite video collection:  
+
+http://hubblesite.org/videos/
+
+(A wide assortment of videos to play or download, including some in 3D)
+
+Hubblesite image gallery:  
+
+http://hubblesite.org/gallery/album/
+
+(Hubble's top shots, as well as hundreds of beautiful images to 
+browse or download)
+ 
+Sincerely,
+The Hubble Team
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DIRECTOR, NASA ASTROBIOLOGY INSTITUTE (NAI)
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI).  
+The ideal candidate will be an internationally recognized scientist
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future. Applicants for this position should have 
+a broad scientific perspective on astrobiology, experience in 
+conducting interdisciplinary scientific research, and demonstrated 
+skills needed to harness the strengths of disparate research 
+communities towards a greater goal. S/he should understand how to 
+grow a research endeavor and respond to changing budget climates while 
+focusing on maximizing the scientific return on NASA's investments in 
+astrobiology. S/he should have experience in leading a diverse staff 
+ranging from established scientists to support personnel, resource 
+planning, and executing budgets and schedules. S/he should be 
+comfortable with modern information technologies and distributed 
+research teams. NASA is particularly interested in applicants who will 
+find ways to infuse astrobiology into NASA flight missions.
+
+Interested individuals should apply directly to USAJobs at:
+
+http://www.usajobs.gov 
+
+by May 1, 2015. In the keyword search box, type vacancy number 
+"AR15S0001". Select "Director, NASA Astrobiology Institute", then 
+click "Apply Online".
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: APRIL 2015
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the April 2015 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+On a separate topic, I'd like to take this opportunity to announce 
+my replacement as MEPAG Coordinator. I am happy to welcome Meredith 
+Cosby, who will be taking over my responsibilities.
+
+It has been a pleasure to support the Mars science community and 
+publish the newsletter for the past two years.
+
+Please send your Mars community announcements and calendar items 
+for inclusion in the newsletter to Meredith at:
+Meredith.A.Cosby@jpl.nasa.gov
+
+With my very best regards,
+Carla de la Paz
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS - CASSINI DATA RELEASE 41
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Cassini data, Release 41, April to June 2014, for instruments:
+
+ CDA
+ HRD
+ INMS
+ ISS
+ MAG
+ MIMI
+ RADAR
+ RSS
+ SPICE
+ UVIS
+ VIMS
+
+RPWS data for this period was announced in release 40. CIRS data 
+will be available shortly.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the 
+Planetary Image Data Atlas. Large data sets may take as long as a few 
+days beyond the formal release date to be incorporated into these 
+services. Check each service's web site to see the status of the 
+latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20150402.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+Thank you for subscribing to the PDS Notification Service,
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ARCHIVE YOUR SMALL BODIES DATA IN PDS SMALL BODIES NODE
+
+Are you a small bodies researcher with ground-based telescopic data 
+or derived data that could benefit the community? Do you have lab 
+data on characteristics of minerals or ices? Are you writing a 
+proposal for a project which will result in archivable small bodies 
+data? The Planetary Data System Small Bodies Node (SBN) invites you 
+to submit your data for archiving.
+
+Archiving your data in PDS is a valuable public service. It also 
+meets the goals outlined in NASA's "Plan: Increasing Access to the 
+Results of Scientific Research"
+
+http://science.nasa.gov/media/medialibrary/2014/12/05/NASA_Plan_
+for_increasing_access_to_results_of_federally_funded_research.pdf  
+
+It makes your data available to current researchers as well as 
+allowing it to be curated for the use of researchers many decades 
+in the future. Data sets archived in SBN also receive a citation 
+as a peer-reviewed publication which is listed in ADS and can be 
+cited when researchers use your data.
+
+The SBN (http://pdssbn.astro.umd.edu) is the node of PDS 
+responsible for data on asteroids, comets, small planetary 
+satellites, meteors, and dust, as well as laboratory spectra of 
+ices, minerals, and meteorites.
+
+For more information, for help in archive planning for a proposal, 
+or to submit data, see:
+
+http://sbn.psi.edu/pds/sbnarchivinghowto.html
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NASA VESTA PORTAL RELEASE
+
+Vesta Trek (http://vestatrek.jpl.nasa.gov), released on March 31, 
+provides detailed visualizations of Vesta based on a range of data 
+returned from NASA's Dawn mission. The site had 10,000 visits from 
+around the world during its first 2 days and has since gotten positive 
+reviews from a variety of sources including Popular Science:
+
+http://www.popsci.com/visit-asteroid-vesta-without-leaving-home
+
+Gizmodo:
+
+http://gizmodo.com/now-you-can-fly-around-asteroid-vesta-and-explore-
+every-1694985660)
+
+AstronomyNow:
+
+http://astronomynow.com/2015/04/02/boldly-go-explore-an-asteroid-with
+-nasas-vesta-trek/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+REMOTE CONNECTION INTO THE VENUS INSTRUMENT & LAB MEASUREMENT WORKSHOP
+
+The Venus Instruments and Laboratory Measurements workshop will set up 
+the ability for interested people to remotely listen and view 
+presentations during the workshop.
+
+The following link and phone numbers will be used:
+
+http://nia-mediasite.nianet.org/NIAMediasite100/Catalog/Full/
+b21aaf68edc04ab1b9b65594a3c2154421
+
+The dial-in phone number for room 101, where the planetary sessions 
+will occur, is 757/325-6877.
+
+The dial in to room 101C is: 757-325-6982
+
+The dial in to room 137 is: 757-325 6894
+
+The topics to be discussed and worked in the various break out rooms
+will be announced during the plenary session just before the start of 
+the breakouts.
+
+Workshop program and other information is available at:
+
+http://www.hou.usra.edu/meetings/venustech2015/ 
+
+Organizers
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+NASA ADVISORY COUNCIL SCIENCE COMMITTEE MEETING
+
+Monday, April 6, 2015, 1-5 PM EDT
+Tuesday, April 7, 2015, 8AM-5:30PM EDT
+Wednesday, April 8, 2015, 8:30AM-5PM EDT
+
+NASA HQ, Room 3H42
+300 E Street SW, Washington DC
+
+The agenda for the meeting includes the following topics:
+— Science Mission Directorate FY16 Budget Request 
+— Subcommittee Reports
+— Joint Session with NAC Human Exploration and Operations Committee
+— Radiation Environment and Countermeasures for Human Exploration to 
+  Mars
+
+Information about attending or calling in to the meeting may be found 
+at:
+
+http://www.nasa.gov/sites/default/files/files
+/Science%20April%202015-06061.pdf
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+NASA ADVISORY COUNCIL MEETING
+
+Thursday, April 9, 2015, 9AM-6PM EDT
+Friday, April 10, 2015, 9AM-Noon EDT
+
+NASA HQ, Room 9H40
+300 E Street SW, Washington DC
+
+The agenda for the meeting will include the following:
+— Aeronautics Committee Report 
+— Human Exploration and Operations Committee Report 
+— Institutional Committee Report 
+— Science Committee Report 
+— Technology, Innovation and Engineering Committee Report
+
+Information about attending or calling in to the meeting may be found 
+at:
+
+http://www.nasa.gov/sites/default/files/files
+/NAC%20April%202015-06546.pdf
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+NASA Advisory Council Science Committee Meeting
+April 6-8, 2015
+http://www.nasa.gov/sites/default/files/files
+/Science%20April%202015-06061.pdf
+Washington, DC
+
+NASA Advisory Council Meeting
+April 9-10, 2015
+http://www.nasa.gov/sites/default/files/files
+/NAC%20April%202015-06546.pdf
+Washington, DC
+
+August 12-14, 2015
+6th Planetarty Crater Consortium Meeting
+http://www.planetarycraterconsortium.nau.edu/PCCMeeting.htm
+Flagstaff, AZ
+
+August 24-26, 2015
+NASA Outer Planets Assessment Group Meeting
+http://www.lpi.usra.edu/opag/
+Laurel, MD
+
+July 3-8, 2016
+Exoplanets Conference
+http://www.exoplanetscience.org
+Davos, Switzerland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

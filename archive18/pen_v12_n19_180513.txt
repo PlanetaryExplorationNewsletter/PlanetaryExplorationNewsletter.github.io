@@ -1,0 +1,508 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 19 (May 13, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC Session: Ocean Worlds and Icy Moons
+2. EPSC Session: Planetary Aeronomy
+3. EPSC Session: Differentiated Small Bodies - A New Perspective
+4. SSERVI 2018 ESF Awards
+5. Addition of Lucy Flight Opportunity to SIMPLEx PEA-J of SALMON-3
+6. Project Research Fellow in RISE/NAOJ
+7. ASP Conference on Astro Education/Outreach 
+8. Eight New Resource Guides on Astronomical Topics
+9. Free Open Source Astro 101 Textbook
+10. Director of Education Position Open at SETI Institute
+11. Silicon Valley Astronomy Lectures
+12. Venus Exploration Analysis Group (VEXAG) Call for Steering 
+    Committee Members
+13. Hubble Space Telescope Cycle 26 Call for Proposals
+14. Post-doc in Machine Learning/Data Mining for Earth and Planetary 
+    Science
+15. Student and Early Career Travel Grants for CCTP3 Meeting
+16. Lunar and Small Bodies Graduate Conference 2018
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC SESSION: OCEAN WORLDS AND ICY MOONS 
+
+European Planetary Science Congress (EPSC) 2018
+Berlin, Germany
+16-21 September 2018
+
+Deadline: 16 May 2018, 13:00 CEST
+
+https://www.epsc2018.eu/home.html
+
+This session (OPS3) will deal with icy moons in the outer solar system 
+with potential liquid  oceans underneath or, in Titan's case, on their 
+surfaces. Focus is on the Jovian and Saturnian satellites and the 
+future missions to explore them. This session will aim to present new 
+and review papers on the current status of astrobiological knowledge 
+about the worlds in the outer solar system with possible subsurface 
+liquid water oceans.
+
+Looking forward to meet you in Berlin!
+
+Co-conveners: A. Hayes, J. Lebreton, O. Witasse,, A. Coustenis, 
+E. Turtle, F. Tosi
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC SESSION: PLANETARY AERONOMY
+
+We invite your contributions to a special session on Planetary Aeronomy 
+at EPSC 2018 in Berlin, Germany (September 16-21, 2018):
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29889
+
+The aim of this session is to bring together researchers studying solar 
+system and exoplanet upper atmospheres to exchange knowledge and ideas 
+while learning of new results in this expanding area of research. We 
+welcome papers on all aspects of planetary upper atmospheres in the 
+solar and exoplanet systems, including observations and models that 
+bear on photochemistry and ionization, magnetosphere-ionosphere 
+coupling, energy balance, circulation and atmospheric escape. 
+Contributions that allow us to better understand planetary evolution 
+and the mass-radius diagram of exoplanets are also encouraged.     
+ 
+Please submit your abstracts by the EPSC abstract deadline of 
+Wednesday, May 16, 2018.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC SESSION: DIFFERENTIATED SMALL BODIES - A NEW PERSPECTIVE
+
+Deadline: 16 May 2018, 13:00 CEST
+
+Dear Colleagues,
+
+We invite you to submit abstracts to our session SB5: "Differentiated 
+small bodies: a new perspective".
+
+The latest findings of basaltic objects not dynamically connected with 
+Vesta and laboratory studies on HED and iron meteorites suggest the 
+presence of several differentiated planetesimals. However, in meteorite 
+collections we have samples for the nucleus and the crust, but not from 
+the mantle, with a missing olivine problem. The same occurs in the main 
+belt, where we find a large number of metal-rich and silicate-rich 
+asteroids, but very few olivine-rich.
+
+Contributors are kindly invited to submit presentations on the latest 
+findings on:
+
+1) basaltic asteroids in the solar system, particularly on V-type 
+asteroids not dynamically connected with the Vesta family;
+
+2) the scarcity of A-type olivine-dominated asteroids from both 
+asteroid surveys and meteorite collections; 
+
+3) the compositional analysis of the population of iron-rich, 
+"core-like" metallic asteroids, also in the light of the future Psyche 
+mission;
+
+4) compositional studies on asteroid families.
+
+For more info: 
+
+https://meetingorganizer.copernicus.org/EPSC2018/session/29993 
+
+Looking forward to meet you in Berlin!
+
+Convener: Simone Ieva
+
+Co-convener: Daniele Fulvio, Alessandra Migliorini
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SSERVI 2018 ESF AWARDS
+
+The Eugene Shoemaker Distinguished Scientist medal, Michael J. Wargo 
+Award, Susan Mahan Niebur Award, and Angioletta Coradini Award 
+recognize outstanding achievement in exploration science. The winners 
+are nominated by their academic peers and are selected by SSERVI 
+Director, Dr. Yvonne Pendleton. Awards will be presented along with 
+invited lectures from the recipients at the 2018 Exploration Science 
+Forum (ESF) taking place June 26-28 at NASA Ames. 
+
+The 2018 Eugene Shoemaker Distinguished Scientist Medal is awarded to 
+Dr. M. Darby Dyar of the Planetary Science Institute and Mt. Holyoke 
+College for her significant scientific contributions throughout the 
+course of her career.
+
+The 2018 Michael J. Wargo Exploration Science Award is given to 
+Dr. David Kring at the Lunar and Planetary Institute in Houston, Texas.
+
+The 2018 Susan Mahan Niebur Early Career Award is presented to 
+Dr. Rachel Klima at the Johns Hopkins University Applied Physics 
+Laboratory.
+
+The 2018 Angioletta Coradini Mid-Career Award is given to 
+Dr. Barbara Cohen at NASA Goddard Space Flight Center.
+
+Congratulations to M. Darby Dyar, David Kring, Rachel Klima, and 
+Barbara Cohen for their achievements and contributions!
+
+More information on these awards and recipients, along with past 
+awardees, can be found at: 
+
+https://sservi.nasa.gov/awards
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ADDITION OF LUCY FLIGHT OPPORTUNITY TO SIMPLEX PEA-J OF SALMON-3
+
+Amendment 3 to SALMON-3 adds the Lucy flight opportunity to PEA J: 
+Small Innovative Missions for Planetary Exploration (SIMPLEx).
+
+There is no change in due dates. Mandatory Notices of Intent (NOIs) 
+for this Program Element Appendix (PEA) are due May 25, 2018 and 
+proposals for the 2018 review cycle, including proposals for either 
+the Lucy or the Psyche flight opportunity, are due July 24, 2018.
+
+Further information about this SALMON-3 PEA is available through the 
+SIMPLEx Program Library at: 
+
+https://soma.larc.nasa.gov/simplex/programlibrary.html
+
+This Amendment is posted on the NASA research opportunity web site: 
+
+http://nspires.nasaprs.com
+
+Direct questions specifically regarding the PEA may be addressed by 
+email to SIMPLEx Program Scientist Ms. Doris Daou at 
+Doris.Daou@nasa.gov (subject line to read "SIMPLEx FINAL AO"). 
+Responses to all inquiries will be answered by email and also posted 
+in the Frequently Asked Questions (FAQ) on the SOMA SIMPLEx 
+investigation acquisition homepage. Anonymity of those who submit 
+questions will be preserved.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PROJECT RESEARCH FELLOW IN RISE/NAOJ
+
+1. Project research fellow is a full-time position (38 h 45 min working 
+   hours/week) employed under the scheme of the annual salary system of 
+   NINS.
+2. The fellow is expected to spend up to 50% of his/her time on jobs 
+   requested by the project he/she belongs to. For details, see 5.
+3. (1) The term starts as soon as possible after the employment decision. 
+   (2) The term is for three years, subject to annual review. If the 
+       applicant has been a project research fellow of NAOJ before, 
+       then the term will be shortened to less than three years so that 
+       his/her total period of employment at NAOJ does not exceed five 
+       years.
+4. Office location: 2-12 Hoshigaoka-cho, Mizusawa, Oshu, Iwate, or 
+   2-21-1 Osawa, Mitaka, Tokyo, Japan.
+5. (1) To participate in the operation of the HAYABUSA2-LIDAR as a 
+       LIDAR team member, initial analysis of the LIDAR data, and 
+       science research using them. 
+   (2) To conduct research about the origin, evolution, or internal 
+       structure of the small bodies in the Solar System.
+6. The applicant must have a PhD degree in planetary science, 
+   astronomy, or related fields no later than the start of the term.
+
+http://www.miz.nao.ac.jp/rise/en/content/news/topic_20180508
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASP CONFERENCE ON ASTRO EDUCATION/OUTREACH
+
+September 10-13, 2018
+
+The ASP is resuming its three-day education and outreach conferences, 
+this year in the Wine Country north of San Francisco. For more 
+information, see: 
+
+https://www.astrosociety.org/about-us/asp-annual-meetings
+/asp-2018-annual-meeting/ 
+
+Panels and discussions are being organized on a number of topics, 
+such as using social media for outreach, diversity and the impostor 
+syndrome, tools for teaching astronomy on-line, citizen science, and 
+much more. Abstracts are now being accepted and registration for the 
+meeting (and for discounted hotel rooms) is now open.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EIGHT NEW RESOURCE GUIDES ON ASTRONOMICAL TOPICS
+
+New or updated resource guides for instructors and students are 
+available on the following topics: Women in astronomy, Pluto and the 
+Kuiper Belt, sources for the best astronomical images, free lab 
+exercises on the Web, plays about astronomers, the Messier Catalog, and 
+debunking astronomical pseudo-science. Go to: 
+
+http://www.fraknoi.com/resource-guides-on-astronomy-education/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FREE OPEN SOURCE ASTRO 101 TEXTBOOK
+
+In the last year, at least 90,000 students have used Astronomy, the 
+free, open-source astronomy textbook published by OpenStax, a 
+non-profit project at Rice University. (We say at least, since we only 
+have information about registers adopters, and some people are using 
+all or part of the book without the optional registration. Registered 
+adopters get access to answers to the questions in the book and other 
+materials for instructors.) For access to the book, which some 70 of 
+your colleagues helped update and review, go to: 
+
+https://openstax.org/details/astronomy
+
+[Editor note: This includes planetary topics]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DIRECTOR OF EDUCATION POSITION OPEN AT SETI INSTITUTE
+
+The SETI Institute in Mountain View, California, is seeking a creative 
+and visionary leader to serve as its Director of Education and to 
+continue and expand its broad-based program in formal and informal 
+education. The role requires close collaboration with Institute 
+scientists, outside organizations, and with a range of funding 
+agencies. For more information and to apply, please go to:
+
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment
+/recruitment.html?cid=00a1b65c-cc0d-4122-b885-a8f7012f8acf&jobId=77948
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SILICON VALLEY ASTRONOMY LECTURES
+
+This series of free popular lectures by noted astronomers is being 
+professionally videotaped and edited, thanks to an anonymous donor. Its 
+YouTube site has nearly 2 million views at: 
+
+http://www.youtube.com/SVAstronomyLectures  
+
+Recently added talks include Natalie Batalha on the latest exoplanet 
+discoveries and statistics from Kepler, Jill Tarter on the future of 
+SETI searches, Ashwin Vasavada (Curiosity Project Scientist) on 5 Years 
+of Mars Exploration, and Eliot Quataert on gravitational waves from 
+merging neutron stars and the production of heavy elements.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+VENUS EXPLORATION ANALYSIS GROUP (VEXAG) CALL FOR STEERING COMMITTEE 
+MEMBERS
+
+VEXAG is seeking three new volunteers for the VEXAG Steering Committee 
+to replace the Members at Large who have successfully completed their 
+service to the Venus community. New members will start in August 2018 
+and terms will run for three years.
+
+If you are interested, send your resume and a statement of how you 
+could contribute to VEXAG to Bob Grimm and Martha Gilmore, VEXAG Chair 
+and Deputy Chair (grimm@boulder.swri.edu, mgilmore@wesleyan.edu) by 
+June 1, 2018.
+
+In addition to sponsoring regular and topical meetings, VEXAG 
+activities for the next three years are expected to focus on updating 
+the science, technology, and roadmap guidance documents, supporting 
+mission studies and international collaborations, preparing white 
+papers for the next Decadal Survey, and implementing the outcome of 
+the Decadal Survey. VEXAG is committed to fostering the next 
+generation of Venus researchers and participation in Early Career 
+Venus Scholars Focus Group is always welcome.
+
+VEXAG is a community-based forum established in July 2005 to assess 
+scientific priorities and strategies for exploration of Venus. Go to:
+
+http://www.lpi.usra.edu/vexag/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+HUBBLE SPACE TELESCOPE CYCLE 26 CALL FOR PROPOSALS
+
+Proposal Deadline: August 17, 2018
+
+Participation in this program is open to all categories of 
+organizations, both domestic and foreign, including educational 
+institutions, profit and nonprofit organizations, NASA Centers, and 
+other Government agencies.
+
+This solicitation for proposals will be open through August 17, 2018 
+8:00 pm eastern time. The Astronomer's Proposal Tools, which are 
+required for Phase I Proposal Submission will be released on May 14 
+for Cycle 26 Phase I use. Results of the selection will be announced 
+by the end of October 2018.
+
+All programmatic and technical information, as well as specific 
+guidelines for proposal preparation, are available electronically from 
+the STScI Announcement Web Page: 
+
+https://hst-docs.stsci.edu/
+
+Please take note of the What's New for Cycle 26 section on the 
+announcement page. In particular, the Director has decided to 
+implement an anonymous review process for Cycle 26. A description of 
+the process and instructions on how to adjust proposals to comply 
+with the new requirements are included in the Call for Proposals.
+
+Questions may be addressed to the STScI Help Desk by email at 
+help@stsci.edu, phone at 410-338-1082, or online at:
+
+http://hsthelp.stsci.edu 
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+POST-DOC IN MACHINE LEARNING/DATA MINING FOR EARTH AND PLANETARY 
+SCIENCE
+
+Information science has developed modern research through innovative 
+tools for mathematical modeling, simulation, big data, machine 
+learning, data mining, deep learning, high-performance computing, and 
+image processing. Earth and Planetary Science is one of the areas 
+where the impact is potentially huge: instruments become extremely 
+productive with the ability to obtain complex information on billions 
+of objects. The range of application will depend on the candidate and 
+could encompass geomorphology characterization (including crater 
+detection), imaging-spectroscopy, geochemistry, etc.
+
+The grant includes salary, equipment and mission costs. An extra 
+engineer will be also hired for this project.
+
+This project will benefit from the local Center of Data Science:
+
+https://www.datascience-paris-saclay.fr/
+
+Please send your CV as soon as possible, in any case before 18th May 
+2018.
+
+Condition: PhD defense after 31st December 2010
+Location: Universite Paris Saclay, GEOPS, France
+Duration: 3 years, starting in 2019.
+Contact: frederic.schmidt@u-psud.fr
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+STUDENT AND EARLY CAREER TRAVEL GRANTS FOR CCTP3 MEETING
+
+Student and early career (less than 8 years from PhD) travel support 
+will be available for the Comparative Climatology of Terrestrial 
+Planets Meeting #3 (CCTP3), scheduled for August 27-30, 2018 at the 
+Lunar and Planetary Institute, Houston, Texas. Go to:
+
+http://www.hou.usra.edu/meetings/climatology2018
+
+Provide a travel grant request by Wednesday, June 13, 2018 to Victoria 
+Hartwick, victoria.hartwick@gmail.com containing:
+
+1. A one-page description of how your participation in this meeting 
+   will benefit you professionally and contribute to the field of 
+   comparative climatology,
+
+2. Your abstract, and
+
+3. Your resume
+
+The expectation is that those selected for travel grants will be 
+notified by Friday, July 6, 2018.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+LUNAR AND SMALL BODIES GRADUATE CONFERENCE 2018 
+
+The 8th Annual Lunar and Small Bodies Graduate Conference 
+(LunGradCon 2018) will be held on Monday, June 25, 2018 at the NASA 
+Ames Research Center, preceding the NASA Exploration Science Forum 
+(ESF, June 26-28). With the expanded interests of the Solar System 
+Exploration Research Virtual Institute (SSERVI), the scope of this 
+year's LunGradCon includes both lunar and small body science. 
+LunGradCon provides an opportunity for grad students and early-career 
+postdocs to present their research on lunar and small body science in 
+a low-stress, friendly environment, being critiqued only by their 
+peers. In addition to oral presentations, the conference presents 
+opportunities for professional development and networking with fellow 
+grad students and postdocs, as well as senior members of SSERVI. A 
+limited amount of funding will be provided for travel and lodging 
+costs. 
+
+For more details, please visit:
+
+http://impact.colorado.edu/lungradcon/2018/ 
+
+or email any questions to: lungradcon@gmail.com
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 10-13, 2018
+ASP2018: Advancing Astronomy for All
+https://www.astrosociety.org/about-us/asp-annual-meetings
+/asp-2018-annual-meeting/
+Rohnert Park, CA
+
+October 9-11, 2018
+Europa Deep Dive 2: Composition
+https://www.hou.usra.edu/meetings/europadeepdive2018/
+Houston, TX
+
+October 30-31, 2018
+Towards an All-Sky Radio SETI Telescope
+http://www.jodrellbank.manchester.ac.uk/news-and-events
+/wide-field-seti-workshop/
+Machester, UK
+
+November 12-14, 2018
+5th International Conference on Artificial Light at Night 2018
+https://artificiallightatnight.weebly.com
+Salt Lake City, UT
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

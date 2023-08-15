@@ -1,0 +1,224 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 11 (February 27, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Position in JPL's Planetary Ices Group
+2. Cosmic Dust at AOGS 2011: Call for Abstract Submission
+3. [NASA] PDS Mars Exploration Rovers Data Release 27
+4. Joint Assembly: CPS 8th International School of Planetary Sciences
+5. Planetary Science Decadal Survey Update
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL POSITION IN JPL'S PLANETARY ICES GROUP
+
+Position Title: Comet and Asteroid Observer
+
+The research will involve supporting a variety of programs in studying 
+small bodies in the solar system, i.e., comets and asteroids. The 
+post-doc will also develop his/her own research program in a topic of 
+their choosing.  
+
+Candidates should have a recent PhD in in Planetary Science, Astronomy 
+or a related area with a strong background in solar system 
+observational astronomy, in particular CCD photometry of small bodies 
+in the solar system, along with data reduction and analysis. The annual 
+starting salary for recent PhDs is $52,000 USD and can vary somewhat 
+according to the selected applicant's qualifications. Postdoctoral 
+Scholar positions are awarded for a one-year period. Appointments may 
+be renewed in one-year increments for a maximum addition of two years.
+
+For the complete announcement with application directions go to:
+
+http://postdocs.jpl.nasa.gov/researchapplicants/jobpostings/index.cfm
+?FuseAction=ShowJobPosting&JobPostingID=269
+
+[Editor: Modified for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COSMIC DUST AT AOGS 2011: CALL FOR ABSTRACT SUBMISSION
+
+Conveners: Hiroshi Kimura, Misato Fukagawa, Keiko Nakamura-Messenger, 
+Ludmilla Kolokolova, Aigen Li, Cornelia Jaeger
+
+Fee Waiver Application Deadline: March 15, 2011
+Abstract Submission Deadline: March 15, 2011
+
+Meeting URL:
+http://www.asiaoceania.org/aogs2011/public.asp?page=home.htm
+
+Meeting Title: 
+Asia Oceania Geosciences Society 8th Annual Meeting (AOGS 2011)
+
+Date: August 8-12, 2011
+Location: Taipei, Taiwan
+
+Session URL:
+http://www.asiaoceania.org/aogs2011/mars/confSessionView.asp?sID=18
+
+Session Description:
+A primary goal of this session is to find a consensus among experts in 
+the formation and evolution of cosmic dust: where it comes from and 
+where it goes. All kinds of cosmic dust such as intergalactic dust, 
+interstellar dust, circumstellar dust, cometary dust, asteroidal dust, 
+interplanetary dust, circumplanetary dust, stellar nebular condensates, 
+presolar grains, micrometeorites, meteoroids, meteors, and regolith 
+particles are the subject of discussion. The session will address 
+interrelation between them and perceptions on the dust alteration 
+through a variety of processing. This includes different methods of 
+its determination (in-situ and laboratory measurements, astronomical 
+observations, laboratory and numerical analogue simulations, 
+theoretical modeling, etc.). However, the session is open for any other 
+aspects of dust research. We plan to publish the proceedings of this 
+session.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS MARS EXPLORATION ROVERS DATA RELEASE 27
+
+The Planetary Data System (PDS) is pleased to announce Release 27 of 
+Mars Exploration Rover data.  This release includes primarily data from 
+Sols 2251 through 2340 and includes data only from Opportunity, MER1/B.  
+It includes data from the following instruments:  APXS, HAZCAM, NAVCAM, 
+MI, PANCAM, Rover Motion Counter, and SPICE.  There are no Mini-TES, 
+Moessbauer, or RAT data in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110224.html
+  
+The following special services are provided for accessing MER data:  
+
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+  
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+
+JOINT ASSEMBLY: CPS 8TH INTERNATIONAL SCHOOL OF PLANETARY SCIENCES
+
+JSPS-DST Asia Academic Seminar
+
+Date: 26 September - 1 October 2011,
+1-3 October 2011 for a facility tour [only for a limited number of 
+participants]
+
+Venue: Minami-Awaji Royal Hotel, Minamiawaji, Japan
+
+https://www.cps-jp.org/~pschool/pub/2011-09-26/index.html
+
+Topic of the coming school: 
+
+Challenges in Astronomy: Observational Advances
+
+The objective of the school/seminar is to promote education and 
+research in planetary sciences for highly motivated graduate students 
+and young researchers by providing them with an opportunity to interact 
+with leading scientists in a specific field. Note that the term 
+"Planetary Sciences" is used in a broader sense to include astronomy, 
+astrophysics, astrochemistry, astrobiology, astromineralogy,
+geosciences, space science, cosmology, and other related fields.
+
+Lectures:
+
+1. David Bennett (Univ. Notre Dame, France), Exoplanet Detection by 
+   Gravitational Microlensing
+2. Sebastian Wolf (Univ. of Kiel, Germany), Protoplanetary & Debris 
+   Disks
+3. A. Subramaniam (IIA, India), Optical Astronomy
+4. Ajit Kembhavi (IUCAA, India) and Masatoshi Ohishi (NAOJ, Japan), 
+   Virtual Observatory
+5. Jayaram Chengalur (NCRA/TIFR, India), GMRT & Radio Astronomy　 
+6. Hideyo Kunieda (Nagoya Univ., Japan), X-ray Astronomy 
+7. Nobuyuki Kanda (Osaka City Univ., Japan), Gravitational-Wave 
+   Astronomy
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY SCIENCE DECADAL SURVEY UPDATE
+
+The planetary science decadal survey report, "Vision and Voyages for 
+Planetary Science in the Decade 2013-2022," was approved for release 
+by the NRC on Tuesday 22 February and a prepublication draft of the 
+report was delivered to NASA and NSF on Friday 25 February.  Steven 
+Squyres and members of the survey committee will brief NASA, NSF, and 
+other organizations, agencies and groups in Washington, D.C., during 
+the week beginning 28 February.  The public unveiling of the report 
+will take place in a special session at the 42nd Lunar and Planetary 
+Science Conference on Monday 7 March.  The LPSC session will be 
+webcast. For details see: 
+
+http://www.lpi.usra.edu/features/decadal/ 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 5-9, 2011
+Summer School on Astronometry
+http://www.tug.tubitak.gov.tr/aass/
+Antalya, Turkey
+
+September 26 - October 1, 2011
+Joint Assembly: CPS 8th International School of Planetary Sciences
+https://www.cps-jp.org/~pschool/pub/2011-09-26/index.html
+Minamiawaji, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

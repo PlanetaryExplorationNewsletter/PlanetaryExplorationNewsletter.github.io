@@ -1,0 +1,750 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 40 (September 26, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Proposed New Language on Inclusion, Diversity, Equity and 
+   Accessibility for AOs
+2. LPI Seeking IDEA Advisory Committee Members
+3. [NASA] PDS: JUNO Data Release 16
+4. [NASA] PDS: OSIRIS-REx OCAMS and TAGCAMS Bennu Release 10
+5. [NASA] PDS: MRO CRISM MTRDR and TER Release 18
+6. NASA Ames Legacy Mars Global Climate Model (GCM) Tutorial
+7. MEPAG VM13 2nd Information Circular
+8. November's Annual VEXAG Meeting Will Be Virtual
+9. 2022 GRS on the Origins of Life: Challenging Paradigms in Prebiotic 
+   Chemistry
+10. ASP2021: The Meeting of the Astronomical Society of the Pacific 
+11. DPS Student Townhall
+12. DPS Student and Early Career Reception and Grad School Pavilion
+13. Women in Planetary Science Discussion Hour
+14. HiRISE Digital Terrain Models for Funded MDAP Awards at No Charge
+15. Opportunities for Students in AGU Planetary Sciences Section
+16. Lowell Observatory Prize Postdoctoral Fellowship Program
+17. Submissions Solicited for New Research Topic in Physics and 
+    Frontiers in Astronomy and Space Sciences
+18. JPL Open Position: Scientist, Lunar Seismologist
+19. Planetary Geoscience Faculty Position at the University of Iowa
+20. Tenure Track Faculty Opening at Boston University
+21. Open Rank Faculty Position in Planetary Geochemistry at UCLA
+22. Planetary Meeting Calendar Additions
+23. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PROPOSED NEW LANGUAGE ON INCLUSION, DIVERSITY, EQUITY AND 
+ACCESSIBILITY FOR AOS
+
+Inclusion is a NASA core value. The Science Mission Directorate (SMD)
+is committed to a culture of inclusion, diversity, equity, and
+accessibility (IDEA) where all employees feel welcome, valued,
+respected, and engaged. NASA expects that IDEA will be reflected in the
+composition of all Announcement of Opportunity (AO) proposal teams.
+
+NASA announced a Request for Information (RFI) via NSPIRES that seeks
+comments/responses from the public on the draft language that NASA
+intends to add to SMD's Standard AO Template, all future stand-alone
+SMD AOs, and the SALMON-3 AO. The full text of SMD's IDEA RFI, proposed
+new AO language, and response instructions can be found at:
+
+https://go.nasa.gov/3xSsOP1
+
+RFI responses must be submitted via NSPIRES by November 3.
+
+Please send questions by October 22, 11:59 EDT to:
+
+Dr. Michael H. New (michael.h.new@nasa.gov) and/or Dr. Cindy L. Daniels
+(cindy.l.daniels@nasa.gov)
+
+Responses may be on an individual basis or in a Q&A at:
+
+https://go.nasa.gov/3xSsOP1
+
+Do not send RFI responses to these email addresses; they will not be
+considered.
+
+Please read the RFI before emailing:
+
+https://go.nasa.gov/3xSsOP1
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LPI SEEKING IDEA ADVISORY COMMITTEE MEMBERS
+
+The Lunar and Planetary Institute (LPI) is seeking committee members
+for its newly-established IDEA (Inclusion, Diversity, Equity, and
+Accessibility) Independent Advisory Committee. The goal of the advisory
+committee is to provide guidance on LPI's practices, in particular for
+meetings, conferences, and public and planetary community engagement
+activities. Service on the committee will be supported through an
+honorarium. To apply, please submit a cover letter (up to two pages)
+and brief CV (up to two pages) highlighting your experience and
+interest in supporting IDEA practices to Cynthia Svambera
+(csvambera@usra.edu), the USRA HR business partner at LPI, by Friday,
+October 8.
+
+For more information, please see our full posting here: 
+
+https://www.lpi.usra.edu/features/092121/idea/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: JUNO DATA RELEASE 16
+
+The Planetary Data System announces the 16th release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2020-11-09 and 2021-02-21, which covers Juno Orbits 31 and 32.
+Data sets from the following experiments are now available:
+
+- FGM (magnetometer)
+- Gravity
+- JADE (plasma)
+- JEDI (energetic particle detector)
+- JIRAM (infrared auroral mapper)
+- JunoCam (camera)
+- MWR (microwave radiometer)
+- SPICE
+- UVS (ultraviolet imaging spectrometer)
+- Waves (radio and plasma wave science)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210920.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: OSIRIS-REX OCAMS AND TAGCAMS BENNU RELEASE 10
+
+This release of OSIRIS-REx data includes the following data, through 
+May 10, 2021 (end of Bennu encounter).
+
+- OCAMS raw and calibrated
+- TAGCAMS raw
+- (other instruments for encounter 10 coming soon)
+
+These data are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210923.shtml
+
+or more directly at:
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.ocams
+
+and
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.tagcams
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: MRO CRISM MTRDR AND TER RELEASE 18
+
+PDS announces Release 17 of Mars Reconnaissance Orbiter CRISM Targeted
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data
+Record (MTRDR) products, at:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from August 9, 2008, through April 26, 2009.
+TER products are image cubes derived from CRISM hyperspectral targeted
+observations, post-processed to standardize the illumination and
+observation geometry and remove atmospheric gas absorptions and
+instrument artifacts. MTRDRs are the same products map-projected using
+terrain models of the Martian surface.
+
+To access all PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA AMES LEGACY MARS GLOBAL CLIMATE MODEL (GCM) TUTORIAL
+
+The Mars Climate Modeling Center at NASA Ames Research Center will host
+a virtual modeling tutorial November 2-4, 2021. The tutorial aims to
+teach new users how to use and analyze output from the NASA Ames Legacy
+Mars Global Climate Model (GCM). The tutorial will include lectures
+and hands-on sessions with the goal of teaching participants about the
+basic physics in the model, its subroutines and flow diagrams, how to
+make changes to the code, how to compile and run the model, and how to
+analyze model output. Students, teachers, and researchers with a range
+of numerical modeling experience are encouraged to participate, but
+some coding proficiency with FORTRAN and Python is strongly encouraged.
+ 
+For more information and to RSVP for the tutorial, please visit:
+
+https://tinyurl.com/zszauws5
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEPAG VM13 2ND INFORMATION CIRCULAR
+
+Members of the Mars community,
+
+I cordially invite you to participate in the next virtual meeting
+(VM13) of the Mars Exploration Program Analysis Group (MEPAG),
+scheduled on Monday, September 27th, 2021, from 1:00 - 5:00 p.m. EDT,
+10:00 a.m. - 2:00 p.m. PDT. We are happy to announce that this meeting
+will include closed captioning.
+
+The agenda is below and includes: updates about recent MEPAG
+activities; Mars Exploration Program (MEP) Status, including an update
+on the Mars Ice Mapper study; a report from the MSR Science Planning
+Group 2 (MSPG2); updates from Perseverance, Curiosity and InSight and;
+a presentation from HEOMD. 
+
+This meeting is open to all members of the Mars science community
+including our international colleagues, and I look forward to your
+participation.
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+
+MEPAG Chair
+
+If you have a comment or question about the meeting, please email:
+mepagmeetingqs@jpl.nasa.gov.
+
+Additional meeting information, including the agenda, will be posted
+to: 
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NOVEMBER'S ANNUAL VEXAG MEETING WILL BE VIRTUAL
+
+Venus Exploration Analysis Group (VEXAG) annual meeting originally
+scheduled as a hybrid- virtual meeting on November 8-10, 2021 will now
+be conducted as two fully virtual half-day session on Monday-Tuesday,
+November 8-9, 2021. There will be a half-day session on Monday
+afternoon, November 8th, followed by a half-day. session, on the
+morning of Tuesday November 9th.
+
+A reminder that registration is required. Registration Deadline is
+November 9, 2021 Information on this meeting is available at:
+
+https://www.lpi.usra.edu/vexag/meetings/vexag-19/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2022 GRS ON THE ORIGINS OF LIFE: CHALLENGING PARADIGMS IN PREBIOTIC 
+CHEMISTRY
+
+The Gordon Research Seminar (GRS) is a unique forum for graduate
+students, post-docs, and other scientists with comparable levels of
+experience and education to present and exchange new data and
+cutting-edge ideas in both presentation and poster format. This year's
+theme aims to foster discussions that facilitate the development of
+novel strategies the field can use to investigate the origins of life
+and welcomes any abstracts related to improving our understanding of
+the geology, chemistry, and biological origins of the early Earth.
+
+Date and Location:
+GRS (early career): January 22-23 Oxnard, California
+GRC: January 23-28 same location.
+
+Abstract Deadlines:
+Oral Presentations: October 22, 2021
+Poster Presentations: December 25, 2021.
+
+For more information and to apply visit:
+
+https://www.grc.org/origins-of-life-grs-conference/2022/
+
+GRS/GRC COVID-19 policies:
+
+Proof of vaccination from all registered attendees and speakers prior
+to the conference will be required, except in cases where exemptions
+based on medical or religious grounds are determined to be appropriate
+by GRC's Executive Committee. Additional details will be shared upon
+completion of your registration.
+
+We look forward to receiving your application!
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ASP2021: THE MEETING OF THE ASTRONOMICAL SOCIETY OF THE PACIFIC 
+
+Astronomy Teaching & Public Engagement: Sharing Best Practices  
+Nov. 18-20, 2021 
+
+Astro 101 instructors, K-12 educators, scientists, science
+communicators, and public engagement professionals in astronomy,
+planetary science (and related fields) are invited to participate in
+this virtual meeting. There will be plenary talks, panels, oral and
+poster papers. 
+
+Program strands for ASP2021 will include: 
+
+Teaching Introductory Astronomy - What are We Doing Now? 
+Engaging Astronomy Learners Using Smart Phones, Tablets, etc. 
+Doing Public Engagement in Informal Settings 
+Communicating Science Using Social & Traditional Media 
+Advancing Diversity, Equity, Inclusion, Access & Social Justice 
+Preserving Dark Skies & Addressing Climate/Environmental Science 
+Getting Ready for Upcoming Eclipses - Lunar and Solar! 
+
+For more information, registration, and abstract submission, see:  
+
+https://tinyurl.com/22bm638j
+
+Abstract submissions are open now and are due by Oct. 6 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DPS STUDENT TOWNHALL
+Date: Sunday, Oct. 3
+
+Time: 6:00 pm Eastern, 5:00 Central, 4:00 Mountain, 3:00 Pacific
+Duration: 30 minutes
+
+Join the DPS Student Representative and other DPS students to discuss
+how DPS can best serve you! Do you have questions about DPS and the DPS
+committee? Do you want to know who the student rep is and what they do?
+Would you like to request more from DPS or better understand the
+resources available? Come ask your questions and meet other students in
+DPS!
+
+Sign up is required so that we can send you information/updates about
+the event. Please see more details and sign up:
+
+https://forms.gle/vnnPX5ANTVe6AsN1A
+
+For any questions, please contact Maya Yanez at mdyanez@usc.edu. You
+can attend this event without being registered for the main DPS
+meeting.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+DPS STUDENT AND EARLY CAREER RECEPTION AND GRAD SCHOOL PAVILION
+
+Date: Sunday, Oct. 3
+Time: 6:30 pm Eastern, 5:30 Central, 4:30 Mountain, 3:30 Pacific
+Duration: 30 minutes formal Reception followed by 1 hr Grad Pavilion
+(1.5 hrs total)
+
+Join us for a pre-conference networking and socializing where we will
+have the opportunity to meet people from our disciplines (and others!).
+We will have a general discussion of professional development topics
+and encourage students and early career scientists to take this
+opportunity to connect with others prior to the start of the
+conference! We also have grad school representatives from various
+institutions to network and ask questions of. Sign up is required so
+that we can send you information/updates about the event. Please see
+more details and sign up:
+
+https://forms.gle/JVWRRPPJfmckFuwMA
+
+For any questions, please contact Maya Yanez at mdyanez@usc.edu. You
+can attend this event without being registered for the main DPS
+meeting.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+WOMEN IN PLANETARY SCIENCE DISCUSSION HOUR
+
+Date: Monday, Oct. 4
+Time: 5:00 pm Eastern, 4:00 Central, 3:00 Mountain, 2:00 Pacific
+Duration: 1.5 hours (one-hour event, half-hour open networking time)
+
+Join us for the annual Women in Planetary Science event, titled: Lean
+in ... into discomfort: the continual work of equity and justice. This
+year, the theme for this discussion-focused event will be our
+continued commitment to equity and justice in STEM. A huge thanks(!) to
+our generous sponsor AURA for supporting this event. Please see more
+details and register at:
+
+https://bit.ly/DPS_WiPS_2021
+
+For any questions contact Maggie McAdam (maggie.mcadam@nasa.gov),
+Audrey Martin (acm586@nau.edu), or Kelsi Singer
+(ksinger@boulder.swri.edu). You can attend this event without being
+registered for the main DPS meeting.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+HIRISE DIGITAL TERRAIN MODELS FOR FUNDED MDAP AWARDS AT NO CHARGE
+
+To support the needs of the Mars science community, the USGS
+Astrogeology Science Center is providing HiRISE DTMs by request and at
+no charge for funded ROSES 2021 Mars Data Analysis Program proposals.
+Investigators are responsible for identification and selection of
+appropriate HiRISE stereopairs, and must coordinate with USGS personnel
+before proposal submission to obtain a Confirmation of Technical
+Specification Letter. DTMs will only be generated for funded proposals.
+Technical requirements can be found at the USGS Astrogeology Planetary
+Photogrammetry site: 
+
+https://tinyurl.com/p4zvyur7
+
+Additional details are available in section 4.3.7 of the NASA ROSES
+2020.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+OPPORTUNITIES FOR STUDENTS IN AGU PLANETARY SCIENCES SECTION
+
+The AGU Planetary Sciences section is seeking applicants for our
+student and early career representative positions. These are 2-year
+positions that begin in January, though all incoming reps are invited
+to our Fall Meeting meeting prior to their start. Responsibilities
+include attending leadership meetings, organizing student activities at
+the AGU Fall Meeting, and leading new section initiatives that focus on
+support for student and early career members. You can apply through
+this Google Form: 
+
+https://forms.gle/9ePwqt4EJmRny9AM7
+
+Applications are due by October 15.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+LOWELL OBSERVATORY PRIZE POSTDOCTORAL FELLOWSHIP PROGRAM
+
+Applications are invited for the Lowell Observatory Prize Postdoctoral
+Fellowship Program. This is a new fellowship program that aims to
+support early-career scientists in astronomy, planetary science, and
+related fields to pursue independent research of their own choosing.
+These are four-year fellowships, subject to satisfactory performance.
+
+Current research at Lowell Observatory spans a wide range of
+disciplines from planetary science to extragalactic astronomy and
+instrumentation. Fellows have access to all Observatory resources,
+including the 4.3-m Lowell Discovery Telescope (LDT), the Naval
+Precision Optical Interferometer (NPOI), several 1-m class telescopes,
+the Astrophysical Materials Lab at Northern Arizona University, and our
+instrumentation and engineering facilities. There are also
+opportunities for fellows to develop their science communication skills
+as part of the observatory's education and public outreach mission.  
+
+The Lowell Observatory Prize Postdoctoral Fellow receives an annual
+salary of $75,000, relocation reimbursement up to $5,000, and research
+funds of $20,000 annually to support their scientific program. Lowell
+Observatory is committed to diversity and inclusion in the workplace.
+
+The full announcement is available at: 
+
+https://lowell.edu/about/career-opportunities/
+
+Questions to Dr. Michael West, Deputy Director for Science, at 
+mwest@lowell.edu
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+SUBMISSIONS SOLICITED FOR NEW RESEARCH TOPIC IN FRONTIERS
+
+A new Research Topic titled "Sources and Propagation of Ultra-Low
+Frequency Waves in Planetary Magnetospheres" is now open for
+submissions to the Space Physics sections of the journals Frontiers in
+Physics and Frontiers in Astronomy and Space Sciences. ULF waves are
+ubiquitous in plasma environments in our Solar System. This Research 
+Topic will cover the broad spectrum of ULF wave physics, from sources 
+to interaction with the surrounding particle populations. 
+
+We hope that you will consider submitting a manuscript.
+
+This Research Topic examples:
+- Detailed case studies of all types of ULF waves, such as
+  Kelvin-Helmholtz waves, mirror modes, foreshock waves, field-line
+  resonances, at Earth and other planets.
+- Statistical studies of ULF waves and their relationship with upstream
+  conditions.
+- Investigations of ULF wave transmission across different plasma
+  regions, using multi-spacecraft data analysis and/or global
+  simulations.
+- Investigations of the impact of ULF waves on the surrounding plasma
+  and their contribution to radiation belt dynamics.
+- Comparative studies of ULF waves in different environments in our
+  Solar System.
+
+In addition to original research, we also invite reviews and
+perspectives addressing these topics.
+
+For more information, please visit:
+
+https://tinyurl.com/4c2buupy
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+JPL OPEN POSITION: SCIENTIST, LUNAR SEISMOLOGIST
+
+The Jet Propulsion Laboratory in Pasadena, California, invites
+applications for a newly created research position in the Planetary
+Interiors and Geophysics Group. The research will involve lunar
+seismology, specifically working with existing lunar seismic data, and
+interpreting highly scattered signals. The researcher will refine
+science requirements and define basic data processing and archiving
+processes for the upcoming Farside Seismic Suite (FSS). They will also
+perform detailed computational modeling of highly scattered lunar
+seismic data and compare to existing Apollo seismic data in order to
+refine techniques for extracting observations to constrain the lunar
+interior. They will prepare for future mission opportunities by
+investigating both single-station and networked approaches to locating
+lunar seismicity and formulating the scientific requirements for future
+terrestrial planet missions that contain a seismologic element.
+
+Applicants should have a well-established record in lunar seismology. 
+It is expected that the successful candidate will develop an 
+independently funded research program.
+
+To view the full description and apply, please visit: 
+
+https://www.jpl.jobs/job/R882/Scientist-Lunar-Seismologist-Planetary-Interiors-And-Geophysics-Group
+
+Applications received by October 24, 2021, will receive full
+consideration.
+
+[Edited for length]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY GEOSCIENCE FACULTY POSITION AT THE UNIVERSITY OF IOWA
+
+The Department of Earth & Environmental Sciences at the University of
+Iowa invites applications for a full-time tenure-track position at the
+Assistant Professor level in the broad area of Planetary Geoscience,
+including geophysics, remote sensing, mineralogy, and geochemistry.
+Please see: 
+
+https://jobs.uiowa.edu/faculty/view/74285 
+
+for more details on the position and application process. Questions
+regarding this position can be directed to Dr. David W. Peate (EES
+Chair: david-peate@uiowa.edu) or Dr. Jasper Halekas (Physics:
+jasper-halekas@uiowa). 
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+TENURE TRACK FACULTY OPENING AT BOSTON UNIVERSITY
+
+The Department of Astronomy at Boston University seeks applications for
+a tenure track Assistant Professor position to begin on July 1, 2022.
+The successful candidate will be an early-career scientist who will
+lead a robust research program to become affiliated with the Center for
+Space Physics (CSP) and participate fully in the department's teaching
+missions at introductory, majors, and graduate levels. Minimum
+qualifications include a PhD in Astronomy, Physics, Engineering, or a
+related field, with postdoctoral experience expected. Applications will
+be considered from all areas of Space Physics in Earth, planetary, and
+heliospheric regions. Space Physics big data endeavors may benefit from
+the Boston University Rafik B. Hariri Institute for Computing and
+Computational Science and Engineering. In addition to this position,
+the Department expects to search for additional faculty members over
+the next five years.
+
+For further information and application instructions, please visit:
+
+https://academicjobsonline.org/ajo/jobs/19408
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+OPEN RANK FACULTY POSITION IN PLANETARY GEOCHEMISTRY AT UCLA
+
+The UCLA Department of Earth, Planetary, and Space Sciences invites
+applications for a tenure-track/tenured faculty position in Planetary
+Geochemistry at any rank. We encourage applicants from all
+sub-disciplines of planetary geochemistry to apply. Applications from
+individuals with expertise that complements existing strengths in
+geochemistry, cosmochemistry, meteoritics, and planetary science at
+UCLA will be especially welcome. We encourage those with experience in
+research, teaching, and community/collegial service that has prepared
+them to contribute to our commitment to excellence and equity,
+diversity, and inclusion to apply. Candidates are expected to hold a
+Ph.D. in planetary science, geochemistry, cosmochemistry, or a related
+field by July 1, 2022.
+
+To apply, candidates must submit (a) a cover letter, (b) CV, (c)
+statement of research, (d) statement of teaching, (e) statement of
+contributions to equity, diversity, and inclusion, (f) writing samples,
+and (g) the names of three to five individuals who can serve as
+references.
+
+Beginning September 22, 2021, applications will be accepted at:
+
+https://recruit.apo.ucla.edu/JPF06909
+
+Reviews of submitted applications will commence on October 29, 2021 and
+continue until the position is filled. See full job posting at the link
+above for more details.
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+November 18-20, 2021
+Meeting of the Astronomical Society of the Pacific
+https://tinyurl.com/22bm638j
+Online
+
+May 1-6, 2022
+Exoplanets 4
+https://aas.org/meetings/aastcs9/exoplanet
+Las Vegas, NV
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Lunar Surface Composition Constraints from Maturity-corrected
+Far-ultraviolet Reflectance Maps
+Benjamin D. Byron et al. 2021 PSJ 2:189
+https://doi.org/10.3847/PSJ/ac1d53
+
+Investigating the Relationship between (3200) Phaethon and (155140)
+2005 UD through Telescopic and Laboratory Studies
+Theodore Kareta et al. 2021 PSJ 2:190
+https://doi.org/10.3847/PSJ/ac1bad
+
+FOSSIL. I. The Spin Rate Limit of Jupiter Trojans
+Chan-Kao Chang et al. 2021 PSJ 2:191
+https://doi.org/10.3847/PSJ/ac13a4
+
+Pluto and Charon Impact Crater Populations: Reconciling Different
+Results
+Stuart J. Robbins and Kelsi N. Singer 2021 PSJ 2:192
+https://doi.org/10.3847/PSJ/ac0e94
+
+Threat from Within: Excitation of Venus's Co-orbital Asteroids to
+Earth-crossing Orbits
+Petr Pokorn and Marc Kuchner 2021 PSJ 2:193
+https://doi.org/10.3847/PSJ/ac1e9b
+
+New Constraints on Pluto's Sputnik Planitia Ice Sheet from a Coupled
+Reorientation-Climate Model
+Perianne E. Johnson et al. 2021 PSJ 2:194
+https://doi.org/10.3847/PSJ/ac1d42
+
+Tiger: Concept Study for a New Frontiers Enceladus Habitability Mission
+Elizabeth M. Spiers et al. 2021 PSJ 2:195
+https://doi.org/10.3847/PSJ/ac19b7
+
+A Model to Predict the Size of Regolith Clumps on Planetary Bodies
+Anand Patel and Christine Hartzell 2021 PSJ 2:196
+https://doi.org/10.3847/PSJ/ac1a6e
+
+An Improved Method to Measure Head Echoes Using a Meteor Radar
+Peter A. Panka et al. 2021 PSJ 2:197
+https://doi.org/10.3847/PSJ/ac22b2
+
+Constraining Saturn's Interior with Ring Seismology: Effects of
+Differential Rotation and Stable Stratification
+Janosz W. Dewberry et al. 2021 PSJ 2:198
+https://doi.org/10.3847/PSJ/ac0e2a
+
+Collision Chains among the Terrestrial Planets. II. An Asymmetry
+between Earth and Venus
+Alexandre Emsenhuber et al. 2021 PSJ 2:199
+https://doi.org/10.3847/PSJ/ac19b1
+
+Collision Chains among the Terrestrial Planets. III. Formation of the
+Moon
+Erik Asphaug et al. 2021 PSJ 2:200
+https://doi.org/10.3847/PSJ/ac19b2
+
+Multiple Moist Climate Equilibrium States on Arid Rocky M-dwarf
+Planets: A Last-saturation Tracer Analysis
+Feng Ding and Robin D. Wordsworth 2021 PSJ 2:201
+https://doi.org/10.3847/PSJ/ac2236
+
+Size and Shape of (11351) Leucus from Five Occultations
+Marc W. Buie et al. 2021 PSJ 2:202
+https://doi.org/10.3847/PSJ/ac1f9b
+
+The Roles of Latent Heating and Dust in the Structure and Variability
+of the Northern Martian Polar Vortex
+E. R. Ball et al. 2021 PSJ 2:203
+https://doi.org/10.3847/PSJ/ac1ba2
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

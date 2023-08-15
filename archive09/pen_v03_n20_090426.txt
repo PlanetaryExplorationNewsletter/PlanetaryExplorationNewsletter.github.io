@@ -1,0 +1,198 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 20 (April 26, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [SPECIAL NASA MESSAGE] James Green, Planetary Science Division, 
+   ROSE 2009 Season is Upon Us
+2. [NASA] Request for Information - Radiation Capabilities for the 
+   Europa Jupiter System Mission
+3. [NASA] Expanding eligibility to propose for Supplemental Outreach 
+   Awards and Supplemental Education Awards
+4. Summer Internship at NASA Ames Research Center
+5. Meeting on Science Education and Outreach
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[SPECIAL NASA MESSAGE] JAMES GREEN, PLANETARY SCIENCE DIVISION, ROSE 
+2009 SEASON IS UPON US
+
+The Planetary Science Division continues to build a strong supporting
+research and technology program using primarily ROSES but also the new
+SALMON calls for proposals. The program continues to evolve with time 
+and is designed to support the goals and objectives of NASA's 
+planetary science program. New calls are devised (ie: participating
+scientists, LASER, etc.) but also some calls need to be rewritten
+or revised due to overlap with other programs or becoming too 
+cobbled up by numerous revisions over time (e.g., PG&G). As the 
+program evolves it is important to note that we, at NASA HQ, are
+paying close attention to the scope of each program element and so
+should you. For example, in ROSES 2008 the PG&G program included the
+origin and evolution of the Solar System but this language is not 
+included in the description of PG&G this year in ROSES 2009 since
+this has clearly been part of the Origins of Solar Systems Program
+(ROSES element E.3) since it came out several years ago.
+
+My message to everyone is simply please take the time to read each 
+element carefully, put in an NOI, begin writing your proposal early,
+then submit your proposals to the most relevant program element
+rather than applying to a less appropriate program for historical
+reasons. Statistics show that scientists who do that have a greater
+chance of winning than those that wait to the last minute.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] REQUEST FOR INFORMATION - RADIATION CAPABILITIES FOR THE 
+EUROPA JUPITER SYSTEM MISSION
+
+The Government is seeking information regarding the state-of-technology
+including radiation-hardened parts/components, services, facilities, 
+and general expertise, which could prove useful to NASA and instrument
+providers in addressing the radiation challenges for the Europa Jupiter
+System Mission (EJSM). 
+
+Full details about this Request can be found at:
+
+http://nspires.nasaprs.com/ 
+
+Select "Solicitations" then "Open Solicitations" then "Request for 
+Information: NNH09ZDA008L (Radiation Capabilities for the Europa 
+Jupiter System Mission)."
+
+Responses to this RFI must be submitted no later than May 22, 2009.
+
+Additional information on the EJSM can be found at: 
+
+http://opfm.jpl.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] EXPANDING ELIGIBILITY TO PROPOSE FOR SUPPLEMENTAL OUTREACH 
+AWARDS AND SUPPLEMENTAL EDUCATION AWARDS
+
+ROSES-09 Amendment 5
+
+This amendment makes ROSES investigators with only 12 months
+remaining on the science award eligible to propose to program
+elements E.5 and E.6 SUPPLEMENTAL OUTREACH AWARDS and SUPPLEMENTAL
+EDUCATION AWARDS.
+
+On or about April 23, 2009, this Amendment to the NASA Research
+Announcement "Research Opportunities in Space and Earth Sciences
+(ROSES) 2009" (NNH09ZDA001N) will be posted on the NASA research
+opportunity homepage at 
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then 
+"NNH09ZDA001N").
+
+Further information about these program elements is available 
+from Dr. Larry Cooper, Science Mission Directorate, NASA Headquarters,
+Washington, DC 20546; Telephone: (202) 358-1531; 
+Email: larry.p.cooper@nasa.gov.
+
+[Editor Note: This announcement was edited slightly]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SUMMER INTERNSHIP AT NASA AMES RESEARCH CENTER
+
+Help us put scientific papers on the map-of Mars!
+Here at NASA Ames, we're working with Google, Inc., and the SAO/NASA  
+Astrophysics Data System to get scientific papers geo-located on Mars.
+Although we'll start with explicitly geo-locating a few, we want to  
+enable a system so that the scientific community itself can add geo-
+location information to already-published works, and encourage future  
+publications to include easier to parse geo-location information.
+
+We need an intern to help us with the following: (1) create an initial
+seed of test data, (2) develop the supervised parsing strategies for  
+extracting geospatial data from scientific plain text, (3) develop the
+information architecture for doing all of this, and (4) create the  
+presentation of the geographic data for Google Mars 3D.
+
+If you are interested in applying for this position, please send the  
+following via e-mail: (1) a cover letter, and (2) a detailed resume  
+(PDF or text) to Dr. Ross.A.Beyer@nasa.gov 
+
+For more information, visit:
+
+http://orrery.us/node/65
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MEETING ON SCIENCE EDUCATION AND OUTREACH
+
+Registration is now open and abstracts are being accepted for:
+
+Science Education and Outreach: Forging a Path to the Future:
+The 120th Anniversary Meeting of the Astronomical Society of the 
+Pacific
+
+September 12 - 16, 2009
+Westin San Francisco Airport Hotel, Millbrae, California.
+
+Go to: 
+
+http://www.astrosociety.org/events/meeting.html
+
+to find information and details on hotel reservations, meeting
+registration, exhibiting, submitting poster and presentation
+abstracts, and submitting proceedings write-ups for this
+meeting on astronomy and earth-science education and
+outreach.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 27-28, 2009
+The New Martian Chenistry Workshop
+http://www.lpi.usra.edu/meetings/marschem2009/
+Medford, MA
+
+September 12-16, 2009
+Science Education and Outreach: Forging a Path to the Future: The
+120th Anniversary Meeting of the Astronomical Society of the Pacific
+http://www.astrosociety.org/events/meeting.html
+Millbrae, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

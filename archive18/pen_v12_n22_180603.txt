@@ -1,0 +1,217 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 22 (June 3, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] K2 GO Cycle 7 Final Text Released
+2. Planetary Geomorphology Image of the Month
+3. Mars Exploration Science Monthly Newsletter for June 2018
+4. Venus Landed Platform Working Group
+5. Meeting of the Laboratory Astrophysics Commission at the XXXth 
+   General Assembly of the IAU, Vienna
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] K2 GO CYCLE 7 FINAL TEXT RELEASED
+ 
+ROSES-18 Amendment 14 releases final text for K2 Guest Observer (GO) 
+Cycle 7, program element D.7. Owing to the limited amount of spacecraft 
+fuel remaining, Cycle 7 is comprised of Campaign 20 only. Go to:
+ 
+http://nspires.nasaprs.com/ 
+
+This program element solicits proposals for the acquisition and 
+analysis of new scientific data from the K2 mission. K2 repurposes the 
+space-borne hardware and ground-based operations of the Kepler mission 
+for a pointed survey of predetermined locations along the ecliptic 
+plane. This provides a powerful tool for broadband variability analyses 
+of planetary, stellar, extragalactic, and solar system sources.
+
+Contingent on the spacecraft health and fuel condition, K2 is 
+soliciting proposals for Guest Observer (GO) Cycle 7 targets, and is 
+comprised of Campaign 20 only. Phase-1 proposals, including target 
+lists and a scientific rationale, are requested by July 19, 2018. If 
+the spacecraft health and fuel allow, then Phase-2 proposals will be 
+due January 17, 2019. Go to:
+
+http://keplerscience.arc.nasa.gov
+
+Technical questions: 
+Geert Barentsen 
+keplergo@mail.arc.nasa.gov
+ 
+Programmatic information: 
+Mario Perez 
+mario.perez@nasa.gov
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "What is happening in Titan's equatorial belt?"
+Contributed by Jeremy Brossier, Deutsches Zentrum fur Luft- und 
+Raumfahrt (DLR), Institute of Planetary Research, Berlin, Germany.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JUNE 2018
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the June 2018 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VENUS LANDED PLATFORM WORKING GROUP
+
+NASA has convened a Venus Landed Platform Working Group to assess high 
+priority science investigations that are needed on the surface of 
+Venus. Topic areas include Venus surface geology and geochemistry, 
+atmospheric chemistry and dynamics, interior processes, and 
+surface-atmosphere interactions. This includes investigations that 
+may be enabled by new technology approaches, such as extended duration 
+landers via active cooling or high temperature electronics, or using 
+surface mobility. Individuals who would like to suggest important 
+science investigations should please send a short description of the 
+science question being addressed, the measurements required to answer 
+the science question, and key technical requirements such as 
+measurement duration or mobility requirements. Please send this input 
+to the following individuals:
+
+Martha Gilmore, mgilmore@wesleyan.edu
+Natasha Johnson, natasha.m. johnson@nasa.gov
+Walter Kiefer, kiefer@lpi.usra.edu
+Jonathan Sauder, jonathan.sauder@jpl.nasa.gov
+
+The Working Group's first meeting begins on June 19.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MEETING OF THE LABORATORY ASTROPHYSICS COMMISSION AT THE XXXTH GENERAL
+ASSEMBLY OF THE IAU, VIENNA
+
+http://astronomy2018.univie.ac.at/division-days/ddb/
+
+Monday, August 27, 2018
+
+Session 4b parallel session 10:30-12:00
+Reports Commission B5 - Laboratory Astrophysics: from Observations to
+Interpretation (Part 1)
+
+10:30-11:00: Commission B5 Business Meeting - Farid Salama
+             CB5 Triennial report and CB5 WG reports
+             OC Elections; Plans for the future, 2019 IAUS 350: 
+             Laboratory Astrophysics non-GA Symposium; Q&As
+11:00-11:20: Progress report of the Working Group Spectroscopic and
+             Radiative Data for Molecules - Steve Federman
+11:20-11:40: The ESO Diffuse Interstellar Band Large Exploration 
+             Survey: First Results - Jan Cami
+11:40-12:00: The Virtual Atomic and Molecular Data Centre (VAMDC)
+             A Resource for Atomic and Molecular Data - Marie-Lise 
+             Dubernet
+
+Session 5b parallel session 13:30-15:00
+Reports Commission B5 - Laboratory Astrophysics: from Observations to
+Interpretation (Part 2)
+
+13:30-13:50: A progress report of the Working Group High-Accuracy 
+             Stellar Spectroscopy - Tanya Ryabchikova
+13:50-14:10: Searching for the sources of meteorites in the asteroid 
+             belt - Peter Jenniskens
+14:10-14:30: Laboratory Astrophysics in the era of JWST
+             - Stefanie Milam
+14:30-14:50: Optical Properties of Organic Analogs to Cosmic Dust
+             - Lisseth Gavilan
+14:50-15:00: Open Discussion: Summary and Conclusions - All
+
+IAU Commission B5 Laboratory Astrophysics:
+
+https://www.iau.org/science/scientific_bodies/commissions/B5/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 16-17, 2018
+The Planetary CubeSats Symposium
+https://cubesats.gsfc.nasa.gov/symposium.html
+Greenbelt, MD
+
+September 24-28, 2018
+European Astrobiology Conference (EANA 2018)
+http://www.eana-net.eu/index.php?page=Conferences/EANA2018
+Berlin, Germany
+
+November 6-8, 2018
+16th Venus Exploration Analysis Group Meeting
+https://www.lpi.usra.edu/vexag/
+Laurel, MD
+
+March 26-28, 2019
+NASEM's Committee on Astrobiology and Planetary Science (CAPS)
+http://sites.nationalacademies.org/SSB/SSB_067577#Meetings_and_Events
+Washington, DC
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

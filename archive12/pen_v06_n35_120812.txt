@@ -1,0 +1,287 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 6, Number 35 (August 12, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Proposals Solicited for Use of Keck Telescopes
+2. NASA Contractor Seeks Scientist for ROSES Program Management/
+   Technical Support
+3. Planetary Geophysics Postdoctoral Fellowship
+4. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+5. GSA Topical Sessions
+6. NASA Postdoctoral Fellowships
+7. [NASA] Due Date Delayed for Outer Planets Research (OPR) Program
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PROPOSALS SOLICITED FOR USE OF KECK TELESCOPES
+
+NASA is soliciting proposals to use the Keck Telescopes for the 2013A 
+observing semester (February 2013 - July 2013).  
+ 
+Use of the Keck telescopes will be highly strategic in support of on-
+going space missions and/or high priority, long term science goals.  
+NASA Keck time is open to a wide range of disciplines including 
+exoplanets and solar system topics, galactic, and extragalactic topics, 
+cosmology and high energy astrophysics.  
+
+There is limited time for observations based on public Kepler data or 
+data obtained through the Kepler Guest Observer programs.  Proposals 
+are also sought in: (1) investigations in support of EXOPLANET 
+EXPLORATION science goals and missions; (2) investigations of our own 
+SOLAR SYSTEM; (3) investigations in support of COSMIC ORIGINS science 
+goals and missions; (4) investigations in support of PHYSICS OF THE 
+COSMOS science goals and missions; and (5) direct MISSION SUPPORT.
+
+The proposal process is being handled by the NASA Exoplanet Science 
+Institute (NExScI) at Caltech and all proposals are due on 13    
+September 2012 at 4 pm PDT.  For further information and proposal 
+submission, please see: 
+
+http://nexsci.caltech.edu/missions/KeckSolicitation/index.shtml
+
+Questions not answered on the web pages can be directed to 
+KeckCFP@ipac.caltech.edu 
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA CONTRACTOR SEEKS SCIENTIST FOR ROSES PROGRAM MANAGEMENT/TECHNICAL 
+SUPPORT
+
+SDSE, the contractor to NASA’s Science Mission Directorate (SMD) that 
+supports peer review, is seeking a (preferably PhD) Scientist to 
+conduct the day-to-day management of PSD ROSES programs. Subjects 
+include Planetary Atmospheres, Chemistry, Geology and Spectroscopy, 
+especially but not limited to the Saturnian System, as well as 
+laboratory, observational and theoretical studies of the formation of 
+our Solar System and other planetary systems. For more information see:
+
+http://sj.tbe.taleo.net/SJ6/ats/careers/requisition.jsp?org=
+SDSE&cws=1&rid=19
+
+and 
+
+http://www.sdsellc.com/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a 
+NASA-funded project studying the nature of mantle convection on Mars 
+and its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct 
+research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics with 
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in a 
+Linux environment will be an asset. The position will be offered for 
+an initial period of two years with a possible extension to a maximum 
+of three years.
+
+Applicants should send a letter of interest, a curriculum vita listing 
+relevant publications, a brief (maximum three pages) statement of 
+research interests, and a list of three references to 
+resume@lpi.usra.edu. Further information about LPI can be found at:
+
+http://www.lpi.usra.edu
+
+USRA is an Equal Opportunity Employer.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical 
+interactions between intrusive and extrusive volcanic edifice growth, 
+lithospheric flexural response, and magma ascent, using numerical 
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery, 
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts.  Potential bodies 
+of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic 
+processes with advanced codes as COMSOL Multiphysics (FEM) and PFC 
+(DEM). Programming languages, MATLAB or FORTRAN 95 desirable. The 
+position is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu. Further information may be found 
+at: 
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GSA TOPICAL SESSIONS
+
+The GSA Annual Meeting abstract submission deadline is this Tuesday, 
+14 August (midnight PDT). We welcome abstracts for the following
+planetary geology sessions: 
+
+http://www.geosociety.org/meetings/2012/sessions/topical.asp?CatID
+=Planetary+Geology&submit=Go
+ 
+T147. Tectonics of Icy Bodies and Their Analogs
+T148. Geochemistry, Mineralogy, and Petrology of Mars
+T149. Shock Processes and Shock Attenuation Associated with 
+      Hypervelocity Impact Events
+T150. The Geology of Asteroid 4 Vesta as Seen by Dawn: Results from 
+      One Year in Orbit
+T151. Linking Earth-Observing Data and Planetary Mission Data in the 
+      Teaching and Presentation of Basic Geoscience...
+T152. New Moon Rising: The Latest Geologic Results from the Lunar 
+      Surface
+T153. The Moon, Inside and Out: New Results in Lunar Geophysics, 
+      Structure, and Interior
+T154. Observation and Analysis of Impact Cratering and Its Effects: 
+      The G.K. Gilbert Award Session
+T155. The Heart of an Explorer: A Tribute to Ronald Greeley
+T156. Geologic Analog Studies of the Rocky Planets: Understanding 
+      Planetary Geologic Evolution and Surface Processes
+T157. Gridview Image Manipulation for LOLA and MOLA Topographical Data 
+      (Posters)
+T158. Impact Cratering in the Solar System: Processes and Products
+
+Note: The Charlotte meeting also includes a Pardee symposium in which 
+the first Mars Curiosity rover data will be presented!
+ 
+Simon Kattenhorn
+2012 PGD Chair / University of Idaho
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] DUE DATE DELAYED FOR OUTER PLANETS RESEARCH (OPR) PROGRAM
+
+ROSES Amendment 13 delays the due date for proposals to the Outer 
+Planets Research Program to November 2, 2012, so as not to overlap with 
+the 44th Annual Meeting of the Division for Planetary Sciences of the 
+American Astronomical Society. Notices of intent to propose are still 
+requested by August 24, 2012.
+ 
+This Amendment to the NASA Research Announcement NNH12ZDA001N will be 
+posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then "NNH12ZDA001N"). 
+
+RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2012
+ 
+Questions concerning OPR may be addressed to: 
+
+Terry Hurford
+(202) 358-0780
+terry.a.hurford@nasa.gov
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 5-6, 2012
+Life in the Cosmos
+http://hea-www.cfa.harvard.edu/lifeandthecosmos/wkshop/sep2012/index.
+html (continued from previous line)
+Washington, DC
+
+October 30 - November 1, 2012
+The Evolution and Constitution of Mercury's Interior
+https://sites.google.com/a/case.edu/messenger-bepicolombo-workshop/
+New York, NY
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

@@ -1,0 +1,158 @@
+May 24, 2007
+
+o-------------------TABLE OF CONTENTS---------------------------------o
+   1.  Announcing the Planetary Exploration Newsletter
+   2.  NASA (April 27, 2007) - New policy for NASA Science Mission Directorate
+   3.  NASA (May 3, 2007) - Meet SARA (sara@nasa.gov)
+   4.  Clementine NIR Full-Resolution Lunar Mosaic (Version 0.1) Available
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ANNOUNCING THE PLANETARY EXPLORATION NEWSLETTER
+
+The Planetary Exploration Newsletter (PEN) is a weekly electronic mailing that 
+is intended to be an open conduit of news and announcements across the entire
+planetary science community. This includes astronomers, planetary scientists,
+astrobiologists, geologists, atmospheric scientists and others doing planetary 
+research. The desire is to cut across the boundaries of existing electronic 
+newsletters to increase interdisciplinary awareness and distribute information
+of broad professional interest.
+
+PEN will contain messages from NASA and other officials, meeting announcements 
+from professional societies, job announcements, and your submissions of news 
+regarding or impacting solar system exploration, upcoming mission events, 
+awards, Congressional deliberations on the NASA budget, policy issues, and 
+assessments of program performance. There will be times when volume or events 
+will require more frequent PEN distributions. 
+
+An editorial board has been established that is open to representatives 
+of professional societies, research organizations, and academic departments 
+engaged in planetary science. This is to ensure the broadest possible 
+participation, set policy and offer guidance to the editor. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA (April 27, 2007) - NEW POLICY FOR NASA SCIENCE MISSION DIRECTORATE 
+
+The Science Mission Directorate has adopted a new policy concerning debriefings 
+for proposers to Announcements of Opportunity (AO). Effective immediately, SMD 
+will provide a written debriefing report to the proposer at the time of each 
+proposal oral debriefing to the proposal team.  This policy applies to all 
+future debriefs.
+
+Questions about this policy may be directed to Dr. Paul Hertz, Science Policy 
+Process and Ethics Chief, Science Mission Directorate, NASA, Washington, DC, 
+20546; Phone 202-358-0986; Email paul.hertz@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA (May 3, 2007) - MEET SARA (sara@nasa.gov)
+
+Dr. Alan Stern, Associate Administrator for NASA's Science Mission Directorate,
+has created an entirely new position within the Science Mission Directorate 
+designed specifically to advise, adjust, and streamline NASA's Science Research 
+and Analysis Programs to maximize the scientific return on NASA's investment. 
+Dr. Yvonne Pendleton, an  infrared astrophysicist formerly at NASA Ames Research
+Center, is the person tasked with this responsibility. She comes to the 
+position  with the experience of many years as an active researcher within NASA,
+and with the experience of serving as Chief of the Space Science and 
+Astrobiology Division at NASA's Ames Research Center for  the past two years. 
+Her new title is Senior Advisor for Research and  Analysis (SARA). The position 
+is advisory directly to the Associate Administrator and  has oversight of the 
+R&A activities across the directorate.
+
+In order to improve communication between the science community and  the 
+Science Mission Directorate, you can now send email to Yvonne at sara@nasa.gov. 
+If you have an issue, complaint, concern (or praise!)  specific to a NASA 
+Science R&A program, please contact the appropriate NASA program officer first. 
+However, if your issue is of a more general nature, if you have not received a 
+response within 24  hours, or the response requires elevation to a higher level,
+please  contact Yvonne through the sara@nasa.gov address. The mail and your 
+identity will be kept confidential. Information provided will be  used in a 
+discrete manner to illuminate issues that can be fixed and to rectify 
+communication problems if they exist. A web page devoted to R&A issues will be 
+up shortly, and you will be notified through NSPIRES when this has occurred. 
+After the web page is up and running, we will not use the NSPIRES system to 
+further update the community. We will ask you to sign up on the web site for 
+updates and thereby preserve the NSPIRES email list for its current purpose.
+
+There will be SARA presentations at many of the upcoming scientific conferences,
+including the AAS in May, Bioastronomy in July, the DPS in October, and the 
+AGU in December. Look for updates from Yvonne  Pendleton at these meetings 
+through the NASA night or town hall presentations.
+
+Comments or questions regarding this informational notice should be addressed to
+Dr. Yvonne Pendleton, Senior Advisor for Research and  Analysis, Science Mission
+Directorate, NASA, Washington, DC, 20546;  Email: sara@nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CLEMENTINE NIR FULL-RESOLUTION LUNAR MOSAIC (VERSION 0.1) AVAILABLE
+
+The Astrogeology Program of the U.S. Geological Survey is pleased to announce 
+the availability of a full-resolution version of the Clementine near-infrared 
+(NIR) lunar mosaic. Processed to 100 m/pixel spatial resolution, a PDS-compliant
+image cube version (with detached ISIS labels) of this 6-band (1100 to 2780 nm)
+multispectral mosaic can be downloaded via FTP on the USGS Astrogeology Research
+Program web site.  This Preliminary Release (V 0.1) of the full-resolution 
+mosaic marks the beginning of the review process by PDS peer reviewers. Users 
+of these data should keep in mind that this version remains subject to revision
+pending the outcome of this review process.
+
+Web Site:  http://astrogeology.usgs.gov/Projects/ClementineNIR/
+
+These full-resolution data are compatible with the previous PDS Clementine
+UVVIS 'Full Resolution Digital Image Model' available through PDS Map-a-Planet 
+(http://www.mapaplanet.org/explorer/moon.html) 
+and the PDS Planetary Image Atlas 
+(http://pds-imaging.jpl.nasa.gov/Admin/resources/cd_clementine.html#clmBASE).  
+Once finalized, these multispectral data will also be available through these 
+Web sites.
+
+Citation: Gaddis, Lisa, Chris Isbell, Matt Staid, Eric Eliason, Ella Mae Lee, 
+Lynn Weller, Tracie Sucharski, Paul Lucey, Dave Blewett, John Hinrichs, and
+Donovan Steutel, 2007, The Clementine NIR Global Lunar Mosaic, PDS Volumes
+USA_NASA_PDS_CL_5001 through 5078, produced by the U.S. Geological Survey
+and distributed online and on DVD media by the Planetary Data System.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DAWN LAUNCH SYMPOSIUM, JUNE 28-30, 2007
+
+A conference devoted to the earliest epoch of the solar system, planetary
+formation and our current understanding of Vesta and Ceres will be held
+at the Hilton Hotel, Cocoa Beach Florida, in conjunction with the planned 
+launch of the Dawn spacecraft on June 30. Registration is $180 and those
+registered and cleared in sufficient time will be invited to view the launch 
+with the Dawn team. Both contributed oral and posters are welcome. For further
+information, please contact margie@igpp.ucla.edu or go to
+
+http://www.dawn-mission.org/science/science_team.asp
+
+
+**************************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to Mark V. Sykes (Editor) or Matt
+* Balme (Co-Editor) at: pen_editor at psi.edu. Announcements and other
+* messages should be brief with links to URLs for extended information,
+* including detailed descriptions for job announcements. Go to the PEN
+* website for further submission directions.
+*
+**************************************************************************
+

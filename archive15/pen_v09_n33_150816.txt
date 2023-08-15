@@ -1,0 +1,227 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 33 (August 16, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Memoriam: Ernst K. Zinner, 1937-2015
+2. Re-Calibrated Elemental Composition Data from Curiosity/ChemCam
+3. OPAG Meeting Coming Up
+4. NASA Postdoctoral Fellowships
+5. International Observe the Moon Night 2015
+6. Lowell Observatory: Tenure-Track or Tenured Astronomer
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MEMORIAM: ERNST K. ZINNER, 1937-2015
+
+Ernst K. Zinner, research professor in physics and earth and planetary 
+sciences at Washington University in St. Louis, passed away on July 30, 
+2015 at the age of 78 years. He had been fighting for almost 20 years 
+an unusually aggressive form of Non-Hodgkin's Lymphoma called Mantle 
+Cell Lymphoma. The full obituary can be found here: 
+
+https://news.wustl.edu/news/Pages/zinnerobit.aspx
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RE-CALIBRATED ELEMENTAL COMPOSITION DATA FROM CURIOSITY/CHEMCAM
+
+ChemCam on Curiosity provides a large and varied geochemical dataset 
+available for the planetary community that includes elemental 
+compositions from more than 6,000 individual points on over 1,000 
+geological targets along the rover's traverse. The ChemCam team has 
+recently completed a new calibration model that provides significantly 
+more accurate results for the major element abundances. While the 
+previous calibration model provided good results for fine-grained 
+sedimentary targets near the average Mars composition, the new 
+calibration increases the accuracy overall and provides significant 
+improvements to mineral end-members, particularly silica-rich 
+observations such as those of plagioclase. The re-calibrated ChemCam 
+data are now available on the Planetary Data System server at: 
+
+http://pds-geosciences.wustl.edu/msl/msl-m-chemcam-libs-4_5-rdr-v1
+/mslccm_1xxx/data/moc/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OPAG MEETING COMING UP
+
+Our next OPAG meeting is fast approaching: 24-26 August at JHU/APL. The 
+final agenda is posted on the OPAG homepage - please note that we have 
+made some changes. In particular, our R&A town hall will start at 10 AM 
+EDT rather than 9 AM on August 24. The meeting will now begin with our 
+Science Nugget workshop.  
+
+We have a new page on the OPAG website to post science nuggets.  
+Collections of the Cassini nuggets for 2013 and 2014 are posted there.
+
+Registration is still open - the link is on the OPAG homepage: 
+
+http://www.lpi.usra.edu/opag/
+
+This site includes all logistical information.
+
+Please go to the OPAG website and register to post on our OPAG 
+discussion board. I'd like to use this to record ideas throughout the 
+meeting. Go to the menu tab titled "OPAG Discussion Board." This will 
+be a place for us all to post our thoughts and especially our vision 
+for the future. Please use it to say what you think!! Right now the 
+over-arching science themes part of our new science goals document is 
+under construction - we are considering "Explore Ocean Worlds and Ice 
+Giants."
+
+Sincerely,
+
+Candy Hansen
+OPAG Chair
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://apps.orau.gov/NPDoc/Catalog/17614
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: http://bit.ly/1UA7aHs
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INTERNATIONAL OBSERVE THE MOON NIGHT 2015
+
+International Observe the Moon Night (InOMN) is an annual worldwide 
+celebration of lunar science and exploration. One day each year, 
+everyone on Earth is invited to unite and observe and learn about the 
+Moon and its connection to planetary science, and share personal and 
+community connections we all have to the Moon. InOMN 2015 is just 
+over a month away: September 19, 2015.
+
+We invite you to be a part of it, by hosting or participating in an 
+InOMN event.
+
+Check out the InOMN website for a map of registered events, to register 
+a new event, and for InOMN resources, including a guide that walks you 
+through planning an InOMN event of any size, advertising materials, 
+suggested activities, and InOMN Moon map, evaluation materials, and 
+more.
+
+http://observethemoonnight.org
+ 
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track
+or tenured research positions in astronomy or planetary science. We
+invite applicants at any career level who can build on current
+strengths or open new areas for Lowell. A Ph.D. in astronomy,
+planetary science, or a related field is required, as is an outstanding
+record of research and demonstrated ability or potential to obtain
+external research funding. Candidates are invited to describe how they
+would make use of our observational facilities, but we will give equal
+consideration to all research areas. The start date for this position
+is flexible but desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07/Tenure-track-
+Astronomer.pdf
+
+To apply: Send applications electronically to:
+humanresources@lowell.edu
+
+Applications should include:
+(1) a cover letter and CV,
+(2) a research plan of 3 pages or less, and
+(3) names and mail/email addresses of three individuals who have
+agreed to serve as references. Do not ask for reference letters
+to be sent in advance.
+
+Applications must be received by November 1, 2015 for full
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 14-18, 2016
+50th ESLAB Symposium "From Giotto to Rosetta"
+http://www.congrexprojects.com/2016-events/16a07
+Leiden, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************
+

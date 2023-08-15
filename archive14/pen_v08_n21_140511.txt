@@ -1,0 +1,411 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 21 (May 11, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. "Geospace Revisited" Third Announcement and Call for Papers
+2. Binghamton Geomorphology Symposium (BGS)
+3. Two New Resource Guides for Those Who Teach or Explain Astronomy
+4. Rosetta/MIDAS Postdoc Position
+5. Mars Magnetic Fields and Upper Atmosphere Postdoctoral Researchers
+   (NASA-GSFC/CRESST/University of Maryland)
+6. NASA Postdoctoral Fellowships
+7. Planetary Geomorphology Image of the Month
+8. Special Regions SAG Report: Presentation at MEPAG Meeting Next Week
+9. First Announcement for Hayabusa 2014: Second Symposium of Solar 
+   System Materials
+10. [NASA] ROSES-14: Removing Planetary Major Equipment from PDART
+11. MEPAG Meeting via Adobe Connect
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+"GEOSPACE REVISITED" THIRD ANNOUNCEMENT AND CALL FOR PAPERS
+
+Geospace Revisited: A Cluster/MAARBLE/Van Allen Probes Conference
+Rhodes (Greece), 15-20 September 2014
+
+http://geospacerev.space.noa.gr/
+
+This conference aims at revisiting long-standing issues of geospace 
+dynamic phenomena. New data from space missions like Cluster, THEMIS 
+and the more recent Van Allen Probes, along with measurements from 
+ground-based magnetometer arrays around the globe, processed with new 
+methods and combined with theory and simulations are expected to shed 
+light on the complex interplay of particles, fields and waves in 
+geospace, and in particular the inner magnetosphere (radiation belts 
+and ring current). It will be held at the Rodos Palace Hotel: 
+
+http://www.rodos-palace.gr/
+
+Abstract submission is now open until 15 June 2014.
+
+Please note that one has to first register at:
+
+http://geospacerev.space.noa.gr/registration/register.php
+
+before heading to the abstract submission page at:
+
+http://geospacerev.space.noa.gr/abstracts/submitAbstract.php
+
+The sessions and invited speakers can be found at:
+
+http://geospacerev.space.noa.gr/index.php/ct-menu-item-7
+
+Information on accommodation and transportation can be found at:
+
+http://geospacerev.space.noa.gr/index.php/room-reservation-and-
+travel-information
+
+The deadline for room reservations is 31 July 2014.
+
+Ioannis Daglis <iadaglis@phys.uoa.gr>
+Philippe Escoubet <Philippe.Escoubet@esa.int>
+
+[Edited for length.] 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+BINGHAMTON GEOMORPHOLOGY SYMPOSIUM (BGS)
+
+The Binghamton Geomorphology Symposium (BGS), an established forum for 
+exploring all aspects of geomorphology, focuses this year on Planetary 
+Geomorphology. We warmly welcome abstracts from all branches of 
+planetary - and terrestrial - geomorphology. BGS2014 (Sept 12-14, at 
+the University of Tennessee-Knoxville) will include a field trip to 
+the Appalachian Mts and a workshop on accessing planetary datasets.  
+
+Please see:
+
+http://web.eps.utk.edu/SYMPOSIUM/index.php 
+
+for more information, to register or to submit an abstract 
+(before Aug 1). Abstracts will be searchable through the SAO/ADS.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+TWO NEW RESOURCE GUIDES FOR THOSE WHO TEACH OR EXPLAIN ASTRONOMY
+
+"Unheard Voices," a set of resource guides about the astronomy of many 
+cultures and about the contributions of women to astronomy, is now 
+available on the Multiverse web site at:
+
+http://multiverse.ssl.berkeley.edu/Learning-Resources/
+Educator-Resource-Guides
+
+The two new resource guides are designed specifically for instructors 
+and students in introductory college science courses (such as 
+Astro 101), but can be used by anyone who is teaching, explaining, or 
+learning astronomy or earth and space science. Sponsored by the 
+Heliophysics Forum of the Space Missions Directorate at NASA, the 
+guides include written, on-line, and audio-visual materials, many of 
+which can be used directly in the classroom, for student papers, or 
+personal enrichment.
+
+"Unheard Voices 1: The Astronomy of Many Cultures" features the 
+contributions to astronomy of African, Asian, Hispanic, South Pacific, 
+Islamic, and Native American cultures, together with a section on 
+reports and articles for achieving greater diversity in science.  
+(15 pages)
+
+"Unheard Voices 2: Women in Astronomy" features sections on: the 
+history of women in astronomy in general, materials on selected women 
+astronomers of the past, issues facing women in astronomy today, and 
+materials on selected contemporary women astronomers. (13 pages)
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ROSETTA/MIDAS POSTDOC POSITION
+
+A three year postdoctoral position is available at the Space Research 
+Institute of the Austrian Academy of Science, Graz, Austria, within 
+the frame of the ASAP10 project "The MIDAS AFM - modelling and 
+calibration of a cometary atomic force microscope".
+
+The successful applicant will join the core MIDAS team which is 
+responsible for planning and executing operations of the instrument. 
+As well as participating in the ongoing science planning for MIDAS, 
+the candidate would combine numerical modelling and analysis of 
+scientific data and telemetry to better understand the instrument 
+behavior with respect to temperature, vibration and other factors. 
+The Flight Spare and Qualification Model instruments are available 
+for ground based testing and analysis. Calibration and data 
+archiving activities will become important in the latter half of the 
+project and it is expected that as operations become more routine, 
+time would be available for scientific analysis of the data.
+
+The appointment should start in June 2014 and runs for 36 months; 
+the application deadline is 16th May 2014. Both of these can be 
+(slightly!) flexible, so please get in touch if you are interested. 
+Interested candidates should send their application including a 
+short CV to the project leader Dr. Mark Bentley 
+(mark.bentley@oeaw.ac.at).
+
+Further details: 
+
+http://www.oeaw.ac.at/fileadmin/service/personal/
+ASAP10_MIDAS_PostDoc.pdf.pdf
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS MAGNETIC FIELDS AND UPPER ATMOSPHERE POSTDOCTORAL RESEARCHERS
+(NASA-GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+Applications are now being accepted for two Postdoctoral Research
+Associates, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Mars magnetic fields and upper atmosphere investigations using data 
+from the MAVEN mission. Additional details are available at:
+
+http://www.astro.umd.edu/employment/
+
+Candidates for either position should have a Ph.D. in a relevant
+discipline with prior experience conducting scientific research 
+related to the Maven science objectives or the types of instruments 
+included in the MAVEN science payload. IDL skills and experience in 
+acquisition and analysis of data from space flight instruments are 
+highly desirable.
+
+The University of Maryland is an equal opportunity employer. All
+applications received by May 23, 2014 will receive full consideration.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample research opportunity is:
+
+https://www3.orau.gov/NPDoc/Catalog/18360  
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+ 
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The May 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This Month's topic is on the Xanadu region on Titan. Post is 
+contributed by Dr. Mirjam Langhans, GFZ German Research Centre for 
+Geosciences, Helmholtz Centre Potsdam, Germany.
+
+Mary Bourke
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SPECIAL REGIONS SAG REPORT: PRESENTATION AT MEPAG MEETING NEXT WEEK
+
+To Members of the Mars Exploration Community,
+
+One of the major presentations at the MEPAG meeting next week will be 
+the draft analysis prepared by the Special Regions SAG. This committee 
+has been working for approximately the last 5 months to update our 
+technical understanding of when and where planetary protection special 
+regions might occur on Mars. The SAG has produced a draft report for 
+community review, discussion, and feedback. A set of PPT-formatted 
+files summarizing their preliminary findings has now been posted on 
+the MEPAG website at the following location: 
+
+http://mepag.jpl.nasa.gov/meetings.cfm?expand=m29 
+
+The SAG committee would welcome any feedback on this interim material 
+before it proceeds to preparation of a text-formatted final report.
+ 
+Dave Beaty
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FIRST ANNOUNCEMENT FOR HAYABUSA 2014: SECOND SYMPOSIUM OF SOLAR SYSTEM 
+MATERIALS
+
+Scope:
+Hayabusa return samples have been preliminary examined, followed by 
+research in 1st and 2nd AO. This time spectroscopy is more emphasized 
+to relate these samples with processes on small planets. Let us join 
+and set a perspective to the future solar system science driven by 
+these topics with this symposium!
+
+We welcome the presentations on the following topics:
+* Results from Hayabusa sample analysis
+* New insights from solar system material analysis
+* Spectroscopy and planetary surface processes
+* Perspectives of solar system evolution by theoretical, observational 
+  and experimental studies
+* Technique and methodology of sample analysis
+* Other related studies 
+
+Important dates: 
+Call for abstracts - 15 July 2014
+Abstract submission due - 30 September 2014
+Meeting period - 4-5 December 2014
+Proceedings due - 28 February 2015
+
+Website:
+
+http://hayabusaao.isas.jaxa.jp/symposium/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-14: REMOVING PLANETARY MAJOR EQUIPMENT FROM PDART
+
+ROSES-14 Amendment 19 removes the Planetary Major Equipment option 
+from Appendix C.7, Planetary Data Archiving, Restoration, and Tools 
+Program (PDART)
+
+The Planetary Data Archiving, Restoration, and Tools (PDART) Program 
+solicits proposals to generate higher-order data products, archive 
+and restore data sets or products, create or consolidate reference 
+databases, digitize data, and develop or validate software tools.
+
+The objective of this program element is to increase the amount and 
+quality of archived data and data products available for planetary 
+science research and exploration and to produce tools that would 
+enable or enhance future scientific investigations. 
+
+This amendment removes the Planetary Major Equipment option from 
+the Planetary Data Archiving, Restoration, and Tools call, C.7. The 
+due dates remain unchanged, Step-1 proposals are due July 14, 2014, 
+and Step-2 proposals are due September 12, 2014.
+
+Amendment: NNH14ZDA001N
+
+http://nspires.nasaprs.com/ 
+
+RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2014
+
+Questions concerning C.7, PDART, may be addressed to:
+Planetary Science Division
+Michael Kelley - Lead Point of Contact
+ (202) 358-0607; michael.s.kelley@nasa.gov
+Michael New - Discipline Scientist
+ (202) 358-1766; michael.h.new@nasa.gov
+Sarah Noble - Discipline Scientist
+ (202) 358-2492; sarah.noble-1@nasa.gov
+
+[Edited for length.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG MEETING VIA ADOBE CONNECT
+
+Dear Members of the Mars Community:
+
+If you would like to tune in to next week's MEPAG meeting remotely, 
+please log on to the Adobe Connect site at:
+
+https://connect.arc.nasa.gov/mepag/ 
+
+and listen through your computer's speakers. The chat feature on the 
+site will allow you to ask questions during the Q&A portion of each 
+session.
+
+There will be no call-in line provided for this meeting.
+
+Carla de la Paz
+Staff Assistant
+MED Chief Scientists/Chief Technologist Office
+Jet Propulsion Laboratory
+4800 Oak Grove Drive, M/S 321-630
+Pasadena, CA 91109
+Ph. (818) 354-3160 Fax (818) 393-3035
+paz@jpl.nasa.gov
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+December 4-5, 2014
+Hayabusa 2014:  Second Symposium of Solar System Materials
+http://hayabusaao.isas.jaxa.jp/symposium/
+Kanagawa, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

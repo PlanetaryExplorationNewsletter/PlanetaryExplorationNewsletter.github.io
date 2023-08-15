@@ -1,0 +1,380 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 20 (May 14, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Planetary Scientist Nathan Bridges
+2. JWST Exposure Time Calculator (ETC) Webinar for Solar System Science
+3. Shock Metamorphism Workshop Deadline Extended
+4. NASA Postdoctoral Fellowships
+5. Call for External Reviewers NASA Postdoctoral Program
+6. Software Systems for Astronomy Meeting
+7. MESSENGER Data Release 16
+8. 7th Paolo Farinella Prize Deadline Extended
+9. Planetary Meetings Calendar Additions
+
+Commercial Announcements:
+
+C1. New Book: "Worlds Fantastic Worlds Familiar: A Guided Tour of the
+    Solar System"
+C2. New Book: "The Pristine Beauty of the Red Planet"
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: PLANETARY SCIENTIST NATHAN BRIDGES
+
+Nathan Bridges, a planetary research scientist at the Johns Hopkins
+University Applied Physics Laboratory (APL), died on April 26. He was
+50 years old.
+
+Bridges was a senior expert on the geology of Mars, remote sensing
+techniques, and the role of wind-driven processes in planetary erosion
+and sedimentation on Earth, Mars, and Titan, Saturn's largest moon.
+Among his many important findings, Bridges discovered that wind is as
+important a geologic process on Mars as it is on Earth, despite the
+much lower density of the Martian atmosphere.
+
+He was an integral part of multiple Mars missions and instrument teams:
+he served as a Co-Investigator on the High Resolution Imaging Science
+Experiment (HiRISE) instrument on the Mars Reconnaissance Orbiter, a
+Co-Investigator on the Mars Science Laboratory (Curiosity rover)
+ChemCam instrument, and a science team member on two Mars-2020 rover
+instruments, SuperCam and the Mars Environmental Dynamics Analyzer.
+
+Bridges is survived by his wife Karen, daughter Sarah, and son Matthew.
+
+The complete obituary can be read here:
+
+http://civspace.jhuapl.edu/News-and-Events/article.php?num=20170512
+
+A tribute to Bridges from the Planetary Society can be found here:
+
+http://www.planetary.org/blogs/casey-dreier/2017/0503-a-tribute-to-
+nathan-bridges.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JWST EXPOSURE TIME CALCULATOR (ETC) WEBINAR FOR SOLAR SYSTEM SCIENCE
+
+ETC Webinar: Thursday, June 15, 12-1 PM EDT (US)
+
+Webex info: Link: 
+
+https://tinyurl.com/n662ezq 
+
+Meeting number: 640 002 474 Password: JWST2018
+
+The General Observer (GO) Call for Proposals will be released on
+November 30, 2017, with a submission due date of March 2, 2018. Get
+ahead of the game by joining STScI's John Stansberry and Bryan Holler
+for a hands-on demonstration of the ETC in the context of Solar System
+observations. This webinar will also feature an overview of Pandeia,
+the downloadable ETC engine written in Python, and a request for
+community input on Pandeia tools and capabilities that would be useful
+for planning observations.
+
+Attendance information and a recording of the webinar will also be
+available on the JWST events page at:
+
+https://jwst.stsci.edu/news-events/events
+
+Other useful links:
+
+JWST ETC web-interface: 
+
+https://jwst.etc.stsci.edu 
+
+(Note that you must create a MyST log-in to save your workbooks in the
+ETC.)
+
+Pandeia download page: 
+
+https://ssb.stsci.edu/pandeia/engine/1.0/
+
+JWST Documentation (JDOX) for Solar System targets will begin to be
+published on May 19 at: 
+
+https://jwst-docs.stsci.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SHOCK METAMORPHISM WORKSHOP DEADLINE EXTENDED
+
+Shock Metamorphism in Terrestrial and Extra-terrestrial Rocks
+June 26-29, 2017
+Perth, Western Australia
+
+Abstract Deadline (extended): 14 May 2017
+
+For more information, see workshop website at:
+
+http://www.sserviaustralia.org/event/shock-metamorphism-in-terrestrial-
+and-extra-terrestrial-rocks/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program offers US and international scientists
+the opportunity to advance their research while contributing to NASA's
+scientific goals. The NPP supports fundamental science, explores the
+undiscovered, promotes intellectual growth, and encourages scientific
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+
+Current research opportunities in planetary science can be viewed here:
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before
+beginning the fellowship, but may apply while completing the degree
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high
+cost-of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and $8,000
+per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CALL FOR EXTERNAL REVIEWERS NASA POSTDOCTORAL PROGRAM
+
+The NASA Postdoctoral Program (NPP), managed by USRA, provides young
+and more senior scientists the opportunity to work on 1 to 3 year
+assignments with NASA scientists and engineers at NASA centers and
+institutes to advance NASA's missions in earth science, heliophysics,
+planetary science, astrophysics, space bioscience, aeronautics,
+engineering, human exploration and space operations, astrobiology, and
+science management. USRA is recruiting well-qualified reviewers for
+upcoming applications.
+
+Reviewers may be asked to review up to 5 applications (each application
+is 15 pages, including figures and citations; double-spaced). 
+Proposals deadlines are March 1, July 1, and November 1. The reviewer
+evaluations are submitted online and those who are eligible will
+receive an honorarium of $50 for each review submitted.
+
+Reviewers should have the following minimum qualifications: three (3)
+years past PhD; 10 or more peer-reviewed publications; at least five
+(5) peer-reviewed publications as first author; work in a field
+relevant to NASA; and show national and international prominence
+through awards and invitations to speak at major scientific meetings.
+
+If you are interested in being a reviewer, create an account at:
+
+https://npp.usra.edu/reviewer_connect/ 
+
+For additional questions email nppreviews@usra.edu.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SOFTWARE SYSTEMS FOR ASTRONOMY MEETING
+
+Summer School in Software Systems for Astronomy - Registration is now
+open for the 4th offering of Software Systems for Astronomy. The course
+covers software design and implementation of telescope and instrument
+control systems, observation planning tools, and software for analyzing
+and archiving astronomical data. SSfA-4 will be offered as a two week
+intensive course this summer, 24 July to 04 August, 2017, on the Big
+Island of Hawaii.
+
+To register, visit the following web page and follow the instructions
+(UHH students skip steps 1-4):
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2017/summer2017.php#
+Special_Summer_Note
+
+The course number is ASTR394. For more information visit:
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2017/summer2017.php
+
+or send email to aconrad@hawaii.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MESSENGER DATA RELEASE 16
+
+The Planetary Data System is pleased to announce Release 16 of products
+created from data collected by the MErcury Surface, Space ENvironment,
+GEochemistry, and Ranging (MESSENGER) mission. This is the final
+release for the MESSENGER project.
+
+New products:
+Regional three-color mosaics of Caloris and B30 (MDIS)
+High-resolution regional DEMs (MDIS)
+Map browse (MDIS extras)
+UVVS far-ultraviolet surface reflectance (MASCS)
+Combined UVVS+VIRS spectra for the southern hemisphere (MASCS)
+UVVS orbit-by-orbit summaries of exosphere observations (MASCS)
+Animated visualizations of VIRS reflectance (MASCS extras)
+Documentation for the VIRS flat-field correction investigation (MASCS)
+Pitch-angle values for EPS pitch-angle summary plots (EPPS)
+Footprint products for calibrated data records (CDRs) (XRS)
+Spacecraft ephemeris kernel (SPK) based on low-altitude MLA data 
+(SPICE)
+Documentation of low-altitude orbit analysis (MLA)
+
+Some MDIS, MLA, and MASCS products have updated calibration or
+photometric correction and/or other improvements. GRNS, MASCS, and EPPS
+have new or updated user documentation in the document directories of
+the archive PDS3 volumes.
+
+All data sets in this MESSENGER release:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170512.shtml
+
+The ACT-REACT QuickMap interactive Web interface to MESSENGER data:
+
+http://messenger.jhuapl.edu
+
+Updated MDIS global mosaics:
+
+http://messenger.jhuapl.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+7TH PAOLO FARINELLA PRIZE DEADLINE EXTENDED
+
+To honor the memory and the outstanding figure of Paolo Farinella
+(1953-2000), an extraordinary scientist and person, a prize has been
+established in recognition of significant contributions given in the
+fields of interest of Paolo, which span from planetary sciences to
+space geodesy, fundamental physics, science popularization, security in
+space, weapons control and disarmament. The prize has been proposed
+during the "International Workshop on Paolo Farinella, the scientist
+and the man", held in Pisa in 2010, and is supported by the following
+Italian Institutions: University of Pisa, ASI, INAF, IFAC-CNR.
+
+The seventh Paolo Farinella Prize is devoted to planetary sciences and
+specifically to studies on the "Physics and dynamics of the inner
+planets of the solar system and their satellites".
+
+The award ceremony will be hosted by the European Planetary Science
+Congress (EPSC) meeting in Riga, Latvia (17-22 September 2017).
+
+The rules, call and the nomination forms can be found at:
+
+http://www.europlanet-eu.org/nominations-for-the-7th-paolo-farinella-
+prize-now-open/
+
+Nominations must be sent by email not later than May 25th, 2017, to
+dimartino@oato.inaf.it and david.lucchesi@iaps.inaf.it
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 9-13, 2017
+Eighth Moscow Solar System Symposium (8M-S3)
+http://ms2017.cosmos.ru/
+Moscow, Russia
+
+February 25-March 2, 2018
+The 2nd Rencontres du Vietnam on Exoplanetary Science
+http://rencontresduvietnam.org/conferences/2018/exoplanetary_science/
+Quy Nhon, Vietnam
+
+October 2-6, 2017
+Fourth International Conference on Early Mars
+https://www.hou.usra.edu/meetings/earlymars2017/
+Flagstaff, AZ
+
+November 4-7, 2018
+2018 GSA Annual Meeting
+https://www.geosociety.org/GSA/Events/Annual_Meeting/GSA/Events/gsa2018.aspx
+Indianapolis, Indiana
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+NEW BOOK: "WORLDS FANTASTIC WORLDS FAMILIAR: A GUIDED TOUR OF THE SOLAR
+SYSTEM"
+
+Bonnie J. Buratti just published her popular book, "Worlds Fantastic
+Worlds Familiar: A guided tour of the Solar System" (Cambridge). Part
+science and part memoir, the book gives the reader a personal tour of
+NASA's latest Solar System discoveries. This account of modern space
+exploration is written for non-specialist readers of high-school age
+and beyond.
+
+https://www.amazon.com/Worlds-Fantastic-Familiar-Guided-System/dp/
+1107152747
+
+
+C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2
+
+NEW BOOK: "THE PRISTINE BEAUTY OF THE RED PLANET"
+
+HiRISE is the most powerful camera ever sent to another planet, showing
+us Mars in astonishing detail. Featuring an outstanding and
+never-before-published collection of HiRISE high-resolution color
+images with explanatory captions in twenty-four languages, this book
+offers a unique volume produced from an active NASA mission. 
+
+http://www.uapress.arizona.edu/Books/bid2683.htm
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

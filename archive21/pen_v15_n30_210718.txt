@@ -1,0 +1,887 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 30 (July 18, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. Postdoctoral Position within Data Processing and Visualization of 
+   EISCAT3D Data, Umea University, Sweden
+3. Ph.D. Position in Machine Learning for Planetary In Situ 
+   Spectroscopic Data at German Aerospace Center in Berlin
+4. Postdoctoral Position in Lunar Science at APL
+5. Mars Pathfinder and Mars Phoenix Lander Targets Now Available in 
+   Mars Target Encyclopedia
+6. Call for Papers: Remote Sensing - Special Issue "Remote Sensing 
+   Observations of the Giant Planets"
+7. [NASA] SMD Town Hall Meeting July 22 1:30 PM Eastern Time
+8. Mars Sample Return Townhall at the 84th Annual (Hybrid) Meeting of 
+   the Meteoritical Society
+9. DPS Committee Invites DPS Members to Apply for DPS Education and 
+   Outreach Grants
+10. Juno Viewer Now Available at PDS RMS Node
+11. COSPAR Updates Its Planetary Protection Policy for Missions to the 
+    Moon's Surface
+12. GC-MAC 2021: Final Call for Abstracts Due July 22, 2021
+13. Attend the DPS Meeting this Year
+14. [NASA] ob Announcement: SMD Assistant Deputy Associate 
+    Administrator for Exploration
+15. AGU Session DI004: Diving Deep - Investigations of Planetary 
+    Interiors through Observations, Modeling, and Experiments
+16. AGU Session EP008: Earth and Planetary Surface Processes General 
+    Contributions
+17. AGU Session EP036: Surface Processes on Extraterrestrial Rocky 
+    Bodies
+18. AGU Session P014: Hydrothermal Processes in the Evolution of Solar 
+    System Bodies  
+19. AGU Session P016: Illuminating the Martian Rock Cycle with 
+    Regional Geochemistry
+20. AGU Session P017: In Situ Geophysical Exploration of Planetary 
+    Bodies
+21. AGU Session P021: Mars Sample Return - Challenges and Advances in 
+    Planning for the First Samples from Another Planet
+22. AGU Session P022: Mercury at the Dawn of the BepiColombo Era - 
+    Interdisciplinary Exploration Inside and Out
+23. AGU Session P032: Space Environments and Weather of Unmagnetized 
+    or Weakly Magnetized Solar System Bodies
+24. AGU Session P033: Surface Processes on Active Icy Worlds
+25. AGU Session P040: Titan - Atmosphere, Surface and Interior
+26. Planetary Meeting Calendar Additions
+27. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Friday July 23, 10:00 AM-2:00PM ET 
+Human Exploration Writing Group Meeting
+
+https://bit.ly/3hO1JaE
+
+Please see link above for agenda and connection information.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL POSITION WITHIN DATA PROCESSING AND VISUALIZATION OF 
+EISCAT3D DATA, UMEA UNIVERSITY, SWEDEN
+
+The employment is full-time for two years starting September 15, 2021 
+or by agreement.
+
+In the research project data from EISCAT3D will be used. EISCAT3D 
+collects atmospheric and ionospheric data using Incoherent Scatter 
+Radar (ISR) techniques and provides information about the complex 
+systems in the atmosphere and the interaction between the Sun and the 
+Earth, e.g., northern lights, space weather, meteors incidents and 
+climate issues. In this project, this information will be made 
+accessible through interactive visualization, giving possibilities for 
+both researchers and a general public to explore the phenomena and 
+processes that characterize the atmosphere.
+
+The full advertisement can be found at:
+
+https://bit.ly/3ipM4xH
+
+The closing date is August 15, 2021.
+
+Further details are provided by principal investigator Madelen Bodin
+phone: +46 90 7869618 or e-mail: madelen.bodin@umu.se.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PH.D. POSITION IN MACHINE LEARNING FOR PLANETARY IN-SITU SPECTROSCOPIC 
+DATA AT GERMAN AEROSPACE CENTER IN BERLIN
+
+A newly founded junior research group at the German Aerospace Center 
+(DLR) in Berlin will investigate methods from the field of machine 
+learning for the analysis of spectroscopic in-situ planetary data. 
+Techniques like laser-induced breakdown spectroscopy (LIBS) or Raman 
+spectroscopy have many advantages for the robotic exploration of 
+extraterrestrial bodies and Mars missions such as the recently landed 
+rover Perseverance and its predecessor Curiosity are equipped with 
+such instruments. However, the physics behind these methods is complex 
+and not all problems can be solved analytically. Therefore, we want to 
+investigate machine learning methods to address the challenging 
+complexity in the data.
+
+The Ph.D. project will include laboratory measurements with highly 
+performant but also compact instrumentation, simulating, for example, 
+Martian atmospheric conditions. The focus will be on the classification 
+and identification of geological samples, thus different types of 
+minerals and rocks. We are looking for a motivated and enthusiastic 
+student with an expertise in data science and a high interest in the 
+Solar System exploration.
+
+For more information, please visit:
+
+https://bit.ly/3euWdrE
+
+We are looking forward to your application!
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+POSTDOCTORAL POSITION IN LUNAR SCIENCE AT APL
+
+The Planetary Exploration Group at the Johns Hopkins University Applied
+Physics Laboratory plans to hire a postdoctoral researcher in the 
+field of lunar science. A job description and application instructions 
+can be found at this link:
+
+https://prdtss.jhuapl.edu/jobs/lunar-science-postdoctoral-fellow-1603
+
+APL offers a vibrant, welcoming atmosphere where you can bring your 
+authentic self to work, continue to grow, and build strong connections 
+with inspiring teammates. We celebrate our differences and encourage 
+creativity and bold, new ideas.
+
+Questions may be directed to
+Dr. David Blewett (david.blewett@jhuapl.edu) or 
+Dr. Rachel Klima (Rachel.Klima@jhuapl.edu).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS PATHFINDER AND MARS PHOENIX LANDER TARGETS NOW AVAILABLE IN MARS 
+TARGET ENCYCLOPEDIA
+
+The Mars Target Encyclopedia (MTE) aims to collect in one place 
+information about observational targets (e.g., rocks, soils) 
+identified and named during Mars surface exploration. The MTE links 
+targets to publications that provide information (e.g., composition, 
+provenance, interpretation) about each target. Version 1.2 of the MTE 
+was recently released and includes targets from the Mars Pathfinder 
+and Mars Phoenix Lander missions identified in the proceedings from 
+the Lunar and Planetary Science Conference from 1998 through 2020. 
+This release also includes compositional relations (elements or 
+minerals in a target) and properties (e.g., "icy soil", "pitted"). The 
+MTE database is available at
+
+https://pds-geosciences.wustl.edu/missions/mte/mte.htm
+
+More information about the latest release is available at
+
+https://www.hou.usra.edu/meetings/lpsc2021/pdf/1278.pdf
+
+Current work on the MTE is funded by a NASA PDART grant and is a 
+collaboration between the NASA Jet Propulsion Laboratory and the 
+University of Utah.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CALL FOR PAPERS: REMOTE SENSING - SPECIAL ISSUE "REMOTE SENSING 
+OBSERVATIONS OF THE GIANT PLANETS"
+
+Dr. Imke de Pater and Dr. Yamila Miguel are running a special issue 
+entitled "Remote Sensing Observations of the Giant Planets" in the 
+journal Remote Sensing (ISSN 2072-4292, IF 4.848).
+
+This special issue focuses on remote sensing observations of giant 
+planets across the electromagnetic spectrum; both direct observations 
+(e.g., atmospheres), as well as more "indirect" (e.g., gravity, 
+interior structure) are considered.
+
+For further reading, please follow the link to the special issue 
+website at:
+
+www.mdpi.com/journal/remotesensing/special_issues/RS_of_Giant_Planets
+
+The submission deadline is April 30, 2022. You may send your manuscript 
+now or up until the deadline. Submitted papers should not be under 
+consideration for publication elsewhere. Authors are encouraged to 
+send a short abstract or tentative title to the special issue guest 
+editors (imke@berkeley.edu; ymiguel@strw.leidenuniv.nl) before 
+submission.
+
+Remote Sensing is fully open access. It is supported by the authors 
+and their institutes. An Article Processing Charge (APC) of CHF 2400 
+currently applies to all accepted papers.
+
+For further details on the submission process, please see the 
+instructions for authors at the journal website:
+
+https://www.mdpi.com/journal/remotesensing/instructions
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] SMD TOWN HALL MEETING JULY 22 1:30 PM EASTERN TIME
+
+NASA's Science Mission Directorate will hold a community town hall 
+meeting with Associate Administrator for Science Thomas H. Zurbuchen 
+and his leadership team at 1:30 p.m. Eastern Time Thursday, July 22, 
+to discuss updates to NASA's science program and share the current 
+status of NASA activities.
+ 
+Members of the science community, academia, the media, and the public 
+are invited to participate by joining at:
+
+https://bit.ly/2VVe0ll
+ 
+Event number: 199 165 8366. Event password: dzPfxAWy442.
+ 
+To ask a question, go to:
+
+https://nasa.cnf.io/sessions/d9pq/#!/dashboard
+ 
+Users can submit their own questions or vote up questions submitted by 
+others. The meeting leaders will try to answer as many of the 
+submitted questions as possible.
+ 
+Presentation materials for the meeting will be available for download 
+and a recording will be available later that day at:
+
+https://science.nasa.gov/researchers/virtual-townhall
+ 
+This WebEx service includes a feature that allows audio and any 
+documents and other materials exchanged or viewed during the session 
+to be recorded. You should inform all meeting attendees prior to 
+recording if you intend to record the meeting. Please note that any 
+such recordings may be subject to discovery in the event of litigation.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS SAMPLE RETURN TOWNHALL AT THE 84TH ANNUAL (HYBRID) MEETING OF THE 
+METEORITICAL SOCIETY
+
+Tuesday, August 17, 2021, lunch hour (exact times TBD); no RSVP for 
+this event needed
+
+Convened by:
+David Beaty, Brandi Carrier, Chris Herd, and Meenakshi Wadhwa
+
+This townhall will provide an update on the latest plans, timelines, 
+and current status of the three main components of the Mars Sample 
+Return (MSR) Campaign: 1) the Mars 2020 mission that will include 
+sample characterization, collection, and caching, 2) the MSR Program, 
+which would follow Mars 2020 and will retrieve and transport the 
+samples from Mars to Earth, and 3) the Mars Returned Sample Handling 
+phase that will include the handling of Mars samples in the Sample 
+Receiving Facility and access to these samples by the sample science 
+community per a well-developed science management plan.
+
+https://www.metsoc2021-chicago.com/marstownhall
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DPS COMMITTEE INVITES DPS MEMBERS TO APPLY FOR DPS EDUCATION AND 
+OUTREACH GRANTS
+
+The DPS Committee is offering small grants (average amounts of $200 to 
+$500) to support DPS members to engage in local and virtual education 
+and public engagement activities. These grants are intended to support 
+DPS member efforts to engage other members, students, teachers, and the 
+public and can be used for materials, consumables, equipment but not 
+for salary or travel to DPS meetings. Current proposals are being 
+accepted for programs that will occur by June 1, 2022. If you have a 
+question about what is an acceptable cost, please contact the DPS 
+Education Officer, Sanlyn Buxner, buxner@psi.edu. Grants have a 
+rolling deadline with reviews beginning on August 1, 2021 and 
+occurring each month after that. Awardees will be alerted by the 15th 
+of each month after they are received. Applications will be accepted 
+until all grant funds have been depleted, that cap will be posted on 
+the website.
+
+Learn more at:
+
+https://dps.aas.org/education/education-outreach-grants/application
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JUNO VIEWER NOW AVAILABLE AT PDS RMS NODE
+
+The Ephemeris Tools hosted by the PDS Ring-Moon Systems Node now 
+support the Juno mission. 
+
+See the view from Juno at any point in time during the mission, past 
+or future, with the Jupiter Viewer. Create tables of data for Jupiter 
+and its moons with the Ephemeris Generator. 
+
+Look under "Juno Tools" at:
+
+https://pds-rings.seti.org/tools
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+COSPAR UPDATES ITS PLANETARY PROTECTION POLICY FOR MISSIONS TO THE 
+MOON'S SURFACE
+
+COSPAR, the Committee on Space Research, and its Panel on Planetary 
+Protection (PPP) have recommended on May 18, 2021 that missions to the 
+Moon would remain under the general terms of COSPAR Planetary 
+Protection Policy Category II, but have added two sub-categories for 
+lunar surface missions.
+
+Category IIa concerns all missions to the surface of the Moon whose 
+nominal mission profile does not access the areas defined in Category 
+IIb below. For those missions, the material inventory recommended by 
+COSPAR will now be limited to those organic products that may be 
+released into the lunar environment by the propulsion system.
+
+Category IIb concerns all missions to the surface of the Moon whose 
+nominal mission profile accesses the socalled Permanently Shadowed 
+Regions (PSRs) and the lunar poles, in particular latitudes south of 
+79S and north of 86N. For these missions, a full organic inventory, 
+i.e. for solid and volatiles, will still be recommended.
+
+For more information see the press release:
+
+https://bit.ly/3BgzyZK
+
+and updated policy
+
+https://bit.ly/36JsQxm
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+GAC-MAC 2021 MEETING: FINAL CALL FOR ABSTRACTS DUE JULY 22, 2021
+
+London Ontario, Canada, November 1-5, 2021 
+
+"Exploring Geosciences through Time and Space"
+
+https://gacmac2021.ca 
+
+Please consider taking part in the Geological Association of Canada 
+and Mineralogical Association of Canada Joint Annual Meeting GAC-MAC 
+2021 this fall in London, Ontario, Canada (November 1-5, 2021) where 
+we will hold a hybrid in-person and virtual meeting on the beautiful 
+campus at Western University! 
+
+We welcome abstract submissions (deadline this week: July 22, 2021) 
+for the full proposed Scientific Program, including sessions of 
+Planetary Science and Exploration interest, which can be found at:
+
+https://gacmac2021.ca/registration-abstracts/ 
+
+GAC-MAC 2021 will be a hybrid blend, with a live virtual scientific 
+program (Nov 1 and 3-5, 2021) along with a return to the traditional 
+3-day Joint Annual meeting format (Nov 3-5, 2021). Submit an 
+abstract, choose your in-person or virtual method of presentation, 
+and join us for this new form of GAC-MAC meeting, this fall in London 
+at Western University or online!
+
+Looking forward, after this long break, to seeing you there! 
+
+Gordon Osinski & Roberta Flemming, GAC-MAC London 2021 Co-Chairs 
+
+E: gacmac2021@uwo.ca :: T: #gacmac2021 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ATTEND THE DPS MEETING THIS YEAR
+
+Please join us at the virtual DPS meeting this year, October 3-8! It's 
+a great opportunity to attend DPS, perhaps for the first time.
+
+Meeting abstracts are due July 22. You do not need to submit an 
+abstract to attend the meeting.
+
+Registration rates for this year's virtual meeting are lower than for 
+in-person meetings. Some financial support for meeting attendance is 
+available:
+
+https://dps.aas.org/news/travel-grants-dps-53
+
+DPS offers affiliate memberships to members of numerous partner 
+organizations including NSBP, NSHP and SACNAS. 
+
+DPS is the American Astronomical Society's (AAS) Division for 
+Planetary Sciences. The DPS is the world's largest professional 
+society of planetary scientists. The DPS represents the interests of 
+planetary scientists at all stages of their careers. It promotes the 
+advancement of planetary science to stakeholders including NASA and 
+other government agencies, the public, and federal, state, and local 
+legislatures. As a professional society, the DPS advocates on issues 
+that affect the quality of work and educational environments, as well 
+as the specific conditions that planetary scientists need to do their 
+work.
+
+Learn more about the meeting at:
+
+https://aas.org/meetings/dps53
+
+Learn more about DPS at:
+
+https://dps.aas.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] JOB ANNOUNCEMENT: SMD ASSISTANT DEPUTY ASSOCIATE ADMINISTRATOR 
+FOR EXPLORATION
+
+The Exploration Science Strategy and Integration Office (ESSIO) within 
+the Science Mission Directorate (SMD) is seeking a skilled individual 
+to serve as the Assistant Deputy Associate Administrator for 
+Exploration (ADAAX) at Headquarters in Washington, DC. 
+ 
+Responsibilities: The ADAAX will focus on assisting in formulation and 
+execution of an integrated science strategy for exploration within SMD, 
+through cross-Agency collaboration with the Human Exploration and 
+Operations Mission Directorate (HEOMD), Space Technology Mission 
+Directorate (STMD), and the NASA Field Centers.
+
+The job announcement will open for applications at:
+
+https://www.usajobs.gov/
+
+on Friday, July 30, and will close on Tuesday, August 3. The 
+announcement number will be HQ-21-DE-11129758-DT.
+
+This will be a Direct Hire Authority (DHA) announcement, so it will 
+only be open for 3 workdays. The short announcement period is due to 
+the type of hiring authority being used, which streamlines the hiring 
+process and assists with rapidly filling competitive positions. It is 
+not a reflection of the openness of the position. This competitive 
+announcement will be open to all U.S. Citizens and Status candidates.
+
+Questions may be directed to Leo Gomez at leopoldo.gomez@nasa.gov.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AGU SESSION DI004: DIVING DEEP - INVESTIGATIONS OF PLANETARY INTERIORS 
+THROUGH OBSERVATIONS, MODELING, AND EXPERIMENTS
+
+Synergetic measurements such as gravity, seismic and magnetic field 
+measurements, paired with surface mineralogy, geological observations, 
+meteorite composition, and atmospheric data provide valuable 
+constraints for numerical models and experiments. The combination of 
+such constraints help to improve our understanding of the physical and 
+chemical processes that have shaped the interior of rocky bodies in 
+the Solar System through time. The increase of computational power 
+and improvements in experimental techniques have made it possible to 
+tackle complex scenarios relevant for pressure and temperature 
+conditions that govern the interior of planets and moons, in order to 
+understand their current and past dynamics. This session invites 
+contributions from numerical modeling and experimental work that 
+incorporate current planetary mission data and address future 
+measurements that are necessary to place constraints on the evolution 
+and present day state of planetary interiors for the Moon, Mars, 
+Mercury, Venus and beyond.
+
+Invited Speakers: Sue Smrekar (JPL) and Simon Stahler (ETH)
+
+Conveners: Angela G Marusiak, Melanie Drilleau, Anna Mittelholz, 
+Ana-Catalina Please, and mentee: Gunda Goutham Krishna Teja
+
+Submit your abstract via:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/121569
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+AGU SESSION EP008: EARTH AND PLANETARY SURFACE PROCESSES GENERAL 
+CONTRIBUTIONS
+
+We welcome contributions to this general poster session related to the 
+disciplines, processes, and techniques involving the study of the 
+surface of Earth or other planetary bodies. This session provides the 
+opportunity for contributions that fall within the broad spectrum of 
+Earth and Planetary Surface Processes. Contributions are welcome from 
+a wide spectrum of disciplines including, but not limited to, 
+geomorphology, sedimentology, planetary science, geophysics, 
+engineering, atmospheric science, geology and biology. Processes of 
+interest include, but are not limited to, fluvial, hillslope, 
+tectonic, volcanic, glacial, coastal, marine, eolian, biologic, 
+cryospheric and impact processes. We also welcome contributions to 
+techniques in Earth and Planetary Surface Processes, such as field 
+observations, numerical and physical modeling, remote sensing, 
+geodesy, nonlinear dynamics, geochronology, geochemistry and 
+geophysics.
+
+Take care,
+
+Claire Masteller, Brooke Hunter, Mackenzie Day, and Rose Palermo
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+AGU SESSION EP036: SURFACE PROCESSES ON EXTRATERRESTRIAL ROCKY BODIES
+
+Quantitative models derived for surficial processes on Earth are often 
+applied to other planetary bodies, providing critical insights into 
+the geologic history of the Solar System. Extraterrestrial surfaces 
+present opportunities to test these models under conditions that are 
+often unachievable on Earth or in the laboratory. This session's goal 
+is to explore the interplays between quantitative models of planetary 
+surface processes and the challenges imposed on these models by new 
+planetary data. We invite contributions in the field of planetary 
+surface processes that use planetary analogues, laboratory 
+experiments, theoretical and numerical modeling, and planetary 
+exploration data from robotic spacecraft. We intend for this session 
+to foster more collaboration between members of the PS and EPSP 
+sections.
+
+Invited speakers:
+Rachel Glade (University of Rochester)
+Anna Grau Galofre (Arizona State University)
+
+Conveners:
+Alexander Morgan (PSI)
+Marisa Palucis (Dartmouth)
+Samuel Birch (MIT)
+Orkan Umurhan (SETI/NASA Ames)
+
+Abstracts can be submitted through the AGU portal through the deadline 
+of August 4 at 23:59 EDT:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/122582
+
+Also consider submitting to the sister session, 
+P033 - Surface Processes on Active Icy Worlds
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+AGU SESSION P014: HYDROTHERMAL PROCESSES IN THE EVOLUTION OF SOLAR 
+SYSTEM BODIES
+
+Hydrothermal settings host heated fluids reacting physically and 
+chemically with surrounding rocks. On Earth, those occur deep in the 
+critical zone marked by coupled biological, chemical, geological, 
+thermophysical and atmospheric processes. Decoupled from 
+photosynthesis, microbes can use leachate-rich water via organic-rich 
+sediments, redox gradients, and thermal energy for metabolism, making 
+habitable zones plausible throughout the Solar System. Thermal sources 
+tied to planetary evolution, such as magma bodies, meteoritic impacts, 
+radiogenic heating, tide-flexing and metamorphism underpin 
+hydrothermalism. Hydrothermal cooling can also modulate geophysical 
+evolution, by curtailing the viscoelastic relaxation of subsurface 
+topography. However, the extent of thermal sources, signatures of 
+paleo-hydrothermalism, and associated timescales are poorly known. 
+Accordingly, we welcome works on the role of hydrothermal processes in 
+geologic and biologic evolution across the Solar System, including 
+ocean worlds like Europa. Laboratory and field findings, such as of 
+amagmatic hydrothermal sites, and connections between Earth and 
+planetary systems are especially welcome.
+
+Conveners: 
+Suniti Karunatillake, Saman Karimi, 
+Sonia Tikoo, Scott M Perl, Jonathan E Snow
+
+To submit your abstract go to:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/123966
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+AGU SESSION P016: ILLUMINATING THE MARTIAN ROCK CYCLE WITH REGIONAL 
+GEOCHEMISTRY
+
+Summary: Chemical maps of Mars, derived from the Mars Odyssey 2001 
+mission's gamma and neutron spectrometers, regionally characterize the 
+distribution of key elements at depth scales unmatched by other 
+missions. Resulting works address unknowns of the martian rock cycle, 
+such as changes across Noachian-Amazonian eons in pathways from 
+igneous rocks to sediment to lithification. Those span soil alteration 
+processes across Mars, thermal evolution of the mantle, provenance of 
+globally distributed dust, etc. However, unresolved questions remain, 
+such as the provenance of chemical provinces, evolution of individual 
+volcanic provinces, and processes enriching K and Th in the lowlands. 
+Accordingly, we solicit presentations on the synthesis of in situ and 
+regional observations; on geological interpretations from regional 
+geochemistry; and on refining the chemical maps. Regional geochemical 
+context for in situ regolith evolution as at Jezero Crater, 
+geochemical constraints on geophysical properties, and analog studies 
+to interpret geochemical signatures are similarly welcome.
+
+Conveners: Suniti Karunatillake, James Wray, Rohana Chandrajith, 
+Vashan Wright and Jennifer Whitten
+
+Abstract submissions:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/124439
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+AGU SESSION P017: IN SITU GEOPHYSICAL EXPLORATION OF PLANETARY BODIES
+
+Recent planetary landers and rovers have introduced new geophysical 
+approaches to characterizing planetary bodies. The acquisition of 
+geophysical data (e.g. magnetic, radar, seismic, thermal, permitivity, 
+etc.) makes it possible to characterize in unprecedented detail the 
+interior of the study target, helping detect cores, characterizing 
+regoliths, and exploring near-surface resources that could one day 
+sustain long-lived exploration. We invite abstracts that present 
+results from recent missions that involve geophysical instruments, 
+such as InSight, Hayabyusa2/MASCOT, and the Chang'E 3, 4, and 5 
+landers and rovers. Discussion of novel exploration strategies, 
+methods, and instruments that could be deployed in upcoming missions 
+to the Moon, Mars, Europa, and elsewhere, are also welcome.
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/120500
+
+The deadline for all submissions is Wednesday, August 4, 2021 at 
+23:59 EDT.
+
+Regards from the conveners,
+Laurent Montesi, Matthias Grott, Renee C Weber, Zhiyong Xiao
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+AGU SESSION P021: MARS SAMPLE RETURN - CHALLENGES AND ADVANCES IN 
+PLANNING FOR THE FIRST SAMPLES FROM ANOTHER PLANET
+
+Mars Sample Return (MSR) has long been a high priority for the 
+international planetary science community. The Perseverance rover is 
+currently at work exploring the Jezero Crater region of Mars with the 
+goal of assembling a set of scientifically compelling samples from 
+geologically diverse areas. Beginning in 2018, NASA and ESA have been 
+working jointly on planning to achieve Mars Sample Return with the 
+current goal of delivering the samples to Earth as early as 2031. This 
+session will include posters that address topics such as the science 
+that could be achieved with the samples collected by Perseverance 
+importance of MSR, how the science benefits will be shared across the 
+science community, engineering and planetary protection planning 
+status updates, recommendations for the Sample Receiving Facility 
+(SRF), planning for sample analyses, and public engagement and 
+outreach strategies.
+
+Participation is possibly either virtually or in-person. The conveners 
+invite abstracts to be submitted through August 4:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/122322
+
+We look forward to an exciting session.
+
+Brandi Carrier, Michael Meyer, Gerhard Kminek, David Beaty
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+AGU SESSION P022: MERCURY AT THE DAWN OF THE BEPICOLOMBO ERA - 
+INTERDISCIPLINARY EXPLORATION INSIDE AND OUT
+
+Please consider submitting an abstract. The deadline is August 4 2021 
+at 23:59 EDT.
+
+NASA's MESSENGER mission revolutionized our understanding of Mercury's 
+surface, interior, exosphere, magnetosphere, and heliospheric 
+environment. That understanding will soon take a major step forward 
+with data from the first flyby of Mercury by the ESA-JAXA BepiColombo 
+mission, subsequent flybys, and eventual orbit. In this session, we 
+welcome all contributions on data analysis, laboratory measurements, 
+ground-based observations, analog studies and theoretical developments 
+that build on the current state of knowledge of Mercury, as well as 
+papers that focus on how BepiColombo measurements collected during the 
+recent Earth and Venus flybys can be used to support investigations at 
+Mercury. The topics of interest for this session include Mercury's 
+geology, geochemistry, and geophysics, and plasma dynamics occurring 
+in Mercury's exosphere and magnetosphere. We also strongly encourage 
+papers discussing how outstanding questions about Mercury can be 
+addressed by future observations expected from BepiColombo.
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/125447
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+AGU SESSION P032: SPACE ENVIRONMENTS AND WEATHER OF UNMAGNETIZED OR 
+WEAKLY MAGNETIZED SOLAR SYSTEM BODIES
+
+Hybrid Meeting, New Orleans, December 13-17 2021
+
+The ionospheres and magnetospheres of weakly magnetized bodies with 
+substantial atmospheres (e.g. Mars, Venus, Titan, Pluto and comets) 
+are subject to disturbances due to solar activities, interplanetary 
+conditions, or parent magnetospheric environments (e.g. solar flares, 
+coronal mass ejections and solar energetic particles), sharing 
+similarities with their magnetized counterparts but with 
+scientifically important differences. This session invites abstracts 
+concerning remote and in-situ data analysis, modeling studies, 
+comparative studies, instrumentation and mission concepts for weakly 
+magnetized Solar System bodies. Topics such as dayside and nightside 
+ionospheric characteristics and variability, ion-neutral coupling, and 
+responses of the ionized and neutral regimes to transient space 
+weather events are especially encouraged.
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/117812
+
+Deadline: August 4, 2021
+
+Conveners: Christopher Fowler, Beatriz Sanchez-Cano, 
+Xiaohua Fang, Yingjuan Ma
+
+
+24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24
+
+AGU SESSION P033: SURFACE PROCESSES ON ACTIVE ICY WORLDS
+
+The extreme conditions and exotic ices on the surfaces of outer solar 
+system bodies result in unique landscapes not commonly observed on 
+rocky bodies. Sublimation of volatile ices controls the evolution of 
+many icy world landscapes and has given rise to planetary climates, 
+while tectonic and eruptive processes evolve ice shells, interacting 
+with potentially habitable subsurface oceans. The many interrelations 
+between these processes are only beginning to reveal themselves; as 
+exploration of the outer Solar System proceeds at a progressively 
+rapid rate, the complexities of these worlds will continue to grow. To 
+piece together these exotic planetary landscapes, will require 
+investigations that incorporate increasingly diverse scientific 
+techniques and collaboration between the many sub-communities studying 
+icy worlds - from those who study comets, to Arrokoth, and everything 
+in between. We invite contributions ranging in focus from comparative 
+planetology and remote sensing, to laboratory and analog studies, to 
+theoretical and numerical modeling.
+
+Conveners:
+Samuel Birch (MIT)
+Orkan Umurhan (SETI/NASA Ames)
+Marisa Palucis (Dartmouth)
+Alexander Morgan (PSI)
+
+Submit abstracts through the AGU portal. Deadline: August 4, 23:59 EDT:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/122303
+
+Also consider submitting to the sister session, 
+EP036 - Surface Processes on Extraterrestrial Rocky Bodies
+
+
+25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25
+
+AGU SESSION P040: TITAN - ATMOSPHERE, SURFACE AND INTERIOR
+
+Titan is the only moon in the Solar System with a dense atmosphere and 
+active hydrologic system. It is also an Ocean World, with a deep 
+interior water ocean that may provide a harbor for life. 
+Photochemistry in the stratosphere consumes methane and generates a 
+wealth of complex organic molecules, similar to the atmospheric 
+chemistry of prebiotic Earth. Molecules grow in size through a variety 
+of processes, ultimately forming haze particles that settle on the 
+surface and are reworked into large equatorial dune fields. In the 
+lower atmosphere methane and ethane form lakes, seas, clouds and rain 
+in a weather cycle analogous to the Earth's water-based meteorology. 
+The surface exhibits infrequent craters, but offers other mysterious 
+landforms interpreted as mountains, putative cryovolcanoes, tectonic 
+features, and fluvial/lacustrine morphologies.
+
+In this session we welcome all recent research relevant to Titan, 
+including new observations, spacecraft data analysis, modeling and 
+laboratory experiment work. Submit abstracts through the AGU portal. 
+Deadline: August 4, 23:59 EDT: 
+
+https://www.agu.org/fall-meeting 
+
+Conveners:
+Conor A. Nixon, NASA Goddard Space Flight Center
+Kathleen Mandt, The Johns Hopkins University Applied Physics Laboratory
+Alexander Hayes, Cornell University
+Christophe Sotin, Nantes University
+
+
+26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+October 10-13, 2021
+GSA Connects 2021
+https://community.geosociety.org/gsa2021/home
+Portland, OR
+
+November 15-18, 2021
+Hayabusa 2021
+https://curation.isas.jaxa.jp/symposium/2021/index.html
+Online
+
+November 30-December 3, 2021
+Venera-D: Venus Cloud Habitability System Workshop
+https://www.hou.usra.edu/meetings/venera_d2021/
+Moscow, Russia
+
+March 7-11, 2022
+LPSC 2022
+https://www.hou.usra.edu/meetings/lpsc2022/
+The Woodlands, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Asteroid 16 Psyche: Shape, Features, and Global Map
+Michael K. Shepard et al. 2021 PSJ 2:125
+https://doi.org/10.3847/PSJ/abfdba
+
+Characterization of Thermal-infrared Dust Emission and Refinements to 
+the Nucleus Properties of Centaur 29P/Schwassmann-Wachmann 1
+Charles A. Schambeau et al. 2021 PSJ 2:126
+https://doi.org/10.3847/PSJ/abfe6f
+
+Evidence that a Novel Type of Satellite Wake Might Exist in Saturn's 
+E Ring
+M. M. Hedman and M. Young 2021 PSJ 2:127
+https://doi.org/10.3847/PSJ/ac0340
+
+Consequences of Proposed Shoreline Deformation Scenarios for Jezero 
+Crater, Mars
+Mark Baum et al. 2021 PSJ 2:128
+https://doi.org/10.3847/PSJ/ac01de
+
+The Likely Thickness of Europa's Icy Shell
+Samuel M. Howell 2021 PSJ 2:129
+https://doi.org/10.3847/PSJ/abfe10
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* https://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

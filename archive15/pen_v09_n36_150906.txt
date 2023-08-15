@@ -1,0 +1,478 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 36 (September 6, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Lowell Observatory: Tenure-Track or Tenured Astronomer
+2. THEMIS Geodetically Controlled Mosaics Available from the USGS
+3. Mars Exploration Science Monthly Newsletter: September 2015
+4. Fall 2015 Soffen Fund Travel Grant Opportunity
+5. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 34
+6. NASA Postdoctoral Fellowships
+7. Mars Critical Data Products Program, Round X - RFP for Mars 2020 
+   Landing Site Characterization
+8. Planetary Geomorphology Image of the Month
+9. Reminder - Abstract Deadline for Human Landing Sites/Exploration 
+   Zones Workshop
+10. 2016 Exploration Postdoctoral Fellowships
+11. Registration and Hotel Reservations for VEXAG Meeting #13
+12. Comparative Climates Conference to be Streamed Live
+13. Job Openings at Space Telescope Science Institute
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LOWELL OBSERVATORY: TENURE-TRACK OR TENURED ASTRONOMER
+
+Lowell Observatory invites applications for one or more tenure-track
+or tenured research positions in astronomy or planetary science. We
+invite applicants at any career level who can build on current 
+strengths or open new areas for Lowell. A Ph.D. in astronomy, planetary 
+science, or a related field is required, as is an outstanding record of 
+research and demonstrated ability or potential to obtain external 
+research funding. Candidates are invited to describe how they would 
+make use of our observational facilities, but we will give equal
+consideration to all research areas. The start date for this position
+is flexible but desired by Fall 2016.
+
+Additional position details can be found at:
+
+https://lowell.edu/wp-content/uploads/2015/07/Tenure-track-
+Astronomer.pdf
+
+To apply, send applications electronically to:
+
+humanresources@lowell.edu
+
+Applications should include:
+(1) a cover letter and CV,
+(2) a research plan of 3 pages or less, and
+(3) names and mail/email addresses of three individuals who have
+agreed to serve as references. Do not ask for reference letters
+to be sent in advance.
+
+Applications must be received by November 1, 2015 for full
+consideration.
+
+Lowell Observatory is an Equal Employment Opportunity/Affirmative 
+Action employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+THEMIS GEODETICALLY CONTROLLED MOSAICS AVAILABLE FROM THE USGS
+
+THEMIS infrared geodetically controlled mosaics, updated spacecraft 
+pointing and orientation information (i.e., preliminary smithed 
+SPICE kernels), and supporting documentation are available for download 
+and public use from the United States Geological Survey (USGS) 
+Astrogeology Science Center. Seventeen daytime infrared and fourteen 
+nighttime infrared mosaics are currently available, with additional 
+mosaics being released each January and July until a global product is 
+completed. These mosaics are tied to a known coordinate system (USGS 
+Viking Orbiter Mars Digital Image Model 2.1), spatially adjusted to 
+align feature boundaries, and orthoprojected at 100 m/pixel scale. This 
+process results in sub-pixel registration between images and the 
+daytime IR and nighttime IR mosaics to be well-registered to one 
+another. These products enhance our knowledge (e.g., position, 
+precision, and accuracy) of image placement and the location of 
+small-scale surface features, and will benefit the current and future 
+orbital acquisition of data, the planning of spacecraft and surface 
+operations, and allows for easier and improved intercomparison of all 
+Mars data sets.
+
+Please see the following website for product download and additional 
+documentation:
+
+http://astrogeology.usgs.gov/maps/mars-themis-controlled-mosaics-and
+-preliminary-smithed-kernels
+
+Please contact Robin Fergason (rfergason@usgs.gov) with any questions.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: SEPTEMBER 2015
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the September 2015 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FALL 2015 SOFFEN FUND TRAVEL GRANT OPPORTUNITY
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the final 
+2015 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering. 
+
+The Travel Grants, in the amount of $500, enable student recipients to 
+attend professional meetings to present their research. The Fall 2015 
+Travel Grant application deadline is October 1, 2015. Jerry Soffen, a 
+biologist by training, led a distinguished career in NASA, including 
+serving as the Project Scientist for Viking and as an architect for the 
+NASA Astrobiology Institute. The Travel Grant continues Jerry's 
+dedication to educating and involving future generations in space 
+science and engineering pursuits. The electronic application materials 
+and instructions are located on the Soffen Fund website: 
+
+http://SoffenFund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+info@SoffenFund.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 34
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS+
+RSS
+SHARAD*
+SPICE
+
+In general, MRO Release 34 includes data collected from November 9, 
+2014, through February 8, 2015. The release includes HiRISE data for 
+May 3, 2015, to July 12, 2015.
+
++MCS now includes DDR data. The latest version of the complete MCS 
+retrieved profile dataset is now available on-line at the PDS 
+atmosphere node. It is now fully reviewed and certified for use 
+under NASA DAP proposals.
+
+*SHARAD radargrams are included in this delivery and are now up to
+date with respect to other MRO datasets. Other SHARAD data will
+be released shortly.
+
+To access the above data:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150901.shtml
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://apps.orau.gov/NPDoc/Catalog/18715
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1UA7aHs
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS CRITICAL DATA PRODUCTS PROGRAM, ROUND X - RFP FOR MARS 2020
+LANDING SITE CHARACTERIZATION
+
+The Mars Exploration Program has issued, in August 2015, a Request for 
+Proposal for round X of the Mars Critical Data Products program: 
+
+http://mepag.nasa.gov/cdp.cfm 
+
+This RFP provides support for landing site surface and atmosphere 
+characterization for the Mars 2020 rover mission. The intent is to 
+convert mission data and numerical simulations into products focused 
+on specific landing site targets (to be provided by the program) that 
+will be useful for reducing the risk to the Mars 2020 rover mission. 
+
+Details of this RFP are posted at:
+
+https://acquisition.jpl.nasa.gov/rfp/NT-2692-081715/default.htm
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+
+Requested data products are for: 
+(1) Radar Reflectivity, 
+(2) Surface Thermophysical Properties, 
+(3) Surface Pressure Predictions, and 
+(4) Dust Events during Mars 2020 Entry Descent and Landing (EDL). 
+
+Proposals are due Wednesday, October 14, 2015, 3:00 PM (Pacific).
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The September image of the month is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This Month's topic is on groundwater outflow on Mars - insights from 
+large-scale experiments. Contributed by Dr. Wouter Marra, Faculty of 
+Geosciences, Universiteit Utrecht.
+
+You can now follow IAG Planetary Geomorphology Image of the Month on 
+Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology 
+
+or Twitter @PlanetGeomorpho
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+REMINDER - ABSTRACT DEADLINE FOR HUMAN LANDING SITES/EXPLORATION ZONES
+WORKSHOP
+
+With the U.S. Labor Day weekend coming up, we wanted to send a quick 
+reminder about the abstract deadline for the Human Landing Sites/ 
+Exploration Zones Workshop at the end October. The deadline is in one 
+week: 
+
+Thursday, September 10 at 5:00PM Central Time. 
+
+For more information, visit: 
+
+http://www.hou.usra.edu/meetings/explorationzone2015 
+
+Limited travel funding is available to help support attendance at the 
+workshop. Note our website for additional details. 
+
+If you have any questions, please contact us at: 
+
+NASA-Mars-Exploration-Zones@mail.nasa.gov 
+
+We sincerely hope that you will consider participating in this enabling 
+effort. 
+
+Many thanks and have a great holiday weekend.
+
+Ben Bussey, NASA HQ HEOMD
+Richard M. Davis, NASA HQ SMD
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+2016 EXPLORATION POSTDOCTORAL FELLOWSHIPS
+
+The School of Earth and Space Exploration (SESE) at Arizona State 
+University invites applications for the position of Exploration 
+Postdoctoral Fellow. The fellowship provides opportunities for 
+outstanding early-career scientists and engineers emphasizing 
+interdisciplinary collaboration. Research areas within SESE encompass 
+astrobiology, astrophysics and cosmology, earth and planetary sciences, 
+instrumentation and systems engineering, and science education.
+
+Incoming Fellows will receive an annual stipend of $61,000 with health 
+benefits, plus $9,000 per year in discretionary research funds. A 
+relocation allowance of up to $2,500 will be provided. Appointments 
+will be for up to three years and shall commence on or around July 1, 
+2016.
+
+A full description of the application process is available at:
+
+http://sese.asu.edu/ExplorationPostdocFellowships
+
+ASU is an equal opportunity/affirmative action employer that actively 
+seeks diversity among applicants and promotes a diverse workforce.
+
+Sincerely,
+
+Judd D. Bowman
+Associate Professor
+Chair, Exploration Fellowship Committee
+School of Earth and Space Exploration
+Arizona State University
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+REGISTRATION AND HOTEL RESERVATIONS FOR VEXAG MEETING #13
+
+Venus Exploration Analysis Group (VEXAG) Meeting #13 will be held on 
+October 27-29, 2015 at NASA Headquarters, James E. Webb Memorial 
+Auditorium, 300 E Street SW, Washington, DC.
+
+Please register in advance at the NASA VEXAG Registration Website Link:
+
+http://icpi.nasaprs.com/vexag
+
+A block of sleeping rooms is currently on-hold at the Marriott 
+Residence Inn Washington DC/Capitol Hotel, located at 333 E Street, 
+SW Washington, DC 20024. Deadline for hotel reservations is Friday, 
+September 25, 2015. You may contact reservations at 1-800-331-3131 
+- Be sure to mention the "NASA VEXAG Meeting" and the "Group Code 
+VEAVEAA. You may also book your reservation on-line at: 
+
+http://www.marriott.com/wascp  
+
+- Choose arrival and departure date
+- On the website under "special rate & awards", select "group code" and 
+  type in: VEAVEAA
+- Confirm reservation
+
+As Housing will be in high demand, it is strongly advised that you 
+secure accommodations early. 
+
+A preliminary agenda is available at VEXAG Web-Site: 
+
+http://www.lpi.usra.edu/vexag/
+
+Current plans are:
+
+27 October 2015 (Tuesday) - NASA and Mission reports 
+                          - Poster/Social Event (PM)
+28 October 2015 (Wednesday) - Venus Science and Technology reports
+29 October 2015 (Thursday) - VEXAG activities (adjourn at mid-day)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+COMPARATIVE CLIMATES CONFERENCE TO BE STREAMED LIVE
+
+We are happy to announce livestream capabilities for the upcoming 
+"Comparative Climates of Terrestrial Planets II: Understanding How 
+Climate Systems Work" conference (CCTP2). The meeting will be streamed 
+live via Adobe Connect, at: 
+
+https://ac.arc.nasa.gov/cctp2/ 
+
+from September 8-11. The program for the meeting - with times listed in 
+PDT - is available at: 
+
+http://sservi3.arc.nasa.gov/downloads/cctp2_program.pdf 
+
+The first CCTP meeting, held in 2012, fostered a series of 
+interdisciplinary conversations on a wide range of planetary climates. 
+We are planning for a similar range of conversations at the CCTP2 
+meeting, including the effects of the Sun and other stars on the 
+climates of Earth and other planets in and beyond the Solar System. We 
+encourage you to listen to the conversations we foster at CCTP-2, and 
+to extend them via the Adobe Connect chat room. This meeting is 
+supported by NASA's Science Mission Directorate (SMD). For more 
+information and future updates on the meeting, please go to the CCTP 2 
+website: 
+
+http://sservi.nasa.gov/cctp2
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JOB OPENINGS AT SPACE TELESCOPE SCIENCE INSTITUTE
+
+https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID
+=*2357526FC6D627A1
+
+The Space Telescope Science Institute (STScI) has multiple openings
+(ranging from entry level to highly experienced) for Analysts and
+Scientists in our Instruments and Operations and Engineering
+Divisions. Research and Instrument Analysts (RIAs) will assist
+Instrument Scientists in the operational and developmental support
+for Hubble Space Telescope, James Webb Space Telescope, and Wide-Field
+InfraRed Survey Telescope missions. Science Operations Analysts
+support science planning and scheduling operations for the Hubble
+Space Telescope and testing of the James Webb Space Telescope science
+planning and scheduling ground system. Archive Analysts are responsible
+for processing and archiving science and engineering data from the
+Hubble Space Telescope, the Kepler spacecraft and soon the James Webb
+Space Telescope. Archive Scientists provide scientific, technical,
+computational expertise and support in the areas of archive operations,
+data processing operations, archival research, and problem
+investigation and analysis.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 16-17, 2015
+NRC's Committee on Astrobiology and Planetary Science (CAPS)
+http://sites.nationalacademies.org/SSB/SSB_067577
+Irvine, CA
+
+September 22, 2015
+NASA Advisory Council Ad Hoc Task Force on STEM Education Meeting
+http://www.spaceref.com/calendar/calendar.html?pid=8833
+Washington, DC
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

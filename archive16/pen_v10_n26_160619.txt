@@ -1,0 +1,298 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 26 (June 19, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Andre Brahic (1942-2016)
+2. Second Announcement for SPICE Training in Madrid
+3. [NASA] PDS: NEOWISE Diameters and Alebos Data Release
+4. White Paper on the Value of Participating Science Programs on NASA 
+   Planetary Missions
+5. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 26
+6. Postdoctoral Position in Mars Science
+7. ASGSR 2016 Call for Abstracts Due Date Extension and ASGSR Art 
+   Competition
+8. [NASA] PDS: Mars Exploration Rovers Data Release 48
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: ANDRE BRAHIC (1942-2016)
+
+From DPS Newsletter (https://dps.aas.org/news/andre-brahic-1942-2016),
+Athena Coustenis
+
+The planetary community, and in particular his French colleagues and 
+friends, are very sad to announce the passing of Andre Brahic. 
+Professor at the University Paris-Diderot, based at the Observatory of 
+Paris until 1995 and the AIM laboratory at CEA Saclay, Andre Brahic 
+devoted most of his career to the study of solar system bodies, in 
+particular of planetary rings and the formation of planets, but started 
+out by working on the chaos theory, the dynamics of galaxies and the 
+supernovas. He was a member of the scientific teams of the cameras on 
+Voyager 1 and 2, through which he made many discoveries and notably 
+confirmed the existence of Neptune rings and the arcs of the Adams 
+ring, that he had predicted. With an international team, he showed that 
+the Adams ring, is actually composed of four arcs that he and his 
+collaborators baptized "Courage", "Liberte", "Egalite", "Fraternite" 
+(CLEF for "KEY" in French). He was also a [Cassini science team 
+member] ... Andre Brahic was of course also an extraordinary 
+communicator, who transmitted his passion for science and astrophysics 
+to generations of students and to the public.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SECOND ANNOUNCEMENT FOR SPICE TRAINING IN MADRID
+
+The ESAC SPICE Service and the Navigation and Ancillary Information  
+Facility (NAIF) will conduct a SPICE observation geometry training 
+class on September 12-15, 2016 in Madrid, SPAIN. SPICE at ESAC is 
+described at:
+
+http://www.cosmos.esa.int/web/spice/home
+
+The class is free and open to all professionals and students involved 
+in Solar System exploration. Further information about the class and 
+the class registration form are found at: 
+
+http://www.cosmos.esa.int/web/spice/training-class-september-2016
+
+Registration is due by June 30, 2016.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: NEOWISE DIAMETERS AND ALBEDOS DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of a data set containing a compilation of published diameters, optical 
+albedos, near-infrared albedos, and beaming parameters for minor 
+planets and other bodies detected by NEOWISE during the fully 
+cryogenic, 3-band cryo, post-cryo and NEOWISE-Reactivation Year 1 
+operations. The data set includes near-Earth asteroids, Main Belt 
+asteroids, active Main Belt objects, Hildas, Jupiter Trojans, Centaurs, 
+Comets, and Jovian and Saturnian irregular satellites.
+
+To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/neowisediam.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+WHITE PAPER ON THE VALUE OF PARTICIPATING SCIENCE PROGRAMS ON NASA 
+PLANETARY MISSIONS
+
+Dear colleagues,
+
+On behalf of the Assessment/Advisory Groups (OPAG, MEPAG, VEXAG, SBAG, 
+LEAG and CAPTEM), we are preparing a white paper about the value of 
+Participating Science programs on NASA planetary missions, and how the 
+usefulness of such programs might be maximized. This white paper will 
+be delivered to NASA and made available to the scientific community.
+
+To help with the study, we have prepared a survey to gather opinions 
+and perceptions about Participating Scientist programs and 
+experiences.
+
+(Please note, we consider Guest Investigators and Interdisciplinary 
+Scientists to also be a type of Participating Scientist). Please 
+consider responding to this survey whether or not you have been a 
+Participating Scientist on a NASA mission. We will be contacting 
+mission Principle Investigators and Project Scientists separately about 
+their experiences, but all are welcome to fill out this survey; please 
+answer as many or as few questions as you wish.
+
+https://docs.google.com/forms/d
+/1S-QzqQX6hgdl709VL5MMEBZbjHzti4Z8dHbvpLPLwOk/viewform
+
+If you have any questions about the survey or the white paper, please 
+contact Louise.Prockter@jhuapl.edu.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 26
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+
+CRaTER 
+DLRE 
+LAMP 
+LEND 
+LOLA 
+LROC 
+
+This release includes a complete revision of LEND RSCI data products. 
+In general, LRO Release 26 includes data collected between December 15, 
+2015 and March 14, 2016. To access the above data, please visit the 
+following link:  
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160615.shtml
+
+PDS offers two services for searching the LRO archives: The Planetary 
+Image Atlas at the Imaging Node allows selection of LRO data by 
+specific search criteria: 
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+and the Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector):    
+
+http://ode.rsl.wustl.edu/moon/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL POSITION IN MARS SCIENCE
+
+The Department of Planetology and Habitability at the Centro de 
+Astrobiologia (CAB) invites applications for a postdoctoral position to 
+support investigations on the nature of the early Mars environments. 
+The successful candidate will work with Dr. Alberto Fairen in the 
+ERC-funded Project "icyMARS": 
+
+https://erc.europa.eu/projects-and-results/erc-funded-projects/icymars
+
+Applicants should have a recent Ph.D. in the field of Planetary Science 
+or related discipline, and a background in Mars research. Expertise in 
+Geochemistry or Microbiology would be helpful, but not required.
+
+The position, placed in Madrid, would be for two years, with possible 
+extension to a third year contingent upon funding availability and 
+satisfactory performance. Benefits include working in a young 
+enthusiastic team at one of the leading Planetary Sciences institutions 
+in Europe, full social benefits according to the Spanish social care 
+system, and a very competitive salary.
+
+Applicants should send a letter of interest, a curriculum with a list 
+of publications, a brief (maximum two pages) statement of research 
+interests, and a list of three references, no later than July 1 2016, 
+to Alberto Fairen (agfairen@cab.inta-csic.es).
+
+The starting date is negotiable, but should be no later than Jan 1, 
+2017.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASGSR 2016 CALL FOR ABSTRACTS DUE DATE EXTENSION AND ASGSR ART 
+COMPETITION
+
+October 26-29, 2016
+
+Submit an abstract at:
+
+https://asgsr.org/index.php/call-for-abstracts-2016
+
+Hotel, Downtown Cleveland, OH:
+
+http://www.hilton.com/en/hi/groups/personalized/C/CLEDOHH-ASR-20161024
+/index.jhtml?WT.mc_id=POG
+
+This is your chance to showcase your creative side and your research!  
+This year the conference will have an art competition, so consider 
+submitting an entry from you or your students. Entries will be 
+displayed during the conference and a democratic vote will be taken 
+to determine the winners. Awards will be given for both Artistic Merit 
+and Technical Merit categories.
+
+Submissions will be evaluated based on their artistic merit and/or 
+technical merit, and there will be awards for both categories. 
+Eligible entries include (but are not limited to): images (photographs 
+or computer-generated), paintings, drawings, or sketches of 
+gravitational and space research phenomena. Rearrangement, assembly, 
+or other creative mixing of images into an art-form is appropriate and 
+encouraged. For more information on ASGSR 2016 Art Competition:
+
+https://asgsr.org/index.php/art-competition-2016
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: MARS EXPLORATION ROVERS DATA RELEASE 48
+
+The Planetary Data System (PDS) is pleased to announce Release 48
+of Mars Exploration Rover data.  This release includes data primarily
+from Sols 4141 tthrough 4230, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+SPICE
+
+There is no Rover Motion Counter or Radio Science data in this 
+release, and no more Mini-TES or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160617.shtml
+
+The following special services are provided for accessing MER data.
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 28-Decemeber 1, 2016
+Exoplanets: Bridging the Gap between Theory and Observations
+http://www.astro.physik.uni-goettingen.de/~areiners/WEH/ 
+Bad Honnef, Germany
+
+March 20-24, 2017
+48th Lunar And Planetary Science Conference
+http://www.hou.usra.edu/meetings/lpsc2017/ 
+The Woodlands, TX
+
+June 18-23, 2017
+Origins of Solar Systems: Making a Habitable Planet
+https://www.grc.org/programs.aspx?id=12346
+South Hadley, MA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

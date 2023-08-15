@@ -1,0 +1,171 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 26 (June 5, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. Mars Exploration Science Monthly Newsletter - June 2011
+3. SPICE Observation Geometry Training Class
+4. [NASA] PDS Releases More Mars Reconnaissance Orbiter HiRISE Data
+5. [NASA] PDS Releases More Mars Reconnaissance Orbiter Data 
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June 'image of the month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/jun11Image.html
+
+In memory of our dear friend and colleague Dr. Elisabetta (Betty) 
+Pierazzo.
+
+This Month's topic is on "Fluvial flow triggered by impact events 
+on Mars" Images and caption contributed by Andrea Jones, Lunar and 
+Planetary Institute/NASA Goddard Space Flight Center.
+
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - JUNE 2011
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the June 2011 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+ 
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SPICE OBSERVATION GEOMETRY TRAINING CLASS
+
+The Navigation and Ancillary Information  Facility (NAIF) will conduct
+a SPICE observation geometry training class on September 13-15, 2011 
+in Monrovia, California. SPICE is described at:
+
+http://naif.jpl.nasa.gov/naif/spiceconcept.html
+
+The class is free and open to all professionals and students involved 
+in solar system exploration, including foreign nationals and members 
+of the commercial community. Further information about the class and 
+the class registration form are found at: 
+
+http://naif.jpl.nasa.gov/naif/announcement_SPICE-2011
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS RELEASES MORE MARS RECONNAISSANCE ORBITER HIRISE DATA
+
+The Planetary Data System (PDS) is pleased to announce Mars 
+Reconnaissance Orbiter (MRO) Release 17 for the High Resolution Imaging
+Science Experiment (HiRISE).  This release includes EDRs, RDRs, DTMs,
+and Anaglyphs (total data 1.7 TB) for data acquired  by HiRISE between 
+Feb 23, 2011 - April 30, 2011 (Orbits 21,454 - 22,299).  Also included
+are reprocessed data with data coverage Sept. 13, 2008 - Nov. 22, 2008
+(orbits 10,000-10,901).  The reprocessed data include 2,581 RDRs 
+(0.7 TB) and 39,860 RDR Extras (1.3 TB).
+
+The released data can be found on the PDS Imaging Node website at URL:  
+
+http://pds-imaging.jpl.nasa.gov/volumes/mro.html
+
+Data search and access tools are available thru the Node's Planetary
+Image Atlas, URL:
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+In addition, the above data may be accessed via:
+
+http://pds.nasa.gov/subscription_service/SS-20110601.html
+
+To access the all latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS RELEASES MORE MARS RECONNAISSANCE ORBITER DATA 
+
+The Planetary Data System (PDS) Imaging Node is pleased to announce
+Mars Reconnaissance Orbiter (MRO) Release 17 for the Context Camera 
+(CTX) and Mars Color Imager (MARCI) experiments.  This release contains
+21 MARCI volumes (mrom_0372 through 0392) and 57 CTX volumes
+(mrox_1217 through 1273) with all images acquired in September - 
+November 2010. Data volume for this release is approximately 255 GB.
+
+The released data can be found on the PDS Imaging Node website at URL: 
+
+http://pds-imaging.jpl.nasa.gov/volumes/mro.html 
+
+Data search and access tools are available thru the Node's Planetary 
+Image Atlas, URL: 
+
+http://pds-imaging.jpl.nasa.gov/search/  
+
+In addition, the above data may be accessed: 
+
+http://pds.nasa.gov/subscription_service/SS-20110601.html 
+
+To access the latest PDS Data Releases, please visit: 
+
+http://pds.nasa.gov/subscription_service/SS-Release.html 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 2-4, 2011
+6th Biennial Geochemical SIMS Workshop (BGSW6)
+http://www.higp.hawaii.edu/bgsw6.html
+Waikiki, HI
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

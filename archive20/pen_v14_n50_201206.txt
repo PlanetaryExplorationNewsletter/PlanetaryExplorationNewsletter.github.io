@@ -1,0 +1,593 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 50 (December 6, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Correction: NASA Mars Architecture Strategy Working Group Final
+   Report
+2. Mars Exploration Science Monthly Newsletter for December 2020
+3. Special issue in Frontiers: Interplanetary Medium Variability as
+   Observed in the New Era of Spacecraft Missions 
+4. Royal Astronomical Society (RAS) Specialist Discussion Meeting
+   "Comparative Equatorial Thermosphere-Ionosphere-Magnetosphere 
+   Coupling"
+5. vEGU 2021 Call for Abstracts: Volcanism in Planetary Bodies
+6. Life Detection Knowledge Base Workshop
+7. Outer Planets Assessment Group Town Hall at AGU Fall Meeting
+   2020
+8. OPAG Virtual Meeting
+9. Job Description: Planetary Astronomer
+10. NASA Postdoctoral Fellowships
+11. Postdoctoral Associate at Lowell Observatory
+12. Planetary Geomorphology Image of the Month
+13. [PDS] OSIRIS-REx Bennu Release 7
+14. Mars Reconnaissance Orbiter Data Release 55
+15. Mars Science Laboratory Release 25
+16. Aperiodic PDS Data Releases in 2020.11
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CORRECTION: NASA MARS ARCHITECTURE STRATEGY WORKING GROUP FINAL REPORT
+
+The link to the final report from NASA's Mars Architecture Strategy 
+Working Group (MASWG) from last week's PEN is broken. Here is the 
+fixed link:
+
+https://mepag.jpl.nasa.gov/reports/MASWG%20NASA%20Final%20Report%202020.pdf
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR DECEMBER 2020
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi
+Carrier, and Dave Beaty of the Mars Program Science Office, the
+December 2020 edition of the Mars Exploration Science Monthly
+Newsletter can be found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SPECIAL ISSUE IN FRONTIERS: INTERPLANETARY MEDIUM VARIABILITY AS
+OBSERVED IN THE NEW ERA OF SPACECRAFT MISSIONS 
+
+This Research Topic addresses the interplanetary medium variability as
+observed in the new era of spacecraft missions. This Research Topic
+aims to collect Original Research, Brief Research Reports,
+Perspectives, Reviews, Data Reports as well Hypothesis and Theory
+manuscripts on new observational findings and their theoretical
+counterparts coming from both single- and multi-spacecraft
+investigations that will help in advancing our understanding of the
+interplanetary medium:
+
+- Investigating scaling-law behaviors, turbulence, intermittency,
+  large-scale/inertial/kinetic physics;
+- Particle acceleration, shocks, waves, and dust;
+- Wave-particle interactions, solar and in situ magnetic structures,
+  propagation and acceleration of energetic particles;
+- Solar wind - planetary coupling dynamics, localized processes (e.g.,
+  reconnection and instabilities, planetary boundaries formation and
+  induced phenomena), cross-scale interactions and multiscale physics. 
+
+Please note the following submission deadlines:
+Abstract: 31 January 2021
+Manuscript: 31 May 2021
+
+More information:
+
+https://bit.ly/3qsvMat
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ROYAL ASTRONOMICAL SOCIETY (RAS) SPECIALIST DISCUSSION MEETING
+"COMPARATIVE EQUATORIAL THERMOSPHERE-IONOSPHERE-MAGNETOSPHERE COUPLING"
+
+Held remotely on Friday 12 February 2021, 10:30-15:30 GMT. Abstracts 
+should be submitted by the end of Tuesday 12 January 2021 at: 
+
+https://forms.gle/oMbd4RndF5nG8x3T8
+
+All participants will be required to register beforehand. Meeting
+registration is free for RAS Fellows and 5.00 pounds for non-Fellows.
+
+Registration links will be available at:
+
+https://bit.ly/36OVnm2
+
+The goal of this meeting is to bridge different planetary communities
+to understand how equatorial magnetic fields link an atmosphere with
+the space environment across different planetary bodies; providing us
+with a comparative view of how these regions interact and the dynamics
+that these interactions produce.
+
+Specific topics may include (but are not limited to):
+
+- Formation of the equatorial anomaly at Earth
+- Localised aurora and ionospheric variations at Mars
+- The azimuthal magnetic field anomalies measured inside Saturn's
+  rings, and the thermospheric driver of the currents that produce them
+- The variation in 'ring-rain' falling from Saturn's rings into the
+  mid-latitude ionosphere
+- The generation of Jupiter's Lyman-alpha bulge and its relationship
+  with the localised magnetic anomalies in Jupiter's field
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VEGU 2021 CALL FOR ABSTRACTS: VOLCANISM IN PLANETARY BODIES
+
+Due to the pandemic, the next EGU General Assembly will be online only,
+and it will take place between 19-30 April 2021.
+
+Volcanism played a fundamental role on Earth influencing our atmosphere
+and acting as an engine for primordial life. Similar events took place
+on other planetary bodies. Many studies have investigated the nature of
+volcanism on planetary bodies demonstrating that terrestrial magmatic
+processes are in some ways analogous to magmatism in other planetary
+bodies across the Solar System. However, our knowledge about the
+process of volcanism on other planets is still limited.
+
+The aim of this session is to bring together planetary and terrestrial
+volcano scientists to bridge the gap between these two disciplines. We
+welcome contributions exploring new analytical techniques, revisiting
+existing extraterrestrial and terrestrial processes or proposing new
+ones.
+
+Contributions dealing with geochemistry, mineral physics,
+volcano-petrology, physical volcanology, volcano-tectonism and
+combining terrestrial and planetary sciences are especially encouraged.
+
+Session info:
+
+https://meetingorganizer.copernicus.org/EGU21/session/39469
+
+Abstract submission info:
+
+https://egu21.eu/abstracts_and_programme/how_to_submit_an_abstract.html
+
+The deadline for abstract submission is on 13 January 2021 at 13:00
+(CET).
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LIFE DETECTION KNOWLEDGE BASE WORKSHOP
+
+The Center for Life Detection (CLD) invites you to take part in an
+upcoming workshop to develop a new tool for the life detection
+community. The Life Detection Knowledge Base (KB) is intended as an
+online repository for current knowledge about biosignatures.
+
+Goals of this virtual workshop include:
+
+- Introduce the research community to the KB platform 
+- Teach participants how to work with and enter information into the KB
+- Establish working groups for the on-going development of the KB
+
+An anticipated outcome of the workshop is that the development of
+content for entry into the KB will support the preparation of
+biosignature-specific manuscripts for publication.
+
+The workshop will commence with a plenary session in which the
+organizing basis of the KB will be introduced. Subsequently, working
+groups will be organized to populate the KB with content.
+
+The plenary will take place on 19 January 2021 from 10:00-12:00 PST
+(18:00-20:00 UTC), with working groups commencing the week of 25
+January. A recording of the plenary will be available for those who
+would like to participate but cannot attend on 19 January.
+
+To register for the meeting please visit:
+
+https://www.nfold.org/ldf-kbworkshop
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OUTER PLANETS ASSESSMENT GROUP TOWN HALL AT AGU FALL MEETING
+2020
+
+Session Number: TH066
+Date and Time: Thursday, 10 December 2020: 10:30-11:30 PST
+
+The purpose of the Outer Planets Assessment Group (OPAG) Town Hall is
+to update the community on OPAG activities and get community input for
+upcoming activities.
+
+Please note, you must be registered for AGU in order to attend the Town
+Hall meeting.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OPAG VIRTUAL MEETING
+
+The next Outer Planets Assessment Group (OPAG) meeting will be a
+virtual meeting to be held from February 9-11, 2021. The meeting agenda
+and details about how to register and attend this meeting will be
+posted at a later date.
+
+The focus of this meeting will be on aspects of the Decadal Survey that
+are relevant to OPAG. Status reports will be requested from the Decadal
+Survey co-chairs and panel chairs.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JOB DESCRIPTION: PLANETARY ASTRONOMER
+
+The SETI Institute is seeking a Planetary Astronomer to support the
+work of the Ring-Moon Systems Node (RMS) of NASA's Planetary Data
+System (PDS). We seek a curious and creative individual who is eager to
+work with data from diverse instruments and missions. The curation of
+planetary data requires someone who is able to understand the data's
+scientific importance, assess the data's validity, converse
+knowledgeably with fellow scientists, and confirm that documentation
+and descriptive metadata are sufficient for the needs of current and
+future scientists.
+
+The astronomer will collaborate closely with the Node Manager, Dr Matt
+Tiscareno, on all aspects of RMS Node planning and task management.
+They will understudy with longtime RMS Deputy Manager, Dr Mitch Gordon,
+and prepare to carry on his work as he approaches retirement.
+
+This is a full-time position with full benefits. However, the
+astronomer will be encouraged to seek additional research funding on
+any topic of their choosing including, but not limited to, topics
+related to the Node's extensive data holdings. The position offers
+substantial growth potential for applicants who are able to demonstrate
+mastery of the key requirements.
+
+For details:
+
+https://seti.org/jobs/planetary-astronomer
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program offers US and international scientists
+the opportunity to advance their research while contributing to NASA's
+scientific goals. The NPP supports fundamental science, promotes 
+intellectual growth, and encourages scientific connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed
+at: 
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before
+beginning the fellowship, but may apply while completing the degree
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $60,000 per year, with supplements for high
+cost-of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL ASSOCIATE AT LOWELL OBSERVATORY
+
+Lowell Observatory in Flagstaff, Arizona is currently seeking
+applications for a Postdoctoral Associate in Near-Earth Objects
+Studies.
+
+A complete job description and instructions on how to apply can be
+found on our employment page: 
+
+https://lowell.edu/about/employment/
+
+Inquiries may be sent to Catie Blazek at humanresources@lowell.edu
+ 
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The December image of the month is now available at the IAG's Planetary
+
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Volatile-rich impact ejecta on Mercury",
+contributed by Dr Jack Wright (The Open University, UK).
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter: @PlanetGeomorpho 
+
+or Facebook: http://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[PDS] OSIRIS-REX BENNU RELEASE 7
+
+This release of OSIRIS-REx data includes the following data, through
+May 17, 2020:
+- OCAMS raw and calibrated
+- TAGCAMS raw
+- OTES raw and calibrated
+- OVIRS raw and calibrated data
+- Raw Radio Science
+- Mission information bundle updated with an activities summary for the
+  Sample Collection phase and an update to the mission dictionary
+
+OLA raw and calibrated data for this time range is coming soon.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201202.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+
+https://sbn.psi.edu/pds/resource/orex/ocams.html
+
+https://sbn.psi.edu/pds/resource/orex/tagcams.html
+
+https://sbn.psi.edu/pds/resource/orex/ovirs.html
+
+https://sbn.psi.edu/pds/resource/orex/otes.html
+
+https://sbn.psi.edu/pds/resource/orex/rs.html
+
+https://sbn.psi.edu/pds/resource/orex/orexmission.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 55
+
+The NASA Planetary Data System announces Release 55 of data from the
+Mars Reconnaissance Orbiter (MRO). This release contains raw,
+calibrated, and derived data products nominally covering the time
+period February 9, 2020, through May 8, 2020. This is the final
+delivery of Radio Science EDRs.
+
+The data are archived at various PDS nodes:
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+MRO data releases occur every three months. The next release is
+scheduled for March 1, 2021.
+
+For a view centered on this release
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201201.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS SCIENCE LABORATORY RELEASE 25
+
+The NASA Planetary Data System announces Release 25 of data from the
+Mars Science Laboratory (Curiosity) mission. This release contains raw
+and calibrated data products covering the time period from March 25
+through July 30, 2020 (sols 2714-2837). The data are archived at
+various PDS nodes.
+
+- APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+- ChemCam at the Geosciences Node
+- CheMin at the Geosciences Node
+- DAN at the Geosciences Node
+- Engineering Cameras at the Cartography and Imaging Sciences Node
+- MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging Sciences
+  Node
+- MARDI (Mars Descent Imager) at the Cartography and Imaging Sciences
+  Node
+- Mastcam at the Cartography and Imaging Sciences Node
+- PLACES Database at the Cartography and Imaging Sciences Node
+- RAD (Radiation Assessment Detector) at the PPI Node
+- REMS (Rover Environmental Monitoring Station) at the Atmospheres Node
+- SAM (Sample Analysis at Mars) at the Geosciences Node
+- SPICE at the NAIF Node
+
+Data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+For a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201204.shtml
+
+The next MSL release is scheduled for March 16, 2021.
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+APERIODIC PDS DATA RELEASES IN 2020.11
+
+In November 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2020.11.02 Mars Express: MEX EXT2 SPICAM MARS CLEANED IR RDR
+- 2020.11.05 Mars Express: MEX EXT3 SPICAM MARS CLEANED IR RDR
+- 2020.11.16 Mars Express: MEX EXT4 SPICAM MARS CLEANED IR RDR
+- 2020.11.16 Mars Express: MEX EXT5 SPICAM MARS CLEANED IR RDR
+- 2020.11.23 Mars Express: MARS MRS 1/2/3 EXTENDED MISSION 5 3801 to
+  3817
+- 2020.11.30 Mars Express: MARS MRS 1/2/3 EXTENDED MISSION 5 3818 to
+  3824
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201130.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 8–10, 2021
+PERC International Symposium on Dust & Parent Bodies 2021 (IDP2021)
+http://www.perc.it-chiba.ac.jp/meetings/IDP2021/Welcome.html
+Online
+
+July 4-9, 2022
+Cool Stars 21
+https://coolstars21.github.io/splinters.html
+Toulouse, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+The Family of (6) Hebe
+Sherry K. Fieber-Beyer and Michael J. Gaffey 2020 PSJ 1:68
+http://doi.org/10.3847/PSJ/abc17a
+
+On the Long-term Weathering of Airless Body Surfaces by the Heavy Minor
+Ions of the Solar Wind:
+Inputs from Ion Observations and SRIM Simulations
+Quentin Nenon and Andrew R. Poppe 2020 PSJ 1:69
+http://doi.org/10.3847/PSJ/abbe0c
+
+Michael F. A'Hearn
+Tony L. Farnham et al. 2020 PSJ 1:70
+http://doi.org/10.3847/PSJ/abb475
+
+What Does It Mean to be a "Depleted" Comet? High Spectral Resolution
+Observations of the
+Prototypical Depleted Comet 21P/Giacobini-Zinner from the McDonald
+Observatory
+Anita L. Cochran et al. 2020 PSJ 1:71
+http://doi.org/10.3847/PSJ/abb471
+
+Comet 41P/Tuttle-Giacobini-Kresak, 45P/Honda-Mrkos-Pajdusakova, and
+46P/Wirtanen: Water Production
+Activity over 21 yr with SOHO/SWAN
+M. R. Combi et al. 2020 PSJ 1:72
+http://doi.org/10.3847/PSJ/abb026
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

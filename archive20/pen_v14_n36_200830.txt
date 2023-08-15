@@ -1,0 +1,277 @@
+LOCATIONNETARY EXPLORATION NEWSLETTER
+Volume 14, Number 36 (August 30, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Nadine G. Barlow
+2. [NASA] PDS: OSIRIS-REx Bennu Release 6
+3. Openings on Outer Planets Analysis Group (OPAG) Steering Committee
+4. [NASA] Mission Science Team Meeting Opportunities for Early Career 
+   Scientists
+5. [NASA] Planetary Data Ecosystem (PDE) Independent Review Board (IRB) 
+   Self-Nomination Closing on or about September 7 
+6. Planetary Meeting Calendar Additions
+7. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Saturn's Moon Titan: Owners' Workshop Manual by Ralph Lorenz
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: NADINE G. BARLOW
+
+Nadine Gail Barlow passed away on August 17, 2020.
+
+Over 18 years at Northern Arizona University, Nadine ascended the 
+academic ranks, becoming Department Chair of Astronomy and Planetary 
+Science. She received numerous awards for teaching excellence. 
+Doubling the size of the Department, she grew its curriculum into 
+a Ph.D.-granting program. Nadine supervised many undergraduate and 
+graduate students, and was a popular mentor and friend to those under 
+her tutelage. A prize for Undergraduate Research Excellence is being 
+established in her name. Academic outreach was a priority, bringing 
+the Arizona Space Grant Program to NAU, and fostering cooperation 
+between NAU, Lowell Observatory, and the USGS. Nadine specialized in 
+impact cratering processes across the Solar System. Almost on a dare, 
+she mapped, measured, and classified every crater on Mars larger than 
+8 km in diameter for her Ph.D. dissertation. These data were used to 
+establish the detailed relative chronology of Martian geologic 
+features. Throughout her career, she expanded this database, as later 
+spacecraft missions returned increasingly detailed images of Mars. 
+The IAU named asteroid 15466 Barlow in her honor.
+
+Nadine is missed by family and many lifelong friends.
+
+Bob Marcialis, Faith Vilas, Lisa Prato, Lynn Hayden
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: OSIRIX-REX BENNU RELEASE 6
+
+This release of OSIRIS-REx data includes the following data, through 
+February 17, 2020:
+
+- OCAMS raw and calibrated
+- TAGCAMS raw
+- OTES raw and calibrated
+- OVIRS raw and calibrated data
+- Raw Radio Science
+- Mission information updated with Mission Phase Plan Narrative for 
+  Recon B
+
+OLA raw and calibrated data for this time range is coming soon.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200825.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+https://sbn.psi.edu/pds/resource/orex/ocams.html
+https://sbn.psi.edu/pds/resource/orex/tagcams.html
+https://sbn.psi.edu/pds/resource/orex/ovirs.html
+https://sbn.psi.edu/pds/resource/orex/otes.html
+https://sbn.psi.edu/pds/resource/orex/rs.html
+https://sbn.psi.edu/pds/resource/orex/orexmission.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OPENINGS ON OUTER PLANETS ANALYSIS GROUP (OPAG) STEERING COMMITTEE
+
+Several openings are available on the OPAG steering committee to 
+replace members who will be rolling off. All interested candidates are 
+encouraged to apply, particularly those with expertise in Giant Planet 
+Interiors, Ocean Worlds & Cryospheres (field and experimental), 
+Astrobiology, and those able to represent Science Mission Directorate 
+Cross-Divisional interests.
+
+Nominations will be accepted after the OPAG virtual meeting in 
+September 2020 and will be due by November 1, 2020. New members will 
+start their service in time for the Spring 2021 OPAG meeting. Details 
+of the nomination process include providing a one-page letter of 
+interest and a two-page NASA proposal-style CV that address what 
+community the candidates represent, and how they will enhance that 
+community's representation on the steering committee. A New Members 
+subcommittee of the OPAG Steering Committee will review all of the 
+nominations and make recommendations to the full Steering Committee. 
+Through the search process, we will strive to ensure representation 
+across multiple axes to foster an interdisciplinary, diverse, 
+equitable, inclusive, and accessible community.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] MISSION SCIENCE TEAM MEETING OPPORTUNITIES FOR EARLY CAREER 
+SCIENTISTS
+
+The Psyche, Europa Clipper, and Dragonfly missions are providing the 
+opportunity for early career scientists to observe their next science 
+team meetings. This opportunity is open to graduate students in or 
+beyond their third year of earning their doctorate or early career 
+scientists within seven years of receiving their doctorate. At this 
+time the opportunity is limited to U.S. citizens and green card 
+holders. Submit a letter no longer than two pages that describes your 
+background and research interests, how such an experience could be of 
+benefit to them, and which mission they wish to observe. Respondents 
+will be selected based upon the anticipated impact to their career path 
+and the alignment of the mission with their research interests. 
+Selection preference will be given to individuals from institutions 
+that are underrepresented on planetary science missions. NASA 
+recognizes and supports the benefits of having diverse and inclusive 
+communities. 
+
+Send letters and questions to curt.niebur@nasa.gov with the subject 
+line "Science Team Meeting." Those interested in observing the Europa 
+Clipper mission must respond by September 14, 2020, while those 
+interested in the Dragonfly or Psyche missions must respond by 
+September 30, 2020. 
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PLANETARY DATA ECOSYSTEM (PDE) INDEPENDENT REVIEW BOARD (IRB) 
+SELF-NOMINATION CLOSING ON OR ABOUT SEPTEMBER 7
+
+NASA defines the Planetary Data Ecosystem (PDE) "as the ad hoc 
+connected framework of activities and products that are built upon and 
+support the data collected by planetary space missions and research 
+programs, primarily those funded by NASA." The PDE includes but is not 
+limited to archives, tools, programs, projects, pipelines, and 
+stakeholder groups.
+
+The PDE Independent Review Board (IRB) will conduct a review of the 
+Planetary Science Division's (PSD) PDE with the goal of defining the 
+full environment, identifying missing or overly redundant elements, 
+and providing findings and prioritized, actionable recommendations for 
+PSD's long-term planning in support of the PDE.
+
+The PDE IRB will be convened virtually over the course of three months 
+in fall 2020 (estimate).
+
+A third-party contractor independently will select the PDE IRB members 
+and will issue any invitations to serve. It is anticipated that 
+invitations to members will begin in late-August and early-September. 
+To submit a self-nomination, please visit: 
+
+https://science.nasa.gov/researchers/volunteer-review-panels/planetary-data-ecosystem-pde-independent-review-board-irb 
+
+Signing up does not commit you to serve.
+
+Send questions or comments to Rebecca McCauley Rench 
+(becky.mccauley@nasa.gov) using subject line: PDE Self Nomination.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 28-July 2, 2021
+5th Planetary Data Workshop and Planetary Science Informatics & Data 
+Analytics
+https://www.hou.usra.edu/meetings/planetdata2021/
+Flagstaff, AZ
+
+October 4-6, 2021
+Martian Enigmas 2021
+https://www.hou.usra.edu/meetings/martianenigma2021/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Barycentric Corrections for Precise Radial Velocity Measurements of 
+Sunlight
+Jason T. Wright and Shubham Kanodia 2020 PSJ 1:38
+http://doi.org/10.3847/PSJ/ababa4
+
+Oxidation of the Interiors of Carbide Exoplanets
+H. Allen-Sutter et al. 2020 PSJ 1:39
+http://doi.org/10.3847/PSJ/abaa3e
+
+Craters on Charon: Impactors from a Collisional Cascade Among 
+Trans-Neptunian Objects
+Scott J. Kenyon and Benjamin C. Bromley 2020 PSJ 1:40
+http://doi.org/10.3847/PSJ/aba8a9
+
+Benzoic Acid as the Preferred Precursor for the Chlorobenzene 
+Detected on Mars: Insights from the Unique Cumberland Analog 
+Investigation
+Caroline Freissinet et al. 2020 PSJ 1:41
+http://doi.org/10.3847/PSJ/aba690
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+SATURN'S MOON TITAN: OWNERS' WORKSHOP MANUAL BY RALPH LORENZ
+
+This new book has just been published by Haynes, UK.
+
+196 pages, Large-format all-color, ~300 images including the latest 
+Cassini mosaics and maps, with details on Titan's interior, landscape 
+and atmosphere, properties of Titan materials, features of Titan 
+exploration systems such as Dragonfly, and speculations on future 
+human exploration of this amazing world.
+
+https://www.amazon.com/Saturns-Titan-Owners-Workshop-Manual/dp/1785216430
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

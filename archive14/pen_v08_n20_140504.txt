@@ -1,0 +1,499 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 20 (May 4, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. In Memoriam: Barney Conrath
+2. Budget Advocacy Letter to Professional Planetary Science Colleagues
+3. Upcoming Planetary Science Short Courses
+4. JWST Now in HORIZONS
+5. Request for Information: Europa Mission Concepts Costing Less Than
+   $1 Billion 
+6. Post-doctoral Position in Geophysics, University of Tennessee
+7. NASA Postdoctoral Fellowships
+8. European Planetary Sciences Conference 2014
+9. NASA SBAG-OPAG Joint Statement on the Scientific Priority of 
+   Identifying a KBO for the New Horizons Mission
+10. [NASA] Clarifications of NASA Discovery Program Draft Announcement 
+    of Opportunity
+11. Mars 2020 Landing Site Workshop
+12. May 2014 MEPAG Newsletter Available
+13. 48th ESLAB Symposium: New Insights into Volcanism Across the 
+    Solar System
+14. Icarus Special Issue on Lunar Volatiles: Deadline Extended to 
+    June 1, 2014
+15. Mars Magnetic Fields and Upper Atmosphere Postdoctoral Researchers 
+    (NASA-GSFC/CRESST/University of Maryland)
+16. Planetary Meeting Calendar Additions
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: BARNEY CONRATH (1935-2014)
+
+Our colleague Barney Conrath passed away peacefully in his sleep on 
+April 23 after a bout with cancer. Barney was an astrophysicist, 
+working at NASA/Goddard Space Flight Center and Cornell University. 
+His studies of planetary atmospheres included experiments on the 
+Voyager 1 and 2 missions, Mars Global Surveyor, and most recently on 
+the NASA/European Space Agency Cassini mission. He has won several 
+awards, including the Kuiper Prize, 1996, from the Division of 
+Planetary Sciences of the American Astronomical Society.
+
+Barney's obituary is available at:
+
+http://www.hillandwood.com/fh/obituaries/obituary.cfm?o_id=2493443&fh
+_id=10702
+
+[Text borrowed from Michael Flasar's e-mail and Barney's obituary.]
+ 
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+BUDGET ADVOCACY LETTER TO PROFESSIONAL PLANETARY SCIENCE COLLEAGUES 
+
+As President of the Board of Directors of The Planetary Society (TPS), 
+a fellow member of professional societies engaged in planetary research 
+(AAS/DPS, AGU, and GSA), and a colleague deeply concerned about funding 
+for planetary science research and missions, I wanted to send a note to 
+highlight important recent developments. TPS, along with leaders of 
+the relevant sections of the DPS, AGU, and GSA, and many of you, have 
+been working hard over the past few years to jointly advocate for NASA 
+budget levels that will enable our community to meet the objectives of 
+the Planetary Science Decadal Survey. Together, we have all had some 
+influence in the process, as evidenced by Congressional increases in 
+recent actual enacted Planetary Science Division budgets over the 
+levels proposed by the Administration, and actions like the intention 
+to release the AO for the 13th Discovery mission this fiscal year.  
+However, we are not yet where we need to be to achieve the Decadal 
+goals, and so your continued action and support is needed as the FY15 
+budget is being formulated *right now*.
+
+See the following for the entire letter:
+
+http://www.planetary.org/blogs/guest-blogs/2014/0501-an-open-letter-
+to-planetary-scientists-from-jim-bell.html
+
+Planetary Society President Jim Bell
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+UPCOMING PLANETARY SCIENCE SHORT COURSES
+
+Dear colleagues, students, and professionals,
+The Centre for Planetary Science and Exploration (http://cpsx.uwo.ca) 
+and the NSERC CREATE program "Technologies and Techniques for Earth 
+and Space Exploration" (http://create.uwo.ca) are pleased to announce 
+two upcoming short courses:
+ 
+Remote Sensing and GIS for Earth and Planetary Science: 
+This course will run June 14-20 2014. The main objective of this course 
+is to provide a strong technical and conceptual grounding in remote 
+sensing data and Geographic Information Systems (GIS) analysis with 
+both terrestrial and planetary applications. Course website: 
+
+http://cpsx.uwo.ca/study/study-1/graduate-courses/2014-remote-
+sensing-and-gis-short-course
+ 
+Planetary Science Short Course:
+The next annual Planetary Science Short Course will run September 1-7, 
+2014. Topics to be covered include origin of the solar system and 
+planet formation; planetary interiors; planetary surfaces; 
+astromaterials, planetary atmospheres; astrobiology, and exoplanets. 
+Course website: 
+
+http://cpsx.uwo.ca/study/study-1/graduate-courses/2014-ps-short-
+course
+ 
+Both these courses will run at the University of Western Ontario, 
+London, ON, and are suitable for graduate students, advanced 
+undergraduate students and professionals from industry and 
+government. Students from Ontario and some Canadian provinces can 
+take theses course for credit and details as to how to do this are 
+provided on respective websites.
+ 
+Questions? Please contact cpsx@uwo.ca
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JWST NOW IN HORIZONS
+
+The James Webb Space Telescope’s planning trajectory has been added to 
+JPL's Horizons ephemeris system. It is now possible to generate 
+ephemerides of all cataloged solar system bodies with respect to JWST 
+by setting the observing site/center to @jwst. This trajectory will 
+be updated to the actual orbit after launch. As a reminder, the JWST 
+Solar System Working Group has been considering science cases from the 
+solar system observing community for future observations with NASA's 
+next great observatory. A white paper summarizing the instrumentation 
+and observatory capabilities, as well as key science cases is now 
+available at:
+
+http://arxiv.org/abs/1403.6845
+
+More details regarding solar system observations with JWST can be 
+found here: 
+
+http://www.stsci.edu/jwst/science/solar-system
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+REQUEST FOR INFORMATION: EUROPA MISSION CONCEPTS COSTING LESS THAN $1 
+BILLION 
+
+NASA is seeking information regarding complete, low cost mission 
+concepts for Europa exploration that meet the majority of science 
+priorities from the Decadal Survey. The focus of this Request For 
+Information (RFI) is Europa mission concepts costing less than $1 
+billion (FY 2015 dollars), excluding the launch vehicle. The 
+information gathered through this RFI will be used by NASA to inform 
+its efforts to scope a mission to Europa.
+
+All responses submitted in response to this RFI must be submitted in 
+electronic form via NSPIRES, the NASA online announcement data 
+management system, located at: 
+
+http://nspires.nasaprs.com/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL POSITION IN GEOPHYSICS, UNIVERSITY OF TENNESSEE
+
+The Department of Earth and Planetary Sciences (http://web.eps.utk.
+edu) invites applications for a Post-doctoral Teaching Associate 
+position in Geophysics starting August 1, 2014. The position is a 9-
+month appointment (paid over a 12-month period) and includes benefits. 
+Successful candidates will be expected to teach physical geology at 
+the 100-level and specialized geophysical courses at the upper 
+division undergraduate or graduate level. Candidates will also be 
+encouraged to participate in departmental research projects and/or 
+work on their own research.
+
+UT–Knoxville is the state's flagship research institution, located in 
+East Tennessee close to Oak Ridge National Laboratory and the Great 
+Smoky Mountains National Park. The Department of Earth and Planetary 
+Sciences comprises an energetic group of tenure-track and research 
+faculty, post-doctoral researchers, and ~150 graduate and 
+undergraduate students.
+
+Applicants should e-mail résumé, description of teaching and research 
+interests, and contact information for 3 references in PDF format to: 
+
+Prof. Larry McKay, Dept. Head
+Department of Earth and Planetary Sciences, University of Tennessee
+Knoxville, TN 37996- 1410
+865-974-5498
+lmckay@utk.edu
+
+Review of applications will begin immediately and will continue until 
+the position is filled.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17808
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EUROPEAN PLANETARY SCIENCES CONFERENCE 2014
+
+The European Planetary Sciences Conference 2014 will be held in 
+Estoril, Portugal, on 7-12 September this year. The abstract deadline 
+is 6 May. Conference website is:  
+
+http://epsc2014.eu
+
+We would like to draw your attention in particular to the Venus session 
+(TP3). Rather than have a combined "Terrestrial Planet atmospheres 
+session", this year we are having a dedicated Venus session to enable 
+a broad view of surface, atmosphere and evolution of this planet in 
+support of a forthcoming "Venus 3" book project. We invite abstracts 
+on all aspects of Venus science, from modelling to observation, from 
+interior to surface to atmosphere to exosphere.
+ 
+Best regards,
+Colin Wilson
+Bruno Bézard
+Chris Russell
+Sue Smrekar
+Takehiko Satoh
+Convenors of EPSC session TP3 ("Venus")
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA SBAG-OPAG JOINT STATEMENT ON THE SCIENTIFIC PRIORITY OF 
+IDENTIFYING A KBO FOR THE NEW HORIZONS MISSION
+
+The full statement can be found at:
+
+http://www.lpi.usra.edu/sbag/documents/NewHorizons0430.pdf
+
+Despite an extensive and continuing ground-based search making use of 
+the world's best deep, wide-field imaging facilities, and discovering 
+over 50 new KBOs, a target has not yet been found that can be reached 
+with the fuel available to New Horizons after the Pluto encounter in 
+July 2015. The ground-based search effort will continue in 2014. But 
+even under optimistic assumptions for weather and seeing, a ground-
+based search has less than 50% chance of finding at least one viable 
+target during the 2014 apparition, based on current best estimates. In 
+contrast, a dedicated search (<200 orbits during the 2014 apparition) 
+using the Hubble Space Telescope is very likely to find one or more 
+reachable KBOs. The probability of a successful search substantially 
+declines if postponed to 2015. Therefore, joint statement of the NASA 
+Small Bodies Assessment Group and Outer Planets Assessment Group 
+strongly supports the New Horizons KBO search team's proposal to bring 
+the unique capabilities of HST to bear on this problem as soon as 
+possible.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] CLARIFICATIONS OF NASA DISCOVERY PROGRAM DRAFT ANNOUNCEMENT OF 
+OPPORTUNITY
+
+Community Announcement NNH14ZDA004J
+
+On February 19, 2014, NASA’s Science Mission Directorate (SMD) released 
+a Community Announcement containing information about its intention to 
+release a Draft Announcement of Opportunity (AO) for Discovery Program 
+missions by May 2014. SMD is now issuing further information clarifying 
+its intentions. 
+
+The document is available under Future Solicitations on NSPIRES at:
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId={0CA4625F-7B23-C1F5-9FC5-E695B3F0A50D}&path=future
+
+As it becomes available, further information will be posted on the 
+Discovery Program Acquisition Page at:
+
+http://discovery.larc.nasa.gov/
+
+Questions may be addressed to: 
+Dr. Michael New
+(202)358-1766
+michael.h.new@nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS 2020 LANDING SITE WORKSHOP
+
+This is the final announcement of the first landing site workshop for 
+the 2020 Mars Rover, to be held May 14-16, 2014, at the Crystal City 
+Marriott in Arlington, VA (Washington DC area, immediately following 
+the MEPAG Meeting at the same venue).
+
+The final program for the workshop can be viewed at: 
+
+http://marsnext.jpl.nasa.gov/index.cfm
+
+The workshop will be webcast and instructions on how to access the 
+webcast will be posted at: 
+
+http://marsnext.jpl.nasa.gov/index.cfm
+
+All interested parties are welcome to attend and participate. There 
+is no registration.
+
+We look forward to seeing you at the workshop!
+Regards.
+
+John Grant and Matt Golombek
+Co-Chairs, Mars 2020 Landing Site Steering Committee
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MAY 2014 MEPAG NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and Amy 
+Hale of the Mars Program Science Office, the May 2014 edition of the 
+Mars Exploration Science Monthly Newsletter can be found at:
+
+http://mepag.jpl.nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+48TH ESLAB SYMPOSIUM: NEW INSIGHTS INTO VOLCANISM ACROSS THE SOLAR 
+SYSTEM
+
+The preliminary program is now published on the website, see: 
+
+http://congrexprojects.com/2014-events/48-ESLAB/programme
+
+The detailed program with individual contributions will follows 
+shortly, and will be announced on the website.
+
+Registration is still open, and will be until the start of the 
+meeting. In addition, "Late Abstracts - Poster Only" submission is 
+still possible until May 16th. The poster session will be on Thursday, 
+June 19th.
+
+The symposium will focus on volcanism in the Solar System. Of 
+particular interest, but not limited to, will be new insights obtained 
+over the last years from international space missions to planets, Moons 
+and cryo-volcanism. The format will be made up of plenary sessions on 
+topics related to volcanism in the Solar System, with contributed oral 
+and poster presentations.
+
+Sebastien Besse, on behalf of the SOC
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ICARUS SPECIAL ISSUE ON LUNAR VOLATILES: DEADLINE EXTENDED TO JUNE 1,
+2014
+
+In the past five years, the paradigm of lunar volatiles research has
+shifted from hypothesizing on the existence of volatiles on the Moon 
+to classifying the abundance and distribution of different types of 
+volatiles on the Moon. This special issue reports work advancing the 
+understanding of volatiles in, on, and around the Moon including the 
+primordial inventory, volatile additions and losses throughout the 
+history of the Moon, and the current inventory of volatiles.  
+
+Manuscripts publishing spacecraft data relevant to mapping and 
+quantifying lunar volatiles are sought. In addition, papers focused on 
+the processes related to the storage, maintenance, migration, delivery, 
+or removal of volatiles are appropriate. The special issue solicits 
+submissions containing new scientific research via laboratory studies, 
+remote sensing, data analysis, modeling, sample analysis, or 
+theoretical investigations.
+
+The submitted papers must be written in English and describe original
+research that is not published nor currently under review by other
+journals or conferences. Author guidelines for preparation of 
+manuscript can be found at:
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home/505620/
+authorinstructions
+
+For more information, please contact the editorial office at
+Icarus@astro.cornell.edu
+
+Guest Editors: Dana Hurley, Oded Aharonson, Matthew Siegler
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS MAGNETIC FIELDS AND UPPER ATMOSPHERE POSTDOCTORAL RESEARCHERS 
+(NASA-GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+Applications are now being accepted for two Postdoctoral Research 
+Associates, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the 
+area of Mars magnetic fields and upper atmosphere investigations using 
+data from the MAVEN mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/
+
+Candidates for either position should have a Ph.D. in a relevant 
+discipline with prior experience conducting scientific research 
+related to the Maven science objectives or the types of instruments 
+included in the MAVEN science payload. IDL skills and experience in 
+acquisition and analysis of data from space flight instruments are 
+highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by May 23, 2014 will receive full consideration.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 3-5, 2014
+Workshop on Volatiles in the Martian Interior 
+http://www.hou.usra.edu/meetings/volatiles2014/
+Houston, TX
+
+January 6-8, 2015
+12th Meeting of the NASA Small Bodies Assessment Group
+http://www.lpi.usra.edu/sbag/meetings/
+Phoenix, AZ
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

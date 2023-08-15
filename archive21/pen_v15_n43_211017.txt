@@ -1,0 +1,363 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 43 (October 17, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] NASA Science Quarterly Town Hall Meeting
+2. [NASA] PDS: Hayabusa2 TIR Release
+3. Free Sharing Planetary Science Seminar on Engaging Children
+4. Call for Papers: Planetary Landscapes, Landforms, and Their
+   Analogues, ESurf Special Issue
+5. New Venus Portal Released
+6. DART Boarder Program Indication of Interest for January
+   Investigation Team Meeting
+7. Job Opportunity: Planetary Astronomer
+8. Multiple Faculty Positions in "Origins of Life" in Purdue
+   University's College of Science
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NASA SCIENCE QUARTERLY TOWN HALL MEETING
+
+NASA's Science Mission Directorate will hold a community town hall
+meeting with Associate Administrator for Science Thomas H. Zurbuchen
+and his leadership team Monday, October 18 at 3 p.m. ET to discuss
+updates to NASA's science program and share the current status of NASA
+activities.
+
+Members of the science community, academia, the media, and the public
+are invited to participate by joining at the link below.
+
+Event address for attendees:
+
+https://tinyurl.com/b3rz666m
+
+If prompted, please use event number : 2762 947 3249, followed by event
+password gKt23HPT75w.
+
+To ask a question, participants can go to:
+
+https://nasa.cnf.io/sessions/m27c/#!/dashboard
+
+Users must provide their first and last name and organization and can
+submit their own questions or vote up questions submitted by others.
+The meeting leaders will try to answer as many of the submitted
+questions as possible.
+
+Presentation materials for the meeting will be available for download
+and a recording will be available later that day at:
+
+https://science.nasa.gov/researchers/virtual-townhall
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: HAYABUSA2 TIR RELEASE
+
+This release of Hayabusa2 data includes the TIR raw and calibrated data
+bundle and the updated Hayabusa2 Mission bundle with updated
+dictionaries and documents. The included data cover the full Ryugu 
+encounter.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211014.shtml
+
+Or more directly at the PDS Hayabusa2 mission archive page at
+
+https://sbn.psi.edu/pds/resource/hayabusa2/
+
+The Hayabusa2 data are in the process of being prepared for PDS
+archiving. We expect most raw and calibrated orbiter data and MASCAM
+data to be released over the course of 2021. Other surface
+observations, radio science, and derived data are expected in 2022.
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FREE SHARING PLANETARY SCIENCE SEMINAR ON ENGAGING CHILDREN
+
+All planetary scientists and engineers, including early career
+scientists and graduate students, are invited to join us on October 19
+at 3:00 p.m. CDT for this free seminar. Many scientists are less
+experienced in interacting with young audiences. Join Sha'Rell Webb
+(LPI Public Engagement Lead), Vivian White (Astronomical Society of the
+Pacific's Director of Free Choice Learning) and Christine Shupla (LPI
+Education and Public Engagement Manager) to practice strategies for
+engaging children in planetary science.
+
+For more details, or information on past Sharing Planetary Science
+sessions, go to the Lunar and Planetary Institute's Scientist
+Engagement website:
+
+https://www.lpi.usra.edu/education/scientist-engagement/
+
+Join the Zoom:
+
+https://www.zoomgov.com/j/1614607377?pwd=RVp3dU5kek8xRXRrekliNnJNZ01MQT09
+
+Passcode: 179592
+Or join by telephone: (669) 254-5252
+Webinar ID: 161 460 7377
+
+Or watch streamed on LPI's YouTube channel:
+
+https://www.youtube.com/c/LPIUSRA
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR PAPERS: PLANETARY LANDSCAPES, LANDFORMS, AND THEIR ANALOGUES,
+ESURF SPECIAL ISSUE
+
+We are pleased to announce a Call for Papers for a Special Issue of
+Earth Surface Dynamics (ESurf), entitled "Planetary landscapes,
+landforms, and their analogues".
+
+This special issue spans Planetary Geomorphology across the Solar
+System, with a particular focus on comparative planetology and
+terrestrial analogue studies. The focus of individual papers in the
+special issue is flexible. More information can be found under 2021
+Scheduled SIs at the following link:
+
+https://www.earth-surface-dynamics.net/articles_and_preprints/scheduled_sis.html 
+
+Interested in submitting a manuscript? If you are considering
+submitting a manuscript, or have any questions, please do get in touch
+with us (f.butcher@sheffield.ac.uk and susan.conway@univ-nantes.fr).
+
+Manuscript Submission: Authors can submit their contribution using the
+registration form on the ESurf website: 
+
+https://editor.copernicus.org/ESurf/manuscript_registration
+
+It is important that the correct special issue is selected during the
+registration process.
+
+Deadline: The deadline for submissions is 30 November 2022.
+Individual papers will be made available online with DOI after
+acceptance. There is a 50% publication fee reduction for the first 6
+papers to be submitted.
+
+Many thanks
+
+Frances Butcher and Susan Conway (Special Issue Guest Editors)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW VENUS PORTAL RELEASED
+
+Having almost the same size and mass as the Earth, and occupying the
+next orbit closer to the Sun from us, Venus was once thought to be
+Earth's sister planet. But radar images piercing its dense blanket of
+acidic clouds reveal a scorched landscape pressure cooked at 464
+degrees C (867 degrees F) and 92 times Earth's atmospheric pressure.
+This year, NASA announced its selection of the upcoming DAVINCI+ and
+VERITAS Discovery missions to Venus, adding to the legacy of data
+gathered by NASA's previous Magellan mission to Venus. Inspired by this
+announcement, NASA's Solar System Treks Project has developed and 
+released the new online, browser-based Venus Trek portal:
+
+https://trek.nasa.gov/venus
+
+The initial release of the portal features a variety of data from the
+Magellan mission's Synthetic Aperture Radar (SAR) including SAR global
+mosaics, Fresnel reflectivity, microwave emissivity, slope maps,
+hillshade topography, and a digital elevation model. The portal will
+promote understanding of the surface features of Venus and provide an
+important and timely enhancement to the Solar System Treks suite's
+capabilities for comparative planetology. Explore Venus, as well as
+many other amazing worlds in our Solar System, with NASA's Solar System
+Treks at:
+
+https://trek.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+DART BOARDER PROGRAM INDICATION OF INTEREST FOR JANUARY INVESTIGATION
+TEAM MEETING
+
+https://forms.gle/485qLEcgPyoaPag56
+
+The Double Asteroid Redirection Test (DART) Investigation Team is
+reopening the "DART Boarders" program to introduce advanced graduate 
+students and early career scientists (< 7 years since terminal degree) 
+to the experience of working on a mission team via an invitation to 
+observe the DART Investigation Team meeting 18-21 January, 2022.
+
+Unfortunately, we cannot offer support for time spent in the program,
+but we anticipate a commitment of roughly 20-24 hours spread over the
+week prior to and week of the team meeting. 
+
+Respondents will be selected based upon anticipated impact to their
+career path and alignment of their research interests with the mission
+objectives, giving preference to candidates without existing
+connections to the team via current advisor-student relationships. DART
+recognizes and supports the benefits of having diverse and inclusive
+communities and expects such values to be reflected in this
+opportunity.
+
+Questions can be sent to andy.rivkin@jhuapl.edu with subject line "DART
+Boarders". The indication of interest must be filled out by 16 November, 
+2021. Applicants will be notified of the outcome by mid-December.
+
+For more information about the DART mission: 
+
+https://dart.jhuapl.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB OPPRORTUNITY PLANETARY ASTRONOMER
+
+The SETI Institute is seeking a Planetary Astronomer to support the
+work of the Ring-Moon Systems Node (RMS) of NASA's Planetary Data
+System (PDS).
+
+The astronomer will focus primarily on expanding the coverage of OPUS,
+the flagship service of the RMS Node, which provides powerful and
+effective cross-mission, cross-target, faceted search based on accurate
+and consistent metadata and informative browse products. The astronomer
+will develop software pipelines that integrate additional data sets
+into OPUS, including those from Galileo, New Horizons, Juno, and the
+Hubble Space Telescope. 
+
+The astronomer will also develop data processing pipelines to convert
+data sets currently archived with PDS into the more modern "PDS4"
+standard.
+
+This challenging and rewarding role, which provides an important
+service to the planetary research community, requires both experience
+working with planetary data and skill at programming in Python, as well
+as familiarity with the SPICE toolkit.
+
+For details:
+
+https://seti.org/jobs/planetary-astronomer
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MULTIPLE FACULTY POSITIONS IN "ORIGINS OF LIFE" IN PURDUE UNIVERSITY'S
+COLLEGE OF SCIENCE
+
+The Departments of Biological Sciences, Chemistry, and Earth,
+Atmospheric, and Planetary Sciences at Purdue University invite
+applicants for up to three faculty positions at the rank of Assistant
+or Associate Professor, rank to be commensurate with experience, and
+departmental appointments to align with candidates' expertise and
+interests. Applications are welcomed from researchers in all areas with
+relevance to the Origins of Life, including but not limited to
+evolutionary biology, phylogenetics, computational biology, molecular
+biology, microbiology, synthetic biology, prebiotic chemistry,
+biocatalysis, astrochemistry, self replicating and evolutionary
+systems, astrobiology, biogeochemistry, physical processes related to
+abiogenesis, and planetary habitability. Experimental, computational,
+observational, and theoretical scientists are encouraged to apply.
+Applicants that work across multiple disciplines or work to develop
+interdisciplinary collaborations are especially encouraged to apply.
+
+Broadly speaking, the Origins of Life search will consider fields of
+research and processes related to how life first evolved on earth, how
+life continues to evolve, and whether and where life exists elsewhere
+in the universe and how it informs the origins of life on earth.
+
+Applications will be reviewed beginning November 1, 2021 and will
+continue until the position is filled. 
+
+For more details visit:
+
+https://tinyurl.com/2fhbvwdw
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+February 1-3, 2022
+Mercury Exploration Assessment Group (MExAG) Meeting
+https://www.lpi.usra.edu/mexag/meetings/2022/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Past, Present, and Future of Mars Polar Science: Outcomes and Outlook 
+from the 7th International Conference on Mars Polar Science and 
+Exploration
+Patricio Becerra et al. 2021 PSJ 2:209
+https://doi.org/10.3847/PSJ/ac19a5
+
+The Timing of Alluvial Fan Formation on Mars
+Samuel J. Holo et al. 2021 PSJ 2:210
+https://doi.org/10.3847/PSJ/ac25ed
+
+MOSAIC: A Satellite Constellation to Enable Groundbreaking Mars 
+Climate System Science and Prepare for Human Exploration
+Robert J. Lillis et al. 2021 PSJ 2:211
+https://doi.org/10.3847/PSJ/ac0538
+
+OSSOS. XXIII. 2013 VZ 70 and the Temporary Coorbitals of the Giant 
+Planets
+Mike Alexandersen et al. 2021 PSJ 2:212
+https://doi.org/10.3847/PSJ/ac1c6b
+
+Analyzing Surface Ruggedness Inside and Outside of Ice Stability Zones
+at the Lunar Poles
+Ariel N. Deutsch et al. 2021 PSJ 2:213
+https://doi.org/10.3847/PSJ/ac24ff
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

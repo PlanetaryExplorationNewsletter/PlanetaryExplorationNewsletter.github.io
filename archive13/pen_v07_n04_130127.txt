@@ -1,0 +1,274 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 4 (January 27, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Stephen Eugene Dwornik (1926-2012)
+2. Solar Wind Interaction with Planetary Environments Session (PS-01)
+   at AOGS, Brisbane, Australia
+3. Postdoctoral Researcher in Planetary Science
+4. NASA Postdoctoral Fellowships
+5. New Planetary Sciences Editor at Geophysical Research Letters
+6. [NASA] Education Project Proposals Solicited
+7. Science Verification of SAM: Call for Proposals
+8. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+STEPHEN EUGENE DWORNIK (1926-2012)
+ 
+Stephen E. Dwornik passed away peacefully on December 17, 2012. Dwornik 
+was born July 3, 1926, in Buffalo, New York.
+ 
+He attended Buffalo's Technical High School then enlisted in the Army. 
+Dwornik participated in the Battle of the Bulge and received the Army's 
+Bronze Star. He entered SUNY Buffalo where he received Bachelor's and 
+Master's degrees in Geology. He did field work in Alaska along the 
+Brooks Range in the late 1940s and later moved to Springfield, 
+Virginia, to work with mine detection at the U.S. Army Engineer 
+Research and Development Laboratories; he then worked in planetary 
+geology space research at NASA.
+ 
+While at NASA, Dwornik acted as a Project Manager for the lunar 
+Surveyor Program. Dwornik co-authored several books, including Atlas 
+of Mercury. One of his fondest memories was providing the first 
+substantial NASA funding to the young astronomer Carl Sagan. After 
+retirement from NASA, Dwornik enjoyed a second career with Ball 
+Aerospace, and volunteered to help create a planetary Braille map and 
+speak for ElderHostel courses. He endowed the Stephen E. Dwornik 
+Paper Award for Planetary Geology to support future generations of 
+scientists.
+ 
+[Editor note: Excerpted from The Washington Post on December 22, 2012]:
+ 
+http://www.legacy.com/obituaries/WashingtonPost/obituary.aspx?n=
+STEPHEN-E-DWORNIK&pid=161882753#fbLoggedOut
+ 
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SOLAR WIND INTERACTION WITH PLANETARY ENVIRONMENTS SESSION (PS-01) AT 
+AOGS, BRISBANE, AUSTRALIA
+
+We invite all members of the planetary space physics and aeronomy 
+community to submit an abstract (deadline January 29) to the "Solar 
+wind interaction with planetary environments" (PS-01) session at the 
+Asia-Oceania Geosciences Society conference in Brisbane, Australia 
+June 24-28, 2013. The aim of the proposed session is to gather works 
+based on both in-situ and global measurements and/or numerical 
+simulations in diverse astrophysical contexts to progress toward a 
+global picture of the dynamics of planetary plasma environments. This 
+session has a long history at AOGS and is generally very well attended. 
+Invited speakers for this year are listed below:
+
+M. Nishino: Kaguya's view of solar wind interaction with the moon
+T. Zurbuchen: Mercury's plasma environment
+D. Schriver: modeling plasma transport at Mercury
+M. Fraenz: solar wind interaction with Mars and Venus
+C. Paranicas: Jupiter magnetosphere and the JUNO mission
+E. Kronberg: reconnection at Earth and Jupiter
+K. Khurana: Saturn's magnetospheric dynamics
+H. Lammer: stellar wind influence on evolution of planetary 
+atmospheres
+S. Hess: the magnetosphere of exoplanets
+
+Session details here:
+
+http://www.asiaoceania.org/aogs2013/mars2/confSessionView.asp?sID=114
+
+Abstract deadline: Tuesday, January 29
+
+[Edited for length.]
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL RESEARCHER IN PLANETARY SCIENCE
+
+The Astrophysics group at the University of Bristol seeks applicants 
+for an interdisciplinary project to study changes in the bulk 
+composition of the Earth during accretion.  
+
+The Research Assistant/Associate will be responsible for (1) conducting 
+numerical simulations of the formation of planetary embryos in the 
+terrestrial region using an N-body code and (2) analyzing these results 
+to determine the compositional differences between embryos and the 
+original planetesimals that could arise because of incomplete 
+accretion. The main focus of this project is to determine if the 
+collisional growth and evolution of the Earth could result in a non-
+chondritic bulk composition.
+
+The Research Assistant/Associate will be supervised by Dr. Zoe 
+Leinhardt and also collaborate with Prof. Tim Elliott and Prof. Mike 
+Walter at the University of Bristol and Prof. Sarah T. Stewart at 
+Harvard University.
+
+Applicants with interests in computational astrophysics/geophysics and 
+planetary chemistry are strongly encouraged to apply. A Ph.D. in 
+Astrophysics, Geophysics or related field is required.
+
+The appointment is for 30 months. Apply online at: 
+
+http://www.bris.ac.uk/jobs (ref:ACAD100184) 
+
+by 3rd March. Interviews will begin 11th March and continue until the 
+position is filled. For inquiries please email Dr. Leinhardt at
+Zoe.Leinhardt@bristol.ac.uk
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW PLANETARY SCIENCES EDITOR AT GEOPHYSICAL RESEARCH LETTERS
+
+Geophysical Research Letters seeks to expand its role as a top journal 
+in the Planetary Sciences. To that end, GRL has hired an additional 
+editor to handle papers submitted in that field. GRL publishes short 
+letters of broad interest that have an immediate impact on the research 
+of others. GRL is the fastest publishing, high impact journal in earth 
+and space sciences. Consider submitting your best work to GRL:
+
+http://www.agu.org/journals/gl/
+
+IF = 3.792, mean time from submission to publication = 12 weeks.
+
+E. Calais, GRL Editor in Chief
+A. Dombard, GRL Editor for Planetary Sciences
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] EDUCATION PROJECT PROPOSALS SOLICITED
+
+The NASA Office of Education, in cooperation with NASA Headquarters' 
+Offices of Communications and Chief Technologist and Mission 
+Directorates (i.e., Aeronautics Research, Human Exploration and 
+Operations, and Science), seeks education project proposals through 
+solicitation NNH13ZHA001N: Competitive Program for Science Museums, 
+Planetariums and NASA Visitor Centers Plus Other Opportunities.  
+Proposals must focus on NASA-inspired science, technology, engineering, 
+or mathematics education or STEM, which may include but are not limited 
+to, human space exploration, commercial crew and cargo, exhibits, and 
+partnerships with K-12 educators, schools or districts. Successful 
+proposals typically will be funded as grants or cooperative 
+agreements.
+ 
+Only non-profit entities that are legally recognized by a federal, 
+state or local authority, including all types of NASA Visitor Centers 
+(e.g., private, state or federal entities) located in the United States 
+or its Territories are eligible to compete for funds. An eligible 
+institution does not need to have the words museum, visitor center, 
+science, or planetarium in its legal name. 
+
+Click on the following link to see the full text of the announcement 
+for this funding opportunity:
+ 
+http://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId={37764C2A-F415-01DF-1B30-F1971BE7F8BE}&path=open
+ 
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SCIENCE VERIFICATION OF SAM: CALL FOR PROPOSALS
+
+Deadline for proposals: March 15, 2013
+
+The SOAR Adaptive Module (SAM) is a laser guide star adaptive optics
+system that improves natural seeing at the 4.1-m SOAR telescope. The
+instrument is equipped with a CCD imager (pixel scale 0.045 arcsec,
+field of view 3 arcmin). SAM commissioning is almost complete, and we
+are ready to begin Science Verification (SV) testing as a final step
+prior to offering SAM on a shared risk basis in Semester 2013B.
+
+Through this call for proposals (CfP), we solicit proposals for short
+(<0.5 night) science projects which could be executed as part of this
+SV testing process.  This solicitation is open to investigators from
+all SOAR partners including the US, Brazilian and Chilean open access
+communities.
+
+Full information is available at:
+
+http://www.ctio.noao.edu/new/Telescopes/SOAR/Instruments/SAM/
+science/sv.ht
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 9-10, 2013
+3rd International Workshop on Lunar Superconductor Applications
+http://www.lsa2013.com
+Cocoa Beach, FL
+
+July 22 - August 9, 2013
+The University of California International Summer School on 
+AstroComputing 2013: Star and Planet Formation
+http://hipacc.ucsc.edu/ISSAC2013.html
+Santa Cruz, CA
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

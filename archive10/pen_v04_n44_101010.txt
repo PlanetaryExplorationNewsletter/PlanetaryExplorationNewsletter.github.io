@@ -1,0 +1,350 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 44 (October 10, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Mark V. Sykes, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Passing of Frank J. Stadermann
+2. Passing of Audouin Charles Dollfus
+3. [NASA] Reminder:  NASA Poll on Planetary Research and Analysis Programs 
+   Closes October 11
+4. [NASA] Request For Information (RFI)
+5. [NASA PDS] Cassini ISS and VIMS Data Release 23
+6. International Space Station:  The Next Decade Conference
+7. [NASA] Announcement for Membership on the WFIRST Mission Science 
+   Definition Team
+8. Mars Exploration Science Monthly Newsletter Available
+9. Call for Proposals from the European Space Agency
+10. [NASA] Solicitation for NASA Science Team members for ESA's Euclid
+   Mission
+11. Mars As Art 2: Images Needed
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PASSING OF FRANK J. STADERMANN
+
+Frank Stadermann passed away on October 4, 2010, after suffering a 
+cerebral hemorrhage. He was 48 years old. Stadermann was a senior 
+research scientist in physics, member of the Laboratory for Space 
+Sciences, and director of the NanoSIMS and Auger laboratories at 
+Washington University in St. Louis.  Stadermann developed techniques 
+for NanoSIMS measurements in TEM sections, which allowed for the first 
+time correlated mineralogical and isotopic studies on a submicrometer 
+scale. This work led to the first direct isotopic measurement of 
+"presolar grains within presolar grains" (200-nanometer TiC crystals 
+embedded in low-density supernova graphite spheres). He also discovered 
+the first presolar corundum and SiC grains in IDPs. He served as a 
+sample advisor for the Stardust mission, and the analysis of cometary 
+particles was an important focus of his research.  His analyses during 
+the preliminary examination of dust particles from Comet Wild-2 returned 
+by the Stardust space probe led to the discovery of a presolar grain 
+among the returned cometary samples. 
+
+(Editor note: The full memorial may be found at the link below.)
+
+http://planetarypolicy.org/memoria101010
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PASSING OF AUDOUIN CHARLES DOLLFUS
+
+French astronomer and aeronaut Audouin Dollfus passed away on October 
+1, 2010 in Versailles, France, at the age of 85.
+
+He contributed to the study of the Sun by creating a coronograph that 
+was used by many spacecraft missions.  In 1966 he discovered Janus, 
+the tenth satellite of Saturn, and asteroid 2451 bears his name.
+
+In 1955, Dollfus' analysis of lunar dust using polarimetry allowed him 
+to deduce the basaltic nature of the lunar soil and provided expertise 
+for the design of the astronauts' boots. He contributed to the analysis 
+of the lunar samples returned by the Apollo program and collaborated 
+with NASA on the Ranger and the Venus Mariner programs and with the 
+Soviets for their Mars-5 mission in 1973. He created the International 
+Center for Planetary Photography at Meudon.
+
+Dollfus designed balloon prototypes that allowed him to take a telescope 
+up to 6000 meters in the air. On April 24, 1959, he reached a height of 
+14,000 meters in an airtight capsule suspended from 102 balloons, and 
+originated the study of astronomy from space. The data he collected 
+during that flight allowed him to infer the existence of water on Mars.
+
+(Editor note: The full memorial may be found at the link below.)
+
+http://planetarypolicy.org/memoria101010
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REMINDER: NASA POLL ON PLANETARY RESEARCH AND ANALYSIS PROGRAMS CLOSES 
+OCT 11
+
+The NASA poll on planetary research and data analysis programs by Jim 
+Green, Director of the NASA Planetary Science Division, will close at 
+5 PM Eastern, on Monday, October 11.
+
+http://www.surveymonkey.com/s/nasa_planetary_research
+
+Your input is much appreciated.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] REQUEST FOR INFORMATION (RFI)
+
+In February 2011, the Deep Impact spacecraft will complete its mission 
+(renamed EPOXI) for a study of extrasolar planets during its cruise to 
+encounter Comet Hartley 2.
+
+This Request for Information (RFI) solicits input from the broad space 
+science community that would contribute to NASA's study of possible 
+new uses for the NASA Deep Impact/EPOXI spacecraft beyond its current 
+mission and would support NASA's science objectives in any of SMD's 
+research disciplines (Astrophysics, Earth Science, Heliophysics, and 
+Planetary Science). Responses to this RFI will be used to inform 
+NASA's program planning.
+
+The RFI is posted on the NASA research opportunity homepage at:
+ 
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open 
+Solicitations" then "NNH11ZDA003L").
+
+The response date is November 5, 2010.  For further information on 
+this RFI, please contact:
+
+Mr. William Knopf
+Science Mission Directorate
+NASA Headquarters
+wknopf@hq.nasa.gov
+
+(Editor note: Edited for length.)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA PDS] CASSINI ISS AND VIMS DATA RELEASE 23
+
+The Imaging Node of the Planetary Data System has published the Cassini 
+Imaging Science System (ISS) volumes coiss_2058 and coiss_2059 and 
+Cassini Visual Infrared Mapping Spectrometer (VIMS) volumes covims_0039 
+and covims_0040.  These can be found on the Imaging Node website at 
+URL: 
+
+http://pds-imaging.jpl.nasa.gov/data/cassini/cassini_orbiter/
+
+These volumes contain all the Cassini ISS and VIMS data released as 
+part of the Cassini Data Archive Release 23.  The Imaging Node is now 
+serving all the Cassini imaging data through December 31, 2009.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INTERNATIONAL SPACE STATION:  THE NEXT DECADE CONFERENCE
+
+The American Astronautical Society (AAS) and the Kennedy Space Center 
+are sponsoring  the "International Space Station:  The Next Decade" 
+national conference on November 16-17 at the Radisson Resort, Cape 
+Canaveral, Florida.  The Conference will begin with a panel discussion 
+between the ISS International Partner Program Managers discussing the 
+importance of the ISS in the next decade.  It will continue with panel 
+discussions focusing on ISS utilization and research, including the 
+ISS as a National Lab, preparing for exploration, research and 
+development opportunities and results, and transportation options in 
+the post-Shuttle era.  NASA Administrator Charlie Bolden and Florida's
+Lt. Governor Jeff Kottkamp have been invited as keynote and luncheon 
+speakers.  A visual tour of the ISS will be hosted by an experienced 
+ISS Expedition crewmember and the Conference will close with a 
+conversation with the on-orbit ISS crew.   Earlybird discounted 
+registration is available until October 10th at:
+
+http://astronautical.org/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ANNOUNCEMENT FOR MEMBERSHIP ON THE WFIRST MISSION SCIENCE 
+DEFINITION TEAM
+
+Applications are invited for membership on the Science Definition Team 
+(SDT) for the Wide-Field Infrared Survey Telescope (WFIRST) mission, a 
+strategic mission sponsored by NASA's Astrophysics Division, 
+recommended as the top priority large project by the National Research 
+Council's Decadal Survey of Astronomy and Astrophysics, entitled "New 
+Worlds, New Horizons in Astronomy and Astrophysics" (the Astro2010 
+Decadal Survey, available at:
+ 
+http://www.nap.edu/catalog.php?record_id=12951)
+
+The members of the WFIRST SDT will provide NASA with scientific 
+assistance during preliminary concept definition (Pre-Phase A) 
+activities.  Near-term activities of the SDT members will focus 
+primarily on assessing the scientific approach to investigating the 
+goals of the WFIRST space mission as outlined by the Astro2010 Decadal 
+Survey.
+
+Participation in the WFIRST SDT will be open to all qualified and 
+interested individuals.
+
+Questions or comments may be addressed to the NASA WFIRST Program 
+Scientist:  
+Dr. Rita Sambruna, Science Mission 
+Directorate, NASA
+Rita.M.Sambruna@nasa.gov
+202-358-2166
+
+(Editor note: Edited for length.)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the October 2010 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+ 
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+                      
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+CALL FOR PROPOSALS FROM THE EUROPEAN SPACE AGENCY
+
+The European Space Agency (ESA) is issuing a Call for Proposals for a 
+medium-size mission opportunity for a launch in 2022 as part of ESA's 
+Cosmic Vision 2015-2025:
+
+http://sci.esa.int/2010_M_Call/
+
+NASA is not participating in the solicitation, but ESA program 
+decisions that ultimately flow from the Call may provide cooperative 
+opportunities that could advance progress toward NASA science goals.
+
+Proposals are due December 10, 2010.
+
+Any questions on NASA's policy regarding the ESA Call for Proposals 
+may be addressed to Dr. Paul Hertz, Chief Scientist, Science Mission 
+Directorate, NASA
+
+(202) 358-0986
+paul.hertz@nasa.gov
+
+(Editor note: Edited for length.)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] SOLICITATION FOR NASA SCIENCE TEAM MEMBERS FOR ESA'S EUCLID MISSION
+
+NASA Science Mission Directorate (SMD) intends to release a 
+solicitation for NASA-selected members of the Science Team for ESA's 
+Euclid mission for dark energy research.  This solicitation will be 
+released as an amendment to the Research Opportunities in Space and 
+Earth Sciences 2010 (ROSES-2010) NASA Research Announcement (NRA).
+
+The selected PI will serve on the Euclid Science Team and have full 
+data rights to the Euclid flight. 
+
+The solicitation will describe a Euclid Reference Mission design that 
+demonstrates the existence of a configuration that meets the science 
+goals, as well as Euclid's programmatic constraints, to which 
+proposers must strictly adhere in the proposal of science 
+investigations.  The Euclid Reference Mission will include a 
+visible-light imager and a near-infrared spectrograph / photometer. 
+It is anticipated that, subsequent to selection of the Euclid Science 
+Team, the Euclid design may evolve slightly from the Euclid 
+Reference Mission.
+
+Questions or comments about this Community Announcement on NASA's 
+Euclid solicitation may be addressed to the NASA Euclid Program 
+Scientist:  Dr. Richard Griffiths, Astrophysics Division, Science 
+Mission Directorate, NASA 
+Richard.E.Griffiths@nasa.gov
+202-358-1605
+
+(Editor note: Edited for length.)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS AS ART 2: IMAGES NEEDED!
+
+Mars images are needed!  The deadline for submitting "Mars as Art" 
+images has been extended to October 22nd.  Please submit your favorite 
+images at:
+ 
+http://mars-as-art.cloudapp.net 
+
+so we can highlight the beauty of Mars during the Year of the Solar 
+System.
+ 
+Michael A. Meyer
+Mars Exploration Program
+NASA Headquarters
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+April 11-15, 2011
+Fifth Workshop on Titan Chemistry - Observations, Experiments, 
+Computations, and Modeling
+http://www.chem.hawaii.edu/Bil301/Titan2011.html
+Poipu Koloa, HI
+
+May 30 - June 3, 2011
+The Molecular Universe
+http://cab.inta-csic.es/molecular_universe/
+Toledo, Spain
+
+June 6-10, 2011
+8th Serbian Conference on Spectral Line Shapes in Astrophysics
+http://www.scslsa.matf.bg.ac.rs/
+Divcibare, Serbia
+
+July 14-22, 2012
+39th COSPAR Scientific Assembly
+http://www.cospar-assembly.org/
+Mysore, India 
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

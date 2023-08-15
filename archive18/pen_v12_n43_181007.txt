@@ -1,0 +1,443 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 43 (October 7, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS Mars Exploration Rovers Data Release 57
+2. [NASA] PDS Odyssey Data Release 65
+3. [NASA] PDS Odyssey Data Release 65 for GRS
+4. [NASA] PDS Small Bodies Data Releases
+5. [NASA] PDS Dawn Derived Gravity Science Data Release
+6. Mars Exploration Science Monthly Newsletter for October 2018
+7. Final Program Available for the 4th Mars 2020 Rover Landing Site 
+   Workshop
+8. [NASA] Response Date Extended for Science Engagement Opportunities 
+   for the NASA Mars 2020 Project
+9. [NASA] ROSES-18 Amendment 30: TESS GI Text and Due Date Changes
+10. [NASA] ROSES-18 Amendment 31: C.15 Planetary Protection Research 
+    Program Not Solicited This Year
+11. LSST and the Solar System Workshop
+12. Applications Solicited for Tenure-Track Assistant Professor
+13. DPS Workshop: Primitive or Processed? Carbon in Today's Solar 
+    System vs. the early Solar System and the Interstellar Medium
+14. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Chondrules: Records of Protoplanetary Disk Processes
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS MARS EXPLORATION ROVERS DATA RELEASE 57
+
+The Planetary Data System (PDS) is pleased to announce Release 57 of 
+Mars Exploration Rover data. This release includes data primarily from 
+Sols 4951 through 5040, rover Opportunity (MER1/B), instruments:
+
+  APXS
+  Atmospheric Opacity
+  HAZCAM
+  MI
+  NAVCAM
+  PANCAM
+  RAT
+  Rover Motion Counter
+  SPICE
+
+There is no Radio Science data in this release, and no more Mini-TES 
+or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180928.shtml
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas: 
+
+https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS ODYSSEY DATA RELEASE 65
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 65, for the following instruments:
+
+  THEMIS
+  RADIO SCIENCE (Release 190-192)
+  SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate. That data will be available soon.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181001b.shtml
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS ODYSSEY DATA RELEASE 65 FOR GRS
+
+Odyssey NS and HEND data for Release 65 are now available:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181005.shtml
+
+They are also available directly from the PDS Geosciences Node:
+
+http://pds-geosciences.wustl.edu/missions/odyssey/grs.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS SMALL BODIES DATA RELEASES
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of the following datasets:
+
+TNO and Centaur Diameters, Albedos and Densities PDS4-V1.0: 
+
+https://sbn.psi.edu/pds/resource/tnocenalb.html
+
+Asteroid Lightcurve Data Base (LCDB) V2.0: 
+
+https://sbn.psi.edu/pds/resource/lc.html
+
+Asteroid Occultations V2.0: 
+
+https://sbn.psi.edu/pds/resource/occ.html
+
+Binary Minor Planets Compilation V2.0: 
+
+https://sbn.psi.edu/pds/resource/binmp.html
+
+Saturn Small Moon Shape Models V1.0: 
+
+https://sbn.psi.edu/pds/resource/saturnsatshapes.html
+
+To access other asteroid data sets, please visit the following link:
+
+https://sbn.psi.edu/pds
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS DAWN DERIVED GRAVITY SCIENCE DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of the Dawn Derived Gravity Science Data, Version 3. Version 3 of the 
+gravity field has been updated to be fully consistent with the final 
+SPC shape model of Ceres.
+
+To access this data set, please visit the following link:
+
+https://sbn.psi.edu/pds/resource/dawn/dwncgravL2.html
+
+For access to all Dawn data in the PDS archive, use this link:
+
+https://sbn.psi.edu/pds/resource/dawn/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR OCTOBER 2018
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Kelly Perry of the Mars Program Science Office, the October 2018 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FINAL PROGRAM AVAILABLE FOR THE 4TH MARS 2020 ROVER LANDING SITE
+WORKSHOP
+
+October 16-18, 2018 
+Glendale, CA
+
+The final program for the 4th Mars 2020 Rover Landing Site Workshop is 
+now available on the meeting website: 
+
+https://marsnext.jpl.nasa.gov/workshops/wkshp_2018_10.cfm 
+
+The workshop starts at 8:30am PDT each day, and will end at 
+approximately 6pm on Tuesday and Wednesday and at 2:30pm on Thursday.
+
+The workshop will be broadcast via Adobe Connect for those unable to 
+attend the workshop in person. Connection information is also 
+available on:
+
+http://marsnext.jpl.nasa.gov 
+
+Please note that to minimize noise on the call-in lines, all calls to 
+the workshop will be muted. Questions or comments from remote attendees 
+can be posted to the Adobe Connect chat room, and they will be conveyed 
+to the presenters as time allows.
+
+Registration will close October 5 Although registration is not required 
+for attendance, it helps greatly with planning. Please register at: 
+
+https://docs.google.com/forms/d/e
+/1FAIpQLSeQ09vTvB3rqJXPQlNPNxIZL7XSjK_zCHGMejVkvks8zlbABQ/viewform
+
+[Editor: as of October 7 this page is still active]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] RESPONSE DATE EXTENDED FOR SCIENCE ENGAGEMENT OPPORTUNITUES FOR 
+THE NASA MARS 2020 PROJECT
+
+NASA seeks proposals from commercial, educational, or non-profit 
+organizations to partner with NASA on a non-reimbursable, i.e., 
+no-exchange-of-funds, basis to define, organize, and execute a contest 
+for K-12 students in U.S. schools to select a name for the Mars 2020 
+rover launching in 2020.
+
+NASA will now accept responses until 11:59 pm Eastern time, October 29, 
+2018, an extension of 20 days.
+
+The AFP is available on NSPIRES at: 
+
+https://go.nasa.gov/2M7yLnk 
+
+Interested parties are encouraged to read the AFP carefully, as it 
+differs significantly from a funding announcement-type solicitation.
+
+Send questions by email to: 
+
+George Tahu 
+Science Mission Directorate 
+NASA Headquarters 
+hqmars2020namingproposals@mail.nasa.gov 
+
+AFP questions and responses, with identifying information removed, 
+will be posted as Frequently Asked Questions (FAQ) at: 
+
+https://go.nasa.gov/2M7yLnk
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ROSES-18 AMENDMENT 30: TESS GI TEXT AND DUE DATE CHANGES
+
+The TESS Guest Investigator (GI) Program solicits proposals for the 
+acquisition and analysis of scientific data from the Transiting 
+Exoplanet Survey Satellite (TESS) mission, a NASA Explorer mission that 
+launched in April 2018 and began regular science operations in July 
+2018. Observations associated with the TESS Guest Investigator (GI) 
+Cycle 2 solicitation will be collected during the second year of 
+operations during which the spacecraft will survey the northern 
+ecliptic hemisphere. Proposals submitted to this program should be for 
+new science investigations of the northern ecliptic hemisphere and 
+outside the TESS core science program.
+
+The due date for Phase-1 proposals is delayed to to February 28, 2019, 
+4:30 pm Eastern time. Via: 
+
+https://heasarc.gsfc.nasa.gov/ark/rps
+
+A number of changes are made throughout the text, most significantly in 
+Section 2.2.1.
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+Technical questions concerning this program element may be directed to 
+Thomas Barclay at thomas.barclay@nasa.gov. The NASA point of contact 
+for programmatic information is Martin Still who may be reached at 
+martin.still@nasa.gov.
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-18 AMENDMENT 31: C.15 PLANETARY PROTECTION RESEARCH 
+PROGRAM NOT SOLICITED THIS YEAR
+
+Because of the delayed schedule for review of proposals to PPR-2017 and 
+in order to give the new program manager time to convene the 
+multi-Directorate coordination group to get input on Agency planetary 
+protection needs, NASA has decided to solicit PPRP early in ROSES-2019 
+rather than in ROSES-2018. 
+
+Questions concerning this program element may be directed to Becky 
+McCauley Rench via email at: rebecca.l.mccauleyrench@nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LSST AND THE SOLAR SYSTEM WORKSHOP
+
+4:30-6:00pm 
+Wednesday, October 24, 2018 
+
+50th DPS Meeting 
+Room 301 D-E 
+Knoxville Convention Center
+
+This workshop serves as the annual meeting of the Large Synoptic 
+Survey Telescope (LSST) Solar System Science Collaboration (SSSC) and 
+is open to all DPS attendees. We will provide a brief status of LSST 
+with respect to Solar System science, provide updates on current and 
+future activities within the SSSC.
+
+The presentation schedule is as follows:
+
+LSST Project & Solar System Data Status Update 
+  - Mario Juric (University of Washington/LSST) 
+  - Siegfried Eggl (University of Washington/LSST)
+LSST Solar System Science Collaboration (SSSC) Update 
+  - Meg Schwamb (Gemini Observatory) 
+  - David Trilling (NAU)
+NOAO Data Lab Capabilities in Support of (LSST) Solar System Science 
+  - Frank Valdes (NOAO)
+Gemini Solar System Follow-up in the LSST Era 
+  - Bryan Miller (Gemini Observatory)
+
+Contact organizers Meg Schwamb (mschwamb.astro@gmail.com) and David 
+Trilling (David.Trilling@nau.edu) with any questions.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+APPLICATIONS SOLICITED FOR TENURE-TRACK ASSISTANT PROFESSOR
+
+The Department of Physics/Astronomy and Department of Geology at 
+Western Washington University (WWU) invite applications for a tenure 
+track Assistant Professor of Planetary Science. This position has an 
+expected start date of September 2019, and will be split evenly between 
+the two departments, with Physics as the administrative lead department 
+for purposes of annual review, tenure and promotion. Teaching 
+assignments will be focused in Geophysics, a program shared between the 
+departments.
+
+We seek applicants whose research and teaching examines the role of 
+physical processes in planet formation and evolution, planetary 
+interiors, surfaces, atmospheres and/or magnetospheres, small bodies, 
+solar system dynamics, or related topics. The preferred candidate will 
+be expected to develop and maintain a vigorous research program that 
+complements existing strengths in remote sensing, planetary geology, 
+seismology, magnetism, and tectonics, to engage students in this 
+research, and to teach undergraduate courses at all levels, using 
+student-centered instructional approaches when appropriate.
+
+http://employment.wwu.edu/cw/en-us/job/496058
+/assistant-professor-of-planetary-science
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+DPS WORKSHOP: PRIMITIVE OR PROCESSED? CARBON IN TODAY'S SOLAR SYSTEM
+VS. THE EARLY SOLAR SYSTEM AND THE INTERSTELLAR MEDIUM
+
+As part of the SSERVI-sponsored series of workshops on Carbon in the 
+Solar System, we will be holding a panel discussion at DPS called 
+"Primitive or Processed?" Recent investigations within our Solar 
+System, including the Pluto system, the Saturn system, Mercury, and 
+nearly all points in between, point to carbon in some form on many 
+bodies, though its nature is often elusive. The event will assemble a 
+panel of experts (see below) to discuss carbon in the solar system (in 
+meteorites and on planetary surfaces) and in the interstellar medium, 
+and the relationships between them. How processed are the carbon 
+compounds found across the solar system, compared to the carbon in the 
+ISM? How does the processing occur, and on what timescales? What 
+future measurements can help us to better understand carbon in our 
+solar system?
+
+Expert panelists include Dr. Yvonne Pendleton (NASA Ames), Dr. Diane 
+Wooden (NASA Ames) and Dr. Kelly Miller (SwRI San Antonio). We hope 
+you'll join us for an engaging discussion!
+
+Details:
+Sunday Oct 21, 3-6 PM
+Ballroom F-G
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+CHONDRULES: RECORDS OF PROTOPLANETARY DISC PROCESSES
+
+Chondrules provide an important record of the conditions of the Solar 
+System in pre-planetary times. Edited by Sara S. Russell, Harold C. 
+Connolly Jr and Alexander N. Krot, this book presents an overview of 
+state-of-the-art research into the properties and possible formation 
+mechanisms of chondrules, providing insight into the evolution of the 
+solar protoplanetary disk. With contributions from leading 
+cosmochemists and astrophysicists, this book is an invaluable reference 
+for researchers and graduate students interested in meteorites, 
+planetary accretion and Solar System dynamics. More details, including 
+sample pages, at: 
+
+http://www.cambridge.org/9781108418010
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

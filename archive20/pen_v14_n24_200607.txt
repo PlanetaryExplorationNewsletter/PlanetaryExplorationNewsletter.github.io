@@ -1,0 +1,529 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 24 (June 7, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. EPSC2020 Session EXO3: From Protoplanetary Disks to Small Bodies, 
+   Planets and their Atmospheres
+3. EPSC2020 Session EXO4: Exoplanet Observations, Modelling and 
+   Experiments, Characterization of their Atmospheres
+4. EPSC2020 Session OPS4: Icy Ocean Worlds - Past and Future 
+   Explorations
+5. EPSC2020 Session OPS5: Environments of Outer-Planet Moons 
+   - Particles, Plasma, Fields and Dust 
+6. [NASA] ROSES-20: Delay of Step-2 Proposal Due Dates for Several 
+   Programs in Planetary Science
+7. NASA Network for Ocean Worlds Quarterly Lecture Series
+8. Mars Reconnaissance Orbiter Data Release 53
+9. Mars Exploration Science Monthly Newsletter for June 2020
+10. Postdoc Position in Planetary Seismology
+11. Map of Every Mars Landing Attempt, Ever
+12. Positions Open on the LEAG Executive Committee
+13. Ice Giant White Paper
+14. Postdoctoral Researcher in Planetary Magnetospheric Physics
+15. Planetary Meeting Calendar Additions
+16. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Labyrinth terrain on Titan", contributed by 
+Dr. Michael J. Malaska, Ph.D., Scientist at the Jet Propulsion 
+Laboratory, California Institute of Technology.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC2020 SESSION EXO3: FROM PROTOPLANETARY DISKS TO SMALL BODIES, 
+PLANETS AND THEIR ATMOSPHERES
+
+How and when planets did formed in the Solar System and in extra-solar 
+systems? Are protoplanetary disks massive enough to form the planets' 
+cores? And what chemical composition do planets and primitive Solar 
+System bodies inherit from their natal environment? Is the chemical 
+composition passed unaltered from the earliest stages of the formation 
+of a star to its disk and then to the bodies which assemble in the 
+disk? Or does it reflect chemical processes occurring in the disk 
+and/or during the planet formation process? 
+
+The aim of this session is to review the latest results on 
+protoplanetary disks; to foster a comparison with the recent outcomes 
+of small bodies space missions (e.g. Rosetta, Dawn, Hayabusa 2, 
+OSIRIS-REX) and ground-based observations; and to discuss how these 
+will affect the current models of planet formation and can guide us to 
+investigate the origin of planets and small bodies and of their 
+chemical composition.
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38481
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+Linda Podio, Mauro Ciarniello, Cecile Favre, Carlo Felice Manara, and 
+Francesco Marzari
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC2020 SESSION EXO4: EXOPLANET OBSERVATIONS, MODELLING AND 
+EXPERIMENTS, CHARACTERIZATION OF THEIR ATMOSPHERES
+
+The field of extrasolar planets is one of the most rapidly changing 
+areas of astrophysics and planetary science. Ground-based surveys and 
+dedicated space missions have already discovered more than 4000 
+planets with many more detections expected in the near future. A key 
+challenge is now the characterisation of their atmospheres in order to 
+answer to the questions: what are these worlds actually like and what 
+processes govern their formation and evolution?
+
+To answer these questions, a broad range of skills and expertise are 
+required, stretching from Solar System science to statistical 
+astrophysics, from ground-based observations to spacecraft 
+measurements, and atmospheric/interior/orbital modelling. The numerous 
+studies conducted in the past twenty years have unveiled a large 
+diversity of atmospheres. The next generation of space and ground 
+based facilities (e.g. E-ELT, JWST, and ARIEL) will characterise this 
+multifarious population in stunning detail and challenge our current 
+understanding. Both theoretical works and experimental measurements 
+are required to prepare for such a change of scale.
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+Olivia Venot, Monika Lendl, Giuseppe Morello, Vivien Parmentier, 
+Ingo Waldmann
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC2020 SESSION OPS4: ICY OCEAN WORLDS - PAST AND FUTURE EXPLORATIONS
+
+Conveners: Gabriel Tobie, Carly Howett, Alice Lucchetti, 
+Frank Postberg, Federico Tosi
+
+The exploration of the outer Solar System by Galileo at Jupiter, 
+Cassini-Huygens at Saturn, and New Horizons at Pluto-Charon, has 
+revealed that several icy worlds harbor a subsurface salty ocean 
+underneath their cold icy surface. By flying through the icy-vapor 
+plume erupting from Enceladus' south pole, Cassini proceeded for the 
+first time to the analysis of fresh materials coming from an 
+extraterrestrial ocean, revealing its astrobiological potentials. Even
+if there is no direct evidence yet, similar oceanic habitats might also
+be present within Europa, Ganymede and Titan, which will be
+characterized by future missions currently under development for the
+exploration of icy Galilean moons (JUICE, Europa Clipper) and of
+Saturn's moon Titan (Dragonfly).
+
+Understanding these ocean worlds requires input from a variety of
+scientific disciplines: planetary geology and geophysics, atmospheric
+physics, life sciences, magnetospheric environment, space weathering, 
+as well as supporting laboratory studies, numerical simulations,
+preparatory studies for future missions and technology developments in
+instrumentation and engineering. We welcome abstracts that span this
+full breadth of disciplines.
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC2020 SESSION OPS5: ENVIRONMENTS OF OUTER-PLANET MOONS - PARTICLES,
+PLASMA, FIELDS AND DUST
+
+Dates: September 21, 2020 - October 9, 2020
+
+Abstracts are due June 24, 2020, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38528
+
+This session focuses on outstanding questions on the environments of 
+the moons of outer planets: including the neutral particles (e.g.,
+torii, atmospheres, exospheres, and plumes), electromagnetic fields, 
+dust and plasma, and the interaction of the moons with their 
+environments. Abstracts on all outer planet moons are welcome, 
+including those of Jupiter and Saturn and the not-well explored moons 
+of Neptune and Uranus.
+
+The different topics include (but are not limited to): active 
+processes (e.g., plumes and volcanoes), moon-magnetosphere 
+interaction, induced fields by subsurface oceans, surface weathering 
+of the moons, neutral exosphere and ionosphere, dust environment, 
+preparatory studies for future missions, supporting laboratory 
+studies, simulation studies and observations 
+(ground-based/remote/in-situ). Missions of particular relevance 
+include Galileo, Voyager, Cassini-Huygens, Hisaki, Juno, JUICE and 
+Europa Clipper.
+
+Please help us spread the word about this session by forwarding this 
+message to your colleagues and in particular to any early career 
+researcher in your network that is working on a relevant topic. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-20: DELAY OF STEP-2 PROPOSAL DUE DATES FOR SEVERAL 
+PROGRAMS IN PLANETARY SCIENCE
+
+The Step-2 proposal due dates for a number of programs in planetary 
+science have been delayed as follows:
+
+C.24 Yearly Opportunities for Research in Planetary Defense (YORPD): 
+June 17, 2020. Questions may be directed to Kelly Fast at 
+kelly.e.fast@nasa.gov.
+
+C.6 Solar System Observations (SSO): June 17, 2020. Questions may be 
+directed to Lucas Paganini at lucas.paganini@nasa.gov.
+
+C.20 Development and Advancement of Lunar Instrumentation Program 
+(DALI): July 10, 2020. Questions may be directed to Ryan Stephan at 
+Ryan.A.Stephan@nasa.gov.
+
+C.13 Maturation of Instruments for Solar System Exploration (MatISSE): 
+July 17, 2020. Questions may be directed to Haris Riris at 
+haris.riris-1@nasa.gov.
+
+C.4 Planetary Data Archiving, Restoration, and Tools (PDART): 
+July 24, 2020. Questions may be directed to K.C. Hansen at 
+HQ-PDART@mail.nasa.gov.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA NETWORK FOR OCEAN WORLDS QUARTERLY LECTURE SERIES
+
+The first season of the Network for Ocean Worlds quarterly Lecture 
+Series, "Life on Ocean Worlds," will continue on June 15th at 2 PM EDT 
+(11 am PDT). 
+
+Episode 2: "Life on the seafloors and in the oceans" will consist of 
+two live 20-minute lectures:
+
+1. "Earth: Life on the seafloors and in the oceans" by Dr. Julie Huber, 
+Woods Hole Oceanographic Institution
+
+2. "Ocean Worlds: Life on the seafloors and in the oceans," by 
+Dr. Kevin Hand, NASA Jet Propulsion Laboratory
+
+https://jpl.webex.com/jpl/j.php?MTID=m3f3823e3901f6e1680bec37ca66cd185
+
+The lectures will each be 20 minutes with 10 minutes for questions. 
+Afterwards, the lines will stay open for an additional 30 minutes for 
+an audience discussion of crosscutting themes between the exploration 
+of oceans and ice on the Earth and in the Solar System. The meetings 
+will be available online.
+
+NOW Season 1: Life on Ocean Worlds
+
+Episode 1: Introduction to Cryospheres: The Ocean Worlds and Earth
+Episode 2: Life on the seafloors and in the oceans
+Episode 3: Life in the ice and ice-ocean interface
+Episode 4: Life on the surface and in atmospheres
+
+Questions:
+
+Sam Howell (samuel.m.howell@jpl.nasa.gov) 
+Ella Sciamma-O'Brien (ella.m.sciammaobrien@nasa.gov) 
+Shannon MacKenzie (Shannon.MacKenzie@jhuapl.edu)
+Laurie Barge (laura.m.barge@jpl.nasa.gov)
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 53
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+  CRISM
+  CTX
+  HiRISE
+  MARCI
+  MCS
+  RSS
+  SHARAD
+  SPICE
+
+Delivery of SHARAD EDR and RDR products to PDS has been delayed. The 
+products are expected to be released on or before June 8.
+
+Note: no more derived gravity data will be added to the archive.
+
+In general, MRO Release 53 includes data collected from August 9 to 
+November 8, 2019.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200601.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JUNE 2020
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the June 
+2020 edition of the Mars Exploration Science Monthly Newsletter can be 
+found attached and on the web at: 
+
+http://mepag.jpl.nasa.gov 
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOC POSITION IN PLANETARY SEISMOLOGY
+
+The Geophysical Institute at the University of Alaska Fairbanks has an 
+immediate opening for a postdoctoral researcher in the field of 
+planetary seismology. The new hire will engage in a project to 
+establish likely bounds on the nature and amount of seismic activity 
+on Venus, assemble a catalog of potential Venus-analog events using 
+records from a variety of traditional and non-traditional seismic 
+sources recorded in Alaska and elsewhere, and then use the catalog to 
+evaluate the viability of potential instrument designs and analysis 
+algorithms for an eventual seismograph on Venus. This is a one-year 
+project, but the expectation is that a strong performer could 
+transition into a multi-year position conducting a TBD mix of 
+terrestrial and planetary seismology. Candidate is expected to be 
+well-versed in earthquake seismology; familiarity with planetary 
+science is desirable but not required. More information about the 
+position can be found here:
+
+https://sites.google.com/alaska.edu/robertherrick/resources/postdoc-advertisement?authuser=0 
+
+Directions on how to apply: 
+
+https://careers.alaska.edu/en-us/job/514947/planetary-seismology-postdoctoral-fellow  
+
+Review of applications will begin June 22, but applications will be 
+accepted until the position is filled; our desire is to have a person 
+in place by late summer. 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MAP OF EVERY MARS LANDING ATTEMPT, EVER
+
+New and improved guide to all the places we've landed - or crashed:
+
+https://www.planetary.org/blogs/emily-lakdawalla/map-every-mars-landing-attempt.html 
+
+The map contains latitude/longitude and elevation information for all 
+Mars landing sites including 3 proposed future ones. It's available in 
+PDF format so can be printed and/or customized.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POSITIONS OPEN ON THE LEAG EXECUTIVE COMMITTEE
+
+The Lunar Exploration Analysis Group (LEAG) is seeking applications for 
+up to six open positions starting in August 2020. The LEAG Executive 
+Committee organizes LEAG meetings, writes LEAG findings, and takes a 
+leadership role in other activities where community input on topics of 
+interest is needed. Appointments are for either two or three year 
+terms, such that roll-off is staggered. LEAG seeks to have an Executive 
+Committee that is as diverse as the community, in terms of factors such 
+as career stage, demographics, type of employer, and area of expertise. 
+In particular, we are currently seeking members who can help lead in the 
+following areas:
+
+Lunar Science
+Technology
+Human Exploration 
+Commercial
+Early Career Secretary
+
+If you are interested in serving on the LEAG Executive Committee, 
+please email Brett Denevi (Brett.Denevi@jhuapl.edu) by 19 June 2020. 
+Include a short statement describing why you are interested in joining 
+the committee, and a two-page CV.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ICE GIANT WHITE PAPER
+
+A draft of a White Paper for the NASA Planetary Science and 
+Astrobiology Decadal Survey 2023-2032 titled "Magnetospheric Studies: 
+A requirement for addressing interdisciplinary mysteries in the Ice 
+Giant systems" is now available at: 
+
+https://drive.google.com/file/d/1I1kFQWKLUqnBYZeMwuug2ccDt11gTsu7/view?usp=sharing 
+
+It will be submitted prior to the 4 July 2020 deadline. Until then we 
+welcome additional endorsements. Please reach out to Peter Kollmann 
+(Peter.Kollmann@jhuapl.edu).
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS 
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing the magnetometer results. In addition, the candidate will
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to
+develop a data production pipeline for future magnetometer missions.
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest.
+
+Candidates for this position should have earned a Ph.D. in physics,
+astronomy, planetary science, space physics, geosciences, or related
+fields. Successful candidates should also have expertise with one or
+more programming languages commonly used in space science and a
+demonstrated track record in analyzing spaceflight data, especially
+magnetometer data and experience with the NAIF SPICE software package
+is highly desired.
+
+Applications received by July 15, 2020 will receive the best
+consideration. 
+
+Full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 21-October 9, 2020
+Europlanet Science Congress
+https://www.epsc2020.eu/
+Online
+
+October 18-21, 2020
+International Symposium on Artificial Intelligence, Robotics and 
+Automation in Space (i-SAIRAS 2020)
+https://www.hou.usra.edu/meetings/isairas2020/
+Pasadena, CA
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Embryo Formation with GPU Acceleration: Reevaluating the Initial 
+Conditions for Terrestrial Accretion
+Matthew S. Clement et al. 2020 PSJ 1:18
+http://doi.org/10.3847/PSJ/ab91aa
+
+Catastrophic Disruption of Hollow Ice Spheres
+Kathryn H. Harriss and Mark J. Burchell 2020 PSJ 1:19
+http://doi.org/10.3847/PSJ/ab8f34
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

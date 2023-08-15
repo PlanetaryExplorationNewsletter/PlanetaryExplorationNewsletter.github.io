@@ -1,0 +1,396 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 40 (September 15, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Astrobiology Strategic Plan - Important Milestone
+2. [NASA] Planetary Science Subcommittee Meeting
+3. [NASA] PDS - Dawn GRaND Data Release
+4. [NASA] PDS - MESSENGER Data Release 10
+5. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release
+6. NASA Postdoctoral Fellowships
+7. Department of Geology at the University at Buffalo - Two 
+   Tenure-track Faculty Positions
+8. DPS 2013: Student/Post-doc Reception
+9. DPS 2013: Pro-Am Workshop
+10. Caltech Job Announcement
+11. CPS Postdoctoral Fellowships in Planetary/Exoplanet Science
+12. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ASTROBIOLOGY STRATEGIC PLAN - IMPORTANT MILESTONE
+
+The NASA Astrobiology Strategy process has reached an important 
+milestone. The concept documents, which were created at the face-to-
+face Wallops Island workshop, are now ready for public comment.
+
+The commenting process will be kicked-off with a webinar on the 19th of 
+September at 14:00 EDT. During the event, Frank Rosenzweig, Eric Smith, 
+and Michael New will give an overview of the work done so far, and 
+explain the next steps. More details can be found at: 
+
+http://astrobiologyfuture.org 
+
+The kick-off event will be followed by a series of webinars in which 
+the authors of each paper will discuss their key ideas and answer 
+questions. With a few exceptions for public holidays, these webinars 
+will happen on Wednesdays and Thursdays at 14:00 Eastern time. Details 
+of each event will be available at the above URL and also via email 
+reminders.
+
+Questions may be directed to Andy Burnett
+astrobiology@knowinnovation.com
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANETARY SCIENCE SUBCOMMITTEE MEETING
+
+Tuesday, October 1, 2013, 8:30AM-4:30PM Eastern
+Wednesday, October 2, 2013, 8:30AM-3:30PM Eastern
+
+NASA Headquarters, Room 9H40
+Washington DC
+
+Agenda:
+— Planetary Science Division Update
+— Mars Exploration Program Update
+— Government Performance and Results Act Presentation and Scoring
+— Assessment Group Updates
+
+Webex:
+
+https://nasa.webex.com/
+
+To participate by telecon:
+
+800-857-7040, pass code PSS
+
+The meeting number on October 1 is 997 670 187, password PSS@Oct1; 
+the meeting number on October 2 is 990 912 672, password PSS@Oct2. 
+
+For further information, go to:
+
+https://www.federalregister.gov/articles/2013/09/12/2013-22219
+/nasa-advisory-council-science-committee-planetary-science
+-subcommittee-meeting
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - DAWN GRAND DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+Dawn Gamma Ray and Neutron Detector (GRaND) data. This release 
+includes Level 1a (raw) data for all Vesta phases, as well as higher-
+level maps for neutron absorption, fast neutron, high-energy gamma ray 
+counts, hydrogen abundance, and iron gamma ray counts.
+
+To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/dwnvgrd.html
+
+For access to all PDS-archived Dawn data, go to:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - MESSENGER DATA RELEASE 10
+
+The Planetary Data System is pleased to announce Release 10 of data 
+collected by the MErcury Surface, Space ENvironment, GEochemistry, and 
+Ranging (MESSENGER) mission, including raw and calibrated products 
+acquired through 17 March 2013. With this release, data are now 
+available to the public for the fourth full Mercury solar day of 
+MESSENGER orbital operations.
+
+MESSENGER's instruments are the Mercury Dual Imaging System (MDIS); a 
+Gamma-Ray and Neutron Spectrometer (GRNS); an X-Ray Spectrometer (XRS); 
+a Magnetometer (MAG); a Mercury Laser Altimeter (MLA); the Mercury 
+Atmospheric and Surface Composition Spectrometer (MASCS), combining an 
+Ultraviolet and Visible Spectrometer (UVVS) with a Visible and Infrared 
+Spectrograph (VIRS); and an Energetic Particle and Plasma Spectrometer 
+(EPPS).
+
+All data sets in this MESSENGER release can be accessed from:
+
+http://pds.nasa.gov/subscription_service/SS-20130906.html 
+
+To access all data archived in the PDS:
+
+http://pds.nasa.gov
+
+The ACT-REACT QuickMap, with MDIS orbital data, is available through:
+
+http://messenger.jhuapl.edu
+  
+http://www.nasa.gov/messenger
+
+The MDIS mosaics and MLA northern-hemisphere topographic maps can be 
+downloaded from:
+
+http://messenger.jhuapl.edu/the_mission/mosaics.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - LUNAR RECONNAISSANCE ORBITER DATA RELEASE
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA, and LROC. In general, LRO 
+Release 15 includes data collected between March 15, 2013 and June 14, 
+2013. To access the above data, please visit the following link: 
+
+http://pds.nasa.gov/subscription_service/SS-20130913.html 
+
+PDS offers two services for searching the LRO archives:
+
+- The Planetary Image Atlas at the Imaging Node allows selection of 
+LRO data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+- The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector): 
+
+http://ode.rsl.wustl.edu/moon/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17710  
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+ 
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/14cNpfH
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DEPARTMENT OF GEOLOGY AT THE UNIVERSITY AT BUFFALO - TWO TENURE-TRACK 
+FACULTY POSITIONS
+
+Applications are invited for:
+Assistant or Associate Professor of Near-Surface Geophysics or 
+Hydrogeophysics. We seek a scholar who applies geophysical techniques 
+to solve hydrogeologic problems. Researchers interested in developing 
+novel approaches to characterize hydrogeologic processes and/or 
+properties and/or by combining data from multiple tools are of 
+particular interest.
+
+Assistant Professor of Volcanology. Preference given to candidates 
+with a background and interest in geophysical approaches to 
+understanding and anticipating volcanic eruptions, and associated 
+hazard assessment and mitigation strategies.
+
+Successful candidates will: 1) join the department's environmental and 
+volcanology groups that maintain interdisciplinary collaborations, and 
+may interact with UB's Center for Geohazards Studies; 2) develop and 
+maintain extramurally funded research programs; 3) demonstrate 
+commitment to teaching and will instruct undergraduate and graduate-
+level courses. Service to the discipline, department and/or 
+university is expected. A Ph.D. is required at the time of 
+appointment.
+
+Applications must be submitted through the UB Jobs website; 
+-Near-Surface Geophysics (posting #1300569):
+
+https://www.ubjobs.buffalo.edu/applicants/Central?quickFind=56486 
+
+-Volcanology (posting #1300570): 
+
+https://www.ubjobs.buffalo.edu/applicants/Central?quickFind=56487
+
+Application reviews begin on Oct. 1, 2013 and continue until the 
+position is filled. Send inquiries to geology@buffalo.edu. The 
+University at Buffalo is an Affirmative Action/Equal Opportunity 
+Employer (AA/EOE).
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+DPS 2013: STUDENT/POST-DOC RECEPTION
+
+Sun. 6 Oct. 2013, 4:30-6:00pm. DPS meetings are great places for 
+students to network among other scientists, to learn about how other 
+scientists encounter scientific problems, and get new ideas. However, 
+there are so many great presentations, talks, events, and information 
+in a short time that the students rarely find time to network among 
+other students and get advice close to their own level. This event will 
+help students meet other students, in particular those who work on 
+similar topics, to discuss their scientific views and general issues, 
+and encourages the students to participate in brain storming 
+conversations and joint projects. Since the post-docs were graduate 
+students not so long ago, their advise and experience is valuable to 
+graduate students, and for that reason this event will include post-
+docs as well. With these grounds, the goal of the student and post-doc 
+reception is to prepare an icebreaker environment for students and 
+post-docs to get familiar with each other on the first day of the 
+meeting and use the rest of the meeting to enhance those connections 
+and get involved with other activities.
+
+Contact: 
+Al Khayat
+khayat@ifa.hawaii.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DPS 2013: PRO-AM WORKSHOP
+
+Thurs. Oct. 10th at 6:00pm. DPS is experimenting with a professional-
+amateur workshop where professionals present what opportunities are 
+out there for collaborations with NASA missions and amateurs show 
+samples of their observations. Examples: observing Pluto during the 
+New Horizons flyby, observing Jupiter's clouds while Juno flies over 
+the poles, taking images of comet ISON to find time-variability, 
+light-curves of asteroids, follow-up on NEOs, searches for Moon 
+impacts (perhaps related to LADEE), Mars observations during MAVEN, 
+etc.). Participants wishing to present (5 mins, 5 slides), send title 
+& description (<200 words) to frbagenal@gmail.com. 
+
+Organizer: Fran Bagenal, University of Colorado.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+CALTECH JOB ANNOUNCEMENT
+
+Assistant professor , tenure track, at Caltech in any area of interest 
+to the Division of Geological and Planetary Sciences. This includes 
+all aspects of planetary science. Open until filled. Exceptionally 
+well-qualified candidates may also be considered at the tenured 
+professor level. For details go to: 
+
+https://applications.caltech.edu/job/gps
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+CPS Postdoctoral Fellowships in Planetary/Exoplanet Science
+
+The Centre for Planetary Sciences (CPS) at the University of Toronto 
+is a centre for the study of all planets, near and far. The CPS 
+expects to offer several postdoctoral fellowships of up to three years.
+The starting date will be September 1, 2014. Salaries and funds for 
+travel/research expenses will be competitive. A Ph.D. in any field of 
+earth and planetary sciences or astrophysics is required. Fellows are 
+expected to carry out original research in observational or 
+theoretical planetary/exoplanet science under the general supervision 
+of the permanent CPS-affiliated faculty, from several relevant 
+departments at UofT. We only accept electronic submissions (via email 
+at kristen.menou@utoronto.ca). Applicants will be asked to submit a 
+curriculum vitae, statement of research interests (3 pages) and 
+arrange for three letters of recommendation. The deadline for 
+applications and all letters of recommendation is December 1, 2013.
+The University of Toronto is strongly committed to diversity within 
+its community and especially welcomes applications from visible 
+minority group members, women, Aboriginal persons, persons with 
+disabilities, members of sexual minority groups, and others who may 
+contribute to the further diversification of ideas.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 19, 2013
+NASA Astrobiology Strategic Plan Webinar
+http://astrobiologyfuture.org
+Online
+
+October 1-2, 2013
+NASA Planetary Science Subcommittee
+https://www.federalregister.gov/articles/2013/09/12/2013-22219
+/nasa-advisory-council-science-committee-planetary-science
+-subcommittee-meeting
+Washington, DC 
+
+January 19-22, 2014
+Science with the Atacama Pathfinder Experiment (APEX)
+https://indico.mpifr-bonn.mpg.de/indico/conferenceDisplay.py?confId=69
+Rottach-Egern, Germany
+
+February 5-7, 2014
+Workshop on the Habitability of Icy Worlds
+http://www.hou.usra.edu/meetings/icyworlds2014
+Pasadena, CA
+
+March 17-20, 2014
+Science with the Hubble Space Telescope IV: Looking to the Future
+http://www.stsci.edu/institute/conference/hst4
+Rome, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

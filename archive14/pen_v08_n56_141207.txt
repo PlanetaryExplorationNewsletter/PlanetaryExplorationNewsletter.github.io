@@ -1,0 +1,571 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 56 (December 7, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EGU 2015 Call for Abstracts: Session PS5.1
+2. Postdoctoral Fellowship in Lunar & Asteroid Exploration Science - 
+   Petrology and Geochemistry
+3. Planetary Geomorphology Image of the Month
+4. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 31
+5. iCubeSat 2015 Call for Papers and Registration
+6. ISSI Call for Proposals 2015 for Johannes Geiss Fellowship
+7. Mars Exploration Science Monthly Newsletter: December 2014
+8. Planetary GIS Workshop
+9. Job Opening: Research Associate in Space Physics, Imperial College 
+   London, UK
+10. Jovian Magnetic Field and Magnetosphere Postdoctoral Researcher
+11. [NASA] New Lunar Volunteer Reviewer Form Posted
+12. NASA Postdoctoral Fellowships
+13. Community Input on Spitzer Observations Prior to JWST
+14. [NASA] SBAG 12 Meeting - Upcoming Hotel Deadline
+15. [NASA] PDS - Mars Science Laboratory Release 7
+16. Job Opportunity: STScI Research and Instrument Analysts
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EGU 2015 CALL FOR ABSTRACTS: SESSION PS5.1
+
+We invite you to submit an abstract to EGU session PS5.1/ST4.4: 
+"Planetary Plasma Physics and Interactions in the Solar System"
+
+Deadline: 7 January 2015
+
+The emphasis of the session is on all aspects of planetary plasma 
+physics and interactions in the Solar System, including:
+
+(a) Magnetospheres, ionospheres, auroras
+(b) The solar wind interaction with planets, moons, asteroids and 
+    comets
+(c) Plasma interactions with exospheres, dust and surfaces (e.g. at 
+    Mercury, Europa, Ganymede, our Moon, etc.)
+(d) Intercomparisons of planetary environments
+
+Contributions are welcome which address previous (e.g. CHANDRAYAAN-1, 
+KAGUYA), present (e.g. CASSINI, MARS EXPRESS, MAVEN, VENUS EXPRESS, 
+ROSETTA, MESSENGER, CHANG'E 2), forthcoming (e.g. BEPI COLOMBO) and 
+planned (e.g. JUICE) observations from space. Analyses of ground-based 
+observations of neutral and ionized environments are welcome. 
+Theoretical modelling and simulations are also strongly encouraged, 
+both in themselves and as a basis for intercomparisons and 
+interpretation of measurements. Laboratory studies on planetary 
+analogues aiming to simulate the surface-plasma interaction are 
+considered as well. 
+
+Participants will be later invited to submit an article in a 
+forthcoming dedicated special issue in Planetary and Space Science.
+
+See more details at:
+
+http://meetingorganizer.copernicus.org/EGU2015/session/17359
+
+Conveners: P. Garnier, A. Milillo, A. Radioti
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL FELLOWSHIP IN LUNAR & ASTEROID EXPLORATION SCIENCE - 
+PETROLOGY AND GEOCHEMISTRY
+ 
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), invites applications for a postdoctoral fellowship 
+in lunar and asteroid exploration science for a full-time exempt 
+position in the Houston, Texas area. The successful candidate will 
+join Dr. David A. Kring and over two dozen other scientists in the 
+Center for Lunar Science and Exploration, which is one of nine 
+national centers of excellence supported by NASA's Solar System 
+Exploration Research Virtual Institute. The main goals of the Center's 
+activities are to address NASA's highest lunar and asteroid exploration 
+science objectives, including activities in preparation of robotic and 
+crewed landings. 
+
+Applications from those with recent Ph.D.s in the fields of petrology 
+and geochemistry are encouraged to apply. Previous experience with 
+lunar samples, chondritic meteorites, and/or impact lithologies will be 
+advantageous, but is not required.   
+
+Interested applicants should apply to the posting at: 
+
+https://usracareers.silkroad.com/ 
+
+and must submit a curriculum vita with list of publications, a two to 
+three page statement of research interests, and a list of three 
+references. 
+
+Additional details are available at: 
+
+http://www.lpi.usra.edu/exploration/
+
+USRA is an Equal Opportunity Employer Minorities/Females/Protected 
+Veterans/Disabled.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+December's post is now available at:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's post was contributed by Dr John Grindrod, and is on 
+"Diverted Landslides in Valles Marineris."
+
+Mary Bourke
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 31
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 31 includes data collected from February 9, 
+2014, through May 8, 2014. The release includes HiRISE data for 
+August 4 to November 5, 2014.
+
+To access the above data:
+
+http://pds.nasa.gov/subscription_service/SS-20141201.html
+
+To access the latest PDS Data Releases:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+818-393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ICUBESAT 2015 CALL FOR PAPERS AND REGISTRATION
+
+iCubeSat 2015, the 4th Interplanetary CubeSat Workshop, will address
+the technical challenges, opportunities, and practicalities of
+interplanetary space exploration with CubeSats. The workshop provides
+a unique environment for open wide ranging practical collaboration
+between academic researchers, industry professionals, policy makers
+and students developing this new and rapidly growing field. The
+workshop will be held at Imperial College London, United Kingdom on
+May 26-27th, 2015.
+
+Talks and round tables will focus on three themes: technology,
+science, and open collaboration. Talks on astrodynamics, attitude
+control and determination systems, citizen science, communications,
+landers, launch opportunities, open source approaches, outreach,
+payloads, policy, power systems, propulsion, reentry systems,
+ride-shares, science missions, software, standardization, structures,
+systems engineering and other related topics are all welcome. A lively
+social program in and around summertime London will be arranged for
+participants and their guests.
+
+December 2014 - Registration open
+
+1st April 2015 - Abstract upload deadline
+
+15th April 2015 - Notification of abstract acceptance
+
+22nd May 2015 - Presentation (and optional paper) upload deadline
+
+Please confirm your interest in attending as soon as possible (to
+assist us size the venue) by completing the registration form here:
+
+http://www.iCubeSat.org/registration
+
+Download the conference poster:
+
+https://icubesat.files.wordpress.com/2014/05
+/20140530_icubesat2015poster.pdf
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ISSI CALL FOR PROPOSALS FOR JOHANNES GEISS FELLOWSHIP
+
+ISSI has approved the introduction of the Johannes Geiss Fellowships 
+(JGF). The JGF is established to attract to ISSI - for limited duration 
+visits - international scientists of stature, who can make demonstrable 
+contributions to the ISSI mission and increase ISSI's stature by their 
+presence and by doing so will honour Johannes Geiss for his founding of 
+ISSI and his contributions to ISSI, and for his many contributions to a 
+broad range of space science disciplines. Please find the complete 
+Call for Proposals 2015 for Johannes Geiss Fellowship at:
+
+http://www.issibern.ch/spotlight
+/CallforProposalsJohannesGeissFellowship.pdf
+
+International Space Science Institute
+Hallerstrasse 6
+CH-3012 Bern
+Switzerland
+Tel. +41-31-631 48 96
+Fax +41-31-631 48 97
+http://www.issibern.ch
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: DECEMBER 2014
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, December 2014 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GIS WORKSHOP
+
+MAY 5-7, 2015, ESAC (MADRID)
+
+ESA and its Planetary Science Archive (PSA) User Group are pleased to 
+announce a Planetary GIS Workshop that will be held on May 5-7, 2015 at 
+ESAC (Madrid, Spain). The following broad areas will be presented and 
+discussed:
+
+- Scientific needs and uses (existing, new, cross-disciplinary)
+- Existing technical solutions
+- Open problems and areas suitable to improvement
+
+The workshop aims at targeting geospatial data users and producers in 
+broad sense. An informal combination of presentation, hands-on and 
+discussion sessions is envisaged.  
+
+For more details, visit the workshop's web page:
+
+http://www.rssd.esa.int/index.php?project=PSA&page=gisws
+
+To better prepare the content and structure of the workshop, please 
+indicate your interest in attending using the website above. A second 
+announcement and call for abstracts will be made in mid-January.
+
+Organizing committee: 
+
+Angelo Pio Rossi (convener) 
+Nicolas Manaud (convener) 
+Stephan van Gasselt 
+Trent Hare 
+Baptiste Cecconi 
+Dave Heather 
+Santa Martinez 
+Jonathan McAuliffe
+Juan Gonzalez 
+Alba Alcol (secretary) 
+and the PSA User Group
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JOB OPENING: RESEARCH ASSOCIATE IN SPACE PHYSICS, IMPERIAL COLLEGE
+LONDON, UK
+
+http://www3.imperial.ac.uk/spat/jobs
+
+- Title: Research Associate
+- Topic: Modelling of cometary plasma in the context of Rosetta
+- Location: Space and Atmospheric Physics group, Department of Physics, 
+  Imperial College London, London, UK
+- Duration: until March 31, 2016
+- Closing date for application: 5 January 2015
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POSTDOCTORAL RESEARCHER
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science and 
+Technology (CRESST), to work in the Planetary Magnetospheres Laboratory 
+of the NASA Goddard Space Flight Center (GSFC) in the area of Jupiter's 
+magnetic field and magnetosphere, using data from the Juno (New 
+Frontier) mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/index.html#Juno
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an Affirmative Action, Equal Opportunity 
+Employer. Women and minorities are encouraged to apply. Applications 
+will be accepted on an ongoing basis until the position is filled.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] NEW LUNAR VOLUNTEER REVIEWER FORM POSTED
+
+The Planetary Science Division is seeking subject matter experts to 
+serve as mail-in and/or panel meeting reviewers of ROSES 2014 
+proposals. We have posted a new volunteer reviewer form for: ROSES 2014 
+C.8 Lunar Data Analysis. Either follow the link embedded above, or 
+start at: 
+
+http://science.nasa.gov/researchers/volunteer-review-panels/ 
+
+choose  ROSES 2014 C.8 Lunar Data Analysis and indicate the Missions 
+and or areas of expertise by clicking the boxes. If your skills 
+match our needs for this review we will contact you to discuss 
+scheduling. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18715
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1tI5M9x
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+COMMUNITY INPUT ON SPITZER OBSERVATIONS PRIOR TO JWST
+
+A Committee comprising science community representatives has convened 
+under the auspices of the Cosmic Origins Program Analysis Group (COPAG) 
+to draft a report on Science Enabled by Spitzer Space Telescope 
+Observations Prior to JWST. This Science Analysis Group (SAG) 9 
+activity is described  here: 
+
+http://cor.gsfc.nasa.gov/sags/sag9.php
+
+A draft version of the report will be available soon for comment by any 
+interested member of the science community, via email to 
+copag.sag9@gmail.com. The Committee is committed to conveying the  
+community's interests through the Astrophysics Subcommittee, to which 
+the report will be submitted in March 2015
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] SBAG 12 MEETING - UPCOMING HOTEL DEADLINE
+
+The 12th NASA SBAG (Small Bodies Assessment Group) meeting will be held 
+January 6-7, 2015, in Tempe, AZ: 
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+The hotel deadline is Friday, Dec. 12. Also, registration is free but 
+still important for planning purposes, so please register. A final 
+meeting agenda is also now posted on the website.
+
+The SBAG 12 dates and location were selected in coordination with the 
+Conference on Spacecraft Reconnaissance of Asteroid and Comet 
+Interiors, AstroRecon, which will be held January 8-10, 2015, in 
+Tempe, AZ:
+
+http://www.hou.usra.edu/meetings/astrorecon2015/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] PDS - MARS SCIENCE LABORATORY RELEASE 7
+
+The NASA Planetary Data System announces the seventh release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sol 584 through Sol 707 (March 28, 2014, through August 3, 2014).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+APXS
+ChemCam
+CheMin
+DAN
+Hazcam
+MAHLI
+MARDI
+Mastcam
+Navcam
+RAD
+REMS
+SAM
+SPICE
+
+To access the above data for this release:
+
+http://pds.nasa.gov/subscription_service/SS-20141205.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from the main PDS home page:
+
+http://pds.nasa.gov/ 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and 
+Ancillary Information
+Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+JOB OPPORTUNITY: STSCI RESEARCH AND INSTRUMENT ANALYSTS
+
+The Space Telescope Science Institute has openings for Research and
+Instrument Analysts (RIA) in our Instruments Division. RIAs will
+assist Instrument Scientists in the reduction and analysis of Hubble
+Space Telescope calibration data. Analysts will also assist in the
+development and testing of the scientific instruments and optical
+systems for the James Webb Space Telescope. They will provide user
+support to HST General Observers and Archival Researchers in various
+aspects of observation planning and data reduction. Additionally,
+analysts may become involved in cutting-edge astronomical research by
+providing support for scientific programs of staff scientists. Such
+support can involve calibrating data, photometry, spectroscopy, image
+drizzling, coding, and laboratory work in astronomical instrumentation.
+
+Successful applicants typically have a Bachelor's, Master's or a
+recent PhD degree in Astronomy, Physics, Astrophysics, Planetary
+Science, or related fields. The starting position (RIA I, II, Senior)
+and salary are commensurate with education and experience. Experience
+with astronomical research, instrumentation or optics, scientific
+computing, data analysis, and IRAF or other astronomical software
+packages, is also desired. Additional mathematical, statistical, and
+programming skills (e.g. IDL, python) are a plus.
+
+Applications due: January 31, 2015
+
+For details see:
+
+http://www.stsci.edu/institute/employment
+
+https://rn11.ultipro.com/SPA1004
+/JobBoard/JobDetails.aspx?__ID=*088F3D93BAC898AD
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 5-7, 2015
+Planetary GIS Workshop
+http://www.rssd.esa.int/index.php?project=PSA&page=gisws
+Madrid, Spain
+
+September 14-18, 2015
+Annual Meeting of the Astronomische Gesellschaft: From the First Quasars 
+to Life-Bearing Planets, From Accretion Physics to Astrobiology
+http://ag15.astrophysik.uni-kiel.de
+Kiel, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

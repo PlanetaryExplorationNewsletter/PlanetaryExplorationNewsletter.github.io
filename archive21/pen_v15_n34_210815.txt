@@ -1,0 +1,381 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 34 (August 15, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. [NASA] Input to NASA's RFI in Support of Advancing Equity and 
+   Support for Underserved Communities
+3. [PDS] OSIRIS-REx OCAMS Bennu Release 9
+4. [PDS] Mars Atmosphere and Volatile Evolution Data Release 26
+5. Free Seminar on Addressing Controversial Topics
+6. Opportunities for AGU Fall Meeting Conference Registration 
+   Reimbursement
+7. Mercury Science and Exploration August 2021 Newsletter Released
+8. Tenure Track Faculty Position in Earth, Environmental and Planetary 
+   Sciences at Rice University
+9. NASA Postdoctoral Fellowship - Application Deadline November 1, 2021
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Steering Group Meeting #18
+Tue-Thu Aug 17-19 (includes both open and closed sessions)
+Open session: Wed Aug 18 11:00 AM-12:05 PM ET
+
+https://tinyurl.com/ywf9a8bj
+
+Please see link above for agenda, connection information, and detailed
+information on timing of open sessions.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] INPUT TO NASA'S RFI IN SUPPORT OF ADVANCING EQUITY AND SUPPORT 
+FOR UNDERSERVED COMMUNITIES
+
+As you may be aware, NASA issued a Request for Information on June 15,
+2021 and held a public meeting on July 13, 2021 to obtain input and
+suggestions from the public on how we might consider changing (e.g.
+expanding, streamlining, updating, etc.) our programs, procurements,
+grants, regulations and policies to remove systemic inequitable
+barriers and challenges facing underserved communities. 
+
+https://tinyurl.com/ysevwaas
+
+The public comment period closes on August 31, 2021. We solicit input 
+and suggestions on actionable steps we can take, specifically on the
+following questions: 
+
+1) What challenges, issues, or obstacles have been encountered with the
+scientific competition and award implementation processes, especially
+the challenges, issues, or obstacles that impact underserved
+communities?
+
+2) What opportunities are there for NASA to leverage its data,
+expertise, and missions to better serve and help underserved
+communities?
+
+You are encouraged to submit your formal RFI reply via the link
+provided above. You can also send your response to the questions via
+email to Karen Flynn, SMD's Deputy Associate Administrator for
+Management (karen.e.flynn@nasa.gov) by August 31, 2021. We look forward
+to hearing from you.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[PDS] OSIRIS-REX OCAMS BENNU RELEASE 9
+
+The OCAMS data from Bennu Release 9, including data through November 
+17, 2020 (TAG), is now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210811.shtml
+
+or more directly at:
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.ocams
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[PDS] MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 26
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 26, nominally with data to May 2021:
+- ANC (Ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from: ACCEL (Accelerometer).
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210813.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FREE SEMINAR ON ADDRESSING CONTROVERSIAL TOPICS
+
+Planetary Scientists are invited to join this discussion on ways to
+address controversial topics during public engagement programs.
+
+Sharing Planetary Science: Addressing Controversial Topics
+Tuesday, August 17 3:00 PM CDT
+
+All planetary scientists and engineers, including early career
+scientists and graduate students, are invited to join us for this free 
+seminar, to discuss ways to address controversial topics during public 
+engagement programs.
+
+For more details, or information on past Sharing Planetary Science
+sessions, go to the Lunar and Planetary Institute's Scientist
+Engagement website:
+
+https://www.lpi.usra.edu/education/scientist-engagement/
+
+Zoom link:
+
+https://us06web.zoom.us/j/84043356507?pwd=blBlZFFtYXZScGtzNVE4Q3p4MFo2QT09#success
+
+Passcode: 117200
+Or join by Telephone: +1 346 248 7799
+Webinar ID: 840 4335 6507
+Or watch streamed on LPI's YouTube channel:
+
+https://www.youtube.com/c/LPIUSRA
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+OPPORTUNITIES FOR AGU FALL MEETING CONFERENCE REGISTRATION 
+REIMBURSEMENT
+
+To make the 2021 AGU Fall Meeting as widely accessible as possible, and
+to gauge community need, the Planetary Sciences Section of AGU wants to
+offer partial or full reimbursement of registration costs to those for
+whom registration expenses present a barrier to attendance. At this
+time, we cannot gauge the level of reimbursement we will be able to
+provide, or guarantee that all need will be met, and we are,
+unfortunately, unable to waive registration fees in advance.
+Applications can be completed by August 31 through this Google form:
+
+https://forms.gle/KGj5XD8GsLp4RMyo9
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MERCURY SCIENCE AND EXPLORATION AUGUST 2021 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue 4
+of "The Mercury Newsletter." The quarterly community newsletter can be
+accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+In this newsletter, we share Mercury science and exploration news,
+highlight recent publications, and note upcoming meetings.
+
+Please send your Mercury community announcements and calendar items for
+inclusion in the newsletter to the MExAG Steering Committee at
+mexag.sc@gmail.com.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TENURE TRACK FACULTY POSITION IN EARTH, ENVIRONMENTAL AND PLANETARY 
+SCIENCES AT RICE UNIVERSITY
+
+The Department of Earth, Environmental, and Planetary Sciences at Rice
+University seeks candidates across the broad spectrum of planetary and
+environmental sciences, areas where the department anticipates growth,
+and who complement our department. Some of the research areas of
+interest include, but are not limited to: surface processes, climate
+and all related sciences; astrobiology, planetary habitability of the
+solar system and beyond using observational approaches such as
+cosmochemistry and remote sensing and modeling.
+
+We particularly welcome applications from individuals with a
+demonstrated commitment to diversity, equity, and inclusion.
+
+Successful candidates are expected to establish a vigorous, externally
+funded research program, teach core courses and develop undergraduate
+and graduate courses within their area of expertise, and be involved in
+service to the department, university, and the broader scientific
+community.
+
+All candidates must have earned a Ph.D. degree in Earth, Environmental,
+or Planetary Sciences or a related field by the time of the
+appointment. 
+
+For further information and application instructions, please visit:
+
+https://apply.interfolio.com/91599
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIP - APPLICATION DEADLINE NOVEMBER 1, 2021
+
+The NASA Postdoctoral Program (NPP) offers US and international scientists
+the opportunity to advance their research while contributing to NASA's
+scientific goals. The NPP supports fundamental science; explores the
+undiscovered; promotes intellectual growth; and encourages scientific
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed
+here: NPP Planetary Science Research Opportunities
+
+Applicants must have a Ph.D. or equivalent degree in hand before
+beginning the fellowship, but may apply while completing the degree
+requirements. Please see current eligibility requirements.
+
+Stipends start at $60,000 per year, with supplements for high
+cost-of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+September 12-15, 2022
+Brines Across the Solar System: Ancient Brines
+https://www.hou.usra.edu/meetings/ancientbrines2022/
+Reno, NV
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+
+https://psj.aas.org
+
+No Activity among 13 Centaurs Discovered in the Pan-STARRS1 Detection
+Database
+Eva Lilly et al. 2021 PSJ 2:155
+https://doi.org/10.3847/PSJ/ac139e
+
+A Case for a Small to Negligible Influence of Dust Charging on the
+Ionization Balance in the Coma of Comet 67P
+E. Vigren et al. 2021 PSJ 2:156
+https://doi.org/10.3847/PSJ/ac134f
+
+A Recipe for the Geophysical Exploration of Enceladus
+Anton I. Ermakov et al. 2021 PSJ 2:157
+https://doi.org/10.3847/PSJ/ac06d2
+
+Evidence for a Recent Collision in Saturn's Irregular Moon Population
+Edward Ashton et al. 2021 PSJ 2:158
+https://doi.org/10.3847/PSJ/ac0979
+
+Characterizing the Discovery of a New Trans-Neptunian Object Binary in
+a Trailed Point-spread Function Search
+Rosemary E. Pike et al. 2021 PSJ 2:159
+https://doi.org/10.3847/PSJ/ac0e29
+
+Titan's "Average" Ionospheric Structures from Cassini
+Jen-Kai Hsu and Wing-Huen Ip 2021 PSJ 2:160
+https://doi.org/10.3847/PSJ/ac11ff
+
+Thermophysical Investigation of Asteroid Surfaces. I. Characterization
+of Thermal Inertia
+Eric M. MacLennan and Joshua P. Emery 2021 PSJ 2:161
+https://doi.org/10.3847/PSJ/ac1591
+
+Asteroid Diameters and Albedos from NEOWISE Reactivation Mission Years
+Six and Seven
+Joseph R. Masiero et al. 2021 PSJ 2:162
+https://doi.org/10.3847/PSJ/ac15fb
+
+On the Feasibility of Informative Biosignature Measurements Using an
+Enceladus Plume Organic Analyzer
+Richard A. Mathies et al. 2021 PSJ 2:163
+https://doi.org/10.3847/PSJ/ac0e9b
+
+On Charon's Far-ultraviolet Surface Reflectance
+Brian A. Keeney et al. 2021 PSJ 2:164
+https://doi.org/10.3847/PSJ/ac16da
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

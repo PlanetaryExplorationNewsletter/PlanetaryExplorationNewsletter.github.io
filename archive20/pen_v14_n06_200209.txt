@@ -1,0 +1,429 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 6 (February 9, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Multi-Scale (Time and Mass) Dynamics of Space Objects
+2. Community Feedback on Draft MEPAG Goals Document Welcomed Via 
+   Telecon
+3. Ph.D. Position on Modeling and Observation of Rock-Rich Planetary 
+   Surfaces
+4. Second Pre-proposal Teleconference: NASA Fellowship Activity 2020
+5. [NASA] Announcement for Planetary Science Advisory Committee 
+   Nominations
+6. Titan Through Time V Workshop Registration is Now Open
+7. MEPAG 8VM - 2nd Information Circular
+8. [NASA] Release of NASA Space Technology Mission Directorate - Early
+   Career Faculty
+9. Third Announcement - Towards Other Earth III: From Solar System to
+   Exoplanets
+10. Mars Exploration Science Monthly Newsletter for February, 2020
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MULTI-SCALE (TIME AND MASS) DYNAMICS OF SPACE OBJECTS
+
+6-10 July 2020
+Iasi, Romania
+
+We are pleased to inform you that with the support of IAU, Division A
+Fundamental Astronomy and the Commission A4 Celestial Mechanics and
+Dynamical Astronomy, we are organizing the Symposium "Multi-scale (time
+and mass) dynamics of space objects". The Symposium will take place at
+the University Al. I. Cuza of Iasi (Romania) during the period 6-10
+July 2020.
+
+https://www.math.uaic.ro/IAU_S364/
+
+Alessandra Celletti and Catalin Gales 
+iau2020iasi@gmail.com
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COMMUNITY FEEDBACK ON DRAFT MEPAG GOALS DOCUMENT WELCOMED VIA TELECON
+
+The MEPAG Goals Committee is committed to enabling community feedback
+on the draft 2020 MEPAG Goals Document:
+
+https://mepag.jpl.nasa.gov/reports.cfm?expand=science
+
+Both positive and negative feedback can now be submitted via two 
+venues.
+
+Written feedback (through February 14):
+
+https://docs.google.com/forms/d/e/1FAIpQLSfNrO3P-
+1jli7pXSOx3KCJbJwP1tgjJcPzY88R4v5rbgT28xw/viewform
+
+Verbal feedback:
+
+Telecon on Monday, February 10, from 8:30 AM-10AM Pacific
+(11:30AM-1:00PM Eastern). This telecon is not intended to be a session
+for the MEPAG Goals Committee to explain their choices in the draft to
+date (as it may change!), but instead to allow the community further
+opportunity to voice their ideas and thoughts. WebEx connection
+information is below and will be added to the MEPAG website. And please
+note that this telecon will be recorded, but only for the use of the
+MEPAG Goals Committee in capturing your input for consideration for
+revising the draft Goals Document.
+
+We look forward to hearing from you,
+Don Banfield (MEPAG Goals Chair) and the MEPAG Goals Committee
+
+Start meeting: 
+
+Meeting number (access code): 903 706 819
+Meeting password: MEP@G_f33dback
+
+https://jpl.webex.com/jpl/j.php?MTID=m4890f6579ef4e46dc9ae75514d62adf0
+
+Join by phone:
+
+https://jpl.webex.com/jpl/globalcallin.php?MTID=
+mc848930d499e3527aee31d0dc2222f41
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PH.D. POSITION ON MODELING AND OBSERVATION OF ROCK-RICH PLANETARY 
+SURFACES
+
+The Institute of Planetology at the University of Muenster, Germany, is
+seeking a researcher to carry out a 3 year Ph.D. in planetary science,
+starting April 15, 2020 at the earliest, and funded at 75% (E13 TV-L)
+level.
+
+The Ph.D. candidate will be part of a junior research group dedicated
+to the understanding of regolith evolution and to the analysis of
+images returned by spacecraft from the Moon, asteroids, and Mars.
+Understanding the nature, origin and evolution of regolith is paramount
+for a wide range of research fields and will serve engineering purposes
+for rovers and landers mission. The activities of the Ph.D. student
+will be (1) the development of a numerical model to describe the
+process of small impact (<1m) bombardment and the evolution of
+boulder-rich surfaces and (2) use of the model developed to analyze
+remote sensing images of planetary surfaces. The requirements are (1)
+proven and in-depth expertise in programming (e.g. Matlab), (2)
+experience with remote sensing data or software, (3) master's degree in
+geophysics, geo-informatics, or equivalent.
+
+Interested candidates are welcome to contact Dr. Ottaviano Ruesch at
+the address below for further information on the application. 
+
+Dr. Ottaviano Ruesch
+Sofja Kovalevskaja research group
+Institute for Planetology
+Westfaelische Wilhelms Universitaet Muenster, Germany
+ottaviano.ruesch[at]uni-muenster.de
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA FELLOWSHIP ACTIVITY 2020
+ 
+NASA Office of STEM Engagement (OSE) opened a call for graduate
+research proposals on December 23, 2019. The NASA Research Announcement
+(NRA) NNH20ZHA001N: NASA Fellowship Activity 2020 is seeking
+student-authored and independently conceived graduate research
+proposals responding to a NASA Research Opportunity listed in the
+solicitation. The 2020 NASA Fellowship Activity is designed to support
+OSE objectives and provide academic institutions the ability to enhance
+graduate-level learning and development. The program details and
+requirements are outlined in the solicitation document.
+
+To be eligible to submit a proposal, candidates must be U.S. citizens
+or a national who hold a bachelor's degree in a STEM field earned
+before Aug. 31, 2020. Candidates must be enrolled in a Master's or
+Doctoral degree program no later than Sept. 1, 2020, and intend to
+pursue a research-based Master's or Ph.D. program in a NASA-relevant
+field.
+
+Proposals are due February 21, 2020.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ANNOUNCEMENT FOR PLANETARY SCIENCE ADVISORY COMMITTEE 
+NOMINATIONS
+
+The Planetary Science Advisory Committee (PAC) supports the advisory
+needs of the Planetary Science Division (PSD), the Science Mission
+Directorate (SMD) and other mission directorates as required, and the
+NASA Administrator. The advisory scope of the PAC includes all aspects
+of NASA's planetary science program, including scientific research;
+considerations of the development of near-term enabling technologies,
+systems, and computing and information management capabilities; and
+developments with the potential to provide long-term improvements in
+future mission operational systems.
+
+Responsibility for biological planetary protection is outside the
+purview of the PAC. NASA's PSD is extending the invitation for
+nominations for service on the PAC. Interested members of the community
+are invited to review the charter and to submit nominations (including
+self-nominations) for consideration to fill vacancies on the Committee.
+
+For details, go to:
+
+http://planetarynews.org/nasa/20200109-PACnominations.pdf
+
+For more information about PAC, go to:
+
+https://science.nasa.gov/nac/science-advisory-committees/pac
+
+Stephen Rinehart
+Acting Director, Planetary Science Research and Analysis
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TITAN THROUGH TIME V WORKSHOP REGISTRATION IS NOW OPEN
+
+The Titan Through Time Workshop V, to be held at CU-LASP, Boulder, CO
+14-16 April is now open for registration and abstract submission.
+Abstract submission will close on February 28, and registration closes
+on March 20. Registration is free, but participation will be limited to
+the first 70 registrants. Student travel support may be requested
+during the abstract submission process. A welcome reception will be
+held the evening of April 13. A public night event will be held on the
+evening of April 14, and the workshop banquet will be held on the 15.
+For more information see:
+
+https://titanthroughtime.org/abstract.html 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEPAG 8VM - 2ND INFORMATION CIRCULAR
+
+Next virtual meeting (VM8) of the Mars Exploration Program Analysis
+Group (MEPAG): Friday, February 28, 2020, 10:30 am-12:30 pm PST (1:30
+pm-3:30 pm EST)
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+Agenda: updates about recent MEPAG activities, including Decadal Survey
+preparations, and the MEP Update. A report on the MEPAG Goals Document
+revision by MEPAG Goals Chair, Dr. Donald Banfield. Also: a status
+report on the Mars Architecture Strategy Working Group (MASWG), an
+update on PDS, and announcements about the JWST proposal cycle and a
+new Planetary Science Journal.
+
+This meeting is open to all members of the Mars science community
+including our international colleagues.
+
+WebEx information
+
+1) Join Meeting: 
+
+https://jpl.webex.com/jpl/j.php?MTID=m4938f1c9b2c74d9923980c97e0eafa20
+
+2) Meeting number (access code): 909 148 807
+ 
+3) To join audio: stream sound through your computer speakers. Or
+(recommended) listen in via phone: by having WebEx call you; or call
+in: +1-510-210-8882 (USA Toll) or Global call-in:
+
+https://jpl.webex.com/jpl/globalcallin.php?MTID=
+mc848930d499e3527aee31d0dc2222f41
+
+4) All call-ins will be muted upon entry. For questions/comments, use
+the WebEx chat box - time permitting, these will be verbally relayed to
+the presenters.
+ 
+WebEx support: 
+
+https://jpl.webex.com/jpl/mc
+
+Other meeting issues/post-meeting comments: mepagmeetingqs@jpl.nasa.gov
+ 
+[Edited for length]
+ 
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] RELEASE OF NASA SPACE TECHNOLOGY MISSION DIRECTORATE - EARLY
+CAREER FACULTY
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId={
+ACAD5344-C2D1-8304-D57E-2FE90D346946}&path=&method=init
+
+The Space Technology Research Grants (STRG) Program within STMD seeks
+proposals from accredited U.S. universities on behalf of their
+outstanding new faculty members who intend to develop academic careers
+related to space technology. NASA is seeking proposals that plan to
+pursue innovative, early-stage space technology research in the topic
+areas specifically enumerated in the solicitation:
+ 
+Topic 1: Coordinated Multi-Robots for Planetary Exploration
+
+The financial and programmatic support for ECF comes from the Space
+Technology Research Grants Program within the Space Technology Mission
+Directorate. NASA plans to make approximately 8 awards as a result of
+this ECF solicitation, subject to the receipt of meritorious proposals.
+Resultant grant awards are up 3 years in duration and $600K in total
+value. Awards are planned to start in October 2020.
+
+All proposals must be submitted electronically through NSPIRES or
+through Grants.gov (www.grants.gov) by an authorized organizational
+representative. 
+
+Notices of Intent are strongly encouraged by February 26, 2020.
+Proposals are due on or before March 25, 2020 by 5PM EDT.
+
+Technical and programmatic comments and questions:
+Claudia Meyer, hq-ecf-call@mail.nasa.gov
+
+Procurement questions: Kimberly Cone, hq-ecf-call@mail.nasa.gov
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THIRD ANNOUNCEMENT - TOWARDS OTHER EARTH III: FROM SOLAR SYSTEM TO
+EXOPLANETS
+
+CONFERENCE- Towards Other Earth III: from Solar System to Exoplanets
+
+1-5 June 2020
+Lamego, Douro Valley, Portugal
+Theater Ribeiro Conceicao, Lamego, Portugal
+
+Atmosphere, Interior, formation and evolution of planets and
+planetary systems. The Solar System Planets and Exoplanets communities
+aim at answering similar questions, but seldom interact due to the
+different datasets they have access to.
+
+We aim to discuss how the detailed and in situ datasets from Solar
+System planets can inform the often under constrained exoplanetary
+models. We will try to uncover how the diversity and large sample
+offered by exoplanets can put in context and inform our understanding
+of Solar System planets, focusing on each of these categories:
+
+Super-Earths, Mercury, Venus, Mars and Earth
+Ice giants, Uranus and Neptune
+Gas giants, Jupiter and Saturn
+Planetary System architecture
+
+http://www.iastro.pt/toe3/
+
+SOC: Rebecca Dawson, Olivier Demangeon, Caroline Dorn, David
+Ehrenreich, Jonathan Fortney, Antonio Garcia Munoz, Gabriella Gilli,
+Tristan Guillot, Victoria Meadows, Christophe Mordasini, Alessandro
+Morbidelli, Heike Rauer, Nuno Santos, Sergio Sousa, Li Zeng
+
+Confirmed invited speakers
+
+Michel Mayor 
+Agustin Sanchez-Lavega
+Courtney Dressing
+Ravit Helled
+Robin Wordsworth
+Sean Raymond
+Seth Jacobson
+Shogo Tachibana
+Vardan Adibekyan
+Yamila Miguel 
+Vincent Bourrier
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR FEBRUARY, 2020
+
+On behalf of Aileen Yingst (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the February 2020
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 11-13, 2020
+JWST Master Class Workshop
+http://jwst.faj.org.pl
+Torun, Poland
+
+April 20-25, 2020
+27th Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua
+Kyiv, Ukraine
+
+June 5-15, 2020
+GAIA & TESS: Tools for Understanding of the Local Universe
+https://gate.physics.muni.cz
+Brno, Czech Republic
+
+June 22-24, 2020
+Preparing for Sofia-HIRMES Science: The Missing Link Between JWST and
+Herschel
+https://www.hirmes.org/2020-workshop
+Baltimore, MD
+
+June 22-25, 2020
+Cosmic Explorations: At the Intersection of Science, Space, Art, and
+Culture
+http://cosmicexplorations.org
+Pasadena, CA
+
+August 19-26, 2020
+Formation and Evolution of Planetary Systems and Habitable Planets
+http://eai.faj.org.pl
+Torun, Poland
+
+November 30-December 4, 2020
+Modeling, Observing and Understanding Flows and Magnetic Fields in the
+Earth's Core and in the Sun
+https://www.newton.ac.uk/event/dytw03
+Cambridge, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

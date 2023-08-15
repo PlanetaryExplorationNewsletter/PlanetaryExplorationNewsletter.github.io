@@ -1,0 +1,489 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 50 (December 5, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mercury Science and Exploration November 2021 Newsletter Released
+2. Re-Architected Mars-GRAM and Earth-GRAM Released in GRAM Suite 
+   Version 1.4
+3. Sharing Planetary Science Seminar Common Planetary Misconceptions
+4. [NASA] ROSES-21: FINESST Graduate Student Research Final Text 
+   and Due Date Released
+5. Future Leaders of Ocean Worlds (FLOW) Early Career Coffee Hour: 
+   Academia
+6. Planetary Geomorphology Image of the Month
+7. OPAG Meeting Announcement 
+8. [NASA] Ames Planetary Studies Research Branch Chief Sought
+9. NASA Postdoctoral Fellowship
+10. [NASA] PDS: Aperiodic Data Releases in 2021.11
+11. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 59
+12. AbSciCon 2022 Session: Deep Dive into the Geophysics of Ocean 
+    Worlds
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MERCURY SCIENCE AND EXPLORATION NOVEMBER 2021 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue 5 
+of "The Mercury Newsletter". The quarterly community newsletter can be 
+accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+In this newsletter, we share Mercury science and exploration news, 
+highlight recent publications, and note upcoming meetings.
+
+Please send your Mercury community announcements and calendar items to
+mexag.sc@gmail.com for inclusion in the newsletter by the MExAG 
+Steering Committee.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RE-ARCHITECTED MARS-GRAM AND EARTH-GRAM RELEASED IN GRAM SUITE 
+VERSION 1.4
+
+The Global Reference Atmospheric Model (GRAM) Suite is an 
+engineering-oriented atmospheric model that estimates mean values and 
+statistical variations of atmospheric properties for planetary 
+destinations. GRAM outputs include atmospheric density, temperature, 
+pressure, winds, and chemical composition along a user-defined path. 
+The GRAMs have been re-architected from Fortran to a common 
+object-oriented C++ framework. This new architecture creates a common 
+GRAM library of data models and utilities. Version 1.4 of the GRAM 
+Suite contains the re-architected Mars-GRAM, Earth-GRAM, Neptune-GRAM, 
+Titan-GRAM, and Venus-GRAM and the new Uranus-GRAM and Jupiter-GRAM.  
+GRAM Suite Version 1.4 also now includes the 2019 Range Reference 
+Atmosphere database in Earth-GRAM. GRAM Suite Version 1.4 is available 
+upon request through the NASA Software Catalog at: 
+
+https://software.nasa.gov/software/MFS-33888-1
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SHARING PLANETARY SCIENCE SEMINAR COMMON PLANETARY MISCONCEPTIONS
+
+Tuesday, December 7, 3:00 p.m. CST
+
+All planetary scientists and engineers, including early-career 
+scientists and graduate students, are invited to join us on December 7, 
+2021 for this free seminar. Audiences may have mistaken ideas about the 
+size, scale, and characteristics of objects in the Solar System, and 
+limited understanding of astronomical and geological time and concepts. 
+Join Dr. Sanlyn Buxner (Planetary Science Institute), Dr. Molly Simon 
+(Arizona State University) and Christine Shupla (LPI) to learn about 
+how people learn and some of the common planetary misconceptions that 
+may affect education and public engagement programs, and to discuss 
+ways to modify your presentations and activities.
+
+Join the Zoom at: 
+
+https://www.zoomgov.com/j/1601216457?pwd=bE1sTnozQkhvUTlzMG9sYUhpei8xdz09
+
+Join audio by telephone: (669) 254-5252
+Webinar ID: 160 121 6457
+
+This can also be streamed on LPI's YouTube channel: 
+
+https://www.youtube.com/c/LPIUSRA
+
+For more details, or information on past Sharing Planetary Science 
+sessions, go to the Lunar and Planetary Institute's Scientist 
+Engagement website: 
+
+https://www.lpi.usra.edu/education/scientist-engagement
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-21: FINESST GRADUATE STUDENT RESEARCH FINAL TEST AND DUE 
+DATE RELEASED
+
+Future Investigators in NASA Earth and Space Science and Technology 
+(FINESST ROSES-2021 F.5) solicits proposals from accredited U.S. 
+universities and other eligible organizations for graduate 
+student-designed and performed research projects that contribute to 
+SMD's science, technology, and exploration goals. The graduate student 
+shall have the primary initiative to define the proposed FINESST 
+research project and must be the primary author, with input or 
+supervision from the proposal's Principal Investigator (PI), as 
+appropriate. The proposal must present a well-defined research 
+problem/activity and a justification of its scientific significance to 
+NASA. FINESST awards are grants for up to three years and up to $50K 
+per year. Go to: 
+
+https://go.nasa.gov/FINESST21 
+
+Notices of Intent are not requested. Proposals are due February 11, 
+2022.
+
+Questions concerning FINESST should be directed to 
+hq-finesst@mail.nasa.gov
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FUTURE LEADERS OF OCEAN WORLDS (FLOW) EARLY CAREER COFFEE HOUR: 
+ACADEMIA
+
+Tuesday, December 7, at 10 am PT / 1 pm ET
+
+Webex Link: 
+
+https://jpl.webex.com/jpl/j.php?MTID=m78b273814ddb3fef669573ac1f9c1664
+
+Meeting number: 2762 568 7152
+Password: t6PY6kusUK8
+
+Join our winter coffee hour on a career in academia! We have invited 
+panelists from four different types of academic institutions. Learn 
+more about FLOW at: 
+
+https://oceanworlds.space/flow/
+
+Panelists:
+
+Dr. Charlene Estradam, South Mountain Community College. Geology 
+faculty, specializing in Earth and Planetary Sciences.
+
+https://www.linkedin.com/in/cfestrada
+
+https://sites.google.com/asu.edu/cestrada
+
+Dr. Alberto Mestas-Nunez, University of Texas at San Antonio (R2 
+University). Associate Professor in Practice, specializing in Physical 
+Oceanography and Remote Sensing. Served a 3-year tour as Program 
+Director in the NSF Physical Oceanography Program.
+
+https://albertomestas.com/research/
+
+Dr. Jill Mikucki, University of Tennessee (R1 University). Associate 
+Professor, Department of Microbiology.
+
+https://micro.utk.edu/faculty/mikucki.php
+
+Dr. Alysia Cox, Montana Technological University (PUI). Associate 
+Professor, Department of Environmental Chemistry.
+
+https://mtechlegend.weebly.com/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The December image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Jostling Pack Ice(ish) on Venus", contributed by 
+Prof. Paul K. Byrne, Department of Earth and Planetary Science, 
+Washington University in St. Louis, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook at: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPAG MEETING ANNOUNCEMENT
+
+April 19-20, 2022 
+
+OPAG is NASA's community-based forum designed to provide science input 
+for planning and prioritizing outer planet exploration activities for 
+the next several decades.
+
+The OPAG meeting will be in the Washington D.C area. A final location 
+for the meeting will be posted at a later date.
+
+The focus of this meeting will include updates from NASA HQ, updates 
+on current missions, and aspects of the Decadal Survey that are 
+relevant to OPAG.
+
+The three-day meeting will consist of oral and poster presentations.
+
+https://www.lpi.usra.edu/opag/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] AMES PLANETARY STUDIES RESEARCH BRANCH CHIEF SOUGHT
+
+The deadline for applications has been extended.
+
+NASA Ames Research Center is seeking a permanent supervisory Branch 
+Chief hire in Planetary Studies Research. Any interested applicants 
+can apply on USA Jobs: 
+
+https://www.usajobs.gov 
+
+The position is engaged in professional scientific and engineering work 
+involving systematic, critical investigations directed toward 
+discovering, disseminating, and applying new or expanded knowledge in a 
+professional discipline. The position provides technical, 
+administrative, and managerial supervision to a highly technical, 
+scientific workforce engaged in both basic and applied research,
+technology and instrument concept development leading to flight mission 
+concepts.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIP 
+
+Application Deadline: March 1, 2022
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed 
+here: 
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. Please see current eligibility requirements.
+
+Stipends start at $60,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2021.11
+
+In November 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+  2021.11.19 PRIMASS-L Spectra
+  2021.11.19 Mars Express: OMEGA experiment from mission extension 7
+  2021.11.19 Mars Express: MaRS 4 volumes of Occultation measurements
+  2021.11.15 VG2: CRS Jupiter Derived Proton/Ion/Electron Flux
+  2021.11.12 MRO: SHARAD Reprocessed Radargram Data
+  2021.11.11 Mars Express: MaRS 20 volumes of Occultation measurements
+  2021.11.05 Laboratory Study of Hydrocarbon IR Spectra
+  2021.11.01 Mars Express: MaRS 10 volumes of Occultation measurements
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211130.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 59
+
+The NASA Planetary Data System announces Release 59 of data from the 
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period February 9, 2021, through May 8, 2021. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes.
+
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences 
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211201.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+MRO data releases occur every three months. The next release is 
+scheduled for March 1, 2022.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ABSCICON 2022 SESSION: DEEP DIVE INTO THE GEOPHYSICS OF OCEAN WORLDS
+
+Submit your oral and poster presentations to the Ocean World focused 
+AbSciCon 2022 session Deep Dive into the Geophysics of Ocean Worlds. 
+Details: 
+
+https://agu.confex.com/agu/abscicon21/prelim.cgi/Session/111831 
+
+Submission deadline: January 19
+
+A variety of planetary oceans are predicted in our Solar System and 
+beyond, whose conditions depend on planetary size, water mass, 
+composition, stellar distance, etc. Although regarded as major 
+astrobiological targets, physical constraints are necessary to 
+understand the limiting factors for habitability. P-T conditions in 
+these oceans can exceed those found on Earth, therefore approaches 
+using geophysical tools to constrain planetary environments becomes 
+binding.
+
+We welcome contributions from numerical and experimental studies 
+using geophysical tools (e.g. geodynamics, mineral physics, 
+thermodynamics, seismology) aimed at understanding the environments 
+of ocean-bearing worlds from their surfaces to their deep interiors, 
+with topics including: 
+
+(1) numerical studies of structure/geodynamics, 
+(2) experimental studies of aqueous solutions and solids (ices, rocks, 
+    metals), 
+(3) exploration with upcoming mission concepts (e.g. gravity, 
+    seismology, magnetism), including fieldwork, and 
+(4) investigating the astrobiology of ocean worlds with geophysics.
+
+Looking forward to your submissions!
+
+The conveners,
+
+Baptiste Journaux, Angela Marusiak, Cayman Unterborn, Morgan Cable, 
+Mohit Melwani Daswani, Shannon MacKenzie, Nadejda Marounina, 
+Steve Vance
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+February 21-23, 2022
+PERC International Symposium on Dust & Parent Bodies 2022 (IDP2022)
+https://www.perc.it-chiba.ac.jp/meetings/IDP2022/IDP2022/
+Online
+
+April 19-20, 2022 
+Outer Planets Assessment Group Meeting
+https://www.lpi.usra.edu/opag/
+Washington, DC
+
+August 22-26, 2022
+Cosmic Dust
+https://www.cps-jp.org/~dust/
+Kitakyushu, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Lunar Fossil Figure in a Cassini State
+Isamu Matsuyama et al. 2021 PSJ 2:232
+https://doi.org/10.3847/PSJ/ac32d9
+
+Thermochemical Equilibrium Modeling Indicates That Hg Minerals Are 
+Unlikely to Be the Source of the Emissivity Signal on the Highlands of 
+Venus
+S. T. Port and V. F. Chevrier 2021 PSJ 2:233
+https://doi.org/10.3847/PSJ/ac2fa5
+
+A Sublime Opportunity: The Dynamics of Transitioning Cometary Bodies 
+and the Feasibility of In Situ Observations of the Evolution of Their 
+Activity
+Darryl Z. Seligman et al. 2021 PSJ 2:234
+https://doi.org/10.3847/PSJ/ac2dee
+
+Morphometric Study of Craters on Saturn's Moon Rhea
+Betzaida Aponte-Hernandez et al. 2021 PSJ 2:235
+https://doi.org/10.3847/PSJ/ac32d4
+
+Early Activity in Comet C/2014 UN271 Bernardinelli-Bernstein as 
+Observed by TESS
+Tony L. Farnham et al. 2021 PSJ 2:236
+https://doi.org/10.3847/PSJ/ac323d
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

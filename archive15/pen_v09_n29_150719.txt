@@ -1,0 +1,378 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 29 (July 19, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2nd Announcement for the First Landing Site/Exploration Zone 
+   Workshop for Human Missions to the Surface of Mars
+2. NASA Postdoctoral Fellowships
+3. Postdoctoral Fellow, Hopkins Extreme Materials Institute
+4. [NASA] ROSES-15 WFIRST Science Investigation Teams and Adjutant 
+   Scientists
+5. GSA 2015 Session T132. Mineralogy of Diagenesis on Earth and Mars: 
+   In Honor of Nicolas J. Tosca, 2015 MSA Awardee
+6. AGU 2015 Session 8104. Evolutions, Interactions and Origins of Outer 
+   Planet Satellites
+7. AGU 2015 Session 8234. Mercury After MESSENGER
+8. AGU 2015 Session 8371. Era of Citizen Science and Big Data: 
+   Intersection of Outreach, Crowd-Sourced Data and Scientific 
+   Research
+9. AGU 2015 Session 8664. Polarimetry as a Tool to Study the Earth, 
+   Solar System and Beyond
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2ND ANNOUNCEMENT FOR THE FIRST LANDING SITE/EXPLORATION ZONE WORKSHOP 
+FOR HUMAN MISSIONS TO THE SURFACE OF MARS
+  
+This announcement provides the details on how to participate in the 
+workshop.
+
+The workshop will be held October 27 to 30, 2015, at the Lunar 
+Planetary Institute (LPI) in Houston, TX. The purpose of this workshop 
+is to identify and discuss candidate locations where humans could land, 
+live and work on the martian surface.
+
+NASA hopes to engage scientists, technologists and experts in human 
+exploration during the conference, fostering collaboration among the 
+teams that will enable humans to explore Mars in the coming decades.
+
+Potential "Exploration Zones" will need to offer compelling science 
+research while also providing resources that our astronauts can take 
+advantage of during their pioneering of the Red Planet. First 
+explorers will be limited to about 60 miles (100 km) of travel from 
+their landing site due to life support and exploration technology 
+requirements.
+
+For More Information: 
+
+http://www.nasa.gov/sites/default/files/atoms/files/second-landing-
+site-announcement.pdf
+
+http://www.hou.usra.edu/meetings/explorationzone2015/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in Earth science, heliophysics, astrophysics, planetary 
+science, astrobiology, space bioscience, aeronautics and engineering, 
+human exploration and operations, and space technology.
+
+A sample research opportunity is:
+
+https://www3.orau.gov/NPDoc/Catalog/17736
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1UA7aHs
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL FELLOW, HOPKINS EXTREME MATERIALS INSTITUTE
+
+A postdoctoral fellow position is available within the Hopkins Extreme 
+Materials Institute at Johns Hopkins University, in the area of 
+experiments and modeling of dynamic failure of geological materials 
+under impact loading conditions. The postdoc will:
+
+(a) assist in the development of theoretical and computational models 
+for dynamic failure of geological materials, 
+(b) closely interact with experts in x-ray phase contrast imaging to 
+characterize dynamic damage using synchrotron sources, and 
+(c) help design experimental techniques. 
+
+The selected candidate will work under the supervision of Prof. K.T. 
+Ramesh and Prof. Nitin Daphalapurkar.
+
+Candidates should have a Ph.D. in planetary science, engineering or 
+physical sciences disciplines, and background in mechanics and 
+numerical methods. The University is committed to building a diverse 
+environment; women and minorities are strongly encouraged to apply.
+
+Candidates should send an email to bess@jhu.edu with a single PDF 
+file containing curriculum vitae, names of at least two references, 
+and a brief description of your experience and background. Review of 
+applications will begin August 15. The Johns Hopkins University is 
+an Equal Employment Opportunity and Affirmative Action employer.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-15 WFIRST SCIENCE INVESTIGATION TEAMS AND ADJUTANT 
+SCIENTISTS
+ 
+Program element D.11 of ROSES-2015 solicits proposals for Science 
+Investigation Teams and Adjutant Scientists for the Wide-Field 
+InfraRed Survey Telescope (WFIRST), which will result in the 
+formation of a Formulation Science Working Group (FSWG) for the 
+mission. Selected teams will be funded by contract and shall be 
+responsible for the following tasks in support of the proposed 
+scientific investigations with WFIRST:
+
+* Development of scientific performance requirements;
+* Design of notional observing program(s);
+* Development of science data analysis techniques; and
+* Development of simulations and data challenges to validate the 
+  above items.
+
+The selected individuals for the Adjutant Scientist positions 
+will be responsible for:
+
+* Coordinating performance requirements and observing program 
+  activities;
+* Acting as a liaison between scientists and the instrument team;
+* Balancing the use of the relevant instrument to achieve all 
+  WFIRST science; and
+* Communication with the astronomical community.
+
+Required Notices Of Intent (NOI) due: August 17, 2015
+Proposal submission due date: October 15, 2015
+
+Announcement #: NNH15ZDA001N
+Posted at:
+
+http://nspires.nasaprs.com/ 
+
+and RSS feed: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2015
+
+Questions:
+Dominic Benford at Dominic.Benford@nasa.gov
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GSA 2015 SESSION T132. MINERALOGY OF DIAGENESIS ON EARTH AND MARS: 
+IN HONOR OF NICOLAS J. TOSCA, 2015 MSA AWARDEE
+
+This session will be held at the GSA Annual Meeting, taking place in 
+Baltimore, MD on November 1-4, 2015. It is in honor of Nick Tosca,
+winner of the 2015 MSA Award, and will be devoted to recent 
+experimental, theoretical, and observational advances in 
+characterizing and interpreting the mineralogical relationships 
+developed during aqueous diagenesis on both Earth and Mars.
+
+Abstract deadline: Tuesday, August 11, 2015
+Abstract Submission Website:  
+
+http://www.geosociety.org/meetings/2015/sessions/topical.asp
+
+Conveners:
+Scott McLennan, Stony Brook University
+Darby Dyar, Mount Holyoke College
+Andy Knoll, Harvard University
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU 2015 SESSION 8104. EVOLUTIONS, INTERACTIONS AND ORIGINS OF OUTER 
+PLANET SATELLITES
+
+This session explores current and past planetary processes that lead 
+to unique present day conditions on outer planet satellites. The 
+session will consist of invited and contributed talks that highlight 
+geological and geophysical modeling and interpretation of both 
+remote-sensed and in-situ data. Presentations on interaction of 
+planetary field and plasma  with the surfaces and interiors of the 
+moons and theoretical models of the origin and evolution of surfaces 
+and interiors of the moons are also welcome. Contributions that 
+investigate processes on multiple moons to uncover underlying 
+trends are especially welcome.
+
+Conveners: Amanda R Hendrix and Krishan K. Khurana 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU 2015 SESSION 8234. MERCURY AFTER MESSENGER
+
+We are pleased to announce a session on Mercury at the 2015 AGU Fall 
+Meeting in San Francisco, CA, December 14-18, 2015.
+
+NASA's MESSENGER spacecraft completed more than four years of orbital 
+operations at Mercury in April 2015. The mission returned 
+unprecedented measurements of Mercury's surface, interior, exosphere, 
+and magnetosphere that collectively have revolutionized our 
+understanding of the innermost planet. This session will highlight 
+results from the most recent, highest-resolution observations returned 
+by MESSENGER, as well as results from analysis of the six years of 
+flyby and orbital data from this highly successful mission, to 
+understand Mercury's geological evolution, the planet's geophysical 
+and geochemical characteristics, and the interaction of the planet's 
+exosphere and magnetosphere with the solar wind and interplanetary 
+magnetic field. We also welcome contributed papers on complementary 
+ground-based observations, laboratory measurements, theoretical 
+developments relevant to planetary processes at Mercury, and future 
+mission opportunities.
+
+Please consider submitting an abstract for this session. For more 
+information,visit: 
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/Session8234
+
+The submission deadline is August 5, 2015.
+
+Conveners:
+Paul Byrne (Lunar and Planetary Institute)
+Larry Nittler (Carnegie Institution of Washington)
+Sean Solomon (Columbia University)
+
+We look forward to seeing you in San Francisco.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU 2015 SESSION 8371. ERA OF CITIZEN SCIENCE AND BIG DATA: 
+INTERSECTION OF OUTREACH, CROWD-SOURCED DATA AND SCIENTIFIC RESEARCH
+
+Abstracts due 5 August 2015.
+
+The traditional method of outreach to formal, informal, science and 
+non-science audiences has undergone a fundamental change with recent 
+advances in technology, social media and crowd-sourced data, giving 
+way to citizen science with many applications. With increasing 
+"Big Data" projects, active partnerships between professional, amateur 
+and data scientist communities are necessary. Innovative design, 
+sustainability and evaluation of these projects is as important as the 
+citizen science they generate. This session invites papers from 
+scientists, educators and as well as those who design, facilitate, 
+evaluate or fund such programs. Topics may include methodology, 
+applications of citizen science to enhancing outreach, transformative 
+approaches to science education, lessons learned, and the future of 
+citizen science. Presentations are invited from all scientific 
+disciplines: astronomy, planetary and space science, geology and 
+geophysics, seismology, biogeoscience, atmosphere and ocean sciences.
+
+Primary Convener:  
+
+Padma A Yanamandra-Fisher 
+Space Science Institute
+Rancho Cucamonga, CA
+
+Convener:  
+
+Constance E Walker 
+National Optical Astronomy Observatory
+Tucson, AZ
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU 2015 SESSION 8664. POLARIMETRY AS A TOOL TO STUDY THE EARTH, 
+SOLAR SYSTEM AND BEYOND
+
+Abstracts due 5 August 2015.
+
+Polarimetry is a powerful tool providing a wealth of information about 
+various solar system objects (e.g., planetary atmospheres; 
+atmosphereless objects, comets, dust, asteroids, ring systems) and 
+terrestrial phenomena, including habitability. Polarimetric techniques, 
+combined with imaging and spectroscopic methods, are used to explore 
+the microphysics of terrestrial clouds; magnetic fields; biological 
+activity of molecules and properties of regoliths on planetary 
+satellites. The session is open to invited and contributed oral and 
+poster papers about recent observational results; advances in vector 
+radiative transfer theory (including non-sphericity effects on single 
+scattering); laboratory measurements; instrumental developments for 
+imaging and spectropolarimeters to be included in ground-based 
+facilities and space missions in planetary and earth sciences.
+
+Primary Convener:
+
+Padma A Yanamandra-Fisher 
+Space Science Institute 
+Rancho Cucamonga, CA
+
+Conveners:  
+
+Ludmilla Kolokolova 
+University of Maryland 
+College Park, MD
+
+Anny-Chantal Levasseur-Regourd 
+University Pierre and Marie Curie 
+Paris VI, Paris, France 
+
+Herve Lamy 
+Belgian Institute for Space Aeronomy 
+Brussels, Belgium
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 12-15, 2016
+Water in the Universe: From Clouds to Oceans
+http://www.congrexprojects.com/2016-events/16a06
+Noordwijk, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

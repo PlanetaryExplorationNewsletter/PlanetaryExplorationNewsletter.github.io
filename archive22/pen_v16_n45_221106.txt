@@ -1,0 +1,335 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 45 (November 6, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, George Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Hayabusa2 ONC Release
+2. [NASA] PDS: Aperiodic Data Releases in 2022.10
+3. Planetary Geomorphology Image of the Month
+4. Ph.D. Position in Exo-(Planetary) Science at University of Central 
+   Florida
+5. EGU23 Session GM10.1/PS1: Planetary Geomorphology
+6. EGU23 Session PS4.1: Atmospheres and Exospheres of Terrestrial 
+   Planets, Satellites, and Exoplanets
+7. PhD Positions in Exoplanet Sciences at the Kapteyn Astronomical 
+   Institute of the University of Groningen, The Netherlands
+8. Research Faculty Position in Planetary Sciences, University of 
+   Washington
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: HAYABUSA2 ONC RELEASE
+
+This release of Hayabusa2 data includes the ONC raw, calibrated, and 
+derived data. The included data cover the full Ryugu encounter. This 
+bundle is certified with minor liens.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20221031b.shtml
+
+Or more directly at the PDS Hayabusa2 mission archive page at
+
+https://sbn.psi.edu/pds/resource/hayabusa2/
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2022.10
+
+In October 2022, PDS ingested and made available the following data, 
+none of which were regularly released with an ongoing mission:
+
+2022.10.31 Mars Express Radio Science extended mission 8
+2022.10.26 MESSENGER MDIS data migrated to PDS4
+2022.10.24 Galileo Photopolarimeter Radiometer
+2022.10.24 Galileo Ultraviolet Spectrometer
+2022.10.24 Voyager Ultraviolet Spectrometer
+2022.10.18 PVO Magnetometer
+2022.10.17 MRO CRISM multispectral reduced data records
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20221031.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The November image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is 'Topographically influenced evolution of 
+large-scale changes in the smooth terrains of comet 
+67P/Churyumov-Gerasimenko' contributed by Abhinav Jindal, Department 
+of Astronomy, Cornell University, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho 
+
+or Facebook: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PH.D. POSITION IN EXO-(PLANETARY) SCIENCE AT UNIVERSITY OF CENTRAL 
+FLORIDA
+
+Prof. Ramses Ramirez is seeking a qualified Ph.D. student to join his 
+research team within the UCF Planetary Sciences Group (Department of 
+Physics) in either the Spring 2023 or Fall 2023 semesters.
+
+The qualified candidate will work with Prof. Ramirez and develop an 
+original project to model the atmospheres of potentially habitable 
+exoplanets or Solar System worlds. Theoretical projects involving 
+climate, atmospheric escape, photochemistry or atmospheric-surface 
+interactions (among other topics) are all welcome.
+
+Programming experience is a must. Highly-motivated individuals with 
+relevant astronomy, planetary science, geoscience, or engineering 
+backgrounds are particularly encouraged to apply.
+
+UCF offers a rigorous research program in Planetary Sciences, where 
+students are paired with Ph.D. advisors upon admission. We offer robust 
+academic and research mentoring programs and have strong ties to the 
+Florida Space Institute, Arecibo, and the NASA Kennedy Space Center.
+
+More information about Prof. Ramirez and the Planetary Sciences Group 
+(plus Ph.D. program), respectively, can be found here:
+
+https://habitableplanets.wordpress.com/
+
+https://planets.ucf.edu/
+
+For more information reach Prof. Ramirez at Ramses.Ramirez@ucf.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EGU23 SESSION GM10.1/PS1: PLANETARY GEOMORPHOLOGY
+
+Please consider submitting an abstract to the session on Planetary 
+Geomorphology (GM10.1/PS1) at the EGU General Assembly 2023. EGU 
+(23-28 April 2023) will be a hybrid event facilitating online and 
+in-person participation in Vienna. 
+
+Please note the approaching deadline (1 December, 13:00 CET) for 
+those seeking travel support.
+
+The Planetary Geomorphology session aims to bring together 
+geomorphologists who study the Earth with those who work on other 
+bodies such as Mars, Venus, Mercury, the Moon, icy satellites of the 
+outer Solar System, comets, and/or asteroids. Studies applicable to 
+landscapes on any scale on any solid body are welcome. We particularly 
+encourage those who use Earth analogues, laboratory/numerical 
+simulation and/or big satellite datasets to submit their work. 
+Considered processes could include aeolian, volcanic, tectonic, 
+fluvial, glacial, periglacial, or "undetermined" ones. We especially 
+welcome contributions from early-career scientists and geomorphologists 
+who are new to planetary science.
+
+Session details: 
+
+https://meetingorganizer.copernicus.org/EGU23/session/47063
+
+Abstract instructions: 
+
+https://egu23.eu/programme/how_to_submit.html
+
+The abstract deadline is 10 January 2023 (13:00 CET), but those seeking 
+travel support should submit their abstract by 1 December 2022 
+(13:00 CET). 
+
+Best wishes,
+
+Planetary Geomorphology convenors: 
+
+Lonneke Roelofs, Stephen Brough, Frances Butcher, Tjalling de Haas, and 
+Nikolaus J. Kuhn
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EGU23 SESSION PS4.1: ATMOSPHERES AND EXOSPHERES OF TERRESTRIAL PLANETS,
+SATELLITES, AND EXOPLANETS
+
+We are pleased to announce that the abstract submission is open for EGU 
+2023, held in Vienna on 23-28 April 2023 and online.
+
+The deadline for the abstract submission is 10 January 2023, 13:00 CET 
+or before 1 December 2022, 13:00 CET to apply for travel support.
+
+We would like to draw your attention to our session: Atmospheres and 
+exospheres of terrestrial planets, satellites, and exoplanets.
+
+This session primarily focuses on the neutral atmospheres of 
+terrestrial bodies other than the Earth. This includes not only Venus 
+and Mars, but also exoplanets with comparable envelopes and satellites 
+carrying dense atmospheres such as Titan or exospheres such as 
+Ganymede. We welcome contributions dealing with processes affecting the 
+atmospheres of these bodies, from the surface to the exosphere. We 
+invite abstracts concerning observations, both from Earth or from 
+space, modeling and theoretical studies, or laboratory work. 
+Comparative planetology abstracts will be particularly appreciated.
+
+If you consider submitting an abstract in this session, you can use the 
+following link:
+
+https://meetingorganizer.copernicus.org/EGU23/abstractsubmission/45807
+
+Hope to see you in Vienna!
+
+Best regards,
+
+The conveners,
+
+Arnaud Beth, Arianna Piccialli, and Audrey Vorburger
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PH.D. POSITIONS IN EXOPLANET SCIENCES AT THE KAPTEYN ASTRONOMICAL 
+INSTITUTE OF THE UNIVERSITY OF GRONIGEN, THE NETHERLANDS
+
+The newly established Forming Worlds research group at the Kapteyn 
+Astronomical Institute invites applications for two PhD positions 
+focused on the interior and atmospheric evolution of rocky exoplanets 
+for a start in 2023. The application deadline will be on 1 December 
+2022. Inquiries about the positions can be sent to 
+tim.lichtenberg@rug.nl.
+
+Detailed information on the positions and research environment can be 
+found at:
+
+https://www.formingworlds.space/post/phd-positions-october-2022
+
+Successful applicants will be required to hold an MSc degree (or BSc 
+with equivalent extended research experience) in planetary sciences or 
+related fields by the starting date of the position. Application 
+documents include a cover letter, research statement, CV, list of 
+grades/transcript, and two reference letters. For full details and 
+application instructions please go to: 
+
+https://www.rug.nl/research/kapteyn/vacatures/phd-positions
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+RESEARCH FACULTY POSITION IN PLANETARY SCIENCES, UNIVERSITY OF 
+WASHINGTON
+
+The Department of Earth and Space Sciences at the University of
+Washington invites applications for a full-time Research Assistant
+Professor in planetary sciences. The successful candidate will be
+expected to engage in research on the geology and/or geophysics of
+planetary bodies. We are particularly interested in candidates whose
+research involves experimental and theoretical work involving
+high-pressure processes on icy planets, moons, and exoplanets.
+Involvement in planetary missions is a plus. The position will involve
+taking a leadership role in advising and mentoring graduate students in
+our program. Teaching opportunities may arise in the form of lectures,
+seminars, mentoring, and lab instruction.
+
+For more information, and to apply, see: 
+
+https://apply.interfolio.com/116028
+
+Please direct any questions to essasst@uw.edu. Applications will be
+reviewed starting December 1, 2022. Application documents received
+after this date may be considered at the discretion of the search
+committee.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+April 23-28, 2023
+European Geosciences Union General Assembly 2023
+https://egu23.eu/about/general_information.html
+Vienna, Austria
+
+October 15-18, 2023
+Geological Society of America Connects 2023
+https://community.geosociety.org/gsa2023/home
+Pittsburgh, PA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+After DART: Using the First Full-scale Test of a Kinetic Impactor to
+Inform a Future Planetary Defense Mission
+Thomas S. Statler et al. 2022 PSJ 3:244
+https://doi.org/10.3847/PSJ/ac94c1
+
+Transmission of a Seismic Wave Generated by Impacts on Granular
+Asteroids
+Paul Sanchez et al. 2022 PSJ 3:245
+https://doi.org/10.3847/PSJ/ac960c
+
+The Age and Erosion Rate of Young Sedimentary Rock on Mars
+An Y. Li et al. 2022 PSJ 3:246
+https://doi.org/10.3847/PSJ/ac9121
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

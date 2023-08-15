@@ -1,0 +1,211 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 35 (August 20, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Elisabeth Adams, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Lunar Data Analysis Program Delayed
+2. [NASA] ROSES-17 Amendment 24: K2GO6 Final Text
+3. Global Reference Atmospheric Model (GRAM) Virtual Workshop
+4. Mars Exploration Science Monthly Newsletter for August 2017
+5. JWST Proposal Workshops: Registration Now Open
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ROSES-17 AMENDMENT 23: LDAP DUE DATES DELAYED
+
+The Lunar Data Analysis Program (LDAP) program funds research on the
+analysis of recent lunar missions in order to enhance their scientific
+return. LDAP broadens scientific participation in the analysis of
+mission data sets and funds high-priority areas of research that
+support planning for future lunar missions.
+ 
+Required Step-1 proposals are now due November 30, 2017. Step-2 
+proposals are due March 1, 2018. The purpose of this delay is to help 
+de-cluster the PSD R&A due dates and to provide a more even 
+distribution of R&A due dates throughout the year.
+ 
+For information about LDAP, go to:
+
+http://nspires.nasaprs.com/ 
+
+and 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/
+ 
+The NASA point of contact for this program element is Robert Fogel, who
+may be reached at rfogel@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-17 AMENDMENT 24: K2GO6 FINAL TEXT
+ 
+D.7 K2 Guest Observer - Cycle 6 (K2GO) solicits proposals for the 
+acquisition and analysis of new scientific data from the K2 mission.
+The submission and target selection process has been changed.
+
+K2 repurposes the space-borne hardware and ground-based operations of
+the Kepler mission for a pointed survey of predetermined locations
+along the ecliptic plane. The fields covered by the observing campaigns
+under Cycle 6 are described at: 
+
+https://keplerscience.arc.nasa.gov/k2-fields.html.
+ 
+K2GO6 will use a new two-phase submission and target selection process,
+since spacecraft fuel is estimated to run out during observations. An
+optional Phase-1 proposal, for campaigns 17-19 combined, will enable
+targets to be selected ahead of the observing campaigns. Phase-1
+proposals, including target lists and a scientific rationale (submitted
+to keplergo@mail.arc.nasa.gov) are requested by October 12, 2017. If
+the spacecraft health and fuel allow, then Phase-2 proposals will be
+due April 19, 2018. Phase-2 proposals are limited to use observations
+for targets selected as part of Phase-1 published in February 2018 at:
+
+https://keplerscience.arc.nasa.gov.
+ 
+Technical and implementation questions should be directed to: Geert
+Barentsen (geert.barentsen@nasa.gov).
+ 
+The NASA point of contact for programmatic information is Mario R.
+Perez (mario.perez@nasa.gov).
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GLOBAL REFERENCE ATMOSPHERIC MODEL (GRAM) VIRTUAL WORKSHOP
+ 
+September 21, 2017
+  
+The Global Reference Atmospheric Model (GRAM) Virtual Workshop will be
+held via WebEx on Thursday, September 21, 2017.
+ 
+The purpose of this workshop is for GRAM developers, GRAM users,
+planetary atmospheric modelers, and other interested parties to discuss
+the future of the GRAMs. This workshop will include Earth, Mars, Venus,
+Neptune and Titan-GRAM. The workshop objective will be to identify and
+prioritize GRAM development work. 
+ 
+The workshop will highlight recent GRAM usage as well as the importance
+of GRAMs as a critical tool set. Presentations about each GRAM will be
+given by the GRAM team. These presentations will detail their current
+status, near-term update plans, and ideas for new capabilities.
+
+Discussion topics will include:
+
+Modeling and User Community Inputs Regarding Current GRAMs
+Prospective Planetary GRAMs
+Capabilities, Upgrades and Long Term Planning
+User Community Needs and How GRAM Developers Can Meet These Needs
+ 
+Meeting RSVP: All participants planning to attend the virtual workshop
+are asked to RSVP by Friday, September 15, 2017 via email to Hilary
+Justh (Hilary.L.Justh@nasa.gov). Please include your name, affiliation,
+and contact information when responding.
+ 
+Hilary Justh (Planetary GRAM Lead, NASA MSFC) and Alicia Dwyer
+Cianciolo (NASA LaRC)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR AUGUST 2017
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+James Ashley of the Mars Program Science Office, the July 2017 edition
+of the Mars Exploration Science Monthly Newsletter can be found on the
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to James Ashley at:
+
+James.W.Ashley@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JWST PROPOSAL WORKSHOPS: REGISTRATION NOW OPEN
+
+Two 2.5 day workshops will be held this Fall for those interested in
+proposing solar system observations with the James Webb Space
+Telescope(JWST). The first (Nov. 13-15, 2017) will be at the Space
+Telescope Science Institute (STScI), in Baltimore Maryland. The second
+(Dec. 13-15, 2017) will be held at the European Space Research
+Technology Center (ESTEC), in Noordwijk, the Netherlands.
+
+Each workshop will include a mixture of presentations about the promise
+of JWST for solar system science, specifics on observer planning tools
+and observatory capabilities, and hands-on training and Q&A with the
+planning tools. Observations of solar system targets approved for
+guaranteed-time observers (GTOs) and through the Early Release Science
+(ERS) program will be summarized. The workshop is timed to support JWST
+cycle-1 open time proposals, which will be due early March 2018. 
+
+Registration and abstract submission is now open for both events.
+Please also feel free to sign up to the mailing list for further
+details.
+
+STScI Workshop: 
+Registration (closes Sept. 9) : 
+
+https://tinyurl.com/y94onvh3
+
+E-mail list: JWST-ST-Workshop@maillist.stsci.edu
+
+ESTEC Workshop: 
+Registration (closes Nov. 1):
+
+https://www.cosmos.esa.int/web/jwst-ssws-2017/home 
+
+E-mail list: JWST-ESTEC-Workshop@maillist.stsci.edu
+    
+    
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 1-2, 2017
+The Europa Deep Dive 1: Ice-Shell Exchange Processes
+https://www.hou.usra.edu/meetings/europadeepdive2017/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

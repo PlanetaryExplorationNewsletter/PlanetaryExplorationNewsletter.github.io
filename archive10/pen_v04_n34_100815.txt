@@ -1,0 +1,305 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 34 (August 15, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Susan Benecchi, Melissa Lane
+Email: pen_editor at psi.edu
+
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  AGU Session: Mineralogical Studies of Impact Craters
+2.  AGU Session: Fluvial Morphology and Past Climate on Planet Mars
+3.  AGU Session: South Pole-Aitken Basin, New Insights
+4.  AGU Session: Eyes on Enceladus
+5.  [NASA] PDS Releases Phoenix Robotic Arm Delivered Data
+6.  Vacancy for PhD Candidate
+7.  Stardust Sample Catalog
+8.  Expedited Stardust Sample TEM Sample Allocation Policy
+9.  [NASA] Discovery 2010 AO New Data Requirement and Delay of Due Date
+10. Amelua Earhart Fellowship
+11. Job Opportunity
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION: MINERALOGICAL STUDIES OF IMPACT CRATERS
+
+http://www.agu.org/meetings/fm10/program/scientific_session_search.php
+?show=detail&sessid=544
+
+P02: Mineralogical Studies of Impact Craters: Exhumed Crust, 
+Hydrothermal Processes, and Post-Impact Weathering
+
+Impact craters sometimes contain unique mineralogy associated with 
+central peaks, exposures in crater rims, and ejecta. Alteration 
+mineralogy in impact craters can correspond to previously altered 
+basement rock uplifted/exhumed from depth, hydrothermal alteration 
+associated with the impact, or post-impact chemical weathering 
+facilitated by shock and fragmentation. Presentations discussing any 
+of these topics, dealing with field observations, remote sensing 
+studies, modeling, or experimental work are solicited for this session.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION: FLUVIAL MORPHOLOGY AND PAST CLIMATE ON PLANET MARS
+
+Please consider submiting an abstract to session EP 17: Fluvial 
+Morphology and Past Climate on Planet Mars at the Fall 2010 American 
+Geophysical Union Conference, abstract submission deadline 
+September 2nd. See 
+
+http://www.agu.org/meetings/fm10/
+
+Convenors: Germari de Villiers and Maarten Kleinhans, Fac. of
+Geosciences, Universiteit Utrecht, the Netherlands
+
+High resolution images and digital elevation models have stimulated
+detailed work on fluvial morphology on Mars, ranging from gullies to
+channels, alluvial fans and fan deltas, and the mega-outflow channels. 
+Yet, basic formative processes are still heavily debated, such as the 
+role of groundwater sapping and precipitation, or fan and delta 
+formation. Also the magnitude, duration and timing of activity are 
+rather variable. The underlying nature of the past hydrology remains 
+therefore poorly understood. This session aims to bring together 
+fluvial morphological studies by remote sensing, modelling, 
+experimentation and analogues on Earth conducted to unravel the past 
+climate of Mars.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION: SOUTH POLE-AITKEN BASIN, NEW INSIGHTS
+
+We would like to invite contributions from the planetary community to 
+Fall AGU session P21: South Pole-Aitken Basin, New Insights.
+
+As the largest and oldest of the recognizable basins on the Moon, the 
+South Pole-Aitken Basin (SPA) holds many keys to understanding the 
+impact history, crustal formation, and global distribution of crustal 
+materials. Data from previous lunar missions showed the interior of the 
+basin to be unique. However, it is the data from the most recent lunar 
+missions that provide the clearest views of the composition, age of 
+surface units, and structure of  SPA's interior. We invite submissions 
+focusing on SPA that cover a range of topics, from models of SPA 
+formation to data from recent lunar missions to petrologic modeling of 
+how compositions in SPA fit into models of lunar crust formation.
+
+The deadline to submit an abstract is to AGU is 02 September 2010 
+- 23:59 Eastern Daylight Time (EDT) or 03:59+1 GMT.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION: EYES ON ENCELADUS
+
+Conveners:  Carolyn Porco and Chris McKay
+
+This special session (P05) continues a successful 5-year-long AGU 
+tradition to join planetary scientists and astrobiologists involved in 
+the study of Saturn's moon Enceladus for a close-up look at this active 
+body.
+
+In the past 6 years, Cassini has made several very close flybys of 
+Enceladus, and several more are planned during Cassini's upcoming 
+'Solstice' mission.  Observational and theoretical results accumulated 
+thus far indicate a high likelihood that this body houses within it a 
+liquid-water, organics-rich environment. 
+
+In this session, we will focus on the most recent observational, 
+theoretical and modeling results on the chemistry, state and dynamics 
+of Enceladus' jets and plumes, the moon's thermal and interior state 
+(including its putative south-polar sea), geologic activity, as well 
+as its astrobiological potential.  (New results from the 2010 Cassini 
+flybys of Enceladus focused on these research areas should be directed 
+to this session.)  As in years past, we look forward to a popular and 
+stimulating discussion.
+
+For more information about the meeting or to submit an abstract, see:
+
+http://www.agu.org/meetings/fm10/
+
+Please direct questions about the session to 
+
+carolyn@ciclops.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS RELEASES PHOENIX ROBOTIC ARM DELIVERED DATA
+ 
+The Planetary Data System announces the release of the Phoenix Robotic 
+Arm Derived Data Set. This data set consists of RA scoop tip position 
+data and components of force for both the RA on Phoenix and the RA in 
+the Payload Interoperability Testbed at JPL. These data have been 
+derived from raw RA telemetry data, which are not archived in PDS due 
+to ITAR restrictions. 
+
+To access this data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100810.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+VACANCY FOR PHD CANDIDATE
+
+Channel and box canyon formation on planet Mars
+
+http://www.geog.uu.nl/fg/mkleinhans/projects/mars.htm
+http://www.geog.uu.nl/fg/mkleinhans/projects/vacancy72180.pdf
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+STARDUST SAMPLE CATALOG
+
+The new Stardust Sample Catalog is finally on line at:
+
+http://curator.jsc.nasa.gov/stardust/catalog/
+ 
+We are still entering data received from Stardust investigators, and we 
+welcome any Stardust sample analysis results you have produced. If you 
+have any comments, suggestions, or if you see any problems with the 
+Catalog please contact the Catalog Manager directly at 
+nancy.s.todd@nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EXPEDITED STARDUST SAMPLE TEM SAMPLE ALLOCATION POLICY
+
+Successive (rolling) allocation of grids for TEM analysis by 
+researchers with TEM expertise will be routinely approved in batches 
+of 1 to 2 grids from up to 5 particles at a time, i.e., 10 or fewer 
+grids. 
+ 
+These grids may be either samples already in the catalog or from new 
+particles, although existing TEM grids can be allocated much more 
+rapidly. 
+ 
+One batch (10 or fewer grids) will be allocated to a PI at a time. The 
+first batch must be returned to the collection by the PI, and summary 
+reports must be submitted to and approved by the Curator and the 
+Stardust Sample Allocation Committee, prior to allocation of the a new 
+batch of grids. The summary reports will be input into the Stardust 
+Sample Catalog. 
+ 
+As we have been doing from day one, one grid from each particle will be 
+held in reserve by the Curator for posterity.
+ 
+For more details contact Mike Zolensky at michael.e.zolensky@nasa.gov.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] DISCOVERY 2010 AO NEW DATA REQUIREMENT AND DELAY OF DUE DATE
+
+The NASA Announcement of Opportunity (AO) NNH10ZDA007O, "Discovery 
+2010," has been amended to add a new requirement for provision of 
+sufficient data to permit an independent assessment of the proposed 
+mission design and trajectory.
+
+Requirement B-30A has been added to require provision of sufficient 
+data to permit an independent assessment of the proposed mission 
+design and trajectory. Recognizing the late date of this additional 
+requirement, these additional data may be provided in a file or files 
+on the CD containing the electronic version of the proposal. There is 
+no requirement that these data also be included in the hardcopy 
+proposal.
+
+To accommodate the late date of this additional requirement, the 
+proposal due date has been extended by one week.  Proposals are due 
+on September 10, 2010.
+
+Questions concerning the Discovery 2010 AO may be addressed to 
+
+Dr.  Michael H. New 
+(202) 358-1766
+Michael.H.New@nasa.gov 
+(subject line to read "DISCOVERY AO")
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AMELIA EARHART FELLOWSHIP
+
+Zonta International is a service organization with a mission to advance 
+the status of women, worldwide.  They established the Amelia Earhart 
+Fellowships in 1938 and since then, Zonta has awarded 1,297 of these 
+Fellowships, totaling US$7 million, to women from 64 countries.  
+
+The Amelia Earhart Fellowship is awarded annually to women pursuing 
+Ph.D./doctoral degrees in aerospace-related sciences and 
+aerospace-related engineering. These fields include planetary science. 
+The Fellowship of US$10,000, awarded to 35 Fellows around the globe 
+each year, may be used at any university or college offering accredited 
+post-graduate courses and degrees in these fields. Women of any 
+nationality pursuing a Ph.D./doctoral degree who demonstrate a superior 
+academic record in the field of aerospace-related sciences and 
+aerospace-related engineering are eligible. Please note that 
+post-doctoral research programs are not eligible for the Fellowship. 
+Applications for the 2011 Fellowships must be received or post-marked 
+by 15 November 2010 to be considered.
+
+http://www.zonta.org/WhatWeDo/InternationalPrograms
+/AmeliaEarhartFellowship.aspx
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+JOB OPPORTUNITY
+
+The Space Science Office of the Marshall Space Flight Center announces  
+a civil service position in planetary science. The successful  
+candidate will fill a project scientist position in the Lunar Mapping  
+and Modeling Project, and maintain a strong independent scientific  
+research program as part of the MSFC Planetary Science group:
+
+http://planetary.msfc.nasa.gov/ 
+
+If you have any questions about the position, please contact  Barbara 
+Cohen (Barbara.A.Cohen@nasa.gov). Candidates must apply by  
+August 24th through USAJobs.com, Job Announcement Number MS10D0108.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 18-22, 2011
+IAG/AIG Regional Conference on Geomorphology
+http://www.geomorph.org/main.html
+Addis Ababa, Ethiopia
+
+October 9-12, 2011
+Geological Society of America Annual Meeting
+http://www.geosociety.org/meetings/2011/
+Minneapolis, MN
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

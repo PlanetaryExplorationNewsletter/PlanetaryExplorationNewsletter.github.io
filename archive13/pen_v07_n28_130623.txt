@@ -1,0 +1,474 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 28 (June 23, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Sudbury Impact Structure Short Course and Field School
+2. Postdoctoral Researcher in Planetary Mapping and Impact Studies: 
+   Lunar and Planetary Institute
+3. 48th ESLAB Symposium: New insights into Volcanism across the Solar 
+   System
+4. [NASA] PDS Lunar Reconnaissance Orbiter Data Release 14
+5. High Priority Investigations for Venus Exploration Special Session 
+   at Fall AGU Meeting
+6. NASA Postdoctoral Fellowships
+7. Virtual Workshop on Proposal Writing
+8. Draft NASA Reauthorization Bill Cancels ARM, Restores Education, 
+   Calls for Increased Planetary Funding
+9. AGU Fall Meeting 2013 Special Session P018: Mercury after Two 
+   Years of MESSENGER Orbital Observations
+10. Inaugural COSPAR Symposium, Bangkok, Thailand
+11. ESA Science Mission Extension Notification
+12. Call for Papers: NETSPACE Workshop
+13. Postdoctoral Researcher, Planetary Science
+14. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SUDBURY IMPACT STRUCTURE SHORT COURSE AND FIELD SCHOOL
+
+The Canadian Lunar Research Network and the LPI-JSC Center for Lunar 
+Science and Exploration, with support from the NASA Lunar Science 
+Institute, has organized a second edition of the Short Course and 
+Field School at the Sudbury Impact Structure. The course will be held 
+September 29 through October 4, 2013. Students who wish to apply can 
+find details posted at:  
+
+http://www.lpi.usra.edu/nlsi/sudbury/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAPPING AND IMPACT STUDIES: LUNAR 
+AND PLANETARY INSTITUTE
+
+Universities Space Research Association (USRA) invites applications for 
+a postdoctoral fellowship in planetary science in Houston, Texas. The 
+candidate will work with Dr. Paul Schenk, investigating the impact 
+crater shapes and distributions on icy satellites, including Enceladus, 
+using the entire Cassini image library, and supplementary stereo and 
+shape-from-shading techniques (although experience in these tools is 
+not required). The candidate will also be expected to develop their 
+own research projects using this data.
+
+Candidate must have a recent Ph.D. in geology or geophysics and have a 
+strong background in remote sensing/image processing of spacecraft 
+data, and preferably experience in geophysical or mapping 
+investigations. The position is generally for two years, with a 
+possible extension to three years. Apply to the posting at: 
+
+https://usracareers.silkroad.com/ 
+
+Include a letter of interest, a curriculum vita with a list of 
+publications, a brief statement of research interests, and a list of 
+three references. Review of candidates begins August 1, 2013, with a 
+hiring decision, as soon as possible thereafter. Information on 
+current research and facilities at the LPI is found on our website: 
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+48TH ESLAB SYMPOSIUM: NEW INSIGHTS INTO VOLCANISM ACROSS THE SOLAR 
+SYSTEM
+
+16-21 June 2014, ESTEC, Noordwijk, Netherlands
+
+Volcanism is a common surface-forming and modifying process and played 
+a key role in shaping the early environment of many Solar System 
+bodies. Volcanism provides important information about the nature, 
+volatile content and state of planetary interiors. Recent results from 
+spacecraft observations of the Moon and Mercury have provided new 
+insights into the nature and variability of volcanism in the Solar 
+System. 
+
+The aim of the 2014 ESLAB symposium is to review the different 
+mechanisms, sources and surface expressions of volcanism, both effusive 
+and explosive. Special, but not exclusive, emphasis will be put on 
+moons and Mercury, target bodies of future ESA missions (BepiColombo 
+to Mercury and the Jupiter icy moon explorer mission, JUICE). Other 
+themes of the symposium will focus on the understanding of the role and 
+impact of volcanism in the early history of terrestrial planets 
+(including planet Earth) and possible processes on Mars (studied by 
+ESA's ExoMars Trace Gas Orbiter). By bringing all this information 
+together under this theme, we will be able to improve our current 
+understanding of the formation and evolution of our Solar System. 
+
+Contact: Sebastien Besse, sbesse@rssd.esa.int
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS LUNAR RECONNAISSANCE ORBITER DATA RELEASE 14
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:
+CRaTER, DLRE, LAMP, LEND, LOLA, LROC and RSS. In general, LRO Release 
+14 includes data collected between Dec 15, 2012 and Mar 14, 2013. 
+There will be no Mini-RF or SPICE data with this release. To access the 
+above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20130617.html
+ 
+PDS offers two services for searching the LRO archives--
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector): 
+
+http://ode.rsl.wustl.edu/moon/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+HIGH PRIORITY INVESTIGATIONS FOR VENUS EXPLORATION SPECIAL SESSION AT 
+FALL AGU MEETING
+
+2014 will mark 25 years since NASA last launched a mission to Venus. 
+The next call for NASA Discovery Mission proposals is quickly 
+approaching and Venus is well suited as a target for this class of 
+Mission. This special session will frame the current state of Venus 
+science in terms of outstanding questions and how they can be addressed 
+through future missions. Submissions should summarize new results, the 
+state of knowledge, and investigations that address areas such as:
+origin and evolution of the Venus interior; surface processes including 
+volcanism, tectonics, and impact cratering; and processes governing the 
+atmosphere’s thermal structure, composition, and dynamics.
+Contributions should address the themes of the Planetary Science 
+Decadal Survey.
+ 
+Conveners: Ellen Stofan, Robbie Herrick, Lori Glaze, David Crisp
+ 
+Abstract Deadline - Tuesday, 6 August 2013 at:
+
+http://fallmeeting.agu.org/2013/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site. An example of one of the research opportunities in 
+planetary science is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18314
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+ 
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter is available here.
+ 
+For further information and to apply, visit:
+ 
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+VIRTUAL WORKSHOP ON PROPOSAL WRITING
+
+The Next Generation Lunar Scientists and Engineers group is hosting a 
+Virtual Workshop on Proposal Writing on Wednesday, June 26 from 12:30-
+4:30 pm ET. The workshop is open to all, although it will be of most 
+use to graduate students, postdocs, and early career scientists.  
+Participants from all research areas are welcome. Topics will include: 
+grant opportunities, program types, practical tips for writing 
+proposals, and the peer review process. 
+ 
+The workshop will be led by Dr. Curt Niebur and Dr. Michael New from 
+the Planetary Science Division at NASA HQ. Dr. Niebur is the Lead 
+Program Scientist for the New Frontiers Program, the Program Scientist 
+for Cassini, New Horizons, Juno, and Jupiter Icy Moons Explorer, as 
+well as the Discipline Scientist for Instrument Concepts for Europa 
+Exploration. Dr. New is the Astrobiology Discipline Scientist and 
+Lead Discovery Program Scientist.
+ 
+Please register at: 
+
+http://www.surveymonkey.com/s/397XL6H
+ 
+To participate on June 26, visit this url and enter as a guest:
+
+http://connect.arc.nasa.gov/nextgen/
+ 
+Post-Workshop Social Hour-
+A post-workshop virtual social hour will also take place on June 26 
+from 8-9 pm ET. Join workshop participants and established members of 
+the lunar and planetary science communities for informal conversation 
+and camaraderie. 
+ 
+http://connect.arc.nasa.gov/social_nextgen/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+DRAFT NASA REAUTHORIZATION BILL CANCELS ARM, RESTORES EDUCATION, 
+CALLS FOR INCREASED PLANETARY FUNDING
+
+The House Science Committee has released draft legislation to 
+reauthorize programs at NASA for two years. It calls for increasing 
+the Planetary budget to its FY12 level of $1.5B in FY14 and FY15, bans 
+funding development of an asteroid retrieval mission, and orders 
+continuation of STEM education and outreach activities within each of 
+the NASA directorates. The bill would ban the implementation of 
+education reorganization proposed by the President for FY14. The draft 
+bill can be accessed at:
+
+http://science.house.gov/sites/republicans.science.house.gov/files
+/documents/2013%2006%2012%20NASA%20Auth%20Discussion%20Draft.pdf
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU FALL MEETING 2013 SPECIAL SESSION P018: MERCURY AFTER TWO YEARS OF 
+MESSENGER ORBITAL OBSERVATIONS
+
+We are pleased to announce a special session on Mercury at the 2013 AGU 
+Fall Meeting in San Francisco, CA, December 9–13, 2013.
+
+After two full years of orbital observations of Mercury, NASA's 
+MESSENGER spacecraft began its Second Extended Mission in March. The 
+Second Extended Mission is addressing Mercury's surprising volatile 
+inventory, exploring newly revealed aspects of the planet's geological 
+evolution, and witnessing the dynamic response of Mercury's exosphere 
+and magnetosphere to the peak and early waning phases of solar 
+activity. This session will highlight the latest results on Mercury 
+from MESSENGER orbital observations and welcomes contributed papers on 
+future mission opportunities, complementary ground-based observations,
+laboratory measurements, and theoretical developments relevant to 
+planetary processes at Mercury.
+
+Please consider submitting an abstract for this session. For more 
+information, visit: 
+
+https://fallmeeting.agu.org/2013/scientific-program/session-search/
+sessions/p018-mercury-after-two-years-of-messenger-orbital-
+observations/
+
+The submission deadline is August 6, 2013.
+
+Conveners:
+Paul Byrne (Carnegie Institution of Washington)
+Sean Solomon (Columbia University)
+Larry Nittler (Carnegie Institution of Washington)
+
+We look forward to seeing you in San Francisco.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+INAUGURAL COSPAR SYMPOSIUM, BANGKOK, THAILAND
+
+The Committee on Space Research (COSPAR) will hold its inaugural COSPAR 
+Symposium in Bangkok, Thailand, from 11 to 15 November, 2013.
+
+The abstract submission deadline has been extended until June 30th, 
+2013.
+
+The theme of the symposium will be "Planetary Systems of our Sun and 
+other Stars, and the Future of Space Astronomy."  We will have seven 
+sessions:
+
+1. Comparative Planetology
+2. Future of Space Astronomy
+3. Space Observations and Advanced Retrieval Techniques
+4. Astrobiology: Origin and Evolution of Habitable Bodies and Life
+5. Exoplanets and Solar Systems: the "Beginnings"
+6. Ionosphere, Magnetosphere and Space Physics
+7. Citizen Science, Outreach, Education, Amateur Astronomy, Scientific 
+   Ballooning
+
+Please find out more about the meeting here:
+
+http://cospar2013.gistda.or.th/
+
+And submit abstracts:
+
+http://cospar2013.gistda.or.th/content2.php?slug=abstract
+
+The meeting's Local Organizers are Geo-Informatics and Space Technology 
+Development Agency (GISTDA) and the National Astronomical Research 
+Institute of Thailand (NARIT).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ESA SCIENCE MISSION EXTENSION NOTIFICATION
+
+ESA has extended the productive lives of 10 of its operating space 
+science missions. This decision secures funding for ESA's science 
+missions until at least the end of 2014, and provides a framework for 
+planning until end of 2016.
+
+For more information, please see:
+
+http://sci.esa.int/jump.cfm?oid=51944
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CALL FOR PAPERS: NETSPACE WORKSHOP
+
+Space data volume is increasing as new missions generating scientific 
+data are launched. A NETSPACE (NETworking technologies for efficient 
+SPACE data dissemination and exploitation) workshop will be held in 
+Athens, Greece from 18-19 February, 2014, to discuss networking 
+technologies supporting the efficient dissemination of space data. The 
+workshop is organized in the framework of the FP7 funded Collaborative 
+Project "Space Data Routers for Exploiting Space Data". The URL of the 
+workshop and for abstract submission is: 
+
+http://www.space.noa.gr/netspace/
+
+[Edited for content.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOCTORAL RESEARCHER, PLANETARY SCIENCE
+
+The Earth and Planetary Sciences Department at the University of 
+Tennessee invites applications for a postdoctoral research position in 
+planetary remote sensing. Research will focus on thermal modeling of 
+asteroid regoliths in support of the NASA-funded OSIRIS-REx sample 
+return mission. Specific tasks will include assisting in the 
+development and testing of an asteroid thermal emission model to be used 
+by the mission as well as analysis of existing thermal data of analog 
+asteroids. Experience with numerical modeling is required.  Candidates 
+must have a PhD in the physical sciences (planetary science, geology, 
+astronomy, physics, or related fields).
+
+The initial appointment is for one year, but the appointment is 
+renewable for an additional year.  Review of applications will begin 
+July 1, 2013, and the position will remain open until filled. The 
+expected start date is October 1, 2013.
+
+Applicants should submit (electronic submission is preferred) resume, 
+statement of research experience and interests, and letters of 
+recommendation from three references to Prof. Joshua Emery 
+(jemery2@utk.edu), Department of Earth and Planetary Sciences, 
+University of Tennessee, Knoxville, TN 37996. UTK is a EEO/AA/Title 
+IX/Section 504/ADA employer.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 1-2, 2013
+Comet ISON Observer's Workshop
+https://dnnpro.outer.jhuapl.edu/isonworkshop/Home.aspx
+Laurel, MD
+
+September 2-5, 2013
+Exoplanets and Brown Dwarfs: Mind the Gap   
+http://www.star.herts.ac.uk/mindthegap/
+Hatfield, UK
+
+September 9-21, 2013
+The 2013 VLTI School: High Angular Resolution for Stellar 
+Astrophysics
+http://vltischool.sciencesconf.org/
+Bercelonnette, France
+
+September 23-26, 2013
+Polarimetry of Planetary Systems
+http://www.polarisation.eu/index.php/meetings/polarimetry-planetary-
+systems
+Florence, Italy
+
+September 23-27, 2013
+Improving the Performances of Current Optical Interferometers & 
+Future Designs
+http://www.obs-hp.fr/~hlecorol/workshopOHP/
+Haute-Provence Observatory, France
+
+December 9-13, 2013
+ASTROBIO 2013: An International Workshop on Astrobiology
+http://astrobiology2.arc.nasa.gov/events/astrobio-2013-an-
+international-workshop-on-astrobiology/
+Santiago, Chile
+
+January 5-9, 2014
+223rd Meeting of the American Astronomical Society
+https://aas.org/meetings/223rd-aas-meeting-washington-dc
+Washington, DC
+
+June 15-19, 2014
+11th International GeoRaman Conference
+http://georaman2014.wustl.edu/
+St. Louis, MO 
+
+June 16-21, 2014
+48th ESLAB Symposium: New Insights Into Volcanism Across the Solar 
+System
+Contact: Sebastien Besse, sbesse@rssd.esa.int
+Noordwijk, The Netherlands
+
+October 19-22, 2014
+GSA Annual Meeting
+http://www.geosociety.org/meetings/2014/
+Vancouver, Canada
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu). All Editor time is volunteered.                                              
+***********************************************************************

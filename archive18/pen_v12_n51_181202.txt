@@ -1,0 +1,364 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 51 (December 2, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Position in Planetary Science at MIT 
+2. EGU 2019 Session on Mars Sample Return
+3. PDS/IPDA Booth at AGU - Planetary Data Discovery Challenge/
+   Tutorials
+4. SSERVI-Sponsored 'Carbon in the Solar System' DPS Panel Discussion 
+   Now Online
+5. AOGS 2019 Session Announcement
+6. LPSC Poster Session: Techniques in Collaboration and Communication 
+   in Research
+7. MAPS Special Issue in Honor of Dr. Christine Floss
+8. Forum for New Leaders in Space Science 2019
+9. Mars Reconnaissance Orbiter Data Release 47
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL POSITION IN PLANETARY SCIENCE AT MIT  
+ 
+The MIT Department of Earth, Atmospheric, and Planetary Sciences
+invites applications for a Postdoctoral Scholar to join Professor de
+Kleer's planetary astronomy group. The de Kleer group utilizes
+cutting-edge astronomical facilities at optical, infrared, and radio
+wavelengths to study a diverse array of Solar System topics including
+planetary and satellite atmospheres, satellite surfaces and
+geophysics, and small bodies. Applicants are sought from a broad range
+of research areas within astronomy and planetary science that overlap
+with or complement ongoing work in the group, including both Solar
+System and extrasolar planets. Observational experience is beneficial
+but not required. The successful candidate will have opportunities to
+mentor graduate and undergraduate students, and will benefit from the
+dynamic and interdisciplinary environment within the EAPS department
+and across the Institute.
+
+The appointment starts on or after July 2019 and is initially for one
+year, with renewal for up to two additional years. Consideration of
+applications will begin on January 10, 2019, and applications will be
+considered until the position is filled. Please see the full posting
+for more information and for instructions on submitting applications:
+
+https://academicjobsonline.org/ajo/jobs/12702
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EGU 2019 SESSION ON MARS SAMPLE RETURN
+
+Abstract deadline: 10 January 2019
+EGU Roland Schlich travel support deadline: 1 December 2018
+
+We would like to draw your attention to our session,
+PS1.5/BG7.3/GMPV7.14 Mars Sample Return - A Community Effort for a
+Receiving and Curation Facility
+
+NASA is planning to launch Mars 2020, the first of an ambitious
+campaign to sample, cache, and return up to 500g of Martian material.
+An essential component of the campaign is a receiving and curation
+facility that will enable: 1) a broad range of sample processing and
+analysis, 2) dynamic space modifications if required, and 3)
+preservation of samples and protection of the public. Interacting with
+an array of communities is paramount to define what is feasible and
+advisable.
+
+We welcome contributions from all of Earth and Planetary science,
+curation, and any discipline concerned with handling potentially
+hazardous materials. Reflections on the legal and ethical aspects of
+dealing with the rise of the private sector as a novel actor in Mars
+exploration are also encouraged.
+
+To submit an abstract, go to:
+
+https://meetingorganizer.copernicus.org/EGU2019/session/31960
+
+Hope to see you in Vienna! 
+Aurore Hutzler, Andrea D. Harrington, Betsy Pugel, Elliot Sefton-Nash
+and Caroline Smith
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PDS/IPDA BOOTH AT AGU - PLANETARY DATA DISCOVERY CHALLENGE/TUTORIALS
+
+The Planetary Data System (PDS), and International Planetary Data
+Alliance (IPDA) will have a booth (#1447) at the 2018 AGU meeting to
+provide support to the scientific community. Booth visitors will be
+invited to take the "Planetary Data Discovery Challenge", to find a
+NASA planetary data set of interest in the PDS archive. In addition,
+there will be scheduled and walk-in training sessions for both
+individuals and small groups (up to 4 persons).
+
+Specific training time slots may be reserved at:
+
+http://pds-training.psi.edu
+
+Available topics: 
+
+- Finding PDS Data 
+- General training on PDS4 (either for missions or R&A archives) 
+- Data Management Plans for Proposers 
+- Designing Mission or Project PDS4 Dictionaries 
+- Archiving your data: Bring your data and we will get you started.
+- Using PDS4 data: How is it different and tools to read the PDS4 
+  labels
+- PDS4 Tool Training
+
+Contact: Joe Mafi, jmafi@igpp.ucla.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SSERVI-SPONSORED 'CARBON IN THE SOLAR SYSTEM' DPS PANEL DISCUSSION NOW
+ONLINE
+
+Next workshop at AGU, Special Session P13A Monday Dec 10, 1:40-3:40PM
+
+What was the initial composition of our solar nebula and how
+have processes experienced by planetesimals and larger bodies led to
+the carbon observed in the Solar System today? SSERVI workshops on
+these topics aim to stimulate collaborative research on the origin and
+evolution of organics and volatiles in our Solar System by joining
+together laboratory, observational, and theoretical modeling
+researchers. SSERVI TREX team Principal Investigator, Amanda Hendrix,
+and Deputy PI Faith Vilas, have organized three workshops on Carbon in
+the Solar System. The next one occurs at the AGU meeting, and we
+welcome your participation. Add your name to our mailing list for
+future activities by contacting SSERVI Chief Scientist, Yvonne
+Pendleton (Yvonne.pendleton@nasa.gov).
+
+AGU session topics: interstellar/solar nebula organics, asteroids,
+Mars and Mercury with panel discussion on inter-comparisons relevant
+to the origin and evolution of carbon.
+
+Reference:
+
+1. AGU meeting P13A: Monday Dec 10, 1:40 - 3:40PM "Carbon Across the 
+   Solar System" panel discussion: 
+   
+https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/60125
+
+2. Carbon Workshop Presentations (virtual, April 2018):
+
+https://carbon-workshop.arc.nasa.gov/program.html
+
+3. Carbon Panel Discussion Presentations (held in-person at DPS, 
+   October 2018):
+
+https://carbon-workshop.arc.nasa.gov/dps2018.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS 2019 SESSION ANNOUNCEMENT
+
+Dear colleagues,
+ 
+We are pleased to announce a session for the Asia Oceania Geosciences
+Society to be held in Singapore from July 28 - August 2, 2019.
+ 
+http://www.asiaoceania.org/aogs2019/public.asp?page=home.htm
+ 
+Abstract deadline: 12 February 2019
+ 
+PS04-SE: Volcanism and Tectonism Across the Solar System
+ 
+The surfaces of terrestrial planets and their satellites have been
+largely shaped through volcanic and tectonic processes. Extreme
+conditions on outer solar system bodies, such as the Jovian and
+Saturnian satellites, result in different types of volcanism and
+tectonism. Fracturing and faulting processes mainly affect minor
+bodies such as asteroids and small moons, where volcanism and
+tectonism have not played an important role. We invite contributions
+that cover a wide range of topics including geomorphology and
+composition of volcanic deposits, edifices, plumes, volcano-induced
+deformation and edifice growth and collapse to tectonic structures,
+faulting and fracturing processes, crustal stress and strain analysis,
+cryovolcanism, and any study related to planetary endogenic processes.
+Studies that relay interactions between planetary interiors, surfaces,
+and atmospheres are welcomed. Comparative studies of volcanic or
+tectonic systems on Earth with a strong remote sensing component are
+encouraged. 
+
+Hope to see you there!
+ 
+Dr Anezina Solomonidou 
+Dr Rosaly Lopes
+Dr Florian M. Schwandner
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LPSC POSTER SESSION: TECHNIQUES IN COLLABORATION AND COMMUNICATION IN
+RESEARCH
+
+We invite colleagues to submit abstracts to a special poster session
+at LPSC on effective techniques in collaboration and communication in
+research and exploration. The aim of this session is share ideas on
+methodologies and tools that you use to make communication and
+collaboration among colleagues more effective, including techniques
+that leverage multiple researchers to produce a science product or
+enhance the robustness of a scientific result. The goal is to explore
+how we, as a community, can learn to work together more efficiently,
+better leverage the different skillsets and areas of expertise that
+individuals can bring to a project, and develop effective
+collaborations between institutions and groups. Example topics include
+how to: Share research tasks, writing, and credit within a research
+group; Effectively work together as part of a mission team; Foster
+collaboration between separate research groups or institutions; Write
+and communicate with remote collaborators across time zones; Use
+collaborative analysis or laboratory techniques to enhance science
+output
+
+To submit to this session, please indicate the Other category and
+include "collaboration" as the description.
+
+Jamie Molaro & Alex Patthoff (contact: jmolaro@psi.edu)
+ 
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MAPS SPECIAL ISSUE IN HONOR OF DR. CHRISTINE FLOSS
+
+Dear Colleagues,
+
+We would like to remind you that the submission deadline for the
+Meteoritics & Planetary Science (MAPS) Special Issue in honor of Dr.
+Christine Floss is fast approaching (December 31, 2018). Manuscripts
+that focus on current and critical issues related to "understanding
+our solar system history through In-situ micro- and nano-analysis of
+extraterrestrial materials" will be considered for this Special Issue.
+Please consider submitting a manuscript for the special issue.
+
+Additional details about the submission preparation and submission can
+be found at: 
+
+http://home.dtm.ciw.edu/users/nittler/flossmaps.html 
+
+Don't hesitate to contact us if you have any questions.
+
+Best,
+Pierre Haenecour
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FORUM FOR NEW LEADERS IN SPACE SCIENCE 2019
+
+The National Space Science Center of the Chinese Academy of Sciences
+and the Space Studies Board of U.S. National Academies of Sciences,
+Engineering, and Medicine to invite applications to participate in the
+9th and 10th Forums for New Leaders in Space Science. The Forums,
+initiated in 2014, are designed to provide opportunities for a highly
+select group of young space and Earth scientists to discuss their
+research activities in an intimate and collegial environment. The 9th
+and 10th Forums will be devoted to Earth observation from space and
+planetary science (i.e., studies of the solar system's planets,
+satellites, and minor bodies) and will be held on 15-16 May 2019 (in
+Beijing, China) and 28-29 October 2019 (in Washington, DC). 
+Additional details and application information available at:
+
+http://sites.nationalacademies.org/SSB/SSB_086017 
+
+Application deadline 31 January 2019. 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 47
+
+The Planetary Data System (PDS) is pleased to announce a new delivery of
+Mars Reconnaissance Orbiter (MRO) data for the following instruments:
+
+CRISM
+CTX
+MARCI
+MCS
+RSS
+SHARAD
+SPICE
+
+New HiRISE data will be available soon, though HiRISE data for this period
+was previously released. No more derived gravity data will be added to the
+archive.
+
+In general, MRO Release 47 includes data collected from February 9, 2018, 
+to May 8, 2018.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181130.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 4-8, 2019
+XV Congresso Nazionale di Scienze Planetarie
+http://www.iaps.inaf.it/attivita/convegni/planetologia/
+Florence, Italia
+
+June 4-7, 2019
+The Main Belt: A Gateway to the Formation and Early Evolution of the Solar System
+http://www.iaps.inaf.it/sz/mainbelt2019/
+Villasimius, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

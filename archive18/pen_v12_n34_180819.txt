@@ -1,0 +1,375 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 34 (August 19, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mars Exploration Science Monthly Newsletter for August 2018
+2. Post-Doctoral Position in Isotope Cosmochemistry and Planetary 
+   Science
+3. Postdoctoral Position Studying Martian Dust Devils
+4. OPAG Update
+5. LSST and the Solar System Workshop
+6. AGU Late-Breaking Session on the Global Dust Storm of 2018
+7. Science with HabEx: UV to Near-Infrared Space Astronomy in the 
+   2030's
+8. [NASA] NASA Seeks Public Policy Expert(s)
+9. [NASA] ROSES-18 Amendment 22: C.14 PSTAR Not Solicited This Year
+10. [NASA] PDS Mars Atmosphere and Volatile Evolution Data Release 14
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR AUGUST 2018
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the August 2018
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POST-DOCTORAL POSITION IN ISOTOPE COSMOCHEMISTRY AND PLANETARY SCIENCE
+
+The School of Earth and Space Exploration (SESE) at Arizona State
+University (ASU) invites applications for a Postdoctoral Scholar in
+Isotope Cosmochemistry and Planetary Science.
+
+The NSF supported National SIMS Facility at ASU has an opening for a
+prestigious Postdoctoral Scholar position. The NanoSIMS laboratory,
+part of the ASU-SIMS facility, is used by a wide range of users in
+cosmochemistry, geology and geochemistry, microbiology and engineering.
+We are looking for candidates who aim to develop NanoSIMS methodologies
+that can advance the analytical capabilities of the instrument.
+
+Early expressions of interest and inquiries can be sent to
+mbose2@asu.edu. Complete applications will be reviewed on 15th
+September and will continue until the position is filled. Additional
+information about this position is located at: 
+
+https://bit.ly/2MkJjzz
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL POSITION STUDYING MARTIAN DUST DEVILS
+
+The Jet Propulsion Laboratory, California Institute of Technology
+invites applications for a postdoctoral research position in the
+Geophysics and Planetary Geosciences group, which is in the Planetary
+Sciences Section within the Science Division. This project focuses on
+changes in dust devil tracks over time in order to measure dust
+settling timescales, amounts, and rates on Mars. In addition, other
+projects of the candidate's choosing are also possible, for example
+involving geomorphology and/or active processes (aeolian, impacts,
+mass-wasting, etc.) on planetary bodies, especially Mars. Dr. Ingrid
+Daubar will serve as JPL postdoctoral advisor to the selected
+candidate.
+
+Candidates should have a recent Ph.D. (within 5 years) in Planetary
+Science, Geology, Astronomy, Physics, Remote Sensing, or a related
+field. Experience with remote sensing data analysis, Geographical
+Information Systems (e.g. ArcGIS), and orbital data, including HiRISE
+and CRISM, is highly desirable. Diverse and enthusiastic candidates
+with demonstrated collaboration and communication skills encouraged to
+apply.
+
+Potential applicants are welcome to contact Dr. Ingrid Daubar to
+discuss the position. More information here:
+
+https://postdocs-jpl.icims.com/jobs/9754/jpl-postdoctoral-position-
+studying-martian-dust-devils/job
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPAG UPDATE
+
+The next Outer Planets Assessment Group meeting will be September
+11-12, 2018 at the Langham Huntington in Pasadena. In addition to the
+usual mission, study, and workshop updates, this meeting will include
+two special sessions: Planetary protection of Icy Moons, and the new
+Europa Lander concept.
+
+Full agenda and meeting registration are here:
+
+https://www.lpi.usra.edu/opag/
+
+Webex instructions will be posted as well when available.
+
+If you wish to present a Technology poster at OPAG and/or if you are a
+student awardee, please send the title and authors to Pat Beauchamp,
+pbeaucha@jpl.nasa.gov.
+
+An updated version of the OPAG goals document will be posted before the
+meeting.  
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LSST AND THE SOLAR SYSTEM WORKSHOP
+
+October 24, 2018 4:30-6:00 pm 50th DPS meeting, Knoxville, TN
+
+Over its 10 year lifespan, the Large Synoptic Survey Telescope (LSST)
+will catalog >5 million Main Belt asteroids, ~300,000 Jupiter Trojans,
+>100,000 NEOs, >40,000 KBOs, tens of interstellar objects, and >10,000
+comets. Many of these objects will receive hundreds of observations in
+multiple bandpasses. The LSST Solar System Science Collaboration (SSSC)
+is preparing methods and tools to analyze this data and understand
+optimum survey strategies for discovering moving objects throughout the
+Solar System.
+
+This workshop is the annual meeting of the LSST SSSC and is open to
+everyone. We will provide updates on current and future activities
+within the SSSC. The emphasis will be on details relevant to Solar
+System science topics (not general LSST background), and discussions
+and presentations will focus on the development of the LSST Moving
+Object Processing System (MOPS), the SSSC's feedback/input on upcoming
+LSST survey cadence decisions, and future community follow-up
+opportunities. There will be time set aside for open discussion for
+both members of the SSSC and the broader planetary community.
+
+Contact organizers Meg Schwamb (Gemini Observatory,
+mschwamb.astro@gmail.com) and David Trilling (NAU,
+David.Trilling@nau.edu) with any questions.
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU LATE-BREAKING SESSION ON THE GLOBAL DUST STORM OF 2018
+
+Conveners: Richard Zurek and Leslie Tamppari (JPL-Caltech)
+
+Consider submitting an abstract to the new, late-breaking session
+covering the large martian global dust storm which began in June 2018! 
+Extended abstract deadline is 15 September 2018. Even if you have
+already submitted an abstract to the Fall Meeting, you may still submit
+a second abstract to this session. For more information, please visit
+the AGU Fall Meeting website at:
+
+https://fallmeeting.agu.org/2018/abstract-submissions/
+
+On June 1, a local dust storm moved out of the north circumpolar jet
+stream in the martian atmosphere, expanding and triggering new
+dust-raising centers. By late June, it had become a planet-encircling
+dust event (PEDE). This PEDE was the second earliest such event. These
+events are the major component of interannual-to-decadal variability
+and pose a challenge to solar powered, surface-based flight systems,
+namely the Opportunity rover and possibly the upcoming InSight lander.
+We solicit observational and modeling presentations related to this
+year's PEDE, its onset and decay phase, and its context within the
+history of such events, including data acquired by observers from the
+various Mars flight missions and from Earth-based observers.
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SCIENCE WITH HABEX: UV TO NEAR-INFRARED SPACE ASTRONOMY IN THE 2030'S
+
+October 15-16, 2018 
+Flatiron Institute, NYC 
+Deadline for abstracts: Sept. 7
+Deadline for registration: Oct. 1
+
+https://www.simonsfoundation.org/event/the-habitable-exoplanet-
+observatory-habex-community-science-meeting/
+
+The Habitable Exoplanet Observatory (HabEx) is one of four concepts
+currently under study by NASA in preparation for the 2020 Astrophysics
+Decadal Survey. HabEx is designed to be the next-generation great
+observatory that has the capability to address physics of the cosmos,
+cosmic origins, solar system, and exoplanet science. HabEx is a
+space-based 4-meter diameter telescope with ultraviolet, optical, and
+near-infrared imaging and spectroscopy capabilities, and at least 50%
+of the primary 5-year mission will be dedicated to community
+involvement through a competed and funded Guest Observer (GO) program.
+
+The purpose of this meeting is to invite members of the community to
+present scientific investigations and observational programs that: 
+* Will be important and relevant in the 2030's. 
+* Can be specifically conducted - or could benefit from synergistic 
+  observations - with HabEx.
+
+To apply to give a presentation, abstract submissions are due by
+September 7th. The registration deadline to attend the meeting is
+October 1st.
+
+More information on HabEx can be found on the mission website and in
+the interim report: 
+
+https://www.jpl.nasa.gov/habex/
+
+https://www.jpl.nasa.gov/habex/pdf/HabEx_Interim_Report.pdf
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] NASA SEEKS PUBLIC POLICY EXPERT(S)
+
+NASA's Science Mission Directorate is looking for one or more public
+policy experts to join our Strategic Integration and Management
+Division, located at NASA Headquarters in Washington, DC.
+
+The individual(s) selected would join a 7-person team focused on
+providing policy support to SMD's over 90 missions that span
+Astrophysics, Earth Science, Heliophysics, Planetary Science, and
+various reimbursable projects for other agencies. The policy team
+manages SMD's relations with external groups, including Congress, the
+Office of Management and Budget, the Office of Science and Technology
+Policy, and external advisory committees and boards. The policy branch
+also supports the SMD Associate Administrator by providing integrated
+guidance, strategy, and focused advocacy for NASA's science program.
+
+Below are the links to the Program Planning Specialist (Policy Analyst)
+GS-12/13 positions. One announcement is open to all US citizens and US
+nationals:
+
+https://www.usajobs.gov/GetJob/ViewDetails/507856200
+
+and one announcement is open for candidates with special status based
+on their current or past government service:
+
+https://www.usajobs.gov/GetJob/ViewDetails/507855700
+
+Both close on August 24, 2018.
+
+Please consider applying to one or both of these announcements (based
+on your eligibility), or forwarding the position information to others
+who you think might be interested.
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ROSES-18 AMENDMENT 22: C.14 PSTAR NOT SOLICITED THIS YEAR
+ 
+ROSES-18 Amendment 22: Planetary Science and Technology Through Analog
+Research, program element C.14 of ROSES-2018, will not be solicited
+this year.
+
+The Planetary Science and Technology through Analog Research (PSTAR)
+program solicits proposals for investigations focused on exploring the
+relevant environments on Earth in order to develop a sound technical
+and scientific basis to conduct planetary research on other Solar
+System bodies.
+
+It has been decided not to solicit PSTAR in ROSES-18 since the
+Planetary Science division does not foresee having the budget to fund
+new awards along with existing commitments. It is anticipated that
+PSTAR will be solicited in ROSES-2019.
+
+Go to: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2018/
+
+Questions concerning this program element may be directed to
+sarah.noble-1@nasa.gov and mary.voytek-1@nasa.gov.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS Mars Atmosphere and Volatile Evolution Data Release 14
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 14:
+
+ANC (ancillary)
+EUV (Extreme Ultraviolet Monitor)
+LPW (Langmuir Probe and Waves)
+MAG (Magnetometer)
+NGIMS (Neutral Gas and Ion Mass Spectrometer)
+ROSE (Radio Occultation Science Experiment)
+SEP (Solar Energetic Particle)
+SPICE
+STATIC (Supra-Thermal and Thermal Ion Composition)
+SWEA (Solar Wind Electron Analyzer)
+SWIA (Solar Wind Ion Analyzer)
+
+ACCEL, IUVS, and KP data will soon be available.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180815.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 15-16, 2018
+Science with HabEx: UV to Near-Infrared Space Astronomy in the 2030's
+https://www.simonsfoundation.org/event/the-habitable-exoplanet-
+observatory-habex-community-science-meeting/
+New York, NY
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

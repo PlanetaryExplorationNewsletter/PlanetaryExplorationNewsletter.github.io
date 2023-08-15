@@ -1,0 +1,405 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 17 (April 13, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EDITORIAL - Who is Minding Planetary Research?
+2. NASA Lunar Science Forum 2013 (LSF2013): Second Announcement
+3. [NASA] PDS Releases 3 New Data Sets: Deep Impact at Comet Hartley 2
+4. [NASA] Biosignatures Investigator
+5. NASA Postdoctoral Fellowships
+6. Abstract Deadline Approaching for NLSI Workshop Without Walls: Lunar 
+   Volatiles
+7. [NASA] Intent to Release Solicitation on Instrument Technology 
+   Development in Support of the Europa Clipper Mission Concept
+8. [NASA] Planetary Instrument Concepts for the Advancement of Solar 
+   System Observations
+9. Planetary Atmospheres Researcher (GSFC/CRESST/University of 
+   Maryland)
+10. Dynamic Mars from Long-Term Observations
+11. The Pluto System on the Eve of Exploration by New Horizons: 
+    Perspectives and Predictions - Abstracts Due Monday
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL - WHO IS MINDING PLANETARY RESEARCH?
+
+On April 4, NASA Planetary Science Division Director Jim Green 
+addressed the Planetary Science Subcommittee about sequestration and
+rescission. I noted two statements repeatedly made: he did not see
+planetary research programs maintaining their budgets under rescission, 
+and $75M added by Congress for Europa in FY13 is "the law!" 
+
+House Appropriations staff say rescissions are to be applied "across 
+the board," constrained by NASA Administrative Provisions in the FY13 
+budget bill. A simple calculation: The annual PSD budget for the first 
+half of FY13 was $1.19B. Congress increased this to $1.415B for the 
+full year. To get back below $1.19B, possibly impacting research, 
+requires rescission >35%! This does not seem likely.
+
+$75M represents ~50% of the total budget for annually competed 
+planetary research programs in ROSES. Some core planetary research 
+programs still suffer from record low selection rates (primarily due to 
+unexplained budget cuts, not proposal pressure) and long delays in 
+awards.
+
+The Administration and both houses of Congress openly support the 
+planetary research programs, as demonstrated by proposed and 
+appropriated budgets. It is PSD management that undermines their 
+intent.  
+
+Stop treating planetary research as a slush fund.
+
+Mark V. Sykes
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA LUNAR SCIENCE FORUM 2013 (LSF2013): SECOND ANNOUNCEMENT
+
+***IMPORTANT CHANGE***
+
+LSF2013 will be a VIRTUAL conference with NO "in-person" component this 
+year!
+
+Due to the recent government restrictions on travel, The NASA Lunar 
+Science Institute will broadcast the annual NASA Lunar Science Forum 
+(LSF) as a virtual conference the week of July 15-19, 2013. The 
+conference will be broadcast between the hours of 9 a.m. - 3 p.m. PDT, 
+Monday-Friday, to accommodate a wide spread in time zones.
+
+The scientific program will feature sessions on in-depth scientific 
+results from the recent and pending missions, including: the Gravity 
+Recovery And Interior Laboratory (GRAIL), Acceleration, Reconnection, 
+Turbulence and Electrodynamics of the Moon's Interaction with the Sun 
+(ARTEMIS), and Lunar Atmosphere and Dust Environment Explorer (LADEE) 
+missions.  This year's conference will have unique features enabled by 
+virtual technology that will be described in later notices, along with 
+features of the LSF the community has appreciated in the past: the 
+annual Shoemaker Award Lecture (winner to be announced at the meeting), 
+the NASA Townhall, a virtual poster session, a virtual LunarGradCon 
+(for graduate students). 
+
+Abstracts deadline: Midnight PDT April 26, 2013  
+
+For more information about the format, abstract submission and 
+logistics, please visit:
+
+http://lunarscience.nasa.gov/LSF2013/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS RELEASES 3 NEW DATA SETS: DEEP IMPACT AT COMET HARTLEY 2
+
+The Small Bodies Node of the Planetary Data System is pleased to 
+announce the public release of three certified and archived data sets 
+from the Deep Impact extended mission to comet 103P/Hartley 2:
+
+http://pdssbn.astro.umd.edu/holdings
+/dif-c-hrii-3_4-epoxi-hartley2-v2.0/dataset.html
+
+DIF-C-HRII-3/4-EPOXI-HARTLEY2-V2.0 updates the V1.0 version of HRI IR
+Imaging of the comet, with significantly improved calibration.
+
+http://pdssbn.astro.umd.edu/holdings
+/dif-c-hriv-5-epoxi-hartley2-deconv-v1.0/dataset.html
+
+DIF-C-HRIV-5-EPOXI-HARTLEY2-DECONV-V1.0 presents deconvolved, high-
+resolution images of the nucleus of Hartley 2.
+
+http://pdssbn.astro.umd.edu/holdings
+/dif-c-mri-5-epoxi-hartley2-photom-v1.0/dataset.html
+
+DIF-C-MRI-5-EPOXI-HARTLEY2-PHOTOM-V1.0 contains clear-filter, CN, OH,
+C2 and dust-continuum photometry derived from the Medium Resolution
+Instrument visible CCD images acquired during the encounter with
+Hartley 2.
+
+These and all other Deep Impact primary and EPOXI extended mission data
+sets are available from the PDS Small Bodies Node:
+
+http://pdssbn.astro.umd.edu/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+ 
+[NASA] BIOSIGNATURES INVESTIGATOR
+
+NASA Ames Research Center in the San Francisco bay area is seeking a 
+Biosignatures Principal Investigator to join its Exobiology Branch. The 
+position is responsible for conducting microbiological and/or geologic 
+research to identify biosignatures that can reveal and characterize 
+past or present life in environments relevant to astrobiology, such as 
+Mars. A job announcement, required qualifications, and application 
+procedure are available at: 
+
+https://www.usajobs.gov/ 
+
+Search for announcement # AR13B0008.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ABSTRACT DEADLINE APPROACHING FOR NSLI WORKSHOP WITHOUT WALLS: LUNAR
+VOLATILES
+
+The NASA Lunar Science Institute announces a virtual meeting to present
+and discuss the latest research regarding volatiles on the Moon.
+
+Go to:
+
+http://lunarscience.nasa.gov/workshop/lunar-volatiles/
+
+Dates: Tuesday, May 21, 2013 ­ Thursday, May 23, 2013 (times TBD)
+Location: Online, virtual meeting using AdobeConnect
+Abstract Deadline: April 17, 2013 
+
+Abstract Submissions:
+After registering for the meeting, abstracts may be submitted by 
+logging in at the website above. Note: there is a 500-word limit.
+
+Program Committee:
+
+Rick Elphic
+Dana Hurley
+Georgiana Kramer
+Sarah Noble
+Yvonne Pendleton
+Carle Pieters
+Jerry Sanders
+Mike Wargo
+
+Contact:
+
+Ana Hurley, JHUAPL (dana.hurley@jhuapl.edu)
+Georgiana Kramer, LPI (kramer@lpi.usra.edu)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] INTENT TO RELEASE SOLICITATION ON INSTRUMENT TECHNOLOGY 
+DEVELOPMENT IN SUPPORT OF THE EUROPA CLIPPER MISSION CONCEPT
+
+NASA intends to release a call for instrument technology development 
+in support of the Europa Clipper mission concept entitled "Instrument 
+Concepts for Europa Exploration (ICEE)". The goal is to mature and 
+reduce the technical risk of instruments for the Europa Clipper mission 
+to the point where they may be proposed in response to a possible 
+future announcement of flight opportunity without additional extensive 
+technology development. 
+
+NASA plans to release the NRA no later than April 30; we anticipate 
+that proposals will be due 45 days later.
+
+The Europa Clipper strawman payload includes an Ice Penetrating Radar 
+(IPR), a Shortwave Infrared Spectrometer (SWIRS), a Topographic Imager 
+(TI), a mass spectrometer (MS), and a magnetometer. The IPR, SWIRS, TI, 
+and MS have been identified as needing significant early development to 
+enable them to operate in the Europan environment, and NASA plans to 
+target those instruments with this funding opportunity. While other 
+instruments may be proposed, selection preference will be given to 
+proposed instruments in these four categories. 
+
+Questions and comments should be addressed to:  
+
+Curt Niebur
+202-358-0390 
+curt.niebur@nasa.gov
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PLANETARY INSTRUMENT CONCEPTS FOR THE ADVANCEMENT OF SOLAR
+SYSTEM OBSERVATIONS
+
+Planetary Instrument Concepts for the Advancement of Solar System 
+Observations (PICASSO) program supports the development of 
+spacecraft-based instrument systems that show promise for use in future
+planetary missions. The goal of the program is to conduct planetary and 
+astrobiology science instrument feasibility studies, concept formation, 
+proof of concept instruments, and advanced component technology 
+development to the point where they may be proposed in response to 
+Appendix C.19 of ROSES. Therefore, the proposed instrument system or 
+advanced components must address specific scientific objectives of 
+likely future planetary science missions. The objective of the program 
+is to develop new technologies that significantly improve instrument 
+measurement capabilities for planetary science missions (such as 
+Discovery, New Frontiers, Mars Exploration, and other planetary 
+programs).
+
+Notices of Intent deadline: July 19, 2013
+Proposals deadline: September 13, 2013.
+
+Janice Buckner 
+202-358-0183 
+janice.l.buckner@nasa.gov
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY ATMOSPHERES RESEARCHER (GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+The NASA Goddard Space Flight Center's (GSFC) Planetary Environments
+Laboratory, in conjunction with the Center for Research and Exploration 
+in Space Science and Technology (CRESST), is soliciting applications 
+for a researcher in the field of Planetary Atmospheres to support Mars 
+upper atmosphere investigations with the MAVEN mission. Additional 
+details are available at:  
+
+http://www.astro.umd.edu/employment/
+
+Candidates should have a Ph.D. in a relevant discipline with a strong 
+and demonstrated interest in and understanding of upper atmospheric 
+physics. IDL skills and experience in acquisition and analysis of data 
+from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Monday, April 29, 2013 will receive full 
+consideration.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DYNAMIC MARS FROM LONG-TERM OBSERVATIONS
+
+We are well into the 2nd decade of continuous Mars observations that 
+began with MGS and continued with ODY, MEX, and MRO. Bridged to earlier 
+times by spacecraft observations from the 1960s onwards, and a 
+continuous telescopic campaign, our view of Mars is now one of a 
+planet on which surface and atmospheric changes occur at frequencies of 
+days, years, and decades, a testament to long-term monitoring that 
+continues to this day. At this time, it is appropriate that this 
+record, with implications for Martian geology, climate, atmospheric 
+dynamics, and other processes, be integrated into a journal special 
+section, published in either Icarus or JGR-Planets by January 2014.  
+
+To support a proposal to publication journal, please submit paper 
+titles, author lists, and interest/commitment level (definite, likely, 
+possible) for papers that:
+
+* Include surface, sub-surface, and atmosphere observations, or 
+model results, that are new and a unique outcome of the long-term 
+data acquisition provided by Mars spacecraft and telescopes
+
+* Highlight the long-term implications of processes that are observed 
+and ongoing now
+
+* Are not reviews of previous work, unless new conclusions are drawn
+
+By April 19, please send information to:
+
+Leslie.Tamppari@jpl.nasa.gov
+Nathan.Bridges@jhuapl.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+THE PLUTO SYSTEM ON THE EVE OF EXPLORATION BY NEW HORIZONS: 
+PERSPECTIVES AND PREDICTIONS - ABSTRACTS DUE MONDAY
+
+The April 15 deadline for abstracts to the conference, "The Pluto 
+System on the Eve of Exploration by New Horizons: Perspectives 
+and Predictions," is tomorrow. 
+
+The conference will be held 22-26 July at The Johns Hopkins University 
+Applied Physics Laboratory in Laurel, Maryland, USA. A special issue 
+of Icarus is planned to publish new results and prediction papers in 
+advance of the New Horizons flyby.
+
+Both registration and abstract submission are available for the Pluto 
+2013 conference at:  
+
+http://plutoscience.jhuapl.edu 
+
+Abstracts are solicited on all facets of the Pluto system - including 
+origins, interiors, surfaces, compositions, atmospheres, satellites, 
+plasma, and context in the Kuiper Belt. 
+
+Alan Stern (Program Committee Chair)
+Hal Weaver (Local Organizing Committee Chair)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 21-23, 2013
+NLSI Workshop Without Walls:  Lunar Volatiles (Part 1)
+http://lunarscience.nasa.gov/workshop/lunar-volatiles/
+ONLINE
+
+June 21-25, 2013
+Medium-Size Telescope Science Workshop
+http://mstw.csp.escience.cn/dct/page/1
+Kunming, China
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

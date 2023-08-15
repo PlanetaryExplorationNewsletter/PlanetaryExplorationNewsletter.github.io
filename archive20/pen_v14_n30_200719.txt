@@ -1,0 +1,455 @@
+**********************************************************************
+NETARY EXPLORATION NEWSLETTER
+Volume 14, Number 30 (July 19, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session P002: Aquaplanetology - Aqueous Environments and
+   Habitability in the Solar System
+2. AGU Session P008: Comparative Planetology - Large Planetesimals and 
+   Dwarf Planets Throughout the Solar System
+3. AGU Session P012: Enceladus - A Habitable World Beckons
+4. AGU Session P021: Machine Learning for Planetary Science
+5. AGU Session P022: Mars Climate and Even More Water - Late Hesperian 
+   to Amazonian Surface and Ground Water Features on Mars
+6. AGU Session P037: Small Bodies - Physical Properties and Regolith 
+   Behaviors Under Microgravity
+7. AGU Session SH011: Interstellar Probe - Pushing the Boundaries of 
+   Space Exploration
+8. AGU Session SM017: Magnetospheres in the Outer Solar System
+9. 51 Pegasus b Fellowship in Planetary Astronomy
+10. White Paper on Plasma and Magnetic Instruments in Small Body 
+    Missions
+11. Physical Scientist term position at USGS Astrogeology
+12. Next SBAG Meeting
+13. [NASA] Lunar Surface Technology Research Opportunities 
+    Solicitation Released
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION P002: AQUAPLANETOLOGY - AQUEOUS ENVIRONMENTS AND 
+HABTIABILITY IN THE SOLAR SYSTEM
+
+Conveners: Y. Sekine*, G. Tobie, B. L. Ehlmann, M. Cable (* primary)
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/102100
+
+We welcome contributions to advance our understanding of the formation
+and evolution of aqueous environments on Solar System bodies.
+
+Recent advances in spacecraft explorations have revealed the presence 
+of liquid water on multiple Solar System bodies, including Mars, icy 
+satellites, and volatile-rich dwarf planets. To further understand the 
+formation, evolution, and habitability of these "aquaplanets" in the 
+Solar System, knowledge of physico-chemical processes that characterize 
+aqueous environments becomes critical. These processes include 
+water-rock reactions, hydrological and geochemical cycles, 
+photochemistry, and tectonics. These processes generate both oxidants 
+and reductants and transport them in hydrospheres, creating 
+bioavailable chemical disequilibria. This session covers topics 
+relevant to physico-chemical processes on aquaplanets (including Earth, 
+Mars, water-altered asteroids, and ocean worlds), e.g., geochemical 
+processes on terrestrial planets and icy bodies, planetary hydrology, 
+icy tectonics, and planetary organic chemistry. This session also 
+welcomes observational studies of geochemical signatures of aqueous 
+environments on Solar System bodies using spacecraft, rovers, and 
+telescopes.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P008: COMPARATIVE PLANETOLOGY - LARGE PLANETESIMALS AND
+DWARF PLANETS THROUGHOUT THE SOLAR SYSTEM
+
+Observations returned by space missions (e.g., Dawn, New Horizons, 
+Cassini) and large Earth-bound telescopic surveys (e.g., NEOWISE, 
+Adaptive optics observations) over the past decade offer a broad 
+encompassing view of the population of large planetesimals and dwarf 
+planets that formed shortly after Solar System formation. Most of these 
+bodies have retained information on their accretional environments 
+while others have undergone significant internal evolution.
+
+The Psyche and Lucy missions now prepare to continue deciphering the 
+Solar System's early history with the exploration of 16 Psyche and 
+Jupiter's Trojan asteroids, while instruments on the extremely large 
+telescopes available in the next decade will provide observations with 
+unprecedented details of many large planetesimals.
+
+This session welcomes abstracts that address new observations and 
+models of large planetesimals found across the Solar System, compare 
+and contrast the properties of planetesimals found in various small 
+body reservoirs, and address their possible genetic relationships.
+
+Conveners: Julie Castillo-Rogez, Franck Marchis, Carol Raymond 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P012: ENCELADUS - A HABITABLE WORLD BECKONS
+
+Saturn's small yet active icy moon remains one of the most 
+scientifically compelling worlds in the Solar System.
+
+In this long-running special session, now in its 15th year, we seek to 
+sustain a highly multidisciplinary and stimulating atmosphere that 
+enables a deeper understanding of the nature and causes of Enceladus' 
+activity. We encourage submissions that specifically provide insights 
+into the moon's interior, biological potential, surface morphology, 
+south polar plume, and space environment from diverse disciplines: 
+e.g., planetary geology, comparative planetology of relevant icy 
+satellites, terrestrial studies, hydrothermal systems, oceanography, 
+geodynamics, tectonics, volcanology, space physics, organic chemistry, 
+geochemistry, astrobiology, origins of life, microbiology, and 
+biosignatures. Field, laboratory, and theoretical studies are all 
+welcome.
+
+We also welcome contributions on Cassini data analysis and modeling, as 
+well as instrument and mission concept developments that will lay the 
+groundwork for a new generation of explorers to Enceladus.
+
+Abstract submission deadline: July 29, 2020
+
+Abstract submission link: 
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/101707
+
+Conveners:
+Chris Glein (Southwest Research Institute)
+Bill McKinnon (Washington University in St. Louis)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P021: MACHINE LEARNING FOR PLANETARY SCIENCE
+
+As increasingly large, complex datasets are acquired, autonomy and 
+machine intelligence will have a critical role in interpreting data 
+from planetary exploration missions. There is a need for frameworks 
+that can rapidly and intelligently extract information from these 
+datasets in a manner useful for scientific analysis. Such innovations 
+will largely be driven by machine learning (ML), which describes 
+methods in which computers learn from data rather than explicit 
+programming.This session will explore research leveraging ML methods 
+to enhance our scientific understanding and increase the scientific 
+return from planetary data and missions. Topics may encompass data 
+analysis on the ground or onboard spacecraft for existing and future 
+missions and instruments. Submissions are welcome for ML applications 
+across science and engineering for planetary science, including but not 
+limited to: spacecraft operations and mission planning; surface, 
+atmosphere, and space environment characterization; object detection; 
+and other studies that apply ML to planetary science.
+
+The conveners invite abstracts to be submitted through July 29 at:
+
+https://www.agu.org/Fall-Meeting/2020/Present/Abstracts
+
+Conveners:
+
+Hannah Kerner, Michael Aye, Mario D'Amore, Joern Helbert
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P022: MARS CLIMATE AND EVEN MORE WATER - LATE-HESPERIAN TO 
+AMAZONIAN SURFACE AND GROUND WATER FEATURES ON MARS
+
+Until recently, the era with significant surface and groundwater 
+activity on Mars was assumed to end at ~3.0 Ga, before the Amazonian. 
+Recent data from in situ and orbital datasets suggest the early 
+Amazonian may have been wetter than previously thought, and that more 
+recent glacio-fluvial events may have occurred. This evidence includes 
+inverted channels, eskers, groundwater seepage depressions, and narrow 
+channels on units dating to the Late Hesperian and perhaps younger. 
+Furthermore, the Mars rovers, especially Curiosity, have found evidence 
+of multiple diagenetic events indicating a variety of groundwater 
+chemistries that altered rock units and fossil sand dunes. In Gale 
+Crater, these events appear to significantly post-date deposition and 
+erosion of presumed Hesperian Gale lake deposits. In this session, we 
+welcome abstracts that discuss likely late- or post-Hesperian 
+glacio-fluvial features from in situ, orbital, and martian meteorite 
+datasets, that aid our understanding of post-Hesperian water and climate 
+on Mars.
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/103244
+
+Convenors:
+Patrick Gasda, Los Alamos National Laboratory
+Megan Hoffman, University of New Mexico 
+Horton Newsom, University of New Mexico 
+Louis A. Scuderi, University of New Mexico
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P037: SMALL BODIES - PHYSICAL PROPERTIES AND REGOLITH 
+BEHAVIORS UNDER MICROGRAVITY
+
+We would like to invite the community to consider submitting an 
+abstract to the following session for the AGU Fall Meeting 2020.
+
+Small bodies (asteroids, comets, and many moons) are processed 
+leftovers from the formation stage of the Solar System. On these 
+bodies, gravity plays a smaller role than many other forces, and thus 
+the materials may behave differently from those on terrestrial planets. 
+Such behavior is highly dependent on the physical properties of these 
+objects, and especially on the granular materials and regolith that 
+shape their surfaces and interiors. However, these features are not 
+well understood, and there are unsolved issues regarding connections 
+between processes happening on these bodies and their physical 
+properties. Efforts in characterizing the nature of regolith on small 
+bodies and the relevant evolution of the bodies themselves, have been 
+made in the areas of modeling, experiments, and remote-sensing 
+observations. This session invites papers from these techniques to 
+better understand the complex environments of small bodies, as well as 
+their physical properties and regolith behavior.
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/103937
+
+Conveners:
+Adrienne Dove (University of Central Florida)
+Masatoshi Hirabayashi (Auburn University)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION SH001: INTERSTELLAR PROBE - PUSHING THE BOUNDARIES OF SPACE
+EXPLORATION
+
+Abstract Deadline: July 29, 23:59 EDT
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/103634
+
+An Interstellar Probe through the heliospheric boundary, into the 
+Interstellar Medium, opens a new regime of space physics to understand 
+the global nature of our habitable astrosphere and to explore the 
+Interstellar Cloud. Kuiper Belt and dust disk observations provide 
+unique insights into the evolution of our Solar System. Outside the 
+zodiacal cloud, the unobscured infrared sky reveals new information on 
+early galaxy formation. The recent interest in an Interstellar Probe 
+launching in the 2030's is fueled by the mysteries uncovered by the 
+aging Voyager mission, the unexpected IBEX and Cassini discoveries, 
+and conventional propulsion improvements that enable delivering a probe 
+to the heliospheric boundary in ~10 years. This session seeks 
+presentations on the unique science observations that an Interstellar 
+Probe enables across the physics of the heliosphere and beyond, and 
+also planetary science, and astrophysics. Status of enabling 
+technologies in propulsion, communication, power, instrumentation, 
+and programmatic aspects are encouraged.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION SM017: MAGNETOSPHERES IN THE OUTER SOLAR SYSTEM
+
+Conveners: Xianzhe Jia (Univ. of Michigan), Chris Paranicas (JHU/APL) 
+and George Hospodarsky (Univ. of Iowa)
+
+This session invites submissions covering the structure and dynamics 
+of the magnetospheres of the giant planets (Jupiter, Saturn, Uranus 
+and Neptune) as well as Ganymede. Papers on magnetospheric and auroral 
+processes including magnetosphere-ionosphere coupling, plasma 
+transport, tail dynamics, rotational modulations, magnetospheric 
+boundaries, and the role of the solar wind are consistent with our 
+session themes. We particularly encourage submissions that compare the 
+giant planet magnetospheres to one another, or compare them to those 
+of terrestrial planets. The session will be an ideal forum for the 
+discussion of recent advances in our understanding of all these 
+systems enabled by in situ and remote observations as well as 
+theoretical and numerical modeling, and relevant to a number of 
+ongoing and future planetary missions to the outer Solar System.
+
+For full session description, please visit:
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Session/101021
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+51 PEGASUS B FELLOWSHIP IN PLANETARY ASTRONOMY
+
+Planetary astronomy brings together research efforts of two 
+fields—planetary science and astronomy - to characterize planetary 
+systems. The fellowship supports postdoctoral fellows to advance our 
+fundamental understanding of exoplanets, Solar System science, planet 
+formation and evolution, planetary atmospheres, protoplanetary disks, 
+or other closely related topics. The fellowship recognizes early-career 
+investigators of significant potential and provides them with the 
+opportunity to conduct independent research. Each recipient will 
+receive a three-year grant of up to $375,000 to cover salary, benefits, 
+highly-flexible discretionary spending (e.g., travel, family care, 
+moving expenses, research equipment, personal computers, etc.), and 
+indirect costs. 
+
+The Foundation anticipates awarding six to eight fellowships this year, 
+based on the quality of submissions. The Heising-Simons Foundation is 
+committed to diversity, equity, and inclusion. Thus, we particularly 
+welcome applications from individuals who belong to groups that have 
+been historically underrepresented in planetary sciences and astronomy 
+such as women, persons with disabilities, racial and ethnic minorities, 
+persons of minority sexual orientation or gender identity, and others 
+who may contribute to diversification of the field.
+
+The 2020-2021 Fellowship cycle is now open. Applications will be 
+accepted until 11:59PM Eastern Time on Friday October 2, 2020. Go to: 
+
+https://www.hsfoundation.org/programs/science/51-pegasi-b-fellowship/guidelines-and-application
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+WHITE PAPER ON PLASMA AND MAGNETIC INSTRUMENTS IN SMALL BODY MISSIONS
+
+We invite co-signers for our paper, "The Importance of Plasma and 
+Magnetic Investigations in Small Body Missions." The paper highlights 
+the small body science that can be conducted with this instrumentation 
+(internal layering/composition, remanent magnetism, space weathering, 
+and outgassing detection) and proposes a ride-along program be created 
+which would allow for continuous heliospheric monitoring en route and 
+upon arrival at the target body using these missions.
+
+The paper can be accessed here:
+
+https://drive.google.com/file/d/1Le3c5b04Dh0jf8oyGThTSlhZsh5Ivj8f/view?usp=sharing
+
+Please email mickey.n.villarreal@jpl.nasa.gov if you would like to 
+endorse. The paper will be submitted by August 15.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PHYSICAL SCIENTIST TERM POSITION AT USGS ASTROGEOLOGY
+
+The USGS Astrogeology Science Center is accepting applications for a 
+Research Physical Scientist term position. The position requires a 
+combination of expertise in machine learning and multivariate 
+statistics, as well as in spectroscopy and planetary science. The 
+researcher would work on software development and data analysis for 
+ChemCam, SuperCam, and similar instruments. This position is 
+equivalent to a post-doc, although a PhD is not necessarily required 
+if the applicant has an appropriate combination of education and 
+experience. Applications will be accepted through July 22, or until 65 
+applications have been received. Only US citizens are eligible for this 
+position. Start date is flexible but would be no earlier than 
+mid-August.
+
+Please refer to the job posting for more details: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/573169300
+
+Contact Ryan Anderson (rbanderson@usgs.gov) with any questions.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NEXT SBAG MEETING
+
+The next SBAG meeting will be January 26-27, virtually. Go to:
+
+https://www.lpi.usra.edu/sbag/meetings
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] LUNAR SURFACE TECHNOLOGY RESEARCH OPPORTUNITIES SOLICITATION 
+RESEASED
+
+NASA's Space Technology Mission Directorate (STMD) has released the 
+LuSTR Opportunities at: 
+
+https://tinyurl.com/NASA-2020LuSTR
+
+Only accredited U.S. universities are eligible to submit proposals. 
+Teaming is permitted.
+ 
+The goal of LuSTR is to accelerate the development of groundbreaking 
+technologies that support and enable lunar surface activities to be 
+conducted under Artemis - the core of NASA's exploration and human 
+spaceflight plans for the next decade. The starting Technology 
+Readiness Level (TRL) of the efforts to be funded as a result of the 
+LuSTR Appendix will be TRL 2 - TRL 4; TRL advancement is required.
+
+LuSTR solicits proposals that are responsive to two Lunar Surface 
+Innovation Initiative focus areas: In-Situ Resource Utilization and 
+Sustainable Power.
+
+Notices of Intent due: August 12, 2020 
+Proposal due: September 9, 2020, 5 pm Eastern Time
+
+Comments and questions may be addressed to hq-LuSTR@mail.nasa.gov. 
+Responses will be answered by email and may also be included in the 
+Frequently Asked Questions (FAQs) on the LuSTR NSPIRES page. Anonymity 
+of persons/institutions who submit questions will be preserved.
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No New Meetings
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Stratification Dynamics of Titan's Lakes via Methane Evaporation
+Jordan K. Steckloff et al. 2020 PSJ 1:26
+http://doi.org/10.3847/PSJ/ab974e
+
+Possible Evidence of p-modes in Cassini Measurements of Saturn's 
+Gravity Field
+Steve Markham et al. 2020 PSJ 1:27
+http://doi.org/10.3847/PSJ/ab9f21
+
+Testing the Isotropy of the Dark Energy Survey's Extreme 
+Trans-Neptunian Objects
+Pedro H. Bernardinelli et al. 2020 PSJ 1:28
+http://doi.org/10.3847/PSJ/ab9d80
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

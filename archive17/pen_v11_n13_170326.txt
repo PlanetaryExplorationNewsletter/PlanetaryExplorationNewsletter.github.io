@@ -1,0 +1,229 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 13 (March 26, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Elisabeth Adams, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Lunar Reconnaissance Orbiter Data Release 29
+2. [NASA] Mars Exploration Rovers Data Release 51
+3. [NASA] Release of SALMON-3 and MMX Program Element Appendix
+4. HST Observations to Detect Plumes/Outgassing from Europa 
+5. iCubeSat 2017 - 6th Interplanetary CubeSat Workshop
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] LUNAR RECONNAISSANCE ORBITER DATA RELEASE 29
+
+The NASA Planetary Data System is pleased to announce a new delivery of
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:
+ 
+CRaTER
+DLRE
+LAMP
+LEND
+LOLA
+LROC
+
+This release includes a complete revision of LEND RSCI data products.
+In general, LRO Release 29 includes data collected between September
+15, 2016 and December 14, 2016. To access the above data, please visit
+the following link:
+ 
+https://pds.nasa.gov/tools/subscription_service/SS-20170315.shtml 
+
+PDS offers two services for searching the LRO archives:
+
+1) The Planetary Image Atlas at the Imaging Node allows selection of
+LRO data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+2) The Lunar Orbital Data Explorer at the Geosciences Node allows
+searching and downloading of LRO data and other lunar orbital data sets
+(Clementine and Lunar Prospector):    
+
+http://ode.rsl.wustl.edu/moon/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] MARS EXPLORATION ROVERS DATA RELEASE 51
+
+The Planetary Data System (PDS) is pleased to announce Release 51 of
+Mars Exploration Rover data.  This release includes data primarily from
+Sols 4411 through 4500, rover Opportunity (MER1/B), instruments:
+  
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There is no Radio Science data in this release, and no more Mini-TES or
+Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170320.shtml
+  
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:
+
+http://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818)393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] RELEASE OF SALMON-3 AND MMX PROGRAM ELEMENT APPENDIX
+
+Around March 22, 2017, NASA will be releasing the Third Stand Alone
+Missions of Opportunity Notice (SALMON-3) Announcement of Opportunity
+(AO). The SALMON-3 AO provides a solicitation and procurement base for
+modest investigations, or Missions of Opportunity (MO), requiring space
+flight that advance the high priority science, exploration, and
+technology objectives of NASA's Science Mission Directorate, Human
+Exploration and Operations Mission Directorate, and the Space
+Technology Mission Directorate. This release includes one proposal
+opportunity for a Discovery Program Focused Mission of Opportunity
+Martian Moons eXploration (MMX) Neutron and Gamma-Ray Spectrometer
+Investigation.
+
+The SALMON-3 solicitation will be open from March 21, 2017, through
+March 18, 2022. Further information about the solicitation and each
+Program Element Appendices (PEA) will be available on the SALMON-3
+Acquisition Page:
+
+https://soma.larc.nasa.gov/salmon-3/index.html
+
+A Pre-proposal Conference will be held April 17, 2017 via Webex. For
+exact date, time, agenda, and logistics, see the MMX PEA additional
+information page at:
+
+http://soma.larc.nasa.gov/mmx/
+
+Direct questions specifically regarding PEA-I to:
+
+Dr. Thomas Statler 
+MMX Program Scientist 
+(202)358-0272
+thomas.s.statler@nasa.gov (subject line: MMX AO)
+
+Questions concerning SALMON-3 may be addressed to:
+
+Dr. Jeffrey Newmark 
+Deputy Associate Administrator for Research 
+(202)358-0684 
+Jeffrey.newmark@nasa.gov
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+HST OBSERVATIONS TO DETECT PLUMES/OUTGASSING FROM EUROPA 
+
+The STScI Director has commissioned a committee to provide advice on
+optimizing future strategies for using Hubble to investigate potential
+outgassing from Europa. The committee is currently developing
+recommendations that will include suggestions for pilot observations in
+the near future. The full report will not be available until after the
+Cycle 25 proposal deadline (April 7, 2017). Consequently, interested
+parties should not submit proposals at this time unless the
+observations must be executed before October 27 2017. Time will be set
+aside for observations at later dates, and proposals related to the
+Europan plumes will be solicited as part of the first Cycle 25 Call for
+Mid-Cycle proposals, deadline September 30 2017. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ICUBESAT 2017 - 6TH INTERPLANETARY CUBESAT WORKSHOP
+
+30-31 May 2017, Cambridge, United Kingdom
+
+Abstracts due 1st April 2017
+
+iCubeSat 2017, the 6th Interplanetary CubeSat Workshop, will address
+the technical challenges, opportunities, and practicalities of
+interplanetary space exploration with CubeSats. The workshop provides
+a unique environment for open wide ranging practical collaboration
+between academic researchers, industry professionals, policy makers
+and students developing this new and rapidly growing field.
+
+Full details at www.iCubeSat.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 15-18, 2017
+JWST Proposal Planning Workshop
+http://www.cvent.com/events/jwst-proposal-planning-workshop/event-
+summary-543aecc51b424e2faf4637f6b84319f0.aspx
+Baltimore, MD
+
+September 19-22, 2017
+3rd Beijing International Forum on Lunar and Deep-space Exploration
+(LDSE 2017)
+http://ldse2017.csp.escience.cn/dct/page/1
+Beijing, China
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,389 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 37 (September 6, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Exoplanet-Solar System Synergy Tutorial Talk
+2. [NASA] Aperiodic PDS Data Releases in 2020.08
+3. Planetary Geomorphology Image of the Month
+4. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 54
+5. White Papers on DEIA Topics for the 2013-2022 Planetary Science
+   Decadal Survey
+6. Mars Exploration Science Monthly Newsletter for September 2020
+7. Job Announcement: Assistant Professor, Oklahoma State University
+8. NASA Infrared Telescope Facility Observing Proposals
+9. HiRISE Digital Terrain Models By-Request and at No-Cost for Funded
+   Mars Data Analysis Program Awards 
+10. Job Announcement: University of Oklahoma, Postdoctoral Researcher
+11. The Lunar Surface Innovation Consortium - Virtual Fall Meeting
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EXOPLANET-SOLAR SYSTEM SYNERGY TUTORIAL TALK
+ 
+The next ExoPAG SIG3 Exoplanet-Solar System Synergy Tutorial Talk will
+be given by Prof. Nancy Chanover, who will provide an introduction to
+the Planetary Data System Atmospheres Node for those who might be
+considering using the PDS for exoplanet science.
+
+These tutorial talks are aimed at introducing field newcomers to
+important topics or methods in planetary and exoplanetary science. 
+They typically include a 30 minute tutorial from an expert to introduce
+the topic, followed by a 30 minute group discussion of a recent paper
+in which the topic/method features. 
+
+Date/Time: Sep 10 at 11am PDT / 2pm EDT
+
+Zoom Link: 
+
+https://washington.zoom.us/j/95177555751?pwd=UGZ0bnMyZVVNbmptcmZmZm1adWJkZz09
+
+Speaker: Nancy Chanover, Professor of Astronomy, New Mexico State
+University 
+Title: How to Leverage NASA's Planetary Data System Atmospheres Node
+for Exoplanet Science
+
+Paper for Discussion: Elrod et al. (2018), GRL,
+https://doi.org/10.1029/2018GL077729 
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] APERIODIC PDS DATA RELEASES IN 2020.08
+
+In August 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2020.08.10 MER Contact Science Target List
+2020.08.10 Rosetta: Spacecraft Housekeeping Engineering Data
+2020.08.17 Cassini Radio Science Occultation and Electron Density
+2020.08.17 Viking Orbiters 1&2 Occultation Electron Density
+2020.08.21 New Horizons P4 Derived Datasets
+2020.08.31 New Horizons KEM Encounter 1
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200831.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The September image of the month is now available at the IAG's
+Planetary Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "Lunar lava layers and their Hawaiian analogs",
+contributed by Dr M. Elise Rumpf, Astrogeology Science Centre, US
+Geological Survey.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter: @PlanetGeomorpho 
+
+or Facebook: http://www.facebook.com/PlanetaryGeomorphology
+ 
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 54
+
+The NASA Planetary Data System announces Release 54 of data from the
+Mars Reconnaissance Orbiter (MRO). This release contains raw,
+calibrated, and derived data products nominally covering the time
+period November 9, 2019, through February 8, 2020. Some instrument
+teams are delivering more recent data. The data are archived at various
+PDS nodes.
+
+CRISM, SHARAD, and Radio Science data at the Geosciences Node
+HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences 
+Node
+MCS data at the Atmospheres Node
+SPICE data at the NAIF Node
+
+The data may be accessed at
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+MRO data releases occur every three months. The next release is
+scheduled for December 1, 2020.
+
+For a view centered on this release
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200901.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+WHITE PAPERS ON DEIA TOPICS FOR THE 2013-2022 PLANETARY SCIENCE DECADAL
+SURVEY
+
+Diversity, Equity, Inclusion and Accessibility (DEIA) efforts within
+the Planetary Science community have become a focus point of several
+NASA Assessment/Analysis Groups (AGs). The EDI Working Group (WG) was
+formed by the AGs and its steering committee consists of members of
+each AG steering committee and several affinity groups. The WG has
+helped gather community input in the form of a series of Professional
+White Papers (WPs) in preparation for the Planetary Science Decadal
+Survey (Planetary2023). These WPs will be submitted by their individual
+authors in support of the Planetary2023's Statement of Task Part 9:
+
+"The state of the profession including issues of diversity, inclusion,
+equity, and accessibility, the creation of safe workspaces, and
+recommended policies and practices to improve the state of the
+profession. Where possible, provide specific, actionable, and practical
+recommendations to the agencies and community to address these areas."
+ 
+Link to the Table of DEIA WPs for Planetary2023: 
+
+https://docs.google.com/spreadsheets/d/1t5hpGpVIWokwaymDITyMaYAVWJ4viFTsXDJVwTQb9gQ/edit?usp=sharing 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR SEPTEMBER 2020
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi
+Carrier, and Dave Beaty of the Mars Program Science Office, the
+September 2020 edition of the Mars Exploration Science Monthly
+Newsletter can be found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings. We hope everyone remains safe and healthy within these
+stressful, rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: ASSISTANT PROFESSOR, OKLAHOMA STATE UNIVERSITY
+
+The Department of Physics at Oklahoma State University invites
+applications for a tenure track assistant professor position in
+astronomy or planetary sciences. The successful candidate should have a
+proven track record of research in their respective area and is
+expected to attract extramural research funding, publish scholarly
+articles, and teach effectively at the graduate and undergraduate
+levels. The successful candidate will also be expected to oversee the
+department's Mendenhall Observatory and coordinate outreach activity at
+the site:
+
+https://physics.okstate.edu/research/mendenhall-observatory
+
+OSU is a Carnegie-R1 comprehensive public research university committed
+to increasing the diversity of its faculty (currently 25% of the
+Physics Department faculty are from underrepresented groups). The
+Department of Physics welcomes applications from outstanding
+candidates, who, through their research, teaching, and/or service will
+contribute to the diversity and excellence of the Physics Department. A
+Ph.D. in Physics or an allied field is required as well as the promise
+of excellence in teaching and the ability to mentor underrepresented
+students. 
+
+An appointment at the Assistant Professor level is expected with a
+start date of August 17, 2021. Review of applications will begin on
+January 4, 2021 and will continue until the position is filled.
+
+Apply at:
+
+https://apply.interfolio.com/77415
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS
+
+The due date for the 2021A semester (February 1, 2021 to July 31, 2021)
+is Thursday, October 1, 2020. See our online submission form.
+Information on available facility and visitor instruments and
+performance can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/instruments
+
+Observing on-site or remote observing is available with SpeX, MORIS,
+and iSHELL; please see the instrument pages for more information,
+including the exposure time calculators for SpeX and iSHELL.
+
+http://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+HIRISE DIGITAL TERRAIN MODELS BY-REQUEST AND AT NO-COST FOR FUNDED MARS
+DATA ANALYSIS PROGRAM AWARDS 
+ 
+To support the needs of the Mars science community, the USGS
+Astrogeology Science Center is providing HiRISE DTMs by request and at
+no charge for funded ROSES 2020 Mars Data Analysis Program proposals.
+Investigators are responsible for identification and selection of
+appropriate HiRISE stereopairs, and must coordinate with USGS personnel
+before proposal submission to obtain a Confirmation of Technical
+Specification Letter. DTMs will only be generated for funded proposals.
+Technical requirements can be found at the USGS Astrogeology Planetary
+Photogrammetry site: 
+ 
+https://www.usgs.gov/centers/astrogeology-science-center/science/usgs-astrogeology-planetary-photogrammetry-lab?qt-science_center_objects=0#qt-science_center_objects 
+ 
+Additional details are available in section 4.3.7 of the NASA ROSES
+2020. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JOB ANNOUNCEMENT: UNIVERSITY OF OKLAHOMA, POSTDOCTORAL RESEARCHER
+
+The School of Geosciences at the University of Oklahoma is seeking a
+Postdoctoral Researcher to work with a diverse team of planetary
+scientists, geoscientists, geoengineers, and social scientists on a
+2-year project aimed at identifying, empowering, and rewarding
+diversity, equity, and inclusion (DEI) champions within the geosciences
+by aligning hiring, promotion, award, and other evaluation systems with
+institutional and community goals to promote diversity and inclusion
+within the Geosciences, including Planetary Science. The postdoc will
+work with the proposal team to survey programs nationally and interview
+faculty in focus departments to establish how faculty are currently
+evaluated in geoscience departments, then determine how DEI efforts fit
+within evaluation, tenure, promotion, and award frameworks. This
+postdoc is funded 75% by an NSF grant, with additional funding provided
+by endowed funds. We expect the postdoc to spend 0.75 FTE working on
+this project, with the remaining 0.25 FTE available to pursue other
+research interests. We are open to flexible work arrangements,
+including a possible remote postdoc. For more information and
+application instructions, please visit our website: 
+
+https://meem.oucreate.com/nsf-golden-rewards-postdoc/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+THE LUNAR SURFACE INNOVATION CONSORTIUM - VIRTUAL FALL MEETING
+ 
+The Lunar Surface Innovation Consortium (LSIC) Fall Meeting will be
+held virtually on October 14-15 2020. It will feature keynote
+addresses, working sessions, and technical poster presentations. The
+event will center on the interrelationships between the six LSIC focus
+areas, especially in the context of surface power. We invite abstracts
+describing technical capabilities within the six LSIC focus areas, as
+well as those that identify lunar surface technology needs and assess
+the readiness of relative systems and components. The six LSIC
+technical focus areas are:
+
+Dust Mitigation
+Excavation & Construction
+Extreme Access
+Extreme Environments
+In Situ Resource Utilization
+Surface Power
+
+Other topics of interest include defining the parameters and
+constraints of the architecture required to support a sustained
+presence on the lunar surface, as well as economic and policy
+considerations. All abstracts are due by 11:59PM EDT on September 11,
+2020. Contributed abstracts will be presented as posters or as short
+lightning talks. They can be submitted at:
+
+http://lsic.jhuapl.edu/Events/102.php?id=102
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 14-15, 2020
+Lunar Surface Innovation Consortium (LSIC) Fall Meeting
+http://lsic.jhuapl.edu/Events/102.php?id=102
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Could the Migration of Jupiter Have Accelerated the Atmospheric
+Evolution of Venus?
+Stephen R. Kane et al. 2020 PSJ 1:42
+http://doi.org/10.3847/PSJ/abae63
+
+Changes in a Dusty Ringlet in the Cassini Division after 2010
+Mathew Hedman and Bill Bridges 2020 PSJ 1:43
+http://doi.org/10.3847/PSJ/abacc7
+
+Detection of a Satellite of the Trojan Asteroid (3548) Eurybates-A Lucy
+Mission Target
+K. S. Noll et al. 2020 PSJ 1:44
+http://doi.org/10.3847/PSJ/abac54
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

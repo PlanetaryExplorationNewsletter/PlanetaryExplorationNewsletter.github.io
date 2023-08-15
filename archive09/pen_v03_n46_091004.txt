@@ -1,0 +1,426 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 3, Number 46 (October 4, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Nic Richmond, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Planetary Division Budgets FY2003-FY2009 Posted
+2. [NASA] ROSES Selection Times Posted
+3. [NASA] ROSES Solicitation and Guidebook Revisions
+4. [NASA] SALMON AO Amendment 3:  New Proposal Due Date
+5. [NASA] PDS Announces the Availability of Updated ISS Cartographic 
+   Volumes
+6. Venus Pressure Test Chamber - A Potential Resource
+7. Assistant or Associate Astronomer, NASA Infrared Telescope 
+   Facility, Institute for Astronomy, University of Hawaii
+8. Education and Public Outreach Manager, Laboratory for Atmospheric
+    and Space Physics, University of Colorado at Boulder
+9. Postdoctoral Researcher in Planetary Petrology Position
+10. RAS National Astronomy Meeting 2010 -- Call for Parallel Session
+    Nominations
+11. First Announcement:  Mars Workshop, Les Houches, France
+12. Planetary Protection Policies and Practices Course - 2 Openings
+    Remain
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PLANETARY DIVISION BUDGETS FY2003-FY2009 POSTED
+
+NASA's Science Directorate has posted Planetary-Related Research and
+Data Analysis Programs Final Budgets for fiscal years 2003-FY2009. 
+This can be downloaded as a PDF file from the Planetary Division corner
+at:
+
+http://tinyurl.com/yb3ndsh
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES SELECTION TIMES POSTED
+
+NASA's Science Directorate has posted figures that show how long it 
+took to announce selections for the omnibus ROSES solicitations for
+2003-2008. The good news is that selections are getting faster
+
+http://tinyurl.com/d5xafp
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES SOLICITATION AND GUIDEBOOK REVISIONS
+
+It is the time of year when NASA drafts the omnibus solicitation 
+Research Opportunities in Space and Earth Sciences (ROSES) for next 
+year. SARA is calling for suggestions on how to improve the 
+solicitation for next year's ROSES and make changes to the guidebook 
+for proposers. Please submit suggestions to
+
+SARA@nasa.gov
+
+RSS feeds for letters from SARA, amendments to the ROSES
+solicitation, and other useful information can be found at
+
+http://sara.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] SALMON AO:  NEW PROPOSAL DUE DATE
+
+Notice of Intent to propose Due:  October 28, 2009
+Proposals Due:  December 18, 2009
+
+With this amendment, the NASA Announcement of Opportunity 
+NNH08ZDA009O, "Stand Alone Missions of Opportunity Notice (SALMON),"
+is amended to establish a new proposal due date for proposals 
+submitted in response to Program Element Appendix (PEA) H3: Small 
+Complete Missions of Opportunity in Astrobiology and Fundamental 
+Space Biology. This PEA has been extensively modified from the 
+previously released version and the new version replaces the old 
+version in its entirety.
+
+The NASA Announcement of Opportunity "Stand Alone Missions of 
+Opportunity Notice (SALMON)" (NNH08ZDA009O) will be posted on the NASA 
+research opportunity homepage at 
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then "NNH08ZDA009O").
+
+Technical or scientific questions concerning Small Complete Missions 
+in Astrobiology may be addressed to 
+Dr. Catharine A. Conley
+Planetary Science Division
+Science Mission Directorate
+NASA Headquarters
+Washington, DC 20546-0001
+202-358-3912
+Cassie.Conley@nasa.gov
+
+Technical or scientific questions concerning Small Complete Missions 
+in Fundamental Space Biology may be addressed to 
+Dr. David L. Tomko
+Advanced Capabilities Division
+Exploration Systems Mission Directorate
+NASA Headquarters, Washington, DC 20546-0001
+202-358-2211
+dtomko@nasa.gov
+
+[Editor's Note: text has been reduced for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS ANNOUNCES THE AVAILABILITY OF UPDATED ISS CARTOGRAPHIC 
+VOLUMES
+
+PDS has accepted the delivery of Cassini ISS Cartographic Volumes 
+coiss_3005 and coiss_3006.
+
+Volume coiss_3005 is Version 2 of this volume.  This contains changes 
+to the MAXIMUM_LATTITUDE and MINIUM_LATITUDE values for 
+SI_3M_0_90_MERCATOR.IMG and SI_3M_0_270_MERCATOR.IMG files in the 
+data/images directory.
+
+Volume coiss_3006 is Version 2 of this volume.  This contains changes 
+to the MAXIMUM_LATTITUDE and MINIUM_LATITUDE values for 
+SM_1500K_0_0_MERCATOR.IMG file in the data/images directory.
+
+These volumes can be found on the PDS Imaging Node at URL: 
+
+http://pdsimg.jpl.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+VENUS PRESSURE TEST CHAMBER - A POTENTIAL RESOURCE
+
+A working Venus pressure test chamber has been recently acquired and 
+is located at Goddard Space Flight Center in Maryland. It will be made 
+available to the Venus scientific community and others for testing of 
+small flight components/instruments and short-term experiments that 
+require high temperatures and pressures.  The chamber was developed by 
+Dr. William Byrd at Iowa State University through the Iowa Space Grant 
+Consortium.
+
+The chamber is able to maintain a temperature of 740K and pressure of 
+95.6 bar for ~48 hours under a carbon dioxide atmosphere. The 
+dimensions of the chamber are five inches in diameter and twelve inches 
+deep. The actual working space is expected to be slightly smaller 
+because of volume taken up by monitoring sensors. The chamber is 
+currently being tested and calibrated. Viewing ports and/or thoughputs 
+for data and power will eventually be installed as options. Running at 
+temperatures and pressures lower than those found at the surface of 
+Venus are possible. Details about the Venus Pressure Test Chamber will 
+be presented at the VEXAG meeting scheduled for October 28-29, 2009.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASSISTANT OR ASSOCIATE ASTRONOMER, NASA INFRARED TELESCOPE 
+FACILITY, INSTITUTE FOR ASTRONOMY, UNIVERSITY OF HAWAII
+
+The Institute for Astronomy (IfA) has an opening for a support
+astronomer for the NASA 3-meter Infrared Telescope Facility (IRTF)
+located in Hilo on the Island of Hawaii.  The incumbent will join the
+IRTF scientific staff, and contribute to all scientific and technical
+aspects of operation of the observatory, including instrumentation and
+the support of visiting observers. He or she will work with scientific
+and technical personnel to ensure optimum performance of the telescope
+and instruments, take the lead in some areas of observatory operations,
+and advocate areas of improvement in the operation. About 30% time 
+will be available for independent personal research and he or she will 
+have access to all the Mauna Kea telescopes on which the University of 
+Hawaii has guaranteed observing time.  
+
+Desirable Qualifications:  Experience with infrared imaging or 
+spectroscopy, testing infrared arrays, achieving optimum angular 
+resolution and image quality, writing astronomical data reduction 
+packages.  To view the complete job ad, visit
+
+http://www.ifa.hawaii.edu/position-vacancies/86868T-091031.shtml
+
+Closing date: 31 Oct. 2009
+
+Contact info:  
+Alan Tokunaga
+tokunaga@ifa.hawaii.edu
+808-956-6691
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EDUCATION AND PUBLIC OUTREACH MANAGER, LABORATORY FOR ATMOSPHERIC AND 
+SPACE PHYSICS, UNIVERSITY OF COLORADO AT BOULDER
+
+LASP has developed a highly successful and nationally recognized EPO 
+program emphasizing our research in atmospheric, planetary, solar and 
+space sciences.  The successful candidate should have demonstrated 
+leadership in the development and implementation of science-based 
+education and public outreach activities.  Responsibilities will 
+include development and implementation of EPO components for LASP’s 
+existing research programs, as well as future opportunities; 
+establishing and sustaining collaborative programs with other EPO 
+programs (both locally and nationally); coordination of EPO activities 
+by LASP personnel and their collaborators at other institutions; 
+training of LASP personnel participating in EPO activities; and 
+securing funding for EPO program development. More details about LASP 
+and our current EPO activities can be found at our web site, at 
+
+http://lasp.colorado.edu.
+
+For the full job description and to apply, go to 
+
+http://www.jobsatcu.com 
+
+and search on job posting 808220.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL RESEARCHER IN PLANETARY PETROLOGY POSITION
+
+The Lunar and Planetary Institute (LPI), a division of the 
+Universities Space Research Association, invites applications for a 
+postdoctoral fellowship in the petrology of planetary materials. 
+
+The successful candidate will work with Dr. Allan Treiman in 
+NASA-funded research focusing on volatiles in magmas and on aqueous 
+alteration of igneous rocks; target materials include Martian 
+meteorites, lunar samples, and terrestrial analogs.  These efforts 
+will start with analyses by optical microscopy and electron 
+microprobe; other instruments are available as needed at nearby 
+Johnson Space Center (experimental petrology laboratories, LA-ICPMS), 
+or can be arranged with external collaborators (e.g., SIMS).  The 
+candidate will be encouraged to design and conduct her/his own research 
+in planetary science, propose for external funding, participate in 
+grant review panels and analysis groups, and become involved with 
+spacecraft missions.
+
+For further information, please visit 
+
+http://www.lpi.usra.edu/lpi/positions.shtml
+
+Universities Space Research Association is an Equal Opportunity
+Employer.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+RAS NATIONAL ASTRONOMY MEETING 2010 -- CALL FOR PARALLEL SESSION 
+NOMINATIONS
+
+Glasgow, Scotland
+April 12-16, 2010
+
+NAM 2010 will be held in Glasgow, and will incorporate both the UK 
+Solar Physics (UKSP) and Magnetosphere, Ionosphere and Solar-
+Terrestrial (MIST) meetings.
+
+Slots for up to 42 parallel sessions, each of 90 minutes duration 
+exist, with further sessions in the programme dedicated for poster 
+viewing.  We would like to invite from the community nominations for 
+parallel session themes / multiple parallel sessions for any topic or 
+research area considered relevant to the NAM, UKSP and MIST meetings. 
+Particularly welcomed are nominations likely to have broad cross-
+community appeal. 
+
+Please submit the following, before Oct. 30, 2009 to:
+
+martin@astro.gla.ac.uk
+
+1. Theme and provisional title of parallel session.
+2. Brief (i.e. a few sentences) rationale for its nomination
+3. A nominated session organiser (preferably an individual who has
+   already agreed to undertake this role!)
+
+It is expected that the final programme of parallel sessions will be 
+drawn up before the end of 2009.
+
+Martin Hendry
+Chair, NAM 2010 SOC
+Dept of Physics and Astronomy
+University of Glasgow, UK
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+FIRST ANNOUNCEMENT:  MARS WORKSHOP
+
+28 March - 2 April 2010
+Les Houches, France
+
+The goals of the workshop are to integrate the main results of both 
+the recent Earth-based observations and the missions to Mars 
+(MarsExpress, Mars Reconnaissance Orbiter, Phoenix and Mars Exploration 
+Rovers) into a new global picture of Mars evolution.  With the same 
+spirit of the previous workshops, discussions among scientists of 
+different disciplines will be encouraged and it is foreseen that they 
+will help refine the scientific goals of the future missions to Mars. 
+This workshop is an opportunity for the young scientists to be updated 
+on the most recent results and to be trained in some specific data 
+processing techniques.
+
+Deadline for registration: 15 January 2010
+
+http://www.rssd.esa.int/index.php?project=MARSEXPRESS&page=planet_mars3
+
+Contact: 
+Olivier Witasse
+European Space Agency
+owitasse@rssd.esa.int
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY PROTECTION POLICIES AND PRACTICES COURSE - 2 OPENINGS REMAIN
+
+The course will be held at the Applied Physics Laboratory, 
+October 20-22, 2009.  This course is designed for managers, engineers, 
+designers, lab technicians, and others interested in learning about 
+the theory behind and application of planetary protection principles. 
+
+Participants learn how the work of personnel with diverse skills and 
+responsibilities is coordinated to develop an effective program of 
+implementing planetary protection requirements. This course provides 
+hands-on laboratory training in microbial sampling and data management.  
+The course is taught by experts in the field with years of practical 
+experience in all aspects of planetary protection. Anyone who is 
+interested in filling the spots should contact Amy Baker as soon as 
+possible for quick enrollment.
+
+Amy Baker
+Technical Administrative Services
+303-972-4849
+tasalb@msn.com
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 22-24, 2010
+Planetary Decadal Survey Meeting: Steering Group
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Irvine, CA
+
+March 28-April 2, 2010
+Mars Workshop
+http://www.rssd.esa.int/index.php?project=MARSEXPRESS&page=planet_mars3
+Les Houches, France
+
+April 12-16, 2010
+RAS National Astronomy Meeting
+http://www.astro.gla.ac.uk/nam2010/
+Glasgow, Scotland
+
+April 12-14, 2010
+Planetary Decadal Survey Meeting: Satellites Panel
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Boulder, CO
+
+April 14-16, 2010
+Planetary Decadal Survey Meeting: Mars Panel
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Boulder, CO
+
+April 21-23, 2010
+Planetary Decadal Survey Meeting: Inner Planets Panel
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Boulder, CO
+
+April 26-28, 2010
+Planetary Decadal Survey Meeting:  Primitive Bodies Panel
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Knoxville, TN
+
+May 5-7, 2010
+Planetary Decadal Survey Meeting: Giant Planets Panel 
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Boston, MA 
+
+May 25-27, 2010
+Planetary Decadal Survey Meeting: Steering Group
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412
+Washington, D.C.
+
+June 13-18, 2010
+Goldschmidt 2010
+http://www.goldschmidt2010.org/
+Knoxville, TN
+
+July 26-30, 2010
+Meteoritical Society, 73rd Annual Meeting
+http://www.metsoc2010.org/
+New York, NY
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

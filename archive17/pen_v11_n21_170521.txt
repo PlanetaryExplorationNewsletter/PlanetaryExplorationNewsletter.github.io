@@ -1,0 +1,432 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 21 (May 21, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Exploration Newsletter Celebrates Its 10th Anniversary
+2. Call for Small Microgravity Experiments
+3. ROSES-17 Amendment: K2 GO6 TBD Pending Revision
+4. Community Announcement Regarding Europa Lander Instrument 
+   Investigation Program Element Appendix
+5. Call for External Reviewers, NASA Postdoctoral Program
+6. NASA Postdoctoral Fellowships
+7. NASA Research Announcement: Early Stage Innovations Appendix
+8. Mars Exploration Science Monthly Newsletter for May 2017
+9. Mapping and Planetary Spatial Infrastructure Team (MAPSIT) 
+   Community Meeting
+10. Third Announcement: Astrobiology 2017
+11. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Cassini-Huygens Owner's Workshop Manual
+C2. The Ringed Planet - Cassini's Voyage of Discovery at Saturn
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY EXPLORATION NEWSLETTER CELEBRATES ITS 10TH ANNIVERSARY
+
+The first Planetary Exploration Newsletter was released on May 24, 
+2007. This is the 581st newsletter. Today PEN has 3280 subscribers 
+worldwide, and the number continues to grow. We would like to thank 
+our colleagues in the international planetary community who have made 
+this newsletter of value and the past editors whose weekly efforts over 
+the years has made it possible:
+
+2010-2017, Susan Benecchi
+2009-2016, Melissa Lane
+2007-2010, Nic Richmond
+2007-2009, Matt Balme
+
+As we note at the end, PEN is a service provided by the Planetary 
+Science Institute (http://www.psi.edu) using no NASA funds. All 
+editorial work is volunteer.  
+
+Mark V. Sykes (2007-Present)
+Karen Stockstill-Cahill (2016-Present)
+Elisabeth Adams (2017-Present)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALL FOR SMALL MICROGRAVITY EXPERIMENTS
+
+The NASA Astromaterials group at JSC is looking for ideas for small 
+microgravity experiments that can be sent to the International Space 
+Station (ISS). Following on the success of our Strata-1 asteroid 
+regolith investigation (see description below), we are developing a 
+new ISS microgravity facility called Hermes. This facility is open to 
+experiments of any kind, from small-body investigations to testing 
+equipment to anything you can think of. It will house small experiments 
+up to 12"x4"x4". The facility is reconfigurable and new experiments can 
+be incorporated into Hermes over time. At a minimum, Hermes can provide 
+cameras, lights, power, communication, and electrical connections for 
+mechanical or actuation devices. Pending future funding, NASA may 
+provide flight opportunities. If you have any ideas for experiments or 
+studies that can be performed in such a facility, please respond to the 
+following RFI. The response simply requires a maximum of 5 pages 
+(shorter is fine) emailed to Kristen John (kristen.k.john@nasa.gov) 
+with your idea.
+
+Link to RFI: 
+
+https://www.fbo.gov/?s=opportunity&mode=form&id
+=6bbc452e4859174cfc5ecdbc18aa2203&tab=core&_cview=0
+
+Link to Appendix: 
+
+https://www.fbo.gov/utils/view?id=c34f6c59d647c508c04da95dcebf542b
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ROSES-17 AMENDMENT: K2 GO6 TBD PENDING REVISION
+
+The K2 Guest Observer - Cycle 6 is on hold pending a major revision to 
+the program. For now, the due dates will appear as TBD. Proposals will 
+be due no less than 90 days after the release of the amendment that 
+presents final text for this program element.
+
+Questions concerning this program element may be directed to: 
+
+Mario R. Perez 
+mario.perez@nasa.gov
+
+Technical and implementation questions could be directed to: 
+
+Geert Barentsen
+geert.barentsen@nasa.gov
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+COMMUNITY ANNOUNCEMENT REGARDING EUROPA LANDER INSTRUMENT INVESTIGATION 
+PROGRAM ELEMENT APPENDIX
+
+This community announcement is an advance notice of NASA's Science 
+Mission Directorate (SMD) plan to release a Program Element Appendix 
+(PEA) for the Third Stand Alone Missions of Opportunity Notice 
+(SALMON-2) for instrument investigations for a Europa lander mission. 
+This opportunity will solicit proposals describing the full lifecycle
+development and operation of instrument investigations. Proposed 
+investigations will be evaluated and selected through a two-step 
+competitive process, with approximately 10 proposals selected for 
+Step 2. The Step 2 Phase A Concept Study will be capped at 
+approximately twelve months and a $1.5M (FY2018) budget per 
+investigation. At the conclusion of these studies, NASA may downselect 
+some concept studies to complete Phase A and subsequent mission 
+phases.
+
+Further information will be posted as it becomes available on the 
+Europa Lander Acquisition Page at: 
+
+http://europalander.larc.nasa.gov/ 
+
+Questions may be addressed to: 
+
+Dr. Curt Niebur 
+Europa Program Scientist 
+Planetary Science Division 
+Science Mission Directorate, NASA
+Washington, DC 20546
+202-358-0390
+curt.niebur@nasa.gov
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CALL FOR EXTERNAL REVIEWERS, NASA POSTDOCTORAL PROGRAM
+
+The NASA Postdoctoral Program (NPP), managed by USRA, provides young 
+and more senior scientists the opportunity to work on 1 to 3 year 
+assignments with NASA scientists and engineers at NASA centers and 
+institutes to advance NASA's missions in earth science, heliophysics, 
+planetary science, astrophysics, space bioscience, aeronautics, 
+engineering, human exploration and space operations, astrobiology, and 
+science management. USRA is recruiting well-qualified reviewers for 
+upcoming applications. 
+ 
+Reviewers may be asked to review up to 5 applications (each application 
+is 15 pages, including figures and citations; double-spaced). Proposal 
+deadlines are March 1, July 1, and November 1. The reviewer evaluations 
+are submitted online and those who are eligible will receive an 
+honorarium of $50 for each review submitted.
+ 
+Reviewers should have the following minimum qualifications: three (3) 
+years past PhD; 10 or more peer-reviewed publications; at least five 
+(5) peer-reviewed publications as first author; work in a field 
+relevant to NASA; and show national and international prominence 
+through awards and invitations to speak at major scientific meetings.
+ 
+If you are interested in being a reviewer, and create an account, 
+visit: 
+
+https://npp.usra.edu/reviewer_connect/ 
+
+For additional questions email nppreviews@usra.edu.
+ 
+Feel free to pass this information to colleagues.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Current research opportunities in planetary science can be viewed here:
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA RESEARCH ANNOUNCEMENT: EARLY STAGE INNOVATIONS APPENDIX
+
+NOI Due: June 2, 2017 at 5:00pm ET
+Proposal Due: June 30, 2017 at 5:00pm ET
+
+A solicitation, titled "Space Technology Research Grants Program, 
+Early Stage Innovations Appendix" (NNH17ZOA001N-17ESI-B2), has been
+released as an appendix to the Space Technology Mission Directorate 
+(STMD) umbrella NASA Research Announcement (NRA) titled "Space 
+Technology - Research, Development, Demonstration, and Infusion 2017" 
+(SpaceTech-REDDI-2017). The solicitation is available by visiting:  
+
+http://tinyurl.com/NASA-17ESI
+
+This solicitation seeks proposals to develop unique, disruptive, or 
+transformational space technologies currently at low technology 
+readiness levels that have the potential to lead to dramatic 
+improvements at the system level. Specifically, the proposals must 
+address one of the following seven topics:
+
+1 - Advanced Coating Technology for Space Fission Power and 
+    Propulsion Systems
+2 - Relative Navigation Algorithms and Sensors for Autonomous 
+    Maneuvering in Proximity to Small Celestial Bodies
+3 - Cross-cutting Technologies for EHF Band Space Applications
+4 - Extraction of Water from Hard Extraterrestrial Soils
+5 - Predictive Modeling of Thermal Protection Material 
+    Thermostructural Behavior
+6 - Non-Equilibrium Thermodynamic Modeling of Additive Manufacturing 
+    Alloy Processing
+7 - Lightweight Multifunctional Lattice Materials for Space 
+    Structures
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MAY 2017
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+James Ashley of the Mars Program Science Office, the May 2017 edition 
+of the Mars Exploration Science Monthly Newsletter can be found on the 
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MAPPING AND PLANETARY SPATIAL INFRASTRUCTURE TEAM (MAPSIT) COMMUNITY
+MEETING
+
+Thursday, June 15, Flagstaff
+
+The first MAPSIT community meeting will take place in Flagstaff at 
+the end of the Data Users Workshop, on Thursday morning June 15 at the 
+High Country Conference Center. We will discuss the importance of 
+spatial data infrastructure in a planetary context, talk about how to 
+make data accessible to all users, and discuss a roadmap that will 
+enable NASA to help us move these ideas forward. Please plan to stay 
+for the Thursday meeting and give your input.
+
+Data Users Workshop meeting website and agenda:
+
+https://www.hou.usra.edu/meetings/planetdata2017/
+
+MAPSIT website for more information and to register interest:
+
+http://www.lpi.usra.edu/mapsit/
+
+Thanks,
+Jani Radebaugh
+MAPSIT Chair
+and MAPSIT Steering Committee
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+THIRD ANNOUNCEMENT: ASTROBIOLOGY 2017
+
+http://astrobiology2017.org/third-announcement/
+
+It brings exciting news for this conference that will take place in 
+the beautiful Chilean Patagonia in Coyhaique (November 26-December 1, 
+2017).
+
+Some of the highlights are:
+
+Grant opportunities (application deadline is June 5, 2017) will be 
+available to partially support a number of graduate students to attend 
+(lodging grants and registration waivers). To apply click: 
+
+http://astrobiology2017.org/student-grants/
+
+Early registration deadline has been extended to allow for students 
+applying for grants to still make the early registration deadline, 
+the deadline has been extended until June 19, 2017. Please note that 
+other key dates have not changed.
+
+Oral contributions will be received until July 28, 2017. The SOC will 
+select oral papers after their review. The notification of 
+acceptance will be sent by August 25, 2017.
+
+A two day training school with lectures on basics of Astrobiology 
+will take place in Santiago during the Friday-Saturday preceding the 
+conference (November 24-25), and it is open to a maximum of 80 
+early-career participants. Interested participants of the TS should 
+reserve a seat during registration. Reservations for the training 
+school are on a first come-first served basis.
+
+http://www.astrobiology2017.org
+
+http://twitter.com/astrobio2017
+
+http://facebook.com/astrobio2017
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 15, 2017
+Mapping and Planetary Spatial Infrastructure Team (MAPSIT) Community 
+Meeting
+http://www.lpi.usra.edu/mapsit/
+Flagstaff, AZ
+
+May 14-June 8, 2018
+MIAPP 2018 Workshop - Near-Earth Objects: Properties, Detection, 
+Resources, Impacts and Defending Earth
+http://www.munich-iapp.de/programmes-topical-workshops/2018
+/near-earth-objects-properties-detection-resources-impacts
+-and-defending-earth/
+Munich, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+CASSINI-HUYGENS OWNER'S WORKSHOP MANUAL
+
+Ralph Lorenz's detailed but accessible compendium of the design,
+construction, testing and operation of the Cassini spacecraft, the
+Huygens probe and their instruments has just been released in the US by 
+Haynes.  The "Cassini-Huygens Owners' Workshop Manual" is a 
+large-format 196-page book in full color, with 325 images and is 
+available on amazon.com, presently at $32.
+
+
+C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2
+
+THE RINGED PLANET - CASSINI'S VOYAGE OF DISCOVERY AT SATURN
+
+Written for the general audience with an emphasis on the fundamental 
+physics of planetary systems, The Ringed Planet is a fascinating 
+exploration of the Saturn system that places Saturn in the context of 
+the solar system as a whole. Cassini's instruments have revealed 
+Enceladus and Titan to have subsurface oceans of liquid water. Its 
+cameras have returned stunning images of rings in turmoil, a tumbling 
+moon, the only extraterrestrial lakes known in the solar system, a 
+hexagon of clouds, some of the highest mountains in the solar system 
+and much more. Its final series of orbits before a planned crash into 
+Saturn in September 2017 will reveal details of the interior structure 
+of Saturn as well as provide unprecedented views of the rings. More 
+than a journey of discovery at Saturn, The Ringed Planet is also an 
+introduction to how planetary systems work. 
+
+Available at: 
+
+http://www.morganclaypoolpublishers.com/catalog_Orig
+/product_info.php?cPath=25&products_id=1055
+
+with a 20% discount using discount code authorcoll
+
+ 
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

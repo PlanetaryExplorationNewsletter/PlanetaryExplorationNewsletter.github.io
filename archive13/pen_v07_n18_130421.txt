@@ -1,0 +1,225 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 18 (April 21, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Jupiter Environment Tool (JET) Available for Magnetic Field 
+   Visualization
+2. NASA Postdoctoral Fellowships
+3. [NASA] Planetary Protection Subcommittee Meeting
+4. Planetary Atmospheres Researcher (GSFC/CRESST/University of 
+   Maryland)
+5. [NASA] Release of ROSES-13 Amendment 10: Instrument Technology 
+   Development in Support of the Europa Clipper Mission Concept
+6. EWASS 2013 Special Session Sp11. Rocks in our Solar System - 
+   Bridging the Gap Between Meteor, Meteorite and Asteroid Studies
+7. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JUPITER ENVIRONMENT TOOL (JET) AVAILABLE FOR MAGNETIC FIELD 
+VISUALIZATION
+
+The Jupiter Environment Tool (JET) is a custom user interface plugin 
+for Systems Tool Kit (STK) developed at JPL that provides an interface 
+to Jupiter environment models for visualization and analysis. Users 
+can visualize the different magnetic field models of Jupiter through 
+various rendering methods. These rendering methods are fully 
+integrated within STK's 3D Window, allowing users to take snapshots and 
+make animations of their scenarios with magnetic field visualizations. 
+Analytical data can be accessed in the form of custom vectors. Given 
+these customs vectors, users can have access to magnetic field data in 
+custom reports, graphs, access constraints, coverage analysis, and 
+anywhere else vectors are used within STK. For more information about 
+the software and to request a copy, visit: 
+
+http://solarsystem.nasa.gov/europa/jet.cfm 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PLANETARY PROTECTION SUBCOMMITTEE MEETING
+
+The next meeting of the Planetary Protection Subcommittee will be held 
+at NASA HQ on 29-30 April 2013. A focus of the meeting will be aspects 
+of  Mars Sample Return. A discussion of planetary protection for human 
+missions is also planned. The meeting is open to all (up to the 
+capacity of the room). Locations and teleconference and WebEx 
+information are below and on the agenda.
+
+
+April 29, 2013: 
+
+7:00 am – 5:30 pm 
+Room 9H40 (PRC) 
+https://nasa.webex.com/
+Meeting Number: 995 580 265
+Meeting Password: pps04292013!
+Dial in: 1-800-857-7040, Passcode: PPS
+
+
+April 30, 2013:
+
+7:00 am – 2:00 pm 
+Room 1Q39 
+2:00 pm – 5:30 pm
+MIC 6 (6H41A) 
+https://nasa.webex.com
+Meeting Number: 994 280 426
+Meeting Password: pps04302013!
+Dial in: 1-800-857-7040, Passcode: PPS
+
+Michael H. New, PhD
+Astrobiology Discipline Scientist
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY ATMOSPHERES RESEARCHER (GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+The NASA Goddard Space Flight Center's (GSFC) Planetary Environments
+Laboratory, in conjunction with the Center for Research and Exploration 
+in Space Science and Technology (CRESST), is soliciting applications 
+for a researcher in the field of Planetary Atmospheres to support Mars 
+upper atmosphere investigations with the MAVEN mission. Additional 
+details are available at:  
+
+http://www.astro.umd.edu/employment/
+
+Candidates should have a Ph.D. in a relevant discipline with a strong 
+and demonstrated interest in and understanding of upper atmospheric 
+physics. IDL skills and experience in acquisition and analysis of data 
+from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Monday, April 29, 2013 will receive full 
+consideration.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] RELEASE AMENDMENT 10: INSTRUMENT TECHNOLOGY DEVELOPMENT IN 
+SUPPORT OF THE EUROPA CLIPPER MISSION CONCEPT
+
+NASA released a call for instrument technology development in support 
+of the Europa Clipper mission concept entitled "Instrument Concepts for 
+Europa Exploration (ICEE)". The goal is to mature and reduce the 
+technical risk of instruments for the Europa Clipper mission to the 
+point where they may be proposed in response to a possible future 
+announcement of flight opportunity without additional extensive 
+technology development. 
+
+Notices of Intent are requested by May 13, 2013. Proposals are due
+June 10, 2013.
+
+The Europa Clipper strawman payload includes an Ice Penetrating Radar 
+(IPR), a Shortwave Infrared Spectrometer (SWIRS), a Topographic Imager 
+(TI), a mass spectrometer (MS), and a magnetometer. The IPR, SWIRS, TI, 
+and MS have been identified as needing significant early development to 
+enable them to operate in the Europan environment, and NASA plans to 
+target those instruments with this funding opportunity. While other 
+instruments may be proposed, selection preference will be given to 
+proposed instruments in these four categories. 
+
+Questions and comments should be addressed to:  
+
+Curt Niebur
+202-358-0390 
+curt.niebur@nasa.gov
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EWASS 2013 SPECIAL SESSION SP11. ROCKS IN OUR SOLAR SYSTEM - BRIDGING 
+THE GAP BETWEEN METEOR METEORITE AND ASTEROID STUDIES
+
+The session will bring together scientists working on all aspects of 
+Solar System rocky material properties. The topic includes laboratory 
+analysis of meteorites and cosmic dust as well as observations and 
+modeling of both meteoroids and asteroids. The contributions bridging 
+the gap between properties of meteors, meteorites and asteroids are 
+highly welcome. The session will also focus on recent Chelyabinsk 
+fireball / meteorite fall event in order to put together knowledge 
+acquired from studies of fireball trajectory, orbital analysis, and 
+recovered meteorites.
+
+Abstract submission, registration, and conference program is 
+available at:
+
+http://www.astro.utu.fi/EWASS2013/index.php
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 8-13, 2013
+European Week of Astronomy and Space Science
+http://www.astro.utu.fi/EWASS2013/index.php 
+Turku, Finland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

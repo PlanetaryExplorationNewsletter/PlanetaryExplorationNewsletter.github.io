@@ -1,0 +1,732 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 7 (February 12, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes, 
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 4th Dust, Atmosphere, and Plasma Environment of the Moon and Small 
+   Bodies Workshop
+2. PhD in Modeling Tidal Dissipation in Io at Delft University of 
+   Technology, Netherlands
+3. Invitation to Submit Nomination Packages for AGU Planetary Science 
+   Awards
+4. AOGS Session PS13: Surface Processes on Rocky Bodies in the Solar 
+   System
+5. AOGS Session PS14: Venus - Evolution of the Interior, Surface, and 
+   Atmosphere
+6. Chromatography Job Opening at NASA GSFC
+7. Two PhD Positions in Space Physics in the Department of Physics at 
+   Umea University, Sweden
+8. Postdoc in Mars Geology/Geomorphology at the Smithsonian National 
+   Air and Space Museum
+9. PhD Position in Numerical Modeling of Meteorite Thermal and 
+   Mechanical Properties at DLR, Berlin
+10. Three positions at IRF in Sweden
+11. PostDoc Position in Astrochemistry in Protoplanetary Disks at the 
+    Space Research Institute, Graz
+12. Call for Letters of Intent to Host the Asteroids, Comets, Meteors 
+    2026 Conference
+13. Ice Giant Systems Seminar Series: February 14, Dr. Kathy Mandt 
+    (JHU/APL)
+14. [NASA] MUREP Space Technology Artemis Research (M-STAR) 
+    Announcement Released
+15. [NASA] Preproposal Webinar on MUREP Curriculum Awards
+16. Lunar Surface Innovation Consortium (LSIC) Spring Meeting
+17. ICFS 2023 Session: Planetary Fluvial Sedimentology and 
+    Stratigraphy
+18. Abstract Submission Reminder for Apophis T-6 Workshop
+19. [NASA] PI Launchpad: Developing Your First Flight Mission Proposal
+20. Planetary Meeting Calendar Additions
+21. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+4TH DUST, ATMOSPHERE, AND PLASMA ENVIRONMENT OF THE MOON AND SMALL 
+BODIES WORKSHOP
+
+We are pleased to announce the 4th Dust, Atmosphere, and Plasma 
+Environment of the Moon and Small Bodies (DAP-2023) workshop this 
+summer. This will be a three-day workshop from June 5-7, 2023 in 
+Boulder, CO.
+
+The DAP-2023 workshop will be hosted by the SSERVI-IMPACT team at the 
+University of Colorado, and will be a forum to (i) discuss our current 
+understanding of the surface environment of the Moon and other small 
+bodies, (ii) share new results from past and ongoing missions to the 
+Moon, airless bodies and comets, and (iii) describe expectations, 
+problems, and solutions for planned future missions to dusty 
+destinations.
+
+DAP-2023 will follow the tradition of three previous workshops, 
+LDAP-2010, DAP-2012, and DAP-2017. Contributions to each of these 
+workshops were published in special issues of Planetary and Space 
+Sciences.
+
+A more detailed announcement with abstract submission instructions and 
+dates should be arriving to your inbox by the end of the month, but 
+for now please mark your calendar, and we look forward to seeing you in 
+Boulder this June.
+
+Best regards,
+Tobin Munsat, Xu Wang, and Mihaly Horanyi
+DAP-2023 organizers
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PHD IN MODELING TIDAL DISSIPATION IN IO AT DELFT UNIVERSITY OF 
+TECHNOLOGY, NETHERLANDS
+
+The planetary exploration group at Delft University of Technology is 
+advertising a fully funded PhD position on modelling tidal dissipation 
+on Io. The position is aimed at developing a numerical model to link 
+tidal dissipation in the interior to observations of high heatflow and 
+volcanism. The focus is on modelling the feedback between heat 
+generation and Io's interior structure, and the generation of melt. The 
+position is suitable for (soon to be) MSc graduates in engineering or 
+physics (or equivalent) with a strong background in modelling and 
+programming.
+
+The position will be for four years, with a preferred start date before 
+July of 2023. The application deadline is February 22, 2023. Inquiries 
+about the position can be sent to w.vanderwal@tudelft.nl. Further 
+details are given here: 
+
+https://tinyurl.com/2p92j7ad
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+INVITATION TO SUBMIT NOMINATION PACKAGES FOR AGU PLANETARY SCIENCE 
+AWARDS
+
+AGU Awards are now open for submission. We are reaching out to the 
+community to encourage nominations for the main two planetary awards:
+
+(1) Ronald Greeley Early Career Award (for scientists up to 6 yrs from 
+their final degree; must be active AGU members) - nominations due 
+April 1
+
+https://tinyurl.com/2p8h55yu
+
+(2) Fred Whipple Award and Lecture (for outstanding achievement by a 
+mid-career or senior scientist; AGU membership not required) 
+- nominations due April 12
+
+https://tinyurl.com/yxczzusp
+
+Also check out the AGU Union awards that some of our colleagues may be 
+eligible for. Nominations require a lead nominator and 3 supporting 
+letters, along with some supporting documentation. We are happy to 
+answer questions about the process. Go to:
+
+https://www.agu.org/Honor-and-Recognize/Honors/Union-Awards/
+
+The AGU Planetary Section Leadership and Awards Canvassing Committee: 
+contact us at AGU.PS.Awards.CC@gmail.com for questions.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AOGS SESSION PS13: SURFACE PROCESSES ON ROCKY BODIES IN THE SOLAR 
+SYSTEM
+
+The session will be held during the 20th AOGS Annual Meeting on July 30
+- April 4 in Singapore.
+
+By characterizing the surface geomorphology, material properties, and
+subsurface stratigraphy, our understanding of the geological processes
+that have acted on rocky bodies over their history develops.
+Remarkable advances in both remote sensing and in-situ exploration in
+recent years have shed further light on the many outstanding questions
+about the formation and evolution of the Solar System.
+
+We would like to invite you to submit abstracts related to the
+following topics, but are not limited to:
+- Recent and future planetary exploration missions;
+- Planetary geologic mapping;
+- Planetary geomorphology;
+- Planetary remote sensing;
+- Planetary subsurface structure;
+- Observation and characterization of asteroids and comets;
+- Water, volatiles, organics;
+- Thermal properties of the Moon, asteroids, and comets;
+- Dust of planetary and small bodies;
+- Cosmic rays, solar wind and their interaction with planetary surfaces.
+
+Please consider submitting an abstract:
+
+https://tinyurl.com/y373n7jp
+
+Abstract deadline: February 14, 2023
+
+Conveners: Yi Xu and Roberto Bugiolacchi
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AOGS SESSION PS14: VENUS - EVOLUTION OF THE INTERIOR, SURFACE, AND 
+ATMOSPHERE
+
+The session will be held during the 20th AOGS Annual Meeting on July 30 
+- April 4 in Singapore.
+
+While many spacecraft have flown by or descended to the surface of 
+Venus, it has only been visited long-term by a few orbiters, such as 
+multiple Venera spacecraft from the Soviet Union, NASA's Pioneer 
+Venus 1 and Magellan missions, ESA's Venus Express, and JAXA's 
+currently ongoing mission Akatsuki. Four missions, including VERITAS, 
+DAVINCI, EnVision and Venera D, have been selected by NASA, ESA and 
+Roscosmos to explore Venus in the coming decades. In the meantime, 
+China's Venus Volcano and Climate imaging Explorer (VOICE) mission is 
+now one of the candidates for future missions to be implemented, and 
+if selected VOICE will orbit Venus by 2030. The proposed session aims 
+to consolidate our understanding of the evolutionary history of Venus 
+and to better prepare focused questions for the future missions.
+
+For more details and submitting abstracts, please see:
+
+https://tinyurl.com/y373n7jp
+
+Looking forward to seeing you in Singapore.
+
+Abstract deadline: February 14, 2023
+
+Convenors: Yang Liu, Xiaolong Dong, James Head, Jorn Helbert
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CHROMATOGRAPHY JOB OPENING AT NASA GSFC
+
+The Planetary Environments Lab at NASA Goddard Space Flight Center, 
+which studies the chemistry and astrobiology of the atmospheres and 
+surfaces of planetary bodies, is seeking a scientist who specializes in 
+chromatography, with a strong emphasis on front end separation 
+techniques and hardware development. Candidates are expected to have 
+experience in chromatography mass spectrometry techniques. 
+
+The job is open to all US citizens. Applications are open between 
+2/9/2023 and 2/23/2023. Go to: 
+
+https://www.usajobs.gov/job/702547900
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+TWO PHD POSITIONS IN SPACE PHYSICS IN THE DEPARTMENT OF PHYSICS AT UMEA
+UNIVERSITY, SWEDEN
+
+The first position is on studying terrestrial magnetosheath jets 
+(Principal Investigator is Associate Prof. Maria Hamrin, email:
+maria.hamirn@space.umu.se). For more information about this ad on how
+to apply for it please visit:
+
+https://tinyurl.com/2u9fscr6
+
+The second position is on modeling magnetosphere-interior coupling at
+Mercury (Principal Investigator is Dr. Shahab Fatemi, email:
+shahab.fatemi@umu.se). For more information about this ad on how to
+apply for it please visit:
+
+https://tinyurl.com/yck3xwad
+
+The employment for both positions is limited to four years at full
+time for up to five years if teaching and other departmental work is
+performed. Applications should be submitted via our e-recruitment
+system Varbi at latest by 15 April 2023. The employment starts in 1
+September 2023 or according to agreement. If you have any questions,
+please do not hesitate to contact the principal investigators of each
+position.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC IN MARS GEOLOGY/GEOMORPHOLOGY AT THE SMITHSONIAN NATIONAL AIR 
+AND SPACE MUSEUM 
+
+The Smithsonian Institution, National Air and Space Museum (NASM), 
+Center for Earth and Planetary Studies (CEPS) in Washington, DC 
+welcomes applications for a postdoctoral position.
+
+Research areas for the position include analysis of:
+
+- Geologic mapping of Mars, including relevant data analysis, and 
+  drafting text and figures for peer-reviewed publications.
+- Geomorphic and topographic analyses of fluvial landforms using Mars 
+  orbiter and rover data, including relatively young fluvial landforms 
+  on impact craters.
+- Participation on the Science Operations Team for Mars Science 
+  Laboratory Curiosity rover; and field studies of Mars analog 
+  landforms.
+
+Applicants must demonstrate experience in analysis of Earth or 
+planetary datasets. A background in quantitative terrestrial or 
+planetary geology and experience with geographic information systems 
+analysis of imaging and topography are desired.
+
+This is a full-time, 2-year position in Washington, DC with benefits. 
+The Smithsonian Institution is an Equal Opportunity Employer.
+
+More details and application process here: 
+
+https://www.si.edu/content/ohr/SITrustVacs/SITRUST-23-NASM0201.pdf
+
+Application deadline is 5pm (Eastern time) on February 17, 2023.
+
+For questions, email Sharon Wilson Purdy (purdys@si.edu) or Ross Irwin 
+(irwinr@si.edu).
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PHD POSITION IN NUMERICAL MODELING OF METEORITE THERMAL AND MECHANICAL
+PROPERTIES AT DLR, BERLIN
+
+The DLR Institute of Planetary Research in Berlin is looking for a PhD 
+candidate interested in numerical modeling the mechanical and thermal 
+properties of extraterrestrial materials. Current space missions to 
+asteroids Ryugu and Bennu as well as the analysis of returned samples 
+and meteorites have provided valuable data on their physical 
+properties, but the theoretical understanding of the mechanisms 
+governing their physical behavior are still lacking behind. The goal of 
+this project is to develop numerical models that can be directly 
+compared to laboratory experiments on analogue materials and 
+meteorites.
+
+For more details on the open position and how to apply please visit:
+
+https://tinyurl.com/2p8jmay3
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+THREE POSITIONS AT IRF IN SWEDEN
+
+(1) Research engineer specializing in analog electronics
+
+Your main area of responsibility will be to develop, design, 
+manufacture and test electronics for space instruments. Go to:
+
+https://tinyurl.com/455m8b8d
+
+(2) Post-Doctoral Position in Space Plasma Physics
+
+The tasks include but are not limited to:
+- science data analysis from IRF's particle instruments onboard lunar 
+  missions
+- collaboration with our simulation group working on the exosphere 
+  dynamics and global Moon - solar wind interaction models
+
+Go to:
+
+https://tinyurl.com/yckm2pm2
+
+(3) Post-doctoral position in Atmospheric Physics
+
+The tasks will include but are not limited to:
+- lidar measurements
+- testing and improving data inversion routines
+- analysis of lidar data
+- compilation of data products for validation
+
+Go to:
+
+https://tinyurl.com/4a6xy2ub
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOC POSITION IN ASTROCHEMISTRY IN PROTOPLANETARY DISKS AT THE SPACE 
+RESEARCH INSTITUTE, GRAZ
+
+The Space Research Institute (IWF) of the Austrian Academy of Sciences 
+(OeAW), is offering a PostDoc Position in Astrochemistry in 
+Protoplanetary Disks. The successful candidate will join the IWF 
+research group "Planet-forming Disks and Astrochemistry" led by Dr. 
+Peter Woitke as part of the OeAW's efforts to expand the theme of 
+exoplanet research at the IWF in Graz, Austria. The candidate is 
+expected to contribute to the development of IWF's disk group by 
+comparing observational data with modelling results obtained with the 
+thermo-chemical disk simulation code ProDiMo.
+
+The applicant must hold a PhD in Physics, Geophysics, Astrophysics, or 
+a related field. The appointment is initially for a duration of 3 
+years, with the possibility of an extension for another 3 years. The 
+appointment begins as early as June 1, 2023.
+
+Applications must include: 
+(1) CV, 
+(2) publication list, 
+(3) research statement - max 3 pages, 
+(4) academic certificates, and 
+(5) names of three referees willing to send letters of recommendation 
+
+Please send the application as one PDF file, mentioning Job ID: 
+IWF172PD122 to Cosima Muck, cosima.muck@oeaw.ac.at, no later than 
+March 1, 2023.
+
+Go to:
+
+https://tinyurl.com/4mmsfn9m
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CALL FOR LETTERS OF INTENT TO HOST THE ASTEROIDS, COMETS, METEORS 2026
+CONFERENCE
+
+The organization of Asteroids, Comets, Meteors in Flagstaff, 
+June 18-23, 2023 (ACM 2023) is well on its way.
+
+We call for letters of intent concerning the next conference after ACM 
+2023, tentatively scheduled for 2026 (maintaining the triennial pace). 
+In particular, we encourage letters of intent from outside the 
+Americas.
+
+The letter of intent should describe the organizing entity with the 
+main contact person (detailed address and e-mail information), the
+conference venue and tentative timing, travel information, as well as
+envisaged funding support. Please note that ACM is not a professional
+society, and there is no carryover of funds or debts from one meeting
+to another.
+
+The letter of intent should not exceed three pages in length and can
+be submitted via e-mail to the ACM-SC chair. The timeline is as
+follows:
+
+- March 31, 2023: letters of intent due
+- April 30, 2023: decision by the ACM-SC
+
+The location and host of ACM2026 will be announced at the ACM2023 
+banquet.
+
+The letters should be sent to:
+
+Gonzalo Tancredi, gonzalo@fisica.edu.uy
+David Trilling, David.Trilling@nau.edu
+
+ACM Steering Committee
+Gonzalo Tancredi (chair)
+David Trilling
+Karri Muinonen
+Junichi Watanabe
+Andy Rivkin
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ICE GIANT SYSTEMS SEMINAR SERIES: FEBRUARY 14, DR. KATHY MANDT 
+(JHU/APL)
+
+Date/Time: February 14, 2023, at 11am EST
+Speaker: Dr. Kathy Mandt (JHU/APL)
+Topic: Determining origin and evolution of Uranus with a single 
+atmospheric probe
+
+The Ice Giant Systems Seminar Series showcases recent developments in 
+scientific topics covering all aspects of the ice giant systems, 
+including atmospheres, satellites, rings, magnetic fields, interior 
+structures, and science related to formation and evolution. 
+
+Registration is no longer needed. To access the virtual seminar, view 
+the seminar schedule, and "Stay Informed" via the listserv, visit the 
+series website here: 
+
+https://neptuneodyssey.jhuapl.edu/Events/
+
+We are actively looking for speakers starting in May, occurring on the 
+second Tuesday of each month. If you're interested in giving a talk at 
+a future Ice Giant Systems Seminar, please email us!
+
+Jodi Berdis: jodi.berdis@jhuapl.edu
+Mallory Kinczyk: mallory.knczyk@jhuapl.edu
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] MUREP SPACE TECHNOLOGY ARTEMIS RESEARCH (M-STAR) ANNOUNCEMENT 
+RELEASED
+
+Go to:
+
+https://tinyurl.com/mr7jk83k
+
+Full proposals due at 5:00 pm Eastern Time on Monday, April 10, 2023.
+
+This is open only to U.S. 2-year/community colleges and 4-year 
+colleges/universities, designated by the U.S. Department of Education 
+as Minority Serving Institutions (AANH, AANAPISI, HBCU, HSI, NASNTI, 
+PBI, TCU). Institutions not meeting this requirement are encouraged to 
+collaborate with a lead MSI.
+
+Optional pre-proposal webinars for the M-STAR opportunity will be held 
+on:
+
+Thursday, February 23, 2023 from 4:00-5:30 pm Eastern Time  
+Tuesday, March 14, 2023 from 4:00-5:00 pm Eastern Time  
+
+For information on joining the call, go to the above URL.
+
+For general inquiries, please contact: NASAMSTAR@nasaprs.com
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] PREPROPOSAL WEBINAR ON MUREP CURRICULUM AWARDS
+
+Thursday, February 16, 2023
+From 3:00-4:30pm Eastern Time
+
+During this session, the MCA team will give an in-depth overview of the 
+opportunity and highlight information contained in the EONS-2023 
+document regarding proposal preparation and requirements. Proposers may 
+also receive technical assistance from project staff at this time, 
+including tips and guidance for submitting proposals. 
+
+Please visit the MCA landing page in NSPIRES prior to the session for 
+details on how to pre-register for the webinar:
+
+https://tinyurl.com/bd7j4rtb
+
+A second, abbreviated, pre-proposal webinar will be held on Thursday, 
+April 6, 2023 from 4:00-5:00 pm Eastern Time, for further clarification 
+and to answer questions. Details on how to join the second webinar will 
+be provided on MCA landing page the later time.
+
+A recording of each webinar will be made available on the MCA landing 
+page.
+
+Please submit all questions to MCA@nasaprs.com.  
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+ 
+LUNAR SURFACE INNOVATION CONSORTIUM (LSIC) SPRING MEETING
+
+The Lunar Surface Innovation Consortium (LSIC) Spring meeting will be 
+held on April 24-25, 2023, at the Johns Hopkins Applied Physics Lab and 
+online. The event will focus on the technology developments needed to 
+enable a sustained presence on the lunar surface. Panels, discussions, 
+and working sessions will include topics such as long-term use cases 
+for infrastructure on the lunar surface, technology developments, and 
+discussing a community white paper aimed to capture the community's 
+perspective on the infrastructure and technology developments needed to 
+support transition from a mostly NASA-supported presence to industry or 
+other public or private participants.
+
+Important dates:
+
+- February 15, Abstract submission closes
+- April 10, Registration deadline for in-person attendance
+- April 17, Registration deadline for virtual attendance
+
+The registration portal will open soon. For more information on the 
+agenda and venue, or to register for the event, please visit: 
+
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=380
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+ICFS 2023 SESSION: PLANETARY FLUVIAL SEDIMENTOLOGY AND STRATIGRAPHY
+
+Please consider submitting an abstract to the session on Planetary 
+fluvial sedimentology and stratigraphy at the International Conference 
+on Fluvial Sedimentology 2023 (2-7 July 2023) in Riva del Garda, Italy.
+
+For the full description of the session, please see:
+
+https://www.icfs2023.it
+
+Orbital imagery has revealed a vast, ancient fluvial stratigraphic 
+record and rover missions have enabled detailed sedimentological 
+studies combined with mineralogical and chemical analyses. In some 
+instances, the stratigraphic record encoding details of that Mars' 
+history and the signature of potential habitability is clearly visible 
+and accessible both from orbiter and rover. Considering ongoing and 
+future exploration missions aim to find potentially habitable 
+environments, fluvial sedimentary rock outcrops therefore make 
+desirable targets. This session invites contributions toward Martian 
+fluvial sedimentary geology. I We welcome presentations that utilise 
+appropriate Earth analogues, both modern and ancient and/or 
+laboratory/numerical simulation. As ongoing and upcoming rover 
+missions are providing increased opportunity to study extraterrestrial 
+sedimentary strata, understanding directly accessible Earth analogues 
+from which to base comparisons has never been more essential. We 
+especially welcome contributions from early-career scientists and 
+sedimentologists who are new to planetary science.
+
+Best wishes,
+
+Francesco Salese, Gian Gabriele Ori
+
+[Edited for length]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+ABSTRACT SUBMISSION REMINDER FOR APOPHIS T-6 WORKSHOP
+
+Abstracts are due 23 February 2023 17:00 CST (GMT-6) for the upcoming 
+workshop "Apophis T-6 Years: Knowledge Opportunities for the Science of 
+Planetary Defense".
+
+The dates for this virtual-only workshop are 10-12 May, 2023. Abstracts 
+are most highly encouraged focusing on international collaboration 
+opportunities for both Earth-based observations and potential in situ 
+investigations, following the prioritized recommendations of the 
+Apophis Specific Action Team (SAT).
+
+Apophis SAT report is available here:
+
+https://www.lpi.usra.edu/sbag/documents/Apophis_SAT.pdf
+
+Workshop Website:
+
+https://www.hou.usra.edu/meetings/apophis2023/
+
+Indication of Interest:
+
+https://www.hou.usra.edu/meetings/apophis2023/iofi/
+
+Abstract Submission:
+
+https://www.hou.usra.edu/meetings/apophis2023/abstracts/
+
+Inquiries may be directed to Richard Binzel (MIT): rpb at mit.edu
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] PI LAUNCHPAD: DEVELOPING YOUR FIRST FLIGHT MISSION PROPOSAL
+
+Applications due: April 14, 2023
+Workshop Dates: July 24-27, 2023
+Workshop Location: University of Michigan, Ann Arbor
+
+Are you thinking about developing your first flight mission proposal in 
+the next few years but have no idea where to start? If you are a 
+researcher or engineers who would like to submit a NASA space mission 
+proposal in the next few years but don't know where to start, this June 
+virtual workshop is for you! We are interested in broadening the pool
+of potential NASA space mission Principal Investigators (PIs). People 
+with marginalized identities are strongly encouraged to apply. There is 
+no cost to attend the workshop.
+
+PI Launchpad applications and instructions on how to apply and other 
+information are available on the NSPIRES page for this opportunity:
+
+https://tinyurl.com/48f3d5ws
+
+[Edited for length]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+Aril 24-25, 2023
+Lunar Surface Innovation Consortium Meeting
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=380
+Laurel, MD
+
+July 2-7, 2023
+International Conference on Fluvial Sedimentology 2023
+https://www.icfs2023.it
+Riva del Garda, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Subsurface Science and Search for Life in Ocean Worlds
+Justin D. Lawrence et al. 2023 PSJ 4:22
+https://doi.org/10.3847/PSJ/aca6ed
+
+Thin-shell Tidal Dynamics of Ocean Worlds
+Marc Rovira-Navarro et al. 2023 PSJ 4:23
+https://doi.org/10.3847/PSJ/acae9a
+
+Optical Characterization of the DART Impact Plume: Importance of
+Realistic Ejecta Scattering Properties
+Ramin Lolachi et al. 2023 PSJ 4:24
+https://doi.org/10.3847/PSJ/aca968
+
+Ammonia Abundance Derived from Juno MWR and VLA Observations of
+Jupiter
+Chris Moeckel et al. 2023 PSJ 4:25
+https://doi.org/10.3847/PSJ/acaf6b
+
+Leto Mission Concept for Green Reconnaissance of the Marius Hills
+Lunar Pit
+Donald M. Hooper et al. 2023 PSJ 4:26
+https://doi.org/10.3847/PSJ/acaf87
+
+Spectral Analysis of Clay-bearing Outcrops in Northern Xanthe Terra,
+Mars: Comparison with Oxia Planum, the Landing Site for the ExoMars
+Rover Mission
+Jeremy Brossier et al. 2023 PSJ 4:27
+https://doi.org/10.3847/PSJ/acb3bc
+
+Analysis of CN Coma Morphology Features of Comet 21P/Giacobini-Zinner
+Charles Goldberg et al. 2023 PSJ 4:28
+https://doi.org/10.3847/PSJ/acb436
+
+(523599) 2003 RM: The Asteroid that Wanted to be a Comet
+Davide Farnocchia et al. 2023 PSJ 4:29
+https://doi.org/10.3847/PSJ/acb25b
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************
+

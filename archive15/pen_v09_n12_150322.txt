@@ -1,0 +1,366 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 12 (March 22, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. MAVEN Data Users' Workshop and Project Science Group Meeting
+2. Travel Grant Announcement
+3. [NASA] PDS - Mars Science Laboratory Release 8
+4. Early E-ELT Science: Spectroscopy with HARMONI
+5. NASA Postdoctoral Fellowships
+6. Registration for Venus Instrument and Lab Measurement Workshop
+7. Undergraduate and Graduate Student Travel Awards for Comparative 
+   Climatology of Terrestrial Planets Conference #2 (CCTP2) 
+8. [NASA] Delay of Due Date and 2018 Launch Readiness Date SIMPLEx
+9. Director, NASA Astrobiology Institute (NAI)
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MAVEN DATA USERS' WORKSHOP AND PROJECT SCIENCE GROUP MEETING
+
+The first MAVEN data is scheduled to be released via the PDS in 
+May 2015. We will hold a one-day data users' workshop during the week 
+of 22 June to help new users learn how to access, utilize, and 
+understand the data. In addition, we want to invite scientists who are 
+using MAVEN data to interact with the MAVEN science team at our 
+Project Science Group meeting that same week. Both meetings will be 
+held at LASP in Boulder, Colorado. Specific days that week are still 
+being worked out. The data workshop is open to anybody who wishes to 
+attend. Participation in the PSG is open only to researchers who are 
+actively using MAVEN data. No funding is available to attend either 
+meeting.
+
+To express interest in the data users' workshop, or to apply to 
+participate in the PSG, please email bruce.jakosky@lasp.colorado.edu. 
+Participation must be approved in advance, and we cannot accept walk-up 
+participants.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+TRAVEL GRANT ANNOUNCEMENT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the first 
+2015 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering. 
+
+The Travel Grants, in the amount of $500, enable student recipients 
+to attend professional meetings to present their research. The Spring 
+2015 Travel Grant application deadline is April 1, 2015. Jerry Soffen, 
+a biologist by training, led a distinguished career in NASA, 
+including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+http://SoffenFund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+info@SoffenFund.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - NASA SCIENCE LABORATORY RELEASE 8
+
+The NASA Planetary Data System announces the eighth release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sol 708 through Sol 804 (August 3, 2014 through November 10, 
+2014).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+APXS
+ChemCam
+CheMin
+DAN
+Hazcam
+MAHLI
+MARDI
+Mastcam
+Navcam
+RAD
+REMS
+SAM
+SPICE
+
+To access the above data for this release:
+
+http://pds.nasa.gov/subscription_service/SS-20150316.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from the main PDS home page: 
+
+http://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EARLY E-ELT SCIENCE: SPECTROSCOPY WITH HARMONI
+
+29th June - 3rd July 2015 at the Oxford University Museum of Natural 
+History, Oxford UK.
+
+This workshop will explore some of the first science that will emerge
+from the European Extremely Large Telescope (E-ELT) in the next decade. 
+With a 39m diameter primary mirror, E-ELT will be the largest visible 
+and infrared telescope in the world, and its science will be 
+transformational. The primary spectroscopic capability of E-ELT at
+first light will be provided by the HARMONI instrument, a visible and
+near-infrared integral field spectrograph that will be capable of
+working close to the diffraction limit of the telescope (when fed by
+adaptive optics) or in natural seeing mode.
+
+The meeting will bring together experts spanning a wide range of
+observational programmes, from planetary science to cosmology.
+
+Abstract submission deadline for talks - 27th March
+
+Early registration payment deadline - 24th April
+
+For further information on the draft programme, key dates and local 
+information, please visit the conference web site:
+
+http://harmoni2015.physics.ox.ac.uk 
+
+For any queries about the workshop, please email eelt@astro.ox.ac.uk
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.  
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in Earth science, heliophysics, astrophysics, planetary 
+science, astrobiology, space bioscience, aeronautics and engineering, 
+human exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18421
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1Kjlmyr
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REGISTRATION FOR VENUS INSTRUMENT AND LAB MEASUREMENT WORKSHOP
+
+Reminder that April 7-8th, the dates of the Venus Instruments and 
+Laboratory Measurements workshop, is quickly approaching and if you 
+haven't done so please register soon. Regular registration ends March 
+24th. Onsite registration at the workshop will also be available but 
+via credit card only.
+
+Workshop information is available at: 
+
+http://www.hou.usra.edu/meetings/venustech2015/  
+
+Looking forward to seeing you there!
+
+Organizers
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+UNDERGRADUATE AND GRADUATE STUDENT TRAVEL AWARDS FOR COMPARATIVE 
+CLIMATOLOGY OF TERRESTRIAL PLANETS CONFERENCE #2 (CCTP2)
+
+Limited student travel support may be available for U.S. citizens or 
+legal residents for this meeting that will be held September 8-11, 
+2015, Moffett Field, California.
+
+Student travel applications should include the following information:
+
+1) A one-page description of how your participation in the meeting 
+will benefit: (a) you professionally and (b) NASA's goals of planetary 
+exploration, particularly Venus;
+
+2) A copy of your draft abstract;
+
+3) Your resume;
+
+4) A statement of endorsement from a faculty member.
+
+Student travel applications are due on the same date as the abstracts 
+(April 30), but all application materials should be sent to the 
+conveners (Jeff Hollingsworth, jeffery.l.hollingsworth@nasa.gov;
+Lori Glaze, lori.s.glaze@nasa.gov; and Shawn Domagal-Goldman, 
+shawn.goldman@nasa.gov). Applicants will be notified of the selections 
+by May 8. Questions about these awards can be submitted to the 
+conveners.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] DELAY OF DUE DATE AND 2018 LAUNCH READINESS DATE SIMPLEX
+
+This amendment to ROSES-2014 delays the Step-2 date for proposals to 
+program element C.21, Small, Innovative Missions for Planetary 
+Exploration (SIMPLEx) and the launch readiness date to July 2018.
+
+SLS confirms that the EM-1 launch readiness date will be July 18, 2018. 
+We are very sorry for the inconvenience this has caused to our 
+community of science investigators who are being asked to revise their 
+proposals once more. We hope that the July 2018 date will allow 
+investigators to propose even more compelling science investigations 
+beyond Earth orbit. No additional changes are anticipated.
+
+We have also allocated more time for proposers to update proposals to 
+adhere to this launch readiness schedule. Proposers that have already 
+submitted a Step 2 proposal are encouraged to update their proposal 
+and resubmit. The due date for SIMPLEx Step-2 proposals has been 
+extended to April 10, 2015.
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+It will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2014
+
+Questions concerning this program element may be directed to Janice 
+Buckner at Janice.L.Buckner@nasa.gov or 202 358-0183.
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DIRECTOR, NASA ASTROBIOLOGY INSTITUTE (NAI)
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI). 
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future. Applicants for this position should have a 
+broad scientific perspective on astrobiology, experience in conducting 
+interdisciplinary scientific research, and demonstrated skills needed 
+to harness the strengths of disparate research communities towards a 
+greater goal. S/he should understand how to grow a research endeavor 
+and respond to changing budget climates while focusing on maximizing 
+the scientific return on NASA's investments in astrobiology. S/he 
+should have experience in leading a diverse staff ranging from 
+established scientists to support personnel, resource planning, and 
+executing budgets and schedules. S/he should be comfortable with modern 
+information technologies and distributed research teams. NASA is 
+particularly interested in applicants who will find ways to infuse 
+astrobiology into NASA flight missions.
+
+Interested individuals should apply directly to USAJobs at: 
+
+http://www.usajobs.gov 
+
+by May 1, 2015. In the keyword search box, type vacancy number 
+'AR15S0001.' Select 'Director, NASA Astrobiology Institute', then click 
+'Apply Online'. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 29 - July 3, 2015
+Early E-ELT Science: Spectroscopy With HARMONI 
+http://harmoni2015.physics.ox.ac.u
+Oxford, UK
+
+August 3-7
+NBIA Summer School on Protoplanetary Disks and Planet Formation
+http://www.nbia.dk/phd-school-2015
+Copenhagen, Denmark
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

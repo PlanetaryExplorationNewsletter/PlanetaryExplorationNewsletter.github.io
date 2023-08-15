@@ -1,0 +1,412 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 21 (May 17, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Small Bodies Assessment Group (SBAG) Community Survey for Decadal
+   Report
+2. ROSES-20: C.22 Radioisotope Power Systems Not Solicited
+3. JPL Open Position: Research Scientist, Planetary Interiors and 
+   Geophysics
+4. Postdoctoral Researcher in Planetary Magnetospheric Physics
+5. USGS Astrogeology Cartographic Technician (Term GS-07/08, FPL GS-09)
+6. JPL Open Position: Research Scientist, Astrobiology and Ocean Worlds
+7. Joint LEAG/SSERVI Meeting
+8. Women in Planetary Science Blog Post
+9. Ph.D. Student in Space Physics for Studies of Space Plasmas
+10. Outer Planet Moon-Magnetosphere Interaction Workshop 
+11. Mars Atmosphere and Volatile Evolution Data Release 21
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) COMMUNITY SURVEY FOR DECADAL
+REPORT
+
+SBAG has posted a survey that queries the community for opinions on
+research priorities and missions. Please fill it out before May 25,
+2020. It should take about 10 minutes.
+
+https://www.surveymonkey.com/r/sbag_decadal
+
+Bonnie Buratti, for the SBAG Steering Committee
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ROSES-20: C.22 RADIOISOTOPE POWER SYSTEMS NOT SOLICITED
+
+REMBRandT seeks to enable advancements in thermoelectric, thermionic, 
+thermodynamic cycle-based technology, and other viable means of 
+converting heat flux directly into electrical energy for use in 
+radioisotope power systems for deep space science missions. The goals 
+of the program are to improve radioisotope power systems by:
+
+- increasing their performance, reliability, and efficiency
+- enabling long life operation (greater than 20 years)
+- enhancing manufacturing processes for materials and components
+
+ROSES-2020 Amendment 20 announces that REMBRandT, which was TBD, will 
+not be solicited in ROSES-2020.
+ 
+Questions concerning REMBRandT may be directed to Leah Nakley at 
+leah.m.nakley@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, PLANETARY INTERIORS AND 
+GEOPHYSICS
+
+Location: Pasadena, CA
+
+The Jet Propulsion Laboratory invites applications for a Scientist who 
+will bring new expertise to and ensure continuity of existing 
+capabilities at JPL in planetary science. The successful candidate will 
+develop models for the chemical evolution of Europa, Enceladus, Titan, 
+Ganymede, and other ocean worlds in support of the Icy Worlds, Titan, 
+and Vital Signs teams. The candidate will investigate the detailed 
+chemical evolution of Europa’s interior and its ice. Perform NASA 
+funded research, including setting up and conducting novel experiments 
+to measure chemical properties and processes applicable to planetary 
+interiors. Investigate the metamorphic evolution of Ceres’ rocky 
+mantle and support mission formulation as a subject matter expert on 
+ocean world chemistry.
+
+This position requires the following qualifications:
+
+- Ph.D. in geochemistry, planetary geophysics, or a related field.
+- 3-4 years expertise in applying meteoritics, petrology, aqueous 
+  geochemistry to problems in astrobiology.
+
+The following qualifications are preferred:
+
+- Knowledge of geophysical forward modeling and inverse theory, 
+  high-pressure experimental design and implementation.
+
+Applications are due by May 26, 2020 or until filled and should be 
+submitted at:
+
+https://jpl.jobs/jobs/2020-11799-Research-Scientist-II
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL RESEARCHERS IN PLANETARY MAGNETOSPHERIC PHYSICS
+
+Applications are now being accepted for two postdoctoral scientists to 
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres 
+Laboratory in Greenbelt, MD. The positions are funded through 
+CRESST II.
+
+Position 1: The postdoctoral researcher will work for either the Juno 
+project with the primary responsibility of conducting analysis and 
+publishing the magnetometer results. In addition, the candidate will 
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to 
+develop a data production pipeline for future magnetometer missions. 
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data 
+products. The data scientist is encouraged to pursue their own research 
+interest.  
+
+Candidates for these positions should have earned a Ph.D. in physics, 
+astronomy, planetary science, space physics, geosciences, or related 
+fields. Successful candidates should also have expertise with one or
+more programming languages commonly used in space science and a 
+demonstrated track record in analyzing spaceflight data, especially 
+magnetometer data and experience with the NAIF SPICE software package 
+is highly desired.
+
+Applications received by July 15, 2020, will receive the best 
+consideration. Link to full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+USGS ASTROGEOLOGY CARTOGRAPHIC TECHNICIAN (TERM GS-07/08, FPL GS-09)
+
+The USGS Astrogeology in Flagstaff AZ is hiring a Cartographic 
+Technician at the GS-07/08 level (Term position renewable up to 4 
+years). Duties include using planetary data sets to assist in the 
+generation of high-fidelity foundational spatial data products (e.g., 
+photogrammetrically controlled image mosaics, digital elevation models) 
+to support the planetary science community. A bachelor's degree or 
+higher is required. Experience generating cartographic products using 
+the USGS' ISIS software, Ames Stereo Pipeline, and/or SOCET SET/GXP 
+workstations, and familiarity with scripting languages such as bash or 
+python is preferred. Apply through USAJOBS at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/567869800 
+
+Position open 5/18/2020 to 6/1/2020 and is limited to the first 65 
+applicants. An applicant must be a U.S. Citizen. Send inquires to 
+Michael Bland (mbland@usgs.gov).
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, ASTROBIOLOGY AND OCEAN WORLDS
+
+Location: Pasadena, CA
+
+The Jet Propulsion Laboratory invites applications for a Research 
+Scientist to join the Astrobiology and Ocean Worlds Group within the 
+Planetary Science Section. You will do the following: 
+
+- Lead development of instrumentation and/or mission concepts to 
+  explore the subsurface of Mars and other habitable environments.
+- Write proposals for advancing research and instrument/mission 
+  development.
+
+Required Qualifications:
+
+- Ph.D. degree in Earth or Planetary Sciences or related scientific or 
+  technical discipline.
+- Demonstrated working knowledge at the forefront in the fields of 
+  planetary habitability, geophysics, geodynamics, aqueous 
+  geochemistry, modeling and biology/astrobiology, including but not 
+  limited to the Mars subsurface.
+- At least 5 years experience following the Ph.D. in research in one or 
+  more of the aforementioned fields.
+- Peer-reviewed publications in high-impact journals in the 
+  aforementioned fields.
+- Well-established record in obtaining funding as PI for scientific 
+  research and/or mission/instrument development.
+- Excellent oral and written communication skills, with the ability 
+  to both work as part of a team and lead a team.
+
+To view the full description and apply, please visit: 
+
+http://jpl.jobs/jobs/2020-11866-Research-Scientist-III-Astrobiology-and-Ocean-Worlds 
+
+Applications received by June 8, 2020, will receive full consideration. 
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOINT LEAG/SSERVI MEETING
+
+The Lunar Exploration Analysis Group (LEAG) and Solar System 
+Exploration Research Virtual Institute (SSERVI) will host a virtual 
+meeting for critical community input regarding the Decadal Survey on 
+Wednesday, May 20, 2020. 
+
+The goals of the meeting are to:
+
+(1) Facilitate collaboration and discussion on Decadal Survey white 
+    paper concepts and strategies for lunar science;
+(2) Solidify commitments on white paper topics and solicit coauthors 
+    and signatories; and
+(3) Identify gaps and needs.
+
+A preliminary agenda can be found in the Google Doc (see "More 
+Information" below), and connection information will be posted there 
+soon.
+
+What: LEAG/SSERVI Virtual Meeting-Community Input for Decadal Survey
+Date: Wednesday, May 20, 2020
+Time: 12:00–4:30 PM Eastern (9:00 AM–1:30 PM Pacific)
+
+More Information:
+
+https://docs.google.com/document/d/19sPg_1fDUHUiQ5saFiINrGDTE-aB1NftxC4nTfC5W78/edit?usp=sharing
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+WOMEN IN PLANETARY SCIENCE BLOG POST
+
+The Women in Planetary Science Blog post from the DPS's Professional 
+Culture and Climate Subcommittee asking "What are the impacts of 
+performing a Decadal Survey during a global pandemic?" has been posted 
+at: 
+
+https://womeninplanetaryscience.wordpress.com/2020/05/14/what-are-the-impacts-of-performing-a-decadal-survey-during-a-global-pandemic/ 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PH.D. STUDENT IN SPACE PHYSICS FOR STUDIES OF SPACE PLASMAS
+
+The Swedish Institute of Space Physics (IRF) is looking for a Ph.D. 
+student in Space Physics. The position is related to studies of space 
+plasmas.
+
+Applications are invited for a Ph.D. student to study kinetic plasma 
+processes operating in space plasma regions of fundamental importance, 
+such as magnetic reconnection sites, shocks, and turbulence regions. 
+Such processes operate in most astrophysical plasma environments 
+leading to plasma heating and production of energetic particles.
+
+You will work directly with state-of-the-art experimental data from 
+the NASA multi-spacecraft (MMS) mission.
+
+The position is available at the IRF-office in Uppsala, starting at 
+the latest in the second half of 2020 for a total of four years.
+
+The Swedish National Space Agency, the Swedish Research Council and 
+Uppsala University fund the position.
+
+Contact: Dr Emiliya Yordanova, eya@irfu.se
+
+Applications: registrator@irf.se
+
+Closing Date: May 31, 2020
+
+Information: 
+
+https://www.irf.se/en/news/2020/05/11/phd-student-in-space-physics-to-studies-of-space-plasmas-ref2-2-1-146-20/
+
+IRF is a government agency that conducts research and postgraduate 
+education in space physics, atmospheric physics and space technology. 
+Many of IRF's projects are run as international projects in 
+collaboration with other research institutes and space agencies. IRF 
+has about 100 employees and offices in Kiruna (headquarters), Umea, 
+Uppsala and Lund.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+OUTER PLANET MOON-MAGNETOSPHERE INTERACTION WORKSHOP
+
+Dates: November 5-6, 2020 (directly after JUICE SWT/PI meeting)
+
+Location: ESA/ESTEC
+
+Registration and abstract submission is now open: 
+
+https://indico.esa.int/event/337/
+
+Please note that the number of participants is limited to 60 people.
+
+The focus of this workshop is the interaction between the outer planet 
+moons in our Solar System and their magnetospheric environment, in 
+preparation of upcoming missions like JUICE and Europa Clipper.
+
+Abstracts addressing moon-magnetosphere interaction from all 
+disciplines are welcome, including ground-based and Earth-orbit based 
+observation, simulation results, theory, in-situ and remote sensing 
+data analysis. We welcome results from past missions such as Voyager, 
+Galileo and Cassini-Huygens, and current missions such as Hisaki and 
+JUNO.
+
+COVID19: We hope the workshop will go ahead as planned in person. 
+However, we are committed to shifting to an online conference in case 
+the situation regarding COVID19 prevents us from meeting in person.
+Please do not make any accommodation and/or travel bookings that are 
+not fully refundable.
+
+Best regards,
+
+Mika Holmberg, Lina Hadid and Hans Huybrighs
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 21
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 21, nominally with data to February 2020:
+
+  ACCEL (Accelerometer)
+  IUVS (Imaging Ultraviolet Spectrometer)
+  LPW (Langmuir Probe and Waves)
+  MAG (Magnetometer)
+  NGIMS (Neutral Gas and Ion Mass Spectrometer)
+  ROSE (Radio Occultation Science Experiment)
+  SEP (Solar Energetic Particle)
+  SPICE
+  STATIC (Supra-Thermal and Thermal Ion Composition)
+
+New data available soon: ANC, EUV, KP, SWEA, SWIA
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200515.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 20, 2020
+Joint LEAG/SSERVI Meeting
+https://docs.google.com/document/d/19sPg_1fDUHUiQ5saFiINrGDTE-aB1NftxC4nTfC5W78/edit?usp=sharing
+Online
+
+November 5-6, 2020
+Outer Planet Moon-Magnetosphere Interaction Workshop
+https://indico.esa.int/event/337
+Noordwijk, Netherlands
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://iopscience.iop.org/issue/2632-3338/1/1
+
+No new articles.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

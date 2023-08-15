@@ -1,0 +1,231 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 20 (May 1, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. IPEWG-2011 Call for Abstracts
+2. EPSC-DPS Special Session - Active Surface Processes on Mars
+3. EPSC-DPS Special Session - Plasma at Venus and Mars
+4. New Venus Colloquium Series
+5. [NASA] Planetary Instrument Definition and Development (PIDDP) and
+   Astrobiology Science and Technology for Instrument Development 
+   (ASTID)
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IPEWG-2011 CALL FOR ABSTRACTS
+
+Dear Colleagues:
+ 
+We are pleased to announce that from today, the poster abstract 
+submission for the 2011 International Primitive Body Exploration 
+Working Group Meeting is available at the meeting website: 
+
+http://ipewg.caltech.edu
+ 
+Dates : August 22-24, 2011
+Venue: Pasadena, CA
+ 
+Abstracts will be accepted until August 1st. Further information about 
+the meeting, agenda details and abstract submission are all available 
+at the meeting website.
+ 
+The discussions held at this meeting are expected to open new 
+international collaboration opportunities for primitive body space 
+exploration. We hope you will attend and participate in this important 
+program.
+ 
+Sincerely, on behalf of the organizing committee,
+ 
+Keith Grogan
+IPEWG 2011 LOC Chair
+keith.grogan@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC-DPS SPECIAL SESSION - ACTIVE SURFACE PROCESSES ON MARS
+
+Convener: AS McEwen 
+Co-Conveners: N. Thomas, C. Hansen, M. Masse 
+
+http://meetingorganizer.copernicus.org/EPSC-DPS2011/session/8297
+
+New results from high-resolution imaging has shown a range of active
+surface processes on Mars: gully incision and deposition at dozens of 
+locations, especially in dunes; more than 200 new impact events, some 
+exposing shallow ice; avalanches off the edges of the north polar ice 
+cap; migration of aeolian ripples and shifting sand deposits; slope 
+streaks; dust devils; rock falls; and a bizarre suite of activities 
+associated with seasonal and perennial CO2. Of special interest are 
+implications for environmental change with orbital variations (i.e., 
+what can happen today vs. what required different conditions). Also of 
+special interest is the question of whether liquid water or brines are 
+involved in any of these current processes.
+
+Abstracts are due 31 May 2011.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC-DPS SPECIAL SESSION - PLASMA AT VENUS AND MARS
+
+Magnetospheres and Space Physics Session #1 
+Plasma Processes at  Venus and Mars: Observations and Modeling
+
+The plasma environments of Mars and Venus are determined by the  
+interaction of the solar wind and radiation with their atmospheres.  
+Beside electron impacts and photoionization, charge exchange processes
+have important specific consequences like the emission of X-rays and  
+the production of Energetic Neutral Atoms which allow remote  
+diagnostics of plasma processes. The aim of this session is to offer  
+an opportunity to compare in situ and remote observations to model  
+predictions of plasma processes in the Venusian and Martian  
+environments. These two planets targeted by numerous missions could  
+serve as test benches for future diagnostics of plasma processes  
+occurring near remote planets.
+
+Conveners: G. Chanteur, T. Cravens, D. Brain, U. Mostl
+
+For more information please see the conference web site: 
+
+http://meetings.copernicus.org/epsc-dps2011/home.html 
+
+before the May 31 abstract deadline.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NEW VENUS COLLOQUIUM SERIES
+
+Would your institution like a visit and colloquium presentation from 
+an expert in Venus science, at no expense to you?  Would you like
+travel support to share your Venus research? Presenters and host 
+institutions are sought for the new Venus Colloquium Series, a program 
+matching planetary scientists with university campuses and research 
+institutions.
+ 
+Participation is open to two- and four-year undergraduate colleges and 
+research institutions throughout the United States. Host institutions 
+commit to making the necessary local arrangements.  Presenters are 
+encouraged to address the needs of the next generation of scientists 
+(graduate students, interns, and undergraduates) and give an 
+additional presentation that is free and open to the general public. 
+Other interactions that increase awareness of terrestrial planet 
+processes may also be part of the visit. These could be guest teaching 
+a class, interacting informally with students and faculty, or other 
+activities.
+ 
+The Venus Colloquium Series will cover the presenter's travel expenses. 
+There will be no honorarium for the speaker. A current list of 
+presenters and their prospective talks and applications for both 
+presenter and institutions can also be found at: 
+
+http://vcs.jpl.nasa.gov  
+
+[Text edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PLANETARY INSTRUMENT DEFINITION AND DEVELOPMENT (PIDDP) AND 
+ASTROBIOLOGY SCIENCE AND TECHNOLOGY FOR INSTRUMENT DEVELOPMENT (ASTID) 
+
+The Planetary Instrument Definition and Development Program (PIDDP) 
+supports the advancement of spacecraft-based instrument technology that 
+shows promise for use in scientific investigations on future planetary 
+missions. The goal of the program is not to develop flight-qualified 
+hardware, but rather to define and develop scientific instruments or 
+components of such instruments to the point where the instruments may 
+be proposed in response to future announcements of flight opportunity 
+without additional extensive technology development. Results of PIDDP 
+have contributed to the development of flight hardware flown on, or 
+selected for, many of NASA's planetary missions. The proposed 
+instrument technology must address specific scientific objectives of 
+likely future science missions.
+
+Please note that proposals submitted to  Astrobiology Science and 
+Technology for Instrument Development and PIDDP will be reviewed 
+together and thus, if identical proposals are submitted to both 
+programs, only one will be reviewed. 
+
+The due date for PIDDP Notices of Intent remains unchanged at 
+July 15, 2011, but the due date for proposals has been changed to 
+August 26, 2011. Go to:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA001N".
+
+Questions concerning PIDDP proposals may be addressed to:
+
+Janice Buckner
+202-358-0183 
+HQ-PIDD@mail.nasa.gov
+
+[Text edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 11-12, 2011
+XVI National Conference of Astronomers of Serbia
+http://nkas.aob.rs/
+Belgrade, Serbia
+
+October 16-20, 2011
+International Conference on Biosphere Origin and Evolution III
+http://conf.nsc.ru/en/page/BOE-2011;jsessionid=
+3D58C48FD44FA3872F31143AD920F8CC
+Rithymno, Greece
+
+November 7-9, 2011
+Annual Meeting of the Lunar Exploration Analysis Group (LEAG 2011) 
+http://www.lpi.usra.edu/meetings/leag2011/
+Houston, Texas
+
+March 5-8, 2012
+Observing Planetary Systems II
+http://www.sc.eso.org/~cdumas/OPSII.html
+Santiago, Chile
+
+September 3-7, 2012
+Planet Formation and Evolution 2012
+http://www.usm.uni-muenchen.de/people/preibisch/planets2012/index.html
+Munich, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

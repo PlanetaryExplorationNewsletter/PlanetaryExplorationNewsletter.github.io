@@ -1,0 +1,500 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 7 (Feburary 18, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Position in Planetary Atmospheres at MPS, Germany
+2. [NASA] Release of ROSES-2018 Annual Omnibus NRA
+3. Ocean Worlds 3
+4. Large Synoptic Survey Telescope Solar System Science Roadmap
+5. Postdoctoral Position in Mars and Moon Research
+6. Planetary ArcGIS Workshop
+7. Field Trip to Flynn Creek Impact Structure
+8. SERVI Award Nominations Solicited
+9. NASA Exploration Science Forum
+10. Registration Open: Final Cassini Science Symposium
+11. [NASA] Exobiology Proposals Due May 2018
+12. Reminder: MEPAG Virtual Meeting on Tuesday, February 20
+13. Mars Exploration Science Monthly Newsletter for February 2018
+14. Planetary Sessions at the May GSA Cordilleran-Rocky Mountain Joint 
+    Meeting
+15. [NASA] MRO SHARAD Raw Data from 2015.02.09 to 2017.02.08
+16. [NASA] Mars Express MARSIS Data Release
+17. Differentiation Conference: Abstract Deadline March 1
+18. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL POSITION IN PLANETARY ATMOSPHERES AT MPS, GERMANY
+
+The Max Planck Institute for Solar System Research (MPS) in Gottingen,
+Germany, invites applications for a postdoctoral research position in
+Planetary Atmospheres. Application deadline: March 15, 2018.
+
+Details are found at:
+
+http://www-astro.physik.tu-berlin.de/exoplanet-diversity/sites/default
+/files/data/position-exoplanets_mr.pdf
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] RELEASE OF ROSES-2018 ANNUALL OMNIBUS NRA
+
+NASA's Science Mission Directorate (SMD) announces the release of its 
+annual omnibus solicitation for basic and applied research, Research 
+Opportunities in Space and Earth Science (ROSES) 2018 at: 
+
+http://solicitation.nasaprs.com/ROSES2018
+
+ROSES is an omnibus solicitation, with many individual program 
+elements, each with its own due dates and topics. Tables 2 and 3 of 
+this NRA, at: 
+
+http://solicitation.nasaprs.com/ROSES2018table2 
+
+and 
+
+http://solicitation.nasaprs.com/ROSES2018table3 
+
+proposal due dates and hypertext links to descriptions of the 
+solicited program elements in the Appendices of this NRA. 
+
+Frequently asked questions will be posted at: 
+
+http://science.nasa.gov/researchers/sara/faqs 
+
+Further information about specific program elements may be obtained
+from the individual Program Officers listed in the Summary of Key 
+Information for each program element in the Appendices and at: 
+
+http://science.nasa.gov/researchers/sara/program-officers-list
+
+Questions concerning general ROSES-2018 policies and procedures may be 
+directed to Max Bernstein, Lead for Research, Science Mission 
+Directorate, at sara@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OCEAN WORLDS 3
+
+In the next of a series of Ocean Worlds meetings, the focus will be on 
+the potential for silicate-water interactions to occur on Ocean Worlds 
+beyond Earth, from a multi-disciplinary and inter-disciplinary 
+perspective. As with past Ocean Worlds meetings, a primary motivation 
+is to engender a cross-fertilization of ideas and expertise by 
+soliciting contributions from both the Ocean Sciences and Planetary 
+Sciences communities. Consequently, contributions are invited that 
+address any aspects of this broad water-rock interaction theme, across 
+the Planetary and Ocean Science fields, including geophysics, 
+hydrogeology, geochemistry and microbiology. The meeting will be held 
+at LPI from May 21st - 24th. Abstract deadline is March, 7th 2018.
+
+Go to:
+
+https://www.hou.usra.edu/meetings/oceanworlds2018
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LARGE SYNOPTIC SURVEY TELESCOPE SOLAR SYSTEM SCIENCE ROADMAP
+
+Schwamb et al. for the LSST SSSC:
+
+https://arxiv.org/abs/1802.01783 
+
+The Large Synoptic Survey Telescope (LSST) is uniquely equipped to 
+search for Solar System bodies due to its unprecedented combination of 
+depth and wide field coverage. Over a ten-year period starting in 2022, 
+LSST will generate the largest catalog of Solar System objects to date. 
+The main goal of the LSST Solar System Science Collaboration (SSSC) is 
+to facilitate the efforts of the planetary community to study the 
+planets and small body populations residing within our Solar System 
+using LSST data. To prepare for future survey cadence decisions and 
+ensure that interesting and novel Solar System science is achievable 
+with LSST, the SSSC has identified and prioritized key Solar System 
+research areas for investigation with LSST in this roadmap. The ranked 
+science priorities highlighted in this living document will inform LSST 
+survey cadence decisions and aid in identifying software tools and 
+pipelines needed to be developed by the planetary community as added 
+value products and resources before the planned start of LSST science 
+operations. Feedback welcome.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL POSITION IN MARS AND MOON RESEARCH
+
+The Department of Physics and Astronomy at the University of Iowa is 
+searching for a postdoctoral research scientist to study the 
+interaction between the solar wind and the atmospheres and magnetic 
+fields of Mars and the Moon. The successful candidate will work in 
+collaboration with Prof. Jasper Halekas and other group members at the 
+University of Iowa, as well as other researchers from the MAVEN and 
+ARTEMIS teams. More details and application instructions are available 
+at: 
+
+http://physics.uiowa.edu/~jhalekas/MAVEN_ARTEMIS_Postdoc_long.txt 
+
+Please contact Prof. Halekas (jasper-halekas@uiowa.edu) with any 
+questions about the position.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY ARCGIS WORKSHOP
+
+March 18, 2018
+LPSC
+
+The Spacecraft Planetary Imaging Facility (SPIF) at Cornell University 
+is offering a free workshop at the upcoming 49th LPSC on Sunday, 
+March 18, on using ArcGIS for planetary image analysis, sponsored by 
+the Regional Planetary Image Facility (RPIF) network. This will be an 
+introductory level course accessible to participants with no prior 
+ArcGIS experience. The workshop will run from 9:30am to 4:30pm and will 
+cover topics including ArcGIS basics, spatial analysis, and map 
+document production. Participants will conduct hands-on research using 
+data from Mars Odyssey and Mars Global Surveyor that will be 
+downloaded and processed for ingestion into ArcGIS as part of the 
+workshop. Some introductory ISIS information will be provided as well:
+
+https://isis.astrogeology.usgs.gov
+
+Participants will be given one year ArcGIS licenses part of the 
+workshop. Registration is required: 
+
+https://goo.gl/D9BTS1 
+
+The deadline for registration is March 12, 2018. Please contact Zoe 
+Learner Ponterio, SPIF Data Manager, for more information at 
+zap9@cornell.edu.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FIELD TRIP TO FLYNN CREEK IMPACT STRUCTURE
+
+As part of the SE GSA meeting, we will be running a field trip to the 
+Flynn Creek Impact Structure in central TN. The trip will immediately 
+follow the meeting on Saturday, April 14th. 
+
+Register online by March 4th: 
+
+https://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections
+/se/2018mtg/fieldtrips.aspx 
+
+For more information, contact Steven Jaret, 
+steven.jaret@stonybrook.edu
+
+Students are particularly encouraged to attend.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SERVI AWARD NOMINATIONS SOLICITED
+
+NASA's Solar System Exploration Research Virtual Institute (SSERVI) is 
+soliciting nominations for the following SSERVI Awards: Shoemaker Award 
+(lifetime career achievement award in lunar and planetary sciences), 
+the Wargo Award (scientist or engineer who has focused on integrating 
+science and exploration throughout their career), the Angioletta 
+Coradini Mid-Career Award (researcher for significant, lasting 
+accomplishments related to exploration science), and the Niebur Award 
+(early career award for significant contributions to exploration 
+science). Nominees from previous years will automatically be carried 
+forward to the upcoming year. Further descriptions of each award and 
+the nomination form may be found at:
+
+http://lunarscience.arc.nasa.gov/awards
+
+Thank you in advance for your nominations and recognition of those who 
+have contributed so substantially to our field! We do accept 
+nominations year-round, but to be considered for the 2018 awards, 
+please provide your nominations by March 7, 2018.  
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA EXPLORATION SCIENCE FORUM
+
+Date Change: Just as a reminder, due to the overlap with COSPAR this 
+year, the Forum dates have been moved up to June 26-28, 2018 for one 
+year.
+
+The Solar System Exploration Research Institute (SSERVI) is pleased to 
+announce the 5th annual NASA Exploration Science Forum (ESF), to be 
+held in person June 26-28, 2018 at NASA Ames Research Center, Moffett 
+Field, CA. This year's Forum will feature scientific discussions of 
+human exploration targets of interest (the Moon, near-Earth asteroids, 
+and the moons of Mars). Science sessions will focus on recent mission 
+results and in-depth analyses of science and exploration studies. 
+Dedicated side-conferences for graduate students and young 
+professionals will coincide with the ESF. Public engagement discussions 
+will be interwoven among science topics as well.   
+
+Abstracts are currently open and will be accepted through 11:59 p.m. 
+PDT March 30, 2018 at:
+
+https://nesf2018.arc.nasa.gov
+
+Foreign national participants must register at the above URL by 
+May 25, 2018. US citizens may register until June 22, 2018. Hotel room 
+reservation blocks at per diem.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+REGISTRATION OPEN: FINAL CASSINI SCIENCE SYMPOSIUM
+
+August 12-17, 2018
+
+The Cassini Project will host a five-day Symposium, including a 
+reception, public talk with Linda Spilker, and banquet.
+
+The sessions will be held at the University of Colorado in Boulder.
+
+Invited and contributed talks will include the latest Cassini findings 
+on the Saturn system, including the interpretation and synthesis of 
+results. Sessions will cover the following disciplines: Rings, Titan, 
+Icy Satellites, Magnetospheres and Saturn. This Symposium can serve as 
+a springboard for future studies and space missions. Future mission 
+posters are possible.
+
+Please go to the website to register, sign up for events and get 
+hotel links. Hotel rooms will be held while space is available, so 
+reserve as early as you can. See the hotel pages for release dates.
+
+http://lasp.colorado.edu/home/2018-cassini-science-symposium
+
+Early registration deadline: 29 June. 
+Late registration deadline: 3 August
+Abstracts deadline: 16 April 2018
+Cancellation deadline: 3 August
+
+We hope to see you there.
+
+Larry W. Esposito
+Chair, Symposium Organizing Committee
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] EXOBIOLOGY PROPOSALS DUE MAY 2018
+
+Important Notice to the Astrobiology Community: A change has been made 
+for 2018 Exobiology proposals to Notices of Intent (NOIs) in place of 
+Step-1 proposals and a change in due dates from previous years: NOIs 
+are due on April 16, 2018, and full proposals are due on May 24, 2018.
+
+Included in the ROSES 2018 solicitation is the Exobiology Program:
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do
+?solId=%7bE2CB9318-72CB-C51A-6962-013E762AE713%7d&path=open
+
+This is an element of the NASA Astrobiology Program:
+
+https://astrobiology.nasa.gov/research/astrobiology-at-nasa/exobiology
+
+Research in Exobiology is centered on the origin and early evolution of 
+life, the potential of life to adapt to different environments, and the 
+implications for life elsewhere. This research is conducted in the 
+context of NASA's ongoing exploration of our stellar neighborhood and 
+the identification of biosignatures for in situ and remote sensing 
+applications.
+
+For additional information (including program exclusions), visit: 
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do
+?solId={230826F5-3897-2444-00D2-FF0DA8FBC59A}&path=open
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+REMINDER: MEPAG VIRTUAL MEETING ON TUESDAY, FEBRUARY 20
+
+This is a reminder that the Virtual MEPAG meeting (VM1) will be held 
+1:00-3:00 p.m. EST (10-noon PST) on Tuesday, February 20, 2018. 
+Connection information has also been posted to the meeting website: 
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR FEBRUARY 2018
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+James Ashley of the Mars Program Science Office, the February 2018 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SESSIONS AT THE MAY GSA CORDILLERAN-ROCKY MOUNTAIN JOINT
+MEETING
+
+May 15-17, 2018
+Flagstaff, AZ
+
+We invite contributions to the following planetary sessions:
+
+T21. Recent Advances in Planetary Geoscience. How the volume and
+diversity of recent data sets have significantly advanced our
+understanding of the geologic character and evolution of bodies in the
+Solar System.
+
+T22. Earth as a Stepping Stone for Planetary Exploration. Terrestrial
+research in the field and in the laboratory is necessary for advancing
+planetary exploration.
+
+T23. Integrating Composition and Morphology: Keys to Constraining
+Planetary Surface Processes from Spacecraft Data. Compositional
+interpretations critically augment geomorphological and/or
+sedimentological studies to yield a refined understanding of geologic
+context and surface processes.
+
+T24. Understanding Basin Environments and Evolution Beyond Earth.
+Though topographic and structural basins exist beyond Earth, lack of
+direct access makes deciphering exposed units a challenge.
+ 
+There also will be a full-day post-conference field trip on May 18 to
+planetary analog sites in northern Arizona (The Holey Tour).
+
+Abstract deadline is February 20, 2018. More information can be
+obtained at the meeting website:
+
+http://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/rm/
+2018mtg/home.aspx
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] MRO SHARAD RAW DATA FROM 2015.02.09 TO 2017.02.08
+
+The Planetary Data System announces the release of new data from the 
+SHARAD instrument on the Mars Reconnaissance Orbiter (MRO). SHARAD raw 
+data from the ASI (Italian Space Agency) SHARAD Ground Operations 
+center are now available covering the period February 9, 2015, through 
+February 8, 2017. This is one of several interim releases to recover a 
+backlog of unreleased data. For details, see the file ERRATA.TXT on 
+the archive volume at:
+
+http://pds-geosciences.wustl.edu/mro/mro-m-sharad-3-edr-v1/mrosh_0004
+
+For further information see the PDS Geosciences Node SHARAD web page:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] MARS EXPRESS MARSIS DATA RELEASE
+
+The Planetary Data System announces the release of new and revised raw 
+and subsurface derived data from the MARSIS instrument on the Mars 
+Express Mission. The data coverage extends from the beginning of the 
+mission through December 31, 2016 (Extended Mission 5). The data are 
+available from the PDS Geosciences Node at: 
+
+http://pds-geosciences.wustl.edu/missions/mars_express/marsis.htm
+
+Mars Express data are made available by the PDS according to a 
+cooperative agreement between ESA and NASA. The primary source for Mars 
+Express archives is the ESA Planetary Science Archive: 
+
+https://www.cosmos.esa.int/web/psa
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+DIFFERENTIATION CONFERENCE: ABSTRACT DEADLINE MARCH 1
+
+The abstract deadline for Differentiation: Building the Internal 
+Architecture of Planets is March 1. The focus of this conference is on 
+understanding the physical and chemical conditions associated with the
+formation of crusts, cores, atmospheres, and oceans on both rocky and 
+volatile-rich bodies. We seek input from many types of studies, 
+including petrologic, isotopic, trace element, and paleo-magnetic
+analyses of samples, geophysical probes of planetary interiors, and 
+experimental and numerical simulations. There will be an optional, 
+pre-conference field trip to an anorthosite complex in the San Gabriel 
+Mountains on May 7. The conference will consist of 3.5 days of 
+presentations and discussion, May 8-11, ending by noon on May 11. 
+Abstracts are limited to one page and should be submitted via the 
+conference website:
+
+http://www.hou.usra.edu/meetings/differentiation2018 
+
+Some travel support will be available for early career individuals and 
+should also be applied for via the conference website.
+
+For additional information, contact the lead conference convener, 
+Walter Kiefer (kiefer@lpi.usra.edu).
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 18, 2018
+Planetary ArcGis Workshop
+https://goo.gl/D9BTS1
+Houston, TX
+
+May 15-17, 2018
+GSA Cordilleran-Rocky Mountain Joint Meeting
+http://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/rm
+2018mtg/home.aspx
+Flagstaff, AZ
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

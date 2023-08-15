@@ -1,0 +1,383 @@
+﻿PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 38 (September 13, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Reminder SWIMS RFI Closing Sept 23 and FAQs Added
+2. [NASA] SMD Seeks Volunteer Reviewers for Research Proposals
+3. [NASA] ROSES-20 Amendment 52: Release of Final Text of Citizen 
+   Science Seed Funding Program
+4. [NASA] Planetary Webinar: Dual-Anonymous Peer Review for Habitable 
+   Worlds under ROSES-2020
+5. Decadal White Paper on Extended Missions
+6. Decadal Survey White Paper on R&A Issues and Solutions
+7. International Observe the Moon Night Is September 26th
+8. The Lunar Surface Innovation Consortium - Virtual Fall Meeting
+9. OpenPlanetary Virtual Lunch Talks
+10. JPL Open Position: Research Scientist, Outer Planet Magnetospheres 
+    and Moon Interaction
+11. Job Announcement: Massachusetts Institute of Technology, Faculty 
+    Position in Planetary Science
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] REMINDER SWIMS RFI CLOSING SEPT 23 AND FAQS ADDED
+
+Solicitation Number: NNH20ZDA009L
+FAQ Release Date: September 9, 2020
+Response Due Date: September 23, 2020
+
+The Science Mission Directorate (SMD) has posted Frequently Asked
+Questions and Answers (FAQs) for the Request for Information (RFI)
+"Space Weather Instruments and Missions for Science". RFI responses are
+due by 11:59 p.m. Eastern on September 23, 2020. Download the full text
+of the RFI, its FAQS, and response instructions at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b2F59FD28-AEC2-9330-9246-652A518D61E7%7d&path=&method=init
+
+NASA SMD will be using RFI submissions for planning purposes only.
+NSPIRES will post no additional questions and answers for this RFI. An
+RFI submission is not required nor will it limit the submission of a
+future proposal for a grant, contract, cooperative agreement, or intra-
+(within NASA) or inter-agency (outside NASA) transfer agreement.
+
+The points of contact for this RFI may be reached at jim.spann@nasa.gov
+and james.e.favors@nasa.gov; however, the due date for response to 
+comments and questions is past.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SMD SEEKS VOLUNTEER REVIEWERS FOR RESEARCH PROPOSALS
+
+NASA's Science Mission Directorate is seeking subject matter experts to
+serve as external (email) and/or virtual panel reviewers of proposals
+to the "ROSES" research solicitation. All of the reviewer volunteer
+forms may be accessed on the main landing page at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels
+
+or just follow the links below to the volunteer review forms
+and click the boxes to indicate the topics in which you consider
+yourself to be a subject matter expert. If your skills match our needs
+for that review and there are not too many organizational conflicts of
+interest, we will contact you to discuss scheduling.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-20: RELEASE OF FINAL TEXT OF CITIZEN SCIENCE SEED FUNDING 
+PROGRAM
+
+The Citizen Science Seed Funding Program (CSSFP) element of ROSES aims
+to support scientists and other experts to develop citizen science
+projects relevant to NASA's Astrophysics, Heliophysics and Planetary
+Science Research Programs. Proposals relevant to Biological and
+Physical Sciences will also be considered on a case by case basis. The
+CSSFP aims to advance the use of citizen science by incubating citizen
+science projects as they are being conceived or during critical
+transitions. CSSFP awards require relatively short proposals to 
+encourage new proposers to experiment with citizen science techniques; 
+the Science/Technical/Management section has a limit of 6 pages.
+
+Notices of Intent to propose are due October 13, 2020 and 6-page 
+proposals are due December 11, 2020. A FAQ document will be posted on 
+the NSPIRES page for this program element under "Other Documents".
+
+This Amendment to ROSES 2020 (NNH20ZDA001N) will be posted at:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+and will appear on SARA's ROSES blog at: 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+Questions concerning Citizen Science Seed Funding Program may be
+directed to Marc Kuchner at marc.kuchner@nasa.gov
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PLANETARY WEBINAR: DUAL-ANONYMOUS PEER REVIEW FOR HABITABLE
+WORLDS UNDER ROSES-2020
+
+Wednesday, October 7th, 3-4 PM ET
+
+NASA's Science Mission Directorate will host a webinar to discuss the
+implementation of dual-anonymous peer review for the Habitable Worlds
+Program (E.4 of ROSES-2020). In dual-anonymous peer review, not only
+are proposers unaware of the identity of reviewers, but the reviewers
+do not have explicit knowledge of the proposing teams and institutions
+during the scientific evaluation of the proposal. The webinar will: (1)
+discuss the motivation for switching to dual-anonymous peer review, (2)
+describe important changes to proposal writing to be compliant with
+dual-anonymous peer review, and (3) explain how dual-anonymous peer
+reviews work in Habitable Worlds.
+
+In advance of the webinar, questions may be submitted and upvoted at:
+
+https://arc.cnf.io/sessions/zazz/#!/dashboard
+
+The webinar will be broadcast live via WebEx:
+
+https://www.mymeetings.com/nc/join.php?i=PWXW1658125&p=5255996&t=c
+
+Audio is available by calling 1-415-228-3920 or toll-free at
+1-888-469-3088; use access code 525 5996.
+
+For more information on dual-anonymous peer review, please visit:
+
+https://science.nasa.gov/researchers/dual-anonymous-peer-review
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DECADAL WHITE PAPER ON EXTENDED MISSIONS
+
+Please read and comment:
+
+https://docs.google.com/document/d/1DqFleFqZgvi-_FrnA075mp32erGZfSE9svTLQvRrr0k/edit?usp=sharing
+
+Please co-sign:
+
+https://forms.gle/q9aoNY4mtB1aWVan9
+
+There is a tremendous demonstrated value in Extended Missions. They
+produce excellent science at low incremental cost. Additionally, these
+missions provide early-career scientists opportunities for active
+mission involvement and experience in leadership roles, thus increasing
+diversity at all levels. However, despite NASA's best intentions, there
+are aspects of their handling of Extended Missions that have
+detrimental effects to the success of those missions. We recommend
+several specific actions to be taken to ensure the financial stability
+of EMs, for the benefit to science, and to our community of scientists.
+
+This will be an update to the 2016 National Academies report on
+"Extending Science: NASA's Space Science Mission Extensions and the
+Senior Review Process". We plan to evaluate the recommendations of that
+study, provide a reminder of those recommendations which have not yet
+been addressed, and add new recommendations.
+
+Contact Ingrid Daubar (ingrid_daubar@brown.edu) and/or Ross Beyer
+(rbeyer@seti.org) with any questions or comments.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+DECADAL SURVEY WHITE PAPER ON R&A ISSUES AND SOLUTIONS
+
+A white paper prepared for the upcoming Decadal Survey on several key
+issues, and potential solutions, for NASA SMD R&A programs is now
+available at: 
+
+https://tinyurl.com/RAIssuesSolutions
+
+We welcome additional signatories; you can add your name to the list of
+co-signers here: 
+
+https://tinyurl.com/RAIssuesSolutionsEndorsers
+
+Thank you for your support!
+
+Paul Byrne
+Julie Castillo-Rogez
+Christina Richey
+Mark Sykes
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+INTERNATIONAL OBSERVE THE MOON NIGHT IS SEPTEMBER 26TH
+
+Join us for the 11th Annual International Observe the Moon Night on
+Saturday, September 26th! You are invited to join people around the
+world to learn about lunar science and exploration, take part in
+celestial observations, and honor cultural and personal connections to
+the Moon. This is also a great event to be a virtual speaker!
+
+You can participate in International Observe the Moon Night from
+wherever you are. Attend or host a virtual or in-person event, or
+observe the Moon from home. The Moon will be close to first quarter - a
+great phase for evening observing.
+
+Learn more, register your participation, and find recommended
+activities, tips and resources to host and evaluate events, and much
+more on the International Observe the Moon Night website:
+
+https://moon.nasa.gov/observe
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+THE LUNAR SURFACE INNOVATION CONSORTIUM - VIRTUAL FALL MEETING
+
+The Lunar Surface Innovation Consortium (LSIC) Fall Meeting will be
+held virtually on October 14-15, 2020. It will feature keynote
+addresses, working sessions, and technical poster presentations (a
+preliminary agenda is posted at:
+
+http://lsic.jhuapl.edu/Events/102.php?id=102 
+
+It will be updated as additional detail are finalized. The event will
+center on the interrelationships between the six LSIC focus areas,
+especially in the context of surface power. We invite abstracts
+describing technical capabilities within the six LSIC focus areas, as
+well as those that identify lunar surface technology needs and assess
+the readiness of relative systems and components. The six LSIC
+technical focus areas are:
+
+Dust Mitigation
+Excavation & Construction
+Extreme Access
+Extreme Environments
+In Situ Resource Utilization
+Surface Power
+
+Other topics of interest include defining the parameters and
+constraints of the architecture required to support a sustained
+presence on the lunar surface, as well as economic and policy
+considerations. Early registration closes at 11:59PM EDT on September
+19th, 2020 and will help the registration committee determine which
+discussion groups participants get placed into.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+OPENPLANETARY VIRTUAL LUNCH TALKS
+
+OpenPlanetary continues to host weekly virtual "lunch" talks on
+Tuesdays at 1pm Central Time (GMT-5). You may sign up for future talk
+announcements at:
+
+www.openplanetary.org
+
+Videos of past talks, as well as workshops and presentations from the
+recent OpenPlanetary Virtual Conference (OPvCon), are available on our
+YouTube page. (Search for "OpenPlanetary" on YouTube.)
+
+We also invite members of the planetary research community to present.
+Talks are typically 20-50 minutes long, followed by discussion, and can
+be on any topic that might be general interest to planetary scientists.
+Please propose your own talk by sending a title and 1-sentence abstract
+to team@openplanetary.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, OUTER PLANET MAGNETOSPHERES AND
+MOON INTERACTION
+
+The Jet Propulsion Laboratory, California Institute of Technology
+invites applications for a Research Scientist position in planetary
+science, with a focus on research and instrument/mission development in
+the areas of magnetospheres, magnetosphere-moon interactions and
+astrobiology.
+
+In this position you will conduct planetary science research with a
+focus on modeling of magnetospheric charged particle interactions and
+other exogenous weathering effects, and applying such results to inform
+remote sensing observations and biosignature detection. It is expected
+that the successful candidate would develop an independently-funded
+research program and would pursue new mission and/or instrument
+opportunities focusing on the exploration of habitable environments in
+the Solar System, in particular the icy moons of the Ice Giant planets.
+
+This position requires a Ph.D. degree in space physics, planetary
+science, planetary physics, or a related field along with expertise in
+outer planet magnetospheres and moon-magnetosphere interactions
+(ideally Ice Giants).
+
+To view the full description and apply, please visit:
+
+http://jpl.jobs/jobs/2020-12409-Research-Science-Outer-Planet-Magnetospheres-and-Moon-Interactions.
+
+Applications received by October 12, 2020, will receive full
+consideration.
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+JOB ANNOUNCEMENT: MASSACHUSETTS INSTITUTE OF TECHNOLOGY, FACULTY
+POSITION IN PLANETARY SCIENCE
+
+The Department of Earth, Atmospheric and Planetary Sciences (EAPS)
+at the Massachusetts Institute of Technology (MIT) Cambridge,
+Massachusetts invites applications for a tenure-track faculty position
+in the broad area of Planetary Science. EAPS is an academic community
+of approximately 40 faculty, 100 research staff (including postdocs),
+and 180 students, who together form leading research programs on all
+aspects of Earth, planetary, geo-biological, ocean, atmospheric,
+and climate sciences, some of which reside within the MIT WHOI
+Joint Program. To receive full consideration, complete applications
+must be received by November 1, 2020.
+
+https://academicjobsonline.org/ajo/jobs/16642
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 30, 2020
+Lunar Surface Science Workshop 4: Planetary Protection/PSR Classification
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

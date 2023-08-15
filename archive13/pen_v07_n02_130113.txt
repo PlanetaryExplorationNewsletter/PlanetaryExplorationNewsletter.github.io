@@ -1,0 +1,338 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 2 (January 13, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. SPICE Training Class
+2. International Primitive Body Exploration Working Group (IPEWG) 
+   Meeting
+3. NASA Postdoctoral Fellowships
+4. Internship Opportunities at Johns Hopkins University Applied Physics 
+   Laboratory
+5. Postdoc - Boston University - Curiosity and Mars Atmosphere
+6. [NASA] Solar System Exploration Research Virtual Institute 
+   Cooperative Agreement Notice
+7. MEPAG #27 Cancellation Notice
+8. Magnetospheres of the Outer Planets - MOP 2013
+9. PhD Researcher in the Field of Geomicrobiology
+10. 8th Meeting of the NASA Small Bodies Assessment Group
+11. Planetary Meeting Calendar Additions 
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SPICE TRAINING CLASS
+
+NAIF announces the next SPICE training class will take place 
+April 23-25 in Monrovia, California (near Pasadena). You may find 
+the combination announcement letter and registration form on the 
+NAIF website announcements page:   
+
+http://naif.jpl.nasa.gov/naif/announcements.html 
+
+Registration is required, the sooner the better but no later than 
+March 29th. Seating is limited and will be offered in the order 
+in which firm registrations are received.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+INTERNATIONAL PRIMITIVE BODY EXPLORATION WORKING GROUP (IPEWG) MEETING
+ 
+We are pleased to announce that the third Meeting of the IPEWG 2013
+will be held May 29-31 2013 in Nice, France. Information regarding 
+meeting goals, logistics and registration are indicated on the 
+following web site (to be completed, so please check it regularly):
+
+http://www.oca.eu/michel/IPEWG2013/
+ 
+Discussions held at IPEWG 2013 are expected to impact and improve 
+international collaboration activities for primitive body space 
+exploration. We expect the workshop to come up with a prioritized 
+set of recommendations to be included in a charter. We hope you will 
+attend and participate in this important program.
+ 
+Please note that IPEWG2013 is followed by a MarcoPolo-R International 
+Symposium (ESA primitive asteroid sample return mission in competition 
+in the M3 class mission) at ESTEC (The Netherlands) on June 3-4, 2013. 
+Direct low-cost flights from Nice to Amsterdam can be used to attend 
+this symposium.
+ 
+We are currently working on the program of the workshop and to invite 
+subject experts as we prepare to build on the successes of IPEWG 2008 
+and 2011. Please contact Patrick Michel, LOC Chair (michelp@oca.eu) 
+with any questions.
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+INTERNSHIP OPPORTUNITIES AT JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS 
+LABORATORY
+
+The Johns Hopkins Applied Physics Laboratory is engineering the future 
+of space exploration - examining Earth's near-space environment, our 
+Sun, planetary bodies and the outer solar system. The NASA/APL 
+Internship Program provides unique opportunities for university 
+students to work on NASA missions or other space-related research 
+opportunities at APL.  
+
+Join us for 10 weeks this summer, and be a part of this extreme 
+exploration!
+
+To apply, visit:
+
+https://www.APLapp.com
+
+Deadline for submittals: January 28, 2013
+
+The Applied Physics Laboratory (APL) is a not-for-profit center for 
+engineering, research, and development. Located north of Washington, 
+DC, APL is a division of one of the world's premier research 
+universities, The Johns Hopkins University.
+
+To learn more about APL, visit http://www.jhuapl.edu/
+
+Bryant Garcia
+443.778.2376 (Baltimore)
+240.228.2376 (Washington)
+443.986.6288 (Cell)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOC - BOSTON UNIVERSITY - CURIOSITY AND MARS ATMOSPHERE
+
+The Center for Space Physics at Boston University invites applications
+for a postdoctoral researcher position supervised by Professor Paul
+Withers. The research will involve the analysis of accelerometer and
+other measurements made by Curiosity during its descent to the surface
+of Mars, leading to an accurate reconstruction of the atmospheric
+conditions encountered by Curiosity and subsequent scientific
+interpretation of these results. Candidates should possess a PhD degree
+in a relevant field. Experience conducting research on planetary
+atmospheres and/or experience working with spacecraft observations are
+desirable. The salary offered will be competitive and commensurate with
+experience. Funding is available for two years with the possibility of
+extension. The appointment is expected to begin as soon as possible
+after 1 April 2013. Please contact Paul Withers (withers@bu.edu) for
+further information.
+
+Applications should be sent by email to Paul Withers (withers@bu.edu).
+The application should be submitted in PDF format and contain a
+curriculum vitae, statement of research interests, and contact
+information for three referees. Review of applications will begin on 28
+February 2013. Women and underrepresented minorities are particularly
+encouraged to apply. Boston University is an equal
+opportunity/affirmative action employer.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] SOLAR SYSTEM EXPLORATION RESEARCH VIRTUAL INSTITUTE COOPERATIVE 
+AGREEMENT NOTICE
+
+Solar System Exploration Research Virtual Institute (SSERVI) 
+Cooperative Agreement Notice (CAN) released NASA's Science Mission 
+Directorate and Human Exploration and Operations Mission Directorate 
+have jointly released a CAN, available at:
+
+http://tinyurl.com/SSERVI
+
+to solicit multi-institutional team-based proposals focusing on basic 
+and applied scientific questions fundamental to understanding the Moon, 
+Near Earth Asteroids, the Martian moons, and the near space 
+environments  of these target bodies. The date and time for a 
+community-wide virtual Q and A session to discuss the CAN will be 
+announced shortly. Upon selection of the ~7 new teams in the latter 
+half of 2013, the NASA Lunar Science Institute (NLSI) will become
+the Solar System Exploration Research Virtual Institute (SSERVI). 
+Although the teams will be new, there will be no change in leadership 
+or management location. SSERVI will be directed by Dr. Yvonne 
+Pendleton and managed by the current NLSI staff located at NASA Ames 
+Research Center. The sixth NASA Lunar Science Forum, hosted by the 
+NLSI at Ames Research Center, is planned for July 16-19, 2013,
+with its primary focus on lunar science. In future years, the forum 
+will include the expanded scope of the new virtual institute, SSERVI.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEPAG #27 CANCELLATION NOTICE
+
+Delays in the federal budget process means that the President's 
+traditional budget message is unlikely to occur by the time of the 
+presently scheduled February 26 and 27th MEPAG meeting in Washington 
+D.C. You are surely all aware of the announcement in December at the 
+Fall AGU meeting by Associate Administrator John Grunsfeld that NASA 
+intends to launch a new rover to Mars in 2020. However, the 2020 Rover 
+Science Definition Team is just now being formed and will not be far 
+enough into its deliberations to give a meaningful out-brief in 
+February. 
+
+We have decided to cancel the two-day physical meeting and to replace 
+it with a half-day electronic meeting (e.g., WEBEX), tentatively 
+scheduled for the afternoon (EST) of either February 26 or 27.  
+
+At that time the community can be briefed on changes in MEP leadership 
+(Doug McCuisition has retired), status of budget planning within MEP 
+and PSD, and the new thrust in Mars exploration, including the 
+membership, charter and status of the 2020 Rover SDT. 
+
+Details will follow when they are available. 
+
+We apologize for any inconvenience.
+
+Dave Des Marais, MEPAG Chair
+Charles Budney
+Dave Beaty
+Rich Zurek
+Michael Meyer
+Mars Program Office
+
+(Edited for length.)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MAGNETOSPHERES OF THE OUTER PLANETS - MOP 2013 
+
+July 8-12 in Athens, Greece
+Registration and abstract submission for the meeting are now available.
+
+You can register by May 31st at:
+
+http://space.academyofathens.gr/mop2013/registration.html
+
+and submit your abstract before May 1st at:
+
+http://space.academyofathens.gr/mop2013/abstracts.html
+
+Dr. N. Sergis
+for the LOC
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PHD RESEARCHER IN THE FIELD OF GEOMICROBIOLOGY
+
+We seek a highly motivated PhD student to join us in the petrology 
+group at Faculty of Geosciences in Utrecht University in the 
+Netherlands. The aim of the PhD project is to develop techniques with 
+nickel isotopes to detect the activity of methanogenic archaea and 
+reverse methanogenesis in diverse environments. Focus will be given 
+to methanogens from volcanic areas in order to determine if microbial 
+activity can enhance Ni release from Ni-containing minerals. Part of 
+the work will be carried out with collaborating research groups at 
+Wageningen University and the ETH in Zurich, Switzerland.
+
+Requirements: You should have an MSc degree in geochemistry, 
+(geo)microbiology, environmental sciences or a related field, with 
+experience of laboratory work, and preferably a strong interest in 
+isotope geochemistry and its application to problems in Early history. 
+You should communicate easily in English, both verbally and in writing.
+This is a temporary position for 4 years. The gross monthly salary 
+increases from euro 2,042 (year 1) to euro 2,612 (year 4).
+
+For informal enquiries, contact:
+Dr. Paul Mason, p.mason@uu.nl or 
+Dr. Melike Balk, m.balk@uu.nl
+
+You may also wish to visit the Faculty website at: 
+
+www.geo.uu.nl/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+8TH MEETING OF THE NASA SMALL BODIES ASSESSMENT GROUP
+
+January 14-16, 2013
+Liaison Capitol Hill
+Washington DC
+
+We have a very exciting program, and I encourage everyone to come and 
+participate. Late (no charge) on-site event registration will begin 
+at 7:30 a.m. 
+
+The agenda, WebEx instructions and other details are posted at:
+
+http://www.lpi.usra.edu/sbag/meetings/ 
+
+See you there!
+Mark V. Sykes
+Chair, NASA Small Bodies Assessment Group
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 29-31, 2013
+Third Meeting of the International Primitive Body Exploration Working 
+Group (IPEWG)
+http://www.oca.eu/michel/IPEWG2013/
+Nice, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

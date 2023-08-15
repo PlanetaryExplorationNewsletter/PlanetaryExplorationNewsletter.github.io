@@ -1,0 +1,203 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 26 (June 18, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Scientific Programmer, University of Maryland
+2. Planetary and Space Sciences (PSS) Special Issue Invitation: Dust, 
+   Atmosphere, and Plasma Environment of the Moon and Small Bodies
+3. GSA 2017 Session T.199: Basalt Weathering on Earth and Mars
+4. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 30
+5. Mars Exploration Science Monthly Newsletter for June 2017
+6. Ice Giant Mission Study Released
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SCIENTIFIC PROGRAMMER, UNIVERSITY OF MARYLAND
+
+The Small Bodies Node (SBN) of NASA's Planetary Data System, based in 
+the Department of Astronomy at the University of Maryland, College 
+Park, is seeking a programmer with analytic experience who would work 
+with a larger group of planetary scientists and programmers. The ideal 
+candidate will also work closely with programmers at the Minor Planet 
+Center at the Center for Astrophysics, Cambridge, MA, concerned with 
+small body astronomy and orbital calculation. Five years experience is 
+required, including some system administration experience or training, 
+and with some experience either designing or implementing IT security 
+measures in a Linux network environment. A familiarity with relational 
+database management is also desired. A Bachelor's or Master's level 
+degree in computer science or a related field is prefered, but previous 
+work experience will also be considered. Near-term tasks include 
+developing a cross-identification database for all bodies represented 
+in the archive, overseeing the security plan for the SBN, back-end 
+development and user interface development, and reporting to NASA.
+
+For more details and to apply, visit: 
+
+https://jobs.physicstoday.org/jobs/9151374  
+
+To receive full consideration, applications must be submitted by 
+August 25, 2017.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY AND SPACE SCIENCES (PSS) SPECIAL ISSUE INVITATION: DUST,
+ATMOSPHERE AND PLASMA ENVIRONMENT OF THE MOON AND SMALL BODIES
+
+The DAP-2017 workshop was held in Boulder on January 11th-13th. It 
+was focused on open science questions, the status and future of our 
+supporting modeling and laboratory experimental capabilities, and the 
+definition of the required measurements and instrument capabilities 
+for future investigations from orbit or landed missions. Contributions 
+to the earlier LDAP-2010 and DAP-2012 meetings were published in 
+special issues of Planetary and Space Sciences. A similar volume is 
+planned to report the contributions to DAP-2017.
+
+In addition to the meeting participants, the editors are soliciting 
+contributed papers from the larger lunar, planetary, and space science 
+communities that are relevant to the topics discussed during the 
+DAP-2017 meeting.  
+
+The deadline for submitting a paper to this special issue is June 30, 
+2017. 
+
+Mihaly Horanyi and Alan Stern, editors
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GSA 2017 SESSION T.199: BASALT WEATHERING ON EARTH AND MARS
+
+We invite you to submit an abstract to our session on "Basalt 
+weathering on Earth and Mars" at this year's GSA Annual Meeting in 
+Seattle, WA on October 22-25, 2017.
+
+This session explores basalt weathering processes and products under 
+various environmental conditions on Earth and Mars. Abstracts are 
+solicited on field studies, laboratory simulations, geochemical 
+modeling, and/or remote sensing observations.
+
+Please submit your abstract here:
+
+https://gsa.confex.com/gsa/2017AM/top/papers/index.cgi?sessionid=43290
+
+The submission deadline is August 1, 2017.
+
+Conveners:
+
+Melissa S. Rice (Western Washington University)
+Leslie L. Baker (University of Idaho)
+Michael D. Kraft (Western Washington University)
+
+We look forward to seeing you in Seattle!
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 30
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+CRaTER, DLRE, LAMP, LEND, LOLA, and LROC. In general, LRO Release 30 
+includes data collected between December 15, 2016 and March 14, 2017. 
+To access the above data, please visit the following link:  
+
+http://pds.nasa.gov/tools/subscription_service/SS-20170615.shtml
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria: 
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector):    
+
+http://ode.rsl.wustl.edu/moon/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JUNE 2017
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+James Ashley of the Mars Program Science Office, the June 2017 edition 
+of the Mars Exploration Science Monthly Newsletter can be found on the 
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ICE GIANT MISSION STUDY RELEASED
+
+A joint NASA-ESA study of potential missions to Uranus and Neptune has 
+been released. The study was performed as part of preparations for the 
+next Planetary Science Decadal Survey. It identifies the scientific 
+questions the next Ice Giant mission should address, and discusses 
+various instruments, spacecraft, flight-paths, and technologies that 
+could be used. The full study as well as an Executive Summary are 
+available at: 
+
+http://www.lpi.usra.edu/icegiants/mission_study
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 12-13, 2017
+Back to the Moon Workshop
+http://www.hou.usra.edu/meetings/moon2017
+Columbia, MD
+
+November 7-9, 2017
+SPICE Training Class
+https://naif.jpl.nasa.gov/naif/WS2017_prelim_announcement
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,548 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 5 (January 28, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Mark V. Sykes, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Goldschmidt 2023 Theme 10G: Geobiology Life in Earth and Planetary
+   Systems Processes - Biosignature Diversity, Preservation, and
+   Detection through Geologic Time
+2. Abstract Submission Reminder for TherMoPS IV 
+3. JpGU 2023 Session: Outer Solar System Exploration Today and
+   Tomorrow 
+4. Venus Science Panel: Hybrid Public Event
+5. Freely Available Public Talks: Forming and Exploring Habitable
+   Worlds 
+6. Gordon Research Seminar Origins of Solar Systems Abstract Submission
+   Deadline 
+7. The GeoPlaNet Erasmus Mundus Joint Master in Planetary Geosciences
+   Hosting First Cohort of International Students in September 2023
+8. Job Opening: Chromatographer at NASA GSFC 
+9. Job Opening: NASA Research Scientist Position at NASA GSFC 
+10. [NASA] ROSES-22 Amendment 87: F.12 Artemis Deployed Instruments
+    Program Deferred to ROSES-2023
+11. [NASA] ROSES-22 Amendment 86: C.25 Artemis III Geology Team Final
+    Text 
+12. [NASA] Lunar Surface Technology Research (LuSTR) Opportunities
+    Appendix Released 
+13. [NASA] 2023 Heliophysics Space Weather Vigil Focused Mission of
+    Opportunity (Vigil FMO) Draft Announcement of Opportunity Released
+    for Review and Public Comment
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+GOLDSCHMIDT 2023 THEME 10G: GEOBIOLOGY LIFE IN EARTH AND PLANETARY
+SYSTEMS PROCESSES - BIOSIGNATURE DIVERSITY, PRESERVATION, AND
+DETECTION THROUGH GEOLOGIC TIME
+
+Goldschmidt will take place from July 9-14 in Lyons, France. Abstracts
+are due by March 1st. 
+
+We invite contributions from all fields that investigate the connection
+between microorganisms and their (paleo)environments, including efforts
+on in situ and remote detection of biosignatures, their synthesis and
+analysis, and potential synthesis in prebiotic systems. Submissions
+highlighting novel analytical, experimental, and modeling approaches
+are encouraged. This session is explicitly open to multi-discipline
+approaches that incorporate methods coming from different branches of
+science. We welcome all career stages (early to senior) and research
+related to any planetary body or environment (rocky, icy, ocean,
+gaseous).
+
+Conference Website:
+
+https://tinyurl.com/49h4ay37
+
+Abstract Submission:
+
+https://tinyurl.com/mr3kbe2t
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABSTRACT SUBMISSION REMINDER FOR THERMOPS IV
+
+This is a reminder that abstract submission for the Fourth Workshop on
+Thermal Models for Planetary Science will close on 3 February 2023
+(23:00 UTC).
+ 
+TherMoPS IV will be held at the European Space Research and Technology
+Centre (ESTEC) in Noordwijk, The Netherlands, 18-20 April, 2023.
+Remote participation will be possible for those unable to attend
+in-person. We expect to be able to offer some travel support for young
+professionals to attend in-person. Details will be announced when
+registration opens.
+
+Registration for the workshop will open when the workshop programme is
+published on 27 February.
+ 
+Themes identified for abstract submission include:
+- Thermal modelling of rocky planets, asteroids and small bodies, the
+  Moon and moons of the Solar System, and gas giants;
+- Technical aspects of thermal modelling such as: models of thermal
+  evolution and thermal conductivity, disk-integrated vs disk-resolved
+  approaches, advances in theory and computational techniques, and;
+- Research to investigate thermal processes and validate thermal
+  models, via laboratory work and observations from observatories or
+  spacecraft.
+ 
+Workshop Website: 
+
+https://tinyurl.com/2d2xx5a9
+
+Abstract Submission:
+
+https://tinyurl.com/bdntkbsz
+ 
+We look forward to your submissions!
+ 
+TherMoPS IV Science and Local Organizing Committees
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JPGU 2023 SESSION: OUTER SOLAR SYSTEM EXPLORATION TODAY AND TOMORROW
+
+Please consider submitting an abstract to the "Outer Solar System
+Exploration Today and Tomorrow" session at the Japan Geoscience Union
+(JpGU) Meeting held on May 21-26, 2023 in Makuhari, Japan near Tokyo.
+ 
+Our session will discuss a wide range of topics encompassing the giant
+planets and their moons, including their origins, interiors,
+atmospheres, compositions, surface features, and electromagnetic
+fields. To advocate for current and future outer planets exploration
+(Juno, New Horizons, JUICE, Europa Clipper, Dragonfly and beyond), we
+also call for discussions on future missions to explore giant planet
+systems, including how to develop better international cooperation.
+Among new topics, we especially encourage presentations about new
+scientific results generated using data returned by space telescopes
+such as the James Webb Space Telescope (JWST).
+
+Session Website: 
+
+https://tinyurl.com/mudmcsxm
+ 
+Submit Abstracts:
+
+https://tinyurl.com/3cpsfmxf
+ 
+Early-bird deadline: Feb. 2 (Thu) 14:59 (UT)
+Final deadline: Feb. 16 (Thu) 08:00 (UT)
+ 
+Conveners:
+- Jun Kimura, Osaka University
+- Kunio Sayanagi, NASA Langley Research Center
+- Fuminori Tsuchiya, Tohoku University
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VENUS SCIENCE PANEL: HYBRID PUBLIC EVENT
+
+On Tuesday, January 31, 2023, beginning at 7:00 p.m. CT (8:00 pm ET/
+6:00 am MT/5:00 am PT), the Lunar and Planetary Institute is hosting a
+free, hybrid science event that is open to public audiences.
+ 
+Join the LPI, in person or online, to hear a panel of planetary
+scientists discuss our current knowledge of Venus's surface and
+atmosphere and share insights about the missions that will be launching
+to Venus over the coming decade.
+ 
+Learn more:
+ 
+https://tinyurl.com/25pwau5m
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FREELY AVAILABLE PUBLIC TALKS: FORMING AND EXPLORING HABITABLE WORLDS 
+
+To reach many young people, educators, and others - and following a
+successful conference in Edinburgh during November - we have recordings
+of the accessible Public Talks that took place. 
+ 
+The recordings aim to broaden engagement and spark conversations on the
+exciting topics of:
+- what planets are and how they form,  
+- how and why we explore space,  
+- the rise of life on Earth and other possible habitable worlds and
+  aliens(?) leading to the question - are we alone in the cosmos?  
+
+These talks also seek to provide examples of how space exploration
+links with peoples' lives / culture on Earth while giving a sense of
+humanity's responsibilities in venturing beyond our home world. 
+
+We hope that you, your classes, community groups, and/or family and
+friends enjoy these recordings whenever convenient for you.
+
+Links below: 
+
+- Let's Explore Planets by Elizabeth Tasker (JAXA) and Nicolle Zellner
+  (Albion College): 
+
+  https://youtu.be/1_vq9eCGqn4 
+
+- Our Future Off-Earth by Chris Impey (University of Arizona): 
+
+  https://youtu.be/0JQcCxE19OQ  
+
+We are thrilled that Reader Megha Bhatt and Associate Professor Neeraj
+Srivastava of India's Physical Research Laboratory will host the next
+conference in this series.
+
+[Edited for Length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GORDON RESEARCH SEMINAR ORIGINS OF SOLAR SYSTEMS ABSTRACT SUBMISSION
+DEADLINE
+
+Applications are open for the upcoming Origins of Solar Systems Gordon
+Research Conference and Seminar (GRS June 10 - 11, GRC June 11 - 16
+2023).
+
+GRC Website:
+
+https://tinyurl.com/2revu23e
+ 
+GRS Website:
+
+https://tinyurl.com/4v7a474s
+ 
+The Origins of Solar Systems GRS is a fantastic opportunity for
+early-career planetary scientists and astronomers to share their work
+together, network, and receive mentorship. It will take place the
+weekend before the main meeting at Mount Holyoke College in
+Massachusetts.
+ 
+All attendees will be eligible to apply for travel/registration grants,
+with priority given to postdocs and graduate students who attend both
+the GRS and GRC. Applications for funding will be due in March.
+The number and amount of travel grants will depend upon the success in
+fundraising and are not known at this time.
+ 
+The deadline to submit an abstract to be considered for a talk at the
+GRS is March 5. Please direct all questions about the application
+process to the GRS Co-Chairs.
+
+- Stephanie Jarmak: stephanie.jarmak@swri.org
+- Tim Lichtenberg: tim.lichtenberg@rug.nl
+- GRC Chair Alycia Weinberger: aweinberger@carnegiescience.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+THE GEOPLANET ERASMUS MUNDUS JOINT MASTER IN PLANETARY GEOSCIENCES
+HOSTING FIRST COHORT OF INTERNATIONAL STUDENTS IN SEPTEMBER 2023
+
+GeoPlaNet-EMJM is a two-year master jointly designed by the University
+of Coimbra, Portugal (1st semester), the University of Annunzio di
+Chieti-Pescara, Italy (2nd semester), and Nantes Universite, France
+(3rd semester). Semester 4 is dedicated to an internship, within the
+network of associated partners worldwide: academies, space agencies,
+private companies specialized in Virtual Reality and space
+instrumentation.
+
+GeoPlaNet EMJM aims to train the future cohort of tomorrow's best
+researchers with a unique and world competitive European learning
+experience based on a strong education by research.
+- It will prepare them to design, analyse and interpret the data of
+  the future space missions and to address the many challenges of the
+  oncoming Earth and Planetary exploration programmes.
+- It aims at developping students research and numerical skills, the
+  use of VR tools and the creation of collaborative virtual universes
+  for space exploration, in an international and multidisciplinary
+  environment.
+- The goal is to reach 100% of employment after graduation and create a
+  wide network of employment opportunities within research & industry.
+
+GeoPlaNet-EMJM website:
+
+https://geoplanet-impg.eu/
+
+Deadline for application: 15 February 2023
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+JOB OPENING: CHROMATOGRAPHER AT NASA GSFC
+
+The Planetary Environments Lab at NASA Goddard Space Flight Center,
+which studies the chemistry and astrobiology of the atmospheres and
+surfaces of planetary bodies, is seeking a scientist who specializes in
+chromatography, with a strong emphasis on front end separation
+techniques and hardware development.
+
+Candidates are expected to have experience in chromatography mass
+spectrometry techniques.
+
+The job is open to all US citizens.
+
+Applications are open between 2/9/2023 and 2/23/2023.
+
+Job Listing: 
+
+https://www.usajobs.gov/job/702547900
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JOB OPENING: NASA RESEARCH SCIENTIST POSITION AT NASA GSFC
+
+The Science and Exploration Directorate, Heliophysics Division,
+Geospace Physics Laboratory (Code 673) at NASA's Goddard Space Flight
+Center (GSFC) is seeking a Research Astrophysicist with a focus on
+flight mission management.  The successful candidate will join NASA as
+a civil servant scientist to perform research investigations in
+magnetospheric physics, to support mission operations and management,
+and to define science and mission requirements for future missions. The
+Geospace Physics Laboratory manages the Magnetospheric Multiscale (MMS)
+mission, and its members are currently developing instruments for the
+Lunar Gateway, the International Space Station, the Geospace Dynamics
+Constellation mission, cubesats, sounding rockets, balloons, and
+payloads and services for the Moon to Mars program.
+
+The full vacancy announcement (position ID is GSFC-23-DE-11790668-DT)
+will be posted on January 30 and will close on February 10 at
+11:59pm EST. Applicant competencies in leadership, research, and space
+science mission operations should be described. 
+
+This is a GS-14 or GS-15 level position (US citizens only) with annual
+salary in the range $132,368-$183,500 depending on experience and
+qualifications.
+
+For additional information contact:
+
+Dr. Eftyhia Zesta - eftyhia.zesta@nasa.gov
+Dr. Menelaos Sarantos - menelaos.sarantos@nasa.gov
+
+Job Posting Avaiable at:
+
+https://www.usajobs.gov/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-22 AMENDMENT 87: F.12 ARTEMIS DEPLOYED INSTRUMENTS PROGRAM
+DEFERRED TO ROSES-2023
+
+When it is solicited in ROSES-2023, F.12 Artemis Deployed Instruments
+Program (ADI) will seek proposals for instruments to be deployed on the
+surface of the Moon during the first crewed lunar landing.
+ 
+ROSES-2022 Amendment 87 announces that F.12 ADI, which had been listed
+as "TBD" will not be solicited in ROSES-2022. Instead, it will be
+solicited in ROSES-2023, to be released in February 2023. It will first
+be released as a draft for community comment.
+ 
+This Amendment is available at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+and appears on SARA's ROSES blog at:
+
+https://tinyurl.com/7u2sdtym
+                                          
+Questions regarding F.12 ADI may be directed to:
+
+Ryan Watkins and Amanda Nahm at HQ-ArtemisInstruments@mail.nasa.gov.
+
+[Edited for Length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ROSES-22 AMENDMENT 86: C.25 ARTEMIS III GEOLOGY TEAM FINAL TEXT
+
+C.25 Artemis III Geology Team (A3GT) solicits proposals for the
+complete Artemis III Geology Team, which will support Artemis III
+mission operations and will function as part of the Science Evaluation
+Room, or the science backroom, for the mission. Each proposal must
+include an entire team. A single team will be selected from this call.
+Members of the selected A3GT will be part of the broader Artemis
+Science Team, which consists of the Artemis Internal Science Team, the
+A3GT (this opportunity), teams selected from the Artemis Deployed
+Instruments call (F.12 of ROSES), and participating scientists selected
+from a future Artemis III Participating Scientist Program call.
+  
+ROSES-2022 Amendment 86 releases final text and due dates for C.25
+A3GT. Step-1 proposals are due February 24, 2023, and Step-2 proposals
+are due April 25, 2023
+ 
+This Amendment is available at:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+and appears on SARA's ROSES blog at:
+
+https://tinyurl.com/7u2sdtym
+ 
+Questions concerning C.25 A3GT may be directed to the A3GT Caucus at
+HQ-ARTEMISGEOLOGY@mail.nasa.gov.
+
+[Edited for Length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] LUNAR SURFACE TECHNOLOGY RESEARCH (LUSTR) OPPORTUNITIES APPENDIX
+RELEASED
+
+NASA's Space Technology Mission Directorate (STMD) has released "Lunar
+Surface Technology Research (LuSTR) Opportunities" as an appendix to
+the SpaceTech-REDDI-2023 solicitation. 
+
+The LuSTR appendix is available at:
+
+https://tinyurl.com/2023LuSTR
+
+Only accredited U.S. universities are eligible to submit proposals.
+Teaming is permitted. See the solicitation for complete eligibility
+requirements, as well as teaming restrictions.
+
+The goal of LuSTR, part of the Lunar Surface Innovation Initiative
+(LSII), is to accelerate the development of groundbreaking
+technologies that support and enable lunar surface activities to be
+conducted under Artemis - the core of NASA's exploration and human
+spaceflight plans for the next decade. As part of the LSII portfolio,
+LuSTR solicits ideas from universities that can be integrated into
+Artemis' sequence of missions that start with the near-term
+development of enabling infrastructure and lay the foundation for a
+sustained human and robotic presence.  
+ 
+Technical and programmatic comments and questions may be addressed by
+email to the solicitation mailbox, hq-LuSTR@mail.nasa.gov.
+
+[Edited for Length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] 2023 HELIOPHYSICS SPACE WEATHER VIGIL FOCUSED MISSION OF
+OPPORTUNITY (VIGIL FMO) DRAFT ANNOUNCEMENT OF OPPORTUNITY RELEASED FOR
+REVIEW AND PUBLIC COMMENT
+
+Number: NNH23ZDA007J
+Release Date:  January 24, 2023
+Comments Due Date: February 17, 2023
+Direct URL: https://go.nasa.gov/VFMODraft  
+ 
+The National Aeronautics and Space Administration (NASA) Science
+Mission Directorate (SMD) has released for comment a Draft Announcement
+of Opportunity (AO) for 2023 Heliophysics Space Weather Vigil Focused
+Mission of Opportunity. This draft solicitation was generated by the
+SMD Heliophysics Division's Heliophysics Space Weather Program (SWxP)
+for an investigation for a remote sensing extreme ultraviolet (EUV)
+imager instrument to be hosted on the European Space Agency (ESA) Vigil
+mission and to:
+ 
+- Advance understanding of solar variability manifested as "the sudden
+  release of magnetic energy that enables both flares and coronal mass
+  ejections (CME) to accelerate particles to high energy efficiently";
+- Enable the development "of advanced methods for forecasting and
+  nowcasting of solar eruptive events and space weather";
+- Make effective use of ESA instrument data in the proposed
+  investigation; and
+- Support objectives of the Vigil mission with the provision of low
+  latency data for operational space weather applications.
+
+Questions and comments regarding this FMO Draft AO should be emailed to
+both:
+
+James Spann, jim.spann@nasa.gov
+Washito Sasamoto, washito.a.sasamoto@nasa.gov.
+
+The email subject line must read "Vigil FMO" to be properly routed.
+
+[Edited for Length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+May 21-26, 2023
+Japan Geoscience Union (JpGU) Meeting
+https://www.jpgu.org/meeting_e2023/
+Chiba City, Japan
+
+July 9-14, 2023
+Goldschmidt 2023: Geobiology Life in Earth and Planetary Systems Processes
+https://tinyurl.com/49h4ay37
+Lyons, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+An Ancient Martian Dynamo Driven by Hemispheric Heating: Effect of
+Thermal Boundary Conditions
+Chi Yan et al. 2023 PSJ 4:11
+https://doi.org/10.3847/PSJ/acae93
+
+Probing Ganymede's Atmosphere with HST Lya Images in Transit of
+Jupiter
+Lorenz Roth et al. 2023 PSJ 4:12
+https://doi.org/10.3847/PSJ/acaf7f
+
+Electrostatic Repulsion of Dust from Planetary Surfaces
+F. Chioma Onyeagusi et al. 2023 PSJ 4:13
+https://doi.org/10.3847/PSJ/acad7f
+
+The Solar Wind Interaction with (1) Ceres: The Role of Interior
+Conductivity
+A. R. Poppe and S. Fatemi 2023 PSJ 4:14
+https://doi.org/10.3847/PSJ/acaf6a
+
+Pluto's Surface Mapping Using Unsupervised Learning from
+Near-infrared Observations of LEISA/Ralph
+A. Emran et al. 2023 PSJ 4:15
+https://doi.org/10.3847/PSJ/acb0cc
+
+Thermal Creep on Mars: Visualizing a Soil Layer under Tension
+Tetyana Bila et al. 2023 PSJ 4:16
+https://doi.org/10.3847/PSJ/acaaaa
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org   
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* https://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

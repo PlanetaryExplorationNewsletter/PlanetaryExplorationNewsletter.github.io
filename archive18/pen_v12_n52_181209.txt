@@ -1,0 +1,400 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 52 (December 8, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. PDS/IPDA Booth at AGU - Planetary Data Discovery Challenge/Tutorials
+3. NASA Postdoctoral Fellowship - Application Deadline March 1, 2019
+4. ExoClimes V
+5. JGR Planets: Science Enabled by the Lunar Reconnaissance Orbiter 
+   Cornerstone Mission
+6. Mars Science Laboratory Release 19
+7. Mars Exploration Science Monthly Newsletter for December 2018
+8. Register Today for the 2019 Humans to Mars Summit 
+9. Venus Exploration Decadal Survey White Papers
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The December image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Reconstructing glaciers on Mars". Contributed by 
+Dr. Stephen Brough, School of Geography, Politics and Sociology, 
+Newcastle University, UK.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PDS/IPDA BOOTH AT AGU - PLANETARY DATA DISCOVERY CHALLENGE/TUTORIALS 
+
+The Planetary Data System (PDS), and International Planetary Data 
+Alliance (IPDA) will have a booth (#1447) at the 2018 AGU meeting to 
+provide support to the scientific community. Booth visitors will be 
+invited to take the "Planetary Data Discovery Challenge", to find a 
+NASA planetary data set of interest in the PDS archive. In addition, 
+there will be scheduled and walk-in training sessions for both 
+individuals and small groups (up to 4 persons). 
+
+Specific training time slots may be reserved at: 
+
+http://pds-training.psi.edu 
+
+Available topics: 
+
+- Finding PDS Data 
+- General training on PDS4 (either for missions or R&A archives) 
+- Data Management Plans for Proposers 
+- Designing Mission or Project PDS4 Dictionaries 
+- Archiving your data: Bring your data and we will get you started.
+- Using PDS4 data: How is it different and tools to read the PDS4 
+  labels
+- PDS4 Tool Training
+
+Contact: Joe Mafi, jmafi@igpp.ucla.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIP - APPLICATION DEADLINE MARCH 1, 2019
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed 
+here:
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $60,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EXOCLIMES V
+
+Pre-registration is open until 31 Jan, 2019.
+
+ExoClimes V will convene in Oxford, UK, 12-15 August 2019.
+
+The series brings together exoplanet observers, modelers, and theorists
+with researchers on fundamental atmospheric and planetary interior
+processes in the Solar-System and Earth-Science communities, so that 
+the communities can learn from one another.
+
+The meeting is limited to 140 attendees, who must be in residence for
+the full meeting. Participants will be selected on the basis of
+information provided during pre-registration. To pre-register, follow
+the pre-registration link at:
+
+http://exoclimes2019.org
+
+Conference fees are not charged as part of pre-registration, but
+anticipated fees (which include food and lodging) are listed on the
+pre-registration page.  Some financial aid will be available.
+
+An exciting list of keynote speakers and an outline program are also on
+the web site. We are looking forward to another stimulating and
+enjoyable ExoClimes!
+
+Ray Pierrehumbert,
+on behalf of the SOC
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JGR PLANETS: SCIENCE ENABLED BY THE LUNAR RECONNAISSANCE ORBITER
+CORNERSTONE MISSION
+
+A special collection of the Journal of Geophysical Research: Planets 
+titled "Science Enabled by the Lunar Reconnaissance Orbiter Cornerstone 
+Mission" is now open for submissions. The deadline is 15 March 2019.
+
+Please help us celebrate the upcoming LRO 10th anniversary by 
+submitting to this special collection!
+
+This issue will include new studies enabled or enhanced by data from 
+the Lunar Reconnaissance Orbiter (LRO) third extended science mission, 
+the Cornerstone Mission. The Moon is a witness plate to the history of 
+the Earth-Moon system and the cornerstone for understanding processes 
+affecting airless bodies in the Solar System. During the Cornerstone 
+Mission, LRO scientists have focused on measuring and examining 
+fundamental processes present on the Moon that operate throughout the 
+Solar System, including processes that are active today and those that 
+began billions of years ago. Papers for the special issue are 
+encouraged from the LRO science team and members of the community who 
+use LRO data to study lunar and other airless body processes.
+
+https://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/21699100
+/features/call-for-papers
+
+Submit manuscripts through the GEMS website. For additional information 
+please contact any of the organizers.
+
+Thank you,
+
+Benjamin Greenhagen, Rachel Klima, Cesare Grava, and Brett Denevi
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+Mars Science Laboratory Release 19
+
+The NASA Planetary Data System announces the 19th release of data from
+the Mars Science Laboratory (MSL) mission, covering data acquired from
+Sol 2004 through Sol 2127 (March 26, 2018, to August 1, 2018).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+  APXS
+  ChemCam
+  CheMin
+  DAN
+  Hazcam
+  MAHLI
+  MARDI
+  Mastcam
+  Navcam
+  PLACES
+  RAD
+  REMS
+  SAM
+  SPICE
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181205.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl 
+
+The data may also be reached from the main PDS home page: 
+
+https://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR DECEMBER 2018
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Kelly Perry of the Mars Program Science Office, the December 2018 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+REGISTER TODAY FOR THE 2019 HUMANS TO MARS SUMMIT
+
+Early registration for the 2019 Humans to Mars Summit (H2M) is now 
+open. H2M 2019 will be held on May 14-16, 2019 at the prestigious and 
+historic National Academy of Sciences Building in Washington, D.C. 
+Register at H2M.ExploreMars.org
+
+Tentative speakers already include Jim Bridenstine, Tom Stafford, 
+Buzz Aldrin, Ellen Stofan, Alan Stern, Rebecca Keiser, Dava Newman, 
+Lynn Rothschild, and many others.
+
+H2M 2019 will present the latest on: Apollo Moon Landing: 50th 
+Anniversary; Mars science and robotic precursor missions; Utilizing 
+the Moon to enable human exploration of Mars; Insight, the 2020 Rover, 
+and future science missions; Feeding Mars: Agriculture, synthetic 
+biology, 3-D printing; Diplomacy, international collaboration, and 
+Mars exploration; Living off the land: In-situ resource utilization; 
+How the Gateway will be utilized to advance human exploration of Mars; 
+The partnership between the entertainment industry and space 
+exploration; and Innovating our way to Mars.
+
+Register today at: 
+
+http://h2m.exploremars.org 
+
+Early registration available until January 31, 2019.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VENUS EXPLORATION DECADAL SURVEY WHITE PAPERS
+
+The Venus Exploration Analysis Group (VEXAG) will be conducting a 
+multi-step campaign through March 2019 to develop a coherent set of 
+Venus Exploration Decadal Survey White Papers.
+
+1) Link to Pre-Decadal White Paper VEXAG encourages all Venus community 
+members to consider short, to-the-point papers. A spreadsheet for these 
+contributions is:
+
+https://docs.google.com/spreadsheets/d
+/1TZGokHreJ3_oP77mTeaj8oVTUY9sO6tvmKqCc537nEc/edit?usp=sharing
+
+This link and links to the white papers themselves will be on the 
+VEXAG website.
+
+2) Key Document Revisions: The VEXAG Goals, Objectives, and 
+Investigations (GOI), Venus Roadmap, and Venus Technology Plan 
+documents are being revised in preparation for the next Decadal 
+Survey.
+
+2a) Access to the Key VEXAG Documents (12/21/18): The current working 
+drafts of each document will be posted on the VEXAG for community 
+review and comments.
+
+2b) Venus Community Telecon (Monday, 2/4/19): A public open telecon 
+to discuss these documents will be held from 4-6pm EDT. This telecon 
+will cover current versions of the documents.
+
+2c) Predecadal Review Session at LPSC (Sunday, 3/17/19): VEXAG will 
+host a special review session immediately before LPSC from 1-4 pm CDT 
+to solicit additional feedback on these key documents. Additional 
+information (e.g., call in numbers, schedules) will be posted to the 
+VEXAG website and PEN.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 20-22, 2019
+Lunar ISRU 2019 - Developing a New Space Economy Through Lunar 
+Resources and Their Utilization
+https://www.hou.usra.edu/meetings/lunarisru2019
+Columbia, MD
+
+April 16-17, 2019
+The 9th International Workshop on Occultation and Eclipse (IWOE9)
+http://iota-me.com/oe.php
+Dubai, United Arab Emirates
+
+May 14-16, 2019 
+The Human to Mars Summit
+http://h2m.exploremars.org
+Washington, DC
+
+May 21-23, 2019 
+Ocean Worlds 4
+https://astrobiology.nasa.gov/events/ocean-worlds-4
+Houston, TX
+
+June 11-14, 2019 
+10th Joint Meeting of the Space Resources Roundtable (SRR) and 
+the Planetary and Terrestrial Mining Sciences Symposium (PTMSS)
+http://www.isruinfo.com
+Golden, CO
+
+June 18-20, 2019 
+4th Planetary Data Workshop
+https://www.hou.usra.edu/meetings/planetdata2019
+Flagstaff, AZ
+
+July 28-August 2, 2019 
+Asia Oceania Geosciences Society (AOGS)
+http://www.asiaoceania.org/aogs2019/public.asp?page=home.htm
+Singapore
+
+October 21-25, 2019 
+70th International Astronautical Congress (IAC)
+https://www.iac2019.org
+Washington, DC
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

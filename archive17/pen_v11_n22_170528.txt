@@ -1,0 +1,343 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 22 (May 28, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. JWST Exposure Time Calculator (ETC) Webinar for Solar System Science
+2. ROSES C.22 OREx PSP Text Modified
+3. 51st ESLAB Symposium: 'Extreme Habitable Worlds' - 2nd Announcement
+4. Notice of Future Call for NASA Keck Key Strategic Mission Support
+   Programs
+5. PhD Position at DLR in Berlin
+6. Abstract Deadline Approaching for Accretion Conference
+7. Lunar and Planetary Institute Now Accepting Applications for Staff 
+   Scientist
+8. Europa Lander Instrument PEA
+9. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Book: Atmospheric Evolution on Inhabited and Lifeless Worlds
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JWST EXPOSURE TIME CALCULATOR (ETC) WEBINAR FOR SOLAR SYSTEM SCIENCE
+
+ETC Webinar: Thursday, June 15, 12-1 PM EDT (US)
+
+Webex info:
+
+https://tinyurl.com/n662ezq
+
+Meeting number: 640 002 474
+Password: JWST2018
+
+The General Observer (GO) Call for Proposals will be released on
+November 30, 2017, with a submission due date of March 2, 2018. Get
+ahead of the game by joining STScI's John Stansberry and Bryan Holler
+for a hands-on demonstration of the ETC in the context of Solar System
+observations. This webinar will also feature an overview of Pandeia,
+the downloadable ETC engine written in Python, and a request for
+community input on Pandeia tools and capabilities that would be useful
+for planning observations.
+
+Attendance information and a recording of the webinar will also be
+available on the JWST events page at:
+
+http://jwst.stsci.edu/news-events/events.
+
+Other useful links:
+
+JWST ETC web-interface:
+
+http://jwst.etc.stsci.edu
+
+(Note that you must create a MyST log-in to save your workbooks in the
+ETC.)
+
+Pandeia download page:
+
+http://ssb.stsci.edu/pandeia/engine/1.0/
+
+JWST Documentation (JDOX) for Solar System targets will begin to be
+published on May 19 at: 
+
+http://jwst-docs.stsci.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ROSES C.22 OREX PSP TEXT MODIFIED
+
+The text of program element C.22, the OSIRIS REx Participating
+Scientists Program has been modified. The estimated start date (in
+sections 2.4 and 4) and the dates of the Participating Scientist
+Orientation Meeting (in section 2.7) have been delayed by a month.
+
+New text is in bold and deleted text is struck through. The Step-2 due
+date remains unchanged. More details at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId={5D4CC7DB-3500-26FF-300B-E42C445F95A0}&path=open
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+51ST ESLAB SYMPOSIUM: EXTREME HABITABLE WORLDS - 2ND ANNOUNCEMENT
+
+Dear Colleague,
+
+We are pleased to announce abstract submission is now open for the 51st
+ESLAB Symposium: Extreme Habitable Worlds, that will take place
+December 4-8th 2017 at the European Space Agency ESA/ESTEC, Noordwijk,
+The Netherlands.
+
+The symposium will cover a variety of interdisciplinary themes
+regarding extreme habitability on Earth, in the solar system and
+throughout the universe.
+
+You are kindly invited to submit abstracts of up to two pages (template
+provided) via the submission interface:
+
+http://esaconferencebureau.com/2017-events/eslab2017/abstract-
+submission
+
+Abstract submission is open from May 23rd to July 13th 2017. Authors
+will be notified on the acceptance of their submission from September
+26th.
+
+Please find further details, including themes, key dates, and
+logistical information, on the website:
+
+http://esaconferencebureau.com/2017-events/eslab2017
+
+We look forward to welcoming you in Noordwijk!
+
+Kind regards,
+
+The 51st ESLAB Science and Local Organizing Committees
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NOTICE OF FUTURE CALL FOR NASA KECK KEY STRATEGIC MISSION SUPPORT
+PROGRAMS
+
+NASA is a partner in the two 10-m telescopes of the William M. Keck
+Observatory. Access to NASA's share of this time on the Keck telescopes
+(~90 nights/year) is available to all astronomers resident at US
+institutions. Proposals are submitted biannually to the NASA Exoplanet
+Science Institute (NExScI). Observing time is awarded on the basis of
+scientific merit and the degree to which the proposed program supports
+NASA missions and/or strategic goals.
+
+NASA sets aside 1/3 of its allocation for Key Strategic Mission Support
+programs (KSMS). In the 2016A semester, NASA selected three KSMS
+projects for a 2 year duration. All three programs end at the
+completion of the 2017B semester.
+
+NASA is planning to release a new call for KSMS projects for the 2018A
+semester. Details of the opportunity and the proposal process will be
+announced in early in August 2017 with non-binding notices of intent
+due shortly thereafter. Proposals for the 2018A semester will be due on
+September 14, 2017. A KSMS project is typically multi-semester (10-60
+nights, up to three years). The KSMS opportunity will be open for all
+topics/missions in astrophysics and planetary science. 
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PHD POSITION AT DLR IN BERLIN
+
+PhD position on experimental investigation of asteroid and comet
+regolith
+
+The Institute of Planetary Research at the German Aerospace Center
+(DLR) in Berlin invites applications for a PhD position within the
+framework of a DLR junior research group. The group works on the
+interpretation of surface features related to volatile content on
+asteroids and comets via an interdisciplinary approach including
+cartographic preparations, geologic analysis of remote sensing data of
+space missions as well as experimental and numerical simulations. The
+successful candidate will work on the implementation and interpretation
+of experiments simulating volatile related regolith properties and
+processes on asteroids and comets. The evaluation of the experimental
+results will encompass correlation with data from relevant space
+missions including the Rosetta and Dawn missions.
+
+Candidates should hold a master degree in physics or closely related
+field.
+
+For more information about the post and the application procedure
+please visit:
+
+http://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read
+-22068/
+
+Interested candidates should send a letter of motivation stating their
+research interests and relevant experience, a CV, copies of grade
+transcripts/diplomas, and 1-2 letters of recommendation. Applications
+should be submitted via the link above.
+
+Contact: K. A. Otto, katharina.otto@dlr.de
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ABSTRACT DEADLINE APPROACHING!
+
+Accretion: Building New Worlds Conference at the Lunar and Planetary
+Institute. ABSTRACT DEADLINE APPROACHING!
+August 15-18, 2017, Houston TX
+
+https://www.hou.usra.edu/meetings/accretion2017/
+
+The Accretion Conference will focus on processes that lead to
+planetary systems, like our own, with silicate-rich and volatile-rich
+planetary bodies. These bodies and their subsequent evolutions provide
+the bases for habitable environments and for the origin of life as we
+know it. The goal of this topical conference is to integrate the
+disparate stories of planetary accretion, both physical and chemical,
+into a consistent (although understandably incomplete) whole.
+
+The Accretion conference will encompass the formation and aggregation
+of dust and gas to embryos to planets, and include astronomical
+observations of circumstellar disks, chemical and physical data from
+the solar system materials (meteorites, etc.), and simulations of
+physical and chemical processes of accretion. All relevant data and
+ideas are welcome.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LUNAR AND PLANETARY INSTITUTE NOW ACCEPTING APPLICATIONS FOR STAFF
+SCIENTIST
+ 
+The successful candidate must have a Ph.D. in Planetary Sciences or in
+a related discipline, and at least 10 years of experience in the field.
+The candidate must be a U.S. Citizen or Legal Permanent Resident, and
+be able to pass a detailed government background investigation. The
+successful candidate will be expected to design and conduct research in
+planetary science, propose for and receive external funding for
+research, support and advise post-doctoral fellows and/or graduate
+students, seek involvement with spacecraft missions if appropriate, and
+participate with NASA and the science community in review panels,
+analysis and advisory groups, etc. We are particularly interested in
+hearing from prospective candidates who have expertise beyond that of
+our existing staff scientists.
+ 
+For more information about the position, please contact the LPI
+Director, Dr. Louise Prockter at prockter@lpi.usra.edu. Applicants
+should submit a letter of interest, a curriculum vita with a list of
+publications, a brief (maximum three pages) statement of research
+interests, and a list of three references to: 
+
+https://usracareers.silkroad.com/
+ 
+Further information on current research and facilities at the LPI can
+be found on our website at: 
+
+http://www.lpi.usra.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EUROPA LANDER INSTRUMENT PEA
+
+Special OPAG Steering Committee Finding, May 26, 2017
+
+For full postion, see: 
+
+http://www.lpi.usra.edu/opag/
+
+NASA released "Community Announcement Regarding Europa Lander
+Instrument Investigation Program Element Appendix" on May 17, 2017,
+which included a surprising statement prohibiting JPL from submitting
+proposals to this opportunity. The OPAG steering committee is concerned
+about this potential exclusion of JPL scientists and instrument
+technology experts who have spent decades preparing for a life-
+detection mission such as Europa Lander. We urge NASA to proceed in a
+way that does not increase risk to Europa Lander science by excluding
+key capabilities. We note that NASA has funded much highly relevant
+work at JPL via R&A programs and the Astrobiology Institute, and
+instrument technology development via MatISSE, PICASSO, COLDtech, and
+other programs. Excluding the knowledge gained from such efforts would
+be counterproductive. 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 17, 2017
+8th Annual Lunar and Small Bodies Graduate Conference (LunGradCon 2017)
+http://impact.colorado.edu/lungradcon/2017/
+Mauntain View, CA
+
+September 15-17, 2017
+Meteorites China
+http://people.duke.edu/~ng46/Meteorites-China/
+Shanghai, China
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+BOOK: ATMOSPHERIC EVOLUTION ON INHABITED AND LIFELESS WORLDS
+ 
+Written by David Catling and Jim Kasting, two well-known planetary
+scientists, this brand new text explains the physical and chemical
+principles of atmospheric evolution and planetary atmospheres, in the
+context of how atmospheric composition and climate determine a planet's
+habitability. The authors survey our current understanding of the
+atmospheric evolution and climate on Earth, on other rocky planets
+within our Solar System, and on exoplanets. This interdisciplinary text
+is an invaluable resource for graduate-level students and researchers
+working across the fields of atmospheric science, geochemistry,
+planetary science, and astrobiology. More details, including sample
+pages, at: 
+
+http://www.cambridge.org/9780521844123
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

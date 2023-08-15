@@ -1,0 +1,317 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 6 (January 23, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Susan Benecchi, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Workshop: Cold Temperature Technology Applications for Exploring 
+   the Lunar Surface and Searching for Volatiles
+2. AbGradCon 2011 - Abstract Submissions Are Now Open!
+3. Second Announcement: Conference on Mars Habitability
+4. Training workshops on Venus Express and Mars Express science data
+5. Announcement for a Planetary Special Session at IUGG
+6. Mars Express Images of Phobos
+7. Fourth Meeting of the NASA Small Bodies Assessment Group - Webex 
+   Instructions
+8. Outer Planets Colloquium Series
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+WORKSHOP: COLD TEMPERATURE TECHNOLOGY APPLICATIONS FOR EXPLORING THE
+LUNAR SURFACE AND SEARCHING FOR VOLATILES
+
+This cross-disciplinary workshop, to be held just prior to the Lunar 
+and Planetary Science Conference and open to a broad cross-section of 
+scientists, technology implementers and developers, will describe the 
+nature of breakthroughs in the development of Low Temperature 
+Technologies that could support operation below 100 K and are thus 
+essential for exploration of the lunar (and other planetary) surfaces, 
+particularly polar or permanently shadowed regions where prevailing 
+cryogenic conditions would allow entrapment and thus characterization 
+and collection of volatiles. Technologies includeHigh Temperature 
+Superconductors for Materials and Mechanisms, Ultra Low temperature 
+Ultra Low Power Electronics and Cold Temperature Power System 
+Components. Advanced concepts for instrument packages and missions 
+requiring cold temperature operation will be discussed. For more 
+information go to: 
+
+http://lsa2011.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABGRADCON 2011 - ABSTRACT SUBMISSIONS ARE NOW OPEN!
+
+The 7th Annual AbGradCon (Astrobiology Graduate Conference) will be 
+held at the University of Montana, Bozeman MT on June 4th-8th.
+
+AbGradCon (Astrobiology Graduate Conference) provides a unique setting 
+for astrobiologically inclined graduate students and early career 
+researchers to come together to share their research, collaborate, and 
+network.  Since it is organized and attended by only graduate students 
+and post docs, AbGradCon is an ideal venue for the next generation of 
+career astrobiologists to form bonds, share ideas, and discuss the 
+issues that will shape the future of the field.
+
+Abstracts are requested on all subjects related to Astrobiology. This 
+includes, but is not limited to, geomicrobiology, molecular biology, 
+oceanography, atmospheric science, instrumentation, mission design, 
+origin & evolution of life, remote sensing, planetary science, 
+astrophysics, education & public outreach and policy. 
+
+Full funding is available for US applicants. Limited funding may be 
+available for international students. Please contact us if you have 
+any questions regarding funding.
+
+Deadline for Abstract Submission: February 28, 2011
+Participant Notification: April 4th, 2011
+
+For more information please see: 
+
+http://abgradcon2011.org/ 
+
+Please send questions and concerns to: abgradcon2011@gmail.com
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SECOND ANNOUNCEMENT: CONFERENCE ON MARS HABITABILITY
+
+We are pleased that the announcement and the call for papers is now 
+online at: 
+
+http://www.congrex.nl/11a14/
+
+The conference will be held at the Tivoli Lisboa, Lisbon, Portugal, on 
+June 13-15, 2011.  The conference will begin after lunch on Monday, 
+June 13, and will run for 2.5 days through the end of the day on 
+Wednesday, June 15.  The conference will be immediately followed by 
+the first International Mars Exploration Program Analysis Group meeting 
+(MEPAG #24), June 16-17 at the same venue.  All participants in the 
+Habitability Conference are strongly encouraged to stay for the MEPAG 
+meeting.  Finally, a post-meeting field trip to the important Mars 
+analog site at Rio Tinto, Spain, is planned for June 17-19.  
+ 
+Note that the abstract deadline is February 11, 2011.
+ 
+We hope to see you in beautiful Lisboa in June!
+ 
+With best regards,
+Conference Conveners
+Ivo Alves, Universidade de Coimbra (Portugal, Chair of local organizing 
+committee)
+David Beaty, Mars Program Office, JPL/Caltech (United States)
+Jack Mustard, Brown University (United States)
+Gian Gabriele Ori, IRSPS (Pescara, Italy)
+Lisa Pratt, Indiana University (United States)
+Fernando Rull, University of Valladolid (Spain)
+Olivier Witasse, European Space Agency (Netherlands)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TRAINING WORKSHOPS ON VENUS EXPRESS AND MARS EXPRESS SCIENCE DATA
+
+ESA is planning a data workshop related to the Mars Express and Venus 
+Express instruments PFS, SPICAMand SPICAV/SOIR for summer 2011 
+(June / July), at ESAC in Spain.  There are several options for this 
+and we would like to gauge interest in the following possibilities:
+
+1) 1 week Mars Express 'atmosphere' workshop:
+- PFS data
+- SPICAM UV and IR data
+Required: knowledge of IDL.
+
+2) 3 days Venus Express workshop:
+- SPICAV UV and IR data
+- SPICAV-SOIR data
+Required: knowledge of IDL and Matlab.
+
+3) 1.5 week Mars Express / Venus Express workshop:
+- PFS data
+- SPICAM / SPICAV UV and IR data
+- SPICAV-SOIR data
+N.B. This would require students to stay over a weekend.
+Required: knowledge of IDL and Matlab.
+
+If you are interested in attending a workshop in summer 2011, please 
+send us an e-mail (dataworkshops@rssd.esa.int) with the following 
+information:
+
+- Name
+- Institution
+- Level: student, PhD, Post doc, ...
+- Interest / preference for which workshop: 1) PFS and SPICAM, 2) 
+SPICAV and SPICAV-SOIR, 3) PFS, SPICAM and SPICAV combined (would 
+require a weekend stay)
+
+Deadline: 3rd February 2011
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ANNOUNCEMENT FOR A PLANETARY SPECIAL SESSION AT IUGG
+
+Call for Abstracts, Deadline February 1, 2011. IUGG General Assembly, 
+Melbourne, Australia, 28 June - 7 July 2011. IAVCEI Symposium V17. 
+"Planetary Volcanism: What's different out here, what's new and what 
+are we learning?" 
+
+Co-convenors: G. Leone, T. Gregg, E. Stofan, S. Smrekar and A. Davies. 
+
+This session will focus on state of the art and new views and concepts 
+concerning the volcanic processes occurring across the Solar System. 
+
+http://www.iugg2011.com/program.asp
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPRESS IMAGES OF PHOBOS
+
+Mars Express has returned images from the Phobos flyby of 9 January 
+2011.
+
+Mars Express passed Mars' largest moon at a distance of 100km.
+
+More at:
+
+http://www.esa.int/esaCP/SEMIPY6SXIG_index_0.html
+http://webservices.esa.int/blog/blog/7
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FOURTH MEETING OF THE NASA SMALL BODIES ASSESSMENT GROUP 
+- WEBEX INSTRUCTIONS
+
+The 4th meeting of NASA SBAG begins Monday morning, January 24, at 
+9:30 AM EST at the Westin National Harbor near Washington DC. 
+Information about the meeting and its agenda may be found at:
+
+http://www.lpi.usra.edu/sbag/
+
+For those of you who would like this meeting by Webex, directions may 
+be found at
+
+http://www.cvent.com/EVENTS/Info/Custom.aspx?cid=18&e
+=699247b5-3438-4478-ae1b-8a18dc65cfe6
+
+The first half the meeting will be devoted to a forum on technology in 
+small bodies exploration - how it is driven by science goals but also 
+shapes those goals. The second half of the meeting will be devoted to 
+discussing a draft Roadmap for Small Bodies Exploration.
+
+Draft sections of the Roadmap are being posted at
+
+http://www.psi.edu/~sykes/sbag/roadmap/
+
+You are all welcome to participate!
+
+Mark Sykes
+Chair, NASA SBAG
+sykes@psi.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OUTER PLANETS COLLOQUIUM SERIES
+
+Would your institution like a visit and colloquium presentation from 
+an expert in outer solar system science, at no expense to you?  Would 
+you like travel support to share your outer solar system research?  
+Presenters and host institutions are sought for the Outer Planets 
+Colloquium Series, a program that matches planetary scientists with 
+university campuses and research institutions.
+
+Participation is open to two- and four-year undergraduate colleges and 
+research institutions throughout the United States. Host institutions 
+commit to making the necessary local arrangements.  Presenters are 
+encouraged to address the needs of the next generation of scientists 
+(graduate students, interns, and undergraduates) and to give an 
+additional presentation that is free and open to the general public. 
+Other interactions that increase awareness of outer solar system 
+science may also be considered as part of the visit. These may include 
+guest teaching a class, interacting informally with students 
+and faculty, or other outreach activities.
+
+A current list of presenters and their prospective talks is provided 
+on the Series website.  
+
+The Colloquium Series will cover the presenter's travel expenses.  
+There will be no honorarium for the speaker.
+
+Application details and further information may be found at:
+
+http://outerplanets.jpl.nasa.gov/
+
+[Editor: Reduced for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 12-13, 2011
+SpaceUp Houston
+http://spaceuphouston.org/
+Houston, TX
+
+March 5-6, 2011
+Analogue Sites for Mars Missions: MSL and Beyond
+http://www.lpi.usra.edu/meetings/analogues2011/
+The Woodlands, TX
+
+April 6-7, 2011
+ALMA Community Days 2011: Towards Early Science
+http://www.eso.org/sci/meetings/2011/alma_es_2011.html
+Garching, Germany
+
+June 13-15, 2011
+The International Conference on Exploring Mars Habitability
+http://www.congrex.nl/11a14/
+Lisbon, Portugal
+
+June 14-17, 2011
+The Second CoRoT Symposium: Transiting planets, Vibrating stars 
+and their connection
+http://symposiumcorot2011.oamp.fr/
+Marseille, France
+
+June 28 - July 7, 2011
+IUGG/IAMAS General Assembly
+http://www.iugg2011.com/program-iamas.asp
+Melbourne, Australia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

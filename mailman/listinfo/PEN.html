@@ -1,0 +1,117 @@
+<!-- $Revision: 5865 $ -->
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>PEN Info Page</title>
+	<link rel="canonical" href="https://planetarynews.org/mailman/listinfo/PEN.html" />
+     <script>
+function validateForm() {
+  var x = document.forms[0]["fullname"].value;
+  if (x == "" || x == null) {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>  
+  </head>
+  <body bgcolor="#ffffff">
+    <p>
+      <table cols="1" border="0" cellspacing="4" cellpadding="5">
+	<tr>
+	  <td colspan="2" width="100%" bgcolor="#99CCFF" align="CENTER">
+	    <b><font color="#000000" size="+1">PEN --
+	Planetary Exploration Newsletter</font></b>
+	  </td>
+	</tr>
+	<tr>
+	    <td colspan="2">
+	      <p>&nbsp;
+	    </td>
+	  </tr>
+	  <tr>
+	    <td colspan="1" width="100%" bgcolor="#FFF0D0">
+	      <b><font color="#000000">About PEN</font></b>
+	    </td>
+            <td colspan="1" width="100%" bgcolor="#FFF0D0">
+    <form method="POST" action="../../mailman/subscribe/pen.html" onsubmit="return validateForm()">  
+            </td>
+	  </tr>
+	    <tr>
+	      <td colspan="2">
+		<p><!---->PEN provides an open conduit of news and announcements across the professional community of planetary science and related disciplines. It distributes messages from NASA officials, meeting announcements, job announcements, and your submissions of news regarding or impacting solar system exploration, upcoming mission events, policy issues, and editorials. PEN is distributed nominally once a week. There will be times when volume or events will require more frequent PEN distributions.  <!----></p>
+	  <p> To see the collection of prior issues of the Planetary Exploration Newsletter, visit http://planetarynews.org/archives.html
+	  </p>
+	</td>
+      </tr>
+      <tr>
+	<td colspan="2" width="100%" bgcolor="#FFF0D0">
+	  <b><font color="#000000">Using PEN</font></b>
+	</td>
+      </tr>
+      <tr>
+	<td colspan="2">
+	  To submit content for the PEN, check the content guidelines at http://planetarynews.org/guidelines.html, and send email to
+	  pen_editor@psi.edu
+	</td>
+      </tr>
+      <tr>
+	<td colspan="2" width="100%" bgcolor="#FFF0D0">
+	  <b><font color="#000000">Subscribing to PEN</font></b>
+	</td>
+      </tr>
+      <tr>
+	<td colspan="2">
+	  <p>
+	    Subscribe to PEN by filling out the following
+	      form.
+	  You will be sent email requesting confirmation, to
+            prevent others from gratuitously subscribing you.  Once
+            confirmation is received, your request will be held for approval
+            by the list moderator.  You will be notified of the moderator's
+            decision by email. This is also a hidden list, which means that the
+            list of members is available only to the list administrator.
+	  <ul>
+	      <table border="0" cellspacing="2" cellpadding="2" width="70%" height="112">
+		<tr>
+		  <td bgcolor="#dddddd" width="55%">Your email address:</td>
+		  <td width="33%"><input type="Text" name="email" size="30" value="">
+	</td>
+	<td width="12%">&nbsp;</td></tr>
+      <tr>
+        <td bgcolor="#dddddd" width="55%">Your name:</td>
+        <td width="33%"><input type="Text" name="fullname" size="30" value=""></td>
+	<td width="12%">&nbsp;</td></tr>
+             --&gt;
+      <tr>
+	<td colspan="3">
+	  <center><input type="Submit" name="email-button" value="Subscribe"></p></center>
+    </table>
+    </form>
+    </ul>
+    </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="100%" bgcolor="#FFF0D0">
+	<a name="subscribers">
+        <b><font color="#000000">PEN Subscribers</font></b></a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="100%">
+<!--	<FORM Method=POST ACTION="../roster/pen">
+	<INPUT name="language" type="HIDDEN" value="en" >(<i>The subscribers list is only available to the list
+            administrator.</i>) <p>Enter your admin address and password to visit  the subscribers list: <p><center> Admin address: <INPUT type="Text" name="roster-email" size="20" value="">Password: <INPUT type="Password" name="roster-pw" size="15">&nbsp;&nbsp;<INPUT name="SubscriberRoster" type="SUBMIT" value="Visit Subscriber List" ></center>
+	    </FORM>
+-->	  <p>
+	<form method="POST" action="/">
+	To unsubscribe from PEN, get a password reminder,
+        or change your subscription options enter your subscription
+        email address:
+        <p><center> <input name="email" type="TEXT" value="" size="30">  <input name="UserOptions" type="SUBMIT" value="Unsubscribe or edit options"><input name="language" type="HIDDEN" value="en"></center> If you leave the field blank, you will be prompted for
+        your email address
+		</form>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

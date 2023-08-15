@@ -1,0 +1,305 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 55 (December 30, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Horizons Ultima Thule Flyby on 31 December/1 January - Getting 
+   the Word Out to Engage the Public in the First Exploration of a KBO
+2. ABSCICON 2019 Session: Planetary Protection for Astrobiology 
+   - Progress and Challenges in Science and Policy
+3. ABSCICON 2019 Session: The Impact of Astrospheric Space Weather on 
+   Exoplanetary Habitability
+4. ABSCICON 2019 Session: Origins and Evolution Pathways of Organics in 
+   Ocean Worlds
+5. New Topic Added to LPSC Abstract Drop-Down List: Planetary Spatial 
+   Data Infrastructure
+6. Planetary Geomorphology at EGU2019 Deadline
+7. Mars Exploration Rovers Data Release 58
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW HORIZONS ULTIMA THULE FLYBY ON 31 DECEMBER/1 JANUARY - GETTING THE 
+WORD OUT TO ENGAGE THE PUBLIC IN THE FIRST EXPLORATION OF A KBO
+
+On December 31 and January 1, NASA's New Horizons mission will make the 
+first close reconnaissance of a KBO, 2014 MU69, aka Ultima Thule. This 
+challenging and scientifically exciting flyby will make the farthest 
+exploration of worlds in history, a billion miles beyond Pluto.
+
+Extensive flyby social media and TV coverage begins on Dec. 28. The 
+mission website at: 
+
+http://pluto.jhuapl.edu 
+
+has links to Twitter (hashtags #UltimaThule and #UltimaFlyby), other 
+social media channels, and live streams carrying the event. More is 
+here: 
+
+http://pluto.jhuapl.edu/News-Center/Where-to-Watch.php
+
+If the government shutdown has ended, this coverage will include NASA 
+social accounts and NASA TV; but even if not, numerous traditional and 
+social media, as well as TV channels will be covering the flyby and 
+its ensuring early results.
+
+Public engagement is a key factor in support for the NASA planetary 
+program. The New Horizons mission team asks community members to help 
+spread the word about this exciting exploration using social media 
+channels, mailing lists, and other means over the next few days as we 
+approach and then flyby Ultima. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABSCICON 2019 SESSION: PLANETARY PROTECTION FOR ASTROBIOLOGY - PROGRESS 
+AND CHALLENGES IN SCIENCE AND POLICY
+
+We invite you to submit an abstract to the 2019 Astrobiology Science 
+Conference, which will be held on 24-28 June 2019 in Bellevue, 
+Washington.
+
+Planetary protection is an ongoing concern, especially for missions to 
+Mars, Phobos/Deimos, Europa, Enceladus, and Titan - and with a special 
+concern for sample return missions to Earth.  We aim to highlight 
+current developments in the policy, science, and implementation of 
+planetary protection, including the identification of research and 
+technology challenges for robotic and human missions. Topics of 
+interest include spacecraft microbiology and biochemistry; 
+survivability and possible evolution of microorganisms in 
+environments associated with spacecraft assembly, operation, and 
+exploration; microbial monitoring in human habitats and in human 
+support systems; transport of human/robotic mission bioburden in 
+extraterrestrial environments; bioburden reduction and prevention 
+technologies; sample acquisition and containment technologies, and 
+return-to-earth schema and facilities for Earth sample processing. 
+
+For more information:
+
+http://agu.confex.com/agu/abscicon19/prelim.cgi/Session/65827
+
+Conveners: J. Rummel (SETI Institute), T. Errigo (NASA GSFC), R. Mogul 
+(Cal Poly Pomona), B. McCauley Rench (NASA HQ), A. Spry (SETI 
+Institute)
+
+Submission deadline: 23 January 2019 23:59 EST
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ABSCICON 2019 SESSION: THE IMPACT OF ASTROSPHERIC SPACE WEATHER ON 
+EXOPLANETARY HABITABILITY
+
+This session addresses the broad question of a set of factors an 
+exoplanet requires for enabling life as we know it to thrive, and the 
+impact of the planet's host star on habitability in light of recent 
+discoveries of rocky exoplanets in the habitable zones around FGKM 
+stars. We invite abstracts of theoretical, observational and laboratory 
+studies with a particular focus on: (a) the erosion of atmospheres and 
+oceans by thermal and non-thermal escape mechanisms; (b) impact on 
+exoplanetary atmospheric chemistry; (c) pathways for igniting molecular 
+complexity (including prebiotic chemistry) via ionizing radiation and 
+energetic particles, (d) modulation of atmospheric biosignatures vis 
+space weather effects, and (e) effects of exoplanetary magnetic fields 
+on planetary habitability and observational strategies to detect them. 
+We encourage submission of cross-disciplinary presentations aimed at 
+uniting the physics and chemistry of habitable environments in a 
+holistic fashion.
+
+Conveners: V. Airapetian (NASA GSFC), C. Dong (Princeton University), 
+A. Rymer (JHU), M. Gudel (University of Vienna), N. Hud (Georgia Tech), 
+M. Way (GISS), M. Lingam (CfA), E. Provornikova (CUA), C. Harman (GISS)
+
+Abstract submission deadline: 23 January 2019 23:59 EST
+
+https://connect.agu.org/abscicon/program/format-schedule
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ABSCICON 2019 SESSION: ORIGINS AND EVOLUTION PATHWAYS OF ORGANICS IN 
+OCEAN WORLDS
+
+You are invited to submit abstracts to our session dedicated to the 
+organic matter evolution: 
+
+https://agu.confex.com/agu/abscicon19/prelim.cgi/Session/65833
+
+Evidence for organics on planetary surfaces (or atmosphere in the case 
+of Titan) has been found across the solar system with telescopic 
+observations. Organics compounds have been recently observed with 
+spacecraft at Enceladus and Titan (Cassini) and Ceres (Dawn). 
+Understanding the origins and fates of carbon and organics in ocean 
+worlds is an important topic considering the potential of these 
+bodies for fostering conditions conducive to the development of 
+biomolecules. Multiple pathways may occur depending on environmental 
+conditions in the early ocean and the long-term evolution of the 
+interior. Predicting the cycling of accreted carbon compounds, local 
+prebiotic chemistry, and the mechanisms driving surface exposure 
+requires interdisciplinary research covering astrochemical and 
+geochemical modeling, meteorite analyses, material physics, and 
+geophysical processes in order to understand the information 
+contained in observations returned by telescopic and spacecraft 
+observations.
+
+Submission deadline: 23 January 2019 23:59 EST.
+
+Please fell free to forward this message to interested parties and 
+see you in Seattle.
+
+The session conveners: Julie Castillo-Rogez, Vassilissa Vinogradoff, 
+Marc Neveu
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW TOPIC ADDED TO LPSC ABSTRACT DROP-DOWN LIST: PLANETARY SPATIAL DATA
+INFRASTRUCTURE
+
+Dear Colleagues,
+
+We'd like to alert you to the fact that a new topical selection has 
+been added to the drop-down menu for Lunar and Planetary Science 
+Conference (LPSC) abstracts: "Planetary Spatial Data Infrastructure." 
+This topic is intended to incorporate contributions that address the 
+tasks of storing, discovering, accessing, and utilizing planetary 
+spatial data. 
+
+Please direct any questions to Prof. Jani Radebaugh (janirad@byu.edu). 
+
+The meeting will be March 18-22, 2019 in the Woodlands, TX, and the 
+abstract deadline is Tuesday, January 8, 2019 5:00 PM CST (GMT -6).
+
+Meeting website: 
+
+https://www.hou.usra.edu/meetings/lpsc2019/
+
+Many thanks, the MAPSIT (Mapping and Planetary Spatial Infrastructure 
+Team) steering committee:
+
+https://www.lpi.usra.edu/mapsit/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY AT EGU 2019 DEADLINE
+
+The abstract deadline is fast approaching (10 January 2019, 13:00 CET)
+for EGU 2019 (Vienna Austria 7-12 April) including the Planetary
+Geomorphology session GM1.5/PS1.2.
+
+Our invited speaker this year is Marisa Palucis, who studies 
+hillslopes, river channels, alluvial fans, and deltas on Earth and Mars 
+and is a member of the MSL (Curiosity Rover) science team.
+
+The Planetary Geomorphology session welcomes abstracts concerning
+landforms, landscapes and the processes that shape them on all solar
+system bodies. Novel approaches using remote sensing data, Earth
+analogue studies and flume/simulation work and are particularly
+encouraged. This session provides a stimulating forum for
+cross-disciplinary discussion so join us once again for a mix of
+geomorphology and planetary science.
+
+Session details and link to abstract instructions and submission:
+
+https://egu2019.eu/abstracts_and_programme
+/how_to_submit_an_abstract.html
+
+Happy New Year from the Planetary Geomorphology Conveners:
+
+Susan Conway, Frances Butcher, Davide Baioni, Tjalling de Haas, 
+Nikolaus J. Kuhn
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION ROVERS DATA RELEASE 58
+
+The Planetary Data System (PDS) is pleased to announce Release 58 of 
+Mars Exploration Rover data. This release includes data primarily from 
+Sols 5041 through 5130, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+MI
+NAVCAM
+PANCAM
+RAT
+SPICE
+
+There is no Radio Science or Rover Motion Counter data in this release,
+and no more Mini-TES or Moessbauer data is expected.
+
+To access the above data, go to:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181228.shtml
+
+The following special services are provided for accessing MER data - 
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+  
+Planetary Image Atlas: 
+
+https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, go to:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

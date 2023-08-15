@@ -1,0 +1,214 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 27 (June 17, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. DPS Meeting 2012: Abstract Submission Open, Deadline July 19th
+2. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+3. NASA Postdoctoral Fellowships
+4. [NASA] JUpiter ICy moons Explorer (JUICE) SALMON-2 Community 
+   Announcement
+5. [NASA] Small Bodies Assessment Group Meeting, July 10-11
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+DPS MEETING 2012: ABSTRACT SUBMISSION OPEN, DEADLINE JULY 19TH
+
+Abstract submissions are now invited for the 2012 DPS meeting, which 
+will be held on October 14-19 in Reno, NV. Please submit abstracts at:
+
+http://members.aas.org/abstracts/DPS/
+
+The regular abstract deadline is July 19, with late abstracts due by 
+September 3.
+
+Early registration for the meeting will be opening soon, and will be 
+available June 30 - July 23nd. Regular registration will be available 
+from July 24 to September 3.
+
+For more information about the 2012 meeting, see:
+
+http://www.psi.edu/dps12/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical
+interactions between intrusive and extrusive volcanic edifice growth,
+lithospheric flexural response, and magma ascent, using numerical
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery, 
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, lo, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic processes 
+with advanced codes as COMSOL Multiphysics (FEM) and PFC (DEM).  
+Programming languages, MATLAB or FORTRAN 95 desirable. The position 
+is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu. Further information may be found 
+at:
+
+www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] JUPITER ICY MOONS EXPLORER (JUICE) SALMON-2 COMMUNITY 
+ANNOUNCEMENT
+
+The Science Mission Directorate intends to release a SALMON-2 PEA to 
+solicit proposals for instrument investigations to be implemented 
+through ESA's JUpiter ICy moons Explorer (JUICE) mission. The total 
+payload resources including mass, power, and data for the instrument 
+complement will be described in a document in the JUICE Acquisition 
+Library. The mission is described in detail in the ESA Science 
+Management Plan and the ESA Yellow Book, which will become available 
+at:
+
+http://sci.esa.int/juice
+
+and will be linked from the JUICE Acquisition Library when the PEA 
+is released.
+
+The scientific objectives of the JUICE mission are:
+1) Study Ganymede as a planetary object, including its potential 
+   habitability; 
+2) Explore Europa's recently active zones; 
+3) Study Callisto as a remnant of the early Jovian System; 
+4) Explore the Jupiter System as an archetype for gas giants. 
+
+Below is the anticipated schedule of major milestones of the JUICE 
+PEA. These dates may change.
+ 
+PEA Release approximately                 June 28, 2012
+Preproposal Conference                    Release + ~3 wks
+Notice of Intent to Propose due           August 2, 2012
+Proposals due                             September 20, 2012
+Non-U.S. Letters of Endorsement           Due with proposals
+Selection announced (target)              January 2013
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SMALL BODIES ASSESSMENT GROUP MEETING, JULY 10-11
+
+The 7th Meeting of the NASA Small Bodies Assessment Group (SBAG) will 
+be at the Westin Pasadena Hotel in Pasadena, CA.
+
+Registration is now open. Go to:
+
+http://tinyurl.com/bo5v3nd
+
+The registration link is in the top bar of the page. Accommodation 
+information is also available on this site. The deadline for room 
+reservations is June 25.
+
+The agenda and other information will be posted at the SBAG website 
+next week:
+
+http://www.lpi.usra.edu/sbag/
+
+Topics will include discussions of:
+
+Small Bodies Roadmap status
+Strategic Knowledge Gaps for the "Asteroid First" Human Exploration 
+ Scenario
+Strategic Knowledge Gaps Associated with Potential Human Missions 
+ to the Martian System
+Corporate Initiatives
+Finding and Accessing Small Bodies Data in the NASA PDS
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 15-23, 2012
+The Fourth Byurakan International Summer School (4BISS) for Young 
+Astronomers 
+http://www.aras.am/SS2012/index.html
+Byurakan, Armenia
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

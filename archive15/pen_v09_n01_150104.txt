@@ -1,0 +1,379 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 1 (January 4, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Fellowship in Lunar & Asteroid Exploration Science - 
+   Petrology and Geochemistry
+2. Postdoctoral Associate Position at Stony Brook University I
+3. Postdoctoral Associate Position at Stony Brook University II
+4. User Workshop for Mars ChemCam/LIBS Data at the LPSC
+5. Jovian Magnetic Field and Magnetosphere Postdoctoral Researcher
+   (NASA-GSFC/CRESST/University of Maryland)
+6. NASA Postdoctoral Fellowships
+7. SBAG 12 Meeting - January 6-7 - Remote Participation Information
+8. Call for Support for Castalia: A Mission to a Main Belt Comet
+9. Midwest Astrochemistry Meeting
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL FELLOWSHIP IN LUNAR & ASTEROID EXPLORATION SCIENCE - 
+PETROLOGY AND GEOCHEMISTRY
+
+The Universities Space Research Association’s Lunar and Planetary 
+Institute (LPI), invites applications for a postdoctoral fellowship in 
+lunar and asteroid exploration science for a full-time exempt position 
+in the Houston, Texas area. The successful candidate will join Dr. 
+David A. Kring and over two dozen other scientists in the Center for 
+Lunar Science and Exploration, which is one of nine national centers 
+of excellence supported by NASA’s Solar System Exploration Research 
+Virtual Institute. The main goals of the Center’s activities are to 
+address NASA’s highest lunar and asteroid exploration science 
+objectives, including activities in preparation of robotic and crewed 
+landings. 
+ 
+Applications from those with recent Ph.D.s in the fields of petrology 
+and geochemistry are encouraged to apply. Previous experience with 
+lunar samples, chondritic meteorites, and/or impact lithologies will 
+be advantageous, but is not required.   
+ 
+Interested applicants should apply to the posting at: 
+
+https://usracareers.silkroad.com/ 
+
+and must submit a curriculum vita with list of publications, a two to 
+three page statement of research interests, and a list of three 
+references. 
+ 
+Additional details are available at: 
+
+http://www.lpi.usra.edu/exploration/
+
+USRA is an Equal Opportunity Employer Minorities/Females/Protected 
+Veterans/Disabled
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL ASSOCIATE POSITION AT STONY BROOK UNIVERSITY I
+
+Required Qualifications: PhD, or the equivalent degree from a foreign 
+university, in Geosciences, Chemistry, Geochemistry, Materials Science 
+or a related field. Successfully defended dissertation prior to the 
+start date. Course work or research experience in Chemistry, 
+Geochemistry, Mineralogy, or Materials Science. 
+
+Preferred Qualifications: Research experience in materials 
+characterization, collecting and analyzing X-ray or neutron scattering 
+data, structure modeling and/or measuring and analyzing infrared 
+spectral data. Effective written and verbal communication skills.  
+Demonstrated outstanding research ability, with an emphasis on 
+critical thinking skills and high productivity. 
+
+Duties: The Postdoctoral Research Associate will conduct research in 
+Chemistry/Geochemistry/Mineralogy, with an emphasis on understanding 
+the formation and properties of amorphous materials. The successful 
+incumbent will be responsible for the following:
+
+* Conduct research related to characterization of poorly crystalline 
+  and amorphous materials, possibly including material synthesis, 
+  synchrotron X-ray studies, and infrared spectroscopy, depending on 
+  the incumbent's specific expertise and interests.
+* Summarize findings in conference presentations and publications.
+* Read & synthesize information from relevant scientific literature 
+  to inform geochemical interpretations.
+
+Full time. 
+For a complete description and instructions on "how to apply", see:
+
+http://www.stonybrook.edu/jobs/ 
+
+and select the reference # WC-R-9331-14-11-S. 
+
+Stony Brook University/SUNY is an affirmative action, equal 
+opportunity employer.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL ASSOCIATE POSITION AT STONY BROOK UNIVERSITY II
+
+Required Qualifications: Ph.D. or equivalent degree from a foreign 
+university. Applicant must have successfully defended their thesis 
+prior to the start date. Course work or research experience in 
+Geosciences. Experience with laboratory mid-IR spectroscopy, visible/
+near-IR spectroscopy, Raman spectroscopy, and/or remote sensing data 
+sets.
+
+Preferred Qualifications: Ph.D. in Geosciences, Physics or related 
+field. Experience with Matlab, IDL, Fortran, or other scientific 
+computing languages. Research experience related to characterization 
+of minerals or meteorites and experience in measuring and analyzing 
+infrared or Raman spectral data. Effective writing and verbal 
+communication skills. Demonstrated outstanding research ability, 
+with an emphasis on critical thinking skills and high productivity. 
+ 
+Duties: The Postdoctoral Associate will conduct research in mineral
+spectroscopy under the supervision of Professor Timothy Glotch. 
+ 
+Application Procedure: Submit a Research Foundation Employment 
+Application, cover letter and resume. Applications for this position 
+must be received, as specified in the Application Procedure Section, 
+no later than 5:00 PM Eastern Time on 01/11/2015, unless specifically 
+noted otherwise in the Special Notes Section. Online submissions are 
+preferred. For a complete description and instructions, visit: 
+
+http://www.stonybrook.edu/jobs/ 
+
+and select reference # WC-R-9396-14-12-S.
+ 
+Stony Brook University/SUNY is an affirmative action, equal 
+opportunity employer. 
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+USER WORKSHOP FOR MARS CHEMCAM/LIBS DATA AT LPSC
+
+Location: The Woodlands, TX
+
+ChemCam on Curiosity provides a large and varied geochemical dataset 
+available for the planetary community including laser-induced 
+breakdown spectroscopy (LIBS), passive VIS reflectance spectra, and 
+the highest resolution remote micro-images (RMI) from the rover. More 
+than 200,000 spectra and over 3,000 images from ChemCam available at 
+the Planetary Data System (PDS). More than 30 submitted papers have 
+included results from this data. A LIBS instrument is also being 
+developed for the Mars 2020 mission.
+
+A 2-1/2-hour workshop will be held during the week of the Lunar and 
+Planetary Science Conference (March 15-20, The Woodlands, TX) for 
+community members interested in using this dataset. In the workshop 
+we will describe the LIBS technique as used on ChemCam and data 
+processing for the levels 1 and 2 provided in the PDS, and will 
+provide updates on the latest calibration data. We are targeting 
+Wednesday evening at 6 pm, subject to conference scheduling. Please 
+see the ChemCam website for updates: 
+
+http://msl-chemcam.com
+
+The contact is Roger Wiens (rwiens@lanl.gov).
+The ChemCam data can be found at:
+
+http://pds-geosciences.wustl.edu/missions/msl/chemcam.htm
+
+Presentation materials will also be posted on the PDS.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POSTDOCTORAL RESEARCHER
+(NASA-GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Jupiter’s magnetic field and magnetosphere, using data from the 
+Juno (New Frontier) mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/index.html#Juno
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an Affirmative Action, Equal Opportunity 
+Employer. Women and minorities are encouraged to apply. Applications 
+will be accepted on an ongoing basis until the position is filled.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s 
+missions in Earth science, heliophysics, astrophysics, planetary 
+science, astrobiology, space bioscience, aeronautics and engineering, 
+human exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17903     
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter:  
+
+http://bit.ly/1tI5M9x
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SBAG 12 MEETING - JANUARY 6-7 - REMOTE PARTICIPATION INFORMATION
+
+The 12th NASA SBAG (Small Bodies Assessment Group) meeting will be 
+held January 6-7, 2015, in Tempe, AZ.
+
+Information to participate remotely via WebEx and a call-in phone 
+number are now posted at the SBAG website at:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+We are looking forward to a productive meeting!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR SUPPORT FOR CASTALIA: A MISSION TO A MAIN BELT COMET
+
+Main Belt Comets (MBCs) constitute a newly identified class of solar 
+system objects. They have asteroid-like orbits and some exhibit a 
+recurrent comet-like appearance. It is believed that MBCs’ ice 
+sublimation-driven activity began recently. Water ice is the only 
+volatile expected to survive under an insulating surface. Impacts can 
+expose this ice and trigger activity.
+
+A mission proposal, Castalia, will be submitted to ESA by January 
+15th. 
+
+Its specific goals are to:
+
+1. Characterize a new Solar System family, the MBCs, by in-situ 
+investigation
+2. Understand the physics of MBC activity
+3. Directly sample water in the asteroid belt and test if MBCs are a 
+viable source for Earth's water
+4. Use the observed structure of an MBC as a tracer of planetary 
+system formation and evolution
+
+These goals can be achieved by a spacecraft orbiting an MBC, sampling 
+the released gas and dust. These observations will be particularly 
+important in light of recent Rosetta results at Comet 67P. The primary 
+target is 133P/Elst-Pizarro.
+
+Castalia's international proposing team would welcome indications of 
+support via:
+
+http://bit.ly/joincastalia
+
+Additional information on Castalia is available at the same site.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MIDWEST ASTROCHEMISTRY MEETING
+ 
+March 6-7, 2015, University of Northern Iowa
+ 
+The Department of Chemistry and Biochemistry and Midwest 
+Astrochemistry Consortium are pleased to announce the 2015 Midwest 
+Astrochemistry Meeting (MWAM) that will be held on March 6-7, 2015 at 
+the University of Northern Iowa in Cedar Falls, Iowa.
+ 
+Abstract submission and registration are now open. Abstracts should be 
+emailed to joshua.sebree@uni.edu and are due by Feb. 20th 2015. Please 
+use one of the following as a subject line:  
+
+MWAM15 abstract:  PREFER TALK
+MWAM15 abstract:  PREFER POSTER
+
+For complete submission details please see the meetings web page at:
+
+http://www.chem.uni.edu/MW%20Astrochemistry.htm
+ 
+Registration will be done through regular mail using the form located 
+at:
+
+http://www.chem.uni.edu/MW%20Astrochemistry%20Reg%20Form.pdf
+
+The fee is $35 per person if paid by February 27th, or $40 thereafter. 
+ 
+In order to encourage graduate and undergraduate student attendance, 
+we are excited to offer several travel grants to offset travel 
+expenses. In order to benefit the most students possible, both 
+individual and group travel grants will be awarded. If you are 
+interested in more information, please inquire at 
+joshua.sebree@uni.edu. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+March 5-7, 2015
+Icy Grain Chemistry for Formation of Complex Organic Molecules: From 
+Molecular Clouds to Protoplanetary Disks, Comets and Meteorites
+http://www.geo.titech.ac.jp/lab/nomura/grain_chem/index.html
+Tokyo, Japan
+
+July 13-17, 2015
+Pathways Towards Habitable Planets
+http://pathways2015.sciencesconf.org
+Bern, Switzerland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

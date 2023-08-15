@@ -1,0 +1,401 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 18 (April 28, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. LSST Solar System Readiness Sprint
+2. Cosmic Dust XII
+3. Ph.D. Students in Space Physics to Studies of Space Plasmas
+4. EPSC-DPS Session TP15: Volcanism and Tectonism Across the Solar 
+   System
+5. EPSC-DPS Session OPS15: Planetary, Solar, Heliospheric and 
+   Exoplanetary Radio Emissions
+6. EPSC-DPS Session TP17/OPS8: Atmospheres and Exospheres of 
+   Terrestrial Bodies
+7. EPSC-DPS Session MIT3: Planetary SmallSats - Missions, Instruments 
+   and Technologies
+8. EPSC-DPS Session SB4: Planetesimals: Primitive and Differentiated 
+   Small Bodies, Including Vesta and Ceres as Seen After the Dawn 
+   Mission
+9. [NASA] Community Announcement: ROSES Funding for Citizen Science
+10. Citizen Science Partnership Offered by CosmoQuest at PSI
+11. Small Bodies Session, the 4th International Conference on Lunar and 
+    Deep Space Exploration
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LSST SOLAR SYSTEM READINESS SPRINT
+
+The Large Synoptic Survey Telescope (LSST) will catalog millions of 
+Solar System objects. The LSST Solar System Science Collaboration 
+(SSSC) is hosting a sprint June 4-6, 2019 at Adler Planetarium to 
+continue the work that the planetary community needs to do to prepare 
+for the deluge of LSST data. This includes laying the infrastructure 
+groundwork for joint computational tools drafting user-contributed 
+data products, discussing funding proposals and new collaborations, 
+brainstorming possible citizen science and machine learning 
+applications to LSST Solar System data, and others issues to be 
+identified by June 2019.
+
+We have a few spots we are opening to non-SSSC members. Due to its 
+interactive nature, we are limiting the sprint to approximately 20-25 
+attendees. Please register by 9 pm PDT on May 9, 2019, to be 
+considered for attending the sprint: 
+
+https://forms.gle/UtfrhdAY9vBRaH487 
+
+There is no registration fee. Selection of attendees 
+will be focused on ensuring a wide variety of career stages, skill 
+sets, perspectives, research expertise, backgrounds, and experiences 
+are represented at the sprint.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COSMIC DUST XII  
+
+Monday, August 12 - Friday, August 16, 2019
+Chiba Institute of Technology, Tsudanuma 2-17-1 Narashino,
+Chiba 275-0016, Japan
+
+https://www.cps-jp.org/~dust/
+
+Deadline for Admissions Application: 8 May 2019
+Complete online registration and abstract submission at 
+
+https://www.cps-jp.org/~dust/Application.html
+
+See our invited speakers at 
+
+https://www.cps-jp.org/~dust/Speakers.html
+
+Contact information: Hiroshi Kimura dust-inquiries@cps-jp.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PHD STUDENTS IN SPACE PHYSICS TO STUDIES OF SPACE PLASMAS
+
+Applications are invited for Ph.D. students to study kinetic plasma 
+processes operating in space plasma regions of fundamental importance, 
+such as magnetic reconnection sites, shocks, and turbulence regions. 
+Such processes operate in most astrophysical plasma environments 
+leading to plasma heating and production of energetic particles. The 
+students will work with experimental data from the NASA Magnetospheric 
+MultiScale mission.
+
+The positions are available at IRF's Uppsala office, located at the 
+Angstrom Laboratory, starting by the second half of 2019 for a total of 
+four years. The Ph.D. students will belong to the Department of Physics 
+and Astronomy, Uppsala University, and must fulfill the university 
+requirements. More information: 
+
+http://www.physics.uu.se
+
+http://www.teknat.uu.se 
+
+and 
+
+http://www.irfu.se
+
+Contact:
+Assoc. Prof. Yuri Khotyaintsev, e-mail: yuri@irfu.se
+
+Applications to: registrator@irf.se
+
+Deadline: 20 May 2019
+Please quote reference number: 2.2.1-126/19
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC-DPS SESSION TP15: VOLCANISM AND TECTONISM ACROSS THE SOLAR SYSTEM
+
+EPSC-DPS Joint Meeting 2019
+Geneva, Switzerland
+September 15-20, 2019
+
+Abstract submission is now open for the session "Volcanism and 
+Tectonism Across the Solar System".
+Deadline: May 8, 2019, 13:00 CEST
+
+Volcanism and tectonism are two of the most ubiquitous processes at 
+work in the Solar System, shaping substantially the surfaces of worlds 
+as diverse as the terrestrial and dwarf planets, main-belt asteroids, 
+and icy satellites. Through a combination of solicited and contributed 
+presentations, this session will host observational, analytical, 
+theoretical, and analogue fieldwork research into any aspect of 
+planetary volcanic and tectonic activity. We welcome submissions that 
+compare landforms and processes on multiple bodies, geochemical and 
+chronological data from planetary material, and how lessons from 
+specific studies can be applied to understanding volcanism and 
+tectonism across the Solar System.
+
+Looking forward to meeting you in Geneva!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC-DPS SESSION OPS15: PLANETARY, SOLAR, HELIOSPHERIC AND EXOPLANETARY 
+RADIO EMISSIONS
+
+Please consider submitting an abstract to session OPS15 of the EPSC-DPS 
+meeting in Geneva, Switzerland, on September 15-20, 2019. Key topics of 
+the session are the recent developments in the study of radio emissions 
+from the Sun, the planets, the heliosphere, and potential radio 
+emissions from exoplanets. This can include data from space missions 
+and ground-based radio telescopes. Presentations dealing with future 
+missions, new developments in instrumentation, and radio emissions 
+caused by atmospheric processes like lightning are also welcome.
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34051
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+
+Conveners: Georg Fischer, Baptiste Cecconi, and Masafumi Imai
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC-DPS SESSION TP17/OPS8: ATMOSPHERES AND EXOSPHERES OF TERRESTRIAL 
+BODIES
+
+We would like to invite you to submit abstracts to our EPSC-DPS session 
+TP17/OPS8, "Atmospheres and Exospheres of Terrestrial Bodies"
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34065
+
+Space missions have provided a wealth of data on the atmospheres and 
+aeronomy of rocky planets and moons, from the lower layers up to the 
+external envelopes in direct contact with the solar wind. An recent 
+emerging finding is evidence that the atmosphere behaves as a single 
+coherent system with complex coupling between layers.
+
+This session solicits contributions that investigate processes at work 
+(chemistry, energetics, dynamics, electricity, escape, etc.) on Venus, 
+Mars, and Titan and includes studies of the coupling between the 
+lower/middle and upper atmospheres. Contributions based on analysis of 
+recent spacecraft and ground-based observations, comparative 
+planetology studies, numerical modeling and relevant laboratory 
+investigations are particularly welcome. The session will consist of 
+invited and contributed oral talks as well as posters.
+
+The abstract deadline is May 8, 2019, at 13:00 CET. Hope to see you in 
+Geneva!
+
+The conveners: Anni Maattanen, Michael Chaffin, Francisco 
+Gonzalez-Galindo, Majd Mayyasi, Claire Newman, Takehiko Satoh, Dmitrij 
+Titov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EPSC-DPS SESSION MIT3: PLANETARY SMALLSATS - MISSIONS, INSTRUMENTS AND 
+TECHNOLOGIES
+
+Please consider submitting an abstract to session MIT3 of the EPSC-DPS 
+Joint meeting 2019 which will take place at the Centre International de 
+Conferences de Geneve (CICG) in Geneva, Switzerland on September 15-20, 
+2019.
+
+https://www.epsc-dps2019.eu/home.html
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+
+With the recent success of MarCO and technology investments made in 
+CubeSats/SmallSats, the time is rapidly approaching that planetary 
+missions can use instruments to achieve high quality scientific 
+measurements. This session focuses on concepts for miniature planetary 
+instruments, technologies and missions.
+
+Link to abstract submission: 
+
+https://meetingorganizer.copernicus.org/epsc-dps2019/sessionprogramme
+
+Convener: Patricia Beauchamp
+Co-conveners: John Baker, Brook Lakew, Jean-Pierre Lebreton, Carolyn 
+Mercer
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EPSC-DPS SESSION SB4: PLANETESIMALS: PRIMITIVE AND DIFFERENTIATED 
+SMALL BODIES, INCLUDING VESTA AND CERES AS SEEN AFTER THE DAWN MISSION
+
+We would like to invite you to submit an abstract to session SB4,
+"Planetesimals: Primitive and Differentiated Small Bodies, Including 
+Vesta and Ceres as Seen After the Dawn Mission", at the next
+EPSC-DPS Joint meeting 2019 in Geneva, Switzerland, September 15-20:
+
+https://www.epsc-dps2019.eu
+
+This session welcomes contributions addressing asteroid science 
+primarily building on data from the Dawn and other spacecraft missions, 
+along with complementary observations from ground and space telescopic 
+assets. Studies on the composition, geological properties, surface and 
+internal processes of Vesta, Ceres, and other main belt asteroids in 
+general are encouraged. We also foster studies on the formation of 
+planetesimals, their differentiation, and further evolution, including 
+their collisional break-up and creation of families of new generation 
+asteroids. Contributions shedding new light on the processes driving 
+asteroid accretion, evolution, and the information they bring to early 
+Solar System history, are also welcomed. This session aims to provide 
+an update on the state of knowledge of the Main Belt.
+
+The abstract submission deadline is May 8, 2019, 13:00 CEST.
+You can submit an abstract by clicking the following link: 
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34459
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] COMMUNITY ANNOUNCEMENT: ROSES FUNDING FOR CITIZEN SCIENCE
+
+Citizen Science is a form of open collaboration in which individuals or 
+organizations participate voluntarily in the scientific process in 
+various ways.
+
+This year we are highlighting the new Science Mission Directorate (SMD) 
+policy inviting investigators to incorporate citizen science into their 
+research. ROSES proposers will be asked to answer a question in NSPIRES 
+to indicate if their proposals incorporate citizen science components.
+
+Proposals submitted to any ROSES-2019 call, unless otherwise noted in 
+the program element, may be entirely or partially citizen 
+science-based. Citizen science projects shall be held to the same 
+rigorous standards as any SMD science program.  
+
+Proposers are encouraged to read Science Policy Document SPD-33, which 
+provides additional information about standards for evaluating citizen 
+science projects. 
+
+SPD-33 is available here:
+
+https://smd-prod.s3.amazonaws.com/science-red/s3fs-public/atoms/files/
+SPD%2033%20Citizen%20Science.pdf
+
+Additional funding may be available for proposals incorporating citizen 
+science.
+
+For more information on ongoing SMD citizen science projects, see 
+
+https://science.nasa.gov/citizenscientists 
+
+or email Marc.J.Kuchner@nasa.gov.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+CITIZEN SCIENCE PARTNERSHIP OFFERED BY COSMOQUEST AT PSI
+
+The CosmoQuest team is available to partner on ROSES and NSF proposals 
+with citizen science components. Our platform was the first to achieve 
+surface science results from the general public that are comparable to 
+those of professionals (Robbins, et al. 2014), and today we are working 
+with the OSIRIS-REx team to provide internal mapping solutions that 
+will grow into public citizen science projects in later mission stages. 
+Our software has a python backbone that allows your custom code to be 
+integrated as needed to create a seamless data reduction pipeline where 
+people are part of the process.
+
+CosmoQuest works with a tight-knit community of adults who are 
+long-term participants that you can come to know (or leave community 
+engagement to us). In addition to our citizen science tools, we also 
+provide our community online seminars, news shows, and other content 
+through new media platforms like Twitch.tv, YouTube, and Discord. Your 
+volunteers will both learn and do science! In January 2019, CosmoQuest 
+became part of the Planetary Science Institute. Our admin team is ready 
+to help professionally and accurately process grants. Contact project 
+director Pamela Gay, plg@psi.edu, to learn more.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SMALL BODIES SESSION, THE 4TH INTERNATIONAL CONFERENCE ON LUNAR AND 
+DEEP SPACE EXPLORATION
+
+July 22-24, Zhuhai, China
+
+Abstract deadline: June 7, 2019
+
+http://ldse2019.csp.escience.cn/
+
+The International Conference on Lunar and Deep Space Exploration (LDSE) 
+is a bi-annual event jointly organized by China National Space 
+Administration (CNSA) and Chinese Academy of Sciences. With the rapid 
+development of lunar and deep space exploration in China in the recent 
+decades, this conference is becoming a major forum in China to discuss 
+ideas and scientific results in planetary explorations. The topics 
+cover all areas in planetary researches and road maps, with the focus 
+on exploration missions and related ground observations, laboratory 
+experiments, and theoretical work.
+
+The Small Bodies Session of LDSE promotes researches of Solar System 
+small bodies from the past and current missions and helps develop 
+future mission concepts. Solar System small bodies are considered the 
+best-preserved fossils from the early era of the planetary system 
+formation. The CNSA has selected the next Chinese small body mission 
+to return samples from Earth's quasi-satellite 2016 HO3 and then orbit 
+the main belt comet (MBC) 133P/Elst-Pizarro. In this context, we 
+welcome abstracts on all aspects of small bodies research, especially 
+near-Earth objects and MBCs.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 11-13, 2020
+The Impact of Lunar Dust on Human Exploration
+https://www.hou.usra.edu/meetings/lunardust2020/
+Houston, TX
+
+March 2-4, 2020
+Next-Generation Suborbital Researchers Conference
+https://www.boulder.swri.edu/NSRC2017/Site4/Home.html
+Broomfield, CO
+
+March 16-20, 2020
+51st Lunar and Planetary Science Conference
+https://www.hou.usra.edu/meetings/lpsc2020/
+The Woodlands, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

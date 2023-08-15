@@ -1,0 +1,341 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 36 (August 28, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Call for Abstracts to PRE 8
+2. [NASA] Solar System Exploration Research Virtual Institute Cycle 2 
+   CAN Released
+3. Venus Exploration Goals, Objectives, and Investigations Document 
+   Update
+4. [NASA] ROSES-16 Amendment 25: C.24 HOTTech Released
+5. Planetary Science Slides and Illustrations
+6. Post-doctoral Position for the Analysis of VIRTIS/Rosetta Data
+7. Registration Open for SSB Search for Life Workshop
+8. Abstract Deadline Extended for Mini-Symposium on Asteroids
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CALL FOR ABSTRACTS TO PRE 8
+
+The 8th International Workshop on Planetary, Solar and Heliospheric 
+Radio Emissions (PRE 8) deals with the most recent developments in the 
+study of non-thermal radio emissions from the Sun, the radio planets, 
+the heliosphere, and from extrasolar sources like exoplanets or brown 
+dwarfs. Special emphasis is put on current spacecraft missions (Juno, 
+Cassini, Van Allen Probes etc.), but also new developments in ground-
+based radio telescopes will be matters of discussion, which should 
+lead to a better coordination of ground- and space-based radio 
+observations.
+
+PRE 8 is the continuation of a series of workshops that took place 
+in Graz in 1984, 1987, 1991, 1996, 2001, 2005 and 2010. PRE 8 will 
+take place October 25-27, 2016, in the conference hotel "Schloss 
+Seggau", which is located about 30 km south of Graz near the town of 
+Leibnitz in Austria.
+
+For more information please visit our website at: 
+
+http://pre8.oeaw.ac.at/ 
+
+Registration and abstract submission are already open. The abstract 
+deadline is on 5 September 2016.
+
+The organizing committee looks forward to your abstract submission.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SOLAR SYSTEM EXPLORATION RESEARCH VIRTUAL INSTITUTE CYCLE 2 
+CAN RELEASED
+ 
+Step-1 Proposal Due: September 23, 2016
+Step-2 Proposal Due: November 21, 2016
+  
+NASA is announcing an opportunity for submission of multiinstitutional 
+team-based proposals for research as participating members of SSERVI. 
+Proposals must clearly articulate an innovative, broadly based research 
+program addressing basic and/or applied research fundamental to 
+understanding the nature of the Moon, Near Earth Asteroids (NEAs), the 
+Martian moons, and their near space environments to enable eventual 
+human exploration. Nondestination targets may provide critical 
+information relating to origin and evolution of the proposed target 
+bodies; therefore, comparative planetary investigations that include 
+comets and/or main-belt asteroids are within the scope of this CAN 
+provided the prime focus is on the Target Body(s). Proposed research 
+that complements current Institute Teams, or addresses important 
+research areas not currently covered in the Institute, will also be 
+given strong consideration. Proposals in astrophysics and heliophysics 
+that are enabled through human and robotic exploration of Target Bodies 
+are also solicited through this CAN. 
+
+The full text of the CAN may be found by going to: 
+
+http://nspires.nasaprs.com/
+
+Solicitation: NNH16ZDA009C 
+ 
+Questions:
+Yvonne Pendleton, Director
+650-604-1850
+yvonne.pendleton@nasa.gov
+ 
+and
+ 
+Greg Schmidt, Deputy Director
+650-604-2611
+gregory.schmidt@nasa.gov
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VENUS EXPLORATION GOALS, OBJECTIVES, AND INVESTIGATIONS DOCUMENT UPDATE
+
+The Goals, Objectives, and Investigations for Venus Exploration were 
+recently updated to improve consideration of space physics and 
+aeronomy. These changes are focused in Goals I.A.1 and I.A.2, with 
+accompanying narrative on page 6. Community comments are solicited. 
+
+The updated document can be accessed on the Venus Exploration Analysis 
+Group (VEXAG) web site: 
+
+http://www.lpi.usra.edu/vexag/ 
+
+The document is available at:
+
+http://www.lpi.usra.edu/vexag/reports/GOI-Draft-SpacePhysAdds_v4.pdf
+
+Please send comments to Bob Grimm, VEXAG Chair, 
+grimm@boulder.swri.edu.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-16 AMENDMENT 25: C.24 HOTTECH RELEASED
+ 
+The Hot Operating Temperature Technology (HOTTech) program supports 
+the advanced development of technologies for the robotic exploration 
+of high-temperature environments, such as the Venus surface, Mercury, 
+or the deep atmosphere of Gas Giants. The goal of the program is to 
+develop and mature technologies that will enable, significantly 
+enhance, or reduce technical risk for in situ missions to high-
+temperature environments (approaching 500 degrees Celsius or higher). 
+It is a priority for NASA to invest in technology developments that 
+mitigate the risks of mission concepts proposed in response to 
+upcoming Announcements of Opportunity and expand the range of science 
+that might be achieved with future missions. Note that this HOTTech 
+program element is not soliciting hardware for a flight opportunity. 
+HOTTech is limited to high temperature electrical and electronic 
+systems that could be needed for potentially extended in situ missions 
+to such environments.
+
+Notices of Intent due date: September 28, 2016, 
+Proposal due date: November 23, 2016.
+ 
+This Amendment to the NASA Research Announcement "ROSES 2016" 
+(NNH16ZDA001N) will be posted on the NASA research opportunity 
+homepage: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2016.
+ 
+Questions: 
+Adriana Ocampo 
+adriana.c.ocampo@nasa.gov 
+
+and 
+
+Quang-Viet Nguyen 
+quang-viet.nguyen@nasa.gov
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY SCIENCE SLIDES AND ILLUSTRATIONS
+
+Are you looking for some great slides or illustrations to use in your 
+presentations? The Planetary Science Research Discoveries website has 
+sets of Powerpoint slides. These are summaries of PSRD articles 
+covering planetary science, including the processes by which planets, 
+moons, and small bodies form and evolve. The slides are annotated with 
+captions and notes, and are linked to PSRD articles that provide the 
+full context, additional graphics, and references. New content added 
+monthly. Use our search box to find just what you need.
+
+http://www.psrd.hawaii.edu/Archive/Archive-PSRDpresents.html
+
+The Cosmochemistry Illustrated website offers additional Powerpoint 
+slides with planetary examples to enrich geochemistry, petrology, and 
+introductory geology lectures. References and background are given in 
+the notes pages.
+
+http://www.higp.hawaii.edu/cosmoeye/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL POSITION FOR THE ANALYSIS OF VIRTIS/ROSETTA DATA
+
+A 2-year post-doctoral position in cometary science is opened at the 
+Observatory of Paris (LESIA, CNRS, Meudon), beginning in fall 2016.
+
+The successful applicant will analyze infrared spectra of the 
+atmosphere of comet 67P/Churyomov-Gerasimenko obtained with the 
+high-spectral resolution channel of the VIRTIS/Rosetta instrument 
+(Visible Infrared Thermal Imaging Spectrometer) built at the 
+Observatory of Paris. The project will focus on the study of the 
+distributions of H2O and CO2 gases and their variations to understand 
+the processes that control cometary activity. Other topics of 
+interest could be considered.
+
+A PhD in astrophysics is required. The following skills will be 
+considered in the evaluation process of the applicants:
+- working knowledge in planetary science and comets
+- expertise in reduction of infrared spectroscopic observations
+- knowledge in radiative transfer
+- previous experience in space missions, in particular Rosetta, 
+  is an asset.
+
+Applicants should submit a CV with a publications list, a short review 
+of previous works and statement of research interest. They should 
+arrange for two reference letters. Applications should be sent via 
+email to dominique.bockelee@obspm.fr. The closing date is 25 September 
+2016. Late applications can be considered, until the position is 
+filled.
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+REGISTRATION OPEN FOR SSB SEARCH FOR LIFE WORKSHOP
+
+The Space Studies Board of the National Academies of Sciences, 
+Engineering, and Medicine is hosting a workshop and poster session to 
+explore the current status of activities to detect extraterrestrial 
+life in the solar system and extrasolar planetary systems. The 
+workshop will feature presentations from experts on the environmental 
+limits of life, habitable environments in the solar system and beyond, 
+extraterrestrial biosignatures, and life detection techniques and 
+instrumentation.
+
+The workshop will take place at the Beckman Center in Irvine, CA on 
+December 5-6, 2016.  To register as a poster presenter or participant 
+and learn more about the workshop, please visit: 
+
+http://SearchingForLife.eventbrite.com.  
+
+The deadline for poster abstracts is November 7, 2016.
+
+For those unable to attend in person, the live workshop webcast will 
+be available at: 
+
+https://livestream.com/accounts/15221519/events/6098927.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ABSTRACT DEADLINE EXTENDED FOR MINI-SYMPOSIUM ON ASTEROIDS
+
+http://www.stardust2013.eu/Training/Conferences/StardustFinal
+Conference/Asteroids/tabid/5541/Default.aspx
+
+New Deadline: 5th September 2016
+
+The mini-symposium on asteroids will be organized during the Stardust
+Final Conference, to be held at the ESA-ESTEC (The Netherlands), 31st
+October - 4th November, 2016. The mini-symposium will take place over 
+two days (31st Oct & 1st Nov), and will focus on small solar system 
+objects, mainly asteroids. It will consist of two half-day sessions, 
+aiming to review the state-of-the-art of the corresponding lines of 
+research, as well as to present ongoing projects, and to discuss 
+directions for the future developments.
+
+As there have been major advances in asteroid science in the last 
+decade, and that trend continues, we think it is an appropriate time 
+for such a meeting. Moreover, we want to incorporate manuscripts 
+reporting the results of new research from the field into a single 
+special journal issue, expecting that this will increase the impact 
+and visibility of these papers. For these reasons we have made 
+arrangements with the journal ICARUS for the publication of a special 
+issue on asteroids, associated with the mini-symposium.
+
+Please see the following link for details on abstract submission:
+
+http://www.stardust2013.eu/Training/Conferences/StardustFinal
+Conference/ExtendedAbstractSubmission/tabid/5718/Default.aspx
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+December 5, 2016
+A Workshop on Searching for Life Across Space and Time
+https://www.eventbrite.com/e/a-workshop-on-searching-for-life-across-
+space-and-time-registration-26689574235
+Irvine, CA
+
+December 7-8, 2016
+4th Magellan Science Meeting
+http://home.dtm.ciw.edu/Magellan-Science-Symposium-2016/
+Washington, DC
+
+June 13-15, 2017
+Dust in the Atmosphere of Mars and Its Impact on the Human Exploration 
+of Mars
+http://www.hou.usra.edu/meetings/marsdust2017/
+Houston, TX
+
+August 7-9, 2017
+2017 National Astronomy Teaching Summit
+http://www.caperteam.com/astro101summit
+Ft. Myers, FL
+
+July 14-22, 2018
+COSPAR 42nd Assembly
+https://www.cospar-assembly.org
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

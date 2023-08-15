@@ -1,0 +1,535 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 5 (January 31, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Research Associate: Analysis of Solar Images Using Machine Learning 
+   and Computer Vision
+2. Research Associate: Scientific Programming 
+3. Call for Papers: Planetary Science Section of Universe
+4. Agenda Available: Outer Planets Assessment Group (OPAG) Meeting
+5. [NASA] Minor Clarifications and Corrections to E.5 FINESST
+6. [NASA] Call for Abstracts for the 72nd International Astronautical
+   Congress (IAC)
+7. Postdoctoral Research Associate in Planetary Sciences - University
+   of Maryland
+8. [NASA] PI Launchpad: Developing Your First Flight Mission Proposal
+9. Announcement of Opportunity for Interdisciplinary Scientists and
+   Guest Investigators
+10. [NASA] Proposals to Support Recurring Planetary Science Analysis
+    Group Meetings
+11. Postdoctoral Scholar
+12. JpGU Session: Outer Solar System Exploration Today, and Tomorrow
+13. [NASA] PDS: Aperiodic PDS Data Releases in 2021.01
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+RESEARCH ASSOCIATE: ANALYSIS OF SOLAR IMAGES USING MACHINE LEARNING AND
+COMPUTER VISION
+
+Deadline: February 7, 2021 (possibly extended)
+
+The department of Geophysics of GFZ German Research Centre for
+Geosciences invites applications for a Research Associate position for
+the Analysis of Solar Images Using Machine Learning and Computer Vision
+in the group "Space Physics and Space Weather".
+
+The work will be performed in the context of Helmholtz Imaging
+Platform-funded Solar Image-based Modelling project and uses highly
+detailed multi-spectral images of the sun to improve predictions of the
+solar wind close to earth and develop new methods utilizing data driven
+approaches. Specifically, we plan to exploit the capabilities of
+classical computer vision tools and modern deep learning algorithms to
+identify relevant structures on the sun, such as coronal holes and
+corona active regions.
+
+Candidates should have minimum:
+* MSc in physics (solar physics), computer sciences, maths or related
+  natural sciences.
+* Experience in working with solar images, several years of working
+  experience with IT programming or scientific programming.
+
+For more details, please see: 
+
+https://www.gfz-potsdam.de/en/career/job-offers/job-detail/4667/ 
+
+For questions, please contact Prof. Yuri Shprits: 
+yshprits@gfz-potsdam.de
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RESEARCH ASSOCIATE: SCIENTIFIC PROGRAMMING 
+
+Deadline: February 7, 2021 (possibly extended)
+
+The department of Geophysics of GFZ German Research Centre for
+Geosciences invites applications for a Research Associate position in
+Scientific Programming in the group "Space Physics and Space Weather".
+
+The work will be performed in the context of the EU Horizon 2020-funded
+consortium PAGER led by GFZ Potsdam The primary aim of PAGER is to
+provide space weather predictions initiated from observations on the
+Sun and to predict radiation in space and its effects on satellite
+infrastructure.
+
+Candidates should have minimum Master's degree in computer sciences,
+physics, maths or related natural sciences. Several years of working
+experience with IT programming or scientific programming, knowledge of
+Unix, Mac, and Windows operating systems, advanced knowledge of
+programming languages, such as C++, Matlab, IDL, Python, Fortran,
+experience in developing numerical codes and experience in maintaining
+Unix workstations. 
+
+For more details, please see: 
+
+https://www.gfz-potsdam.de/en/career/job-offers/job-detail/4731/
+
+For questions, please contact Prof. Yuri Shprits: 
+yshprits@gfz-potsdam.de
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CALL FOR PAPERS: PLANETARY SCIENCE SECTION OF UNIVERSE
+
+Universe (IF 1.752, ISSN 2218-1997), a peer-reviewed open access
+journal, is now soliciting manuscripts across the range of planetary
+science. Recent research in planetary astronomy, planetary geology, and
+planetary atmospheric science is welcome. Articles with a minimum of
+4500 words and reviews with a minimum of 5500 words are welcome.
+Manuscripts submitted to Universe are peer-reviewed and a first
+decision is provided to authors approximately 18.7 days after
+submission, with an additional 3.4 days from acceptance to publication
+(median values in the second half of 2020). An article processing
+charge (APC) of CHF 1800 (USD ~2000) currently applies to all accepted
+papers (no surcharges based on the length of an article, figures, or
+supplementary data). Various discounts are available for authors, for
+example, from institutes that participate in MDPI's Institutional Open
+Access Program (IOAP). The Editorial Office considers APC discount
+requests from authors who may be unable to find appropriate funding.
+
+For more information on this Section and submission guidelines, please
+visit: 
+
+https://www.mdpi.com/journal/universe/sections/planetary_sciences
+
+Please contact the Editorial Office (ansley.li@mdpi.com, cc:
+universe@mdpi.com) with questions.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGENDA AVAILABLE: OUTER PLANETS ASSESSMENT GROUP (OPAG) MEETING
+
+February 9-11, 2021
+Virtual
+9-1 PST (12-4 EST)
+
+Meeting Agenda: https://www.lpi.usra.edu/opag/meetings/OPAG2021Feb/
+
+The meeting will focus on aspects of the Decadal Survey that are
+relevant to OPAG. Status reports will be requested from the Decadal
+Survey co-chairs and panel chairs.
+
+Registration deadline: February 4, 2021
+
+Registered attendees will receive an e-mail prior to the meeting from
+Houston Meeting Info with virtual connection information.
+
+https://www.lpi.usra.edu/opag/meetings/OPAG2021Feb/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MINOR CLARIFICATIONS AND CORRECTIONS TO E.5 FINESST
+
+In response to questions and comments from proposers, the following
+minor clarifications and corrections have been made:
+
+The changes and clarifications are:
+ 
+* From Section 4.1 The Elements of a FINESST Proposal the incorrect,
+single reference to an exemption from Current and Pending Support has
+been removed; Current and Pending Support is required for the Future
+and Principal investigators.
+
+* Section 3.1 Eligibility and Restrictions on Submissions explicitly
+states that student status documentation is not required when a masters
+or Ph.D. degree-granting organization directly submits a proposal
+
+* 4.1.7 Budget Timeline and Narrative acknowledges institutions use
+diverse payment systems to administer funds to and on behalf of
+students;
+
+* From subsection (i) of 10.1 Explanatory Note A the former
+Heliophysics Funding Point of Contact has been removed and
+
+* To Section 11. Summary of Key Information second Funding Contacts and
+Program Scientists for the Astrophysics and Planetary Science Divisions
+have been added.
+ 
+http://bit.ly/FINESST
+ 
+Reminder: Proposals must be submitted no later than 02/04/2021.
+ 
+Questions regarding E.5 FINESST may be directed to
+hq-finesst@mail.nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] CALL FOR ABSTRACTS FOR THE 72ND INTERNATIONAL ASTRONAUTICAL
+CONGRESS (IAC)
+
+NASA announces its intent to participate in the 72nd International
+Astronautical Congress (IAC) and requests that full-time U.S. graduate
+students attending U.S. universities respond to this Call for
+Abstracts.
+
+October 25-29, 2021
+Dubai, UAE
+
+Abstracts must be related to NASA's ongoing vision for space
+exploration and fit into one of the following IAC categories:
+ 
+* Science and Exploration - Systems sustaining missions, including
+life, microgravity, space exploration, space debris and Search for
+Extra-Terrestrial Intelligence (SETI)
+
+* Applications and Operations - On-going and future operational
+applications, including earth observation, communication, navigation,
+human space endeavors and small satellites
+
+* Technology - Common technologies to space systems including
+astrodynamics, structures, power and propulsion
+
+* Infrastructure - Systems sustaining space missions including space
+system transportation, future systems and safety
+
+* Space and Society - Interaction of space with society including
+education, policy and economics, history and law
+    
+Submit your abstract to NASA by February 21, 2021 11:59 PM EST:
+
+https://iac.nasaprs.com
+
+Please submit proof of U.S. citizenship and current enrollment
+in U.S. University or college no later than February 28, 2021 to
+abstract@nasaprs.com. 
+
+Submit your abstract to the IAF by February 28, 2021 23:59 CET:
+
+https://iafastro.directory/iac/account/login/ 
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL RESEARCH ASSOCIATE IN PLANETARY SCIENCES - UNIVERSITY OF
+MARYLAND
+
+The Small Bodies Group in the Department of Astronomy at the University
+of Maryland, College Park invites applications for up to two
+Postdoctoral Research Associate positions to work with Tony Farnham and
+Jessica Sunshine on studies involving the composition and evolution of
+small bodies in the Solar System. 
+
+For more information:
+
+https://wirtanen.astro.umd.edu/postdoc/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PI LAUNCHPAD: DEVELOPING YOUR FIRST FLIGHT MISSION PROPOSAL
+
+Important Dates:
+Applications due via NSPIRES: March 22, 2021
+Workshop Dates: June 14-June 25
+Workshop Location: Virtual via WebEx
+ 
+Are you thinking about developing your first flight mission proposal in
+the next few years but have no idea where to start? If you are a
+researcher or engineers who would like to submit a NASA space mission
+proposal in the next few years but don't know where to start, this June
+virtual workshop is for you! We are interested in broadening the pool
+of potential NASA space mission PIs. People with marginalized
+identities are strongly encouraged to apply. There is no cost to attend
+the workshop.
+
+PI Launchpad applications and instructions on how to apply are
+available on the NSPIRES page for this opportunity. All applications
+must be submitted as a "Notice of Intent" via NSPIRES as a
+self-contained PDF file that includes your name, organization, and
+contact information. To create a new account, please see the NSPIRES
+User Registration Page.
+ 
+Additional details: 
+
+https://science.nasa.gov/researchers/pi-launchpad
+
+If you'd like to send a notification of this opportunity to a mentor,
+colleague, or mentee, please use: 
+
+http://bit.ly/PIL_nom
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ANNOUNCEMENT OF OPPORTUNITY FOR INTERDISCIPLINARY SCIENTISTS AND GUEST
+INVESTIGATORS
+
+Dear Colleague,
+ 
+ESA released an Announcement of Opportunity for Interdisciplinary
+Scientists and Guest Investigators in the ExoMars 2022 mission. 
+Mandatory Letters of Intent were due January 12, 2021.
+
+Although the call is "open to scientists in institutions based in ESA
+Member States, Canada and Russia", there may be US investigators
+planning to participate and be involved in submitting a proposal. 
+NASA anticipates allocating potentially a total of $300K per annum to
+support competitive US scientists' participation in the ExoMars
+mission, starting in fiscal year 2022.
+
+The ESA due date is Feb. 15, 2021. This Dear Colleague letter can be
+used as the indicator of agency endorsement for your potential
+contribution to the ExoMars 2022 mission.
+ 
+Sincerely,
+Eric Ianson
+Director, Mars Exploration Program
+ 
+Michael Meyer
+Lead Scientist, Mars Exploration Program
+ 
+ 
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PROPOSALS TO SUPPORT RECURRING PLANETARY SCIENCE ANALYSIS GROUP
+MEETINGS
+
+NASA's Planetary Science Division is interested in proposals through
+the Topical Workshops, Symposia, and Conferences (E.2) to support the
+Planetary Science communities Program Analysis Groups (PAGs). Ideally,
+this would be a single proposal to provide support for all eight of the
+PAGs. More information can be found at:
+
+http://bit.ly/AG_support_prop
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL SCHOLAR
+
+The Hayabusa2 spacecraft successfully collected samples on two
+different sites at the surface of a C-type asteroid (Ruygu). These
+samples were returned to Earth at the end of 2020. The IMPMC-MNHN and
+IAS are at the forefront of the preliminary analysis of these Ryugu
+grains, carrying out Synchrotron Mossbauer Spectroscopy and
+micron-tomography FTIR. The postdoc fellow will be in charge of the
+study of the composition of Ryugu's grains with a special emphasis on
+the organics/hydrous silicate associations. The coupled SMS/IR-CT
+analysis will allow the postdoc to unravel the role played by secondary
+alteration processes (aqueous, thermal, irradiation-driven) and to
+bridge the gap between spectroscopic features collected at the
+microscopic to macroscopic scales to physical-chemical modifications of
+primitive matter.
+
+https://emploi.cnrs.fr/Offres/CDD/UMR7590-MATROS-001/Default.aspx?lang=EN
+
+This fellowship is funded by the DIM ACAV+ (PI Mathieu Roskosz, CoI
+Rosario Brunetto). It is entirely dedicated to the study of this unique
+extraterrestrial matter. Though side projects are not strictly
+forbidden, only investigations related to the characterization of this
+matter will be supported. 
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JPGU SESSION: OUTER SOLAR SYSTEM EXPLORATION TODAY, AND TOMORROW
+
+Please consider submitting an abstract to the "Outer Solar System 
+Exploration Today, and Tomorrow" online session at the Japan Geoscience 
+Union (JpGU) Meeting 2021 held on 4 June, 2021:
+
+http://www.jpgu.org/meeting_e2021/sessionlist_en/detail/P-PS01.html
+
+Our session will discuss a wide range of topics encompassing the giant
+planets and their moons, including their origins, interiors,
+atmospheres, compositions, surface features, and electromagnetic
+fields. To advocate for current and future outer planets exploration
+(Juno, New Horizons, JUICE, Europa Clipper, Dragonfly and beyond), we
+also call for discussions on future missions to explore giant planet
+systems, including how to develop better international cooperation.
+Discussion in this latter category will include progress in developing
+a solar sail mission concept for observing the Jupiter system and its
+Trojan asteroids.
+
+Abstracts can be submitted at the following link: 
+
+http://www.jpgu.org/meeting_e2021/presentation.php
+
+Early submission deadline: 4 Feb (Tue), 23:59 JST
+Final submission deadline: 18 Feb (Tue), 17:00 JST
+
+Conveners:
+- Jun Kimura, Osaka Univ.
+- Kunio Sayanagi, Hampton Univ.
+- Cindy Young, NASA Langley Research Center
+- Fuminori Tsuchiya, Tohoku Univ.
+  
+  
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2021.01
+
+In January 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2021.01.08 Fieber-Beyer IRTF Mainbelt Asteroid Spectra V2.0
+2021.01.13 Mars Express: MRS Raw Radio Science Extended Mission 5
+2021.01.21 Mars Express: MRS Raw Radio Science Extended Mission 5
+2021.01.22 Mars Express: MRS Raw Radio Science Extended Mission 5
+2021.01.26 Mars Express: MRS Raw Radio Science Extended Mission 3
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210131.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 20-June 1, 2021
+Japan Geoscience Union Meeting 2021
+http://www.jpgu.org/meeting_e2021/
+Yokohama City, Japan
+
+June 3-6, 2021
+Japan Geoscience Union Meeting 2021
+http://www.jpgu.org/meeting_e2021/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Narrowband Observations of Comet 46P/Wirtanen during Its Exceptional
+Apparition of 2018/19. I. Apparent Rotation Period and Outbursts
+Tony L. Farnham et al. 2021 PSJ 2:7
+http://doi.org/10.3847/PSJ/abd091
+
+FUV Observations of the Inner Coma of 46P/Wirtanen
+John W. Noonan et al. 2021 PSJ 2:8
+https://doi.org/10.3847/PSJ/abd038
+
+Identification and Mitigation of a Vibrational Telescope Systematic
+with Application to Spitzer
+Ryan C. Challener et al. 2021 PSJ 2:9
+https://doi.org/10.3847/PSJ/abc954
+
+Compositional Study of Trans-Neptunian Objects at lambda > 2.2 micron
+E. Fernandez-Valenzuela et al. 2021 PSJ 2:10
+http://doi.org/10.3847/PSJ/abc34e
+
+Characteristics of Pluto's Haze and Surface from an Analytic Radiative
+Transfer Model
+J. H. Hillier et al. 2021 PSJ 2:11
+http://doi.org/10.3847/PSJ/abbdaf
+
+NEO Population, Velocity Bias, and Impact Risk from an ATLAS Analysis
+A. N. Heinze et al. 2021 PSJ 2:12
+http://doi.org/10.3847/PSJ/abd325
+
+Chromium Isotopic Evidence for Mixing of NC and CC Reservoirs in
+Polymict Ureilites: Implications for Dynamical Models of the Early
+Solar System
+Cyrena A. Goodrich et al. 2021 PSJ 2:13
+http://doi.org/10.3847/PSJ/abd258
+
+The Formation of Bilobate Comet Shapes through Sublimative Torques
+Taylor K. Safrit et al. 2021 PSJ 2:14
+http://doi.org/10.3847/PSJ/abc9c8
+
+The Surface Texture of Martian Lava Flows as Inferred from Their
+Decimeter- and Meter-scale Roughness
+C. Rodriguez Sanchez-Vahamonde and C. Neish 2021 PSJ 2:15
+http://doi.org/10.3847/PSJ/abbfac
+
+Vertical Structure and Color of Jovian Latitudinal Cloud Bands during
+the Juno Era
+Emma K. Dahl et al. 2021 PSJ 2:16
+http://doi.org/10.3847/PSJ/abd400
+
+The Visual Lightcurve of Comet C/1995 O1 (Hale-Bopp) from 1995 to 1999
+M. Womack et al. 2021 PSJ 2:17
+http://doi.org/10.3847/PSJ/abd32c
+
+Knowledge Inventory of Foundational Data Products in Planetary Science
+Jason R. Laura and Ross A. Beyer 2021 PSJ 2:18
+http://doi.org/10.3847/PSJ/abcb94
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

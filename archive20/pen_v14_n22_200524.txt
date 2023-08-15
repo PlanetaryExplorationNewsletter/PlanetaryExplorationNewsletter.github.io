@@ -1,0 +1,440 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 22 (May 24, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NExSS NPMP Opportunity
+2. [NASA] ROSES: Changes to C.18 Early Career Fellowship Start-Up
+   Program
+3. 2020 Annual Meeting of Planetary Geologic Mappers
+4. [NASA] ROSES-2020 Clarification Regarding Acronyms
+5. JPL Open Position: Research Scientist, Planetary Interiors and
+   Geophysics
+6. JPL Open Position: Research Scientist, Astrobiology and Ocean Worlds
+7. Postdoctoral Researcher in Planetary Magnetospheric Physics 
+8. Preventing Harassment in Science Workshop - Rescheduled and Going
+   Virtual
+9. Laboratory Astrophysics Division Virtual Meeting 
+10. OpenPlanetary Virtual Conference (OPvCon)
+11. NASA Science Virtual Community Town Hall Meeting
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEXSS NPMP OPPORTUNITY
+
+The NExSS (Nexus for Exoplanet Systems Science) has a new opportunity
+for a NASA Postdoctoral Management fellowship. NExSS is an
+interdisciplinary research network including experts in Earth Science,
+Planetary Science, Heliophysics, and Astrophysics:
+
+http://nexss.info
+
+The main goal of NExSS is to apply a "systems science" perspective to
+the study of exoplanets, so we can study their diversity, histories,
+and habitability. Teams extrapolate our knowledge of Earth as a planet
+and the examples provided by the Sun and planets in our Solar System to
+better understand exoplanets, and vice versa. As a coordinated network,
+NExSS fosters interdisciplinary, collaborative work and facilitates
+access to diverse skill sets and a broad knowledge base.
+
+This position will be split equally between research and
+policy/management work. The research will be composed of an independent
+research project led by the postdoctoral fellow, that leverages the
+NExSS science community. The management work involves interfacing with
+the NExSS science community in the pursuit of strengthening and
+expanding that community. Efforts in this area could include:
+facilitating collaborations; coordinating webinars, workshops, and
+other virtual meetings; leading or organizing the writing of white
+papers; improving communication both within and beyond the network, and
+contributing to the strategies for pursuing the above goals.
+
+Please see:
+
+https://npp.usra.edu/opportunities/details/?ro=19326 
+
+Deadline: July 1, 2020. 
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES: CHANGES TO C.18 EARLY CAREER FELLOWSHIP START-UP PROGRAM
+
+ROSES-2020 Amendment 22 changes ROSES program element C.18, Early
+Career Fellowship Start-Up Program for Named Fellows in a number of
+ways. First, previously named Early Career Fellows who intend to submit
+to this program element, must email the new point of contact,
+melissa.a.morris@nasa.gov, by September 1, 2020 to discuss their
+eligibility. It is anticipated that this is the last year that this
+program element will be solicited. Proposals are due on the date given
+in Section 4 and in Tables 2 and 3 of this ROSES NRA.
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bB0B2AFBB-2F84-E38C-F196-602711B835E1%7d&path=&method=init
+
+Questions: Melissa Morris, melissa.a.morris@nasa.gov.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2020 ANNUAL MEETING OF PLANETARY GEOLOGIC MAPPERS
+
+The Annual Meeting of Planetary Geologic Mappers will take place
+virtually on July 23, 2020. The meeting will consist of 5-minute
+presentations and ten-minutes of discussion for each speaker. Status
+reports will also be presented by the USGS Planetary Geologic Mapping
+Coordinator and the NASA HQ Program Officer overseeing the mapping
+program.
+
+The abstract submission form is now available online. Abstracts are
+limited to one page, 250 words, and one figure, and are due June 18,
+2020 by 5:00 pm Central Daylight Time.
+
+Registration is free and available online. The deadline to register is
+July 20, 2020. 
+
+Abstract submission and registration can be found here: 
+
+https://www.hou.usra.edu/meetings/pgm2020/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-2020 CLARIFICATION REGARDING ACRONYMS
+ 
+The ROSES-2020 Summary of Solicitation has been clarified to set this
+default rule for all ROSES-2020 proposals regarding the use of
+acronyms: If an acronym used in the page limited
+Scientific/Technical/Management (S/T/M) section needs to be defined, it
+must be defined within the S/T/M section at least the first time it is
+used. That is, proposers may not define acronyms solely in a list
+outside of the page-limited S/T/M section. If and only if acronyms are
+defined within the S/T/M section, may an acronym list also be provided
+outside of the S/T/M section.
+
+Questions regarding this clarification to ROSES-2020 may be directed to
+SARA@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, PLANETARY INTERIORS AND
+GEOPHYSICS
+
+Job Title: Research Scientist, Planetary Interiors and Geophysics
+Location: Pasadena, CA
+ 
+The Jet Propulsion Laboratory invites applications for a Scientist who
+will bring new expertise to and ensure continuity of existing
+capabilities at JPL in planetary science. The successful candidate will
+develop models for the chemical evolution of Europa, Enceladus, Titan,
+Ganymede, and other ocean worlds in support of the Icy Worlds, Titan,
+and Vital Signs teams. The candidate will investigate the detailed
+chemical evolution of Europa's interior and its ice. Perform NASA
+funded research, including setting up and conducting novel experiments
+to measure chemical properties and processes applicable to planetary
+interiors. Investigate the metamorphic evolution of Ceres' rocky
+mantle and support mission formulation as a subject matter expert on
+ocean world chemistry.
+ 
+This position requires the following qualifications:
+
+* Ph.D. in geochemistry, planetary geophysics, or a related field.
+
+* 3-4 years expertise in applying meteoritics, petrology, aqueous
+geochemistry to problems in astrobiology.
+The following qualifications are preferred:
+
+* Knowledge of geophysical forward modeling and inverse theory,
+high-pressure experimental design and implementation.
+ 
+Applications are due by May 26, 2020 or until filled and should be
+submitted at:
+
+https://jpl.jobs/jobs/2020-11799-Research-Scientist-II
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JPL OPEN POSITION: RESEARCH SCIENTIST, ASTROBIOLOGY AND OCEAN WORLDS
+
+Research Scientist, Astrobiology and Ocean Worlds
+Pasadena, CA
+
+The Jet Propulsion Laboratory invites applications for a Research
+Scientist to join the Astrobiology and Ocean Worlds Group within the
+Planetary Science Section. You will do the following:
+
+Lead development of instrumentation and/or mission concepts to explore
+the subsurface of Mars and other habitable environments.
+
+Write proposals for advancing research and instrument/mission
+development in the areas of planetary habitability, subsurface
+exploration, hydrology, energetics, thermodynamics, geodynamics and
+astrobiology.
+
+Required Qualifications:
+
+* Ph.D. degree in Earth or Planetary Sciences or related scientific or
+technical discipline.
+
+* Demonstrated working knowledge at the forefront in the fields of
+planetary habitability, geophysics, geodynamics, aqueous geochemistry,
+modeling and biology/astrobiology, including but not limited to the
+Mars subsurface.
+
+* At least 5 years experience following the Ph.D. in research in one or
+more of the aforementioned fields.
+
+* Peer-reviewed publications in high-impact journals in the
+aforementioned fields.
+
+* Well-established record in obtaining funding as PI for scientific
+research and/or mission/instrument development.
+
+* Excellent oral and written communication skills, with the ability to
+both work as part of a team and lead a team.
+
+Apply at:
+
+http://jpl.jobs/jobs/2020-11866-Research-Scientist-III-Astrobiology-and-Ocean-Worlds 
+
+Applications received by June 8, 2020 will receive full consideration.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS 
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing the magnetometer results. In addition, the candidate will
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to
+develop a data production pipeline for future magnetometer missions.
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest.
+
+Candidates for this position should have earned a Ph.D. in physics,
+astronomy, planetary science, space physics, geosciences, or related
+fields. Successful candidates should also have expertise with one or
+more programming languages commonly used in space science and a
+demonstrated track record in analyzing spaceflight data, especially
+magnetometer data and experience with the NAIF SPICE software package
+is highly desired.
+
+Applications received by July 15, 2020 will receive the best
+consideration. 
+
+Full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PREVENTING HARASSMENT IN SCIENCE WORKSHOP - RESCHEDULED AND GOING
+VIRTUAL
+
+We are happy to announce the Preventing Harassment in Science: 
+Building a Community of Practice Toward Meaningful Change workshop has
+been rescheduled as a virtual event on June 24-25, 2020.
+
+The goal of this workshop is to bring leaders of anti-harassment
+efforts together to share ideas and discuss best practice methods to
+reduce harassment in the scientific workplace. An expected outcome of
+this workshop is to create a community of practice to continue future
+anti-harassment efforts.
+
+The updated agenda will be available in the next few weeks, but to see
+the type of content expected at this event the original agenda can be
+viewed at the workshop website: 
+
+https://www.hou.usra.edu/meetings/anti-harassment2020/
+
+Registration is required to access the virtual meeting, and
+registration is free. We hope you join us!
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+LABORATORY ASTROPHYSICS DIVISION VIRTUAL MEETING
+ 
+Hi Planetary Science Community:
+ 
+Become a Laboratory Astrophysics Division (LAD) Member and Register for
+the AAS/LAD Joint Virtual Meeting by May 29, 2020
+
+As the Vice-Chair of LAD, it is my goal to encourage planetary
+scientists to become LAD members, such that LAD has equal
+representation from the planetary science community. If you ever use or
+need laboratory data for your models or observational analysis, you may
+want to consider becoming a LAD member. You will find the right
+collaborator for your data needs. If you do laboratory work, you would
+find a platform to showcase your work. If you are looking for careers
+in laboratory studies pertinent to astrophysics and planetary sciences,
+LAD provides you networking opportunities. This year LAD jointly with
+AAS has their first ever virtual conference June 1-3, 2020.
+ 
+Registration and program at:
+
+https://aas.org/meetings/aas236
+ 
+Check out the following links to become LAD member or affiliate for
+very nominal fee (Full Member $20, Graduate Affiliate $10,
+Undergraduate Affiliate $5).
+
+https://lad.aas.org/members
+ 
+Please pass on this information to your colleagues, who may be
+interested and encourage them to become LAD members.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+OPENPLANETARY VIRTUAL CONFERENCE (OPVCON)
+
+OpenPlanetary will host a virtual planetary science conference from
+June 22-24. The conference will consist of lecture-length talks from
+invited speakers, coffee break / networking opportunities, workshops
+and tutorials, and a hackathon. There is no registration fee, but
+registration is required. A schedule and registration information is
+now available at the conference website: 
+
+http://www.openplanetary.org/vcon
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA SCIENCE VIRTUAL COMMUNITY TOWN HALL MEETING 
+
+May 28, 3 pm 
+
+NASA's Science Mission Directorate will hold a community town hall
+meeting via teleconference with Associate Administrator for Science
+Thomas Zurbuchen and his leadership team at 3 p.m. EDT Thursday, May
+28, to discuss updates in NASA's science program and the current status
+of NASA activities.
+
+Members of the science community, academia, the media and the public
+are invited to participate by calling 888-989-9718. International
+participants should call 312-470-7045. Both numbers will use the
+passcode 8137047. Participants must provide their name at the prompt. A
+replay of the call will be available for one month at 203-369-3252.
+Charts for the meeting will be posted just prior to the start of the
+meeting and an audio recording will be available later that day at: 
+ 
+https://science.nasa.gov
+ 
+To ask a question, participants can go to:
+ 
+https://arc.cnf.io/sessions/ykc8/#!/dashboard
+ 
+Users must provide their first and last name and organization and can
+submit their own questions or vote up or down a list of questions
+submitted by others. The meeting leaders will try to answer as many of
+the submitted questions as possible.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 28, 2020
+NASA Sceince Virtual Community Town Hall
+https://science.nasa.gov
+Online
+
+May 29, 2020
+Laboratory Astrophysics Division Virtual Meeting
+https://aas.org/meetings/aas236
+Online
+
+June 22-24, 2020
+OpenPlanetary Virtual Conference
+http://www.openplanetary.org/vcon
+Online
+
+July 23, 2020
+Annual Meeting of Planetary Geologic Mappers
+https://www.hou.usra.edu/meetings/pgm2020/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Recovery and Validation of Mars Ionospheric Electron Density Profiles
+from Viking Orbiter Radio
+Occultation Observations
+Paul Withers et al. 2020 PSJ 1:14
+http://doi.org/10.3847/PSJ/ab8fb2
+
+New Evidence for a Physical Link between Asteroids (155140) 2005 UD and
+(3200) Phaethon
+Maxime Devogele et al. 2020 PSJ 1:15
+http://doi.org/10.3847/PSJ/ab8e45
+
+Col-OSSOS: Compositional Homogeneity of Three Kuiper Belt Binaries
+Michael Marsset et al. 2020 PSJ 1:16
+http://doi.org/10.3847/PSJ/ab8cc0
+
+Chemistry of Temperate Super-Earth and Mini-Neptune Atmospheric Hazes
+from Laboratory Experiments
+Sarah E. Moran et al. 2020 PSJ 1:17
+http://doi.org/10.3847/PSJ/ab8eae
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

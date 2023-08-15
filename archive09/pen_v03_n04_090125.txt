@@ -1,0 +1,320 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 4 (January 25, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Outer Planets Flagship Mission Joint Summary Reports 
+2. 6th Annual General Meeting of the Asia Oceania Geosciences Society
+3. Call for Abstracts: Comparative Studies of Planetary Magnetospheres
+4. 7th International Conference on Geomorphology
+5. IEEE GRSS Workshop on Hyperspectral Image and Signal Processing
+6. Call for Abstracts: Astrobiology at AOGS 2009
+7. Planetary Magnetism Session at AGU in Toronto
+8. Toronto Spring Meeting Session on "The Tagish Lake Meteorite and 
+   Early Solar System Evolution"
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OUTER PLANETS FLAGSHIP MISSION JOINT SUMMARY REPORTS
+
+The public release versions of the Joint Summary Reports for the 
+Europa Jupiter System Mission (EJSM) and Titan Saturn System Mission 
+(TSSM) can now be downloaded from two NASA websites:
+
+NASA Solar System Exploration website:   
+http://solarsystem.nasa.gov
+
+Outer Planet Flagship Mission website:   
+http://opfm.jpl.nasa.gov/
+
+Links to these sites from the OPAG website 
+
+http://www.lpi.usra.edu/opag/ 
+
+are also in the process of implementation
+
+The two documents will also be available from ESA websites for 
+convenience access of Europeans wishing to find out more about the 
+next step in outer planet exploration.
+
+The final reports of the two studies (EJSM and TSSM) will also be 
+posted to those sites by the end of January.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+6TH ANNUAL GENERAL MEETING OF THE ASIA OCEANIA GEOSCIENCES SOCIETY 
+
+AOGS 2009, SINGAPORE, 11-15 AUGUST 2009
+
+16 Sessions in Planetary Sciences covering various topics that include 
+interiors, oceans, surfaces, atmospheres, ionospheres, magnetospheres 
+of planets, satellites, comets, minor bodies, and extra-solar planets,
+as well as topic like laboratory planetary sciences, astrobiology, 
+planetary radiation environments, planetary ice, and multi-wavelength 
+studies of planetary bodies.  
+
+Session details at
+
+http://www.asiaoceania.org/aogs2009/public.asp?page=mars/
+confSessionList.asp
+
+Conference: 
+
+http://www.asiaoceania.org/aogs2009/
+
+Abstract deadline: 15 March 2009
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CALL FOR ABSTRACTS: COMPARATIVE STUDIES OF PLANETARY MAGNETOSPHERES
+
+TORONTO, CANADA, 24-27 MAY 2009
+ 
+Session: P06 Comparative Studies of Planetary Magnetospheres
+Abstract deadline : 4 March 2009 23:59 UT
+
+Conveners:
+Eun-Hwa Kim
+(ehkim@pppl.gov, Princeton Plasma Physics Laboratory, Princeton
+University)
+Peter Chi
+(pchi@igpp.ucla.edu, Institute of Geophysics and Planetary Physics, 
+UCLA)
+Scott Boardsen
+(scott.a.boardsen@nasa.gov, NASA GSFC, GEST)
+Peter Delamere
+(delamere@lasp.colorado.edu, Laboratory for Atmospheric and Space 
+Physics, University of Colorado)
+ 
+Session URL:
+
+http://www.agu.org/meetings/ja09/program/scientific_session_
+search.php?show=detail&sessid=259
+ 
+Conference URL: 
+
+http://www.agu.org/meetings/ja09/index.php
+ 
+Research themes for this session:
+- All planetary magnetospheres
+- Comparative approaches to a phenomenon occurring in different 
+  planetary plasma environments
+- Modeling of planetary magnetospheres
+- Simulations and observations of waves, instabilities, and 
+  reconnection
+- Energy transfer between magnetospheres and other regions (e.g., 
+  ionosphere and solar wind)
+- New experimental techniques and spacecraft observations
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+7TH INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY
+
+FINAL CALL FOR ABSTRACT SUBMISSIONS!
+DEADLINE: 4 February 2009
+
+Submit your abstract for Geomorphology Conference 2009 to be held at 
+the Melbourne Convention and Exhibition Centre, from 6 - 11 July 2009.
+
+SPECIAL SESSION ON PLANETARY GEOMORPHOLOGY
+
+http://www.geomorphology2009.com/program.asp
+
+Abstract submission guidelines are available at:
+
+http://www.geomorphology2009.com/abstract.asp
+
+Details of field trips including a 5-day Planetary Geomorphic 
+Analogues Field Trip, are now posted:
+
+http://www.geomorphology2009.com/field_trips.asp
+
+Conference registration is now open:
+
+https://ssl.confreg.com.au/ei/rs.esp?id=616&scriptid=_LOGINR
+
+Mary Bourke
+Coordinator IAG Working Group on Planetary Geomorphology
+
+http://www.psi.edu/pgwg/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+IEEE GRSS WORKSHOP ON HYPERSPECTRAL IMAGE AND SIGNAL PROCESSING
+
+The First IEEE GRSS Workshop on Hyperspectral Image and Signal
+Processing  (evolution in remote sensing) (WHISPERS'09) will be held
+in Grenoble, France in August 2009.
+
+It is intended for every researcher working with hyperspectral data 
+and spectroscopy, from physical modeling, sensor, acquisition and 
+calibration, to data processing and applications.
+
+The deadline for full 4 pages paper submission is on March 31st.
+
+If you want to submit an invited session, please use the following
+procedure:
+
+Choose between:
+- a 5 papers oral session
+- a 10 papers oral session
+- a 10 to 20 poster session
+
+Submit your proposal by email to me
+(jocelyn.chanussot@gipsa-lab.inpg.fr) before february 15th.
+
+It should include:
+- the title of the proposed session
+- name and affiliation of one or two people submitting the session 
+  (and expected to chair it during the conference if it is accepted)
+- title of the papers to be included in the session, with names and
+  affiliations of the authors, and a short abstract (10 to 15 lines
+  per paper)
+
+Please, check the website for the listing of the topics of interest.
+
+http://www.ieee-whispers.com/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CALL FOR ABSTRACTS: ASTROBIOLOGY AT AOGS 2009
+
+SINGAPORE, 11-15 AUGUST 2009
+
+Session: PS15 Astrobiology
+Abstract deadline: 15 March 2009
+Conveners: Steve Vance (svance@jpl.nasa.gov),  Kensei Kobayashi, 
+Takenori Toyota, Francois Raulin, Ken Williford, Christopher McKay
+
+Session URL:
+
+http://www.asiaoceania.org/aogs2009/mars/confSessionView.asp?sID=14
+
+Conference URL:
+
+http://www.asiaoceania.org/aogs2009/
+
+This session will be dedicated to the study of Astrobiology, with 
+solicited, contributed, and poster presentations addressing 
+(1) extraterrestrial organics and their relevance to origins of 
+life (2) conditions on the early Earth that may have been necessary 
+for the origin of life (3) subsequent events and conditions that may 
+have contributed to the evolution of organisms and the development 
+of Earth's climate (4) habitability of extraterrestrial atmospheres,
+surfaces and interiors (5) detectability of biosignatures.  Examples
+of relevant topics: mass extinctions, methane on Mars and Titan, and
+life in subsurface oceans such as Europa's.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MAGNETISM SESSION AT AGU IN TORONTO
+
+Dear colleague,
+
+This is to invite you to participate in the upcoming 2009 AGU Joint
+Assembly, which will be held in Toronto, Canada, May 24 to 27.
+
+We invite you to participate in the Geomagnetism and Paleomagnetism
+(GP) session GP-12 on "Planetary Magnetism". This session will
+provide a forum for presentation and discussion of new developments
+on studies of planetary magnetism and magnetic fields. We
+welcome contributions coming from theory and analyzes of direct
+observations, numerical simulations and experiments on planetary
+magnetic fields, crater magnetic anomalies and magnetic properties
+of materials.
+
+Abstract submissions are now open at the AGU web site
+
+http://www.agu.org/meetings/ja09/program/abstract_submissions.php
+
+Online abstract submission deadline is March 4 2009, at 23:59 hrs
+UTC.
+
+Looking forward to see you in Toronto
+
+Jafar Arkani-Hamed, jafar@physics.utoronto.ca
+Jaime Urrutia-Fucugauchi, juf@geofisica.unam.mx
+Hernan Ugalde, ugaldeh@mcmaster.ca
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TORONTO SPRING MEETING SESSION ON "THE TAGISH LAKE METEORITE AND EARLY
+SOLAR SYSTEM EVOLUTION"
+
+We would like to draw your attention to the session GA20: "The Tagish 
+Lake meteorite and Early Solar System evolution," which will be held 
+at the 2009 Joint Assembly in Toronto, Canada on 24-27 May, 2009.
+
+Conveners:
+Phil McCausland   [pmccausl@uwo.ca]
+Chris Herd   [herd@ualberta.ca]
+Gopalan Srinivasan   [srini@geology.utoronto.ca]
+
+The Tagish Lake meteorite is a unique carbonaceous chondrite which 
+fell in northwestern British Columbia in January of 2000 and was 
+collected in a pristine, frozen state, providing a new window on the
+early Solar System. This session invites contributions on studies of 
+primitive meteorites such as the Tagish Lake carbonaceous chondrite 
+as well as primitive achondrites, IDPs and returned samples from 
+STARDUST, that record the chronology of events in the early solar 
+system, the chemical and isotopic heterogeneity of its presolar 
+and refractory source materials and their subsequent modification 
+by solar nebular and parent body processes.
+
+Co-sponsored by AGU Planetary Sciences, MAC
+
+Please note that the abstract deadline is March 4, 2009. For more 
+info, visit the meeting site:
+
+http://www.agu.org/meetings/ja09/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 26-30, 2009
+Hotwiring the Transient Universe II: Real Time Astronomy
+http://www.cacr.caltech.edu/hotwired2
+Santa Cruz, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

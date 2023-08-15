@@ -1,0 +1,328 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 62 (December 22, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release 16
+2. EGU Session PS5.1/ST4.4: Planetary Plasma Physics and Interactions 
+   in the Solar System
+3. Call for ExoMars 2018 Landing Site Proposals by ESA and 
+   IKI/Roscosmos
+4. [NASA] Call for Joint NASA Roscosmos/IKI Venera-D Science 
+   Definition Team
+5. [NASA] EPOESS Will not be Solicited in ROSES-13
+6. CAS-NAS Forum for New Leaders in Space Science
+7. Reminder: Applications Now Being Accepted for 2014 LPI Summer Intern 
+   Program in Planetary Science
+8. NASA Postdoctoral Fellowships
+9. Enduring Quests, Daring Visions - NASA Astrophysics in the Next 
+   Three Decades
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+        
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS -  LUNAR RECONNAISSANCE ORBITER DATA RELEASE 16
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+
+CRaTER
+DLRE
+LAMP
+LEND
+LOLA
+LROC
+RSS  
+
+In general, LRO Release 16 includes data collected between June 15, 
+2013 and September 14, 2013. To access the above data, please visit 
+the following link: 
+
+http://pds.nasa.gov/tools/subscription_service/SS-20131216.shtml
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria: 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector):
+
+http://ode.rsl.wustl.edu/moon/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EGU SESSION PS5.1/ST4.4: PLANETARY PLASMA PHYSICS AND INTERACTIONS IN
+THE SOLAR SYSTEM
+
+The emphasis of the session is on all aspects of planetary plasma
+physics and interactions in the Solar System, including:
+
+(a) Magnetospheres, ionospheres, auroras
+(b) The solar wind interaction with planets, moons, asteroids and 
+    comets
+(c) Plasma interactions with exospheres, dust and surfaces (e.g., at
+    Mercury, Europa, Ganymede, our Moon, etc.)
+(d) Intercomparisons of planetary environments
+
+Contributions are welcome which address previous (e.g., CHANDRAYAAN-1,
+KAGUYA), present (e.g., CASSINI, MARS EXPRESS, VENUS EXPRESS, ROSETTA,
+MESSENGER, CHANG'E 2), forthcoming (e.g., BEPI COLOMBO) and planned 
+(e.g., JUICE) observations from space. Analyses of ground-based 
+observations of neutral and ionized environments are welcome. 
+Theoretical modelling and simulations are also strongly encouraged, 
+both in themselves and as a basis for intercomparisons and 
+interpretation of measurements. Laboratory studies on planetary 
+analogues aiming to simulate the surface-plasma interaction are 
+considered as well.
+
+The participants will be later invited to submit an article in a 
+forthcoming dedicated special issue in Planetary and Space Science.
+
+Please, consider that the abstract submission *deadline is 
+16 January 2014*
+
+See more details at :
+
+http://meetingorganizer.copernicus.org/EGU2014/session/14461
+
+Conveners : P. Garnier, A. Milillo, A. Radioti
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CALL FOR EXOMARS 2018 LANDING SITE PROPOSALS BY ESA AND IKI/ROSCOSMOS
+
+The Call for ExoMars 2018 Landing Site proposals has been released by
+ESA and IKI/Roscosmos with a deadline for application of Friday, 
+28 February 2014 (12:00 CET).
+
+Interested parties will find the relevant documentation at:
+
+http://exploration.esa.int/mars/53462-call-for-exomars-2018-landing
+-site-selection/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] CALL FOR JOINT NASA ROSCOSMOS/IKI VENERA-D SCIENCE DEFINITION 
+TEAM
+
+Response Date: January 3, 2014
+
+Scientists, technologists, and other qualified and interested 
+individuals are invited to apply for membership on the Science 
+Definition Team (SDT) for the Venera-D Venus mission, a strategic 
+Venus mission sponsored by Roscosmos, with participation by NASA SMD 
+Planetary Science Division. For more information see the full text of 
+the call at: 
+
+http://science.nasa.gov/researchers/sara/grant-solicitations/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] EPOESS WILL NOT BE SOLICITED IN ROSES-13
+
+The Opportunities in Education and Public Outreach for Earth and Space 
+Science (EPOESS) will not be solicited in ROSES-13.
+ 
+The EPOESS solicitation is for project activities utilizing SMD content 
+supporting NASA education and public outreach (E/PO) objectives. It 
+solicits proposals that address substantial and substantive educational 
+or outreach needs or problems and offer solutions of significant 
+impact. Project activities are expected to be relevant to NASA SMD 
+Education and Outreach portfolio.
+ 
+NASA has decided not to solicit proposals for EPOESS in ROSES 2013, 
+because of uncertainty in the FY 2014 budget. However, SMD 
+anticipates that this program will be solicited in ROSES 2014, at which 
+time the FY 2014 budget should be better known.
+ 
+Questions may be directed to: 
+
+Stephanie Stockman
+(202) 358-0039
+stephanie.a.stockman@nasa.gov
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CAS-NAS FORUM FOR NEW LEADERS IN SPACE SCIENCE
+
+The National Space Science Center of the Chinese Academy of Sciences 
+and the Space Studies Board of U.S. National Academy of Sciences' 
+National Research Council invites applications for the 2014 inaugural 
+CAS-NAS Forum for New Leaders in Space Science. The Forum is designed 
+to provide opportunities for a highly select group of young space 
+scientists from China and the United States to discuss their research 
+activities in an intimate and collegial environment. The 2014 Fora will 
+be held in Beijing on May 8-9, 2014 and in Irvine, California, on 
+November 3-4, 2014. The scientific scope of both events is limited to 
+the general areas of space astronomy and solar and space physics. 
+Additional details, including eligibility requirements and application 
+procedures, can be found at: 
+
+http://sites.nationalacademies.org/SSB/SSB_086017 
+
+The application deadline is 13 January, 2014.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+REMINDER: APPLICATIONS NOW BEING ACCEPTED FOR 2014 LPI SUMMER INTERN 
+PROGRAM IN PLANETARY SCIENCE
+
+Application Deadline Approaching:  January 17, 2014
+ 
+The Lunar and Planetary Institute (LPI) invites undergraduates with at 
+least 50 semester hours of credit to experience cutting-edge research 
+in the lunar and planetary sciences. As a Summer Intern, you will work 
+one-on-one with a scientist at the LPI or at the NASA Johnson Space 
+Center on a research project of current interest in lunar and planetary 
+science. Furthermore, you will participate in peer-reviewed research, 
+learn from top-notch planetary scientists, and preview various careers 
+in science.
+ 
+The 10-week program runs from June 2 through August 8, 2014. Interns 
+will receive a $5000.00 stipend plus $1000.00 U.S. travel stipend, or 
+$1500.00 foreign travel reimbursement for foreign interns.
+ 
+Citizens of U.S. State Department Designated Countries are not eligible. 
+See "ECP Notices" at: 
+
+http://oiir.hq.nasa.gov/nasaecp/
+
+Selection is based on:
+
+(1) scholarship, curriculum, and experience; 
+(2) career objectives and scientific interest; and 
+(3) match of interest of applicant with available research projects.
+
+Applications must be electronic. Go to:
+
+http://www.lpi.usra.edu/lpiintern
+
+Faculty members: Please pass this information on to any of your students 
+who might be interested.
+
+Contact:
+
+Claudia Quintana
+281-486-2159
+internprogram@lpi.usra.edu
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18696         
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar may 
+apply.
+ 
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/18GSlHK
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ENDURING QUESTS, DARING VISIONS - NASA ASTROPHYSICS IN THE NEXT THREE
+DECADES
+
+In early 2013, the Astrophysics Subcommittee (APS) of the NASA 
+Advisory Council/Science Committee commissioned a Task Force to develop 
+a vision for NASA's Astrophysics Division spanning the next three 
+decades. The charter given to this team was to produce a compelling 
+long-term vision for space astrophysics building upon the baseline 
+given in the recent Decadal Survey "New Worlds New Horizons." 
+ 
+The Roadmap Task Force report is now completed and will be posted on 
+December 20, 2013 on: 
+
+http://science.nasa.gov/science-committee/subcommittees/nac
+-astrophysics-subcommittee/astrophysics-roadmap/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

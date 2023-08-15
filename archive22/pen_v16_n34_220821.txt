@@ -1,0 +1,354 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 34 (August 21, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 30
+2. [NASA] ROSES-22 Amendment 44: Due Date Delays for A.19 ASIA-AQ, B.21 
+   H-CSI, C.7 NFDAP, and C.11 DDAP
+3. 2023a NASA Keck Call for Proposals
+4. Postdoctoral Position in Space Physics at Swedish Institute of 
+   Space Physics
+5. Mercury Science and Exploration August 2022 Newsletter Released
+6. HiRISE Digital Terrain Models By-Request and at No-Cost for Funded 
+   Mars Data Analysis Program Awards 
+7. Invitation to Contribute to PSJ Special Issue: Towards In Situ 
+   Observations of Planetary Surface-Atmosphere Interactions 
+8. Postdoc at JPL: Cometary Comae
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 30
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 30, nominally with data to May 2022:
+
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from ACCEL (Accelerometer). Spacecraft safing
+from Feb to May 2022 affected IUVS and MAG data delivery.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220815.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-22 AMENDMENT 44: DUE DATE DELAYS FOR A.19 ASIA-AQ, B.21 
+H-CSI, C.7 NFDAP, AND C.11 DDAP
+
+An NSPIRES bug prevented submission of Notices if Intent (NOIs) and 
+Step-1 proposals to certain programs from 8/13/-8/18. Accordingly, NOI 
+and Step-1 proposal due dates for four ROSES program elements have 
+been delayed by six days.
+
+NOIs for A.19 Airborne and Satellite Investigation of Asian Air 
+Quality (ASIA-AQ) are now due September 7, 2022.
+
+Step-1 proposals for B.21 Heliophysics Citizen Science Investigations 
+(HCSI) are now due August 24, 2022.
+
+Step-1 proposals for C.7 New Frontiers Data Analysis Program (NFDAP) 
+are now due September 7, 2022.
+
+Mandatory NOIs for C.11 Discovery Data Analysis (DDAP) are now due 
+September 6, 2022.
+
+This Amendment to ROSES 2022 (NNH22ZDA001N) will be posted on the NASA 
+research opportunity homepage here:
+
+https://solicitation.nasaprs.com/ROSES2022
+
+It will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2022/
+
+Direct questions concerning A.19 ASIA-AQ to barry.lefer@nasa.gov.
+
+Direct questions concerning B.21 HCSI to susanna.c.finn@nasa.gov.
+
+Direct questions concerning C.7 NFDAP to HQ-NFDAP@mail.nasa.gov.
+
+Direct questions concerning C.11 DDAP to thomas.wagner@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2023A NASA KECK CALL FOR PROPOSALS
+
+The NASA Exoplanet Science Institute is soliciting proposals to use 
+NASA's portion of time on the Keck Telescopes for the 2023A observing 
+semester (February 1-July 31, 2023). All proposals are due by 
+September 15, 2022 at 4 pm Pacific.
+
+Proposals are sought to support science goals and missions in the 
+following discipline areas: 
+
+- Our Own Solar System
+- Exoplanet Exploration
+- Physics of the Cosmos
+- Cosmic Origins
+
+Mission Support Proposals in any of these areas are also encouraged
+
+Please read the Call for Proposals for complete information, semester 
+highlights, instrument availability, and application guidelines:
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/gen-info.shtml
+
+The opportunity to propose as a Principal Investigator for NASA time 
+on the Keck Telescopes is open to all U.S.-based astronomers (i.e. who 
+have their principal affiliation at a U.S. institution). Investigators 
+from institutions outside of the U.S. may participate as 
+Co-Investigators.
+
+Advance Notice of Joint JWST/Keck Programs: The James Webb Space 
+Telescope (JWST) Cycle 2 Call for Proposals will include the 
+opportunity to propose for joint programs requiring JWST and NASA Keck 
+observations. This does not affect this 2023A NASA Keck Call for 
+Proposals. Go here for more information:
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/jwst-keck.shtml
+
+Call for Proposals:
+
+https://nexsci.caltech.edu/missions/KeckSolicitation/
+
+Questions: KeckCFP@ipac.caltech.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL POSITION IN SPACE PHYSICS AT SWEDISH INSTITUTE OF SPACE 
+PHYSICS
+
+The Swedish Institute of Space Physics (IRF) in Uppsala is looking for 
+a postdoc for the investigations of kinetic plasma processes at Earth's
+magnetopause and magnetotail. The work involves the analysis of
+magnetic, electric, and plasma measurements from the multi-spacecraft
+Magnetospheric Multiscale (MMS) mission.
+
+https://www.irf.se/en/news/2022/08/17/postdoctoral-position-in-space-physics-ref-2-2-1-293-22/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MERCURY SCIENCE AND EXPLORATION AUGUST 2022 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue
+8 of "The Mercury Newsletter". The quarterly community newsletter can
+be accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+This newsletter shares Mercury science and exploration news,
+spotlights early-career researchers, notes upcoming meetings, and
+highlights recent publications.
+
+Please send your Mercury community announcements and calendar items
+for inclusion in the newsletter to the MExAG Steering Committee at
+mexag.sc@gmail.com.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+HIRISE DIGITAL TERRAIN MODELS BY-REQUEST AND AT NO-COST FOR FUNDED 
+MARS DATA ANALYSIS PROGRAM AWARDS
+
+To support the needs of the Mars science community, the USGS 
+Astrogeology Science Center is providing HiRISE DTMs by request and at 
+no charge for funded ROSES 2022 Mars Data Analysis Program proposals. 
+Investigators are responsible for identification and selection of 
+appropriate HiRISE stereopairs, and must coordinate with USGS 
+personnel before proposal submission to obtain a Confirmation of 
+Technical Specification Letter. DTMs will only be generated for funded 
+proposals. Technical requirements can be found at the USGS 
+Astrogeology Planetary Photogrammetry site: 
+
+https://tinyurl.com/USGS-HiRISE-DTM
+
+Additional details are available in Section 4.3.7 of Appendix C of 
+NASA ROSES 2022. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+INVITATION TO CONTRIBUTE TO PSJ SPECIAL ISSUE: TOWARDS IN SITU 
+OBSERVATIONS OF PLANETARY SURFACE-ATMOSPHERE INTERACTIONS
+
+We invite the community to submit papers to a Planetary Science 
+Journal special issue, "Towards in situ observations of planetary 
+surface-atmosphere interactions". The goal of this issue is to 
+showcase recent research into surface-atmosphere interactions that can 
+be constrained by in situ observations of present-day processes and 
+their environmental drivers.
+
+Papers that focus on fundamental physical processes or activity on a 
+specific planetary body (including Earth) are welcome, as long as the 
+work relates to processes or investigations relevant to planetary 
+science studies. Mission or instrument or operations concept papers 
+are also welcome, as long as they are tied to key science questions.
+
+Papers can be submitted through November, 2022; the issue is targeted 
+for March, 2023. Please direct questions about this special issue to 
+Serina Diniega (serina.diniega@jpl.nasa.gov). The other guest editors 
+are Lou Giersch (JPL), Jack Gillies (DRI), Brian Jackson (BSU), 
+Alejandro Soto (SwRI), and Tim Titus (USGS). Submission instructions 
+and page charges are explained here:
+
+https://journals.aas.org/planetary-science-journal/
+
+Fee waivers for those with need can be requested through PSJ, please 
+email Serina for more information.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC AT JPL: COMETARY COMAE
+
+The postdoc will be involved in an effort to accurately retrieve the 
+abundance and distribution of water in the coma of Comet 
+67P/Churyumov-Gerasamenko to help understand the physical processes 
+driving outbursts and coma formation and evolution. The postdoc will 
+play a central role in modeling how small dust grains can radiatively 
+"pump" gases in the coma to higher temperatures than expected from 
+considerations of local thermal equilibrium, incorporating that model 
+into an existing coma simulation, and then using that code to retrieve 
+physical properties of the coma.  
+
+Qualifications:
+
+Candidate must have:
+- Ph.D. in planetary science or a related field
+- Experience with observational or theoretical studies of comae
+- Familiarity with spectral observations
+
+Desired qualifications include:
+- Experience with radio- or IR-wavelength observations
+- Familiarity with radiative transfer calculations and numerical 
+  modeling
+- Familiarity with systems in non-local thermodynamic equilibrium
+
+A complete description and instructions to apply are available at
+
+https://www.jpl.jobs/job/R2557/Postdoc-Study-of-Cometary-Comae-Rosetta-Mission
+
+Prospective candidates are encouraged to contact Dr. Hofstadter 
+(mark.hofstadter@jpl.nasa.gov) or Dr. von Allmen 
+(paul.vonallmen@jpl.nasa.gov) prior to submitting their application to 
+discuss their research interests.
+
+This position is available immediately, and applications will be 
+reviewed as they are received.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Dione's Thermal Inertia and Bolometric Bond Albedo Derived from
+Cassini/CIRS Observations of Solar Eclipse Ingress
+Carly J. A. Howett and John R. Spencer 2022 PSJ 3:192
+https://doi.org/10.3847/PSJ/ac82ab
+
+Topographically Influenced Evolution of Large-scale Changes in Comet
+67P/Churyumov-Gerasimenko's Imhotep Region
+Abhinav S. Jindal et al. 2022 PSJ 3:193
+https://doi.org/10.3847/PSJ/ac7e48
+
+Ring Seismology of the Ice Giants Uranus and Neptune
+Joseph A. A'Hearn et al. 2022 PSJ 3:194
+https://doi.org/10.3847/PSJ/ac82bb
+
+Releasing Atmospheric Martian Dust in Sand Grain Impacts
+T. Becker et al. 2022 PSJ 3:195
+https://doi.org/10.3847/PSJ/ac8477
+
+The Geologic Impact of 16 Psyche's Surface Temperatures
+Carver J. Bierson et al. 2022 PSJ 3:196
+https://doi.org/10.3847/PSJ/ac83a7
+
+Assessing the Detectability of Europa's Seafloor Topography from
+Europa Clipper's Gravity Data
+Ze-Wen Koh et al. 2022 PSJ 3:197
+https://doi.org/10.3847/PSJ/ac82aa
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

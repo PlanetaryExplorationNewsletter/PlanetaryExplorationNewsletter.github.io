@@ -1,0 +1,364 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 46 (November 7, 2021)
+PEN Website: https://planetarynews.org
+
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Aperiodic PDS Data Releases in 2021.10
+2. Planetary Geomorphology Image of the Month
+3. Mars Exploration Science Monthly Newsletter for November 2021
+4. Postdoc for PDS-ATM Archiving at New Mexico State University
+5. Low-Cost Science Mission Concepts for Mars Exploration: Location 
+   Selected
+6. White Paper on Biosignature Standards of Evidence
+7. [NASA] ROSES-21: Planetary Major Equipment and Facilities Changing 
+    to Planetary Science Enabling Facilities Program
+8. DART Boarder Program Indication of Interest due November 16
+9. 2022 Pierazzo International Student Travel Award
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2021.10
+
+In October 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+- 2021.10.29 Venus Express: ASPERA-4 ELS Background Data
+- 2021.10.22 MESSENGER: MAG Crustal Field Map
+- 2021.10.13 Mars Express: MaRS 13 volumes of Occultation measurements
+- 2021.10.13 VG1: PRA Saturn Calibrated Hi-Res Low Frequency Data
+- 2021.10.13 VG1: POS Saturn Ephemeris Data in Kronographic Coordinates
+- 2021.10.13 VG1: POS Saturn Ephemeris Data in Heliograhic Coordinates
+- 2021.10.13 VG1: PLS Saturn Data
+- 2021.10.12 Astro Material database, chemical analytic data, 
+  extraterrestrial
+- 2021.10.12 MRO: SHARAD RADARGRAM DATA
+- 2021.10.05 Mars Express: VMC raw EDRs and calibrated RDRs
+- 2021.10.04 Radio Science Documentation
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211031.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The November image of the month is now available at the IAG's 
+Planetary Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Martian Slope Streaks - Familiar yet Enigmatic 
+Phenomena?', contributed by Adomas Valantinas, Physikalisches 
+Institut, Universitat Bern, Switzerland.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho 
+
+or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR NOVEMBER 2021
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the 
+November 2021 edition of the Mars Exploration Science Monthly 
+Newsletter can be found attached and on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOC FOR PDS-ATM ARCHIVING AT NEW MEXICO STATE UNIVERSITY
+
+The Atmospheres Node (ATM) of NASA's Planetary Data System (PDS), 
+located in the Astronomy Department at New Mexico State University, is 
+seeking a postdoctoral scientist to provide technical and 
+computational expertise to support our archiving efforts, including a 
+new initiative to develop a data annex that will support the archiving 
+of atmospheric model outputs. The PDS-ATM Data Scientist roles and 
+responsibilities include the development of data archive pipelines and 
+archiving standards for atmospheric models; providing expertise in 
+model formats/outputs, storage and management of model output in cloud 
+storage; and interacting with various atmospheric modeling communities.
+
+Please see the job ad for more information concerning required and 
+desired experience, skills, and qualifications, and direct all 
+inquiries to Dr. Nancy Chanover, nchanove@nmsu.edu. Application 
+Deadline: Wednesday, December 15.
+
+https://jobregister.aas.org/ad/10433560
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LOW-COST SCIENCE MISSION CONCEPTS FOR MARS EXPLORATION: LOCATION 
+SELECTED
+
+The Organizing Committee for the Low-Cost Science Mission Concepts for 
+Mars Exploration workshop, scheduled for January 11-13, 2022, is 
+pleased to announce that the workshop venue has now been finalized; 
+the meeting will be held in the Westin Hotel in Pasadena, CA (191 N. 
+Los Robles Ave., Pasadena, CA 91101). The hotel has reserved a block 
+of rooms at reduced rates for workshop attendees; please use the 
+following link when reserving your lodging:
+
+https://tinyurl.com/JPLmeeting
+
+It is listed under 'JPL Meeting Jan2022'.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+WHITE PAPER ON BIOSIGNATURE STANDARDS OF EVIDENCE
+
+Dear Astrobiology Community, 
+
+In July, 2021 the Nexus for Exoplanet System Science (NExSS) and the 
+Network for Life Detection (NfoLD) Research Coordination Networks 
+hosted a community workshop on Biosignature Standards of Evidence. 
+During this workshop, participants developed a generalized framework 
+for biosignature detection and assessment, and discussed and 
+identified best practices needed to develop a reporting protocol for 
+potential biosignature detection. 
+
+The participants have now completed a draft white paper report 
+summarizing the workshop discussions and major findings. The white 
+paper sections describe the motivation for community development of 
+biosignature assessment and reporting protocols, a description of the 
+generalized assessment framework, worked examples of how the framework 
+could be applied for specific biosignatures and measurement 
+techniques, a discussion of how the framework can be applied 
+throughout a spaceflight mission life cycle, discussions on the 
+reporting protocol development, and a summary of key takeaways and 
+future work. 
+
+The workshop participants are now soliciting community comments and 
+offering members of the scientific community the opportunity to 
+co-sign the white paper on this website:
+
+https://www.nfold.org/soe-endorsements.
+
+The comment period closes November 10th.
+
+Vikki Meadows, Heather Graham, on behalf of the Biosignature Standards 
+of Evidence Workshop Participants
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ROSES-21: PLANETARY MAJOR EQUIPMENT AND FACILITIES CHANGING TO 
+PLANETARY SCIENCE ENABLING FACILITIES PROGRAM
+
+Program element C.17 of ROSES 2021 is being changed from "Planetary
+Major Equipment and Facilities" to the "Planetary Science Enabling
+Facilities (PSEF) Program". The Planetary Science Enabling Facilities
+Program Element is expected to solicit proposals as part of ROSES 2021
+for facilities and associated equipment to enable planetary science
+research. This is only for facility instruments. Non-facility
+instruments or equipment are not eligible for this new call. However,
+guidance on how to request non-facility instruments or equipment
+costing greater than or equal to $50,000, either as part of a new
+proposal or in support of existing awards will be added to C.1 The
+Planetary Science Research Program Overview at the time that the text
+of PSEF is released.
+
+For now the due dates will appear as "TBD" in Table 2 and Table 3 of
+ROSES-2021. Go to:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+It will also appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions concerning C.17 PSEF may be directed to Aaron Burton at
+aaron.burton@nasa.gov.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+DART BOARDER PROGRAM INDICATION OF INTEREST DUE NOVEMBER 16
+
+https://forms.gle/485qLEcgPyoaPag56
+
+The Double Asteroid Redirection Test (DART) Investigation Team is 
+reopening the "DART Boarders" program, intended to introduce advanced 
+graduate students and early career scientists (less than 7 years since 
+a terminal degree) regardless of nationality to the experience of 
+working on a mission team via an invitation to observe the DART 
+Investigation Team meeting January 18-21, 2022. 
+
+Unfortunately, we cannot offer support for time spent in the program, 
+but we anticipate a commitment of roughly 20-24 hours spread over the 
+week prior to and week of the team meeting.
+
+Respondents will be selected based upon anticipated impact to their 
+career path and alignment of their research interests with the mission 
+objectives, giving preference to candidates without existing 
+connections to the team via current advisor-student relationships. 
+DART recognizes and supports the benefits of having diverse and 
+inclusive communities and expects such values to be reflected in this 
+opportunity.
+
+Questions can be sent to andy.rivkin@jhuapl.edu with subject line 
+"DART Boarders". The indication of interest must be filled out by 
+Tuesday, November 16, 2021. Applicants will be notified of the outcome 
+by mid-December.
+
+For more information about the DART mission:
+
+https://dart.jhuapl.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2022 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+After monitoring the COVID pandemic and seeing upcoming conferences 
+increasingly scheduled in-person, the Planetary Science Institute is 
+pleased to announce the 2022 Pierazzo International Student Travel 
+Award.
+
+Application deadline: 9 PM PST, November 26, 2021
+
+Awards will be announced on or before December 6, 2021.
+
+This award is established by the Planetary Science Institute in memory 
+of Senior Scientist Betty Pierazzo to support and encourage graduate 
+students to build international collaborations and relationships in 
+planetary science. Two awards will be made each year, contingent upon 
+there being meritorious applications. One will be awarded to a 
+graduate student working on his or her Ph.D. at an institution within 
+the U.S. to support travel to a planetary science related meeting 
+(conferences and workshops) outside of the U.S. The second award will 
+be to a graduate student working on his or her Ph.D. at an institution 
+outside of the U.S. to support travel to a planetary science related 
+meeting within the U.S. These include general meetings that have 
+planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award consists of a certificate and up to $2000.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS 
+
+Posted at http://planetarynews.org/meetings.html
+
+October 26-28, 2022
+Apollo 17-ANGSA Workshop
+https://www.hou.usra.edu/meetings/ANGSAApollo17_2022/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+On the Fate of Interstellar Objects Captured by Our Solar System
+Kevin J Napier et al. 2021 PSJ 2:217
+https://doi.org/10.3847/PSJ/ac29bb
+
+Thermophysical and Compositional Analyses of Dunes at Hargraves 
+Crater, Mars
+A. Emran et al. 2021 PSJ 2:218
+https://doi.org/10.3847/PSJ/ac25ee
+
+Mass and Shape Determination of (101955) Bennu Using Differenced Data 
+from Multiple OSIRIS-REx Mission Phases
+Sander Goossens et al. 2021 PSJ 2:219
+https://doi.org/10.3847/PSJ/ac26c4
+
+The Determination of the Rotational State and Interior Structure of 
+Venus with VERITAS
+G. Cascioli et al. 2021 PSJ 2:220
+https://doi.org/10.3847/PSJ/ac26c0
+
+Do Oceanic Convection and Clathrate Dissociation Drive Europa's 
+Geysers?
+Nicole C. Shibley and Gregory Laughlin 2021 PSJ 2:221
+https://doi.org/10.3847/PSJ/ac2b2c
+
+Thermal and Tidal Evolution of Uranus with a Growing Frozen Core
+Lars Stixrude et al. 2021 PSJ 2:222
+https://doi.org/10.3847/PSJ/ac2a47
+
+Taurid Stream #628: A Reservoir of Large Cometary Impactors
+Hadrien A. R. Devillepoix et al. 2021 PSJ 2:223
+https://doi.org/10.3847/PSJ/ac2250
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

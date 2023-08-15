@@ -1,0 +1,360 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 6 (February 7, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 15th Conference of HelAS
+2. Summer Undergraduate Program in Planetary Research (SUPPR): Mentors 
+   Needed
+3. Requests for Endorsements for Next Generation Arecibo Telescope 
+   White Paper
+4. Mass Spectrometer Calibration Engineer
+5. Research Associate in Planetary Atmospheres, University of Leicester
+6. Job Announcement: Planetary Science Archive Science Lead at ESA
+7. Job Opportunity: Outreach and Diversity, Equity, and Inclusion
+   Activities Coordinator 
+8. Postdoc Opportunity on Hayabusa Return Samples
+9. Planetary Geomorphology Image of the Month
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers 
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+15TH CONFERENCE OF HELAS
+
+The 15th Hellenic Astronomical Conference will take place in Patras,
+Greece, July 5-8, 2021. 
+
+https://helas.gr/conf/2021/index.php
+
+The HelAS conference is the major scientific event of the Greek
+astronomical community. It occurs every two years in a different part
+of Greece, and brings together scientists with research interests in
+Astrophysics, Planetary Science, and Space Physics.
+
+Conference sessions
+Session 1: "Heliophysics and the Solar System"
+Session 2: "Extragalactic Astronomy and Astrophysics"
+Session 3: "Cosmology and Relativistic Astrophysics"
+Session 4: "Stars, Planets and the Interstellar Medium"
+
+Important dates:
+Registration & Abstract Submission opens: February 1, 2021
+Abstract Submission closes: April 30, 2021 
+Notification of Abstract Acceptance: May 17, 2021 
+Registration Deadline: May 31, 2021 
+Conference Program: June 18, 2021
+
+We look forward to seeing you in Patras!
+
+On behalf of the Scientific & Local Organizing committee,
+Prof. Vassilis Charmandaris, President of Hel.A.S.
+
+Even though we remain optimistic that world pandemic situation will
+improve and we will be able to meet in person in July, all measures are
+taken for the Conference to go virtual. A decision to that extent will
+be taken by April 30, 2021 and it will be announced in the conference
+website.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SUMMER UNDERGRADUATE PROGRAM IN PLANETARY RESEARCH (SUPPR): MENTORS
+NEEDED
+
+SUPPR will match you with a qualified undergraduate intern for 8 weeks
+during the summer. 
+
+https://www.lpi.usra.edu/suppr/
+
+SUPPR covers the costs of travel to and from your home institution,
+housing, and provides the intern with a stipend. If COVID-19 allows,
+the intern will be hosted at your home institution; if not, please note
+that we successfully completed remotely mentored internships in 2020,
+and mentors will be asked to consider that option for 2021.
+
+You are eligible to apply to be a SUPPR mentor if you hold funding from
+NASA's Solar System Workings (SSW). Mentor applications are due
+February 17 at midnight (Eastern Standard Time).
+
+Online mentor applications can be found at:
+
+https://www.lpi.usra.edu/suppr/mentors/
+
+Please email Dr. Tracy Gregg (tgregg@buffalo.edu) with any questions.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REQUESTS FOR ENDORSEMENTS FOR NEXT GENERATION ARECIBO TELESCOPE WHITE 
+PAPER
+
+The Arecibo Observatory (AO) staff, together with members of the
+scientific community, prepared the white paper "The Future of the
+Arecibo Observatory: The Next Generation Arecibo Telescope"", which
+presents a proposal to replace the legacy 305-m Arecibo telescope with
+a new, unparalleled instrument that will push forward the boundaries of
+Planetary Science, Space and Atmospheric Sciences, and Astronomy for
+decades to come.
+
+This white paper will be presented to the National Science Foundation
+(NSF) and will be shared with representatives from the U.S. Congress
+in February to request support for the construction of the Next
+Generation Arecibo Telescope (NGAT).
+
+The community support of this white paper is a crucial factor in the
+future of AO. Thus, we kindly ask you to sign this form of endorsement
+for the white paper and to share it with your colleagues (and students)
+in the science community. Our goal is to collect the majority of
+endorsements by February 10. 
+
+To access this white paper and more information:
+
+http://www.naic.edu/ao/ngat
+
+To endorse this white paper:
+
+https://forms.gle/uKPF36H3mBwiizrY9
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MASS SPECTROMETER CALIBRATION ENGINEER
+
+Applications are now being accepted for a mass spectrometer calibration
+engineer to support the development of flight and ground
+instrumentation at NASA's Planetary Environment Laboratory at
+NASA/Goddard Space Flight Center in Greenbelt, MD. The position is
+funded through UMBC and CRESST II.
+
+The ideal candidate will have strong programming skills and experience
+operating experimental setups. Duties will include developing software
+for instrument control and data acquisition/display on the ground and
+during flight. We have a considerable "code base" from development for
+previous missions: MSL/SAM (Mars), LADEE/NMS (Moon), MAVEN/NGIMS
+(Mars), ExoMars/MOMA (Mars), and SEAL/NMS (Moon) and several new
+missions.
+
+Desired skills include:
+- BS or MA in computer science, engineering, or astronomy
+- C++ for GUI applications
+- Experience with Qt development
+- Comfortable on multiple computer platforms (Linux, Mac, Windows)
+- Experience with communication / data acquisition software development
+- Some python experience a plus
+- Basic laboratory / instrumentation experience. Experience on UH
+  vacuum systems is a plus
+- Good troubleshooting skills
+- Basic electronics knowledge (DVM, oscilloscopes, ESD, safety)
+- Basic physics and chemistry knowledge
+
+Applications received by February 14, 2021 will receive best
+consideration.
+
+https://cresst2.umd.edu/opportunities/researchopp.html
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+RESEARCH ASSOCIATE IN PLANETARY ATMOSPHERES, UNIVERSITY OF LEICESTER
+
+Salary: Grade 7 34,804 to 40,322 pounds per annum.
+Funding is available until 31 March 2022 with a possibility of
+extension.
+Closing date: 28 February 2021
+
+The School of Physics and Astronomy at the University of Leicester
+invites applications for one or more Research Associates in Planetary
+Atmospheric Science. The Research Associates will join the atmospheres
+team led by Dr. Leigh Fletcher, tasked with addressing the scientific
+aims of a European Research Council (ERC) grant to explore the
+atmospheres of the giant planets. The "GIANTCLIMES" programme
+investigates natural cycles of meteorology, circulation, and chemical
+processes shaping the four giant planets over long spans of time. The
+successful applicant will be expected to develop and expand on a
+pipeline for interpreting planetary observations from the James Webb
+Space Telescope and ground-based facilities. We are therefore
+particularly interested in candidates with expertise in planetary data
+analysis, planetary atmospheres, and spectral inversion techniques, but
+all applicants with a strong background in planetary science are
+encouraged to apply. Enquiries to Dr. Leigh Fletcher on
+leigh.fletcher@le.ac.uk.
+
+Full Details:
+
+tinyurl.com/2urxgr4b
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JOB ANNOUNCEMENT: PLANETARY SCIENCE ARCHIVE SCIENCE LEAD AT ESA
+
+Announcing a new vacancy at the European Space Agency as Science Lead
+of the Planetary Science Archive and Archive Scientist of a Planetary
+mission, based at ESAC, near Madrid, in Spain. You can find all the
+details at:
+
+tinyurl.com/4pak08dm
+
+The deadline for applications is March 16, 2021.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB OPPORTUNITY: OUTREACH AND DIVERSITY, EQUITY, AND INCLUSION
+ACTIVITIES COORDINATOR 
+
+The Department of Earth, Planetary, and Space Sciences at UCLA is
+seeking to fill an administrator position that will focus on diversity,
+equity, and inclusion. Position responsibilities will include
+coordinating departmental outreach efforts, coordinating initiatives to
+improve diversity, equity, and inclusion in the geosciences at UCLA and
+beyond, teaching 1-2 courses per academic year, and writing proposals
+to support diversity and outreach activities. 
+
+Requirements for the position include a Ph.D. in geosciences or related
+field and a demonstrated commitment to improving diversity, equity, and
+inclusion. Teaching and grant writing experience are preferred. 
+
+For more information see the full job description here:
+
+https://recruit.apo.ucla.edu/JPF06093
+
+Interested applicants are encouraged to contact Mackenzie Day
+(daym@epss.ucla.edu) or Carolina Lithgow-Bertelloni (clb@epss.ucla.edu) 
+with questions about the position. Applications will be collected until 
+February 28, 2021. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC OPPORTUNITY ON HAYABUSA RETURN SAMPLES
+
+The postdoc will be in charge of the coupled analysis of mineral
+analogues subjected to annealing in reducing and oxidizing conditions
+and to low-energy irradiation. These conditions will be useful to
+interpret spectra collected on true samples during the second half of
+year 2021 and 2022. The postdoc will also present their work at the
+monthly 'Min-Pet' group meetings. During the second half of 2021,
+non-destructive analysis of the real grains will be performed by our
+two teams. The postdoc, primarily located at the Institut de
+Mineralogie, de Physique des Materiaux et de Cosmochimie (IMPMC), will
+participate in all the analytical sessions of the coupled methods in
+APS in Chicago and SOLEIL (Saclay). These sessions will be carried out
+at least from July to November 2021 and later in 2022. The postdoc will
+be a pivotal member of the team, ideally specialized on the fate of
+hydrous silicates during secondary processes.
+
+The research will take place at IMPMC in Paris, France, a 
+pluridisciplinary departement where research relies on the combination 
+of approaches from material science, Earth science and biology.
+
+For more information and how to apply:
+
+https://euraxess.ec.europa.eu/jobs/595945
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The February image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "The Jezero crater western delta, Mars",
+contributed by Axel Noblet (Laboratoire de Planetologie et Geodynamique
+de Nantes, France).
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter: @PlanetGeomorpho 
+
+or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Examination of Fragment Species in the Comae of Several Comets Using an
+Integral Field Unit Spectrograph
+Donna M. Pierce and Anita L. Cochran 2021 PSJ 2:19
+http://doi.org/10.3847/PSJ/abd037
+
+Testing Short-term Variability and Sampling of Primary Volatiles in
+Comet 46P/Wirtanen
+Younas Khan et al. 2021 PSJ 2:20
+http://doi.org/10.3847/PSJ/abc95c
+
+Quantifying the Hypervolatile Abundances in Jupiter-family Comet
+46P/Wirtanen
+Adam J. McKay et al. 2021 PSJ 2:21
+http://doi.org/10.3847/PSJ/abd71d
+
+The Sizes and Albedos of Centaurs 2014 YY 49 and 2013 NL 24 from
+Stellar Occultation Measurements by RECON
+Ryder H. Strauss et al. 2021 PSJ 2:22
+http://doi.org/10.3847/PSJ/abd62a
+
+A Deep Search for Emission from "Rock Comet" (3200) Phaethon at 1 AU
+Quanzhi Ye et al. 2021 PSJ 2:23
+http://doi.org/10.3847/PSJ/abcc71 
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,261 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 4 (January 13, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Matt Balme, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Offers Mission PI Training Course
+2. [NASA] Astrobiology Institute Proposal Notice
+3. [NASA] PDS Announces First Messenger Data Release
+4. 2nd Annual Small Spacecraft Summer Study Program (S4P)
+5. Application Deadline Extended for 2008 Lloyd V. Berkner Space 
+   Policy Internship Program
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] OFFERS MISSION PI TRAINING COURSE
+
+NASA Science Mission Directorate to Sponsor NASA Academy of Program,
+Project, and Engineering Leadership (APPEL) Mission Principal
+Investigator Training Course.
+
+Beginning in 2008, the NASA Science Mission Directorate (SMD) will be
+sponsoring a series of offerings of a one-week Mission Principal
+Investigator (PI) Training Course to help mission PIs lead NASA
+science missions more effectively.
+
+The Mission PI Training Course has been developed and will be
+delivered by the NASA Academy of Program, Project and Engineering
+Leadership (APPEL) under the direction of Dr. Edward Hoffman of the
+Office of the Chief Engineer.  The course will cover material
+including the responsibilities of the PI, NASA policies and
+directives, project life cycles and reviews, project management and
+systems engineering, project assessment and control, NASA-provided
+services, and project-centered leadership fundamentals.  The initial
+course offering is planned for June 15-20, 2008 at a soon to be
+announced location convenient to the Washington, DC area. The course
+will subsequently be offered three or more times per year.
+
+Mission PIs have full responsibility for the scientific integrity and
+all other aspects of their missions including the execution of the
+mission investigation within the committed cost and schedule.  Due to
+this level of responsibility, existing mission PIs will have a
+mandatory requirement to complete the course within three years of
+the initial course offering date, and PIs of missions subsequently
+selected to enter Phase B will have a mandatory requirement to
+complete the course within one year from their selection. The Mission
+PI Training Course requirement is in addition to, and not a
+substitute for, the experience requirements for the PIs of all
+mission proposals submitted in response to SMD Announcements of 
+Opportunity.
+
+Enrollment for the course will be limited to approximately 35
+participants per class offering.  NASA will cover the cost of the
+course including all food and lodging, but participants will be
+responsible for their own transportation to and from the course and
+for their salary during the weeklong course.
+
+To receive consideration for the initial course offering, please send
+an email message with your electronic contact coordinates to
+katherine.thomas@asrcms.com with "Register: Mission PI Training
+Course" in the title.  Aspiring mission PIs should also include a
+one-page summary of their relevant experience and describe their
+interest in becoming a mission PI.  The email message must be
+received by January 31, 2008 in order to receive consideration for
+the initial course offering, and participants for the initial class
+will be selected from among those responding.  Please forward any
+questions about the course to katherine.thomas@asrcms.com with
+"Question: Mission PI Training Course" in the title.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ASTROBIOLOGY INSTITUTE PROPOSAL NOTICE
+
+On January 8, 2008, the National Aeronautics and Space Administration
+(NASA) Science Mission Directorate (SMD) is releasing a Cooperative
+Agreement Notice (NNH08ZDA002C) soliciting new institutional members
+to the NASA Astrobiology Institute (NAI).  The NAI CAN (Cycle-5) is
+responsive to the recommendations of the recent NRC study (Assessment
+of the NASA Astrobiology Institute, 2007. Go to 
+
+http://www7.nationalacademies.org/ssb/
+
+for the report. Proposers will be required to clearly articulate an 
+innovative, interdisciplinary, astrobiology research program, together 
+with plans to advance the full scope of NAI objectives as defined in 
+the Institute's Mission Statement. See NAI website: 
+
+http://nai.nasa.gov/ 
+
+Proposers may also choose to focus their research on preparing for 
+strategic mission objectives in astrobiology.  NASA anticipates making 
+$10-12M per year available for this selection, leading to at least 7 
+and possibly several more awards (approximately one-third of which will 
+be focused on preparing for strategic mission objectives), each of 5 
+years duration.
+
+Notices of Intent (NOIs) are due February 22, 2008, and proposals are
+due April 11, 2008.
+
+Obtain additional programmatic information from: Dr. Carl Pilcher,
+Director, NASA Astrobiology Insitute, Ames Research Center, Moffett
+Field, CA 94035; Tel: (650) 604-0022; email: can5@nasa.gov.
+
+[Editor Note: Upon its release date, this Cooperative Agreement
+Notice will be available electronically from 
+http://nspires.nasaprs.com/ (select "Solicitations" then select "Open
+Solicitations" then select "NNH08ZDA002C").]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS ANNOUNCES FIRST MESSENGER DATA RELEASE
+
+The Planetary Data System announces the first release of data from 
+the MErcury Surface, Space ENvironment, GEochemistry, and Ranging
+(MESSENGER) mission. The release includes EDR level data acquired 
+during cruise, the Earth flyby (Aug 2, 2005), and the 1st (Oct 24,
+2006) and 2nd (June 5, 2007) Venus flybys. Not all instruments
+acquired data during each of these mission phases.
+
+Data sets from the following experiments are now available:
+
+EPPS (Energetic Particle and Plasma Spectrometer) - PPI
+GRNS (Gamma Ray and Neutron Spectrometer) - GEO
+MAG (Magnetometer) - PPI
+MASCS (Mercury Atmosphere and Surface Composition Spectrometer)
+- ATM, GEO
+MDIS(Mercury Dual Imaging System) - IMG
+MLA (Mercury Laser Altimeter) - GEO
+RS (Radio Science) - GEO
+XRS (X-Ray Spectrometer) - GEO
+
+SPICE kernels for all instruments are also available from the NAIF 
+Node.
+
+MESSENGER data are archived at the PDS Atmospheres (ATM),
+Geosciences (GEO), Imaging (IMG), NAIF, and Planetary Plasma
+Interactions (PPI) Nodes. The data can be accessed from these
+nodes' web sites and from the main PDS home page: 
+
+http://pds.nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+2ND ANNUAL SMALL SPACECRAFT SUMMER STUDY PROGRAM (S4P)
+
+Summer 2008
+
+The University Affiliated Research Center at NASA Ames Research Center
+in Mountain View, CA, will host its 2nd annual Small Spacecraft Summer
+Study Program (S4P).  Twelve students will be selected to participate
+in an in-depth 10-week mentorship program to develop and test ideas 
+for small spacecraft exploration of Near Earth Objects ideas that 
+will ultimately lead to a detailed mission proposal.
+
+The UARC Systems Teaching Institute seeks highly motivated graduate  
+students in electrical, mechanical, aerospace, and systems  
+engineering, astrophysics, planetary sciences, and project or  
+business management.  Advanced undergraduates with relevant  
+experience will also be considered.
+
+Additional Information and Application Instructions at: 
+
+http://uarc.ucsc.edu/sti/s4p_08.shtml
+
+Inquiries can be addressed to:
+
+Prof. Erik Asphaug: asphaug@mac.com
+Natalie Batalha, Director, UARC Systems Teaching Institute:  
+Natalie.Batalha@sjsu.edu
+
+Application Deadlines:  Feb 1, 2008 (foreign nationals)
+Friday, March 21, 2008 (US citizens)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+APPLICATION DEADLINE EXTENDED FOR 2008 LLOYD V. BERKNER SPACE POLICY 
+INTERNSHIP PROGRAM
+
+As part of its celebration of the 50th anniversary of its founding, 
+the National Research Council's Space Studies Board (SSB) has expanded 
+the scope of the Space Policy Intern program it has operated since 1992
+by initiating the Lloyd V. Berkner Space Policy Internships. The goal 
+of the program is to provide promising undergraduate and graduate 
+students with the opportunity to work in the area of civil space 
+research policy in the Nation's capital, under the aegis of the SSB. 
+The Lloyd V. Berkner Space Policy Internships are offered twice 
+annually. The summer program is restricted to undergraduates and the 
+autumn program is open to both undergraduate and graduate students. The
+deadline for applications for the summer 2008 program has been extended
+to February 1, 2008. The deadline for applications to the autumn 
+program is June 16, 2008. Additional details, including eligibility 
+criteria and application procedures, can be found at: 
+
+http://tinyurl.com/255p4q
+
+[Editor Note: The link above will automatically redirect you to the
+relevant website]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 8-9, 2008
+Vernadsky-Brown Microsymposium 47: Early Climate and Weathering on 
+Mars
+http://www.planetary.brown.edu/html_pages/professional.htm
+Houston, TX
+
+June 8-11, 2008
+The Fifth Annual Planetary and Terrestrial Mining Sciences Symposium 
+(PTMSS)
+http://www.ptmss.com
+Montreal, Canada
+
+July 20-26, 2008
+Topical Problems of Nonlinear Wave Physics-2008
+http://www.nwp.sci-nnov.ru/
+Nizhny Novgorod, Russia
+
+September 29 - October 3, 2008
+59th International Astronautical Congress
+http://www.iafastro.com
+Glasgow, Scotland
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************

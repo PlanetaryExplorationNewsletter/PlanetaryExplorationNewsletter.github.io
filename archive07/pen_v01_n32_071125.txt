@@ -1,0 +1,231 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 32 (November 25, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] New Proposal Opportunity for Astrobiology Science and 
+   Technology Instrument Development, Including Concept Studies for
+   Small Payloads and Satellites (ASTID)
+2. [NASA] Deferral of Proposals for New Horizons at Jupiter Data 
+   Analysis
+3. [NASA] Suspension of Supplemental E/PO Proposal Opportunities
+4. [NASA] Education and Public Outreach Division Support Groups 
+   Cooperative Agreement Notice Postponed
+5. [NASA] PDS Releases New Mars Soil Analog Laboratory Data Set 
+6. [NASA] PDS Mars Odyssey Radio Science Data Release 66
+7. AbSciCon 2008 Abstract Deadline Extended
+8. Touchdown on Titan Webcast Lecture
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NEW PROPOSAL OPPORTUNITY FOR ASTROBIOLOGY SCIENCE AND TECHNOLOGY
+INSTRUMENT DEVELOPMENT, INCLUDING CONCEPT STUDIES FOR SMALL PAYLOADS 
+AND SATELLITES (ASTID)
+
+Notices of Intent to propose are due December 14, 2007, and proposals 
+are due February 15, 2008.
+
+[Editor note: for the full announcement, go to:
+
+http://nspires.nasaprs.com/external/viewrepositorydocument/
+cmdocumentid=119318/Amendment%2028.pdf ]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DEFERRAL OF PROPOSALS FOR NEW HORIZONS AT JUPITER DATA ANALYSIS
+
+The New Horizons at Jupiter Data Analysis program (NH-JDAP) will not 
+be competed in 2007. A broader Jupiter Data Analysis Program (JDAP) 
+will be competed in ROSES 2008 (to be released mid-February 2008).
+
+NH-JDAP will be broadened to include the analysis of older data on 
+the Jupiter system, not just data from the New Horizons mission. This 
+is appropriate in that the Galileo mission data returned after 
+calendar year 2000 was never open to a Data Analysis Program. 
+Furthermore the planetary community has been greatly stimulated by 
+the Cassini mission and the new Flagship studies on the Jupiter 
+system, and this provides a perfect opportunity to support further 
+mission studies in this area.  Voyager data will also be eligible.
+
+[Editor Note: for the full announcement, go to 
+
+http://nspires.nasaprs.com/external/viewrepositorydocument/
+cmdocumentid=119613/Amendment%2029.pdf ]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SUSPENSION OF SUPPLEMENTAL E/PO PROPOSAL OPPORTUNITIES
+
+The opportunity for selected ROSES investigators to submit proposals 
+for supplemental E/PO awards is suspended as of December 31, 2007, 
+pending a global review of the SMD E/PO portfolio, as the Science 
+Mission Directorate moves towards the goal of reducing the proposal 
+writing burden on scientists while increasing their science 
+productivity and efficiency.  In the interim, no further proposals 
+are solicited. However, limited selections will be made from those 
+supplemental E/PO proposals submitted by December 31, 2007.
+
+[Editor Note: for the full announcement, go to
+
+http://nspires.nasaprs.com/external/viewrepositorydocument/
+cmdocumentid=120480/Amendment%2030.pdf ]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] EDUCATION AND PUBLIC OUTREACH DIVISION SUPPORT GROUPS 
+COOPERATIVE AGREEMENT NOTICE POSTPONED
+
+NASA Cooperate Agreement Notice NNH07ZDA002C entitled "Education and 
+Public Outreach Division Support Groups" is postponed until further 
+notice. No proposals are solicited at this time.
+
+SMD will convene an EPO working group to assess the need for EPO 
+support activities with respect to the other EPO efforts and 
+directions the community and NASA believe are most needed at this 
+time. SMD cannot make this decision until it decides how much effort 
+to put into the various EPO areas: informal vs formal, elementary and 
+secondary education vs college and beyond, etc. This decision-making 
+will include community input.
+
+[Editor Note: for the complete announcement, go to
+
+http://nspires.nasaprs.com/external/viewrepositorydocument/
+cmdocumentid=119926/CAN%20Postponement.pdf ]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS RELEASES NEW MARS SOIL ANALOG LABORATORY DATA SET 
+
+The Planetary Data System announces the release of a new laboratory
+data set, the Mars Analog Soil Observations from the Bloomsburg
+University Goniometer (BUG) Laboratory. These are bidirectional
+reflectance distribution function measurements of five Mars soil
+analogs, acquired using the MER Pancam flight spare filters. The data
+set was provided by Michael Shepard, Bloomsburg University, Bloomsburg,
+Pennsylvania.
+
+It is available from the PDS Geosciences Node web site:
+
+http://pds-geosciences.wustl.edu/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS MARS ODYSSEY RADIO SCIENCE DATA RELEASE 66
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey data for the RSS instrument.
+
+To access the RSS data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20071120.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be downloaded from:
+
+http://starbrite.jpl.nasa.gov/pds/index.jsp
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ABSCICON 2008 ABSTRACT DEADLINE EXTENDED
+
+AbSciCon (Astrobiology Science Conference): 14-17 Arpil 2008
+Santa Clara, CA
+
+http://abscicon.seti.org/
+
+Abstract deadline extended to December 3rd 2007
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TOUCHDOWN ON TITAN WEBCAST LECTURE
+
+The Royal Society is organising a free lecture on Monday 3 December at
+6.30pm GMT (1:30pm EDT) that you and your colleagues may be interested
+in.
+
+Professor John Zarnecki of the Centre for Earth, Planetary, Space and
+Astronomical Research (CEPSAR) will be delivering the public lecture
+entitled "Touchdown on Titan". 
+
+Further details can be found at:
+
+http://www.royalsoc.ac.uk/event.asp?id=7170. 
+
+The lecture will be webcast live from our website at:
+
+http://www.royalsoc.ac.uk
+
+and then made available as a view-on-demand video from the video
+archive at:
+
+http://www.royalsoc.ac.uk/live
+
+We do not take reservations for our evening public lectures but
+allocate seats on a first-come-first-served basis. Doors will open
+at 5.45pm
+
+Laura Howlett, Events Officer, Science Communication, The Royal Society
+
+http://www.royalsoc.ac.uk
+
+The Royal Society
+6-9 Carlton House Terrace
+London SW1Y 5AG
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings added.
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

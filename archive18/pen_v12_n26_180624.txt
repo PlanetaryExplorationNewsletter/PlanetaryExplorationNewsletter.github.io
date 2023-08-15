@@ -1,0 +1,531 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 26 (June 24, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session EP031: Planets as Experiments - Surface Processes in 
+   Extraterrestrial Environments
+2. AGU Session P004: Balloons in Earth and Planetary Sciences 
+   - Research, Applications, and Emerging Concepts
+3. AGU Session P020: From the Earth to the Moons - Unraveling the 
+   Geologic, Oceanographic and Chemical Mysteries of Ice and Ocean 
+   Worlds
+4. AGU Session P028: Observations of Planets Near and Far with 
+   Next-Generation Telescopes
+5. AGU Session P036: Regolith Development on Icy and Rocky Surfaces 
+6. AGU Session P047: The Effects of Impact Cratering in Mafic Rocks 
+   and Minerals 
+7. AGU Session P048: The Future of Planetary Atmospheric, Surface, and 
+   Interior Science Using Radio and Laser Links
+8. AGU Session P053: The Uranus and Neptune Systems and Their 
+   Relation to Other Planets
+9. AGU Session SM007: Magnetospheres in the Inner Solar System
+10. Thermal Models for Planetary Science III (TherMoPS III)
+11. GSA Planetary Geology Division Ronald Greeley Award Deadline
+12. Post-Doctoral Position in Planetary Atmospheric Science
+13. Job Announcement: Observatory Scientists at Arecibo Observatory
+14. New OPAG Chair and Steering Committee Members
+15. Reminder: Comments on 2018 OPAG Goals Document are due July 2, 2018
+16. [NASA] PDS: LRO Release 34
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION EP031: PLANETS AS EXPERIMENTS - SURFACE PROCESSES IN
+EXTRATERRESTRIAL ENVIRONMENTS
+
+This session is cross-listed and co-organized with Planetary Sciences.
+
+Session description: Quantitative models for surface processes have 
+been derived for Earth systems. When applied to other planetary 
+bodies, these Earth-based models can provide critical insights into 
+the geologic history of the Solar System. In return, planetary 
+surfaces across the Solar System offer a unique opportunity to test 
+these models under conditions often unachievable on Earth. We invite 
+a range of contributions in the field of planetary surface processes 
+with an emphasis on fluid and granular flows (fluvial, eolian, glacial, 
+mass wasting, coastal, etc.) and that use planetary analogs, 
+laboratory experiments, theoretical and numerical modeling, and 
+planetary-exploration data from orbiters, landers, and rovers. This 
+session's goal is to explore the interplay between quantitative models 
+for planetary surface processes and new planetary exploration data that 
+often challenge these models. We intend this session to foster more 
+collaboration between members of the PS and EPSP sections. Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/44624
+
+Session conveners: Mathieu Lapotre (Harvard), Marisa Palucis 
+(Dartmouth), Alex Morgan (Smithsonian), and Ryan Ewing (Texas A&M).
+
+Abstract Deadline - August 1, 2018, 11:59 PM EDT
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P004: BALLOONS IN EARTH AND PLANETARY SCIENCES - RESEARCH, 
+APPLICATIONS, AND EMERGING CONCEPTS
+
+Scientific balloons have greatly expanded our capabilities to 
+investigate geophysical phenomena on the Earth and beyond. In Earth 
+science, they can fill the gap between Earth and space-based 
+observations, offer large coverage areas, and enable an aerial 
+perspective at a fraction of the cost of a satellite mission. In 
+planetary exploration, they offer opportunities for remote sensing of 
+atmospheric and surface process from a close range. Programs such as 
+the NASA High Altitude Student Platform have also been instrumental in 
+increasing student involvement in the sciences. This session will be 
+dedicated to discussing current and planned scientific ballooning 
+initiatives in the Earth, atmospheric, and planetary sciences. We 
+invite presentations on balloon platforms experiments. Topics can 
+include but are not limited to research from atmospheric sciences 
+(including atmospheric chemistry), geomagnetism, planetary sciences, 
+and seismology. Presentations may report results from past experiments, 
+conceptual design, or future experiments. Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/43906
+
+For queries, contact Siddharth Krishnamoorthy at
+Siddharth.Krishnamoorthy@jpl.nasa.gov
+
+Abstract submission deadline: August 1, 2018
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P020: FROM THE EARTH TO THE MOONS - UNRAVELING THE
+GEOLOGIC, OCEANOGRAPHIC AND CHEMICAL MYSTERIES OF ICE AND OCEAN WORLDS
+
+Cross-listed with planetary, cryosphere, and ocean sciences, we want to 
+bring together studies of ice and ocean worlds: those in our own solar 
+system (including Earth!), possible analogues in extra-solar systems, 
+and the associated geological, geochemical and oceanographic processes 
+that might contribute to the evolution (habitability included) of ices, 
+oceans and their interactions. Seeking to bridge Earth and planetary 
+studies from Mercury to Pluto and all satellites in between, we 
+encourage contributions on: in-situ/remote sensing observations; 
+theoretical and laboratory work; analog field work investigations. 
+Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/45706
+
+We hope to see you in Washington, D.C. this December, discoveries 
+abound! It will be fun!
+
+Catherine Walker (JPL), Steve Vance (JPL), Chris German (WHOI) and 
+Britney Schmidt (Georgia Tech)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P028: OBSERVATIONS OF PLANETS NEAR AND FAR WITH 
+NEXT-GENERATION TELESCOPES
+
+We invite abstracts focused on understanding how future large 
+observatories can drive new discoveries and enable powerful comparative 
+planetology on planets, moons, and small bodies within the solar system 
+and beyond in this AGU session.
+
+Session Description: Future observatories can enable groundbreaking 
+planetary science in the solar system and beyond. Large-aperture 
+telescopes may obtain flyby or orbiter-quality imaging and 
+spectroscopic data from many solar system objects. This would allow for 
+monitoring of, e.g. possible geyser activity on icy moons or storms on 
+the giant planets. Beyond the solar system, these same future large 
+observatories could discover and characterize many nearby exoplanets, 
+some of which may be habitable and could be examined for signs of life. 
+The worlds of our solar system guide our understanding of other planets 
+elsewhere as nearby data-rich targets, while exoplanets help place 
+Earth and our solar system into a broader context.
+
+Abstracts may be submitted at this link: 
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/48713  
+
+Abstracts are due August 1, 2018, 11:59 PM EDT
+
+Session conveners:
+
+Giada Arney (NASA GSFC)
+Heidi Hammel (Association of Universities for Research in Astronomy) 
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P036: REGOLITH DEVELOPMENT ON ICY AND ROCKY SURFACES
+
+Session Description: The surfaces of airless worlds such as the Moon 
+and icy satellites are covered with impact-generated regolith layers. 
+In the absence of an atmosphere, processes such as impact gardening, 
+sputtering, thermal segregation, mass wasting, sintering, and other 
+processes will alter the ice or rock material, acting together over 
+the age of the surface (tens to hundreds of millions of years for icy 
+satellites, up to billions of years for rocky surfaces such as the 
+Moon). This session will focus on the development of regoliths on both 
+icy and rocky surfaces. Understanding regolith properties is 
+essential to consider surface-subsurface transport rates, surface 
+modification / preservation timescales, and physical properties 
+relevant to future spacecraft landing (such as strength and porosity). 
+Abstracts that consider observational, theoretical, and laboratory 
+investigations of regolith are encouraged, particularly those that 
+compare and contrast regolith development on icy vs. rocky surfaces.
+Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/53226
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P047: THE EFFECTS OF IMPACT CRATERING IN MAFIC ROCKS AND 
+MINERALS
+
+This session covers recent and ongoing work focused on impact cratering 
+and shock effects in mafic rocks and minerals (including but not 
+limited to olivine, pyroxene, and plagioclase). We seek contributions 
+that involve field, laboratory, and remote studies of terrestrial, 
+extraterrestrial, or experimental cratering.
+
+The abstract submission form is currently open and will close on 
+Wednesday, August 1, 2018. The session is currently listed as an 
+"eLightning session" but will be given poster/oral sessions if there 
+are enough submissions. We encourage you and your students to consider 
+this session. Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/50476
+
+If you have any questions, please feel free to contact any of us.
+
+Regards,
+
+Steven Jaret, Melinda Rucks, and Shawn Wright
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P048: THE FUTURE OF PLANETARY ATMOSPHERIC, SURFACE, AND
+INTERIOR SCIENCE USING RADIO AND LASER LINKS
+
+Session Description: Radio Science techniques have advanced solar 
+system exploration for over five decades. In this session, ongoing and 
+planned innovations that will significantly enhance the field will be 
+presented including planetary atmospheric, surface, and interior 
+investigations that contribute to expanding the frontiers of solar 
+system exploration in diverse areas such as:
+
+- determining the thickness of the ice sheets of ocean worlds
+- constraining the interior structures of the planets and small bodies
+- monitoring of planetary atmospheric dynamics and improvement of 
+  climate models
+- studying the scattering and other properties of planetary surfaces
+- research in fundamental physics and solar system dynamics.
+
+Technology topics include:
+
+- design of small spacecraft networks and constellations
+- advances in flight and ground instrumentation
+- advancement in space clock technologies
+- novel communications architectures including optical links and 
+  advances in radio and laser technologies
+- new techniques and instrumentation for entry probe radio science.
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/44126
+
+Session Conveners:
+David H. Atkinson (David.H.Atkinson@jpl.nasa.gov) and Sami Asmar, JPL
+Erwan M. Mazarico, NASA GSFC
+Luciano Iess, Universita La Sapienza
+
+Abstract Deadline: August 1, 2018, 11:59 PM EDT
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P053: THE URANUS AND NEPTUNE SYSTEMS, AND THEIR RELATION TO
+OTHER PLANETS
+
+This session encompasses all aspects of ice-giant systems: The 
+magnetospheres, satellites, rings, atmospheres, and interiors of Uranus 
+and Neptune; their formation and evolution; and their relation to other 
+planets in and beyond our solar system. Exploring Uranus and Neptune 
+will reveal how they form, how their magnetic fields are generated, how 
+their magnetospheres interact with the solar wind, the energy balance 
+of their atmospheres, and the nature of their rings and satellites, 
+particularly those seen to be active (Triton) or with young surfaces 
+(Miranda, Ariel). Radial migration of the ice giants may have shaped 
+the solar system as we know today. Looking beyond, the Kepler mission 
+has shown that ice giants are common in our galaxy: most planets known 
+today are thought to be ice giants. Observations, modeling, and theory 
+related to the ice giants will inform the design of missions to Uranus 
+and Neptune which are currently under consideration. Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/50273
+
+Conveners: Kunio M Sayanagi, Elizabeth P Turtle, Xin Cao, and 
+Krista M Soderlund
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION SM007: MAGNETOSPHERES IN THE INNER SOLAR SYSTEM
+
+Session description: The structure and dynamics of each planetary 
+magnetosphere (intrinsic and induced) in the inner solar system are 
+driven by a unique set of factors including the nature of its 
+magnetization, atmosphere-ionosphere coupling, and local solar wind 
+parameters. To provide a forum for discussion of recent data analysis 
+and modeling efforts concerning the inner planet magnetospheres, this 
+session welcomes submissions on the intrinsic magnetospheres of Mercury 
+and Earth, as well as the induced magnetospheres of Venus and Mars. It 
+will focus on general magnetospheric processes including, but not 
+limited to: solar wind-magnetosphere interactions, 
+magnetosphere-ionosphere coupling, plasma acceleration and transport, 
+magnetic reconnection, wave instabilities, magnetotail dynamics, and 
+bow shock physics. We strongly encourage comparative studies of these 
+inner solar system magnetospheres with each other or with other 
+planetary magnetospheres throughout the solar system. Go to:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/44585
+
+Session conveners: Gina DiBraccio (NASA GSFC), Leonardo Regoli 
+(University of Michigan), Daniel Gershman (NASA GSFC) and Marissa Vogt 
+(Boston University)
+
+Abstract Deadline: August 1, 2018, 11:59 PM EDT
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+THERMAL MODELS FOR PLANETARY SCIENCE III (THERMOPS III)
+
+We'd like to announce a workshop on Thermal Models for Planetary 
+Science III (TherMoPS III) which will take place at the Hungarian 
+Academy of Sciences, Budapest, Hungary, 20-22 Feb 2019:
+
+http://thermops2019.hu/
+
+The workshop follows up on the discussions and results of TherMoPS I 
+(Beaulieu sur Mer, France, Sep 15-17, 2008) and TherMoPS II (Puerto de 
+la Cruz, Tenerife, Spain, Jun 3-5, 2015). The main topic is the 
+modelling and interpretation of thermal emission measurements of small
+bodies in our Solar System.
+
+Registration will open soon.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+GSA PLANETARY GEOLOGY DIVISION RONALD GREELEY AWARD DEADLINE
+
+Nominations for the GSA Planetary Geology Division Ronald Greeley Award 
+for Distinguished Service are due June 30, 2018.
+
+This award may be given to those members of the Planetary Geology 
+Division (PGD) of the Geological Society of America (GSA), and those 
+outside of the PGD and GSA, who have rendered exceptional service to 
+the PGD for a multi-year period. Send nominations for the award, which 
+should include a description of what the nominee has given to the PGD 
+community, to Sharon Wilson Purdy (purdys@si.edu) or any of the PGD 
+board members by June 30th. The award consists of a certificate signed 
+by the Chair that will be presented Division's Business Meeting/Awards 
+Reception at the 2018 Annual Meeting in Indianapolis, Indiana 
+(4-7 November).
+
+More information about the award and nomination process can be found 
+at: 
+
+http://rock.geosociety.org/pgd/distinguished-service.html
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POST-DOCTORAL POSITION IN PLANETARY ATMOPSHERIC SCIENCE
+
+A post-doctoral position is available at York University (Toronto) in 
+the Centre for Research in Earth and Space Science (CRESS). The project 
+involves advancement of laser remote sensing for investigation of the  
+exchange of water between the atmosphere and surface on Mars. The 
+project follows from the LIDAR instrument that was operated on the 
+Phoenix Mars mission. Scientific investigations will be carried out in 
+the laboratory using a chamber that will provide environmental 
+conditions equivalent to the surface of Mars. The successful candidate 
+will have a Ph.D. degree in Planetary Science, Atmospheric Science, 
+Physics, or Engineering. The skills required or developed for the 
+project concern laser optics, Raman spectroscopy, light detection, 
+data acquisition, atmospheric thermodynamics, soil science, and data 
+analysis. The duration of the position is one year. Interested 
+candidates should contact Professor James Whiteway (whiteway@yorku.ca) 
+and provide a CV, a sample of written work, and contact information 
+for three references. Applications will be assessed until the position 
+is filled. 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JOB ANNOUNCEMENT: OBSERVATORY SCIENTISTS AT ARECIBO OBSERVATORY
+
+Arecibo Observatory, now managed by a group led by the University of 
+Central Florida (UCF), is hiring observatory scientists for the 
+planetary radar and radio astronomy groups. We would like to direct 
+your attention to the job advertisements on the "Jobs With UCF" 
+website, where you can see preferred qualifications, duties, 
+expectations, and information on how to apply:
+
+https://www.jobswithucf.com/postings/53707
+
+https://www.jobswithucf.com/postings/53706
+
+https://www.jobswithucf.com/postings/53704
+
+In general we are seeking scientists who can support the observational 
+programs at the observatory as well as maintain an independent 
+research program.
+
+For planetary radar, the hires will assist in the execution of the 
+current planetary science radar programs at AO, among other duties.
+
+For radio astronomy, the hires will be expected to participate in 
+enabling Arecibo's user community to obtain the best possible 
+scientific results from the telescope, among other duties.
+
+Questions about these positions may be directed to Francisco (Cla) 
+Cordova, Director, Arecibo Observatory, University of Central Florida, 
+787-878-2612 ext. 212 (office).
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NEW OPAG CHAIR AND STEERING COMMITTEE MEMBERS
+
+We are pleased to announce that Jeffrey Moore (NASA Ames) will be the 
+new OPAG Chair beginning with the September 11-12 OPAG meeting in 
+Pasadena. Linda Spilker will continue as Deputy Chair and Alfred McEwen 
+will remain on the steering committee as past chair.
+
+We are pleased to announce 5 new steering committee members:
+
+Morgan Cable (JPL)
+Kathleen Mandt (APL)
+Lynnae Quick (CEPS, Smithsonian Institution)
+Abigail Rymer (APL)
+Thomas Spilker (consultant)
+
+We thank past members who will be rotating off the committee:
+
+Jason Barnes (U. Idaho)
+Patricia Beauchamp (JPL)
+Julie Rathbun (PSI)
+Elizabeth Turtle (APL)
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+REMINDER: COMMENTS ON 2018 OPAG GOALS DOCUMENT ARE DUE JULY 2, 2018
+
+An extensively revised draft goals document for the Outer Planets 
+Assessment Group has been posted at: 
+
+https://www.lpi.usra.edu/opag/  
+
+We invite the OPAG science community to provide feedback by using the 
+OPAG Discussion Board: 
+
+https://www.lpi.usra.edu/forums/viewforum.php?f=2  
+
+To use this, you must have filled out a notification of interest form 
+at: 
+
+https://www.lpi.usra.edu/opag/opag.cfm 
+
+and register for the discussion board. We plan to provide a 2018 
+version of this document to the Discovery program library, so we need 
+comments by July 2. The goals document will continue to be updated 
+for input to the next Decadal Survey. 
+
+-OPAG Steering Committee
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] PDS: LRO RELEASE 34
+
+The NASA Planetary Data System is pleased to announce a new delivery of 
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:  
+
+CRaTER
+DLRE
+LAMP
+LEND
+LOLA
+LROC
+MiniRF 
+
+In general, LRO Release 34 includes data collected between December 15, 
+2017 and March 14, 2018.
+
+To access the above data, please visit the following link: 
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180615.shtml
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria: 
+
+https://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector):    
+
+https://ode.rsl.wustl.edu/moon/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 8-12, 2018
+The Ninth Moscow Solar System Symposium (9M-S3)
+https://ms2018.cosmos.ru/
+Moscow, Russia
+
+February 20-22, 2019
+Thermal Models for Planetary Science III (TherMoPS III)
+http://thermops2019.hu/
+Budapest, Hungary
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

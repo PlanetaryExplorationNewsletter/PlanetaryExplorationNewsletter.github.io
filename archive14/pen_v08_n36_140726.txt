@@ -1,0 +1,581 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 36 (July 27, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. SBAG 11 Meeting - July 29-31
+2. GSA Session T229 - The Holey Solar System
+3. GSA Session T231 - Ice Throughout the Solar System
+4. AGU Session B3387 - Looking for Life: Formation, Preservation and 
+   Detection of Biosignatures in Terrestrial Analogue Environments
+5. AGU Session P1671 - The Science of Exploration as Enabled by the 
+   Moon, Near Earth Asteroids and the Moons of Mars
+6. AGU Session P2116 - Mercury: Results from MESSENGER's Low-Altitude
+   Campaign
+7. AGU Session P2314 - Planetary Magnetic Fields, Interior Dynamics, 
+   and Measurement Techniques
+8. AGU Session P3235 - Titan's Enigmatic Atmosphere and Ionosphere
+9. AGU Session P3480 - Surface Boundary Exospheres: Comparing the Moon,
+   Mercury, and Much More
+10. AGU Session P3609 - Alteration and Secondary Phases on Mars:
+    Indicators of Habitable Environments
+11. Asteroid Impact Deflection Assessment (AIDA) Workshop
+12. NASA Postdoctoral Fellowships
+13 [NASA] Heliophysics Technology and Instrument Development for 
+   Science
+14. Request for Proposals: Europa CubeSat Concept Study
+15. MAVEN Postdoctoral Researcher in Mars Magnetic Fields
+16. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. Solar System Astrophysics Book
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SBAG 11 MEETING - JULY 29-31
+
+The 11th Meeting of the NASA Small Bodies Assessment Group will be 
+held July 29-31, 2014, in Washington, DC. The agenda and meeting 
+logistics can be found online on the SBAG website:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+The meeting will be open and shared via Webex with the information
+below.
+
+To join the online meeting (Meeting Number: 991 527 982):
+
+1. Go to:
+
+https://nasa.webex.com/nasa/j.php?MTID=m6c78ead026d2ef9653135
+71f3ef82926 (please note continuation of URL on this line)
+
+2. If requested, enter your name and email address.
+3. If a password is required, enter the meeting password: !qazxsw2
+4. Click "Join".
+
+To join the audio conference only, dial 1-866-844-9416
+(Password - ELEVEN SBAG).
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+GSA SESSION T229 - THE HOLEY SOLAR SYSTEM
+
+We want to draw your attention to this session at the GSA Annual 
+Meeting on impact cratering. Please consider submitting an abstract!
+Deadline is July 29, 2014. 
+
+This session focuses on the nature of impact craters and processes. 
+Terrestrial craters provide ground-truth for the remote sensing 
+interpretation of planetary craters. We solicit contributions 
+regarding shock processes, materials, modeling, geologic structure, 
+impactor evolution, and airburst phenomena are solicited. Comparisons 
+of cratering among different size bodies are encouraged.
+
+Data from terrestrial field work, advances in modeling and 
+experimentation, spacecraft data have provided significant new insight 
+into the characteristics of the impact cratering processes. This 
+session will provide an opportunity to share information and insight.
+
+To submit an abstract to this session:
+
+https://gsa.confex.com/gsa/2014AM/top/papers/index.cgi?sessionid=35295
+
+General meeting information: 
+
+http://community.geosociety.org/gsa2014/home/
+
+Christian Koeberl
+Gordon Osinski
+Angela Stickle
+Jeff Plescia
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GSA SESSION T231 - ICE THROUGHOUT THE SOLAR SYSTEM
+
+We call your attention to a special session on Ice Throughout the 
+Solar System, for the Geological Society of America Meeting, to be 
+held Oct. 19 - 22 in Vancouver. The abstract deadline is Tuesday, 
+July 29. For more information, see: 
+
+http://community.geosociety.org/gsa2014/science/sessions 
+
+Ice is ubiquitous throughout the solar system: it has been found in 
+unexpected places, may be preserved for billions of years, and can 
+behave like rock at outer solar system temperatures. We propose an 
+interdisciplinary session on the science of ice in any form (not just 
+water ice), on Earth or in any part of the solar system, including 
+laboratory analyses, terrestrial field work, geomorphology, and 
+planetary and telescopic data analysis. Submissions may include, but 
+are not limited to, research into terrestrial permafrost and Arctic 
+and Antarctic ice sheets, the Martian permafrost and polar caps, ice 
+within the permanently shadowed regions of Mercury and the Moon, ice 
+in planetary rings and plumes, outer solar system bodies including 
+Europa, Enceladus, Triton, Titan and Pluto, and small bodies 
+including comets and ice-rich asteroids such as Ceres.
+
+Conveners: Bob Pappalardo and Louise Prockter
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION B3387 - LOOKING FOR LIFE: FORMATION, PRESERVATION AND 
+DETECTION OF BIOSIGNATURES IN TERRESTRIAL ANALOGUE ENVIRONMENTS
+
+Interpreting in situ enigmatic features (body or trace fossils, 
+isotopic or molecular signatures, chemical disequilibria, or 
+conspicuous mineralization) as indicators of biological activity is a 
+notoriously difficult task. The goal of characterizing biosignatures 
+is not only to identify attributes as uniquely produced by biological 
+processes, but also to recognize these attributes as unambiguous 
+indicators of life. Understanding and recognizing the biogeochemical 
+process that result in biosignatures, both in the lab and in field-
+based studies of terrestrial analogues of potentially habitable 
+environments beyond Earth, will provide valuable information for 
+future life detection missions. Emphasis will be placed on 
+interdisciplinary studies that advance our understanding of 
+biosignature formation mechanisms and detection methods.
+
+Conveners: Alexandra Pontefract (University of Western Ontario) and 
+Haley M. Sapers (University of Western Ontario) 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P1671 - THE SCIENCE OF EXPLORATION AS ENABLED BY THE MOON, 
+NEAR EARTH ASTEROIDS AND THE MOONS OF MARS
+
+A close collaboration between science, technology and exploration will 
+enable deeper understanding of the Moon and other airless bodies as we 
+move further out of low-Earth orbit. The new Solar System Exploration 
+Research Virtual Institute (SSERVI) will focus on the scientific 
+aspects of exploration as they pertain to the Moon, Near Earth 
+Asteroids (NEAs) and the moons of Mars. This session will feature 
+interdisciplinary, exploration-related science centered around all 
+airless bodies targeted as potential human destinations. Areas of 
+study reported here will represent the broad spectrum of lunar, NEA, 
+and Martian moon sciences encompassing investigations of the surface, 
+interior, exosphere, and near-space environments as well as science 
+uniquely enabled from these bodies.
+
+Please join the SSERVI planetary and exploration science community 
+by submitting an abstract to this AGU session.  
+
+Abstract deadline: August 6th, 2014
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/
+Session1671.html
+ 
+Conveners:
+ 
+Brad Bailey (brad.bailey@nasa.gov)
+Solar System Exploration Research Virtual Institute
+
+David Morrison (david.morrison@nasa.gov)
+Solar System Exploration Research Virtual Institute
+
+Yvonne J Pendleton (yvonne.pendleton@nasa.gov)
+Solar System Exploration Research Virtual Institute
+
+Gregory Schmidt (gregory.k.schmidt@nasa.gov)
+Solar System Exploration Research Virtual Institute
+
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P2116 - MERCURY: RESULTS FROM MESSENGER'S LOW-ALTITUDE
+CAMPAIGN
+
+We invite contributions to a special session on Mercury at the 2014 
+AGU Fall Meeting in San Francisco, CA, December 15–19, 2014.
+
+NASA's MESSENGER mission, now nearing the fourth and final year of 
+orbital operations at Mercury, is well into a low-altitude campaign 
+that is returning images and measurements of the planetary surface 
+and near-surface that are unprecedented in their resolution. This 
+session will highlight the latest results from MESSENGER observations 
+and their implications for Mercury's geological evolution, the 
+interaction of the planet's exosphere and magnetosphere with the 
+solar wind and interplanetary magnetic field, and the planet's 
+geophysical and geochemical characteristics. We also welcome 
+contributed papers on future mission opportunities, complementary 
+ground-based observations, laboratory measurements, and theoretical 
+developments relevant to planetary processes at Mercury.
+
+Invited Speakers:
+Brian Anderson (JHU/APL)
+Daniel Baker (CU Boulder)
+Rosemary Killen (NASA GSFC)
+Erwan Mazarico (MIT/GSFC)
+
+Please consider submitting an abstract for this session. For more 
+information, visit: 
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/Session2116.html
+
+The submission deadline is August 6, 2014.
+
+Conveners:
+Paul Byrne (Lunar and Planetary Institute)
+Larry Nittler (Carnegie Institution of Washington)
+Sean Solomon (Columbia University)
+
+We look forward to seeing you in San Francisco.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P2314 - PLANETARY MAGNETIC FIELDS, INTERIOR DYNAMICS, AND 
+MEASUREMENT TECHNIQUES
+
+Abstract submission deadline: August 6, 2014
+
+Planetary magnetic fields open a window to a planet's interior and may 
+also play a role in the retention of a planet's atmosphere from the 
+effects of stellar wind, providing an opportunity for life to exist 
+and flourish at the surface of terrestrial planets. This session 
+invites papers regarding theories, numerical simulations, and 
+observations of the nature of magnetic fields in solar system planets 
+or extrasolar planets.  Further, the session aims to bring together 
+scientists from different communities for an up-to-date overview of 
+the nature of planetary magnetic fields and interior dynamics in the 
+Solar system planets and exoplanets.  Contributions dealing with 
+magnetic field generation and Solar wind interaction with planetary 
+magnetic fields are welcome. Observational methods of interest are 
+low frequency radio, UV, and other remote sensing techniques that may 
+provide evidence for the presence of extrasolar planetary magnetic 
+fields.
+
+To submit abstracts to this session, visit:
+
+http://agu.confex.com/agu/fm14/p/papers/index.cgi?sessionid=2314
+
+Conveners:
+Walid Majid, (JPL)
+Daniel Winterhalter (JPL)
+Leslie Rogers (Caltech)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P3235 - TITAN'S ENIGMATIC ATMOSPHERE AND IONOSPHERE
+
+Abstract submission deadline: August 6th
+
+The processes that control Titan’s atmosphere and ionosphere remain in 
+many ways enigmatic even after ten years of observations and study 
+from the Cassini mission and the Huygens probe. The instruments 
+onboard Cassini-Huygens have studied in-situ and remotely many aspects 
+of Titan’s atmosphere and coupled ionosphere. In the mesosphere, 
+stratosphere, thermosphere, ionosphere, and exosphere studies of 
+atmospheric composition, structure, and chemistry have recently 
+produced breakthroughs in our understanding of this complex system. 
+In this session, we focus on recent and ongoing studies of Titan’s 
+atmosphere and ionosphere. Papers focusing on atmospheric observations, 
+modeling, and laboratory studies are welcomed.
+
+Co-Sponsored by SA and SM
+
+Conveners:
+Joseph H. Westlake, JHUAPL (joseph.westlake@jhuapl.edu)
+Sarah M. Hörst, Johns Hopkins University
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P3480 - SURFACE BOUNDARY EXOSPHERES: COMPARING THE MOON, 
+MERCURY, AND MUCH MORE
+
+Surface boundary exospheres are thin collisionless planetary 
+atmospheres in which gas and dust constituents only collide with the 
+surface.  This class of atmosphere may be the most common among solar 
+system objects. Mercury, the Moon, several outer planets moons, and 
+Saturn’s rings are known to host such atmospheres, and it is likely 
+that other moons and the larger asteroids do also, including trojans 
+and centaurs. These bodies should also host tenuous shrouds of dust, 
+whether from actively vented plume materials or ejecta from ongoing 
+micrometeoroid bombardment of the surfaces and ring systems of such 
+bodies. The purpose of this session is to report results from recent 
+missions, including MESSENGER at Mercury, LADEE and LRO at the Moon, 
+Cassini at Saturn/Enceladus, Hubble and Galileo at Europa and Io, and 
+Earth-based occultations of Chariklo. Comparison of observations 
+with modeling results of source, transport and loss processes are 
+very welcome.
+
+Abstract submission, due 6 Aug 2014, can be found here:  
+
+http://fallmeeting.agu.org/2014/scientific-program/
+
+Conveners:
+R. Elphic (richard.c.elphic@nasa.gov)
+K. Retherford (KRetherford@swri.edu)
+M. Benna (mehdi.benna-1@nasa.gov)
+J. Keller (john.w.keller@nasa.gov)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION P3609 - ALTERATION AND SECONDARY PHASES ON MARS: INDICATORS 
+OF HABITABLE ENVIRONMENTS
+
+This session will focus on understanding the range of habitable 
+environments available on Mars in both the past and present using the 
+geochemical record. It has long been appreciated that many martian 
+surface materials have interacted with or formed in water; the nature 
+of these materials can elucidate the aqueous conditions under which 
+they formed. New datasets from surface and orbital missions have 
+expanded the range of known habitable environments on Mars by 
+revealing novel alteration pathways and secondary mineral phases in a 
+variety of forms (including clays, cements, and coatings). Studies 
+integrating in situ, remote sensing, laboratory, and terrestrial 
+analog datasets are encouraged.
+
+Conveners:  
+Nina Lanza, Los Alamos National Laboratory 
+Craig J. Hardgrove, Arizona State University
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ASTEROID IMPACT DEFLECTION ASSESSMENT (AIDA) WORKSHOP 
+
+The first International Asteroid Impact Deflection Assessment (AIDA) 
+Workshop will be held 15-17 October 2014 in Laurel, Maryland. AIDA is 
+a technology demonstration of the kinetic impactor concept. It is 
+composed of the DART (Double Asteroid Redirection Test) and AIM 
+(Asteroid Impact Mission) spacecrafts, each under consideration by 
+NASA and ESA.The combination of both spacecrafts is referred to as 
+AIDA.
+
+Abstracts are solicited for participants to the workshop. Topics 
+include studies relevant to the two concepts (DART projectile and AIM 
+rendezvous spacecraft), knowledge of the Didymos binary system (the 
+target of the AIDA demonstration), and on binary origins, dynamics 
+and properties (e.g. regolith and surface characteristics, internal 
+structure), impact observing strategies, additional science 
+opportunities during an impact demonstration and associated payloads, 
+impact modeling and momentum transfer of an artificial projectile, 
+ejecta dynamics, etc.
+
+Abstracts are due 1 September 2014. Please visit: 
+
+http://www.oca.eu/michel/AIDAWorkshop2014/ 
+
+for further details, including abstract format.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17903
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and $8,000 
+per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter:  http://bit.ly/1iUrK4I
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] HELIOPHYSICS TECHNOLOGY AND INSTRUMENT DEVELOPMENT FOR SCIENCE
+
+The Heliophysics Technology and Instrument Development for Science 
+(H-TIDeS) program seeks to investigate key Heliophysics science 
+questions by addressing the best possible: 
+
+(i) science and/or 
+technology investigations that can be carried out with instruments 
+flown on suborbital sounding rockets, stratospheric balloons, CubeSats, 
+commercial reusable suborbital launch vehicles, or other platforms; 
+
+(ii) state-of-the-art instrument technology development for instruments 
+that may be proposed as candidate experiments for future space flight 
+opportunities; and 
+
+(iii) laboratory research. CubeSat proposals must be 
+responsive to the Exploration Mission 1 (EM-1) opportunity. PI's of 
+Step-2 proposals must have previously submitted a Step-1 proposal.
+ 
+This amendment delays the Step-2 due date for Heliophysics Technology 
+and Instrument Development for Science (H-TIDeS) to September 5, 2014, 
+because of the change in program management for the program.
+ 
+The NASA Research Announcement NNH14ZDA001N is posted on the NASA 
+research opportunity homepage at: 
+
+http://nspires.nasaprs.com/  
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2014
+ 
+Questions concerning H-TIDeS (ROSES-2014 Appendix B.3) and this 
+amendment may be directed to: 
+
+Therese Kucera 
+therese.a.kucera@nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+REQUEST FOR PROPOSALS: EUROPA CUBESAT CONCEPT STUDY SCIENCE
+ 
+JPL invites proposals with the intent to provide a study to address a 
+mission concept for a small CubeSat spacecraft up to 3U in size that 
+would be carried aboard the potential Europa Clipper spacecraft, 
+released in the Jovian system and would make measurements at Europa. 
+This request is open to U.S. Higher Educational Institutions. It is 
+anticipated that up to 10 proposals will be selected, each not to 
+exceed $25K. The performance period is approximately 8 months. The 
+proposal due date is Aug. 18, 2014, 3:00 p.m. PDT. This effort may 
+lead to additional tasks in the future, however, there is no commitment 
+at this time to fly CubeSats on the potential Europa Clipper mission. 
+Any communication in reference to this RFP should be via email to the 
+attention of Patrick Thompson (Patrick.M.Thompson@jpl.nasa.gov). 
+Complete information is available at: 
+
+https://acquisition.jpl.nasa.gov/RFP/SS-06-30-14
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MAVEN POSTDOCTORAL RESEARCHER IN MARS MAGNETIC FIELDS
+
+NASA-GSFC/CRESST/University of Maryland
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) 
+investigating Mars magnetic fields using data from the MAVEN (Mars 
+Atmosphere and Volatile EvolutioN) mission. Additional details are 
+available at: 
+
+http://www.astro.umd.edu/employment/
+
+The appointment will be initially for one year, with the possibility 
+of renewal in subsequent years. Candidates should have a Ph.D. in a 
+relevant discipline with experience conducting scientific research 
+related to the MAVEN science objectives or the types of instruments 
+included in the MAVEN science payload. Disciplined IDL and Fortran 
+programming skills, demonstrated scientific writing ability, and 
+experience in acquisition and analysis of data (especially 
+magnetometer data) from space flight instruments are highly 
+desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by September 1, 2014 will receive full 
+consideration.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 20-21, 2014
+SpaceUp Toulouse
+http://www.spaceup.fr
+Toulouse, France
+
+October 15-17, 2014
+First International Asteroid Impact Deflection Assessment (AIDA)
+Workshop
+http://www.oca.eu/michel/AIDAWorkshop2014/
+Laurel, MD
+
+October 23-24, 2014
+Premier Atelier
+http://plato-france1.sciencesconf.org/resource/page/id/1
+Marseille, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+SOLAR SYSTEM ASTROPHYSICS BOOK
+ 
+For those teaching planetary science courses, the fully updated 2nd 
+edition of the upper lever undergraduate 2-volume textbook, Solar 
+System Astrophysics (2014) by E. F. Milone and W. J. F. Wilson is now 
+available from Springer. Links to either volume may be found at: 
+
+http://people.ucalgary.ca/~milone/pubs.html
+
+Background is provided for all sub-disciplines and derivations are 
+extensive and complete.  
+
+E. F. Milone
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

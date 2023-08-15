@@ -1,0 +1,296 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 50 (December 4, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. OPAG Findings Posted
+2. Seeking Members for the WFIRST Solar System Working Group
+3. NAIF Job Opening
+4. Planetary Geomorphology 'Image of the Month'
+5. [NASA] Ames Seeks Space Science Division Director 
+6. Mars Reconnaissance Orbiter Data Release 39
+7. Venus Exploration Analysis Group (VEXAG) Call for Executive 
+   Committee Members
+8. Research Space Scientist, GS-1330-13/14
+9. MEPAG Face-to-Face Forecasting Deadline December 4th
+10. Working Group on Finding Signs of Past Rock-Hosted Life
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OPAG FINDINGS POSTED
+
+Findings from the August 2016 meeting of the NASA Outer Planets
+Assessment Group have been posted at:
+
+http://www.lpi.usra.edu/opag/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SEEKING MEMBERS FOR THE WFIRST SOLAR SYSTEM WORKING GROUP
+
+NASA's Wide Field Infrared Survey Telescope (WFIRST) is NASA's next 
+flagship mission after JWST. WFIRST is on track for a 2025 launch and 
+a 6 year primary mission. This mission has two primary instruments: the 
+Wide Field Instrument (WFI) with a 0.25 square degree FOV and the 
+Coronagraph Instrument (CGI), which is designed to take images and 
+spectra of super-Earths. Between the two instruments, WFIRST will be 
+capable of imaging and grism spectroscopy over the wavelength range 
+0.7-2 microns as well as R~100 spectroscopy with an IFU. More details 
+can be found here: 
+
+https://wfirst.gsfc.nasa.gov/ 
+ 
+We are soliciting participants for the WFIRST Solar System Working 
+Group to help develop science cases and provide input to the project 
+team on instrumentation and observatory constraints. If you are 
+interested please contact either of the co-leads, James (Gerbs) Bauer 
+(JPL - james.m.bauer@jpl.nasa.gov) or Stefanie Milam (NASA/GSFC - 
+Stefanie.n.milam@nasa.gov) by December 30, 2016.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NAIF JOB OPENING
+
+NASA's Navigation and Ancillary Information Facility, developers of the 
+"SPICE" observation geometry system used worldwide in support of 
+planetary missions, is looking for a permanent new staff member. 
+Interested persons should read the detailed announcement at:  
+
+http://naif.jpl.nasa.gov/naif/newhire_R2.pdf   
+
+and may apply for the job through the JPL Human Resources website, 
+here:  
+
+https://experienced-jpl.icims.com/jobs/search 
+
+selecting Requisition ID 2016-7626.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The December image of the month is now available at the IAG's Planetary 
+Geomorphology web page:  
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "The Geomorphology of Potential Mars Tsunami 
+Deposits". Post contributed by Dr. Alexis Rodriguez, Planetary Science 
+Institute, Tucson AZ, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or Twitter 
+@PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] AMES SEEKS SPACE SCIENCE DIVISION DIRECTOR
+
+NASA is seeking applicants for the position of Division Chief of the 
+Space Science and Astrobiology Division at NASA Ames Research Center 
+(ARC) in Silicon Valley, California. The ARC Space Sciences and 
+Astrobiology Division is comprised of over 150 scientists and 
+engineers, including nearly 60 civil servants. The Division Chief 
+provides technical and administrative supervision and management for a 
+Division that conducts fundamental research in astrobiology, planetary 
+sciences, and astrophysics. He/she is responsible for the formulation, 
+strategy, advocacy, and direction of the key research, technology, 
+applied sciences, and science-enabling activities pursued by the 
+Division. The incumbent works with and advises the ARC Science 
+Directorate management on the strategic direction and implementation of 
+the Space Sciences and Astrobiology programs at the Center.
+
+The vacancy announcement, AR17D0015, Supervisory Space Scientist, 
+AST, Space Sciences, GS-1330-15, opens on Wednesday, November 30, and 
+will close on Friday, December 16. The vacancy announcement may be 
+found at USAJobs.gov by accessing the link at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/457765800 
+
+All applications must be submitted within USAJobs.gov before the 
+posted deadline. For further information, a contact email is given in 
+the vacancy announcement at USAJobs.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 39
+
+The NASA Planetary Data System (PDS) is pleased to announce a new 
+delivery of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+MARCI
+MCS
+RSS
+SPICE
+
+There is no SHARAD or derived gravity data in this release. HiRISE data 
+is not yet available.
+
+In general, MRO Release 39 includes data collected from February 9, 
+2016, to May 8, 2016.
+
+To access the above data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20161201.shtml
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+VENUS EXPLORATION ANALYSIS GROUP (VEXAG) CALL FOR EXECUTIVE COMMITTEE 
+MEMBERS
+
+VEXAG is seeking volunteers for VEXAG Executive Committee members to 
+replace those who have successfully completed their service to the 
+Venus community. The new members will start in 2017 for a term that run 
+for three years. Also, the VEXAG Early Career Scholars Focus Group is 
+looking for interested group members.
+
+If you are interested, send your resume and a statement of how you 
+could contribute to VEXAG to Bob Grimm and Martha Gilmore, VEXAG Chair 
+and Deputy Chair (grimm@boulder.swri.edu, mgilmore@wesleyan.edu) by 
+January 6, 2017.
+
+VEXAG activities for the next three years are expected to be community 
+building with an emphasis on:
+
+- Venus Exploration Goals, Objectives, and Strategies
+- Technology Development and Laboratory Measurements
+- International Collaboration
+- Early Career and Young Scholar Development
+- Venus Exploration Roadmaps
+
+VEXAG is a community-based forum established in July 2005 to assess 
+scientific priorities and strategies for exploration of Venus. VEXAG 
+is currently composed of a chair and five focus groups, where the 
+focus groups actively solicit input from the Venus community on the 
+topics listed above. 
+
+More information may be found at the LPI VEXAG Web-site: 
+
+http://www.lpi.usra.edu/vexag/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+RESEARCH SPACE SCIENTIST, GS-1330-13/14
+
+The Planetary Systems Branch (Code SST) within the Space Science and 
+Astrobiology Division (Code SS) of the Science Directorate (Code S) at 
+the NASA Ames Research Center, Moffett Field CA 94035, is currently 
+seeking interested applicants for the position of a Research Space 
+Scientist. The incumbent conducts scientific research and provides 
+expertise in the area of planetary atmospheres (theory/modeling), in 
+particular, the Mars atmosphere and its climate system, and/or 
+terrestrial-like planetary atmospheres.  For further details and 
+applications procedures, please see the following USAJOBS.gov link:  
+
+https://www.usajobs.gov/GetJob/ViewDetails/458306400
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MEPAG FACE-TO-FACE FORECASTING DEADLINE DECEMBER 4TH
+
+The 2017 face-to-face meeting of the Mars Exploration Program Analysis 
+Group (MEPAG) is scheduled for February 22-23, 2017 at the Double-Tree 
+Hotel in Monrovia, CA.
+
+If you usually forecast for conferences, you must forecast for this 
+conference by Sunday December 4th, 2016.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+WORKING GROUP ON FINDING SIGNS OF PAST ROCK-HOSTED LIFE
+
+Motivated by the suite of habitable environments available to Mars-2020 
+for in situ exploration and sample collection, we are convening a set 
+of 4 web-hosted telecons, open to the community. For those wishing to 
+help make a presentation and peer-reviewed publication, there will also 
+be an in-person gathering February 6-7 at Caltech. See:
+
+http://web.gps.caltech.edu/~rocklife2017/
+
+The first talk, "Martian Environments, Facies, and Ages: Evidence for 
+Rock-Hosted Waters. What is the evidence for ancient Mars environmental 
+conditions? What is the likelihood of habitats for rock-hosted life?"
+will be either 8:30am December 9 or December 19th. Pencil in (no 
+newsletter in between the closing of Doodle poll!) and check out the 
+website Wednesday 12/7 for date and dial-in information.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 15-17, 2017
+UKEXOM2017: UK Exoplanet Community Meeting
+https://ukexo2017.sciencesconf.org
+St. Andrews, Scotland
+
+July 2-6, 2018
+Exoplanets II
+http://exoplanets.phy.cam.ac.uk/Meetings/exoplanets2
+Cambridge, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

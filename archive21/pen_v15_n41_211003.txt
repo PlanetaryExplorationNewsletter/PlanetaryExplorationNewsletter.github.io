@@ -1,0 +1,495 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 41 (October 3, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Assistant Research Scientist Position at UC Berkeley, Space Sciences 
+   Lab
+2. [NASA] Scientific Information Policy for the Science Mission 
+   Directorate
+3. ExMAG Meeting Announcement
+4. [NASA] Planetary Data Ecosystem Chief Scientist Sought
+5. Pan Postdoctoral Research Fellowship Position at Rice University
+6. Neptune/Triton System Seminar Series Announcement
+7. [NASA] New Venus Portal Released
+8. [NASA] ROSES-21: EnVision VenSAR Science Team 
+9. [NASA] PDS: Aperiodic Data Releases in 2021.09
+10. [NASA] PDS: Odyssey Data Release 77
+11. [NASA] PDS: Insight Data Release 10
+12. Planetary Geomorphology Image of the Month
+13. UW-Madison Seeking Applicants for Faculty Positions in Origins of 
+    Life, Planetary Astrochemistry, and Exoplanet Observations
+14. Tenure Track Assistant Professor Position at UTSA - Physics and 
+    Astronomy, Exoplanets
+15. Planetary Meeting Calendar Additions
+16. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ASSISTANT RESEARCH SCIENTIST POSITION AT UC BERKELEY, SPACE SCIENCES 
+LAB
+
+The Space Sciences Laboratory at the University of California, Berkeley 
+seeks applications for a full-time (100%) Assistant Research Scientist 
+with an expected start date between October 1, 2021 and January 15, 
+2022. The Assistant Research Scientist will work in the Planetary and 
+Astrobiology group at SSL, focusing on the investigation of space 
+plasma interactions with planetary bodies, specifically moons and other 
+small bodies throughout the Solar System. Research is to be conducted 
+via numerical modeling, data analysis of spacecraft observations, or a 
+combination thereof. Other duties include presentation and publication 
+of results, and the submission of extramural grant funding proposals.
+
+For more information about the position, including required 
+qualifications, application materials, and deadlines, go to: 
+
+https://aprecruit.berkeley.edu/JPF03132
+
+The position will remain open until filled. For questions, please email 
+Dr. Andrew Poppe at poppe@berkeley.edu. All qualified applicants will 
+receive consideration for employment without regard to race, color, 
+religion, sex, sexual orientation, gender identity, national origin, 
+disability, age, or protected veteran status. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SCIENTIFIC INFORMATION POLICY FOR THE SCIENCE MISSION 
+DIRECTORATE
+
+The data, software, and publications produced as part of NASA's 
+scientific research activities, regardless of funding vehicle, e.g. 
+grant, contract, inter-or intra-agency agreements, represents a 
+significant public investment. NASA holds this information as a public 
+trust to increase knowledge and serve the public good. It is Science 
+Mission Directorate's (SMD) policy, consistent with NASA and Federal 
+policy, that information produced from SMD-funded scientific research 
+activities be made publicly available to the greatest practical extent.
+
+To provide contextual guidance to proposers, awardees and other members 
+of our communities, SMD has created SPD-41: The Scientific Information 
+Policy. SPD-41 applies to all SMD-funded missions and research. All 
+parties involved or hoping to become involved in SMD research are 
+encouraged to read this policy document. Go to:
+
+https://science.nasa.gov/researchers/science-data/science-information-policy
+
+SMD plans to release a Request for Information (RFI) by the end of 
+October. In addition, we plan to hold a virtual community townhall. 
+
+Questions/comments: HQ-SMD-SPD41@mail.nasa.gov 
+
+Responses will be posted at:
+
+https://science.nasa.gov/researchers/science-data/science-information-policy_faq
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EXMAG MEETING ANNOUNCEMENT
+
+The Extraterestrial Materials Analysis Group (ExMAG) will meet 
+virtually on October 14-15, 2021 from 11 AM-5 PM EDT. There is no 
+registration fee but registration is required by October 11, 2021. The 
+fall meeting will focus on sample return missions and technologies, 
+sample collections, facilities and informatics, and advanced analysis 
+and curation methods. We invite early-career members of the sample 
+analysis community (students, postdocs, and those within 10 years of 
+their terminal degree) to have coffee with the ExMAG Chair on 
+October 14 from 10-11 AM EDT, an informal hour to learn about ExMAG and 
+talk about issues important to you. A virtual poster session to view 
+facilities posters will be held in Gather.town on October 15 from 
+10-11 AM EDT. The list of posters will be posted on the agenda page. 
+Registered attendees will receive an e-mail from Houston Meeting Info 
+prior to the meeting with connection information for all events. More 
+information and agenda are at: 
+
+https://www.lpi.usra.edu/exmag/meetings/exmagfall2021
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PLANETARY DATA ECOSYSTEM CHIEF SCIENTIST SOUGHT
+
+Location: Mostly virtual
+
+NASA's Planetary Science Division is seeking a highly experienced 
+planetary science expert to serve as its Chief Scientist to represent 
+the Planetary Data Ecosystem (PDE). The Planetary Data Ecosystem 
+defines the broad community of planetary scientists, engineers, mission 
+specialists, data providers, data users and planetary science educators 
+who have interests in planetary missions and their data. The selected 
+Chief Scientist will have a strong background in planetary science and 
+serve as the liaison between the PDE and NASA's Planetary Data System 
+(PDS). The Chief Scientist will report to the PDS Program Scientist at 
+NASA HQ.  
+
+The solicitation is open to the public. This virtual position will be 
+served mostly remotely, will be part time and funded at approximately 
+0.2 FTE, depending on the details of funding arrangements. The position 
+will be a temporary assignment, not to exceed three years, ending (at 
+the latest) in Fall 2024.
+
+Candidates wishing to apply for this position should send their 
+nomination package to Dr. Timothy P. McClanahan at 
+timothy.p.mcclanahan@nasa.gov. The due date for applications is 
+October 29, 2021 COB EST. Position details and nomination package 
+requirements are described here: 
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PAN POSTDOCTORAL RESEARCH FELLOWSHIP POSITION AT RICE UNIVERSITY
+
+The Department of Earth, Environmental and Planetary Sciences at Rice 
+University invites applications for the Pan Postdoctoral Research 
+Fellowship. We seek candidates with independent research interests that 
+intersect with one or more faculty within our department and who 
+contribute positively to the diversity of the department through 
+outreach or other means. Domestic and international applicants are 
+welcome. A Ph.D. is required at the time of appointment, but candidates 
+must have received their Ph.D. no more than 3 years before their start 
+date at Rice.
+
+Applicants are requested to develop a proposal of research to be 
+undertaken during the two year fellowship period. Principal selection 
+criteria are scientific excellence, a clearly expressed research plan 
+to address questions at the forefront of their field of study, research 
+synergies with at least one faculty, and a commitment to fostering 
+diversity in their field of research. Proposed research should 
+encompass independent research ideas and explore new directions beyond 
+the applicant's PhD. Preference will be given to applicants whose 
+proposals demonstrate independence and originality, and the potential 
+for collaboration with faculty in the Department of Earth, 
+Environmental and Planetary Sciences.
+
+For more information please see: 
+
+https://earthscience.rice.edu/home-page/open-positions
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEPTUNE/TRITON SYSTEM SEMINAR SERIES ANNOUNCEMENT
+
+This new seminar series will showcase recent developments in scientific 
+topics covering all aspects of the Neptune/Triton system: the 
+magnetosphere, satellites, rings, atmosphere, ionosphere, interior 
+structure, and magnetic field as well as their formation, thermal 
+evolution, variation, and science related to analog objects such as 
+Uranus. Please join us on the second Tuesday of each month at 3:00 PM 
+GMT (8 AM PT/11 AM ET) for a Neptune/Triton-relevant presentation from 
+a guest speaker, followed by a lively discussion and community 
+updates/news. The first seminar will occur on October 12; Dr. Matthew 
+Hedman will be giving a presentation on Small Moons and Rings of 
+Neptune. View the seminar schedule and register for seminars at: 
+
+https://neptuneodyssey.jhuapl.edu/Events
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] NEW VENUS PORTAL RELEASED
+
+Having almost the same size and mass as the Earth, and occupying the 
+next orbit closer to the Sun from us, Venus was once thought to be 
+Earth's sister planet. But radar images piercing its dense blanket of 
+acidic clouds reveal a scorched landscape pressure cooked at 464 
+degrees C (867 degrees F) and 92 times Earth's atmospheric pressure. 
+This year, NASA announced its selection of the upcoming DAVINCI+ and 
+VERITAS Discovery missions to Venus, adding to the legacy of data 
+gathered by NASA's previous Magellan mission to Venus. Inspired by 
+this announcement, NASA's Solar System Treks Project has developed 
+and released the new online, browser-based Venus Trek portal: 
+
+https://trek.nasa.gov/venus
+
+The initial release of the portal features a variety of data from the 
+Magellan mission's Synthetic Aperture Radar (SAR) including SAR global 
+mosaics, Fresnel reflectivity, microwave emissivity, slope maps, 
+hillshade topography, and a digital elevation model. The portal will 
+promote understanding of the surface features of Venus and provide an 
+important and timely enhancement to the Solar System Treks suite's 
+capabilities for comparative planetology. Explore Venus, as well as 
+many other amazing worlds in our Solar System, with NASA's Solar System 
+Treks at: 
+
+https://trek.nasa.gov
+
+ 
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] ROSES-21: ENVISION VENSAR SCIENCE TEAM
+
+Program element C.26 EnVision VenSAR Science Team (VenSAR ST) calls for 
+proposals for team members and a team leader for the VenSAR Science 
+Team (VeST) over the period of 2021-2026. NASA intends to select ~12 
+members for the VeST with a range of expertise relevant to VenSAR, 
+Venus science, and multidisciplinary approaches that integrate VenSAR 
+with the other instruments planned for EnVision. Of these ~12 members, 
+~10 are expected to be from U.S. institutions that will be supported by 
+NASA, and up to 2 members are expected to be from institutions located 
+in ESA member states with support from their own national or other 
+program.
+
+ROSES-2021 Amendment 39 releases final text and due dates for this 
+call. Notices of intent to propose are requested by November 19, 2021, 
+and 5-page proposals are due January 20, 2022. Go to: 
+
+https://solicitation.nasaprs.com/ROSES2021
+
+Questions: Thomas Wagner, thomas.wagner@nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2021.09
+
+In September 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2021.09.30 Structure of Saturn's Thermosphere from Stellar Occultations
+2021.09.30 Mars Express: MaRS raw data from extended mission 7
+2021.09.28 MRO: SHARAD Reprocessed Radargram Data V2.0
+2021.09.22 MER: APXS Oxide Abundance Data
+2021.09.20 Asteroid Lightcurve Databse Bundle V4.0
+2021.09.20 Asteroid Lightcurve Data Exchange Format Database
+2021.09.16 Mars Express: MaRS raw data from extended mission 7
+2021.09.09 Mars Express: MaRS raw data from extended mission 7
+2021.09.02 Mission-Independent DSN Calibration Data
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210930.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS: ODYSSEY DATA RELEASE 77
+
+The NASA Planetary Data System announces Release 77 of data from the 
+Mars Odyssey Orbiter. This release contains raw, calibrated, and 
+derived data products nominally covering the time period January 1, 
+2021, through March 31, 2021, for the GRS/HEND/NS suite, and November 
+29, 2020, through February 27, 2021, for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data 
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data 
+may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+Access from a dataset-centered view is at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211001.shtml
+
+Odyssey releases occur every three months. The next release is 
+scheduled for January 1, 2022.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: INSIGHT DATA RELEASE 10
+
+The NASA Planetary Data System announces Release 10 of data from the 
+InSight Lander mission to Mars. This release contains raw and 
+calibrated data products covering the time period from April 1 - 
+June 30, 2021. The data are archived at various PDS nodes.
+
+- SEIS (Seismometer) at Geosciences
+- HP3/RAD (Heat Flow and Physical Properties Package / Radiometer) at 
+  Geosciences
+- RISE (Radio Science) at Geosciences
+- IDA (Instrument Deployment Arm) at Geosciences
+- APSS (Temperature, Wind, and Pressure) at Atmospheres
+- IFG (Insight Fluxgate Magnetometer) at PPI
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) 
+  at IMG SPICE at NAIF
+
+The RAD calibrated and derived data products from sol 390 (Jan. 1, 
+2021) onwards are updated to correct for a drift in calibration of one 
+of the sensors. See the release notes for details.
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/insight
+
+InSight releases occur every three months. The next release is 
+scheduled for January 3, 2022.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The October image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Landforms indicative of regional warm-based 
+glaciation, Phlegra Montes, Mars", contributed by Dr. Colman Gallagher 
+(University College Dublin, Ireland).
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho 
+ 
+Also, go to Facebook at: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+UW-MADISON SEEKING APPLICANTS FOR FACULTY POSITIONS IN ORIGINS OF LIFE,
+PLANETARY ASTROCHEMISTRY, AND EXOPLANET OBSERVATIONS
+
+UW-Madison has two open positions for faculty members in the areas of 
+planetary astrochemistry and observational exoplanet spectroscopy. 
+These positions are the second and third in a campus-wide cluster 
+hiring initiative on Origins of Life, Artificial Life, and Astrobiology 
+(OoLALA). Go to: 
+
+https://astrobio.wisc.edu 
+
+Successful candidates will contribute to the cluster through their 
+research, teaching, and interaction with the vibrant OoLALA community 
+and the Wisconsin Center for Origins Research (WiCOR), a new 
+interdisciplinary research initiative in the UW-Madison Astronomy 
+Department. We invite candidates for these positions to consult the 
+position vacancy listings (PVL 241623 and PVL 241624) at: 
+
+httpss://jobs.wisc.edu 
+
+Applicants must have a Ph.D. in Chemistry, Geosciences, Atmospheric 
+Sciences, Astronomy, Planetary Science, or a related field at the time 
+of appointment and a record of peer-reviewed research publication in 
+the field. We are especially interested in candidates who are 
+committed to building an equitable and inclusive educational 
+environment, and who can bring new perspectives on recruiting, 
+mentoring, and educating students from diverse backgrounds.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+TENURE TRACK ASSISTANT PROFESSOR POSITION AT UTSA - PHYSICS AND 
+ASTRONOMY, EXOPLANETS
+
+The Department of Physics & Astronomy at The University of Texas at 
+San Antonio (UTSA) is seeking exceptional applicants for a full-time 
+tenure track Assistant Professor position with experience in exoplanets 
+and an academic record in multicultural education, diversity and 
+inclusion beginning August 2022. We seek candidates whose exoplanet 
+research focus (observational or theoretical) is relevant to future 
+exoplanet missions (ground or space-based) or has direct synergies with 
+Solar System studies. In the case of exceptionally well qualified 
+candidates appointment to associate or full professor is possible 
+(tenure is contingent upon Board of Regents approval). 
+
+The successful applicant will be expected to (1) develop an externally 
+funded and internationally recognized research program; (2) supervise 
+graduate students; (3) teach undergraduate and graduate courses in 
+astrophysics and/or physics; (4) work with others across disciplinary 
+boundaries; (5) show a commitment to inclusion and diversity; and (6) 
+serve the Department, College of Science, and the University. 
+
+https://jobregister.aas.org/ad/c0e4162e
+
+Further information and application materials must be submitted 
+electronically to: 
+
+https://jobs.utsa.edu 
+
+Use requisition number 6742. 
+
+Review of applications will begin on November 1, 2021. Complete 
+applications received by this date are guaranteed full consideration. 
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+October 14-15, 2021
+ExMAG Meeting
+https://www.lpi.usra.edu/exmag/meetings/exmagfall2021
+Online
+
+April 20-22, 2022
+Atmospheres: The Physics and Chemistry of Planetary Gaseous 
+Environments
+https://chiantitopics.it
+Florence, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Road to an Archival Data Format-Data Structures
+Anne Raugh and J. Steven Hughes 2021 PSJ 2:204
+https://doi.org/10.3847/PSJ/ac1f22
+
+Physical Characterization of Metal-rich Near-Earth Asteroids 6178 
+(1986 DA) and 2016 ED85
+Juan A. Sanchez et al. 2021 PSJ 2:205
+https://doi.org/10.3847/PSJ/ac235f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,222 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 24 (May 25, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. [NASA] PDS - Rosetta Mission Data Release: Asteroid Lutetia Fly-By
+   and More
+2. Boston AAS Evening Splinter Meeting: Science with the ASTRO-1 Space 
+   Telescope
+3. NASA Postdoctoral Fellowships
+4. Jovian Magnetic Field and Magnetosphere Post-doc Researcher
+5. Space Policy Internships at the NRC's Space Studies Board
+6. Planetary Meeting Calendar Additions
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS - ROSETTA MISSION DATA RELEASE: ASTEROID LUTETIA FLY-BY AND 
+MORE
+
+The NASA Planetary Data System is pleased to announce that the 
+following datasets have been released as lien-resolved and archived:
+
+EPOXI mission, new data:
+HRI-IR C/Garradd (2009 P1) Raw and Calibrated Spectra
+HRI-IR C/ISON (2012 S1) Raw and Calibrated Spectra
+HRI-VIS C/Garradd (2009 P1) Raw and Calibrated Images
+MRI-VIS C/Garradd (2009 P1) Raw and Calibrated Images
+MRI-VIS C/ISON (2012 S1) Raw and Calibrated Images
+HRI-IR In-flight Lunar Calibrated Spectra
+HRI-IR EPOCh Mars Calibrated Spectra
+
+EPOXI mission, recalibrated data:
+103P/Hartley 2 Calibrated Spectra v3.0
+HRI-IR EPOCh Earth Calibrated Spectra v2.0
+
+Deep Impact mission, recalibrated data:
+HRI-IR 9P/Tempel 1 Encounter Reduced Spectra v3.0
+HRI-VIS 9P/Tempel 1 Encounter Calibrated Images v3.0
+MRI-VIS 9P/Tempel 1 Encounter Reduced Images v3.0
+ITS-VIS 9P/Tempel 1 Encounter Reduced Images v3.0
+
+Comet 9P/Tempel 1 groundbased observations (Deep Impact mission 
+support):
+KPNO 2.1m 9P/Tempel 1 Images from February to June 2005
+Kitt Peak Mayall 4m MOSAIC Images of 9P/Tempel 1 from 2005 
+around DI Encounter
+
+The data can be accessed through the PDS Small Bodies Node. To see and 
+download the data as well as mission and instrument information, go to:
+
+http://pdssbn.astro.umd.edu/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+BOSTON AAS EVENING SPLINTER MEETING: SCIENCE WITH THE ASTRO-1 SPACE 
+TELESCOPE
+
+When: Tuesday, June 3, at 8PM EDT
+Where: St. George CD, Westin Copley Place
+
+The BoldlyGo Institute is planning to execute privately funded, 
+cutting-edge Discovery-class and Probe-class space science missions 
+during the next decade and beyond. One such mission is ASTRO-1, a 2-m 
+class space telescope working at UVIS wavelengths to be launched in the 
+post-HST era with advanced imaging and spectroscopic capabilities for 
+studying galaxy and stellar populations, exoplanetary systems, Solar 
+System objects, star formation, the ISM/IGM, time domain astrophysics, 
+large-scale structure, and much more. It will be placed into a Lagrange 
+point or heliocentric orbit to maximize observing efficiency and to 
+allow it to be paired with an external starshade. Join us to learn how 
+you can become involved and to help BoldlyGo Institute launch the era 
+of NewSpace Science!
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18115
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POST-DOC RESEARCHER
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Jupiter's magnetic field and magnetosphere, using data from the 
+Juno (New Frontier) mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/#Juno
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an equal opportunity employer.  All 
+applications received by Sept. 26, 2014 will receive full 
+consideration.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SPACE POLICY INTERNSHIPS AT THE NRC'S SPACE STUDIES BOARD
+
+Lloyd V. Berkner Space Policy Internships are offered twice annually 
+in Washington, D.C., by the National Research Council's Space Studies 
+Board. The summer 2014 program is restricted to undergraduates and 
+available slots already have been filled. Vacancies still exist in 
+the autumn 2014 program, which is open to both undergraduate and 
+graduate students. Applications for the autumn program will be 
+accepted until June 20, 2014. Successful candidates will be contacted 
+by July 17, 2014.  Additional information about the program, including 
+application procedure, can be found at: 
+
+http://sites.nationalacademies.org/SSB/ssb_052239
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+August 11-14 2014
+1st LSST Observing Cadences Workshop 
+https://project.lsst.org/meetings/lsst2014/
+Phoenix, AZ
+
+October 29-31, 2014
+International Conference on Space Exploration
+http://space-explo2014.com
+Strasbourg, France
+
+June 29 - July 3, 2015
+From Super-Earths to Brown Dwarfs: Who's Who? 
+http://www.iap.fr/activites/colloques_ateliers/colloque_IAP/
+colloqueiap.php?annee=2015
+Paris, France
+
+July 6-8, 2015
+The Second Workshop on Measuring Precise Radial Velocities
+http://exoplanets.astro.yale.edu/workshop/EPRV.php
+New Haven, CT
+
+August 3-14. 2015
+XXIX IAU General Assembly
+http://astronomy2015.org
+Honolulu, HI
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

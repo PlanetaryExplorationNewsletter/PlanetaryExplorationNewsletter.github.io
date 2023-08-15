@@ -1,0 +1,282 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 41 (October 1, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Mars Exploration Rovers Data Release 53
+2. Science of Primitive Asteroid Sample Return Missions
+3. [NASA] MER Spirit Mini-Tes Corrected Spectra Data
+4. ROSES-17 Amendment 35: Delay of C.5 Exobiology Step-2 Due Date
+5. Women in Planetary Science and Exploration Conference 
+6. Planetary Geomorphology Image of the Month
+7. Student and Early Career Travel Grants for Vexag Meeting #15
+8. Postdoctoral Position
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] MARS EXPLORATION ROVERS DATA RELEASE 53
+
+The Planetary Data System (PDS) is pleased to announce Release 53
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 4591 through 4680, rover Opportunity (MER1/B), instruments:
+  APXS
+  Atmospheric Opacity
+  HAZCAM
+  MI
+  NAVCAM
+  PANCAM
+  Rover Motion Counter
+  SPICE
+
+There is no RAT or Radio Science data in this release, and no more
+Mini-TES or Moessbauer data is expected. 
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170921.shtml
+
+The following special services are provided for accessing MER data:
+MER Analyst's Notebook:
+
+http://an.rsl.wustl.edu/mer
+  
+Planetary Image Atlas: 
+
+https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+  
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+  
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+  
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov
+
+  
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SCIENCE OF PRIMITIVE ASTEROID SAMPLE RETURN MISSIONS
+
+We welcome everyone to the RAS SD meeting entitled 'Science of
+Primitive Asteroid Sample Return Missions' on Friday, 13th October
+2017. The meeting will be held at the RAS Burlington House. More
+information regarding the meeting, including the EventBrite
+registration link can be found at:
+
+https://www.ras.org.uk/component/gem/?id=481 
+
+Also, the schedule of talks can be found at:
+
+https://www.kerridonaldsonhanna.com/meetings 
+
+There are available spaces for poster presentations during coffee and
+lunch breaks. If you are interested in presenting a poster please
+contact: Kerri.DonaldsonHanna@physics.ox.ac.uk 
+
+See you all at the meeting! 
+
+Kerri, Sara, Ian, Neil, Ashley and Ben (organisers)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] MER SPIRIT MINI-TES CORRECTED SPECTRA DATA
+
+The Planetary Data System (PDS) announces the release of a new data
+set, Spirit Mars Exploration Rover (MER) Mini-TES Artifact-Corrected
+Spectra. The data set was prepared by Steve Ruff, Arizona State
+University, with funding from the NASA PDART program.
+
+The data set can be accessed from the PDS Geosciences Node web page for
+MER data:
+
+http://pds-geosciences.wustl.edu/missions/mer
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ROSES-17 AMENDMENT 35: DELAY OF C.5 EXOBIOLOGY STEP-2 DUE DATE
+ 
+To give more time to proposers without power because of hurricanes, the
+Step-2 proposal due date for C.5 Exobiology has been delayed to October
+24, 2017.
+
+Go to:
+
+http://nspires.nasaprs.com
+
+and the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2017/
+
+Questions concerning these program elements may be directed to Michael
+New at: michael.h.new@nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+WOMEN IN PLANETARY SCIENCE AND EXPLORATION CONFERENCE 
+
+The first Women in Planetary Science and Exploration Conference will be
+held in Toronto, February 17-18, 2018. We welcome abstracts from
+everyone, and they're due November 1st. 
+
+For more information please visit:
+
+http://wpse2018.ca
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "A Wunda-full world? Carbon dioxide ice deposits
+on Umbriel and other moons of Uranus". Contributed by Dr. Mike Sori,
+Lunar and Planetary Laboratory, University of Arizona, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+STUDENT AND EARLY CAREER TRAVEL GRANTS FOR VEXAG MEETING #15
+ 
+Student and early career (less than 5 years from PhD) travel support
+may be available for VEXAG Meeting #15, November 14-16, 2017, Applied
+Physics Laboratory, Laurel, Maryland. Selected recipients of travel
+grants are expected to present a poster.
+ 
+Provide a Notice of Intent by Friday, October 20, 2017 to
+twthompson@jpl.nasa.gov containing:
+ 
+1. A one-page description of how your participation in this meeting
+will benefit you professionally and contribute to NASA's explorations
+of Venus and an overview of your poster,
+2. Your resume
+3. An endorsement from a faculty member.
+ 
+For logistical reasons, also provide:
+- Legal Full Name
+- Date of Birth
+- City/State of Birth
+- Preferred Email Address and Phone Numbers
+- Home Address
+- Emergency Contact - Name, Relationship, and Phone Number
+- Your Affiliation with Full Address and Phone Number
+- Gender
+ 
+If you are a foreign national or permanent resident alien, also 
+provide:
+- Country of Citizenship
+- Birth Date and Birth City, State/Region and Country
+- Passport Number, with Expiration Date
+- Visa Type, with Effective and Expiration Dates
+- Alien Registration # (if applicable)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL POSITION
+
+The Department of Space Studies at Southwest Research Institute
+(Boulder) seeks a postdoctoral researcher to support activities of the
+Spectral Analysis Working Group of the OSIRIS-REx mission prior to and
+during spacecraft operations at the asteroid (101955) Bennu. The
+successful candidate will have a demonstrated ability to carry out
+independent research in the area(s) of solid surface planetary and/or
+laboratory spectroscopy (VNIR and/or TIR), and is expected to publish
+scientific papers on a regular basis. This position entails regular
+travel (about two weeks duration, every other month) to Ithaca College
+(Ithaca, NY), travel to science team meetings (two/year, usually in
+Tucson AZ), and co-location in Tucson AZ for mission-critical events,
+primarily in the first half of calendar year 2019. The desired start
+date is 2 January 2018; the position is for two years, with the
+potential to extend for a third year.
+
+Applications must include a curriculum vitae, cover letter, statement
+of research interests and contact information for three professional
+references.
+
+Applications will be accepted immediately, with reviews starting 15
+October, and the application deadline is 5:00 pm CDT, 30 October 2017.
+For more information on desired qualifications and to submit an
+application go to:
+
+https://resapp.swri.org/ResApp/Job_Search_Results.aspx?DETAIL=15-01241
+
+Contact: Vicky Hamilton (hamilton@boulder.swri.edu)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 24-29, 2018
+Astrobiology Australasia Meeting
+http://astrobiology.nz/announcement-for-the-astrobiology-australasia-
+meeting-and-grand-tour-2018
+Rotorua, New Zealand
+ 
+July 1-9, 2018
+Astrobiology Grand Tour
+http://astrobiology.nz/announcement-for-the-astrobiology-australasia-
+meeting-and-grand-tour-2018
+Denham, Australia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

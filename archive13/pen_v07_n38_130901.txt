@@ -1,0 +1,595 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 38 (September 1, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Memorial for Dr. Michael J. Wargo, October 17, 11:00-12:00
+2. Ames Research Center Job Announcement AR13B0014, Research Space 
+   Scientist, AST, Planetary Studies, GS-1330-12/13 
+3. Auroral Planetary Imaging and Spectroscopy (APIS) Service
+4. The Lunar Workshops
+5. Mars Exploration Science Monthly Newsletter - September 2013
+6. EPSC Workshop: Earth-Based Observations in Support of the New 
+   Horizons Pluto Encounter
+7. VEXAG Meeting #11 Updates - Registration, Logistics, and Student 
+   Travel Grants
+8. Postdoctoral Fellow, Geophysical Institute, University Of Alaska
+   Fairbanks
+9. NASA Infrared Telescope Facility Observing Proposals
+10. NASA Postdoctoral Fellowships
+11. JWST Townhall at the DPS 2013 Meeting: Observations in the Solar 
+    System
+12. James Webb Space Telescope Postdoctoral Fellowships at NASA's 
+    Goddard Space Flight Center
+13. 48th ESLAB Symposium: New insights into Volcanism Across the Solar 
+    System
+14. University of California, Santa Cruz Department of Earth and 
+    Planetary Sciences
+15. Mars Critical Data Products Program (Round VIII) - Comet Siding 
+    Spring Modeling
+16. [NASA] PDS - Mars Science Laboratory Release 3
+17. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. New Book on Planetary Geology
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MEMORIAL FOR DR. MICHAEL J. WARGO, OCTOBER 17, 11:00-12:00
+
+Mike's family has asked us to invite all friends and colleagues to a 
+memorial for Mike on Thursday, October 17, 2013, 11:00-12:00, at the 
+NASA Headquarters Auditorium. There will be a light lunch available 
+immediately after when Adele and family hope to have a chance to meet 
+and talk with Mike's friends and colleagues. 
+
+There will be a formal announcement and press release later.
+
+Please do not hesitate to contact me with questions,
+
+Best Regards,
+Victoria P. Friedensen
+202-358-1916
+victoria.p.friedensen@nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AMES RESEARCH CENTER JOB ANNOUNCEMENT AR13B0014, RESEARCH SPACE 
+SCIENTIST, AST, PLANETARY STUDIES, GS-1330-12/13
+
+https://www.usajobs.gov/GetJob/ViewDetails/349635800
+
+NASA, the world's leader in space and aeronautics is always seeking 
+outstanding scientists, engineers, and other talented professionals to 
+carry forward the great discovery process that its mission demands.
+
+The Exobiology Branch (Code SSX) at NASA Ames Research Center is 
+currently seeking interested applicants for the position of Research 
+Space Scientist. The incumbent is responsible for conducting 
+microbiological and/or geologic research to identify biosignatures that 
+characterize past/present life in environments related to astrobiology. 
+He/she studies the origin, composition, structure, and evolution of 
+the solar system, including planets and satellites; the Earth and Moon; 
+and meteorites, asteroids, comets and dust. As a Research Space 
+Scientist, the incumbent is responsible for conducting research 
+involving modern field samples, ancient terrestrial rocks, meteorites, 
+extraterrestrial materials, ices, Mars analog rocks, and returned data 
+from spaceflight missions. He/she conducts research that emphasizes on 
+the elucidation and characterization of modern, ancient, or 
+extraterrestrial habitable zones and mineral biosignature. This 
+includes the evaluation of preservation potential related to 
+biosignatures; primary/secondary mineral phases associated with 
+habitable zones; and the development of databases, microbial specimens, 
+and geological collections for planetary studies and spacecraft 
+missions.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AURORAL PLANETARY IMAGING AND SPECTROSCOPY (APIS) SERVICE
+ 
+Dear all,
+
+The APIS service (for Auroral Planetary Imaging and Spectroscopy) was 
+officially opened at the occasion of the Magnetospheres of Outer 
+Planets meeting, Athens, 8-12 July 2013. It is now accessible at the 
+address: 
+
+http://lesia.obspm.fr/apis/ 
+
+with the support of the Virtual Observatory of Paris.
+
+It consists of a database of all HST Far-UV spectro-imaging 
+observations of the outer planets (Jupiter, Saturn and Uranus) 
+acquired by the STIS and ACS instruments from 1997 up to now 
+(which makes ~5000 individual images and spectra), declined under 
+various types of high level data (e.g. cylindrical/polar projections). 
+The data are available in different formats (jpg, pdf, fits) and 
+can be browsed and sorted out with a dedicated search interface. 
+Interactive tools (Aladin, Specview) also enable the user to 
+directly work on images and spectra online. 
+
+Please let us know if you have any question, comment or suggestion.
+
+On behalf of the APIS team,
+Laurent Lamy
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+THE LUNAR WORKSHOPS
+
+Cislunar space will be the training ground for the human expansion 
+into the solar system in the 21st century. We will learn to work and 
+live in space on and around the Moon. We will discover what new science 
+awaits us in deep space and how to measure and explore these extreme 
+environments by studying Lunar analogs. We will use Cislunar space as 
+a staging ground, a resource depot and the gateway for all major deep 
+space mission in the furture. In order to attract capital, science, 
+technology and excitement to Cislunar space we have created The Lunar 
+Workshops.
+
+These workshops will bring together top scientists, engineers, 
+investors and entrepreneurs in a highly interactive, collaborative 
+environment to discuss what's now and what's next in Lunar exploration.
+
+The Lunar Workshops: 
+
+http://www.lunarworkshops.com
+
+* International Workshop on LunarCubes (LCW) - LCW 3 - 
+  November 13-15, 2013 in Mountain View, CA. 
+* International Workshop on Lunar Superconductor Applications (LSA) -
+  LSA 4 - April 9-11, 2014 in Cocoa Beach, FL. 
+* International Workshop on Scientific Opportunities in Cislunar 
+  Space (SOCS) - SOCS 1 - March 16, 2014 in Houston, TX. 
+  
+Meeting Websites: (Note: active Monday, Sept. 2, 2013)
+
+http://www.lunarcubes.com
+
+http://www.lsaworkshops.com
+
+http://www.socsworkshops.com
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - SEPTEMBER 2013
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Charles Budney of the Mars Program Science Office, the September 2013 
+edition of the Mars Exploration Science Monthly Newsletter is 
+available on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC WORKSHOP: EARTH-BASED OBSERVATIONS IN SUPPORT OF THE NEW HORIZONS 
+PLUTO ENCOUNTER
+
+Earth-based observations of the Pluto system will enhance, and provide 
+context for, the science returned by New Horizons spacecraft during 
+its July 2015 encounter with Pluto. See:
+
+http://www.boulder.swri.edu/nh-support-obs/ 
+
+for details and register your interest by sending an email to 
+nhobs "at" swri.boulder.edu. There will be a lunchtime workshop at the 
+London EPSC meeting to discuss the New Horizons mission's expected 
+needs for Earth-based support, and provide an opportunity for 
+discussion of observing plans. See:
+
+http://meetingorganizer.copernicus.org/EPSC2013/session/14720
+
+The meeting will be on Tuesday September 10th from 12:45 pm to 
+1:45 pm in the Mercury room. Contact the convener, John Spencer 
+(spencer "at" boulder.swri.edu) if you are interested in participating.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+VEXAG MEETING #11 UPDATES - REGISTRATION, LOGISTICS, AND STUDENT TRAVEL 
+GRANTS
+
+VEXAG Meeting #11 will be held in the James E. Webb Auditorium at NASA 
+Headquarters, Washington DC with 2 full day sessions on Tuesday, 
+Wednesday, November 19-20, 2013 and a half-day session Thursday, 
+November 21, 2013. Tuesday, November 19th will be a full-day Venus 
+Technology Forum.
+
+Registration and Logistics are now available via a link the VEXAG 
+Web-Site:
+
+http://www.lpi.usra.edu/vexag/
+
+A block of sleeping rooms is currently on hold for VEXAG Meeting 
+participants at the Residence Inn Marriott, located at 333 E Street, 
+SW Washington, DC 20024 until September 30, 2013 the deadline for 
+reservations.
+
+Applications for Student Travel Grants should be submitted via a 
+second link on the VEXAG Web-Site:
+
+http://www.lpi.usra.edu/vexag/
+
+Deadline for submission is September 30, 2013. Selections will be 
+announced in mid-October.
+
+Objectives for this meeting are to conduct a community review of new 
+and updated VEXAG documents:
+* Venus Exploration Goals, Objectives and Investigations (update)
+* Venus Exploration Road-Map (new)
+* Technologies for Venus (new)
+
+In addition, there will be status reports on a number of ongoing 
+Venus related activities.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL FELLOW, GEOPHYSICAL INSTITUTE, UNIVERSITY OF ALASKA
+FAIRBANKS
+
+The Geophysical Institute, University of Alaska Fairbanks, is seeking
+a geoscientist to develop expertise for stereo photogrammetry with a
+range of Alaska and planetary data sets. The scientist will then use
+some of those data sets to conduct analyses of terrestrial and
+planetary volcanic and impact-melt features. Position is funded for
+three years, and it is common for postdocs to transition to permanent
+faculty positions at UAF. Applicants should have a PhD in a relevant
+field (successful dissertation defense in Fall semester, 2013, is
+acceptable). Experience in fluid mechanics, photogeology, volcanology,
+impact cratering mechanics, stereo photogrammetry, and using SOCET SET
+software are desired, but not required, job skills. See the YouTube
+recruiting video at:
+
+http://www.youtube.com/watch?v=5BYleBbjjHc
+
+Further inquiries can be directed to Robert Herrick
+(rherrick@gi.alaska.edu).
+
+Apply for position at:
+
+http://www.uakjobs.com, posting 0067258
+
+Review of applications will begin September 23, 2013, and
+applications will be considered until the position is filled.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA INFRARED TELESCOPE FACILITY OBSERVING PROPOSALS
+
+The due date for the 2014A semester (February 1, 2014 to July 31, 2014)
+is Tuesday, October 1, 2013. See our online submission form. 
+Information on available facility and visitor instruments can be 
+found at: 
+ 
+http://irtfweb.ifa.hawaii.edu/Facility/
+ 
+Observing on-site or remote observing is available with NSFCAM and 
+CSHELL. NSFCAM has been upgraded with a new array and controller; 
+please see the instrument webpage for more information, including 
+performance. Important notice: SpeX will not be available for semester 
+2014A. SpeX is being upgraded with new arrays and array controllers.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+For sample opportunities see:
+
+https://www3.orau.gov/NPDoc/Catalog/18713   
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+Latest NPP Newsletter: 
+
+http://bit.ly/14cNpfH
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+JWST TOWNHALL AT THE DPS 2013 MEETING: OBSERVATIONS IN THE SOLAR SYSTEM
+
+When: Thursday, October 10, 2013 12-1pm  
+
+Where: Sheraton Denver Downtown Hotel, Plaza ABC
+
+How: Email stefanie.n.milam (at) nasa.gov to register.
+
+NOTE: Northrop Grumman will sponsor a free lunch for pre-registered 
+attendees only.
+
+Last year we held a workshop to provide the community details about 
+the current instrument specifications and observing modes for solar 
+system targets, as well as the observatory constraints such as 
+brightness limits on planets, moving targets, tracking, and others. 
+All details can be found online at:
+
+http://www.stsci.edu/jwst/science/solar-system
+
+This Town Hall meeting will bring the community up to speed on the 
+accomplishments and status of the recommendations provided to the 
+JWST team last year regarding solar system observations and solicits 
+the community for further input. We will feature a short science 
+presentation by Andrew Rivkin (JHU/APL). 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JAMES WEBB SPACE TELESCOPE POSTDOCTORAL FELLOWSHIPS AT NASA'S GODDARD 
+SPACE FLIGHT CENTER
+
+The James Webb Space Telescope (JWST) Project at NASA's Goddard Space 
+Flight Center (GSFC) invites applications through the NASA 
+Postdoctoral Program (NPP) to carry out postdoctoral research in 
+astrophysics, astronomical instrumentation or planetary science. The 
+applicant will work directly with one of the JWST Project Scientists 
+and will be resident at GSFC. The science objectives of JWST include 
+the initial formation of galaxies in the early Universe, galaxy 
+evolution including active galactic nuclei (AGN), star and planetary 
+system formation, exoplanets and Solar System objects. Research 
+relevant to JWST's science goals could include theoretical studies or 
+be based on observations taken with current space-based or ground-
+based facilities. See the AAS job register for details at: 
+
+http://jobregister.aas.org/node/45506
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+48TH ESLAB SYMPOSIUM: NEW INSIGHTS INTO VOLCANISM ACROSS THE SOLAR 
+SYSTEM
+
+We are pleased to invite you to the 48th ESLAB Symposium on "New 
+insights into volcanism across the Solar System". The Symposium will
+take place from 16-20 June 2014 at the European Space Research and 
+Technology Centre (ESTEC) located in Noordwijk, The Netherlands.
+
+It will focus on volcanism in the Solar System. Of particular interest, 
+but not limited to, will be new insights obtained over the last years 
+from international space missions to planets (e.g., MESSENGER, LRO, 
+Selene, etc.), Moons and cryo-volcanism. The connection with Earth by 
+will be covered by experts on terrestrial volcanism.
+
+The format will be made up of plenary sessions on topics related to 
+volcanism in the Solar System, with contributed oral and poster 
+presentations. Part of the Symposium may be devoted to parallel 
+sessions on specialized topics where details can be discussed at 
+greater length. This will depend on the response to the Call for 
+Papers.
+
+Other information is available at: 
+
+http://congrexprojects.com/2014-events/48-ESLAB/
+
+Pre-registration is already available on this website which will ensure 
+that you receive regular updates from the Symposium organisers.
+
+Financial support may be available for students.
+
+The LOC, 48th ESLAB
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+UNIVERSITY OF CALIFORNIA, SANTA CRUZ DEPARTMENT OF EARTH AND PLANETARY 
+SCIENCES
+
+Assistant Professor in Planetary Sciences
+
+The Department of Earth and Planetary Sciences at the University of 
+California, Santa Cruz (UCSC) invites applications for a position in 
+planetary sciences, at the Assistant Professor (tenure-track) level. 
+Applicants' research should focus primarily on processes and bodies 
+in this solar system (other than Earth). We have a preference for 
+candidates concentrating on research areas that include, but are not 
+restricted to: planetary atmospheres; planetary surface processes; 
+cosmochemistry; impact processes; and orbital dynamics. We also 
+welcome qualified applicants whose technical expertise will build 
+upon or complement our existing strength in areas such as planetary 
+interiors and fluid dynamics.
+
+Apply at https://recruit.ucsc.edu/apply/JPF00057
+
+Refer to Position #JPF00057-14 in all correspondence.
+CLOSING DATE: October 21, 2013.
+
+UCSC is an Affirmative Action/Equal Employment Opportunity Employer, 
+committed to excellence through diversity.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS CRITICAL DATA PRODUCTS PROGRAM (ROUND VIII) - COMET SIDING SPRING 
+MODELING
+
+The Mars Exploration Program has issued, in August 2013, a Request for 
+Proposal for round VIII of the Mars Critical Data Products program. 
+This RFP provides support of the modeling the dust and particle 
+environment of Comet 2013 A1 (Siding Spring) during its encounter with 
+Mars in October 2014. The intent is to provide data products useful 
+for risk assessment and mitigation strategy development for the Mars 
+orbiter missions, due to possible impacts from dust and ion tail 
+particles as this comet encounters Mars. Proposals are due on 
+Wednesday, September 11, 2013.
+
+Details of the RFPs are posted at: 
+
+https://acquisition.jpl.nasa.gov/RFP/MJ-2692-072413/default.htm 
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/ 
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] PDS - MARS SCIENCE LABORATORY RELEASE 3
+
+The NASA Planetary Data System announces the third release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sols 180 through 269 (February 6 to May 9, 2013).
+
+This release consists of raw and derived data sets from instruments:
+  APXS
+  ChemCam
+  CheMin
+  DAN
+  Hazcam
+  MAHLI
+  MARDI
+  Mastcam
+  Navcam
+  RAD
+  REMS
+  SPICE
+  SAM
+
+To access the above data for this release:
+
+http://pds.nasa.gov/subscription_service/SS-20130830.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node 
+website:
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from the main PDS home page:
+
+http://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+
+- The Planetary Image Atlas at the Imaging Node allows selection of 
+MSL image data by specific search criteria.  
+
+http://pds-imaging.jpl.nasa.gov/search
+
+- The MSL Analyst's Notebook at the Geosciences Node allows searching 
+and downloading of all MSL data in the context of mission events.  
+
+http://an.rsl.wustl.edu/msl
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 13-15, 2013
+International Workshop on LunarCubes (LCW) - LCW 3 
+http://www.lunar-cubes.com/
+Mountain View, CA
+ 
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+NEW BOOK ON PLANETARY GEOLOGY
+
+Now available from Dunedin Academic Press, "Planetary Geology: An 
+Introduction (Second Edition)" [ISBN 9781780460154 - $49.50] is written 
+by Claudio Vita-Finzi and Dominic Fortes. Recent planetary missions by 
+NASA, the European Space Agency, and other national agencies have 
+reaffirmed that the geological processes which are familiar from our 
+studies of the Earth operate on many solid planets and satellites. 
+Common threads link the internal structure, thermal evolution, and 
+surface character of both rocky and icy worlds. Volcanoes, impact 
+craters, ice caps, dunes, rift valleys, rivers, and oceans are 
+features of extra-terrestrial worlds as diverse as Mercury and Titan. 
+"Planetary Geology" provides students and armchair enthusiasts with 
+comprehensive coverage of the solar system viewed through the eyes 
+of Earth scientists. This comprehensively updated second edition 
+presents fresh evidence that planetary geology now embraces 
+conventional geology and vice versa. Great for classes, the book 
+contains numerous color illustrations. Place orders with Dunedin's 
+North America distributor, International Specialized Book Services 
+(ISBS) - phone 1-800-944-6190. ISBS website is:
+
+http://www.isbs.com/partnumber.asp?cid=27406&pnid=413275
+
+David Craft
+503-287-3093
+www.isbs.com
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

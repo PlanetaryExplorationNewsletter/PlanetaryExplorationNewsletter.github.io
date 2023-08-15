@@ -1,0 +1,485 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 39 (September 9, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: September 12, 1962 
+2. Planetary Geomorphology Image of the Month
+3. DPS Workshop on Planetary Science on Commercial Suborbital Platforms
+4. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+5. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 22
+6. NASA Postdoctoral Fellowships
+7. 8th IAG International Conference on Geomorphology - August 2013
+8. Call for Proposals for the NASA Infrared Telescope Facility (IRTF)
+9. [NASA] Final Text for Salmon-2 AO: Jupiter Icy Moons Explorer 
+   Instrument
+10. [NASA] PDS MESSENGER Release 8
+11. Announcing LunarCubes Science Briefing at DPS Reno, NV
+12. Magnetospheres of the Outer Planets 2013
+13. VEXAG Newsletter 
+14. DAWN Grand L1A Data Release
+15. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+C1. Galactic Analytics Helps to Find Recent Meteorites
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: SEPTEMBER 12, 1962
+
+More than a year earlier, President Kennedy had announced before 
+Congress the dramatic goal of sending an American to the Moon before 
+the end of the decade. We were in a race with the Soviet Union. On 
+September 12, 1962, President Kennedy gave another speech at Rice 
+University, where he laid out a broader vision of national leadership, 
+economic progress and sheer challenge for going to the Moon and 
+exploring space. It was an exhilarating time. 
+
+While Kennedy laid out some broader motivations, once we reached the 
+Moon the American human exploration program almost collapsed. It has 
+suffered ever since from a lack of long term purpose beyond 
+maintaining a level of national prestige and technological capability. 
+A long term purpose is not beyond our reach. It is needed to provide 
+necessary focus to our human space efforts. I reach back to the public 
+visions of the future in the 1960s, when we thought we all might have 
+a future beyond Earth. 
+
+I envision President Obama at Rice University on the 50th anniversary 
+of Kennedy's speech, laying out a renewed vision:
+
+http://planetarypolicy.org/obama_at_rice
+
+Mark V. Sykes
+Planetary Science Institute
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August 'Image of the Month' is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Sep12Image.html
+
+This Month's topic is on "Sturzstroms on Saturn's Moon Iapetus".
+
+Image and caption provided by Kelsi Singer. Ph.D Candidate, Earth and
+Planetary Sciences, Washington University, USA.
+ 
+Past images and captions are available at:
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+DPS WORKSHOP ON PLANETARY SCIENCE ON COMMERCIAL SUBORBITAL PLATFORMS
+
+October 14, 2012, Sunday 2:00 - 4:00 Pm
+ 
+The most recent Planetary Sciences Decadal Survey report, Visions and 
+Voyages for Planetary Science 2013-2022, highlights the potential 
+advantages of using suborbital platforms for planetary science 
+experiments. Suborbital vehicles not only provide platforms for 
+science observations and experiments, the modest costs and development
+times for suborbital missions mean they also provide excellent 
+training opportunities for future spacecraft mission PIs and 
+developers of spacecraft instruments. Suborbital platforms also offer 
+advantages for increasing technology readiness level for flight 
+experiments at a fraction of the costs of traditional orbital 
+platforms.
+  
+Visions and Voyages discusses only balloons and rockets, but reusable
+commercial suborbital vehicles also provide a new opportunity to do 
+science outside the traditional and costly, low-risk approach. This 
+workshop will examine how commercial suborbital vehicles can be 
+exploited to use new approaches to instrumentation, spacecraft and 
+mission design to answer planetary science questions.
+  
+Composed of talks and panel discussions, this workshop will: Present
+science results and lessons learned from planetary scientists engaged 
+in research using reusable commercial suborbital vehicles; Explore 
+opportunities for flying and funding experiments.
+
+http://www.psi.edu/dps12/sciprog.shtml
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical 
+interactions between intrusive and extrusive volcanic edifice growth, 
+lithospheric flexural response, and magma ascent, using numerical 
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery, 
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic 
+processes with advanced codes as COMSOL Multiphysics (FEM) and PFC 
+(DEM). Programming languages, MATLAB or FORTRAN 95 desirable. 
+The position is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to:
+
+https://usracareers.silkroad.com/
+
+Further information may be found at:
+
+www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: Mars Reconnaissance Orbiter Data Release 22
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:  CRISM, CTX, HiRISE, MARCI, MCS, RSS, SHARAD and SPICE.
+
+In general, MRO Release 22 includes data collected between 
+November 9, 2011 and February 8, 2012. The release includes 
+HiRISE data for April 30, 2012 - August 1, 2012 
+(orbits 27,000 - 28, 199).
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20120901.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+8TH IAG INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY - AUGUST 2013
+
+Please consider submitting an abstract to the special session on 
+Planetary Geomorphology:
+
+http://www.geomorphology-iag-paris2013.com/en/s3-%E2%80%93-planetary-
+geomorphology-iag-wg
+
+Deadline for abstract submission is October 15th.
+
+Funding to assist students will be available (more details will follow 
+after October).
+
+Mary Bourke & Nicholas Mangold
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR PROPOSALS FOR THE NASA INFRARED TELESCOPE FACILITY (IRTF)
+
+DEADLINE:  1 October 2012
+
+Proposals for observing time on the NASA Infrared Telescope Facility 
+for the February 1 through July 31, 2013 semester are due Monday, 
+October 1, 2012, 5:00 P.M. Hawaii Standard Time.
+
+Submission at:
+
+http://irtfweb.ifa.hawaii.edu/observing/applicationForms.php
+
+Please note that we allow only one page each for the Scientific 
+Justification and the Technical Justification. You may include one
+additional page for figures and tables. Submit these as a pdf 
+attachment via the online form.
+
+Observers should read the information on the current IRTF instrument 
+complement and also on the visitor instruments that are available on 
+a collaborative basis at:
+
+http://irtfweb.ifa.hawaii.edu/Facility/
+
+Facility instruments include: 
+* SpeX (0.8-5.4 micron spectrograph)
+* NSFCAM2 (1-5 micron camera)
+* CSHELL (1-5 micron high-resolution spectrograph) 
+
+Visitor instruments (available on a collaborative basis with the 
+instrument team) include: 
+* TEXES (5-20 micron high-resolution spectrograph; contact Matt 
+  Richter at richter@physics.ucdavis.edu)
+* BASS (3-14 micron spectrometer; contact David Lynch at 
+  david.k.lynch@aero.org)
+* CELESTE (5-25 micron echelle spectrometer; contact Don Jennings at 
+  donald.e.jennings@nasa.gov)
+* HIPWAC (9-12 micron heterodyne spectrometer; contact Ted Kostiuk at 
+  theodor.kostiuk-1@nasa.gov).
+
+Remote observing is available with SpeX, NSFCAM2, and CSHELL from 
+any site that is convenient for the observer.
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] FINAL TEXT FOR SALMON-2 AO: JUPITER ICY MOONS EXPLORER 
+INSTRUMENT
+    
+This Program Element Appendix (PEA) solicits proposals for NASA-funded 
+instrument investigations led by a U.S. Principal Investigator (PI) 
+for the ESA JUICE mission.
+ 
+This amendment presents updated text for Appendix K, JUpiter ICy 
+Moons Explorer Instrument, which adds additional text and requirements 
+to Sections 5.1 and 5.2. The due date for proposals has not changed.
+ 
+The due date for proposals for the solicitation has not changed. 
+The submission of an Experiment Interface Document - Part B (EID-B) 
+is now required by October 8, 2012. 
+ 
+This Amendment to the NASA Announcement of Opportunity "Second Stand 
+Alone Missions of Opportunity (SALMON-2)" (NNH12ZDA006O) is posted on 
+the NASA research opportunity home page at:
+
+http://nspires.nasaprs.com/
+ 
+Questions concerning Appendix K, JUpiter ICy Moons Explorer 
+instrument, may be addressed to:
+Dr. Curt Niebur
+curt.niebur@nasa.gov
+(202) 358-0390
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS MESSENGER RELEASE 8
+
+The Planetary Data System is pleased to announce Release 8 of data 
+collected by the MErcury Surface, Space ENvironment, GEochemistry, 
+and Ranging (MESSENGER) mission.  After a 6.6-year cruise phase, during 
+which the spacecraft flew by Earth once, Venus twice, and Mercury 
+three times, MESSENGER entered orbit about the innermost planet on 
+18 March 2011, becoming the first spacecraft ever to do so. The primary 
+orbital phase lasted one Earth-year, and the spacecraft is now in an 
+extended year of orbital operations.
+
+This delivery extends the formatted raw and calibrated data available
+at the PDS for all seven MESSENGER science instruments and the radio 
+science investigation from 17 September 2011 to 25 March 2012. SPICE 
+data from launch through the period of this release are also included.  
+With this release, data are now available to the public for the second 
+full Mercury solar day of MESSENGER orbital operations.
+
+All data sets in this MESSENGER release can be accessed from:
+
+http://pds.nasa.gov/subscription_service/SS-20120907.html
+
+PDS archive: 
+
+http://pds.nasa.gov
+
+The ACT-REACT QuickMap interactive Web interface to MESSENGER data:
+
+http://messenger.jhuapl.edu  
+
+http://www.nasa.gov/messenger
+
+The MDIS mosaics can be downloaded from:
+
+http://messenger.jhuapl.edu/the_mission/mosaics.html
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ANNOUNCING LUNARCUBES SCIENCE BRIEFING AT DPS RENO, NV
+
+In the last ten years five nations have sent nine missions
+to the Moon and in the next decade there will be many followup
+missions, add in the Google X Prize teams and space entrepreneurs 
+like Planetary Resources and we will have ten to twenty missions
+to cis-Lunar space including several Lunar landers.
+
+All of these missions are looking for science components, but are also 
+in a hurry to plant the flag or win the prize, with or without good 
+science on board.
+
+What simple science would you like to do?
+Experiments can range from demonstrations to that one
+measurement that could advance your science if only you had it.
+
+Dates:
+* LunarCubes Science Briefing, DPS Reno, NV - Oct 17, 2012
+* LunarCubes workshop Mountain View CA (Nov 4-6, 2012) - CANCELLED
+* LunarCubes Engineering Briefing, Ames, CA - Nov 2012 (Date TBD)
+* LunarCubes Missions Briefing, KSC, FL - April 11, 2013
+* 1st International Workshop on LunarCubes, Mountain View CA, 
+   Nov 6-8, 2013
+
+Video presentations and remote attendance are an 
+integral part of our planning. Please consider virtual presentation/
+attendance.
+
+Abstract submission and registration at:
+
+Lunar-Cubes.com
+
+For more information contact: 
+pamela.e.clark@nasa.gov
+russell.cox@flexureengineering.com
+
+[Edited for length.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MAGNETOSPHERES OF THE OUTER PLANETS 2013
+
+The 2013 MOP Conference will take
+place on July 8 to 12 in Athens, Greece.
+See http://space.academyofathens.gr/mop2013/
+
+Registration and abstract submission open: January 7, 2013
+Abstract submission deadline: May 1, 2013
+Registration deadline: May 31, 2013
+
+Nick Sergis, for the LOC
+mop2013athens@gmail.com
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+VEXAG NEWSLETTER
+
+Latest issue of the VEXAG newsletter has been posted at:
+
+www.lpi.usra.edu/vexag
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+DAWN GRAND L1A DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of Dawn GRaND L1a data for all mission phases through the end of the 
+Vesta Low Altitude Mapping Orbit (LAMO).
+
+To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 3-4, 2013
+1st Annual International Conference on Astronomy and Astrophysics 
+(Astro 2013)
+http://www.astro-conf.org/
+Singapore
+
+July 8-12, 2013
+Magnetospheres of the Outer Planets 2013
+http://space.academyofathens.gr/mop2013/
+Athens, Greece
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+GALACTIC ANALYTICS HELPS TO FIND RECENT METEORITES
+
+We offer a subscription-based service providing analysis of weather 
+radar imagery for predicting locations of meteorite strewn fields. 
+Meteorites are now being recovered from an August 21, 2012, fall in 
+northern Nevada using our service. Go to:
+
+http://www.galacticanalytics.com/
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************
+

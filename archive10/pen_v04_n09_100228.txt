@@ -1,0 +1,238 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 9 (February 28, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Nic Richmond, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AbGradCon 2010 - Europe Awaits
+2. [NASA] Letter from SARA (ROSES 2010)
+3. [NASA] Mars Exploration Rovers Data Release 23
+4. First Announcement:  Dusty Visions 2010
+5. Outer Planets Colloquium Series
+6. [NASA] PDS Releases EPOXI (EPOCh) Mission Data
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ABGRADCON 2010 - EUROPE AWAITS
+
+AbGradCon is the foremost astrobiology meeting for early-career 
+biologists, geologists, astronomers and students from related fields 
+with an interest in the origin and evolution of life in the Universe. 
+In 2010 it will be held in Europe for the first time in its history 
+(June 14-18). Graduate students and early-career postdocs from all 
+over the world are invited to come together in Taellberg, Sweden, 
+to present their research in a comfortable environment, to learn of 
+the latest developments in astrobiology, to network and to forge new
+collaborations. The meeting will comprise oral and poster 
+presentations, half-dayworkshops and a one-day field trip to 
+geologically instructive sites in the the astrobiologically interesting 
+Siljan impact crater. Attendees are encouraged from the very wide range 
+of subjects pertinent to astrobiology. Travel and accommodation will be 
+covered for all speakers and for most poster presenters. For more 
+information visit 
+
+http://www.abgradcon2010.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] LETTER FROM SARA (ROSES 2010)
+
+NASA's Research Opportunities in Space and Earth Sciences (ROSES 2010) 
+was released on Feb 12th. Some differences from last year's version 
+are described on the SARA (SERVICE AND ADVICE FOR RESEARCH AND 
+ANALYSIS) FAQ page.
+ 
+The first proposal due dates are not until Friday April 30, 2010 
+(proposals for Cassini Data Analysis, Cryospheric Science, and Earth 
+System Data Records Uncertainty Analysis are all due on that first 
+day).  Until then ROSES 2009 is still in effect (there are seven due 
+dates in March) and it remains a living document: Amendment 33 was 
+made just in the past week. You can now easily keep track of all 
+changes on the ROSES 2009 clarifications, corrections and amendments 
+page, which also has an RSS feed.
+ 
+As always, many updates have been made to the SARA web page, including 
+the list of program officers and the latest grant statistics. Not only 
+can you find all of the ongoing ROSES 2009 selections and archived 
+selections from ROSES 2008 and 2007 on html pages, the statistics are 
+combined in the "Grant Stats" files downloadable in either PDF or xl 
+format. All of this can be found at the SARA grant statistics page at
+
+http://nasascience.nasa.gov/researchers/sara/grant-stats
+ 
+Max Bernstein
+SARA@nasa.gov
+
+[Editor Note:  Shortened in length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA] MARS EXPLORATION ROVERS DATA RELEASE 23
+
+The Planetary Data System (PDS) is pleased to announce Release 23 of 
+Mars Exploration Rover data.  This release includes primarily data from 
+Sols 1891 through 1980 for both rovers.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100219.html
+  
+The following special services are provided for accessing MER data:
+ MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+    
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+  
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+    
+http://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FIRST ANNOUNCEMENT:  DUSTY VISIONS 2010
+
+A workshop on Dust Spectroscopy and Dust Astronomy will be held from 
+July 14-16, 2010 in Goettingen, Germany.
+
+In a workshop style we want to discuss the present state and new 
+venues in cosmic dust research.  Major topics of the workshop will 
+include interstellar dust, circumplanetary dust including dusty rings 
+and space debris, presolar and cometary dust, dust in interplanetary 
+space including Kuiper belt dust, dusty plasmas, dust in extrasolar 
+dust rings, lunar dust, as well as laboratory measurements, 
+instrumentation and space missions. In situ and observational results, 
+theoretical models, and the outcome of laboratory experiments will be 
+discussed and their implications for future space missions will be 
+highlighted. Of special emphasis is cosmochemistry and compositional 
+analysis of dust, also in view of upcoming lunar and other space 
+missions presently under study (e.g. EJSM, LEO, LADEE).
+
+http://www.uni-goettingen.de/en/96209.html
+
+Goettingen is a two-hours train ride from Bremen where the COSPAR
+Scientific Assembly takes place from 18 to 25 July 2010, the week
+after the Dusty Visions workshop.
+
+Please indicate, as soon as possible, your interest to participate 
+by email to dv2010@mpi-hd.mpg.de. 
+
+Deadline for abstract submission is 15 May 2010. 
+
+http://www.mpi-hd.mpg.de/dustgroup/
+
+[Editor Note:  Shortened in length.]
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OUTER PLANETS COLLOQUIUM SERIES
+
+Would your institution like a visit and colloquium presentation from an 
+expert in outer solar system science, at no expense to you?  Would you 
+like travel support to share your outer solar system research?  
+Presenters and host institutions are sought for the Outer Planets 
+Colloquium Series, a program that matches planetary scientists with 
+university campuses and research institutions.  
+
+Participation is open to two- and four-year undergraduate colleges, 
+and to research institutions throughout the United States. Host 
+institutions commit to making the necessary local arrangements. 
+Presenters are encouraged to address the needs of the next generation 
+of scientists (graduate students, interns, and undergraduates) and to 
+give an additional presentation that is free and open to the general 
+public. Other interactions that increase awareness of outer solar 
+system science may also be considered as part of the visit. These may 
+include guest teaching a class, interacting informally with students 
+and faculty, visiting local precollege campuses, or other outreach 
+activities.
+
+A range of topics is anticipated on the basis of speaker participation.
+
+The Colloquium Series will cover the presenter's travel expenses.  
+There will be no honorarium for the speaker.
+
+Application details and further information may be found at:
+
+http://outerplanets.jpl.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS RELEASES EPOXI (EPOCh) MISSION DATA
+
+The NASA Planetary Data System is pleased to announce release of the 
+data from EPOXI, Extrasolar Planet Observation and Characterization 
+(EPOCh) stage of the mission.  The delivery includes raw and 
+calibrated images (exoplanet transits and Earth) and infrared spectra 
+(Earth) acquired during 2008.
+
+The data are available through the PDS Small Bodies Node. To see and 
+download the data as well as mission and instruments information, 
+go to:
+
+http://pdssbn.astro.umd.edu/missions/epoxi/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+August 8-13, 2010
+The Meeting of the Americas
+http://www.agu.org/meetings/ja10/index.php
+Foz do Iguassu, Brazil
+
+October 4-8, 2010
+42nd Meeting of the Division for Planetary Sciences (DPS) of the 
+American Astronomical Society
+http://dps.aas.org/meetings/2010/
+Pasadena, CA
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

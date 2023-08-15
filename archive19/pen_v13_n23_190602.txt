@@ -1,0 +1,700 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 23 (June 2, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes 
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Announcing 2019 Dwornik Winners
+2. Second Announcement: Icarus Special Issue on the Pluto System, 
+   Kuiper Belt & Kuiper Belt Objects
+3. A Workshop on Small Solar System Bodies
+4. Product Assurance Engineer (Swedish Institute of Space Physics, IRF)
+5. Pre-print Version of the Report from the Ice and Climate Evolution
+   Science Analysis Group (ICE-SAG) Now Available
+6. Canada Research Chair Positions Available at the University of
+   Western Ontario, Canada
+7. Postdoc Opportunity in Lunar Regolith Processes at Purdue University
+8. ABSCICON Workshop on Instrumentation for In Situ Exploration of 
+   Ocean Worlds
+9. NASA/SSERVI Analogs Focus Group
+10. 10th Planetary Crater Consortium Meeting 
+11. Ronald Greeley Distinguished Service Award Nominations Due June 30
+12. Invitation to Attend National Colloquium by Dr. Thomas H. Zurbuchen
+13. 5th Virtual MEPAG Meeting (VM5) 
+14. 37th MEPAG Face-to-Face Meeting
+15. Venus Workshop Deadline Extension
+16. Impact Cratering Short Course and Field School
+17. NASA Postdoctoral Fellowship - Application Deadline July 1, 2019
+18. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 49
+19. Planetary Geomorphology Image of the Month
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ANNOUNCING 2019 DWORNIK WINNERS
+
+On behalf of GSA's Planetary Geology Division, we are pleased to
+announce 2019's Stephen E. Dwornik student winners. Congratulations,
+and thank you everyone who evaluated student presentations.
+
+Graduate Oral:
+
+Winner: Clara Maurel, MIT, "Partial Differentiation and Magnetic
+History of the IIE Iron Meteorite Parent Body."
+
+Honorable Mention: Xiaochen Mao, Washington University, "Spin Evolution
+of Ceres due to Impacts."
+
+Graduate Poster
+
+Winner: Alexandra E. Doyle, UCLA, "Oxygen Fugacities of Rocky
+Exoplanets from Polluted White Dwarf Stars." 
+
+Honorable Mention: Amanda Ostwald, UNLV, "Parental Melt of Nakhlites as
+Determined from Melt Inclusions."
+
+Undergraduate Oral:
+
+Winner: Patrick Matulka, Colgate University, "Rounding and Comminution
+Rates of Ice Clasts Using the Titan Tumbler: Fluctuating Roundness and
+Stepped Mass Loss." 
+     
+Honorable Mention: Christopher Yen, Brown University, "An Updated
+Orbital Analysis of Ancient Strata in Terby Crater, Mars: The Thickest
+Deltaic Sequence on Mars?"
+
+Undergraduate Poster:
+
+Winner: Walter Zimmerman, University of Alaska Anchorage, "Bands on
+Europa: A New Geometry-Based Classification to Explain Why Bands Form." 
+
+Honorable Mention: Steffanie Sillitoe-Kukas, FSU, "Spherules in the
+Martian Polymict Breccias: I: Origin and Internal Chemical Zoning."
+
+This award is made possible by an enormous volunteer effort. Please
+consider donating:
+
+https://www.gofundme.com/dwornik-award-fund?member=1834286
+
+or
+
+https://gsa.foundation/donate
+
+Thank you for your support. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SECOND ANNOUNCEMENT: ICARUS SPECIAL ISSUE ON THE PLUTO SYSTEM, KUIPER
+BELT & KUIPER BELT OBJECTS
+
+Icarus is sponsoring a special issue on results related to the
+exploration of the Pluto system, the Kuiper Belt, and Kuiper Belt
+Objects, particularly by New Horizons, groundbased techniques, and NASA
+NFDAP projects. Papers are solicited from authors across the planetary
+science community. 
+
+The deadline for this special issue is 15 September 2019.
+
+Alan Stern
+Principal Investigator, New Horizons
+
+Rosaly Lopes
+Editor, Icarus
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+A WORKSHOP ON SMALL SOLAR SYSTEM BODIES
+
+We would like to draw attention to a workshop devoted to the research
+on small Solar System bodies which will take place in Akdeniz
+University, Antalya, Turkey, on September 4-6, 2019.
+
+The workshop aim is to shorten the gap for astronomers in understanding
+the contemporary problems in dynamics and physics and the requirements
+set up to observations. We plan to discuss the synergy of dynamics and
+physics of these bodies, giving the possibility for analysis of their
+observations and the corresponding follow-up programs.
+
+Workshop website: 
+
+http://www.asteroid2019.space
+
+Topics: 
+- Small Solar System bodies and natural satellites
+- Analysis of their observations (astrometry, photometry, polarimetry,
+spectroscopy, occultations) 
+- Gaia catalog and Large Synoptic Survey Telescope 
+- Follow up programs
+
+Keynote speakers abstract submission: July 1 
+Abstract on-line submission: August 4
+
+The poster is also available:
+
+https://asteroid2019.space/wp-content/uploads/2019/05/poster_A2_good.
+pdf
+
+We kindly ask you to distribute this info to all possibly interested
+colleagues.
+
+Sincerely,
+Dr. Anatoliy Ivantsov (Akdeniz University, SOC chair)
+Dr. Daniel Hestroffer (Paris Observatory, SOC co-chair)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PRODUCT ASSURANCE ENGINEER (SWEDISH INSTITUTE OF SPACE PHYSICS, IRF)
+
+IRF is looking for a product assurance manager specializing in
+scientific instruments to Uppsala. The position is for one year and
+begins as soon as possible. You will work in a research group that
+builds the scientific instrument Radio & Plasma Wave Investigation
+(RPWI) for ESA JUpiter ICy moons Explorer (JUICE) project.
+
+Examples of main areas of responsibility as a JUICE PA Manager:
+
+Main point of contact for PAQA issues with ESA, and link to the unit PA
+managers.
+
+Responsibility for non-conformance reporting and leading/attending
+reviews for the consortia, and for issues related to the units
+manufactured by IRFU.
+
+Test witnessing of flight space hardware, and raising necessary
+Requests for Waiver and NCRs.
+
+Attendance at Mandatory/Key Inspection Points as needed.
+
+Applications: registrator@irf.se
+
+Reference: Dnr 2.2.1-181/19 
+
+Closing date: June 3, 2019
+
+Contact: Jan-Erik.Wahlund@irfu.se, +46-18-471 59 46
+
+http://www.irf.se/jobb
+
+IRF is a governmental research institute that conducts research and
+postgraduate education in space physics, atmospheric physics and space
+technology. Many projects are run as large international projects in
+collaboration with other research institutes and space agencies. IRF
+has 100 employees and offices in Kiruna (headquarters), Umea, Uppsala
+and Lund.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PRE-PRINT VERSION OF THE REPORT FROM THE ICE AND CLIMATE EVOLUTION
+SCIENCE ANALYSIS GROUP (ICE-SAG) NOW AVAILABLE
+
+In October, 2018, the Mars Exploration Program Analysis Group (MEPAG)
+Executive Committee chartered the Ice and Climate Science Analysis
+Group (ICE-SAG) as part of their Mars community preparations for the
+next Planetary Science Decadal Survey. The main aim of this SAG was to
+identify and prioritize fundamental science questions related to the
+recent and ongoing evolution of Mars volatiles and climate, and to
+explore new mission approaches that could address these high-priority
+science questions during the coming decade (2023-2032).
+
+The Final ICE-SAG report is not yet fully complete, but the ICE-SAG
+Co-Chairs and MEPAG Executive Committee agreed to post a Pre-print
+version so as to provide the community with access to the report
+content before the end of May. The Preprint version of the ICE-SAG
+final report can be found at:
+
+https://mepag.jpl.nasa.gov/reports.cfm?expand=topical. 
+
+In this Pre-print, the report content is overall set, but some
+formatting/cleanup is still needed and Appendix C will be added. The
+links between sections will also be fixed. The final and clean document
+is expected to be posted by end of June, and will be announced in the
+Mars Science newsletter.
+
+The MEPAG Executive Committee & ICE-SAG members hope this document will
+be a useful resource for the community.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CANADA RESEARCH CHAIR POSITIONS AVAILABLE AT THE UNIVERSITY OF WESTERN
+ONTARIO, CANADA
+
+The University of Western Ontario (Western) has announced an open call
+for Canada Research Chair positions:
+
+https://www.uwo.ca/facultyrelations/careers/pdf/crc-special-call-
+adverstisement.pdf
+
+One of the key requirements for these positions is alignment with
+Western's research areas, which can be found here:
+
+https://www.uwo.ca/research/excellence/index.html. 
+
+Planetary Science & Exploration is one of the 10 signature research
+areas for Western. We are also home to the Centre for Planetary Science
+and Exploration:
+
+http://cpsx.uwo.ca
+
+and the lead for the Canadian Lunar Research Network, the Canadian
+affiliate member of the Solar System Exploration Research Virtual
+Institute (SSERVI):
+
+http://clrn.uwo.ca
+
+Please note that this call is restricted only to applicants who
+self-identify as a woman, Indigenous person or person with a
+disability. If you are interested in potentially joining our
+interdisciplinary space cluster here at Western, please apply and/or
+feel free to reach out to me: 
+
+Dr. Gordon "Oz" Osinski | Professor & NSERC/MDA/CSA/CEMI Industrial
+Research Chair in Earth and Space Exploration
+Director (Acting) | Centre for Planetary Science and Exploration
+Director | Canadian Lunar Research Network 
+Tel: 1-(519)-661-4208 | E-mail: gosinski@uwo.ca
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOC OPPORTUNITY IN LUNAR REGOLITH PROCESSES PURDUE UNIVERSITY
+
+The Department of Earth, Atmospheric, and Planetary Science at Purdue
+University has an opening for a postdoctoral researcher to lead a joint
+code development, modeling, and remote sensing project focused on the
+topographic and compositional evolution of the lunar regolith. Tasks
+would include development of a landscape evolution code and generation
+of new Moon Mineralogy Mapper spectral data products. A Ph.D. in
+physics, geophysics or planetary science and experience in modeling is
+required along with familiarity with computer languages such as IDL,
+Python, FORTRAN, or C in a LINUX environment. Experience in reflectance
+spectroscopy or remote sensing data analysis is preferred but not
+required. The position is available immediately and will run for 2
+years with the possibility of extension pending availability of
+funding. A background check is required for employment in this
+position.
+
+Please send a cover letter, CV, and the names of three references to
+both Professors David Minton (daminton@purdue.edu) and Briony Horgan
+(briony@purdue.edu) by July 1, 2019.
+
+Purdue University is an EEO/AA employer fully committed to achieving a
+diverse workforce. All individuals, including minorities, women,
+individuals with disabilities, and protected veterans are encouraged to
+apply.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ABSCICON WORKSHOP ON INSTRUMENTATION FOR IN SITU EXPLORATION OF OCEAN
+WORLDS
+ 
+Dear Colleagues,
+ 
+We would like to bring to your attention a short workshop at the
+upcoming Astrobiology Science Conference (AbSciCon), in Seattle WA. The
+workshop is on instrumentation for the in situ exploration of Europa
+and Ocean Worlds and will be held on Wednesday, June 26, from 12:20-4
+PM, in the Cottonwood Room at the Hyatt Regency Bellevue (the conference
+venue). 
+ 
+The workshop is free and open to all interested AbSciCon attendees, and
+is intended to bring together scientists and potential instrument
+providers for future missions to the surfaces of ocean worlds, such as
+Europa, Enceladus, and Titan. The workshop will include several brief
+overview presentations from the Europa Lander mission concept team at
+JPL. There will be an opportunity for attendees to give 1-slide
+overviews of potential instrument concepts. Discussions and
+presentations on techniques for astrobiology, chemistry, geology, and
+geophysics investigations are welcome, as are those related to sample
+acquisition, handling, and processing.
+ 
+If you are interested in attending, pre-registration is encouraged at
+this link: 
+
+https://forms.gle/FWs77F2DgiLbBN8a7
+ 
+Thanks,
+Cynthia Phillips and Kevin Hand, JPL
+Cynthia.b.phillips@jpl.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA/SSERVI ANALOGS FOCUS GROUP
+
+The NASA/SSERVI Analogs Focus Group is running a new virtual seminar
+series focused on terrestrial analog research. These seminars will be
+~20 minutes in length (with 10 minutes for Q&A) and will focus on a
+variety of topics including, but not limited to, science, exploration,
+logistics, funding opportunities, etc. We may also have discussions on
+topics such as selecting the optimal field site, infusing science &
+exploration results into mission architectures, etc.
+
+Seminars will typically be the first Friday of January, April, July,
+and October each year at 9 am PT / noon ET.
+
+To sign up for the Analogs Focus Group listserv and receive seminar
+information, please email jennifer.heldmann@nasa.gov.
+
+Jennifer Heldmann, Timothy Glotch, Darlene Lim (Analogs Focus Group
+Co-Chairs) 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+10TH PLANETARY CRATER CONSORTIUM MEETING 
+
+The 10th Planetary Crater Consortium meeting will be held August 7-9,
+2019, at the US Geological Survey in Flagstaff, AZ. The Planetary
+Crater Consortium is open to all planetary scientists interested in any
+aspect of impact cratering on Solar System bodies (including Earth!),
+incorporating observational, theoretical, experimental, field, and/or
+numerical studies. The meeting is a combination of contributed talks,
+posters, and open discussion and is designed to encourage and provide
+adequate time for in-depth discussion of crater-related issues and
+topics to enhance research collaborations. Abstract deadline is Monday,
+June 24, 2019. An optional field trip around the rim of Meteor Crater
+will be arranged for Saturday, August 10, 2019, if there is sufficient
+interest expressed by meeting participants by June 15, 2019. For more
+information, see:
+
+http://www.planetarycraterconsortium.nau.edu/ 
+
+or contact Nadine Barlow (Nadine.Barlow@nau.edu).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+RONALD GREELEY DISTINGUISHED SERVICE AWARD NOMINATIONS DUE JUNE 30
+ 
+Do you have a colleague who has rendered exceptional service to the PGD
+and (or) the planetary community? Please consider nominating them for
+the Ronald Greeley Distinguished Service Award! This award is presented
+by the Planetary Geology Division (PGD) of the Geological Society of
+America (GSA). Nominations are due by June 30th. More information
+here: 
+
+https://community.geosociety.org/pgd/awards/greeley
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+INVITATION TO ATTEND NATIONAL COLLOQUIUM BY DR. THOMAS H. ZURBUCHEN
+
+The science community is invited to participate in an upcoming
+colloquium on the topic of "Writing Successful Mission Proposals:
+Observations from NASA". Dr. Thomas Zurbuchen, Associate Administrator
+for the Science Mission Directorate, will be speaking Wednesday, June
+5, 2019 from 4:00 PM to 6:00 PM EDT (2:00 to 4:00 PM MDT) from the
+University of Colorado Boulder campus and his talk will be
+live-streamed. If you would like to attend in person, please RSVP at:
+
+https://www.signupgenius.com/go/8050D4FA9AE2FA1F85-colloquium
+
+The live-stream is available: 
+
+https://cires.colorado.edu/zurbuchen2019 
+
+and registration for viewing the live-stream is not required.
+
+The colloquium will be recorded and made available on:
+
+https://science.nasa.gov/researchers/new-pi-resources 
+
+for those not able to participate on Wednesday.
+
+Study done by T. H. Zurbuchen, M. H. New, P. Hertz, E. Gertsen
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+5TH VIRTUAL MEPAG MEETING (VM5) 
+
+June 6, 2019
+11:00 am-1:00 pm EDT
+8:00 am-10:00 am PDT
+
+Members of the Mars community,
+
+You are cordially invited to participate in the next virtual meeting
+(VM5) of the Mars Exploration Program Analysis Group (MEPAG), scheduled
+next week on Thursday, June 6th, 2019, at 11:00 am-1:00 pm EDT. Webex
+information is given below.
+
+An updated agenda is given here and can also be found on the MEPAG
+website at:
+
+https://mepag.jpl.nasa.gov/meeting/2019-06/VM5_Agenda.pdf
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+37TH MEPAG FACE-TO-FACE MEETING
+
+Friday, July 26, 2019
+Caltech Campus, Pasadena, CA
+8:30 am-1:00 pm PDT
+11:30-4:00 pm EDT
+Members of the Mars community,
+
+You are cordially invited to participate in the MEPAG face-to-face
+annual meeting for 2019, which will be hosted at the California
+Institute of Technology in Pasadena, CA. Further details, including an
+updated agenda, will be posted on the MEPAG meeting website:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m37
+
+Tentative agenda:
+
+MEPAG news since the last virtual meeting
+NASA PSD/MEP Reports
+MEP Status
+Next Steps in Mars Sample Return
+MEP Architecture Study--Response to Vision into Voyages (Decadal
+Mid-term Review)
+Brief updates on Mars missions in development, including the Mars 2020
+and ESA rovers
+News on the Moon to Mars initiative
+Preparations for the Next Planetary Decadal Survey
+Highlights of 9th International Mars Conference
+MEPAG Goals Update
+White Papers and other steps
+Future MEPAG Plans & Meetings
+
+The meeting is open to all members of the Mars science community
+including our international colleagues. There is no registration fee,
+but all potential attendees are asked to register by June 28 at:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeSC4QLzLtu42-
+qbgMCyjyyNPdNRd2M-btumt6ZWdAg6WWUhw/viewform?vc=0&c=0&w=1
+
+-Dr. Aileen Yingst, incoming MEPAG Chair
+
+Comment or question? mepagmeetingqs@jpl.nasa.gov
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+VENUS WORKSHOP DEADLINE EXTENSION
+
+The Venera-D Landing Sites and Cloud Layer Habitability workshop will
+be held on October 2-5, 2019 at the Space Research Institute (IKI) in
+Moscow, Russia. The workshop session categories are: i) landing sites
+target priorities, ii) habitability and bio species survival (current
+research and theory), iii) surface/atmosphere/bio species
+instrumentation and sampling systems, and iv) laboratory studies. The
+deadline for notifications of interest in the workshop has been
+extended to June 21, 2019. The abstract deadline is August 10, 2019.
+
+Some travel support is available for US-based scientists. Please email
+notifications of interest to venera-d@cosmos.ru, subject: JSDT 2019
+Workshop (category of interest). Please include in the body of your
+email message: the abstract title, requests for travel support (if
+needed), and your availability to volunteer as a meeting scribe.
+Requests for travel support will be provided on a case by case basis,
+pending abstract acceptance. 
+
+Please contact venera-d@cosmos.ru for further infromation.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+IMPACT CRATERING SHORT COURSE AND FIELD SCHOOL
+
+The Centre for Planetary Science and Exploration
+
+http://cpsx.uwo.ca
+
+and Canadian Lunar Research Network
+
+http://clrn.uwo.ca
+
+are pleased to be running the Impact Cratering Short Course and Field
+School September 28 to October 5 2019. Based within the 1.85 billion
+year old, 200 km diameter Sudbury impact structure, this course will
+introduce students and post-doctoral fellows to the processes and
+products of impact cratering on Earth and throughout the Solar System.
+Details about the course and how to register are here:
+
+https://cpsx.uwo.ca/training/graduate_student/courses/
+planetsc_9604_sudbury_short_course.html
+
+Please note: The Solar System Exploration Research Virtual Institute
+will provide funding support for a number of U.S. students. Details are
+provided on the above website. The deadline for these applications is
+June 21 2019.
+
+Questions? Contact Dr. Gordon "Oz" Osinski.
+E-mail: gosinski@uwo.ca
+Twitter: @drcrater
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+NASA POSTDOCTORAL FELLOWSHIP - APPLICATION DEADLINE JULY 1, 2019
+ 
+The NASA Postdoctoral Program offers US and international scientists
+the opportunity to advance their research while contributing to NASA's
+scientific goals. The NPP supports fundamental science; explores the
+undiscovered; promotes intellectual growth; and encourages scientific
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space
+bioscience, aeronautics and engineering, human exploration and space
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed
+here: NPP Planetary Science Research Opportunities
+
+Applicants must have a Ph.D. or equivalent degree in hand before
+beginning the fellowship, but may apply while completing the degree
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $60,000 per year, with supplements for high
+cost-of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and
+November 1.
+ 
+For further information and to apply:
+ 
+https://npp.usra.edu/
+ 
+Questions: npphelp@usra.edu
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 49
+
+The Planetary Data System (PDS) is pleased to announce a new delivery of
+Mars Reconnaissance Orbiter (MRO) data for the following instruments:
+  CRISM
+  CTX
+  HiRISE
+  MARCI
+  MCS
+  RSS
+  SHARAD
+  SPICE
+
+Note: no more derived gravity data will be added to the archive.
+
+In general, MRO Release 49 nominally includes data collected from
+August 9, 2018, to November 8, 2018.
+
+To access the above data, please visit the following link:
+
+  https://pds.nasa.gov/datasearch/subscription-service/SS-20190601.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+  https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+  https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+  https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+ 
+The June image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+http://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "3D Reconstruction on Long Runout Landslides on
+Mars". Contributed by Giulia Magnarini, Department of Earth Sciences,
+University College London, UK.
+ 
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+ 
+http://www.facebook.com/PlanetaryGeomorphology
+ 
+or Twitter: @PlanetGeomorpho
+ 
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 22, 2019
+LunGradCon 2019
+http://impact.colorado.edu/lungradcon/2019/
+Mountain View, CA
+
+September 3-5, 2019
+Workshop on Binary Asteroids in the Solar System 5  
+http://binaryast5.org/index.html
+Fort Collins, CO
+
+October 19, 2019
+Planet2/RESCEU Symposium: From Protoplanetary Disks through Planetary
+System Architecture to Planetary Atmospheres and Habitability
+http://www.resceu.s.u-tokyo.ac.jp/symposium/resceu_sympo2019/
+Okinawa, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org  
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

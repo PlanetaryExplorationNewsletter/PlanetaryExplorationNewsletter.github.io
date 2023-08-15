@@ -1,0 +1,310 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 27 (June 28, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Titan Decadal Survey Whitepapers Open for Endorsers
+2. White Paper on Uranian Moons/Mag/Rings New Frontiers Mission Concept
+3. DPS Education and Outreach Grants
+4. Fall AGU Virtual Meeting, Abstract Submissions Open
+5. Postdoctoral Researcher in Planetary Magnetospheric Physics
+6. [NASA] Planetary Science Reminder Regarding Letter of Resource 
+   Support for Facilities
+7. [NASA] 2020 Guidebook for Proposers Applies to ROSES After 
+   September 25, 2020
+8. [NASA] ROSES: DART Participating Scientist Program Final Text 
+   Released
+9. [NASA] ROSES: Clarification of E.4 Habitable Worlds
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+TITAN DECADAL SURVEY WHITEPAPERS OPEN FOR ENDORSERS
+
+The Titan community has written three whitepapers for the upcoming 
+Decacal Survey for which we would like to solicit endorsers among the 
+scientific community. The three whitepapers discuss (1) the outstanding 
+science questions to be explored at Titan after Cassini, (2) how those 
+questions might be addressed with a New-Frontiers-class Titan orbiter, 
+and (3) how those questions might be addressed with a Flagship-class 
+Titan orbiter carrying a sea probe. Drafts for the whitepapers, along 
+with space to add the names of endorsers, can be found at the links 
+below. We would welcome your input and support,
+
+Jason W. Barnes, Conor A. Nixon, Shannon M. MacKenzie
+
+Sign by July 8:
+
+https://tinyurl.com/TitanScienceWhitepaper      
+
+Sign by August 8:
+
+https://tinyurl.com/NewFrontiersTitanOrbiter    
+
+Sign by August 8:
+
+https://tinyurl.com/TitanOrbiterProbes
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+WHITE PAPER ON URANIAN MOONS/MAG/RINGS NEW FRONTIERS MISSION CONCEPT
+
+A draft of a White Paper for the NASA Planetary Science and 
+Astrobiology Decadal Survey 2023-2032 titled "A New Frontiers Class 
+Mission for the Uranian System that Focuses on Moon, Magnetosphere, and 
+Ring Science" is now available at:
+
+https://drive.google.com/file/d/1YL_-_y5lSgkeUJusVo5KH0-GpXiZrp7k/view?usp=sharing
+
+The white paper will be submitted to the National Academies on July 
+15th. Until then, we welcome additional endorsements. Please reach out 
+to Erin Leonard (Erin.J.Leonard@jpl.nasa.gov) with your name and 
+affiliation if you would like to endorse this white paper.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+DPS EDUCATION AND OUTREACH GRANTS
+
+The DPS Committee is offering small grants (average amounts of $200 to 
+$500) to support DPS members to engage in local and virtual education 
+and public engagement activities. These grants are intended to support 
+DPS member efforts to engage other members, students, teachers, and the 
+public and can be used for materials, consumables, equipment but not 
+for salary or travel to DPS meetings. Proposals are being accepted for 
+programs that will occur by June 1, 2021. We encourage creative 
+solutions for engagement efforts that also conform to social-distancing 
+requirements. Questions about acceptable costs should be addressed to 
+buxner@psi.edu. Proposals should be emailed to buxner@psi.edu and you 
+will receive an email confirmation.
+
+Applications will be accepted in two review cycles - the first deadline 
+is July 1 (11:59pm in proposers' local time), and awardees will be 
+contacted by July 15. The second deadline will be August 1, and 
+awardees will be contacted by August 15. All proposals will be 
+reviewed by members of the DPS education committee and the executive 
+committee.
+
+Complete directions, including a scoring rubric, can be found at: 
+
+https://dps.aas.org/education/education-outreach-grants/application
+
+Please address any questions to buxner@psi.edu.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FALL AGU VIRTUAL MEETING, ABSTRACT SUBMISSIONS OPEN
+
+The American Geophysical Union Fall Virtual Meeting 2020 abstract 
+submission site is now open. Go to:
+
+http://www.agu.org/Fall-Meeting
+
+Abstract submission guidelines are at: 
+
+http://www.agu.org/Fall-Meeting/2020/Present/Abstracts
+
+Session Viewer/Abstract submission site is at: 
+
+http://agu.confex.com/agu/fm20/prelim.cgi/Home/0
+
+We will be keeping all sites updated with information regarding the 
+virtual meeting as the planning continues. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing magnetometer results. In addition, the candidate will
+assist with magnetometer data validation and calibration. 
+
+Position 2: The data scientist's primary responsibility will be to 
+develop a data production pipeline for future magnetometer missions. 
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest.
+
+Candidates for these positions should have Ph.D. in physics, astronomy, 
+planetary science, space physics, geosciences, or related fields. 
+Successful candidates should also have expertise with one or more 
+programming languages commonly used in space science and a demonstrated 
+track record in analyzing spaceflight data, especially magnetometer 
+data and experience with the NAIF SPICE software package is highly 
+desired.
+
+Applications received by July 15, 2020 will receive the best
+consideration. Link to full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PLANETARY SCIENCE REMINDER REGARDING LETTER OF RESOURCE SUPPORT
+FOR FACILITIES
+
+Program elements in Planetary Science have been clarified regarding 
+letters of resource support for facilities: Proposers are reminded 
+that, per the directions in Section 3.17 of the NASA Guidebook for 
+Proposers and Table 1 of the ROSES Summary of Solicitation, any 
+facility or resource not under the direct control of the PI or a Co-I 
+requires a letter of resource support acknowledging that it is 
+available for the proposed use during the proposed period. 
+
+Due dates remain unchanged.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] 2020 GUIDEBOOK FOR PROPOSERS APPLIES TO ROSES AFTER 
+SEPTEMBER 25, 2020
+
+The 2020 Guidebook for Proposers Responding to a NASA Notice of Funding 
+Opportunity has been posted with an effective date of June 23, 2020,
+at:
+
+https://www.hq.nasa.gov/office/procurement/nraguidebook/ 
+
+It is not anticipated that this version of the Guidebook will change 
+the content of proposals to ROSES but, just to give everyone time to 
+review it, the ROSES-2020 Summary of Solicitation has been updated to 
+indicate that the 2020 Guidebook will only apply to ROSES proposals 
+with due dates after September 25, 2020.
+
+Questions regarding this clarification may be directed to 
+sara@nasa.gov. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] ROSES: DART PARTICIPATING SCIENTIST PROGRAM FINAL TEXT RELEASED
+
+The objective of the Double Asteroid Redirection Test (DART) 
+Participating Scientist Program (PSP) is to enhance the scientific 
+return of the DART mission through new investigations, conducted during 
+the primary flight and post-flight phases (mission Phases E and F), 
+that broaden and/or complement DART's primary investigation.
+
+The DART-PSP solicits proposals for science investigations to be 
+carried out during the primary flight and post-flight phases that 
+significantly enhance the scientific return of the DART mission and 
+that address outstanding questions related to Planetary Defense. 
+Proposed investigations shall have science objectives directed toward 
+understanding the Didymos system in particular, and (optionally) 
+near-Earth asteroids in general. Proposed activities may include any or 
+all of:(a) analysis of raw and/or calibrated spacecraft data, 
+(b) acquisition and/or analysis of ground-based data, (c) model 
+development and/or fitting, (d) data interpretation, (e) correlative 
+studies,(f) laboratory experiments, and (g) fundamental theory.
+
+This program requires a Notice of Intent (NOI). Proposals that are not 
+preceded by the mandatory NOI may be returned without review. Mandatory 
+NOIs are due August 10, 2020, and proposals are due September 24, 2020.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+Questions may be directed to Thomas Statler, thomas.s.statler@nasa.gov. 
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ROSES: CLARIFICATION OF E.4 HABITABLE WORLDS
+
+Dual-Anonymous Peer Review (DAPR) ROSES Program elements (including 
+E.4 Habitable Worlds) have been clarified to remove an ambiguity 
+regarding the budget: both the (redacted) budget numbers and 
+justification are expected as part of the anonymized proposal. The 
+DAPR instructions have likewise been clarified. New text is in bold.
+
+The due dates remain unchanged. In addition, Q&A #8 about tables of 
+contents will be added to the FAQ at the bottom of the DAPR web page 
+at: 
+
+https://science.nasa.gov/researchers/dual-anonymous-peer-review
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 20-25, 2021
+Asteroids, Comets, Meteors Conference
+https://www.hou.usra.edu/meetings/acm2021/
+Flagstaff, AZ 
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Dynamical History of the Uranian System
+Matija Cuk et al. 2020 PSJ 1:22
+http://doi.org/10.3847/PSJ/ab9748
+
+Composition and Size Dependent Sorting in Preplanetary Growth: Seeding 
+the Formation of Mercury-like Planets
+Maximilian Kruss and Gerhard Wurm 2020 PSJ 1:23
+http://doi.org/10.3847/PSJ/ab93c4
+
+Diffraction-Limited Titan Surface Imaging from Orbit Using 
+Near-infrared Atmospheric Windows
+Jason W. Barnes et al. 2020 PSJ 1:24
+http://doi.org/10.3847/PSJ/ab91b6
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,439 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 42 (September 18, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. ExoClimes 2012: The Diversity of Planetary Atmospheres 
+2. Outer Planets Assessment Group (OPAG) Uranus Working Group   
+3. [NASA] PDS Releases EPOXI(DIXI) Mission Data
+4. [NASA] PDS Releases Lunar Reconnaissance Orbiter Data Release 7
+5. [NASA] PDS Releases More Lunar Reconnaissance Orbiter Data 
+6. [NASA] Concepts for the Next NASA X-ray Astronomy Mission
+7. Postdoctoral Researcher in Petrology of Planetary Materials
+8. Postdoctoral Researchers in Lunar Science
+9. The NASA Postdoctoral Program
+10. Student Travel Grants for GSA Meeting
+11. Call for Proposals for the NASA Infrared Telescope Facility (IRTF)
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EXOCLIMES 2012: THE DIVERSITY OF PLANETARY ATMOSPHERES
+
+Jan 16-20, 2012
+Aspen Center for Physics (Aspen, CO)
+exoclimes.org
+
+Exoplanetary atmospheres have recently become accessible to
+observations.  What observations are possible in the foreseeable 
+future? And how will they constrain the climate on other worlds?  
+Our goal is to bring together Earth, Solar System and Exoplanet 
+researchers to discuss a variety of aspects of climate science.
+
+Confirmed Speakers:
+Fran Bagenal (U of Colorado) - planetary magnetic fields
+Christiane Helling (St. Andrews) - atmospheric dust
+David Catling (U of Washington) - the history of Earth's atmosphere
+Adrian Lenardic (Rice U) - geodynamics
+Mark Marley (NASA Ames) - clouds
+John Marshall (MIT) - ocean dynamics
+Ray Pierrehumbert (U of Chicago) - climate system modeling
+Tapio Schneider (Caltech) - terrestrial planet atmospheric dynamics
+Adam Showman (U of Arizona) - giant planet atmospheric dynamics
+Remi Soummer (STScI) - direct imaging observations
+
+To register, please go to:
+https://db.aspenphys.org/fmi/iwp/cgi?-db=ACP&-loadframes
+
+For more in formation contact Nick Cowan: n-cowan@northwestern.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+OUTER PLANETS ASSESSMENT GROUP (OPAG) URANUS WORKING GROUP  
+
+We will be meeting October 17 and 18 in Pasadena, just prior to the 
+full OPAG meeting.  Please see:
+
+http://www.lpi.usra.edu/opag/ 
+
+for hotel and location information.  Note that hotel reservations 
+should be made as soon as possible to obtain the group rate.  
+
+Our charter is to assess and coordinate Earth-based observing 
+campaigns to best address Uranus science questions.  Note that 
+"Uranus science" includes all aspects of the uranian system, 
+including the planet, rings, satellites, and magnetosphere.  Purely 
+theoretical efforts are relevant, as they guide or allow 
+interpretation of observations.
+
+To receive e-mail announcements about the Uranus Working Group, or 
+if you have any questions, please contact Mark.Hofstadter@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS RELEASES EPOXI(DIXI) MISSION DATA
+
+The NASA Planetary Data System is pleased to announce release of the 
+EPOXI mission data acquired during the comet 103P/Hartley 2 flyby 
+(DIXI phase of the mission). The delivery includes raw and calibrated 
+images and spectra from the High Resolution Instrument (HRI), images 
+from the Medium-Resolution Instrument (MRI), and ancillary data.
+
+The data are available through the PDS Small Bodies Node. To see and
+download the data as well as mission and instrument information, go to:
+
+http://pdssbn.astro.umd.edu/data_sb/missions/epoxi/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS RELEASES LUNAR RECONNAISSANCE ORBITER DATA RELEASE 7
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA and LROC.
+
+There are no Mini-RF data with this release.
+
+In general, LRO Release 7 includes data collected between March 15 
+and June 14, 2011.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110915.html
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO
+data by specific search criteria. 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data may be obtained here: 
+
+http://naif.jpl.nasa.gov/naif/data_archived.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS RELEASES MORE LUNAR RECONNAISSANCE ORBITER DATA 
+
+The Planetary Data System (PDS) is pleased to announce 
+Lunar Reconnaissance Orbiter (LRO) Release 7 for the Lyman Alpha 
+Mapping Project (LAMP) experiment.  This release contains 1163 EDR 
+and 1136 RDR Data Products with all images acquired from March 15, 
+2011 through June 14, 2011. Data volume for this release is 
+approximately 324 GB.
+
+The released data can be found on the PDS Imaging Node website at URL:  
+
+http://img.pds.nasa.gov/volumes/lro.html#LRO
+
+Data search and access tools are available thru the Imaging Node's 
+Planetary Image Atlas, URL: 
+
+http://pds-imaging.jpl.nasa.gov/search/ 
+
+In addition, the above data may be accessed: 
+
+http://pds.nasa.gov/tools/subscription_service/SS-20110915.shtml 
+
+To access the latest PDS Data Releases, please visit: 
+
+http://pds.nasa.gov/subscription_service/SS-Release.html 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] CONCEPTS FOR THE NEXT NASA X-RAY ASTRONOMY MISSION
+
+Solicitation number: NNH11ZDA018L
+Release Date:  September 13, 2011
+Response Date:  October 28, 2011
+
+NASA is seeking information that can be used to develop concepts that 
+meet some or all of the scientific objectives of the International 
+X ray Observatory (IXO).  Information being sought includes relevant 
+mission concepts, instrument concepts, enabling technologies, or any 
+aspect of flight, ground or launch systems architecture.
+
+Through this Request for Information (RFI), NASA is seeking 
+information relevant to an X-ray astronomy mission concept or mission
+concepts that will satisfy some or all the scientific objectives 
+listed in Table 1.  The RFI also requests standalone instrument 
+concepts as well as relevant key enabling technologies for such 
+missions or instruments.  Mission concepts should range in cost from
+~ $300M to $2,000M in FY12 dollars.
+
+The full text of the Dear Colleague Letter is posted on the NASA 
+research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA018L"
+
+For further information, please contact:
+Jean Cottam, PCOS Chief Scientist 
+jean.cottam@nasa.gov
+
+NASA HQ PCOS program officers:
+Jaya Bajpayee, PCOS Program Executive
+jaya.bajpayee-1@nasa.gov
+
+Rita Sambruna, PCOS Program Scientist
+rita.m.sambruna@nasa.gov
+
+PCOS Program Information:
+
+http://pcos.gsfc.nasa.gov/ 
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL RESEARCHER IN PETROLOGY OF PLANETARY MATERIALS
+
+The Lunar and Planetary Institute (LPI), part of the Universities 
+Space Research Association, invites applications for a postdoctoral 
+fellowship in the petrology of planetary materials.
+
+The successful candidate will work with Dr. Allan Treiman in NASA-
+funded efforts, focusing on planetary crusts and magmas, and their 
+volatiles constituents; target materials include lunar highlands 
+rocks, Martian meteorites, and terrestrial analogs.  These efforts 
+focus on planetary samples, starting with analyses by optical 
+microscopy and electron microprobe; other instruments are available 
+at nearby Johnson Space Center or with external collaborators.  The 
+candidate will be encouraged to design and conduct their own research 
+in planetary science, propose for external funding, participate in 
+grant review panels and analysis groups, and become involved with 
+spacecraft missions.
+
+The successful candidate will have a recent Ph.D. in petrology or 
+geochemistry; experience with planetary materials is helpful, but 
+not required.  The position would be for two years, with possible 
+extension to a third year.  Review of candidates will begin on 
+November 15, 2011, with a hiring decision as soon as possible 
+thereafter. Further information can be found on our website:
+
+http://www.lpi.usra.edu.
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCHERS IN LUNAR SCIENCE
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI) invites applications for lunar science and exploration
+postdoctoral fellowships.  Opportunities include:
+
+Lunar Surface Geology and Remote Sensing - Using new LRO data; 
+integrating it with existing lunar data to evaluate processes 
+associated with impact cratering and/or planetary differentiation. 
+Experience with orbital remote sensing methods, photometry of lunar
+materials, and photogeology of lunar or lunar-like terrains preferred. 
+
+Experimental and/or Analytical Petrology and Geochemistry - Using 
+Apollo and lunar meteorite samples (or synthetic analogues) to 
+evaluate processes associated with impact cratering and/or planetary 
+differentiation.  Experience with electron and ion microprobes, 
+and/or LA-ICPMS techniques preferred.
+
+Modeling of Impact Cratering Processes - Using hydrocodes and relevant
+analytical techniques to evaluate different cratering processes on the
+Moon, to model specific crater or basin-forming events, and potentially
+guide future exploration scenarios. 
+
+The successful candidate will be a member of the new LPI-JSC Center 
+for Lunar Science and Exploration (http://www.lpi.usra.edu/nlsi/), 
+one of the core teams within the NASA Lunar Science Institute. 
+           
+Further information, including submission requirements are found at:
+
+http://www.lpi.usra.edu
+
+Questions regarding science involved in the position, contact Dr. 
+David Kring (kring@lpi.usra.edu). 
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+ 
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE NASA POSTDOCTORAL PROGRAM
+
+The next deadline to apply for a NASA Postdoctoral Program (NPP) 
+fellowship is November 1, 2011.  These competitive one- to three-year
+appointments advance NASA's missions in space science, earth science,
+aeronautics, space operations, exploration systems, lunar science, and
+astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens and foreign nationals who hold Lawful 
+Permanent Resident status or who are eligible for J-1 status as a 
+Research Scholar may apply.  An H-1B Visa status is not acceptable 
+because the NPP is not an employment program.
+
+Stipend rates for Postdoctoral Fellows start at $50,000 per year, 
+with moderate supplements for high cost-of-living areas and for 
+certain academic specialties. Funds are available for relocation 
+expenses, up to a specified limit, and health insurance is available
+through the program. Fellows also receive $8,000 per appointment 
+year to support travel to conferences, meetings, and other activities
+that directly support their research.
+
+Applications for the NASA Postdoctoral Program are accepted: 
+March 1, July 1, and November 1.
+
+For further information and to apply online, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+For questions regarding this opportunity e-mail nasapostdoc@orau.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+STUDENT TRAVEL GRANTS FOR GSA MEETING
+
+The Planetary Geology Division (PGD) of the Geological Society of
+America is offering two travel grants of $500 each to help defray 
+costs for PGD student members who are traveling to the 2011 GSA Annual
+Meeting in Denver to present first-authored papers.
+
+Applicants for student travel awards must:
+
+- Be first author and presenter of a paper (or poster)
+- Be a Student Member of both GSA and the Planetary Geology Division. 
+- Be registered for the meeting before applying for a travel grant.
+- Submit a completed Travel Grant Application, current CV, and a
+ short justification (~300-500 words) for why travel funding is
+ needed. If you are a co-convener of a session, also give that
+ session's title.
+
+To join or to renew your membership see:
+
+http://www.geosociety.org/members/
+
+To register see:
+
+http://www.geosociety.org/meetings/2011/reg.htm
+
+A student may only receive one GSA travel grant per meeting. You will
+be notified of your application status in early October. Checks will
+be presented at the meeting, following your talk or poster.
+
+The application deadline has been extended to September 24th, 2011.
+The application form can be requested from, and submitted to
+Bob Anderson, robert.c.anderson@jpl.nasa.gov.
+
+For more info see:
+
+http://rock.geosociety.org/pgd/awards.html#_travel
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+CALL FOR PROPOSALS FOR THE NASA INFRARED TELESCOPE FACILITY (IRTF)
+
+Deadline: 03 October 2011 for the 2012A semester (Feb 1-July 31, 2012)
+
+Available instruments include: 
+(1) SpeX, a 1-5 micron cross-dispersed medium-resolution spectrograph 
+(up to R=2,500) and imager.
+(2) CSHELL, a 1-5 micron high-resolution spectrograph (up to R=40,000).
+(3) MIRSI, a 8 to 25 micron camera and low-resolution spectrometer 
+(R=100 to 200).
+(4) NSFCAM2, a 2048x2048 pixel, 1-5 micron camera with a 0.04 "/pixel 
+scale (82"x82" field-of-view) and a circular variable filter.
+(5) MORIS, a 512x512 pixel Andor CCD camera mounted at the side-facing,
+dichroic-fed window of the SpeX cryostat (60"x60" field-of-view); 
+MORIS can be used simultaneously with SpeX.
+(6) PI-instruments including a low-resolution 3-14 micron spectrograph
+and high-resolution spectrographs for 8-25 microns.  
+
+Remote observing is available with SpeX, NSFCAM2, CSHELL, MORIS and 
+MIRSI.  
+
+Information on available instruments can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/Facility/
+
+The online application form and information about instrumentation 
+scheduling details can be found at:
+
+http://irtfweb.ifa.hawaii.edu/observing/callForProposals.php
+ 
+Questions, please contact William Walters, walters@ifa.hawaii.edu
+
+[Edited for length.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+October 17-18, 2011
+NASA Outer Planets Assessment Group Uranus Workshop
+http://www.lpi.usra.edu/opag/
+Pasadena, CA
+
+October 19-20, 2011
+NASA Outer Planets Assessment Group Meeting
+http://www.lpi.usra.edu/opag/
+Pasadena, CA
+
+January 4-7, 2012
+National Radio Science Meeting
+http://www.nrsmboulder.org/
+Boulder, CO
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*
+* To unsubscribe, send an email to pen_editor at psi.edu
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements.  Title plus text is limited to 200 words.  Go to
+* http://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu).
+***********************************************************************

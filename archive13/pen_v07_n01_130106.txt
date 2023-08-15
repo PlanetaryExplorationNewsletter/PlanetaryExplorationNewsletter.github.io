@@ -1,0 +1,423 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 1 (January 6, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Bertram Donn (1919-2012)
+2. [NASA] Retirement Letter from Doug McCuiston
+3. [NASA] Three-day Training Course on Planetary Protection
+4. [PDS] Odyssey Data Release 42
+5. [PDS] Cassini Data Release 32
+6. NASA Postdoctoral Fellowships 
+7. January MEPAG Newsletter Available Plus Correction
+8. Community Urged to Hear NASA's Jim Green Presentation Next Week
+9. Call for Abstracts - 64th International Astronautical Congress
+10. Call for Students and Young Professionals - 64th International 
+    Astronautical Congress
+11. Planetary Science Slides and Illustrations
+12. Space Place Prime - Free NASA App Now Available for iPhone
+13. Neil Armstrong Didn't Lie About his "One Small Step" Quote	
+14. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+BERTRAM DONN (1919-2012)
+
+Dr. Bertram "Bert" Donn, the first head of NASA Goddard's astro-
+chemistry group, passed away on Friday December 28, 2012 at age 93. 
+Bert, a New Yorker by birth, attended Harvard University, where he was 
+taught by such legends as Fred Whipple, Cecilia Payne, and Bart Bok. A 
+meeting with Harold Urey in the 1950s turned Bert's attention to 
+problems of low-temperature reactions and their connections to inter-
+stellar chemistry. Bert's research at Goddard spanned theory, 
+observation, and experiment, with connections to NASA missions such as 
+Skylab, Apollo, and the International Ultraviolet Explorer. Almost all 
+of his research concerned cometary and interstellar matter in some way. 
+Bert also was an early NASA contributor to the astrobiological 
+literature, and initiated several astrobiology-related research 
+projects at Goddard. He was a pioneer in astrochemistry and NASA 
+research. He did much to establish NASA's strong scientific reputation 
+among astronomers and planetary scientists around the world. Aside from 
+his Goddard work, Bert was a well-known and honored advocate of non-
+violence and peaceful conflict resolution, and was instrumental in the 
+racial integration of Greenbelt, where he and his family lived for 50 
+years. For more information please see: 
+
+http://science.gsfc.nasa.gov/691/Donn.html
+
+Joe Nuth 
+Reggie Hudson
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] RETIREMENT LETTER FROM DOUG MCCUISTON
+
+To the Mars Exploration Community,
+ 
+As I depart from the Program and NASA, after more than 20 years with 
+Agency and nearly 9 years leading the Mars Exploration Program, I want 
+to thank and congratulate you all on what we have accomplished. As I 
+look back it has truly been a remarkable decade of achievements, 
+advancements, discovery, community convergence, and world-wide 
+notoriety. From engineer to scientist to manager, we pulled together 
+through some tough times, kept the program, missions and research on 
+track, replanned as challenges were thrown our way, capitalized on the 
+incredible successes of Odyssey, Spirit & Opportunity, MRO, Phoenix, 
+and of course MSL/Curiosity. We have changed science and changed the 
+text books! This community has shown incredible poise, resilience, 
+selflessness and togetherness, and incredible foresight. You have 
+had the vision to look past challenging times and create a bright 
+future for Mars and solar system exploration. Our recent 
+accomplishments with Curiosity have brought Mars and solar system
+exploration into many people’s daily lives for the first time, and we 
+have touched the world with this incredible feat—and there’s more to 
+come! The adventure is just beginning!
+  
+While timing a retirement is always challenging, I leave encouraged and 
+content—Curiosity safely on the surface doing incredible science 
+(landing in a stream bed—what a start!), and a secure future for the 
+Mars Exploration Program with a 2020 science rover mission after MAVEN 
+and an ExoMars cooperation. In the interim, the Program is in good 
+hands with Michael Meyer and Jim Green (acting Program Director). The 
+Agency is well aware of the importance of Mars and will be actively 
+pursuing a replacement.
+ 
+I have been honored to work with, and lead, such an extraordinary and 
+innovative community. My years working with you, and our 
+accomplishments, are without doubt the highlight of my career! Keep 
+moving forward, keep innovating, keep discovering! 
+ 
+On to Mars…
+Doug
+ 
+Doug McCuistion
+NASA Headquarters
+
+[Editor: Length exception made.]
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] THREE-DAY TRAINING COURSE ON PLANETARY PROTECTION
+ 
+Course: "Planetary Protection: Policies and Practices"
+Dates: March 12-14, 2013
+Location: Kennedy Space Center, Florida
+Registration fee of $500
+ 
+We cordially invite all interested parties to participate in the 
+upcoming course on Planetary Protection Policies and Practices, which 
+is designed to familiarize current and future practitioners with NASA, 
+ESA, and COSPAR planetary protection programs.  The course provides an 
+overview of applicable policies, practices and procedures necessary to 
+implement a successful planetary protection program, emphasizing 
+integration of managerial, administrative, and laboratory activities. 
+It is supported by the NASA Planetary Protection Officer:
+
+http://planetaryprotection.nasa.gov/course
+ 
+Enrollment: 14 participants
+ 
+Application: contact tasalb@msn.com
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[PDS] Odyssey Data Release 42
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 42, for the following instruments:    
+
+GRS, THEMIS, RADIO SCIENCE (Releases 124-126) and SPICE.  
+
+The gamma sensor component of the GRS instrument suite will no longer 
+return data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20130102.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[PDS] CASSINI DATA RELEASE 32
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 32, January to March 2012, for instruments:
+
+CIRS, ISS, RADAR, RPWS, SPICE, UVIS, VIMS
+
+(RSS had no observations this period, and CDA, HRD, CAPS, INMS, MAG, 
+and MIMI data will be ready soon)
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days beyond 
+the formal release date to be incorporated into these services. Check 
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20130103.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JANUARY MEPAG NEWSLETTER AVAILABLE PLUS CORRECTION
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the January 
+2013 edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+
+http://mepag.jpl.nasa.gov
+
+CORRECTION:  The updated version contains the following correction.
+The January 15-16, 2013 Planetary Protection: Policies and Practices 
+course has been removed and rescheduled for March 12-14, 2013. 
+ 
+Regards,
+Joyce Pulliam
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+COMMUNITY URGED TO HEAR NASA'S JIM GREEN PRESENTATION NEXT WEEK
+
+There has been much discussion of NASA's Planetary Science Division 
+(PSD) budget in recent weeks (about R&A in particular). Next week, Jim 
+Green will give a presentation at the OPAG meeting in Atlanta about 
+this, at 8:30 am on 10 January 2013. We strongly encourage our 
+membership to call in via webcast to hear what he has to say, and to 
+educate themselves about the current and upcoming PSD budget, including 
+R&A. You can register for the webex and see the agenda at: 
+
+http://www.lpi.usra.edu/opag/
+
+Rosaly Lopes (DPS Chair) & Heidi Hammel (DPS Vice-Chair)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+CALL FOR ABSTRACTS - 64TH INTERNATIONAL ASTRONAUTICAL CONGRESS
+
+The International Astronautical Congress (IAC) is the largest space-
+related conference worldwide and selects an average of 1000 scientific 
+papers every year. The IAC is organized by the International 
+Astronautical Federation (IAF), the International Academy of 
+Astronautics (IAA), and the International Institute of Space Law 
+(IISL). 
+ 
+In 2013, the IAC will be held in Beijing, China, September 23-27. The 
+IAC has posted a "Call for Abstracts," with a submission deadline of 
+February 21, 2013. NASA plans to also announce a "Call for Abstracts" 
+inviting graduate students to submit abstracts (of no more than 400 
+words) to participate in the 64th International Astronautical Congress.  
+Abstracts must be submitted to NASA and to the IAF. Details on the 
+NASA Call for Abstracts will be distributed by mid-January, with the 
+same submission deadline of February 21, 2013. The selected NASA 
+sponsored students must also be selected by the IAF. 
+ 
+For additional information about the Congress and to obtain information 
+about the "Call for Abstracts", please visit the IAC website:
+
+http://www.iac2013.org/ 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+CALL FOR STUDENTS AND YOUNG PROFESSIONALS - 64TH INTERNATIONAL 
+ASTRONAUTICAL CONGRESS
+
+If you could choose humanity's next destination in space, where would 
+you choose? We want to hear what you think should be the next 
+destination for humans to explore and why your destination is the best. 
+As today's 21- to 35-year-olds, you will be the senior engineers and 
+mission managers who will be carrying out and leading the next human 
+missions to explore space, and we want your input.
+
+We invite you to share your ideas with space leaders in government, 
+industry and academia at the International Astronautical Congress in 
+Beijing, China, 23-27 September 2013!
+
+Round One: By January 6, 2013, create a 15 second video telling us why 
+you should be chosen to address the IAC and post it on: 
+
+http://www.youtube.com.  
+
+Then complete the application available at:
+
+https://docs.google.com/spreadsheet/
+viewform?formkey=dG4yUW1XRHhKeVh3UFpKc1NKQ1lUbFE6MQ
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE SLIDES AND ILLUSTRATIONS
+
+Are you looking for some great slides or illustrations to use in your 
+classes this term? The Planetary Science Research Discoveries website 
+has sets of Powerpoint slides. These are summaries of PSRD articles 
+covering the origin of solar systems and the processes by which 
+planets, moons, and small bodies form and evolve. The slides are 
+annotated with captions and notes, and are linked to PSRD articles 
+that provide the full context, additional graphics, and references.
+
+http://www.psrd.hawaii.edu/Archive/Archive-PSRDpresents.html
+
+The Cosmochemistry Illustrated website offers Powerpoint slides with 
+planetary examples to enrich any geochemistry, petrology, and 
+introductory geology course. References and background are given in the 
+notes pages.
+
+http://www.higp.hawaii.edu/cosmoeye/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+SPACE PLACE PRIME - FREE NASA APP NOW AVAILABLE FOR IPHONE
+
+"Space Place Prime," the popular NASA iPad magazine, is now available 
+for iPhone. This exciting app gathers some of the best and most recent 
+web offerings from NASA. It taps engrossing articles from The Space 
+Place website, enlightening NASA videos, and daily images such as the 
+Astronomy Picture of the Day and the NASA Earth Observatory Image of 
+the Day.
+
+Space Place Prime targets a multigenerational audience. Kids, teachers, 
+parents, space enthusiasts, and everyone in between will find 
+fascinating features on this new, free NASA iPhone app. Look for it in 
+the Apple Store today at:
+
+http://itunes.apple.com/us/app/space-place-prime/id543935008?mt=8 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NEIL ARMSTRONG DIDN'T LIE ABOUT HIS "ONE SMALL STEP" QUOTE
+
+Dear Friends and Colleagues,
+
+I was distressed to see recent news stories claiming that Neil 
+Armstrong lied to the world about when he made up his famous "One small 
+step for a man, one giant leap for mankind" quote. I have written an 
+op-ed in response, which is now available on Space.com: 
+
+http://www.space.com/19136-neil-armstrong-moon-speech-truth.html
+
+I would appreciate it if you would spread this far and wide, to 
+counteract the ridiculous statements that have been made in past days. 
+Feel free to send it to any publications you may have contact with.
+
+Thanks,
+Andy Chaikin
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 6-10, 2013
+221st Meeting of the American Astronomical Society
+http://aas.org/meetings/aas221
+Long Beach, CA
+
+January 24, 2013
+Venus Upper Atmosphere Science and Technology Interchange Meeting
+http://spaceflightsystems.grc.nasa.gov/SSPO/SP/VenusUpper/workshop.html
+Cleveland, OH
+
+June 2-6, 2013
+222nd Meeting of the American Astronomical Society
+http://aas.org/meetings/aas222
+Indianapolis, IN
+
+June 15-16, 2013
+IPPW-10 Short Course on Entry, Descent, and Landing Systems
+http://www.ippw10.com/index.php/program/short
+San Jose, CA
+
+June 17-21, 2013
+10th International Planetary Probe Workshop (IPPW10)
+http://www.ippw10.com/
+San Jose, CA
+
+June 18-21, 2013
+From Exoplanets to Distant Galaxies: SPICA's New Window on the Cool 
+Universe
+http://www.ir.isas.jaxa.jp/SPICA/spica2013/
+Kanagawa, Japan
+
+July 9-11, 2013
+Comets as Tracers of Solar System Formation and Evolution
+http://icw.space.swri.edu/index.htm
+Toulouse, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

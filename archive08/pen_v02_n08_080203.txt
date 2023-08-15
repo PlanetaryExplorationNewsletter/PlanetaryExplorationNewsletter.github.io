@@ -1,0 +1,105 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 8 (February 3, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Senior Advisor for Research and Analysis (SARA) Updates
+2. [NASA] PDS Releases New Horizons Data
+3. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SENIOR ADVISOR FOR RESEARCH AND ANALYSIS (SARA) UPDATES
+
+Dear Colleagues,
+
+The most recent updates to the SARA webpage have just been made
+http://science.hq.nasa.gov/research/sara.html
+
+A list of page changes can be found at 
+http://science.hq.nasa.gov/research/sara_whats_new.html
+
+The most recent letter from SARA can be found at 
+http://science.hq.nasa.gov/research/sara_letters.html
+
+Best Wishes,
+
+Yvonne Pendleton, Senior Advisor for Research and Analysis.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS RELEASES NEW HORIZONS DATA
+
+The NASA Planetary Data System is pleased to announce the first 
+delivery of the data from the NEW HORIZONS mission. The delivery 
+includes POST-LAUNCH CHECKOUT and JUPITER FLYBY row and calibrated data 
+for the following New Horizons instruments:
+
+MVIC (Multispectral Visible Imaging Camera)
+LEISA (Linear Etalon Image Spectral Array)
+Alice (UV imaging  spectrometer)
+SWAP (Solar Wind Around Pluto)
+PEPSSI  (Pluto Energetic Particle Spectrometer Sciences Investigation)
+LORRI (Long Range Reconnaissance Imager)
+SDC (Student Dust Counter)
+SPICE data are also available.
+
+To see and download the data as well as mission and instrument
+information, go to
+
+http://pdssbn.astro.umd.edu/missions/newhorizons/index.html 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 11-12, 2008
+Peering into the Cradle of Life: Processes and Habitats on the 
+Archean Earth
+http://archenv.geo.uu.nl/
+Vienna, Austria
+
+October 5-10, 2008
+IAGA International Symposium : Space Weather and its Effects on 
+Spacecraft
+http://http://iaga.cu.edu.eg/
+Cairo, Egypt
+
+July 27-31, 2009
+Magnetospheres of the Outer Planets Conference
+http://mop2009.uni-koeln.de/
+Cologne, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

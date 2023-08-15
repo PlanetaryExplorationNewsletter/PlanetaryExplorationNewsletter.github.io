@@ -1,0 +1,172 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 26 (May 18, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] New Frontiers Program Community Announcement 
+2. [NASA] SPICE Training Class
+3. The Great Planet Debate: A Scientific Conference and Educator's
+   Workshop
+4. First Announcement - Spitzer 2008 Conference "New Light on Young 
+   Stars" 
+5. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NEW FRONTIERS PROGRAM COMMUNITY ANNOUNCEMENT
+
+May 12, 2008
+
+The National Aeronautics and Space Administration (NASA) Science
+Mission Directorate (SMD) plans to release for community comment a
+draft Announcement of Opportunity (AO) for the third New Frontiers
+mission (NF-3) in September 2008. Approximately two weeks after the
+draft is released, SMD will hold a community workshop in the
+Washington, D.C., area. The final AO will be released in December
+2008 with proposals due approximately 90 days later. In August 2009,
+up to three missions will be selected for a 9 to 11 month Phase A
+that will be funded up to $2.5M each. Downselection to a single
+mission for flight will occur in fall (September to November) 2010.
+Launch is to occur no earlier than 2015 and no later than 2018. This
+NF-3 AO will solicit only missions that do not require nuclear
+sources for power generation or propulsion, although Radioisotope
+Heating Units (RHUs) and calibration sources will be allowed. The
+Principal Investigator (PI) Mission Cost for all phases of the
+mission will not include the launch vehicle and will be capped at
+$650M in FY09 dollars.
+
+Questions may be addressed to Dr. Adriana C. Ocampo, New Frontiers
+Program Executive, Science Mission Directorate, NASA, Washington, DC
+20546; Tel.: (202) 358-2152; Email: aco@nasa.gov 
+
+[Editor Note: Full details of this announcement can be found at:
+http://newfrontiers.larc.nasa.gov/CommAnnouncement05122008.html]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SPICE TRAINING CLASS
+
+NASA's Navigation and Ancillary Information Facility (NAIF) has
+tentatively scheduled the next SPICE training class, to be held near
+Pasadena CA on October 21-24 (to be confirmed). Details may be found
+from a link on the NAIF home page: 
+
+http://naif.jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+THE GREAT PLANET DEBATE: A SCIENTIFIC CONFERENCE AND EDUCATOR's 
+WORKSHOP
+
+August 14 - 16, 2008
+Johns Hopkins University Applied Physics Laboratory
+Laurel, Maryland, USA
+
+Online registration for the above meeting is now available at:
+
+http://gpd.jhuapl.edu/
+
+The deadline for abstracts and early registration is June 27, 2008.
+
+During the first two days of the conference, speakers will present 
+what we have learned about planetary bodies after more than 40 years
+of robotic exploration of the Solar System and what we are learning
+about planets around other stars. The characteristics and criteria
+used to define and categorize planets, including the IAU's
+dynamical-based definition and alternative geophysical-based
+definitions, will be discussed and debated.
+
+The invited speakers are leading researchers in the field of planetary
+system formation and evolution. The schedule of talks can be found at:
+
+http://gpd.jhuapl.edu/schedule/
+
+The third day of the meeting will be an Educator's Workshop to discuss
+how the question of "The Great Planet Debate" should be treated in
+schools and how that can be used as a springboard to discuss
+science as a process, as well as other topics in planetary science.
+
+Meeting Organizers: Mark Sykes, Hal Weaver, and Keith Noll
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FIRST ANNOUNCEMENT - SPITZER 2008 CONFERENCE "NEW LIGHT ON YOUNG STARS"
+
+October 26-30 2008, Hilton Hotel, Pasadena CA
+
+You are cordially invited to participate in the 2008 Spitzer Science
+Center Conference on circumstellar disks.
+
+The unprecedented infrared sensitivity of the Spitzer Space Telescope 
+has enabled major advances in the study of protostellar, 
+protoplanetary, and debris disks.  Now, as Spitzer nears the 
+transition from cryogenic to warm mission, it is an opportune time
+to assess and synthesize recent progress in our understanding of 
+circumstellar disks and focus on the outstanding science questions 
+for future work.  At the meeting, results from Spitzer's surveys
+of circumstellar matter in the Milky Way will be considered in the
+context of work at other wavelengths and underlying theory in the
+following topic areas:
+
+- Surveys of star-formation regions
+- Effects of environment and central object on disk properties
+- Structure of protostellar/protoplanetary disks and envelopes
+- Spectroscopic diagnostics of circumstellar gas and dust
+- Transition disks, disk evolution, and planet formation
+- Frequency, structure, and theory of debris disks
+
+Full details about registration, lodgings and agenda can be found
+here:
+
+http://www.ipac.caltech.edu/spitzer2008
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 10-14, 2008
+The N-Body Problem: Numerical Methods and Applications
+http://www.astro.utu.fi/conf/NBody2008/
+Turku, Finland
+
+September 15-17, 2008
+Thermal Models for Planetary Science
+http://www.oca.eu/thermops/
+Beaulieu sur Mer, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

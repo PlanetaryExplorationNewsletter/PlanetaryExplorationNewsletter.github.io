@@ -1,0 +1,406 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 1 (January 5, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Titan Through Time Workshop 3
+2. iCubeSat 2014
+3. MSL/CHEMCAM/LIBS Recalibrated Data in PDS MSL Release 4; 
+   User Workshop
+4. Announcement of Availability of Dawn Data Over the Web
+5. NASA Postdoctoral Fellowships
+6. 2014 NASA Planetary Science Summer School Applications Open
+7. Session on Planetary Chemistry at Goldschmidt 2014
+8. Planetary Geomorphology Image of the Month
+9. Student Summer Internships at Johns Hopkins University Applied 
+   Physics Laboratory
+10. SBAG Meeting: January 8-9
+11. [NASA] PDS - Cassini Data Release 36
+12. [NASA] PDS - Odyssey Data Release 46
+13. Latest Discovery and New Frontiers Newsletter Now Online
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+TITAN THROUGH TIME WORKSHOP 3
+
+A workshop on Titan's Past, Present and Future, 8-10 April, 2014
+Johns Hopkins University Applied Physics Laboratory, Laurel, MD, USA
+
+Abstracts, student support applications, and registration
+(no cost, but required for limited-size facility) are due 
+February 2nd, 2014. Go to:
+
+http://www.jhuapl.edu/titanthroughtime3
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ICUBESAT 2014
+
+27-28 May 2014, Pasadena, USA
+
+iCubeSat 2014, the 3rd Interplanetary CubeSat Workshop, will address
+the technical challenges, opportunities, and practicalities of
+interplanetary space exploration with CubeSats. The workshop provides
+a unique environment for open wide ranging practical collaboration
+between academic researchers, industry professionals, policy makers
+and students developing this new and rapidly growing field.
+
+Details and registration: 
+
+www.iCubeSat.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MSL/CHEMCAM/LIBS RECALIBRATED DATA IN PDS MSL RELEASE 4; USER WORKSHOP
+
+The recently available PDS MSL/ChemCam Release 4 includes recalibrated 
+laser-induced breakdown spectroscopy (LIBS) compositional data from 
+75,210 spectra representing 2,256 observation points in 258 targets 
+in Gale crater. The recalibration gives more representative elemental 
+compositions from the entire mission. The data set includes active 
+spectra on soils and rocks, including laser depth profiles; passive 
+spectra on soils, rocks, and atmosphere; and Remote Micro-Imager 
+(RMI) high resolution images. The data volume delivered in Release 4, 
+including recalibrated files, is 7.7 GB. Potential LIBS data users 
+should read the caveats carefully and consult recent publications, 
+as this is a new technique. Further refinement of the data is possible.
+
+To help familiarize potential new users a short MSL LIBS Data Users 
+Workshop is being planned in conjunction with the Lunar & Planetary 
+Science Conference in Houston in March. The contact is Roger Wiens 
+(rwiens@lanl.gov). More information and announcements will be 
+available closer to the time of the meeting.
+
+The ChemCam data can be found at:
+
+http://pds-geosciences.wustl.edu/missions/msl/chemcam.htm
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ANNOUNCEMENT OF AVAILABILITY OF DAWN DATA OVER THE WEB
+
+The Dawn project is pleased to announce that it has created a website 
+where the public can freely access and download data and documentation 
+
+http://dawndata.igpp.ucla.edu
+
+Most of the data provided here are identical to the products provided 
+by the Planetary Data System (PDS). However, the meta-data provided 
+has been augmented to include geometry information in both the Dawn 
+Claudia and the Claudia Double Prime coordinate systems. All of the 
+Dawn publications cite the Dawn Claudia system while the PDS site only 
+provides metadata in the Claudia Double Prime system. This site is a 
+work in progress. Many of the data sets that have been certified by 
+the PDS but still have liens against the metadata are not yet 
+available here. These data will be accessible from this site once the 
+data are fully archived by the PDS.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+An example research opportunities is:
+
+https://www3.orau.gov/NPDoc/Catalog/18395
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/18GSlHK
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+2014 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS OPEN
+
+NASA is accepting applications from science and engineering post-docs, 
+recent PhDs, and doctoral students for its 26th Annual Planetary 
+Science Summer School, which will be held in three separate sessions 
+in summer 2014 (June 16-20, July 14-18, and August 11-15) at the 
+Jet Propulsion Laboratory in Pasadena, CA.  
+
+During the program and pre-session webinars, student teams will 
+carry out the equivalent of an early mission concept study, prepare 
+a proposal authorization review presentation, present it to a review 
+board, and receive feedback. By the end of the session, students 
+will have a clearer understanding of the life cycle of a space 
+mission; relationships between mission design, cost, and schedule; 
+and the tradeoffs necessary to stay within cost and schedule while 
+preserving the quality of science. The 2014 sessions will address 
+planetary exploration missions needing power system trade-offs, 
+including the use of solar electric vs. Multi-mission Radioisotope 
+Thermoelectric Generators (MMRTG). The session in August will have 
+a targeted focus on spacecraft power systems.
+
+Applications are due April 1, 2014. Partial financial support is 
+available for a limited number of individuals. Further information 
+is available at:
+
+http://pscischool.jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SESSION ON PLANETARY CHEMISTRY AT GOLDSCHMIDT 2014
+
+There will be a theme dedicated to Planetary Chemistry at the upcoming 
+Goldschmidt 2014 meeting taking place June 8-13 in Sacramento, CA.
+  
+Theme sub-topics include:
+a) Building Blocks of the Planets
+b) Processes and Timescales of Planetary Differentiation
+c) Compositions of the Interiors of the Terrestrial Planets
+d) Chemistry of Planetary Atmospheres
+e) Oxidation State of the Planets
+f) Crust Formation on Extra-Terrestrial Bodies and Its Importance for 
+   Planetary Chemistry
+g) Lunar Materials, a Window into the Origin and Evolution of the Moon
+
+Abstract Submission is now open until 23:59 (GMT) on 8 February 2014.
+
+More information and descriptions of Planetary Chemistry sub-topics are 
+available at:
+
+http://goldschmidt.info/2014/program/programViewThemes#theme02
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The January 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is on "Fluvial channels in Central Pit Craters".
+Image and caption contributed by Samantha Peel, Department of Earth 
+and Planetary Sciences, University of Tennessee, USA.
+
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+STUDENT SUMMER INTERNSHIPS AT JOHNS HOPKINS UNIVERSITY APPLIED 
+PHYSICS LABORATORY
+
+The Johns Hopkins University Applied Physics Laboratory (APL) is 
+offering summer projects for students interested in working on NASA 
+missions or space-related research opportunities at APL. Students 
+will receive a stipend for the 10-week program, and housing will be 
+provided. Visit the website for more information and to apply:
+
+https://www.aplapp.com/
+
+Applications are due January 27, 2014.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SBAG MEETING: JANUARY 8-9
+
+The 10th meeting of the NASA Small Bodies Assessment Group (SBAG) will 
+be held Wednesday, January 8, to Thursday, January 9, in Washington, 
+DC. Information about the meeting is available on the website:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+Additionally, details to participate remotely are available on this 
+website:
+
+http://www.lpi.usra.edu/sbag/meetings/jan2014/webex/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS - CASSINI DATA RELEASE 36
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 36, January to March 2013, for instruments:
+
+CIRS
+ISS
+RADAR
+RSS
+SPICE
+VIMS
+
+CDA, HRD, INMS, MAG, MIMI, UVIS data will soon be available.
+
+RPWS's previous delivery covered the period in this release.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20140102.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] PDS - ODYSSEY DATA RELEASE 46
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 46, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 136-138)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue 
+to operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20140103.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+LATEST DISCOVERY AND NEW FRONTIERS NEWSLETTER NOW ONLINE
+
+The December 2013 issue of the Discovery and New Frontiers News is on 
+the website at:
+
+http://discovery.nasa.gov/newsletter/newsletter.cfml
+
+Contents:
+- InSight Reaches Key Milestone
+- MESSENGER Passes 1,000 Days in Orbit
+- On the Path to Pluto
+- Dawn's Newest Findings Revealed 
+- Earth Says "Hi" to Juno
+- Tribute to Deep Impact
+- OSIRIS-REx Countdown Begins
+- ASPERA-3 and Strofio Updates
+
+To subscribe, send an email to: shari.e.asplund@jpl.nasa.gov
+
+Happy New Year!
+Shari 
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 8-10, 2014
+Titan Through TIme Workshop 3
+https://dnnpro.outer.jhuapl.edu/titanthroughtime3/Home.aspx
+Laurel, MD
+
+May 27-28, 2014
+3rd Interplanetary CubeSat Workshop (iCubeSat 2014)
+http://icubesat.org/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

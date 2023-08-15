@@ -1,0 +1,162 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 3, Number 42 (September 13, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Nic Richmond, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mars Exploration Program Analysis Group - Newsletter Available
+2. Student Travel Award Opportunity - Methane on Mars Workshop
+3. [NASA] High-end Computing for SMD-sponsored Research
+4. [NASA] SBAG Decadal Workshop at DPS - Time Change
+5. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MARS EXPLORATION PROGRAM ANALYSIS GROUP - NEWSLETTER AVAILABLE
+
+On behalf of Jack Mustard, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the September 
+2009 edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at
+
+http://mepag.jpl.nasa.gov   
+
+Joyce N. Pulliam
+Mars Exploration Directorate
+Jet Propulsion Laboratory
+M/S:  301-340
+(818) 393-0444  
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+STUDENT TRAVEL AWARD OPPORTUNITY - METHANE ON MARS WORKSHOP
+
+The Mars Program Office is pleased to announce a new student travel 
+opportunity, to attend the Workshop on Methane on Mars in 
+Frascati, Italy. 
+
+The announcement and application form are on the MEPAG website at:
+
+http://mepag.jpl.nasa.gov/Student_Opportunities/index.html 
+
+Dr. Charles Budney
+Mars Program Office
+MS 301-340
+Jet Propulsion Laboratory
+4800 Oak Grove Drive
+Pasadena, CA  91109-8099
+(818) 354-3981
+Charles.j.budney@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] HIGH-END COMPUTING FOR SMD-SPONSORED RESEARCH
+
+If you have NASA Science Mission Directorate (SMD) funding and you 
+want to use NASA High-End Computing (HEC) resources for your 
+research, then you must request allocation for the HEC systems that 
+you wish to use.
+
+The NASA Science Mission Directorate (SMD) is currently accepting 
+requests for HEC time on the NASA Advanced Supercomputing (NAS) 
+facility at NASA Ames Research Center and for NASA Center for 
+Computational Sciences (NCCS) resources at NASA Goddard Space Flight 
+Center. Requests are solicited for FY10Q1 awards to begin November 1, 
+2009, and expire October 31, 2010.  A committee of SMD program 
+managers will consider requests submitted via e-Books to the SMD 
+rolling submission call by the September 20, 2009, deadline.
+
+Go to
+
+http://www.hec.nasa.gov 
+
+For help in determining which resource might handle your project's 
+codes most effectively, contact
+
+support@nccs.nasa.gov or support@nas.nasa.gov
+
+For questions on the SMD HEC allocation process contact 
+
+support@hec.nasa.gov
+
+For futher information, about this notice, please contact 
+
+Sally Stemwedel
+HEC Allocation Specialist
+Global Science & Technology Inc.
+NASA/GSFC Code 606.3
+sally.stemwedel@nasa.gov
+301-286-5049
+
+[Editor's Note:  text has been reduced for length]
+
+ 
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] SBAG DECADAL WORKSHOP AT DPS - TIME CHANGE
+
+October 7, Wednesday, 11:00-1:00 PM
+Room: Vieques
+
+This workshop will be to debate priorities for the decadal survey
+in the area of small bodies. This is in support of the Primitive
+Bodies Decadal Panel. SBAG organized seven community white papers, 
+now submitted, that identified top-level science issues and mission 
+priorities within the subdisciplines of Near-Earth Asteroids, 
+Asteroids, Comets, Dwarf Planets, Small Satellites, Centaurs and 
+Small Irregular TNOs, and Interplanetary Dust. The next task is to 
+prioritize the science issues and the recommended future NASA 
+missions across the entire primitive bodies field.
+
+These white papers, in addition to more narrowly focused topical 
+papers are available at
+
+http://www.psi.edu/decadal
+
+The workshop will commence with five minute presentations on each 
+of the seven community white papers mentioned above, followed by 
+an open discussion.
+
+If you are interested in participating in the NASA Small Bodies 
+Assessment Group, please go to 
+
+http://www.lpi.usra.edu/sbag
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

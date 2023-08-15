@@ -1,0 +1,441 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 29 (July 10, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS - Cassini Data Release 46
+2. [NASA] PDS - Dawn Ceres Framing Camera Data Release
+3. Biosignatures of Extant Life on Ocean Worlds Workshop
+4. AGU 2016 Session: Planetary Analogs
+5. AGU 2016 Session: Data Visualization in Earth and Planetary Sciences
+6. AGU 2016 Session P005: Cracking Up - Ice-Ocean Dynamics on Earth and 
+   Ocean Worlds
+7. AGU 2016 Session P008: Evolutions, Interactions and Origins of Outer 
+   Planet Satellites
+8. AGU 2016 Session P030: The Early Mars Environment: Warm and Wet, 
+   Cold and Wet, or Cold and Icy?
+9. Comets: A New Vision After Rosetta/Philae and Rosetta SWT 2016
+10. ESA Research Fellowships in Space Science
+11. Planetary Science Short Course
+12. Silicon Valley Astronomy Lecture Series Passes One Million Views on 
+    YouTube
+13. Mars Exploration Science Monthly Newsletter for July 2016
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS - CASSINI DATA RELEASE 46
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 46, July to September 2015, for instruments:
+
+CDA
+CIRS
+HRD
+INMS
+ISS
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+MAG data will be available shortly. The standard RPWS data for this 
+period was previously released. The RPWS data in this release are 
+Langmuir Probe products.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days beyond 
+the formal release date to be incorporated into these services. Check 
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160704.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - DAWN CERES FRAMING CAMERA DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the availability 
+of Dawn Ceres Framing Camera L1a and L1b (raw and calibrated) data for 
+the following mission phases:
+
+- Approach
+- RC3 (Rotational Characterization 3)
+- Survey
+- HAMO (High Altitude Mapping Orbit)
+
+The Framing Camera Ceres HAMO Clear Filter Mosaics are now available 
+as well. To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/dwncfc2.html
+
+For access to all available Dawn data in the PDS archive, see:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+BIOSIGNATURES OF EXTANT LIFE ON OCEAN WORLDS WORKSHOP
+
+September 12-14, 2016
+Goddard Space Flight Center, Greenbelt, MD
+http://ssed.gsfc.nasa.gov/BELOW/
+
+The goal of this workshop is to evolve our understanding of the 
+detectability of extant life on ocean worlds, such as Europa and 
+Enceladus. The event will bring astrobiologists, biologists, chemists, 
+geologists, oceanographers and mission and instrument developers 
+together to discuss the informational value of different types of 
+biosignatures, the importance of context and the concept of ecology 
+in the search for extant life, and examples of measurement sets and 
+exploration criteria that would support a productive search for 
+extant biology in future missions.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU 2016 SESSION: PLANETARY ANALOGS
+
+We invite contributions to a session focused on the planetary analogs 
+ranging from the tops of volcanoes to the bottom of oceans, at the 
+2016 AGU Fall Meeting in San Francisco, CA, December 12-16.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session14064
+
+On land and in the oceans, a variety of environments exist that provide 
+relevant analogs for planetary targets. These include: 
+
+(1) deep oceanic water-rock interactions as analogs to Europa, 
+    Enceladus, and early Mars processes; 
+(2) volcanic terrains that extend our understanding of the habitability 
+    of Mars; 
+(3) terrestrial impact craters that enable first-hand study of a 
+    geological process that ubiquitously affects solid bodies 
+    throughout the Solar System; 
+(4) active subaqueous oceanic and fluvial sediment transport that 
+    extends our understanding of dune and ripple morphologies as 
+    analogs for the thicker atmospheres of Venus and Titan. 
+
+Science-driven exploration of these and other analogs result in new 
+data, and leads to the development of new and novel operational and 
+technological capabilities that serve to enable and inform the next 
+generation of human-robotic planetary exploration. This session will 
+focus on sharing new results from across diverse yet complementary 
+analog research programs fostering interdisciplinary cooperation.
+
+Submission deadline: August 3, 2016.
+
+Conveners: Darlene Sze Shien Lim, Lynn D Neakrase, Timothy N Titus, 
+and Christopher R German.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU 2016 SESSION: DATA VISUALIZATION IN EARTH AND PLANETARY SCIENCES
+
+We would like to invite the community to consider submitting abstracts 
+to our AGU 2016 Fall Meeting session, which focuses on novel data 
+visualization techniques. Specifically, we would like to bring together 
+a diverse range of geoscientists to discuss the many different 
+platforms and technologies being used and developed for data 
+visualization.
+
+Session title: Sympathy for the Data: Novel approaches to the art of 
+data visualization. For more information, go to:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13499
+
+Please consider contributing to what we hope is a beneficial 
+discussion of the best data visualization techniques that we, as 
+scientists, can continue to build on in the future to better 
+communicate our research. Any questions can be addressed to Martin 
+(martin@seismo.wustl.edu). We are very interested in receiving 
+abstracts from a wide range of researchers to develop networks across 
+disciplines.
+
+Conveners:
+Martin Pratt (Washington University in St. Louis)
+Natalie Accardo (Lamont-Doherty Earth Observatory, Columbia University)
+Hannah Rabinowitz (Lamont-Doherty Earth Observatory, Columbia 
+University)
+John Leeman (Pennsylvania State University)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU 2016 SESSION P005: CRACKING UP - ICE-OCEAN DYNAMICS ON EARTH AND 
+OCEAN WORLDS
+
+We invite abstracts for our AGU 2016 session, which aims to host a 
+fruitful discussion of ice-ocean dynamics on Earth and around the solar 
+system. We seek a wide range of terrestrial glaciology/oceanography and 
+planetary research to foster the Earth-planetary connection.
+
+Ice-fluid interactions are major contributors to the dynamic and often 
+unpredictable processes observed across many "ocean worlds," including 
+on Earth and the floating shells of distant icy satellites. However, 
+our understanding of the physical processes controlling ice-ocean 
+interaction remains limited, even on Earth. Bringing together Earth 
+and planetary studies of ice-fluid interaction is the aim of this 
+session, which invites abstracts focused on dynamic phenomena that 
+arise in ices due to ice-fluid interactions. This session is open to 
+contributions regarding sea ice, glaciers and ice shelves, icy 
+satellites, Pluto, and beyond. Examples of these dynamics range from 
+sea ice drift and ice shelf collapse, to plumes on Enceladus, to chaos 
+on Europa. 
+
+For more information: 
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13931
+
+As a reminder, the AGU 2016 submission deadline is 3 August.
+
+Catherine Walker (JPL), Britney Schmidt (Georgia Tech), Justin Burton 
+(Emory U.), and Pierre Dutrieux (APL-UW)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU 2016 SESSION P008: EVOLUTIONS, INTERACTIONS AND ORIGINS OF OUTER
+PLANET SATELLITES
+
+Conveners: Amanda R Hendrix and Krishan K. Khurana 
+
+This session explores current and past planetary processes that lead 
+to unique present day conditions on outer planet satellites. The 
+session will consist of invited and contributed talks that highlight 
+geological and geophysical modeling and interpretation of both 
+remote-sensed and in-situ data. Presentations on interaction of 
+planetary field and plasma with the surfaces and interiors of the 
+moons and theoretical models of the origin and evolution of surfaces 
+and interiors of the moons are also welcome. Contributions that 
+investigate processes on multiple moons to uncover underlying trends 
+are especially welcome.
+
+AGU abstracts are due no later than 3 August.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU 2016 SESSION P030: THE EARLY MARS ENVIRONMENT: WARM AND WET, COLD 
+AND WET, OR COLD AND ICY?
+ 
+We invite contributions to a session focused on the environment of 
+early Mars, at the 2016 AGU Fall Meeting in San Francisco, CA, December 
+12-16.
+
+Geological, geochemical and mineralogical evidence indicative of 
+flowing and ponding liquid water on the surface of ancient Mars 
+appears abundantly across most of the Martian landscape. However, the 
+presence of liquid water on the surface of early Mars is difficult to 
+reconcile with the reduced solar luminosity at 3.8 Ga. and before, 
+unless greenhouse warming is considered. But the scarcity of carbonate 
+rocks on the martian surface and the absence of evidence for vigorous 
+recycling of volatiles cause many researchers to regard warming 
+mechanisms as speculative. This leaves still open the question of how 
+the observed fluvial features could have formed. We invite 
+contributions from climate modeling, geomorphology, geochemistry and 
+mineralogy that address the question of whether early Mars climate was 
+"warm and wet", "cold and wet" or "cold and icy". This session will 
+focus on both sharing new results from different perspectives and 
+fostering communication among the community.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+COMETS: A NEW VISION AFTER ROSETTA/PHILAE AND ROSETTA SWT 2016
+
+November 14-18, 2016
+Toulouse, France
+
+Reminder: Abstract and Registration are open.
+
+Important notice:
+Abstract deadline is postponed to: July 22, 2016
+Early registration deadline:  October 1, 2016
+
+For more information about the conference, visit: 
+
+http://comets2016toulouse.com
+
+If you have questions or need assistance during the registration 
+process, contact Insight Outside at contact@comets2016toulouse.com with 
+reference "Comets 2016" in the subject.
+
+For more information, contact:
+INSIGHT OUTSIDE
+39 chemin du vieux chene - 38240 Meylan, France
+Tel: +33 825 595 525 - Fax: +33 4 38 38 18 19
+Email: contact@comets2016toulouse.com
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ESA RESEARCH FELLOWSHIPS IN SPACE SCIENCE
+
+Areas of research include planetary science, astronomy and 
+astrophysics, solar and solar-terrestrial science, plasma physics and
+fundamental physics. The fellowships have a duration of two years and 
+are tenable at the European Space Research and Technology Centre 
+(ESTEC) in Noordwijk, Netherlands, or at the European Space Astronomy 
+Centre (ESAC) in Villafranca del Castillo, near Madrid, Spain.
+
+Applications are now solicited for fellowships in space science to 
+begin in the fall of 2017. Preference will be given to applications 
+submitted by candidates within five years of receiving their PhD. 
+Candidates not holding a PhD yet are encouraged to apply, but they 
+must provide evidence of receiving their degree before starting the 
+fellowship.
+
+The deadline for applications is 29 October 2016.
+
+More information on the ESA Research Fellowship programme in Space 
+Science as well as the application form can retrieved from:
+
+http://cosmos.esa.int/fellowship
+
+Questions can be sent by e-mail to the fellowship coordinators, 
+Dr. Oliver Jennrich or Dr. Bruno Altieri at the address 
+fellowship@cosmos.esa.int
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE SHORT COURSE 
+
+August 29 - September 4, 2016
+
+The Centre for Planetary Science and Exploration (http://cpsx.uwo.ca) 
+and the NSERC CREATE program "Technologies and Techniques for Earth 
+and Space Exploration" (http://create.uwo.ca) are pleased to announce 
+the 7th annual Planetary Science Short Course, which will run August 29 
+to September 4, 2016 in London, ON, Canada. Topics to be covered 
+include origin of the solar system and planet formation; planetary 
+interiors; planetary surfaces; astromaterials, planetary atmospheres; 
+astrobiology, and exoplanets. Details on the course can be found here: 
+
+http://www.cpsx.uwo.ca/training/graduate_student/courses
+/planetary_science_short_course.html 
+
+This course is suitable for graduate students, post-doctoral fellows 
+and professionals. Questions? Please contact cpsx@uwo.ca.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+SILICON VALLEY ASTRONOMY LECTURE SERIES PASSES ONE MILLION VIEWS ON 
+YOUTUBE
+
+The Silicon Valley Astronomy Lectures at Foothill College, in Los 
+Altos, California, just passed the milestone of one million views on 
+its YouTube channel at: 
+
+http://www.youtube.com/svastronomylectures
+
+The series of popular lectures, explaining the latest discoveries and 
+ideas in astronomy in everyday language, features noted astronomers 
+from around California and the country. Recent speakers have included 
+Carolyn Porco, imaging team leader for the Cassini mission to Saturn; 
+Robert Kirshner of Harvard and Alex Filippenko of Berkeley, both 
+members of the teams that discovered, to everyone's surprise, that 
+the expansion of the universe is accelerating; astronaut Ed Lu 
+speaking about discovering asteroids that threaten the Earth; and 
+NASA's Jeff Moore, from the New Horizons science team, explaining 
+what we have discovered about Pluto.
+
+The series will be starting its 17th year in October 2016. The 
+lectures are jointly sponsored by NASA's Ames Research Center, the 
+SETI Institute, the Astronomical Society of the Pacific, and the 
+Foothill College Astronomy Department. All four organizations work 
+together in selecting speakers, doing publicity, and donating the 
+labor and expense of running the lectures. 
+
+The lectures are also available as audio podcasts at: 
+
+http://www.astrosociety.org/education
+/past-silicon-valley-astronomy-lectures/
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JULY 2016
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the July 2016 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+August 29-September 4, 2016
+Planetary Science Short Course
+http://www.cpsx.uwo.ca/training/graduate_student/courses
+/planetary_science_short_course.html
+London, Canada
+
+September 12-14, 2016
+Biosignatures of Extant Life on Ocean Worlds Workshop
+http://ssed.gsfc.nasa.gov/BELOW/
+Greenbelt, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

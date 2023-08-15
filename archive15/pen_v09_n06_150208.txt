@@ -1,0 +1,611 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 6 (February 8, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: B. Ray Hawke (1946-2015)
+2. Postdoctoral Scientist: Planetary Climate Modeling
+3. [NASA] SMD Seeking Volunteer Reviewers
+4. [NASA] Physical Science Informatics Now Open
+5. Post-Doctoral Researcher Position at the NHM Vienna
+6. Call for Abstracts for the 11th IAA Low-Cost Planetary Missions 
+   Conference 
+7. Mars Exploration Science Monthly Newsletter: February 2015
+8. NASA Postdoctoral Fellowships
+9. [NASA] Release of Final Text of the NASA Science Mission Directorate 
+   Science Education Cooperative Agreement Notice NNH15ZDA004C
+10. Postdoc Opportunity at the University of Oslo
+11. MEPAG Goals Document Update - Feedback Requested
+12. Venus Town Hall Meeting and Early Career Scholars Mixer at LPSC
+13. New Postdoctoral Research Opportunity: Lunar and Asteroid Volcanic 
+    Studies Based on Terrestrial Fieldwork, Laboratory Analysis, and 
+    Numerical Modeling
+14. ABSCICON 2015: Habitable Worlds in Our Solar System
+15. MESSENGER MDIS Data Users' Workshop at LPSC
+16. LPSC Lodging Rates Approved by NASA
+17. New Horizons Community Slides
+18. Advanced Deadline for Student Travel to Comparative Tectonics 
+    and Geodynamics of Venus, Earth, and Exoplanets Conference at 
+    Caltech
+19. Postdoctoral Researcher: Mineralogy and Petrology of Planetary 
+    Materials
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: B. RAY HAWKE (1946-2015)
+
+From the Solar System Exploration Virtual Research Institute:
+
+It is with great sadness that we announce the death of 
+Dr. B. Ray Hawke. He died Saturday evening, January 24th, 
+at Straub Hospital.
+
+(Excerpted from P. Spudis) "The study of telescopic spectra, involving 
+very precise measurements of color at high resolution of very small 
+spots on the Moon, became B. Ray's specialty. These spectra would be 
+taken of many carefully selected geological targets, a great 
+improvement over the previous approach of targeting mostly by 
+geographic region. ...  His spectra were collected to address many 
+scientific problems, including basin rings, dark halo craters, lunar 
+"red spots" (spectrally anomalous regions), impact melt deposits and 
+the ejecta of large craters and basins. B. Ray brought to these studies 
+his extensive background in image analysis and interpretation. He had 
+made geological maps of portions of the Moon, which for the first time 
+could be interpreted in terms of mineral and chemical content. These 
+studies are critical to our understanding of the complex and protracted 
+geological evolution of the lunar crust."
+
+For more information, see:
+
+http://sservi.nasa.gov/articles/b-ray-hawke-lunar-geologist-1946-2015/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL SCIENTIST: PLANETARY CLIMATE MODELING
+
+Columbia University: 2-year Postdoctoral Research Scientist appointment 
+to model radiative processes and their effect on planetary climates in 
+a general circulation model.
+
+The successful candidate will join an interdisciplinary team from the 
+Goddard Institute for Space Studies (GISS), GSFC, Columbia University, 
+and other institutions. Team research addresses the habitability of 
+past Solar System climates and exoplanet climates and informs the 
+design of future exoplanet missions. The candidate will be expected to 
+perform original research, present results at scientific meetings, and 
+publish first-author peer-reviewed papers. The candidate will be 
+resident at NASA GISS in New York City.
+
+Requirements:  PhD. in atmospheric science, planetary science, 
+astrobiology, astronomy, physics, or a similar field. Expertise in 
+radiative transfer and willingness to become involved in radiation 
+parameterization development are required, but the broad scope allows 
+for many possible research directions using the model. Strong 
+mathematics and programming skills are also required. Strong candidates 
+will be interested in interdisciplinary questions and interacting with 
+scientists from diverse fields. For further information visit: 
+
+http://www.giss.nasa.gov/projects/astrobio/ 
+
+or contact Anthony DelGenio (anthony.d.delgenio@nasa.gov). 
+
+Columbia University is an Equal Opportunity/Affirmative Action 
+employer.  Applications will be accepted until the position is filled. 
+For application requirements and instructions visit:
+
+https://academicjobs.columbia.edu/applicants/Central?quickFind=60391
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SMD SEEKING VOLUNTEER REVIEWERS
+
+The Science Mission Directorate is seeking subject matter experts to 
+serve as mail-in and/or panel meeting reviewers of research proposals 
+in Earth and Space science.
+
+We have posted new volunteer reviewer forms for ROSES 2014 Habitable 
+Worlds, and Astrophysics Research and Analysis calls and the Earth and 
+Space Science graduate student fellowship programs.
+
+To volunteer just fill out the forms at: 
+
+http://science.nasa.gov/researchers/volunteer-review-panels
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PHYSICAL SCIENCE INFORMATICS NOW OPEN
+
+At NASA, we are excited to announce the roll-out of the Physical 
+Science Informatics (PSI) data repository for physical science 
+experiments performed on the International Space Station (ISS). The 
+PSI system is now accessible and open to the public. This will be a 
+resource for researchers to data mine the PSI system and expand upon 
+the valuable research performed on the ISS using it as a research tool 
+to further science, while also fulfilling the President's Open Data 
+Policy.
+
+To request access to PSI or to see progress status in a specific 
+scientific research area, please visit: 
+
+http://psi.nasa.gov 
+
+Should you have issues or questions, please contact the PSI support 
+team at msfc-dl-psi-support@mail.nasa.gov.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POST-DOCTORAL RESEARCHER POSITION AT THE NHM VIENNA
+
+As part of the EU programme Horizon 2020, a postdoctoral researcher 
+position is open at the Natural History Museum Vienna (2 years full 
+funding is granted) to create a roadmap for the implementation of a 
+European Extra-terrestrial Sample Curation Facility.
+
+The successful candidate will work with curator Ludovic Ferriere (NHM 
+Vienna) and several other European colleagues, with the objective to 
+define the state of the art facilities required to receive, contain 
+and curate extra-terrestrial samples and guarantee terrestrial 
+planetary protection.
+
+The highly-motivated candidate should have a PhD (or be expected to 
+graduate before assuming the position) in the fields of geological, 
+biological or planetary sciences. Good oral and written proficiency in 
+English is required.
+
+See here for more information: 
+
+http://www.nhm-wien.ac.at/en/information/jobs
+
+Please send a CV and a short candidate statement (no more than 300 
+words) on what makes you the best candidate for this position. The 
+gross salary will be of EUR 3.546 per month, plus ample funds for 
+travel expenses.
+
+Applications should be submitted no later than on March 13, 2015 via 
+e-mail to Ludovic Ferrière (ludovic.ferriere@nhm-wien.ac.at). Expected 
+starting date is in June 2015.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CALL FOR ABSTRACTS FOR THE 11TH IAA LOW-COST PLANETARY MISSIONS 
+CONFERENCE
+
+LCPM-11 
+June 9-11, 2015 
+Berlin, Germany
+
+The organizers of LCPM-11 call your attention to a key date: Abstract 
+submittal deadline is March 2, 2015. Please see the URL below for 
+details:
+
+http://www.dlr.de/pf/desktopdefault.aspx/tabid-9912/
+
+Also, please note that NASA employees and contractors must enter their 
+forecast into the NASA Conference Tracking System as soon as possible.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: FEBRUARY 2015
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the February 2015 
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18360
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: http://bit.ly/1tI5M9x
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] RELEASE OF FINAL TEXT OF THE NASA SCIENCE MISSION DIRECTORATE
+SCIENCE EDUCATION COOPERATIVE AGREEMENT NOTICE NNH15ZDA004C
+
+Go to: http://nspires.nasaprs.com/
+
+The goal of NASA SMD Science Education is to enable NASA scientists and 
+engineers into the learning environment more efficiently and 
+effectively for learners of all ages. This CAN is to meet the 
+following NASA SMD Science Education Objectives: Enabling STEM 
+education, improving U.S. science literacy; advancing National 
+education goals; and leveraging science education through partnerships.  
+NASA intends to select one or more focused, science discipline-based 
+team(s). While it is envisioned that multiple agreements may be 
+awarded, selection of a single award to support all of SMD science 
+education requirements is not precluded. Awards are anticipated by 
+September 30, 2015.
+
+Programmatic questions should be submitted to:
+
+Kristen Erickson 
+CANsci-ed@hq.nasa.gov
+
+Anticipated NASA SMD Science Education CAN schedule:
+
+CAN Release Date: February 4, 2015
+Preproposal Conference: February 17, 2015 (1:00 PM ET)
+Notice of Intent to Propose Deadline: March 4, 2015
+Electronic Proposal Submittal Deadline: May 4, 2015 (11:59 PM ET)
+Selections Announced (target): Summer 2015
+Projects Begin (target): October 1, 2015
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOC OPPORTUNITY AT THE UNIVERSITY OF OSLO
+
+The position and main tasks of the successful candidate are part of the 
+"Crater Clock: Calibration of the Cratering Chronometer for the 
+Earliest Planetary Evolution" project funded by the Research Council of 
+Norway and headed by Associate Professor Stephanie Werner. The 
+project is laid out to improve and calibrate the cratering rates for 
+the Moon and other terrestrial planetary bodies. The successful 
+candidate shall have one or more of the following skills with no 
+preferential order:
+
+* Morphological analysis, photo-geological mapping and evaluation of the 
+crater record accordingly with special focus on the reflectance 
+spectral interpretation of the Moon, small bodies and possibly Mars.
+
+* Modelling of the dynamical evolution of different small body 
+populations with application for the cratering rate on terrestrial 
+bodies (including the outer Solar System).
+
+The position, which will be associated to the Earth and Beyond team at 
+CEED, is for a fixed period of 2.5 years, starting August 1st, 2015 (or 
+some other date to be agreed upon). Applicants must hold a PhD in 
+geosciences, planetary sciences, astrophysics, or physics, with 
+relevant scientific background for the Crater Clock project, on the 
+agreed starting date.
+
+More details:
+
+http://uio.easycruit.com/vacancy/1334103/97031?iso=no
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG GOALS DOCUMENT UPDATE - FEEDBACK REQUESTED
+
+As you may be aware, forward planning for the Mars Exploration Program 
+is guided in large part by the MEPAG Goals Document, a living document 
+which prioritizes scientific investigations within major areas of 
+scientific knowledge (Life, Climate, Geology, and Preparation for 
+Human Exploration). 
+
+The MEPAG Goals Committee has updated the Goals Document to reflect 
+the current state of knowledge. 
+
+Although there are some portions of the document that are still 
+undergoing active revision, the committee is soliciting your feedback 
+on the current draft (2015 Review Version): 
+
+http://mepag.nasa.gov/reports.cfm?expand=science
+
+in advance of the discussion that will take place at the MEPAG 
+face-to-face meeting in Pasadena later this month. Two files are posted 
+- the main document (MEPAG%20Goals_Document_2015_v5.pdf) and a 
+supplementary high-level summary (CombinedGoals_Feb4.pdf).
+
+Please send your feedback to mepagmeetingqs@jpl.nasa.gov by 
+20 February 2015. 
+
+Vicky Hamilton
+Chair, MEPAG Goals Committee
+hamilton@boulder.swri.edu
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+VENUS TOWN HALL MEETING AND EARLY CAREER SCHOLARS MIXER AT LPSC
+
+Venus Exploration Analysis Group (VEXAG) invites you to participate in 
+a lunch-time Venus Town Hall Meeting and an evening Early Career 
+Scholars Mixer at LPSC on Thursday, March 19, 2015. 
+
+The objective of the Venus Town Hall meeting in Waterway 1-3 is to 
+encourage a community discussion and receive feedback on the current 
+VEXAG activities.
+
+Join the VEXAG Early Career Scholars Focus Group for an informal meet 
+and greet at the Acqua Lounge before the Venus poster Session on 
+Thursday night. Please check the VEXAG - Early Career Scholars Facebook 
+page for more information: 
+
+https://www.facebook.com/groups/432478660134856/ 
+
+This will be dutch treat as drinks are not included.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NEW POSTDOCTORAL RESEARCH OPPORTUNITY: LUNAR AND ASTEROID VOLCANIC 
+STUDIES BASED ON TERRESTRIAL FIELDWORK, LABORATORY ANALYSIS, AND 
+NUMERICAL MODELING
+
+This NPP (NASA Postdoctoral Program) position provides an opportunity 
+to work with the FINESSE (Field Investigations to Enable Solar System 
+Science and Exploration) team based at NASA Ames Research Center as a
+part of NASA's SSERVI (Solar System Exploration Research Virtual 
+Institute). The FINESSE team focuses on a science and exploration 
+field-based research program aimed at generating strategic knowledge in 
+preparation for the human and robotic exploration of the Moon, 
+near-Earth asteroids (NEAs) and Phobos & Deimos. We infuse our science 
+program with leading edge exploration concepts since "science enables 
+exploration and exploration enables science."
+
+This NPP position will focus on terrestrial volcanic field studies, 
+laboratory analysis of samples, and numerical modeling as analogs for 
+lunar and asteroid volcanic systems. The candidate will study the 
+processes, geomorphic features and rock types related to fissure 
+eruptions, volcanic constructs, lava tubes, flows and pyroclastic 
+deposits.
+
+The full NPP ad can be viewed here:  
+
+https://www3.orau.gov/npdoc/catalog/18895
+
+For more information on FINESSE, please visit: 
+
+http://spacescience.arc.nasa.gov/finesse/ 
+
+or contact FINESSE PI Jennifer Heldmann (Jennifer.Heldmann@nasa.gov).
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ABSCICON 2015: HABITABLE WORLDS IN OUR SOLAR SYSTEM
+
+Session: The Habitability of Icy Worlds
+
+This session will be a follow-on to the workshop by the same name, 
+held in Pasadena in February 2014. The primary objective is similar 
+and will focus on the astrobiological potential of icy worlds in the 
+outer solar system - including Europa, Ganymede, Enceladus, Titan, and 
+beyond - with discussion on future research directions and spacecraft 
+missions that can best assess that potential given the unique planetary 
+environments of the outer solar system. Comparative planetology 
+presentations are encouraged as well as research involving terrestrial 
+analogs. Topics covered include (but are not necessarily limited to) 
+water and exotic solvents, chemical energy for life, organics and their 
+detection, ocean physics and chemistry, icy world activity and 
+habitability over time, and continuing and future outer solar system 
+exploration.
+
+The AbSciCon abstract deadline is March 4. Additional details and a 
+list of other session topics, are available at the AbSciCon website:
+
+http://www.hou.usra.edu/meetings/abscicon2015/
+
+Pat Beauchamp, Patricia.M.Beauchamp@jpl.nasa.gov
+Dave Senske, david.senske@jpl.nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MESSENGER MDIS DATA USERS' WORKSHOP AT LPSC
+
+There will be a MESSENGER MDIS Data Users' Workshop held in association 
+with LPSC on Sunday, March 15, 2015 at 1:30 pm. The workshop will 
+feature hands on examples of using MDIS data, and no previous 
+experience with MDIS data is required. The overall goal of the workshop 
+is to increase the awareness and accessibility of MDIS datasets to the 
+scientific community, to support ongoing scientific projects, and to 
+enable future research proposals. For more information, visit the 
+workshop's website:
+
+http://messenger.jhuapl.edu/workshop2015/index.html
+
+Registration is free but encouraged, to help with planning and to 
+enable sharing of workshop announcements prior to the event.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+LPSC LODGING RATES APPROVED BY NASA
+
+LPSC participants staying in The Woodlands area, who are not staying at 
+the conference hotel, are authorized to spend up to $250/night, 
+excluding taxes, on their hotel. The federal per diem rate for this 
+area is $132/night excluding taxes, hence the authorization 
+requirement. Go to:
+
+http://science.nasa.gov/researchers/sara/letters-from-sara/2015/2/2
+/approval-exceed-gsa-lodging-lpsc-2015/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+NEW HORIZONS COMMUNITY SLIDES
+
+The New Horizons team has produced a set of "community" slides that 
+anyone can download as a set and choose from to talk about various 
+aspects of the mission this year.  
+
+Go To:
+
+https://dl.dropboxusercontent.com/u/27097671/NewHorizons_final.pptx
+
+https://dl.dropboxusercontent.com/u/27097671/NewHorizons_final.pdf
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+ADVANCED DEADLINE FOR STUDENT TRAVEL TO COMPARATIVE TECTONICS AND
+GEODYNAMICS OF VENUS, EARTH, AND EXOPLANETS CONFERENCE AT CALTECH
+
+To meet NASA/JPL requirements for forecasting Conference Travel, the 
+applications for Undergraduate And Graduate Student Travel Awards for 
+the Comparative Tectonics and Geodynamics of Venus, Earth, and 
+Exoplanets Conference, May 4-6 at CalTech will be a 2-Step process:
+
+Step (1) - Provide a notice of intent no later than 5:00 Pacific on 
+Thursday, February 12, 2015 in an email to twthompson@jpl.nasa.gov 
+containing
+
+- Legal Full Name
+- Date of Birth and City/State of Birth
+- Preferred Email Address + Phone Numbers (Preferred + Alternate, if 
+  available)
+- Home Address
+- Emergency Contact - Name, Relationship, and Phone Number
+- Your Affiliation (Employer/School/Org.), with Full Address and Phone
+- Gender
+- If you are a foreign national or permanent resident alien, also 
+  provide:
+  o Country of Citizenship
+  o Birth Date + Birth City, State/Region and Country
+  o Passport Number, with Expiration Date
+  o Visa Type, with Effective and Expiration Dates
+  o Alien Registration # (if applicable)
+
+Step (2) Verify your request for by continuing with the instructions in 
+the 2nd announcement for Comparative Tectonics and Geodynamics of 
+Venus, Earth, and Exoplanets Conference: 
+
+http://www.hou.usra.edu/meetings/geodyn2015/geodyn20152nd.shtml
+
+For questions contact: 
+
+Thomas W. (Tommy) Thompson
+818-354-3881
+twthompson@jpl.nasa.gov
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+POSTDOCTORAL RESEARCHER: MINERALOGY AND PETROLOGY OF PLANETARY 
+MATERIALS
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute, invites applications for a postdoctoral fellowship in the 
+mineralogy and petrology of planetary materials.
+
+The successful candidate will work with Dr. Allan Treiman in 
+NASA-funded efforts, emphasizing planetary crusts and magmas, and their 
+volatile constituents and on the CheMin science team of the Mars 
+Science Laboratory mission. The candidate will participate in analysis 
+and interpretation of CheMin X-ray diffraction data of Mars surface 
+materials; and may also participate in operations planning for the 
+CheMin instrument. 
+
+Applicants should have a recent Ph.D. in petrology or geochemistry; 
+experience with planetary materials is helpful, but not required. The 
+position would be for two years, with possible extension to a third year. 
+The candidate must be a U.S. Citizen or Legal Permanent Resident, and be 
+able to pass a detailed government background investigation. Applicants 
+should send a letter of interest, a curriculum vita with a list of 
+publications, a brief (maximum three pages) statement of research 
+interests, and a list of three references to the posting at: 
+
+https://usracareers.silkroad.com/
+
+USRA is an Equal Opportunity Employer Minorities/Females/Protected 
+Veterans/Disabled
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 24-27, 2015
+The 24th Annual Meeting on Characterization and Radiometric Calibration 
+for Remote Sensing
+http://www.calcon.sdl.usu.edu
+Logan, UT
+
+January 27-29, 2016
+14th Meeting of the NASA Small Bodies Assessment Group (SBAG) 
+http://www.lpi.usra.edu/sbag/
+Orlando, Florida
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

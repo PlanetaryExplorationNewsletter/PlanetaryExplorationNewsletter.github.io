@@ -1,0 +1,591 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 12 (March 19, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editor Susan Benecchi Departing PEN
+2. LPSC: NextGen Panel on Career Paths in Planetary Science
+3. LPSC: Ice Giant Town Hall
+4. LPSC: MAPSIT Town Hall Meeting
+5. LPSC: Planetary Aeolian Laboratory User's Workshop
+6. NOI Request for Venus Small Mission Studies
+7. 1st Announcement of SELENE Symposium 2017 
+8. NASA's Exploration Science Forum
+9. SSERVI Award Nominations
+10. 8th Planetary Crater Consortium Meeting Announcement
+11. Mars Exploration Science Monthly Newsletter for March 2017
+12. Call for Papers on Occator Crater on Ceres
+13. Findings from OPAG Posted
+14. NSPIRES Users Encouraged to Complete Demographic Information
+15. Mars Science Laboratory Release 14
+16. Final Reminder: IAVCEI session I.1 Planetary Volcanology
+17. 2017 Annual Meeting of the American Astronomical Society's 
+    Division of Dynamical Astronomy
+18. Venera-D Venus Modelling Workshop
+19. Barringer Grant Applications for 2017 Now Being Accepted
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITOR SUSAN BENECCHI DEPARTING PEN
+
+PSI Senior Scientist Susan Benecchi has been volunteering her time as 
+a Planetary Exploration Newsletter editor since May 2, 2010. That 
+is pushing seven years of weekends during which she has diligently 
+edited and co-edited 393 issues of PEN, helping and communicating with 
+submitters, making a lot of judgment calls, and always working to 
+improve our product. She has decided it is now time to roll off and 
+focus on other activities. It has been a real pleasure working with 
+her! We would also like to welcome PSI Associate Research Scientist 
+Elisabeth Adams to our editorial team.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LPSC: NEXTGEN PANEL ON CAREER PATHS IN PLANETARY SCIENCE
+
+Date: Monday, March 20 
+Time: 12:00-13:00
+Room: Waterway 1-3
+
+The Next Generation Lunar Scientists and Engineers (NextGen) group will 
+be holding a panel discussion on planetary science career paths. We 
+will have panelists from NASA, Moon Express, the Planetary Science 
+Institute, engineering companies, and universities present. Topics of 
+discussion will include selecting a career path, how funding works for 
+each career path, mission involvement, etc. Significant time will be 
+allotted for an open Q&A discussion. Everyone is welcome!
+
+http://nextgenlunar.weebly.com/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LPSC: ICE GIANT TOWN HALL
+
+Date: Monday, March 20
+Time: 12:15-13:15
+Room: Montgomery A-C
+
+The recent NASA Ice Giant Mission Study has now been completed. Members 
+of the Science Definition Team will brief the community on the results 
+of the study including the breadth and priority of the science, the 
+studied mission architectures, and the recommendations of the science 
+definition team.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LPSC: MAPSIT TOWN HALL MEETING
+
+Date: Tuesday, March 21
+Time: 12:00-13:00
+Room: Montgomery A-C
+
+We encourage you to attend the Mapping and Planetary Spatial 
+Infrastructure Team (MAPSIT) community meeting. We will be rolling out 
+the outline for our Strategic Roadmap in light of what planetary 
+spatial data infrastructure is and means for you (more than you might 
+think!).
+
+More information about the MAPSIT Advisory Group and its role is 
+available here:
+
+http://www.lpi.usra.edu/mapsit/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LPSC: PLANETARY AEOLIAN LABORATORY USER'S WORKSHOP
+
+Date: Tuesday, March 21
+Time: 17:30-18:30
+Room: Panther Creek
+
+The NASA Ames Research Center's Planetary Aeolian Laboratory (PAL) 
+provides unique capabilities for recreating planetary aeolian 
+processes. This users' workshop will provide an opportunity for the 
+community to learn more about the PAL facilities, on-going 
+improvements, and future plans, to develop ideas for experiments, 
+and to ask questions of current users about facility capabilities and 
+potential usage. [The poster by Sutton et al. #2653 Tuesday Evening, 
+Titan poster session, also provides information on recent upgrades, 
+specifically to the PAL Titan Wind Tunnel.]
+
+On behalf of PAL users and administrators,
+ 
+Devon M. Burr
+865-974-6010
+dburr1@utk.edu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NOI REQUEST FOR VENUS SMALL MISSION STUDIES
+
+The Venus Exploration Analysis Group (VEXAG) requests your Notice of 
+Interest to support "VenusBridge," a concept for one or more small 
+missions with launch dates in the early-to-mid 2020s. The intent 
+is to determine if there are lower cost options for the continuity of 
+US Venus exploration between Magellan and any potential future 
+Discovery, New Frontiers, or strategic mission. Within a nominal
+cost cap of $200M, VenusBridge might accommodate a single mission or 
+multiple smallsats or cubesats, including orbiters, probes, or 
+landers. VEXAG is seeking innovative ideas on mission architectures 
+(including launch), technology, and science investigations, including 
+possible subsystems (e.g. bus, telecom) and novel techniques for 
+answering key Venus science questions in this low cost range. See:
+
+http://www.lpi.usra.edu/vexag/reports/GOI-140625.pdf 
+
+The VenusBridge concept will be previewed at the LPSC 
+Venus Town Hall Meeting. A VEXAG VenusBridge Focus Group will 
+subsequently be formed. If you have a great idea for low-cost Venus 
+exploration, please send a summary up to one page in length,
+including your contact information, to VEXAG Chair Bob Grimm,
+grimm@boulder.swri.edu. Also please indicate if you are interested 
+in serving on the Focus Group.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+1ST ANNOUNCEMENT OF SELENE SYMPOSIUM 2017
+
+We are pleased to announce the SELENE Symposium 2017, coinciding with 
+the 10th anniversary of its launch, held in Japan. The symposium will 
+take place at the University of Waseda (Nishi-Waseda Campus), Tokyo,
+Japan, on Wed. 13th September and Thu. 14th September, 2017. The 
+Japanese lunar orbiter SELENE (Kaguya) was launched 10 years ago on the 
+14th of September, 2007.
+
+We will appreciate your presentation of recent scientific results and 
+future exploration plans in this symposium.
+
+Japan has confirmed the launches of two small lunar landers by 2020, 
+the Tokyo Olympic year:
+
+1) SLIM by Epsilon Launch Vehicle
+2) Omotenashi by SLS
+
+A detailed description of these small landers will be presented and 
+discussed in the symposium, as well as a wide range of lunar science 
+topics. The long-term vision of Japan's larger-class lunar exploration 
+projects will also be presented and discussed.
+
+LOC Chair: Takahiro IWATA
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
++81-50-336-23618 FAX +81-42-759-8516
+iwata.takahiro@jaxa.jp
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA'S EXPLORATION SCIENCE FORUM
+
+The Solar System Exploration Research Institute (SSERVI) is pleased to 
+announce the 4th annual NASA Exploration Science Forum (ESF), to be 
+held in person July 18-20, 2017 at NASA Ames Research Center, Moffett 
+Field, CA. This year's Forum will feature scientific discussions of 
+human exploration targets of interest (the Moon, near-Earth asteroids, 
+and the moons of Mars). Science sessions will focus on recent mission 
+results and in-depth analyses of science and exploration studies. 
+Dedicated side-conferences for graduate students and young 
+professionals will coincide with the ESF. Public engagement 
+discussions will be interwoven among science topics as well.   
+
+Abstracts will be accepted through 11:59 p.m. PDT April 12, 2017 at:  
+
+https://nesf2017.arc.nasa.gov/
+
+Foreign national participants MUST register at the above url by 
+June 1, 2017. US citizens may register until July 7, 2017. 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SSERVI AWARD NOMINATIONS
+
+NASA's Solar System Exploration Research Virtual Institute (SSERVI) is 
+soliciting nominations for the following SSERVI Awards: Shoemaker 
+Award (lifetime career achievement award in lunar and planetary 
+sciences), the Wargo Award (scientist or engineer who has focused on 
+integrating science and exploration throughout their career) and the 
+Niebur Award (early career award for significant contributions to 
+exploration science). Nominees from previous years will automatically 
+be carried forward to the upcoming year. Further descriptions of each 
+award and the nomination form may be found at:
+
+http://lunarscience.arc.nasa.gov/awards/
+
+Thank you in advance for your nominations and recognition of those who 
+have contributed so substantially to our field! We do accept 
+nominations year-round, but to be considered for the 2017 awards, 
+please provide your nominations by March 31, 2017.  
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+8TH PLANETARY CRATER CONSORTIUM MEETING ANNOUNCEMENT
+
+The 8th Planetary Crater Consortium meeting will be held August 9-11, 
+2017, at the US Geological Survey in Flagstaff, AZ. The Planetary 
+Crater Consortium is open to all planetary scientists interested in any 
+aspect of impact cratering on solar system bodies, including 
+observational, theoretical, experimental, and numerical studies. 
+Contributions on terrestrial impact crater field studies are 
+encouraged, as well as  presentations about cratering on other solar 
+system bodies. The meeting is a combination of contributed talks, 
+posters, and open discussion. An optional field trip around the rim of 
+Meteor Crater will be arranged for Saturday, August 12, if there is 
+sufficient interest. 
+
+Abstract deadline is Tuesday, August 1, 2017. For more information, 
+see: 
+
+http://www.planetarycraterconsortium.nau.edu/ 
+
+or contact Nadine Barlow (Nadine.Barlow@nau.edu).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MARCH 2017
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+James Ashley of the Mars Program Science Office, the March 2017 edition 
+of the Mars Exploration Science Monthly Newsletter can be found on the 
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Additionally, we have updated the posted materials from MEPAG Meeting 
+33. Nearly all presentations are now available (and we expect to finish 
+in the near future) and we have also posted a Meeting Summary document.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+CALL FOR PAPERS ON OCCATOR CRATER ON CERES
+
+The Dawn mission has collected a wealth of data about the dwarf planet 
+Ceres with its Framing Camera, Visible and Infrared Mapping 
+Spectrometer, Gamma Ray and Neutron Detector and gravity science 
+investigation. Occator crater is one of the most intriguing locations 
+on Ceres as observed by Dawn, and it contains distinctive bright 
+regions called the Cerealia Facula and Vinalia Faculae. Our 
+understanding of the formation and evolution of Occator crater, in 
+particular the Cerealia and Vinalia Faculae, is currently under 
+investigation. We hereby call for submissions of papers to a special 
+issue on the "The Formation and Evolution of Ceres' Occator Crater". 
+These papers will focus on interpretations and explanations of the 
+processes that formed Occator crater, and may also discuss the 
+resulting implications for our understanding of Ceres' formation and 
+evolution. We envisage that the majority of submissions will base 
+their investigations on Dawn data. However, submissions relevant to 
+Occator crater that are based on a wide range of datasets and 
+techniques are welcome. For further details see: 
+
+https://www.journals.elsevier.com/icarus/call-for-papers
+/call-for-papers-on-occator-crater-on-ceres
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+FINDINGS FROM OPAG POSTED
+
+Findings from the Outer Planets Assessment Group steering committee 
+following the winter 2017 meeting in Atlanta have been posted at:
+
+http://www.lpi.usra.edu/opag
+
+There are finding about: 
+
+1. Europa Lander
+2. Europa Clipper
+3. New Frontiers
+4. Ice Giant mission study
+5. Juno mission
+6. Workforce inclusivity and diversity
+7. Roadmaps to Ocean Worlds (ROW)
+8. R&A wording regarding mission and DAP funding conflicts
+9. Participating Scientist study
+10. Mid-Decadal review
+11. Decadal Survey satatement of tasks
+12. Legacy of Cassini and CDAP
+13. Outer Planets technology
+14. Planetary Advisory Committee membership
+
+The next OPAG meeting will be September 6-7, 2017, in La Jolla, CA, 
+hosted by Scripps Institute of Oceanography. There will also be 
+several town halls of interest at LPSC, about Europa Lander, Ice 
+Giants, and ROW. See: 
+
+http://www.hou.usra.edu/meetings/lpsc2017/events/highlighted
+
+OPAG now has a Deputy Chair: Dr. Linda Spilker (JPL).  Welcome Linda!
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NSPIRES USERS ENCOURAGED TO COMPLETE DEMOGRAPHIC INFORMATION
+
+The objective of the demographics survey in NSPIRES is to better 
+understand all of the scientific communities that NASA funds, 
+including planetary science, and to understand any underlying 
+diversity issues that may be occurring. Using this information the NASA 
+Office of Chief Scientist can work to identify recommendations of 
+inclusive practices to help improve the diversity of our professional 
+communities and reduce or mitigate issues of implicit bias. 
+
+Providing the data allows for the Office of the Chief Scientist to 
+capture a true snapshot of our professional community. Providing this 
+information is completely voluntary, and the data you provide are 
+confidential. Only the Office of the Chief Scientist has access to the 
+information, and your demographic data are not seen during the review 
+process or by Program Officers when they make their selections.
+
+Go to:
+
+https://nspires.nasaprs.com/external/index.do 
+
+and click on the "Account Management" link. Then click on the 
+"Personal Profile" link, complete the demographics data section on the 
+Personal Profile page, and hit the Save button at the bottom of the 
+page. This form takes just a minute or two to complete, but it will 
+greatly help NASA understand the diversity of our community!
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MARS SCIENCE LABORATORY RELEASE 14
+
+The NASA Planetary Data System announces the fourteenth release of
+MSL data acquired from Sols 1418-1514 (August 1 to November 9, 2016).
+
+This release consists of raw and derived data sets from instruments:
+
+Alpha Particle X-ray Spectrometer (APXS)
+Chemistry & Micro-Imaging (ChemCam)
+Chemistry and Mineralogy (CheMin)
+Dynamic Albedo of Neutrons (DAN)
+Hazard Avoidance Cameras (Hazcam)
+Mars Hand Lens Imager (MAHLI)
+Mars Descent Imager (MARDI)
+Mast-mounted Cameras (Mastcam)
+Navigation Cameras (Navcam)
+Position Localization and Attitude Correction Estimate Storage (PLACES)
+Radiation Assessment Detector (RAD)
+Rover Environmental Monitoring Station (REMS)
+Sample Analysis at Mars (SAM)
+Spacecraft, Planet, Instrument, Pointing C-Matrix, and Event Kernels 
+(SPICE)
+
+To access the above data:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170316.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node:
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from: 
+
+https://pds.nasa.gov/
+
+PDS offers two services for searching the MSL archives:
+
+(1) The Planetary Image Atlas at the Imaging Node allows selection of 
+MSL image data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+(2) The MSL Analyst's Notebook at the Geosciences Node allows 
+searching and downloading of all MSL data in the context of mission 
+events:
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+FINAL REMINDER: IAVCEI SESSION I.1 PLANETARY VOLCANOLOGY
+
+The abstract submission deadline for the IAVCEI 2017 Scientific 
+Assembly in Portland, OR on August 14-18, 2017 has been extended to 
+March 22, 2017.
+
+We therefore invite you once more to submit an abstract to our session 
+on Planetary Volcanology.
+
+Volcanic activity is a hallmark of almost every large solid-surface 
+body in the Solar System. In this session, we solicit contributions 
+exploring the myriad styles of volcanic landforms and processes on 
+Solar System bodies (planets, moons, or asteroids) using field 
+observations, remotely sensed data, laboratory or numerical 
+simulations, or some combination thereof. We especially welcome 
+submissions of comparative analyses between volcanism on Earth and on 
+other worlds, or between other planetary bodies.
+
+You can submit your abstract here: 
+
+http://iavcei2017.org/abstract.html
+
+Planets are cool and so are volcanoes so see if you can join us!
+
+Conveners:
+Paul K. Byrne (North Carolina State University)
+DelWayne R. Bohnenstiehl (North Carolina State University)
+Patrick J. McGovern (Lunar and Planetary Institute)
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+2017 ANNUAL MEETING OF THE AMERICAN ASTRONOMICAL SOCIETY'S DIVISION OF
+DYNAMICAL ASTRONOMY
+
+The AAS Division of Dynamical Astronomy is pleased to announce that its 
+annual meeting will take place at Queen Mary University of London on 
+June 11-15, 2017
+
+The annual AAS-DDA meeting brings together researchers in astronomy, 
+astrophysics, planetary science, and astrodynamics for discussions and 
+talks on all aspects of dynamics in the space sciences. The DDA meeting 
+features invited talks on a range of topics, contributed talks (with no 
+parallel sessions), and posters that can be displayed throughout the 
+entire conference.
+
+The 2017 meeting also features three special sessions:
+
+* Impact of Gaia Astrometry on Dynamical Astronomy 
+  (Chair:  Norbert Zacharias, US Naval Observatory)
+* Post-Main Sequence Planetary System Science 
+  (Chair: Dimitri Veras, University of Warwick)
+* Cassini Ring-Grazing Orbits and Grand Finale 
+  (Chair: Matthew Tiscareno SETI)
+
+In addition, Prof. Rosemary F. G. Wyse (FRAS) will be honoured at the 
+2017 meeting with the AAS-DDA Brouwer Award. The 2017 DDA meeting is 
+being co-sponsored by the Royal Astronomical Society.
+
+Abstract deadline: April 10, 2017
+
+For additional information see the meeting website:
+
+https://dda.aas.org/meetings/2017
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+VENERA-D VENUS MODELLING WORKSHOP
+
+October 5-7, 2017 
+(the week before the 7th Moscow Solar System Symposium)
+
+Location: IKI, Moscow, Russia
+
+Workshop Objectives: To understand the limitations and needs of current 
+models (e.g. General Circulation Models or GCMs, interior structure 
+models and plasma environment), landing site selection, and the types 
+of measurements needed to more adequately constrain parameters in the
+models and experiments. This would in turn form a basis to better 
+identify the types of instruments needed to achieve the important 
+science of Venera-D.
+
+More information will be forthcoming. Point of contact for the workshop 
+is Dima Gorinov (gorinov-dmitry@yandex.ru ).
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+BARRINGER GRANT APPLICATIONS FOR 2017 NOW BEING ACCEPTED
+
+This year's application deadline for grants from the Barringer Family 
+Fund for Meteorite Impact Research is April 7, 2017. This program 
+provides 3 to 5 competitive grants each year in the range of $2,500 to 
+$5,000 USD for support of field research at known or suspected impact 
+sites worldwide. Grant funds may be used to assist with travel and 
+subsistence costs, as well as laboratory and computer analysis of 
+research samples and findings. Masters, doctoral, and post-doctoral 
+students enrolled in formal university programs are eligible.  
+
+For additional details and an application, please go to:
+
+http://www.lpi.usra.edu/science/kring/Awards/Barringer_Fund/
+ 
+The Barringer Family Fund for Meteorite Impact Research has been 
+established as a memorial to recognize the contributions of Brandon, 
+Moreau, Paul, and Richard Barringer to the field of meteoritics and 
+the Barringer family's strong interest and support over many years 
+in research and student education. In addition to its memorial 
+nature, the Fund also reflects the family's long-standing commitment 
+to responsible stewardship of The Barringer Meteorite Crater and
+the family's steadfast resolve in maintaining the crater as a unique 
+scientific research and education site.
+
+David A. Kring, Ph.D.
+
+[Edited for length]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 10-14, 2017
+Ultraviolet Sky Surveys
+http://www.astro.tau.ac.il/events/uss/
+Tel Aviv, Israel
+
+July 23-28, 2017
+Meteoritical Society Annual Meeting
+http://metsoc2017-santafe.com
+Santa Fe, NM
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,389 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 3 (January 18, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Student Summer Internships at APL
+2. Call for White Papers: Hubble Space Telescope Scientific Legacy
+   Initiatives
+3. [NASA] OPAG Meeting
+4. Jovian Magnetic Field and Magnetosphere Postdoctoral Researcher
+5. Invitation to Present at Japanese Geoscience Union (JpGU)
+6. NASA Postdoctoral Fellowships
+7. [NASA] Minority University Research Education Project (MUREP) 
+   Scholarship Program
+8. Geomagnetics Postdoctoral Researcher
+9. [NASA] PDS - Cassini Data Release 40
+10. [NASA] Discovery 2014 AO Amendment 1
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+STUDENT SUMMER INTERNSHIPS AT APL
+
+The Johns Hopkins University Applied Physics Laboratory (APL) is 
+offering summer projects for students interested in working on NASA 
+missions or space-related research opportunities at APL. Details are 
+available at:
+
+http://aplnasaintern.jhuapl.edu
+
+The application deadline is February 28, 2015.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALL FOR WHITE PAPERS: HUBBLE SPACE TELESCOPE SCIENTIFIC LEGACY 
+INITIATIVES
+
+The Space Telescope Science Institute (STScI) has issued a call to the 
+community for white papers describing initiatives that will 
+significantly enhance Hubble's scientific legacy from the next 5 years 
+of observations. Given the proximity of the original white paper 
+deadline to the NASA Discovery Program deadline, STScI has revised the 
+due date for white papers to March 4, 2015. Planetary science has been 
+an important component of the Hubble program for 25 years, and we 
+expect this will continue to be the case in Hubble's remaining years. 
+We welcome the planetary community's thoughts on Hubble's future use.  
+The call can be found at: 
+
+http://www.stsci.edu/hst/
+
+Ken Sembach 
+HST Mission Head 
+STScI
+
+Jennifer Wiseman 
+HST Senior Project Scientist 
+NASA Goddard Space Flight Center
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] OPAG MEETING
+
+The next OPAG meeting will be February 19-20 at NASA Ames Research 
+Center. Please go to the registration site posted at: 
+
+http://www.lpi.usra.edu/opag/ 
+
+and register for the meeting. Foreign nationals will need to do some 
+extra paperwork, described at the registration site. The deadline for 
+foreign nationals to register is January 23.
+
+One day prior to the OPAG meeting a "Workshop on the Potential for 
+Finding Life in a Europa Plume" will take place at NASA Ames Research 
+Center. Please go to this website for more details:  
+
+https://astrobiology.nasa.gov/calendar/europa-plume-workshop/
+
+If you are a Discovery PI for an outer planet mission and would like 
+to present a short overview of your mission concept at either this 
+upcoming OPAG meeting in February or the subsequent OPAG meeting we 
+would be happy to include you on the agenda. This is entirely 
+voluntary. Please contact Candy Hansen at cjhansen@psi.edu if you are 
+interested.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOVIAN MAGNETIC FIELD AND MAGNETOSPHERE POSTDOCTORAL RESEARCHER
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) in the area 
+of Jupiter's magnetic field and magnetosphere, using data from the Juno 
+(New Frontier) mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/index.html#Juno
+
+Candidates for this position should have a Ph.D. in a relevant 
+scientific discipline with prior experience conducting scientific 
+research. Experience with magnetometer instrumentation and data, 
+disciplined programming skills (primarily Fortran and IDL), and 
+scientific writing experience are desired.
+
+The University of Maryland is an Affirmative Action, Equal Opportunity
+Employer. Women and minorities are encouraged to apply. Applications 
+will be accepted on an ongoing basis until the position is filled.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INVITATION TO PRESENT AT JAPANESE GEOSCIENCE UNION (JPGU)
+
+May 24-28, 2015.
+Chiba (near Tokyo), Japan 
+
+Session: "Outer Solar System Exploration Today, and Tomorrow "
+
+The giant planets provide many keys to understanding planetary 
+processes. They play an important role in shaping our solar system, and 
+the physical and chemical processes they harbor also provide a unique 
+opportunity to study the phenomena relevant for studying Earth and 
+other planets, including exoplanetary systems. In this session, we 
+discuss a wide range of topics encompassing the giant planets and their 
+moons, including their origins, interiors, atmospheres, compositions, 
+surface features, and electromagnetic fields. To advocate for current 
+and future outer planets exploration (Cassini, Juno, New Horizons, 
+JUICE, and beyond), we also call for discussions on future missions to 
+explore giant planet systems, including how to develop better 
+international cooperation. Discussion will include progress in 
+developing a solar sail mission concept for observing the Jupiter 
+system and its trojan asteroids.
+
+For details on the JpGU Meeting and abstract submission, please visit:
+
+http://www.jpgu.org/meeting_e/
+
+Conveners:
+Jun Kimura, ELSI/Tokyo Tech
+Masaki Fujimoto, ISAS/JAXA
+Yasumasa Kasaba, Tohoku Univ.
+Sho Sasaki, Osaka Univ.
+Takayuki Tanigawa,  Univ. Occupational & Environmental Health School 
+of Medicine
+Kunio Sayanagi, Hampton Univ.
+Steve Vance, JPL/Caltech
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/17565    
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1tI5M9x
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] MINORITY UNIVERSITY RESEARCH EDUCATION PROJECT (MUREP) 
+SCHOLARSHIP PROGRAM
+
+NASA's Office of Education is accepting applications for the Minority 
+University Research and Education Project, or MUREP, scholarship 
+program. The MUREP Scholarship is a competitive opportunity that 
+focuses on underserved and underrepresented students in STEM 
+disciplines attending a Minority Serving Institutions, MSI. The 
+scholarship includes 75% of tuition up to a $9,000 per academic 
+scholarship, based on tuition amount, and $6,000 for a summer 
+internship. Applications are due March 31, 2015.
+
+Information on the NASA Scholarship Programs can be found at: 
+
+https://intern.nasa.gov/ 
+
+Click on: Scholarships
+
+More information can be found on:
+
+http://www.nasa.gov/offices/education/programs/national
+/murep/home/index.html#.VLU_8mMkSSo
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+GEOMAGNETICS POSTDOCTORAL RESEARCHER
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park and 
+the Center for Research and Exploration in Space Science and Technology 
+(CRESST), to work in the Planetary Geodynamics Laboratory of the NASA 
+Goddard Space Flight Center in the area of geomagnetism. Additional
+details are available at: 
+
+http://www.astro.umd.edu/employment/index.html#Geomag
+
+Applicants must have a Ph.D. degree (or expect to have the degree by 
+the start of the appointment) in a related field of physics, geophysics 
+and/or applied mathematics. Applicants are expected to have strong 
+quantitative analysis and modeling skills - in addition to knowledge of 
+geomagnetic fields, satellite or ground observatory data, geomagnetic 
+field models, and core dynamics. Applicants also familiar with UNIX, 
+Fortran, and parallel computing will be preferred.
+
+The University of Maryland is an Affirmative Action, Equal Opportunity 
+Employer. Women and minorities are encouraged to apply. All 
+applications received by March 2, 2015 will receive full consideration.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS - CASSINI DATA RELEASE 40
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 40, January to March 2014, for instruments:
+
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+CIRS Time-Sequential data will be available soon, as well as a new 
+dataset, CIRS Cubes. CDA and HRD will also be available shortly.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the 
+Planetary Image Data Atlas. Large data sets may take as long as a 
+few days beyond the formal release date to be incorporated into these 
+services. Check each service's web site to see the status of the 
+latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-20150107.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] DISCOVERY 2014 AO AMENDMENT 1
+
+The NASA Announcement of Opportunity (AO) NNH14ZDA014O, 
+"Discovery 2014," has been amended to
+
+1. Shift the due date for electronic proposals to February 18, 2015 
+from February 16, 2015, and the deadline for the submission of 
+proposals on CD-ROM has been changed to February 25, 2015.
+
+2. Add a requirement for color-coding of export-controlled material in 
+the body of the proposal to Requirement 92, and
+
+3. Modify Requirement B-77 to remove the requirement that an estimated 
+cost for the Engineering Science Investigation be included in proposal 
+Appendix J.14.
+
+For more information, go to:
+
+http://nspires.nasaprs.com/
+
+Select "Solicitations" then "Open Solicitations" then "NNH14ZDA014O".
+
+Comments and questions may be addressed to: 
+
+Dr. Michael H. New 
+Discovery Program Lead Scientist
+michael.h.new@nasa.gov 
+(subject line to read "Discovery 2014 AO")
+202-358-1766 
+202-358-3097, FAX
+
+Responses to all inquiries will be answered by E‑mail and also posted 
+to the Frequently Asked Questions (FAQ) location of the Discovery 
+Program Acquisition website at: 
+
+http://discovery.larc.nasa.gov/ 
+
+Anonymity of persons and institutions who submit questions will be 
+preserved.
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 20-25, 2015
+22th Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua/
+Kyiv, Ukraine
+
+May 11-15, 2015
+Young Stars & Planets Near the Sun
+http://youngstars.gsu.edu/
+Atlanta, GA
+
+May 24-28, 2015
+Japanese Geoscience Union (JpGU)
+http://www.jpgu.org/meeting_e/
+Chiba, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

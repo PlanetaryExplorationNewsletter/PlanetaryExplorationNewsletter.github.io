@@ -1,0 +1,324 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 36 (August 19, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+2. [NASA] PDS: Dawn GRaND Data Release
+3. NASA Postdoctoral Fellowships
+4. Workshop on the Evolution and Constitution of Mercury's Interior
+5. DAP-2012
+6. 10th Meeting of the Venus Exploration and Analysis Group (VEXAG)
+7. [NASA] Announcement of Flight Opportunities #5 Now Open
+8. [NASA] American Society for Gravitational and Space Research (ASGSR) 
+   Extended Call for Abstracts
+9. Lessons Learned in Decadal Planning in Space Science: An NRC 
+   Workshop
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical 
+interactions between intrusive and extrusive volcanic edifice growth, 
+lithospheric flexural response, and magma ascent, using numerical 
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery, 
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic 
+processes with advanced codes as COMSOL Multiphysics (FEM) and PFC 
+(DEM). Programming languages, MATLAB or FORTRAN 95 desirable.  The 
+position is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu.  Further information may be 
+found at:
+
+www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: DAWN GRAND DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the  
+availability of Dawn GRaND L1a data for the following mission phases:
+
+Cruise, Mars Flyby, Vesta Approach, Vesta Survey, and Vesta High  
+Altitude Mapping Orbit (HAMO).
+
+The Dawn GRaND L1a data from the Vesta Low-Altitude Mapping Orbit 
+(LAMO) are coming soon.
+
+To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+WORKSHOP ON THE EVOLUTION AND CONSTITUTION OF MERCURY'S INTERIOR
+
+October 30, 2012 - November 1, 2012
+
+The workshop Evolution and Constitution of Mercury's Interior will be 
+held on October 30 - November 1, 2012 at the Park Central Hotel in 
+New York, NY. This international meeting will explore recent results 
+from NASA's MESSENGER mission as well as implications for the 
+forthcoming ESA/JAXA BepiColombo mission. The workshop is organized 
+around three thematic issues regarding Mercury's interior:
+ 
+* Origin, structure, and bulk composition of Mercury
+* Evolution of Mercury's crust and mantle       
+* Core evolution and magnetic field generation
+
+Registration and additional information is available at:
+
+http://bit.ly/mercuryinterior 
+
+Registration deadline: September 21, 2012.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DAP-2012
+
+The Dust, Atmosphere and Plasma: Moon and Small Bodies (DAP-2012) 
+meeting took place in June 6-8, 2012 in Boulder, Colorado.
+The abstracts and the presentations are now available online: 
+
+http://lasp.colorado.edu/ccldas/ldap_2012
+
+Please contact the organizers Alan Stern (astern2010@aol.com) or 
+Mihaly Horanyi (horanyi@colorado.edu) if you could not attend but 
+still interested in submitting a contribution on the subject of 
+this meeting to our special issue in Planetary and Space Sciences. 
+The deadline for submissions is September 30, 2012.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+10TH MEETING OF THE VENUS EXPLORATION AND ANALYSIS GROUP (VEXAG)
+
+The tenth VEXAG meeting will be held 13-15 November 2012. This 2-1/2 
+day meeting will be held at or near NASA Headquarters in downtown 
+Washington, DC.  The primary objective of this meeting is to review 
+and update the Goals and Objectives for Venus Exploration. Time will 
+be made available for science presentations as well as updates from 
+the community on issues relevant to Venus science and exploration. 
+Please watch for additional information regarding advance registration 
+and meeting details at:
+
+http://www.lpi.usra.edu/vexag
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ANNOUNCEMENT OF FLIGHT OPPORTUNITIES #5 NOW OPEN
+
+Solicitation: NASA Announcement of Flight Opportunities (AFO) for 
+Payloads Maturing Crosscutting Technologies that Advance Multiple 
+Future Space Missions to Flight Readiness Status.
+
+Applications due: 5:30 PM ET, September 21, 2012
+Selection announcement: November 2012 (target)
+
+The solicitation is available at:
+
+http://nspires.nasaprs.com 
+
+Select "Solicitations," then select "Open Solicitations," and, select 
+"NOCT110 Announcement of Flight Opportunities."  
+
+NASA's Office of the Chief Technologist (OCT) seeks to mature towards 
+flight readiness status crosscutting technologies that perform relevant 
+environment testing and advance multiple future space missions. To 
+facilitate this goal, NASA is providing access to certain flight 
+opportunities available to the Agency, on a no-exchange-of-funds 
+basis, to entities that have technology payloads meeting specified 
+criteria. The payloads may be exposed to a near-zero or reduced 
+gravity environment by flying on aircraft that provide parabolic 
+flight trajectories and on sRLVs that are potentially capable of 
+flying to altitudes above 100 km. For flight tests that do not 
+require microgravity, but do require the temperature, pressure and 
+atmospheric conditions of high altitudes, balloon flights are 
+available. For specific information on vehicle and flight 
+characteristics refer to:
+
+http://flightopportunities.nasa.gov/ 
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] AMERICAN SOCIETY FOR GRAVITATIONAL AND SPACE RESEARCH (ASGSR) 
+EXTENDED CALL FOR ABSTRACTS
+
+Extended due date: August 31, 2012
+To submit an ASGSR abstract on-line go to: 
+
+http://asgsr.org/index.php/2012-asgsr-call-for-abstracts.html
+ 
+The meeting will take place November 28th-December 2, 2012 in New 
+Orleans, Louisiana at the Westin New Orleans Canal Place. The Life and 
+Physical Sciences community will meet to discuss gravitational and 
+space research in physical phenomena and biological sciences. Joint 
+symposia are planned to discuss interfaces between biological and 
+physical sciences, space health issues from the flight surgeon's 
+perspective, and gravity related issues in life support systems. 
+A draft program can be found at:
+
+http://asgsr.org/images/stories/preliminary_conference_program_
+june_18_2012.pdf
+ 
+Students are encouraged to submit for poster presentations that will 
+occur Saturday, December 1, 2012. Student poster competition awards 
+will be presented at the Saturday night banquet for the best posters, 
+as judged by a panel of scientists. Students will participate in the 
+competition by presenting their work during scheduled poster sessions. 
+Students can request travel assistance by checking the box on the 
+abstract submittal form.
+ 
+For more information, please contact:
+Ms. Jobi Cook
+ASGSR meeting organizer
+asgsr@rocketmail.com
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+LESSONS LEARNED IN DECADAL PLANNING IN SPACE SCIENCE: AN NRC WORKSHOP
+
+Join the Space Studies Board (SSB) and the Board on Physics and 
+Astronomy (BPA) on November 12-13, 2012, at The National Academies 
+Beckman Center in Irvine, California in a workshop that will identify 
+lessons learned and best practices from the most recent decadal 
+surveys: solar and space physics (2012), planetary science (2011), 
+astronomy and astrophysics (2010), and Earth science and applications 
+from space (2007). The workshop will bring together a variety of 
+stakeholders in the space community both inside and outside of NASA 
+who are impacted by and/or are responsible for the formulation and
+implementation of the decadal surveys and mid-decade reviews. 
+Development of the workshop is in progress under the auspices of a 
+planning committee appointed by the National Research Council.
+
+For more information and to register, go to:
+
+http://sites.nationalacademies.org/SSB/CurrentProjects/SSB_070954
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 12-13, 2012
+Lessons Learned in Decadal Planning in Space Science: A Workshop
+http://sites.nationalacademies.org/SSB/CurrentProjects/SSB_070954
+Irvine, CA
+
+November 13-15, 2012
+10th Meeting of the Venus Exploration and Analysis Group (VEXAG)
+http://www.lpi.usra.edu/vexag
+Washington, DC
+
+November 28-30, 2012
+NASA Advisory Council Meeting
+http://www.nasa.gov/offices/nac/meetings/index.html
+Huntsville, AL
+
+February 4-8, 2013
+Magnetic Fields in the Universe IV: From Laboratory and Stars to the 
+Primordial Structures
+http://www.nucleares.unam.mx/mfu4
+Playa del Carmen, Mexico
+
+April 15-19, 2013
+International Young Astronomer School on Exploiting the Herschel and 
+Planck data (2013)
+http://ufe.obspm.fr/rubrique344.html
+Meudon, France
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

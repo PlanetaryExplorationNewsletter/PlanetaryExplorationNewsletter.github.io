@@ -1,0 +1,135 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 4, Number 13 (March 28, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] SALMON AO Amendment 5: Procedure for Submission of Proposals
+   by Non-U.S. Organizations in Response to Appendix H6: ExoMars Trace
+   Gas Orbiter Instruments
+2. Session on "Exploring the Martian Moons" at the EPSC Conference
+3. EJSM Open Science Workshop
+4. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SALMON AO AMENDMENT 5: PROCEDURE FOR SUBMISSION OF PROPOSALS BY 
+NON-U.S. ORGANIZATIONS IN RESPONSE TO APPENDIX H6: EXOMARS TRACE GAS 
+ORBITER INSTRUMENTS
+
+With this amendment, the National Aeronautics and Space
+Administration (NASA) Science Mission Directorate (SMD) Announcement
+of Opportunity (AO) NNH08ZDA009O, "Stand Alone Missions of
+Opportunity Notice (SALMON)," is amended to (a) establish procedures
+for non-U.S. organizations to submit proposals through NSPIRES in
+response to Appendix H6: ExoMars Trace Gas Orbiter Instruments and
+(b) correct Section 7.1.2 of the SALMON AO.
+
+PI's considering taking advantage of this option must notify the
+ESA contact prior to April 1 (e-mail to: jorge.vago@esa.int,
+cc to albert.haldemann@esa.int).
+
+The full text of the amendment is posted at:
+
+http://nspires.nasaprs.com/ 
+
+Select "Solicitations" then "Open Solicitations" then "NNH08ZDA009O".
+The amendment text may be found by selecting "Amendments;". The text
+of the program element appendix for ExoMars Trace Gas Orbiter
+Instruments may be found by selecting "List of Program Elements"
+then "NNH08ZDA009O-EMTGO."
+
+[Editor Note: This item has been edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SESSION ON "EXPLORING THE MARTIAN MOONS" AT THE EPSC CONFERENCE
+
+Rome, 19-25 September 2010
+
+http://meetingorganizer.copernicus.org/EPSC2010/session/3837
+
+We invite for this session papers on the results of past or present 
+planetary missions on the Martian Moons, and on Phobos in particular.
+A special emphasis will be given to the February-March 2010 Mars 
+Express flyby campaign. The following topics can be addressed: 
+position and ephemerids, interior, mass determination, gravity field, 
+subsurface, surface properties, temperatures, composition, geology, 
+shape and volume, origin of the moons, solar wind interaction. Papers 
+on the future mission Phobos-Grunt and on ideas for new missions 
+(in-situ, sample return, manned missions) are welcome. Ground-based 
+observations results are also relevant.
+
+Deadline: 10 May 2010
+Olivier Witasse and Tom Duxbury
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EJSM OPEN SCIENCE WORKSHOP
+
+17 - 19 May 2010
+ESTEC, Noordwijk
+The Netherlands                                
+
+http://jakal.sp.ph.ic.ac.uk/EJSM
+                        
+Abstract Deadline: April 15
+
+The Europa Jupiter System Mission (EJSM) is an international mission
+to the Jupiter system in development, with joint participation from 
+ESA and NASA.
+ 
+The ESA-NASA Europa Jupiter System Mission (EJSM) would consist of 
+two primary flight elements operating in the Jovian system: the 
+ESA-led Jupiter Ganymede Orbiter (JGO) and the NASA-led Jupiter 
+Europa Orbiter (JEO). JGO and JEO would execute an extended 
+choreographed exploration of the Jupiter System before settling into 
+orbit around Ganymede and Europa, respectively. The overarching goal 
+of EJSM is the study of the emergence of habitable worlds around gas 
+giants. JGO and JEO would carry complementary instruments to achieve 
+the following science objectives: characterize Ganymede and Europa as 
+planetary objects and potential habitability; study Ganymede, Europa, 
+Callisto and Io in the broader context of the system of Galilean 
+satellites; and focus on Jupiter science including the planet, its 
+atmosphere, and the magnetosphere as a coupled system.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

@@ -1,0 +1,478 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 17 (April 10, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Current Satus of ACM 2011
+2. Job Posting for Postdoctoral Researcher in Planetary Mapping:
+   Lunar and Planetary Institute
+3. Post-Doctoral Position in Space Physics/Mars Aeronomy
+4. Tenure-Track Positions at Brown in Early Planetary Processes and 
+   Climate Modeling
+5. Tenure-Track Faculty Appointment at Brown: Planetary Remote 
+   Compositional Analysis
+6. EPSC-DPS Conference Session - Asteroids and NEOs
+7. EPSC-DPS Small Bodies Session 2: Small Bodies as Granular 
+   Systems
+8. Professional Development Social Networking
+9. A New Online Job and Conference Register Geared Towards Space 
+   Physics Graduate Students - SPOReS
+10. [NASA] Final Text for the Mars Fundamental Research Program AO
+11. [NASA] Astrobiology Science and Technology for Instrument 
+    Development (ASTID)
+12. [NASA] Change of Scope, Name and Due Dates for Cassini Data 
+    Analysis and Participating Scientists (CDAPS) Program
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CURRENT STATUS OF ACM 2011
+
+Dear all who are interested in ACM 2011,
+
+Due to the recent earthquake and tsunami disaster in Japan, and its 
+consequences, the local and scientific organizing committee of ACM 2011 
+have decided to postpone the meeting, until the situation in Japan is 
+stabilized.
+
+The committees are now discussing the new schedule. We are currently 
+keeping our intention to hold the meeting in the original place, 
+Niigata in Japan. We are trying to avoid conflicts with other meetings 
+and major university events.
+
+Our decision will be announced to the community as soon as possible.
+
+We are currently closing abstract submission (at the LPI site), 
+registration, and travel grant submission.
+
+As we expect that the meeting will be postponed for several months or 
+perhaps one year, the submitted abstracts and registrations will be 
+discarded. We will open new forms for submission and registration after 
+the schedule is fixed.
+
+We apologize for any inconvenience this may cause, and hope you will
+be contributing in the future to the ACM meeting.
+
+If you have any questions or comments, please contact:
+
+ACM2011@pub.mtk.nao.ac.jp
+
+Best Regards,
+Sho Sasaki,
+Chair of Scientific Organizing Committee, ACM 2011
+
+Jun-ich Watanabe
+Chair of Local Organizing Committee, ACM 2011
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JOB POSTING FOR POSTDOCTORAL RESEARCHER IN PLANETARY MAPPING: LUNAR
+AND PLANETARY INSTITUTE
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston TX, invites applications for a postdoctoral 
+fellowship in planetary science. The successful candidate will work 
+with Dr. Paul Schenk, investigating the topography of Jupiter's 
+volcanic moon Io using stereo and shape-from-shading techniques 
+(although experience in these tools is not required).  A variety of 
+landforms will be mapped, including volcanoes and mountains, as well 
+as regional and global scale shape deviations.  The candidate will 
+also be expected to develop their own research projects using this 
+data.
+
+Candidate must have a recent Ph.D. in geology or geophysics.  In 
+addition, the candidate shall have a strong background in remote 
+sensing/image processing of spacecraft data, and preferably experience 
+in geophysical or volcanological investigations.  The position is 
+generally for two years, with a possible extension to a maximum of 
+three years.  Further information on current research and facilities 
+at the LPI can be found on our website:
+
+http://www.lpi.usra.edu 
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POST-DOCTORAL POSITION IN SPACE PHYSICS/MARS AERONOMY
+
+Swedish Institute of Space Physics, Uppsala, Sweden
+Deadline 30 April 2011
+
+http://www.irf.se/Topical/Vacancies/?group=P4&vacid=19&chosen=topical
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TENURE-TRACK POSITIONS AT BROWN IN EARLY PLANETARY PROCESSES AND 
+CLIMATE MODELING
+
+Dear Colleagues:
+
+As you may know, Brown University has recently been implementing a 
+"Plan for Academic Enrichment" designed to build research and teaching 
+capabilities in new areas and broaden and deepen areas of existing 
+strength.  As part of this undertaking, the Department of Geological 
+Sciences is currently in the midst of searches for two new tenure-track 
+faculty appointments, one in Early Planetary Processes and another in 
+Climate Modeling, as we look to deepen and broaden the base of our 
+existing program. 
+
+In addition, we are announcing a new opening in the area of Remote 
+Compositional Analysis.
+
+Would you please take a moment to advise me of potential candidates 
+in this area and to also post and distribute this announcement in 
+your department and to potentially interested colleagues? 
+
+Thanks in advance for your advice and assistance. 
+
+Best Regards, 
+
+Jim Head
+james_head@brown.edu
+
+[Edited slightly for content]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+TENURE-TRACK FACULTY APPOINTMENT AT BROWN: PLANETARY REMOTE 
+COMPOSITIONAL ANALYSIS
+
+The Department of Geological Sciences at Brown University 
+(http://www.geo.brown.edu/) invites applications for a tenure-track 
+faculty appointment in Planetary Remote Compositional Analysis. The 
+emphasis of this position is on the application of experimental and 
+quantitative analytical approaches to the characterization, analysis 
+and understanding of remotely sensed spectroscopic data to address 
+critical problems in planetary sciences.  Such problems might include 
+the composition of materials comprising planetary bodies, the physical 
+and chemical weathering of surfaces, and the nature of planetary 
+processes. Analysis of field data and spacecraft data in addressing 
+such problems is also strongly encouraged. 
+
+Candidates should complement our current planetary science strengths 
+in planetary evolution, volcanism, impact cratering, climate history, 
+and remote sensing, as well as departmental focus areas of Earth 
+system history, solid Earth dynamics, and Earth and planetary materials 
+and processes. The successful candidate will maintain an active, 
+externally funded research program and enjoy a commitment to teaching 
+at both undergraduate and graduate levels. Appointment is expected at 
+the Assistant Professor level, although exceptional circumstances 
+could warrant appointment as Associate Professor. 
+
+[Edited for length. For a complete description of the position, please 
+go to: http://brown.edu/Departments/Geology/BrownGeoJobs.html ]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC-DPS CONFERENCE SESSION - ASTEROIDS AND NEAS
+
+We would like to invite all colleagues interested in the research on 
+Asteroids and Near-Earth Asteroids to participate in the following 
+session at the European  Planetary Science Congress (EPSC-DPS Joint 
+Meeting 2011) to be held in Nantes, France, 03-07 October 2011:
+
+Small Bodies Session 4: Asteroids and NEAs
+
+The session will focus on the interrelation between the different 
+populations of asteroids (main belt, Trojans) and near-Earth objects, 
+with implications on their origin and physical properties. These 
+interrelationships may be revealed through observational surveys 
+(discovery and characterization) as well as through numerical modeling 
+and/or experiments of physical processes (impacts, thermal effects, 
+spin up/down and related shape changes and mass loss, etc...) that 
+these bodies undergo during their evolution. 
+
+For general information on the conference and online abstract
+submission (deadline May 31, 2011), please visit the web site:
+
+http://meetings.copernicus.org/epsc-dps2011/home.html
+
+Please forward this announcement to all colleagues who may be 
+interested in contributing to this session.
+
+Patrick Michel
+University of Nice-Sophia, CNRS, Cote d'Azur Observatory, France
+michelp@oca.eu
+
+Rick P. Binzel
+MIT, USA
+rpb@mit.edu  
+
+Marco Delbo
+University of Nice-Sophia, CNRS, Cote d'Azur Observatory, France
+delbo@oca.eu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EPSC-DPS SMALL BODIES SESSION 2: SMALL BODIES AS GRANULAR SYSTEMS
+
+Dear colleagues,
+
+We would like to bring to your attention a session (see below) that 
+may be of interest to you at the upcoming Joint EPSC-DPS 2011 Meeting, 
+which will take place in Nantes, France, 3-7 October 2011. 
+
+Small Bodies Session 2: Small bodies as granular systems 
+
+http://meetingorganizer.copernicus.org/EPSC-DPS2011/session/8401
+
+Deadline for submitting abstracts: May 31
+
+This session is dedicated to discussions and recent research on 
+granular systems and contact dynamics applicable to the study of 
+gravitational aggregates, sample return missions, and small bodies 
+in general. It encompasses planetary science observation and 
+modelling, numerical methods, laboratory experiments and scaling, 
+segregation phenomena, rheology and forces involved. 
+
+For general information on the conference and online abstract 
+submission, please visit the web site: 
+
+http://meetings.copernicus.org/epsc-dps2011/home.html 
+
+Looking forward to seeing you in Nantes,
+
+D. Hestroffer (IMCCE/Obspm, France)
+D. Scheeres (Univ. Collorado at Boulder, USA) 
+P. Tanga (OCA, France) 
+P. Michel (OCA, France) 
+D. Richardson (univ. Maryland, USA) 
+W. Losert (univ. Maryland, USA)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PROFESSIONAL DEVELOPMENT SOCIAL NETWORKING
+
+You can hear more DPS Professional Development Subcommittee News on 
+Twitter and Facebook. Follow the Twitter feed for information about 
+fellowships, jobs, and career advice, or join the Facebook group to be 
+part of the discussion:
+
+http://twitter.com/#!/DPSdevelopment
+
+http://www.facebook.com/home.php?sk=group_176015609094714
+
+Thank you to the Professional Development social networking team:
+
+Gotz Galuba
+Sarah Horst
+Kelsi Singer
+Rachel Mastrapa (Point of Contact - Rachel.M.Mastrapa@nasa.gov)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+A NEW ONLINE JOB AND CONFERENCE REGISTER GEARED TOWARDS SPACE PHYSICS
+GRADUATE STUDENTS - SPOReS
+
+The Space Physics Opportunities Register for Students (SPOReS) is a new
+web register of job/fellowship opportunities for space physics graduate 
+and undergraduate students, as well as for postdoctoral researchers. It 
+is focused primarily on opportunities for graduate students.
+
+The register's web address is: 
+
+http://sites.google.com/site/spjobreg/
+
+The announcements are ordered in embedded Google calendars that you can 
+view on the website, or simply add to your own calendar.
+
+We accept announcements of conferences, summer schools, workshops,
+graduate fellowships, studentships, postdoctoral fellowships and job
+postings, as well as REU opportunities for undergraduate students.
+
+Would you like to have your announcement of a fellowship, postdoc,
+conference/workshop or REU opportunity seen immediately, rather than 
+wait for the next edition of your favorite space physics newsletter?
+
+Send us your announcement directly - we will publish it right away!
+
+Send your announcements to spjobsreg [at] gmail.com. Please include
+the opportunity deadline, a description, as well as a URL with the
+official announcement if there is one, and a person+email for contact.
+
+Sincerely,
+
+The SPOReS team
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] FINAL TEXT FOR THE MARS FUNDAMENTAL RESEARCH PROGRAM AO
+
+The Mars Fundamental Research Program (MFRP) seeks to sponsor the best 
+and most innovative scientific research concerning atmospheric, 
+climatological, geologic, geophysical, and geochemical processes on 
+Mars. The program offers opportunities for Mars research beyond those 
+available from analyses of spacecraft data alone. 
+
+The major change to the text is the explicit incorporation of reference 
+to the recent planetary decadal survey. The due date for MFRP Notices 
+of Intent and proposals remain unchanged at May 6 and July 8, 2011, 
+respectively. 
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA001N". 
+
+You can now track amendments, clarifications and corrections to ROSES 
+and subscribe to an RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2011
+
+Questions concerning MFRP proposals may be addressed to:
+
+Mitchell Schulte
+202-358-2127 
+HQ-MFRP@mail.nasa.gov
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ASTROBIOLOGY SCIENCE AND TECHNOLOGY FOR INSTRUMENT DEVELOPMENT 
+(ASTID)
+
+The ASTID program element requests proposals to develop 
+instrumentation capabilities to help meet Astrobiology science 
+requirements on future space flight missions, as well as unique 
+Astrobiology science objectives on Earth. Selected activities are 
+expected to advance the development of scientific instruments or 
+instrument components to the point where the instruments could credibly 
+be proposed in response to future flight opportunity announcements, 
+including instruments that could be accommodated on or in small 
+satellites (under 50kg total spacecraft mass), or as small payloads in 
+support of future science activities associated with missions of human 
+exploration. 
+
+Development of instruments for use in future field campaigns is 
+solicited under the Astrobiology Science and Technology for Exploring 
+Planets (ASTEP) program.
+
+Proposals to ASTID and the Planetary Instrument Definition and 
+Development Program will be reviewed together and thus, if identical 
+proposals are submitted to both programs, only one will be reviewed. 
+
+Changed ASTID NOI date: June 24, 2011 
+Changed ASTID proposal due date: August 26, 2011
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA001N".
+
+Questions concerning ASTID proposals may be addressed to:
+
+Michael New
+202-358-1766 
+HQ-ASTID@mail.nasa.gov
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] CHANGE OF SCOPE, NAME AND DUE DATES FOR CASSINI DATA ANALYSIS 
+AND PARTICIPATING SCIENTISTS (CDAPS) PROGRAM
+
+The Cassini Participating Scientist Program has been added to the ROSES 
+call and merged with the Cassini Data Analysis Program to form a new 
+program element called the Cassini Data Analysis and Participating 
+Scientists (CDAPS) Program. 
+
+The due date for notices of intent (NOIs) has been delayed to Friday, 
+June 10, 2011.
+
+The due date for proposals has been delayed to Friday, July 8, 2011.
+
+The objective of the Cassini Data Analysis and Participating Scientists 
+Program (CDAPS) is to enhance the scientific return of the Cassini 
+mission by broadening the scientific participation in the analysis and 
+interpretation of the data returned by the mission. A subset of CDAPS 
+selectees will also serve as Participating Scientists, which will 
+further broaden participating in the mission by augmenting the existing 
+science team. This program solicits research proposals to conduct 
+scientific investigations utilizing data obtained by the Cassini and 
+Huygens spacecraft.
+
+Go to:
+
+http://nspires.nasaprs.com 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA001N".
+
+Questions concerning data analysis proposals may be addressed to:
+
+Max Bernstein 
+202-358-0879 
+HQ-CDAP@mail.nasa.gov
+
+Questions concerning the participating scientist program may be 
+addressed to:
+
+Curt Neibur
+202-358-0390
+curt.niebur@nasa.gov
+
+[Editor - this has been edited for length and clarity, please go
+to the NSPIRES URL above for detailed information.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 6-10, 2011
+Astronomical Data Analysis Software & Systems (ADASS XXI)
+http://adass.org/
+Paris, France
+
+March 19-23, 2012
+43rd Lunar and Planetary Science Conference
+http://www.lpi.usra.edu/meetings/lpsc2012/
+The Woodlands, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

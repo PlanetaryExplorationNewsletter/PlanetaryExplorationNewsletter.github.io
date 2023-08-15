@@ -1,0 +1,619 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 9, Number 13 (March 29, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] New EONS Program Element: MUREP MEI
+2. [NASA] Pre-proposal Teleconference: STEM ASTAR Fellowships
+3. [NASA] Reopening the Hayabusa2 Participating Scientist Call
+4. [NASA] Various Updates to the Text of PDART Program
+5. [NASA] PDS - Lunar Reconnaissance Orbiter Data Release 21
+6. Planetary Scientist Position - NASA Johnson Space Center
+7. New Refereed Journal of Astronomy and Earth Sciences Education
+   Invites Manuscripts
+8. Pluto Naming Opportunity
+9. New Astronomy Lecture Videos
+10. EPSC Call for Abstracts
+11. 49th ESLAB Symposium: Exploring the Universe with JWST
+12. Fact Sheet - Connecting Physics Students to Career Opportunities
+13. Job Opening - Director, Cernan Earth and Space Center
+14. NASA Postdoctoral Fellowships
+15. Reminder: VEXAG Meeting #12
+16. Director, NASA Astrobiology Institute (NAI)
+17. DPS has Partnered with MentorNet
+18. Graduate Student Opportunity: Hampton University 
+19. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NEW EONS PROGRAM ELEMENT: MUREP MEI
+
+NASA Education Opportunities in NASA STEM (EONS)-14 Amendment 15: 
+
+The NASA Office of Education Minority  University Research and 
+Education Project (MUREP) solicits proposals from Minority Serving 
+Institutions (MSIs) to plan, coordinate, and evaluate MUREP Educator 
+Institutes (MEIs) that will bring pre-service and alternative route 
+Science, Technical, Education, and Mathematics (STEM) educators from 
+MSIs across the country to NASA centers annually for a one week 
+professional development session. MSIs that plan to submit a proposal 
+may partner with other institutions.
+
+Notices of Intent (NOIs) are requested by April 24, 2015, and 
+proposals are due by June 30, 2015.
+
+Questions concerning NASA MUREP Educator Institutes (MEI), may be 
+directed to Mr. Chris Copelan, NASA Stennis Space Center at
+NASAMEI@nasaprs.com.
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PRE-PROPOSAL TELECONFERENCE: STEM ASTAR FELLOWSHIPS
+
+NASA will conduct a Pre-proposal Adobe Connect/Teleconference to 
+discuss NASA Education Opportunities in NASA STEM (EONS) Advanced 
+Science, Technology, Engineering and Math (STEM) Training and Research 
+(ASTAR) Fellowship. The call will be held on Tuesday, March 31, 2015 
+at 4:00 PM ET. 
+
+The purpose of these sessions is to provide prospective proposers an 
+in-depth overview of the ASTAR opportunity and proposal requirements. 
+Please visit the ASTA​R Fellowships in NSPIRES for details regarding 
+this opportunity. ­­­
+
+To join the ASTAR pre-proposal teleconference, follow the 
+instructions for both the Adobe Connect and conference number.
+
+If you have any accommodation needs, please contact, in advance,
+NASA.fellowships@nasaprs.com.
+ 
+First, connect to Adobe Connect (for slide presentation):
+
+1. Go to https://ac.arc.nasa.gov/nifs/
+
+2. If requested, enter your name and enter the room.
+
+Please check the technology Adobe Connect Technical Specs before the 
+teleconference at: 
+
+https://helpx.adobe.com/adobe-connect/tech-specs.html
+
+After the presentation, prospective students may ask questions by 
+typing them in to the chat room about the opportunity.
+
+Second, connect to teleconference (for audio):
+
+Call-in number:
+Toll free number 888-957-9823 or toll number 1-312-470-0200
+
+Participant passcode:  3835998
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] REOPENING THE HAYABUSA2 PARTICIPATING SCIENTIST CALL
+
+In response to requests from the community for more time, Amendment 7
+reopens the response structure for this program element and sets the 
+new due date for Step-1 proposals to Wednesday April 1, 2015. The due 
+date for Step-2 proposals remains unchanged, they are still due by 
+May 15, 2015.
+
+Questions concerning this program element may be directed to: 
+Tony Carro at anthony.carro-1@nasa.gov
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] VARIOUS UPDATES TO THE TEXT OF PDART PROGRAM
+
+The Planetary Data Archiving, Restoration, and Tools (PDART) program 
+solicits proposals to generate higher-order data products, archive and 
+restore data sets or products, create or consolidate reference 
+databases, generate new reference information, digitize data, and 
+develop or validate software tools.
+
+Throughout this program element, the text has been modified to 
+strengthen the requirements on proposers to make data products 
+available. 
+
+The due dates remain unchanged. Step-1 proposals are due May 15, 
+2015, and Step-2 proposals are due by July 17, 2015.
+
+Questions concerning this program element may be directed to: 
+Sarah Noble at sarah.noble-1@nasa.gov
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - LUNAR RECONNAISSANCE ORBITER DATA RELEASE 21
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA, and LROC.  
+
+In general, LRO Release 21 includes data collected between September 
+15, 2014 and December 14, 2014. To access the above data, visit: 
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150313.shtml 
+
+PDS offers the following two services for searching the LRO archives:
+
+1. The Planetary Image Atlas at the Imaging Node allows selection of 
+LRO data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/ 
+
+2. The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector): 
+
+http://ode.rsl.wustl.edu/moon/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY SCIENTIST POSITION - NASA JOHNSON SPACE CENTER
+
+The Astromaterials Research Office, NASA Johnson Space Center, solicits 
+applications for a Planetary Scientist civil service position. The 
+selectee will establish a research program in the study of the origin 
+and evolution of our solar system’s rocky planetary bodies. This 
+emphasis includes, but is not limited to, studies of astromaterials  
+and materials from sample-return missions, and studies using remote-
+sensing and mission data in subfields including, but not limited to: 
+geochronology, high-resolution analytical studies, mineralogy, isotope 
+and elemental geochemistry and mass spectrometry, experimental and 
+laboratory studies, analysis and interpretation of mission data. The 
+selectee is expected to attract research funding through peer-
+reviewed proposals to NASA programs and/or involvement in NASA 
+missions. 
+ 
+Candidates must use: 
+
+http://USAJobs.gov
+
+position JS15D0019, to submit applications between 30 March and 20 
+April 2015; US citizenship is required. The position is at the GS-13 
+level at a negotiable starting date. A further announcement will 
+advise of application dates and deadlines and provide the formal job 
+posting data. Interested parties may direct inquiries to Dr. David 
+Draper, Manager, Astromaterials Research Office,
+david.draper@nasa.gov. A how-to guide for preparing responsive 
+applications using USAJobs.gov, prepared by JSC Human Resources, will 
+be provided upon request.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NEW REFEREED JOURNAL OF ASTRONOMY AND EARTH SCIENCES EDUCATION INVITES 
+MANUSCRIPTS
+ 
+The editor and editorial board are pleased to announce the publication 
+of a new on-line journal for research papers on space science and 
+earth science education. Entitled The Journal of Astronomy and Earth 
+Sciences Education (JAESE), the new peer-reviewed publication is open-
+access, meaning it is free to all readers. The first issue is already 
+complete; see:
+
+http://www.jaese.org
+
+and papers are now being accepted for the second issue. The journal 
+fills a void created when the American Astronomical Society stopped 
+publishing its on-line journal, Astronomy Education Review, in 2013.
+
+While the publication fees should not be a barrier for most authors, 
+some people may have very limited budgets. For 2015, a fund has been 
+established by donations to the Astronomical Society of the Pacific, 
+the Wyoming Excellence in Higher Education Endowment, and the CAPER 
+Center for Astronomy & Physics Education Research to subsidize 
+publication costs for authors with demonstrated need. Details about 
+how to apply are available from the Editor.
+ 
+Detailed author guidelines are available at the journal website. 
+Questions may be directed to the editor, Dr. Tim Slater (University 
+of Wyoming) at: JAESE@uwyo.edu 
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLUTO NAMING OPPORTUNITY
+ 
+On July 14, NASA's New Horizons spacecraft will fly past Pluto, and we 
+will map that distant world and its moons for the first time. Working 
+with the International Astronomical Union (IAU), the New Horizons team 
+plans to assign names to the features on the maps of Pluto and its 
+large moon Charon, once we have seen them in sharp detail this summer. 
+At the “Our Pluto” website you can suggest your ideas for names and 
+vote for your favorites. The team will use your best ideas in their 
+proposal to the IAU.
+ 
+This is an opportunity for the students, teachers and the public to 
+vote on names for the features on Pluto and Charon. The public input 
+will be provided to the IAU, which ultimately determines the official 
+scientific names for astronomical objects. 
+ 
+Press Release: 
+
+http://www.seti.org/seti-institute/press-release/public-asked-help-
+name-features-pluto
+
+Our Pluto website: 
+
+http://www.ourpluto.org/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NEW ASTRONOMY LECTURE VIDEOS
+ 
+There are new, videotaped, popular astronomy lectures available at the 
+Silicon Valley Astronomy Lectures YouTube Site at:  
+
+http://www.youtube.com/svastronomylectures   
+
+The site recently passed half a million views for its varied roster of 
+talks by noted astronomers, explaining the latest developments.
+ 
+New talks include a preview of the New Horizons mission to Pluto by 
+team member Dr. Mark Showalter (who also discusses his discovery of 
+two new moons of Pluto) and a discussion of the Planck Mission results 
+(examining the afterglow of the Big Bang). Coming soon, a talk by 
+former NASA Astronaut Ed Lu about the proposed Sentinel mission to 
+help defend us against dangerous asteroids.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EPSC CALL FOR ABSTRACTS
+
+Dear Colleagues,
+
+The abstract submission for the European Planetary Science Congress, 
+organized 27 September – 02 October 2015 in Nantes, France, is open, 
+and the deadline for abstracts is 29 April 2015.
+
+We invite you to submit abstracts to our (co-organized) session 
+GP2/TP11/EX7 "Aerosols and clouds in planetary atmospheres" organized 
+this year for the first time!
+
+http://meetingorganizer.copernicus.org/EPSC2015/session/19663
+
+Atmospheric aerosols and cloud particles are found in every atmosphere 
+of the solar system, as well as, in exoplanets. Depending on their 
+size, shape, chemical composition, latent heat, and distribution, 
+their effect on the radiation budget varies drastically and is 
+difficult to predict. When organic, aerosols also carry a strong 
+prebiotic interest reinforced by the presence of heavy atoms such as 
+nitrogen, oxygen or sulfur.
+
+The aim of the session is to gather presentations on these complex 
+objects for both terrestrial and giant planet atmospheres, including 
+the special case of Titan’s hazy atmosphere. All research aspects from 
+their production and evolution processes, their observation/detection, 
+to their fate and atmospheric impact are welcomed, including 
+laboratory investigations and modeling.
+
+Spread the word, and see you in Nantes!
+
+With best regards,
+The conveners Nathalie Carrasco, Panayotis Lavvas, Anni Määttänen
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+49TH ESLAB SYMPOSIUM: EXPLORING THE UNIVERSE WITH JWST
+
+Dear Colleague,
+
+We are pleased to announce the 49th ESLAB Symposium: Exploring the 
+Universe with the James Webb Space Telescope (JWST), taking place from 
+October 12-16, 2015 at ESA-ESTEC, The Netherlands. The ESLAB Symposium 
+will be an international conference dedicated to the presentation and 
+discussion of future scientific research that will be enabled by the 
+James Webb Space Telescope. 
+
+The conference will cover a broad range of scientific topics that will 
+be organized in the following categories: 
+
+- The end of the “dark ages”: first light and reionisation
+- The assembly of galaxies
+- The formation and evolution of stars and planets
+- Planetary systems and the origins of life (exoplanets)
+- Our Solar system
+
+Registration & Abstract Submission are available at: 
+
+http://congrexprojects.com/15a02 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+FACT SHEET - CONNECTING PHYSICS STUDENTS TO CAREER OPPORTUNITIES
+
+The AIP’s Statistical Research Center has posted a new report:
+
+http://www.aip.org/statistics/reports/fact-sheet-connecting-physics-
+students-career-opportunities
+
+This report is a guide created by the Career Pathways Project (CPP) 
+and is designed to enhance the work being done by career services 
+professionals with physics undergraduates and physics faculty members. 
+This document provides tips on resume writing, identifies some of the 
+skills developed during the typical undergraduate physics experience, 
+lists common job titles held by recent physics bachelor’s degree 
+recipients, and offers suggestions for effective career advising of 
+physics undergraduates.
+
+The CPP was a collaboration of the Education Division and the 
+Statistical Research Center, both of the American Institute of 
+Physics. The Career Pathways Project was supported by the National 
+Science Foundation.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JOB OPENING - DIRECTOR, CERNAN EARTH AND SPACE CENTER
+
+River Grove, IL (Chicago)
+ 
+Triton College, a comprehensive two year institution located in a near 
+western suburb of Chicago, is seeking a Director, Cernan Earth and 
+Space Center. 
+ 
+The Director supervises all aspects of the Cernan Earth and Space 
+Center, including the production of sky theater programs, the 
+preparation of budgets, supervision of full and part time staff, and 
+the planning and implementation of long term projects to promote 
+maximum utilization of the Space Center by Triton College, nearby 
+schools and the general public.  
+ 
+Qualifications:
+Bachelor's degree or equivalent. Possible major areas of study may be 
+astronomy, science communications, museum/theater management, business 
+management or similar field. Background in astronomy is essential. 
+Minimum five years experience in a public oriented planetarium or multi 
+media theater, in progressively responsible position, including at 
+least one year in a supervisory capacity. Background knowledge in 
+astronomy and space science is essential; knowledge of personnel issues 
+necessary to manage professional staff members; demonstrated knowledge 
+and competence in multi media production and mass communication. 
+ 
+For more information about the Cernan Earth and Space Center, visit: 
+
+http://www.triton.edu/cernan/
+ 
+To apply, visit: 
+
+http://www.triton.edu/hr
+ 
+Triton College is an EO/AA institution.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s 
+missions in Earth science, heliophysics, astrophysics, planetary 
+science, astrobiology, space bioscience, aeronautics and engineering, 
+human exploration and operations, and space technology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17903
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter:  
+
+http://bit.ly/1Kjlmyr
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+REMINDER: VEXAG MEETING #12 
+
+Thursday, April 9, 2015, Hampton, VA
+
+VEXAG meeting #12 will be held on Thursday, April 9, 2015 at the 
+National Institute of Aerospace, just outside NASA’s Langley Research 
+Center. This follows the 2-day Venus Science Priorities for Laboratory 
+Measurements and Instrument Definition Workshop also held at the 
+National Institute of Aerospace.
+ 
+A preliminary agenda is available at VEXAG Web-Site:
+
+http://www.lpi.usra.edu/vexag/
+
+Key items for this meeting will be progress reports on NASA 
+Headquarters and VEXAG activities as well as reports on Venus Express, 
+Ataksuki, and other opportunities for international collaboration. 
+Posters on technologies for Venus missions are invited.
+ 
+If you’ll be attending in person and haven’t done so already, please 
+enter your name on the Meeting Registration /Intent to Attend Form on 
+the VEXAG Web-Site: 
+
+https://www.hou.usra.edu/meeting_portal/registration/
+index.cfm?mtg=vexag2015
+ 
+Audio conferencing:
+U.S. Toll-Free 1-844-467-4685; U.S. Local/Toll 1-720-259-7012
+Pass Code  5813913422 / Conference ID 2771783
+ 
+WebEx:
+To join the meeting (Now from mobile devices!)
+1. Go to: 
+
+https://nasa.webex.com/nasa/j.php?MTID=
+me2b9f49a75405f998a56bdb87d2f06f1
+
+2. If requested, enter your name and email address.
+3. If a password is required, enter the meeting password: C@T123456!
+4. Click "Join".
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+DIRECTOR, NASA ASTROBIOLOGY INSTITUTE (NAI)
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI).  
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future. Applicants for this position should have a 
+broad scientific perspective on astrobiology, experience in conducting
+interdisciplinary scientific research, and demonstrated skills needed 
+to harness the strengths of disparate research communities towards a 
+greater goal. She/he should understand how to grow a research endeavor 
+and respond to changing budget climates while focusing on maximizing 
+the scientific return on NASA’s investments in astrobiology. He/she 
+should have experience in leading a diverse staff ranging from 
+established scientists to support personnel, resource planning, and 
+executing budgets and schedules. He/she should be comfortable with 
+modern information technologies and distributed research teams. NASA 
+is particularly interested in applicants who will find ways to infuse 
+astrobiology into NASA flight missions.
+
+Interested individuals should apply directly to USAJobs at: 
+
+http://www.usajobs.gov 
+
+by May 1, 2015. In the keyword search box, type vacancy number 
+“AR15S0001”. Select “Director, NASA Astrobiology Institute”, then 
+click “Apply Online”.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+DPS HAS PARTNERED WITH MENTORNET
+
+Members of the planetary science community are invited to participate 
+in the acclaimed e-mentoring program MentorNet. Both mentors and 
+mentees (protégés) can take advantage of this program, which provides 
+a detailed matching algorithm, and guides for getting the most out of 
+a mentoring relationship. This is an opportunity to participate in 
+professional development activities with other DPS members throughout 
+the year. The program is very flexible, mentors and protégés always 
+have options when being paired, and they mutually decide on the 
+frequency of communication during the recommended four month mentoring 
+cycle (with the option to renew or select a new mentor/mentee at the 
+end of the cycle). 
+
+We are seeking both mentors and protégés to sign up in spring 2015.  
+At this point in time we particularly need mentors! Anyone can be a 
+mentor or a protégé at any stage of their career. To create a profile 
+and select “Division of Planetary Sciences” as your affiliation 
+(even if you are not an official member), visit:
+
+http://MentorNet.net 
+
+The required online training takes ~30 minutes, but can be done in 
+sections. This assures that mentors and protégés start off with 
+similar expectations about the mentoring relationship. 
+
+Contact Kelsi Singer (ksinger@boulder.swri.edu) or Karly Pitman 
+(pitman@spacescience.org) with questions or for more info.​
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+GRADUATE STUDENT OPPORTUNITY: HAMPTON UNIVERSITY 
+
+Hampton University Dept. of Atmospheric and Planetary Science and NASA 
+Exoplanet Systems Science (NExSS) seek energetic explorers looking to 
+conduct cutting-edge research into the past, present and future of 
+planetary atmospheres while pursuing advanced degrees (MS and PhD) in 
+Planetary Science. Successful applicants (rolling deadline until 
+June 1 for Fall 2015 enrollment) will join the Living, Breathing 
+Planet team that includes four university partners, NASA, and the 
+National Institute of Aerospace. Our goal is to understand how planets 
+interact with the space environment and parent stars to develop or 
+lose habitable atmospheres over time. As part of NExSS, we are one of 
+sixteen teams building the future of exoplanet studies, and you can be 
+a part of that future. More information and application instructions 
+at:
+
+http://sol.hamptonu.edu/?project=the-living-breathing-planet
+
+Any interested student should contact the following faculty members:
+Bill Moore <william.moore@hamptonu.edu>
+Kunio Sayanagi <kunio.sayanagi@hamptonu.edu>
+Nicholas Gray Heavens <nicholas.heavens@hamptonu.edu>
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new additions.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

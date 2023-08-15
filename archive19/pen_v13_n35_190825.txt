@@ -1,0 +1,256 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 35 (August 25, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: OSIRIS-REx Release 3 - OCAMS and OVIRS Data at Bennu
+2. Comets III:  A Proposed New Volume in the Space Science Series
+3. Post-Doctoral Research Assistant at the Florida Space Institute/
+   University of Central Florida in Small-Body Planetary Sciences
+4. [NASA] ROSES-19: MDAP Due Dates Delayed
+5. GBO, NRAO, and LBO Seek Planetary Scientists for Proposal Review
+   Panels
+6. Postdoctoral Opportunities in Chile
+7. Assistant Professor Position in Boise State Physics
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: OSIRIS-REX RELEASE 3 - OCAMS AND OVIRS DATA AT BENNU
+
+This release of OSIRIS-REx data includes:
+
+- OCAMS (OSIRIS-REx Camera Suite) raw and calibrated data
+- OVIRS (OSIRIS-REx Visible and InfraRed Spectrometer) raw and
+calibrated data
+
+This completes the Bennu Delivery 1, which includes most but not all
+of Bennu Approach.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190819.shtml
+
+or more directly from
+
+https://sbn.psi.edu/pds/resource/orex/
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+Thank you for subscribing to the PDS Notification Service.
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COMETS III: A PROPOSED NEW VOLUME IN THE SPACE SCIENCE SERIES
+
+Call for Expressions of Interest
+
+A decade-and-a-half has passed since the publication of Comets II,
+edited by Michel Festou, Uwe Keller, and Hal Weaver. Substantial
+advancements in the field by groundbased observers, spacecraft
+missions, and theoretical modelers amply motivate the organization of
+Comets III as a proposed new volume in the University of Arizona Press
+Space Science Series under the editorial production guidance of the
+Lunar and Planetary Institute. Chapters for Comets III would be due in
+2022 with the volume being published in 2023.
+
+An open call is being made for expressions of interest to participate
+in Comets III as authors, members of the scientific organizing
+committee, and/or editors. To indicate your interest, download, fill
+out, and submit an indication of interest form:
+
+https://www.lpi.usra.edu/publications/books/Comets_III/
+
+Please submit your responses no later than October 15, 2019. Questions
+may be addressed to the General Editor of the Space Science Series,
+Richard Binzel (rpb@mit.edu).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POST-DOCTORAL RESEARCH ASSISTANT AT THE FLORIDA SPACE INSTITUTE/
+UNIVERSITY OF CENTRAL FLORIDA IN SMALL-BODY PLANETARY SCIENCES
+
+The Florida Space Institute (FSI) at the University of Central Florida
+(UCF) invites applications for a postdoctoral associate position to
+carry out research on the physical processes on the surface of small
+bodies such as asteroids. The position will have a start date before
+November 2019 and is renewable annually for up to three years.
+
+Minimum Qualifications: A Ph.D. from an accredited institution in
+physics, astronomy, astrophysics, planetary sciences, or a related
+field is required.
+
+Preferences: Experience in the following is of interest: Hands-on
+experience in hardware design, manufacturing, and operation;
+
+Laboratory work with cryogenic samples;
+
+Mentoring of undergraduate students;
+
+One or more of the following coding languages: IDL, Python, C, C++,
+Fortran.
+
+EEO Employer: As an equal opportunity/affirmative action employer, UCF
+encourages all qualified applicants to apply, including women,
+veterans, individuals with disabilities, and members of traditionally
+underrepresented populations. UCF's Equal Opportunity Statement can be
+viewed at: 
+
+http://www.oie.ucf.edu/documents/PresidentsStatement.pdf
+
+As a Florida public university, UCF makes all application materials and
+selection procedures available to the public upon request.
+
+All applications and supporting documents should be submitted
+electronically at:
+
+https://jobs.ucf.edu/cw/en-us/job/498004
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-19: MDAP DUE DATES DELAYED
+ 
+The objective of the Mars Data Analysis Program (MDAP) is to enhance
+the scientific return from missions to Mars conducted by NASA and other
+space agencies. MDAP did not specifically mention Insight on the
+non-exclusive list of Missions in Section 1, its inclusion was merely
+implied. This Amendment explicitly adds the name of the Insight mission
+to that list to allow the inclusion of Insight Mission data in
+proposals to MDAP. To allow more time for proposers who were unaware
+that Insight data was eligible, the MDAP due dates have been delayed as
+follows: Step-1 proposals are now due by September 20, 2019 and Step-2
+proposals by November 20, 2019.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2019
+
+and the RSS feed at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-
+2019/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GBO, NRAO, AND LBO SEEK PLANETARY SCIENTISTS FOR PROPOSAL REVIEW PANELS
+
+The science staff at Green Bank Observatory (GBO) would like to recruit
+planetary scientists to serve as proposal reviewers for GBO telescopes,
+as well as telescopes operated by the National Radio Astronomy
+Observatory (NRAO), and the Long Baseline Observatory (LBO). 
+
+Proposals to GBO, NRAO, and LBO for the scientific use of radio
+telescopes are evaluated on the basis of scientific merit and technical
+feasibility using a panel-review system. The system aims to ensure that
+scientifically knowledgeable peers, representing the broad diversity of
+the community at large, provide expert proposal evaluations. 
+
+In response to community concern that planetary science has been
+under-represented on previous panels, NRAO, GBO, and LBO are
+particularly welcoming volunteer panelists who are engaged in Solar
+System science.
+
+More information on the NRAO/GBO/LBO proposal review process can be
+found here:
+
+https://science.nrao.edu/observing/proposal-types/volunteer_review
+
+Please fill out the web form to volunteer here:
+
+https://www.aoc.nrao.edu/~mclausse/newex.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL OPPORTUNITIES IN CHILE
+
+The Chilean FONDECYT opened a call for postdoctoral positions in Chile
+related to projects of 2-3 years. The applicants must already have a
+PhD from January 1st, 2016, to October 1, 2019.
+
+The deadline for application is: September 24th, 2019.
+
+The application can be written in English, please download all the
+zipped documents at the link "Formularios de Postdoctorado 2020 -
+ingles" on the following website:
+ 
+https://www.conicyt.cl/fondecyt/2018/11/15/concurso-postdoctorado-2020
+ 
+The Institute of Astronomy and Planetary Sciences of the University of
+Atacama is interested in supporting applications in the field of
+planetary sciences.
+
+Please contact Prof. Giovanni Leone (giovanni.leone@uda.cl) for any
+information and support.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASSISTANT PROFESSOR POSITION IN BOISE STATE PHYSICS
+
+The Department of Physics at Boise State University seeks applicants
+for a tenure-track physics faculty position in either computational
+astrophysics or computational condensed-matter physics at the rank of
+Assistant Professor. See the following website for details:
+
+https://boisestate.taleo.net/careersection/exfac/jobdetail.ftl?job=
+190686
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 14-16, 2020
+Small Bodies Assessment Group Meeting
+https://www.lpi.usra.edu/sbag/meetings/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

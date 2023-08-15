@@ -1,0 +1,302 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 6, Number 28 (July 1, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+2. Planetary Geophysics Postdoctoral Fellowship
+3. ESA Postdoctoral Fellowships in Space Science
+4. COSPAR Awards and Medals to be Presented
+5. NASA Postdoctoral Fellowships
+6. [NASA] Science Mission Directorate (SMD) Announcements
+7. 2012 GSA Annual Meeting Sessions
+8. AGU Fall 2012 Session: P34. What Lurks in the Martian Rocks and 
+   Soil? Investigations of Sulfates, Phosphates, and Perchlorates 
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS POST-
+DOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical
+interactions between intrusive and extrusive volcanic edifice growth,
+lithospheric flexural response, and magma ascent, using numerical
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery, 
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic processes 
+with advanced codes as COMSOL Multiphysics (FEM) and PFC (DEM).  
+Programming languages, MATLAB or FORTRAN 95 desirable. The position 
+is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu. Further information may be found 
+at:
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a post-
+doctoral fellowship in planetary geophysics.
+ 
+The successful candidate will work with Dr. Walter Kiefer on a NASA-
+funded project studying the nature of mantle convection on Mars and 
+its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct 
+research in planetary geophysics of his or her own choosing.
+ 
+The position requires a Ph.D. in Planetary Science or Geophysics with 
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in a 
+Linux environment will be an asset. The position will be offered for an 
+initial period of two years with a possible extension to a maximum of 
+three years.
+ 
+Applicants should send a letter of interest, a curriculum vita listing 
+relevant publications, a brief (maximum three pages) statement of 
+research interests, and a list of three references to:
+resume@lpi.usra.edu.  
+
+Review of candidates will begin on March 15, 2012, with a hiring 
+decision as soon as possible thereafter.  Further information about LPI 
+can be found at www.lpi.usra.edu.
+ 
+USRA is an Equal Opportunity Employer.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ESA POSTDOCTORAL FELLOWSHIPS IN SPACE SCIENCE
+
+Applications are now solicited for European Space Agency fellowships in 
+space science to begin in the fall of 2013. Preference will be given to 
+applications submitted by candidates within five years of receiving 
+their PhD. Candidates not holding a PhD yet are encouraged to apply, 
+but they must provide evidence of receiving their degree before 
+starting the fellowship.
+
+Areas of research include planetary science, astronomy and 
+astrophysics, solar and solar-terrestrial science, plasma physics and 
+fundamental physics. The fellowships have a duration of two years and 
+are tenable at the European Space Research and Technology Centre 
+(ESTEC) in Noordwijk, Netherlands, or at the European Space Astronomy 
+Centre (ESAC) in Villafranca del Castillo, near Madrid, Spain.
+
+The deadline for applications is 1 October 2012.
+
+More information on the ESA Research Fellowship program in Space
+Science, on the conditions and eligibility, as well as the application
+form can be found on the world-wide web at this address:
+
+http://www.rssd.esa.int/fellowship
+
+Questions on the scientific aspects of the ESA Fellowship in Space 
+Science can be sent by e-mail to the fellowship coordinator, Dr. Guido 
+De Marchi, at the address fellowship@rssd.esa.int.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+COSPAR AWARDS AND MEDALS TO BE PRESENTED
+
+During the 39th COSPAR Scientific Assembly to be held July 14 - 22,
+2012, in Mysore, India, several awards will be presented to various 
+recipients, including:
+
+Space Science Award to Janet Luhmann (USA)
+International Cooperation Medal to Roger-Maurice Bonnet (France)
+Harrie Massey Award to Neil Gehrels (USA)
+Distinguished Service Medal to Peter Willmore (UK)
+
+For more information, see:
+
+http://cosparhq.cnes.fr/Awards/awards.htm
+
+[Edited for content]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] SCIENCE MISSION DIRECTORATE (SMD) ANNOUNCEMENTS
+
+1. SMD has updated the ROSES Summary of Solicitation to include 
+reference to a new SARA FAQ on how ROSES proposals and awards are 
+affected by Public Law 112-55 Section 539(a), which restricts NASA's 
+use of funds for projects involving the People's Republic of China. 
+The new FAQ can be found by going to the normal ROSES FAQ page at:
+
+http://science.nasa.gov/researchers/sara/faqs/#1 
+
+and following the link or by going directly to: 
+
+http://science.nasa.gov/researchers/sara/faqs/prc-faq-roses-2012/
+
+2. SMD has created a new web page on SARA through which we are 
+soliciting volunteer reviewers for upcoming reviews. By this method 
+volunteers can sign up not just for a review, but can indicate a panel 
+or focus area. We are currently seeking panelists and mail-in reviewers 
+for Laboratory Analysis of Returned Samples, Exobiology (Part I), and 
+Moon and Mars Analog Missions Activities. The URL is: 
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+2012 GSA ANNUAL MEETING SESSIONS
+
+The abstract submission deadline for the 2012 GSA Annual Meeting 
+(Charlotte, NC, 4-7 Nov.) is 14 August 2012.  Sessions include:
+
+T147. Tectonics of Icy Bodies and Their Analogs
+T148. Geochemistry, Mineralogy, and Petrology of Mars
+T149. Shock Processes and Shock Attenuation Associated with Hyper-
+      velocity Impact Events
+T150. The Geology of Asteroid 4 Vesta as Seen by Dawn: Results from 
+      One Year in Orbit
+T151. Linking Earth-Observing Data and Planetary Mission Data in the 
+      Teaching and Presentation of Basic Geoscience to K–12 Students, 
+      Teachers, and the General Public
+T152. New Moon Rising: The Latest Geologic Results from the Lunar 
+      Surface
+T153. The Moon, Inside and Out: New Results in Lunar Geophysics, 
+      Structure, and Interior
+T154. Observation and Analysis of Impact Cratering and Its Effects: 
+      The G.K. Gilbert Award Session
+T155. The Heart of an Explorer: A Tribute to Ronald Greeley
+T156. Geologic Analog Studies of the Rocky Planets: Understanding 
+      Planetary Geologic Evolution and Surface Processes
+T157. Gridview Image Manipulation for LOLA and MOLA Topographical Data 
+      (Poster Session Only)
+T158. Impact Cratering in the Solar System: Processes and Products
+Plus others.
+
+Two graduate student travel grants ($500 awards) are available. See: 
+
+http://rock.geosociety.org/pgd/awards.html#_travel 
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU FALL 2012 SESSION: P34. WHAT LURKS IN THE MARTIAN ROCKS AND SOIL? 
+INVESTIGATIONS OF SULFATES, PHOSPHATES, AND PERCHLORATES
+
+Sulfates, phosphates, and perchlorates have been found on Mars from 
+orbit and/or from surface missions.  Identification of these minerals 
+(suites) can enable constraints on the Martian geochemical 
+environments.  This session will generate a discussion regarding the 
+conditions for the formation of these minerals on Mars, and methods for 
+identifying their geological environments and related fluid chemistry.  
+Abstracts describing discoveries of sulfates, phosphates, or 
+perchlorates from surface missions and orbital spacecraft data, and 
+those covering laboratory analyses and thermodynamic modeling relating 
+to the hydration state of these minerals and their stability on Mars 
+are welcome. 
+
+Abstract deadline:  August 8, 2012,  23:59ET/3:59+1 GMT
+
+For abstract submission policies see:
+
+http://fallmeeting.agu.org/2012/scientific-program/abstract-submission-
+policies/
+
+Conveners:
+Melissa Lane(Planetary Science Institute)
+Janice Bishop (SETI Institute/NASA Ames Research Center)
+Darby Dyar (Mount Holyoke College)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings posted.
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

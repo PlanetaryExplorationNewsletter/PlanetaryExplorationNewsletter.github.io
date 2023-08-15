@@ -1,0 +1,160 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 25 (October 7, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Lunar and Planetary Institute Website for the Lunar Science
+   and Exploration Community
+2. VEXAG News - VEXAG Meeting #4 and The Venus Exploration Goals,
+   Objectives, Investigations, and Priorities Document
+3. Final Announcement: Second Landing Site Workshop for the 2009 Mars 
+   Science Laboratory
+4. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW LUNAR AND PLANETARY INSTITUTE WEBSITE FOR THE LUNAR SCIENCE
+AND EXPLORATION COMMUNITY
+
+After a 35-year hiatus, NASA is returning humans to the Moon. To 
+support that activity, the Lunar and Planetary Institute (LPI) has
+developed a new web-based information portal for the lunar science
+and exploration community: 
+
+http://www.lpi.usra.edu/lunar
+
+This new website provides access to everything "lunar" from the 
+earliest Apollo-era documents to the most recent lunar research 
+reports.
+
+Information is organized under specific categories: (1) Lunar 
+Mission Summaries; (2) Apollo-Era Documents; (3) Lunar Samples; 
+(4) Lunar Images; (5) Lunar Surface; (6) Lunar Meteorites; 
+(7) Exploration Strategies; (8) Constellation Hardware; (9) Landing 
+Site Studies; (10) Computational Tools; (11) Educational Products.
+
+Data can also be accessed through a new LPI Lunar Search Engine, 
+which provides links to both USRA-LPI documents and information 
+at other lunar-information sites.
+
+This is a living web-based system. As the exploration initiative 
+grows, the content of this portal will expand appropriately, 
+providing a one-stop source of lunar information.
+
+Highlights of the website include a new Lunar Orbiter Photo Gallery, 
+with new views of over 2600 Lunar Orbiter images, as well as
+lunar-related computational tools, the first of which allows users 
+to calculate the sizes of craters produced on the lunar surface as 
+a function of impact parameters.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+VEXAG NEWS - VEXAG MEETING #4 AND THE VENUS EXPLORATION GOALS,
+OBJECTIVES, INVESTIGATIONS, AND PRIORITIES DOCUMENT
+
+The Venus Exploration Analysis Group (VEXAG) will be holding its 4th
+meeting on Sunday afternoon and Manday, November 4th and 5yth, 2007
+at the Greenbelt Marriot Hotel, Greenbelt, Maryland.  This meeting
+will be held in conjunction with NASA's Workshop on Planetary
+Atmospheres and the Outer Planet Analysis Group (OPAG) meetings,
+which will be at the Greenbelt Marriot Hotel later in that first full
+week of November.  A preliminary agenda is posted on the VEXAG
+web-site:
+
+http://www.lpi.usra.edu/vexag/
+
+The first version  of VEXAG's The Venus Exploration Goals,
+Objectives, Investigations, and Priorities Document is now posted at
+
+http://www.lpi.usra.edu/vexag/reports.html.
+
+This is based on the inputs provided by the scientific community
+during VEXAG meetings 1, 2 and 3 and via email to the VEXAG Steering
+Group. Given the recent successes of the European Venus Express
+orbital mission (which in its first 500 days has thus far returned
+over 1 terabit of data encompassing the planet's surface, atmosphere,
+and surrounding space environments), this report documents the needs
+and requirements for the "Next Steps" in Venus exploration,
+emphasizing in particular the need for in-situ analysis of Venus's
+atmosphere and surface. A variety of mission architectures -
+including balloons, landers, and near-surface aerobotic rovers - are
+outlined.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FINAL ANNOUNCEMENT: SECOND LANDING SITE WORKSHOP FOR THE 2009 MARS 
+SCIENCE LABORATORY
+
+The program and agenda for the second landing site workshop for the 
+2009 Mars Science Laboratory (MSL) is now available online and can be
+viewed at:
+
+http://marsoweb.nas.nasa.gov/landingsites/
+
+and
+
+http://webgis.wr.usgs.gov/msl
+
+The workshop will be held at the Courtyard Marriott in Old Town 
+Pasadena, CA, on October 23-25, 2007. The format will include oral
+presentations and general discussion of the proposed landing sites.
+The primary goal of the second workshop will be to evaluate the
+sites that emerged from the first workshop as well as any new sites
+being proposed.
+
+Revision of the MSL landing site selection schedule requires that 
+the list of sites under consideration be narrowed to five at
+the end of the second workshop. These sites will then be 
+considered in more detail by the MSL Project, Mars Program, and
+the Science Community with the expectation that additional orbital 
+data will be obtained.  An MSL science and engineering criteria
+chart is posted at the above referenced websites and lists the
+landing site attributes that will be discussed and used to help
+distinguish between sites at the workshop.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 14-15, 2007
+NASA Exploration Systems Mission Directorate Technology Exchange 
+Conference
+http://shrinkurls.com/?r=s
+Galveston, TX
+
+January 14-16, 2008
+The First Meeting of the International Primitive Boday Exploration
+Working Group (IPEWG)
+Contact: Hajime Yano (yano@isas.jaxa.jp)
+Okinawa, Japan
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************

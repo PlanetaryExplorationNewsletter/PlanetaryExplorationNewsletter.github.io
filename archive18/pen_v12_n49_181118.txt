@@ -1,0 +1,318 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 49 (November 18, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2019 Pierazzo International Student Travel Award
+2. Ph.D. opportunities in Earth and Planetary Sciences at the 
+   University of Rochester
+3. M.S./Ph.D. positions for Fall 2019
+4. Mars Target Encyclopedia Integrated into MSL Analyst's Notebook
+5. Mars Atmosphere and Volatile Evolution Data Release 15
+6. Centaur Exploration Workshop: The Roots of Activity
+7. Cassini Science Symposium
+8. Postdoctoral Researcher in Planetary Science
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2019 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+Application deadline: 9 PM MST, November 29, 2018
+
+Awards will be announced on or before December 10, 2018
+
+This award is established by the Planetary Science Institute in memory
+of Senior Scientist Betty Pierazzo to support and encourage graduate
+students to build international collaborations and relationships in
+planetary science. Two awards will be made each year, contingent upon
+there being meritorious applications. One will be awarded to a
+graduate student working on his or her Ph.D. at an institution within
+the U.S. This is to support travel to a planetary science related
+meeting (conferences and workshops) outside of the U.S. The second
+award will be to a graduate student working on his or her Ph.D. at an
+institution outside of the U.S. This is to support travel to a
+planetary science related meeting within the U.S. These include
+general meetings that have planetary-focused sessions such as the AGU,
+GSA, EGU and IAG.
+
+The award will consist of a certificate and up to $2000US.
+
+Additional information and application materials are available at:
+
+http://www.psi.edu/pista
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PH.D. OPPORTUNITIES IN EARTH AND PLANETARY SCIENCES AT THE UNIVERSITY 
+OF ROCHESTER
+
+Application Deadline: Jan 15, 2019
+
+Earth and Planetary Science Laboratory group at the University of 
+Rochester seeks highly motivated applicants for Ph.D. degrees. The 
+group performs cutting-edge numerical simulations to model planetary 
+impact processes, formation and evolution of terrestrial planets and 
+moons in the solar and extra solar systems as well as geodynamic 
+processes of planetary interiors. The goal of the research is to 
+deepen our understanding of the planetary systems by combining 
+numerical models with geological, geophysical, geochemical, and 
+astronomical observations. We have dedicated access to high 
+performance computing facilities and a strong connection with the 
+Laboratory for Laser Energetics (LLE) on campus.
+
+Students with strong backgrounds in physics and computer science are 
+encouraged to apply. Applications will be accepted through the 
+Department of Earth and Environmental Sciences: 
+
+http://www.sas.rochester.edu/ees/graduate/apply.html 
+
+and the Department of Physics and Astronomy: 
+
+https://www.pas.rochester.edu/graduate/applying.html
+
+For more information, please contact Professor Miki Nakajima 
+(mnakajima@rochester.edu).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+M.S./PH.D. POSITIONS FOR FALL 2019
+
+I am community sourcing a list of people who are actively in search of 
+M.S./Ph.D. students in planetary science for Fall 2019. If you are such a 
+person, please fill out the following google form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSerZCWHS7_u_K4F6gH8LZKBiyrgJj
+Cl87TA2jowyXXkWZ_o3A/viewform?usp=send_form
+
+Prospective graduate students, please find the resulting list at: 
+
+https://docs.google.com/spreadsheets/d
+/12yRS2c9-eW4DGLcb3cPgZU759gll_QZjnDk-ptlh3k4/htmlview
+
+Dr. Sarah M. Horst
+Assistant Professor
+Department of Earth and Planetary Sciences
+Johns Hopkins University
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS TARGET ENCYCLOPEDIA INTEGRATED INTO MSL ANALYST'S NOTEBOOK
+
+The Analyst's Notebook for Curiosity rover now contains literature
+references to targets captured as part of the Mars Target Encyclopedia 
+(MTE) project developed by the Jet Propulsion Laboratory Machine 
+Learning and Instrument Autonomy Group and funded by the Multimission 
+Ground System and Services (MGSS) program and the Mars Science 
+Laboratory project.
+
+The literature references were extracted automatically from 5,920 
+abstracts published at the Lunar and Planetary Science Conference in 
+2014-2016. They were analyzed using a machine learning model to 
+recognize elements, minerals, and ChemCam targets. Detected elements, 
+minerals, and targets were further analyzed to determine whether a 
+statement about the geochemical composition of the target was present. 
+Manual review of the extracted relations ensures high quality. All 
+relations are stored in the Mars Target Encyclopedia (MTE), which 
+Analyst Notebook users can search to find what has been published 
+about targets, elements, or minerals of interest.
+
+MSL Analyst's Notebook: 
+
+https://an.rsl.wustl.edu/msl
+
+User support via email: an@wunder.wustl.edu
+
+Tom Stein, Planetary Data Systems Geosciences Node
+Kiri Wagstaff, Jet  Propulsion Laboratory
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 15
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 15:
+
+ACCEL (Accelerometer)
+IUVS (Imagining Ultraviolet Spectrometer)
+NGIMS (Neutral Gas and Ion Mass Spectrometer)
+SPICE
+
+ANC, EUV, KP, LPW, MAG, ROSE, SEP, STATIC, SWEA, SWIA data will soon 
+be available.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181115.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CENTAUR EXPLORATION WORKSHOP: THE ROOTS OF ACTIVITY 
+
+Please note updated information.
+
+March 6-8, 2019
+Florida Space Institute, University of Central Florida, Orlando, FL. 
+
+https://cew2019.arc.nasa.gov
+
+NOI, Registration and Abstract Submission: Now Open
+NOI Deadline: November 30, 2018
+Registration and Abstract Submission Deadline: January 7, 2019
+
+This is a workshop addressing the scientific importance and space 
+exploration relevance of active centaurs, with a specific focus on 
+mapping knowledge gaps and paths forward.
+
+In-situ participation will be capped: Consider registering early and 
+submitting an abstract. 
+
+Online participation will be available: Will require registration and 
+notice of acceptance.
+
+The workshop's impetus is two-fold: Advance our understanding of how 
+small bodies originate, evolve and become active beyond Jupiter's 
+orbit; Planning of Earth-based and space-based exploration strategies
+aimed at representative objects of the Centaur population. We will 
+include forward-looking presentations and free discussions to allow 
+for streaming of ideas and encourage inclusive participation. 
+
+We strongly encourage the participation of early career researchers 
+(including graduate students and postdoctoral researchers). We aim 
+for the workshop to result in a white paper and a plan for a 
+multi-wavelength observing campaign. 
+        
+Questions? Please contact the organizers:
+Gal Sarid (gal.sarid@ucf.edu)
+Maria Womack (womack@usf.edu)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CASSINI SCIENCE SYMPOSIUM
+
+The Cassini Project will host a five-day Cassini Science Symposium 
+May 20-24, 2019. The meeting will be held at the Applied Physics 
+Laboratory in Laurel, Maryland.
+
+Abstracts will be due 15 February 2019. Additional information, 
+including the meeting website, will be included in a future notice.  
+For now, please save these dates.  
+
+A combination of invited review talks, contributed oral and poster 
+papers are solicited covering the latest Cassini findings on the 
+Saturn system, including the interpretation and synthesis of results.  
+Sessions will include interdisciplinary talks and will cover the 
+following disciplines: Rings, Titan, Icy Satellites, Magnetospheres 
+and Saturn. Talks emphasizing Saturn-Jupiter synergies are encouraged. 
+Discipline-focused workshops will also be held during the late 
+afternoons. This Symposium can serve as a springboard for future 
+studies and space missions. Future mission posters will be accepted.
+
+We hope to see you there.
+
+Linda J. Spilker
+Chair, Symposium Organizing Committee
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCHER IN PLANETARY SCIENCE
+
+The Department of Physics at the University of Helsinki (Finland) is
+seeking an ambitious postdoctoral researcher to join the Planetary
+System Research Group.
+
+The successful candidate is expected to carry out research within the
+framework of a project entitled "Population-level constraints on
+asteroid interior structure and composition". The aims of the project
+are to i) understand the mechanism leading to the destruction of
+near-Earth objects (NEOs) close to the Sun, ii) develop a
+state-of-the-art model of the near-Earth-object (NEO) population that
+accounts for the thermal and tidal disruption of NEOs, and iii) enable
+and prepare for solar system science with the European Space Agency's
+Euclid mission, currently planned to be launched in 2021.
+
+Applicants should have a Ph.D. in planetary science or a closely 
+related field, and, preferably, experience with numerical modeling of 
+asteroid orbital evolution and/or disruption of asteroids or asteroid
+constituents. In addition, good programming and data analysis skills
+and a demonstrated ability to work both independently and in a team
+are considered highly advantageous.
+
+Deadline for applications is November 30, 2018.
+
+More information about the position including salary and benefits, as
+well as details on how to apply are available at:
+
+https://jobregister.aas.org/ad/09a5e498
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 13-17, 2019
+New Horizons in Planetary Systems with ALMA
+http://www.cvent.com/events/new-horizons-in-planetary-systems
+/event-summary-b476735da0c34d4fa62e81bf27668214.aspx
+Victoria, Canada
+
+June 11-14, 2019
+TRAPPIST-1: Towards the Comparative Study of Temperate Terrestrial 
+Worlds
+https://events.uliege.be/trappist-1/
+Liege, Belgium
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,472 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 22 (May 21, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] SMD: ROSES-2023 Updates Regarding Open Science and Data 
+   Management Plan to Summary of Solicitation and Research Overviews
+2. [NASA] Announcement of Opportunity Solar Terrestrial Probes Program 
+   Dynamical Neutral Atmosphere-Ionosphere Coupling (DYNAMIC) Final 
+   Text Released
+3. [NASA] Mars Atmosphere and Volatile Evolution Data Release 33
+4. Associate Professor in Planetary Exploration at TU Delft
+5. Faculty Position in Remote Sensing or Geomorphology Available at 
+   Khalifa University, Abu Dhabi, UAE
+6. Apply for the Culturally Inclusive Planetary Engagement Workshop in 
+   Mountain View, CA
+7. Abstract Submissions for the Rescheduled Extraterrestrial Materials 
+   Analysis Group Meeting
+8. Webinar: Moon to Mars Architecture
+9. Announcement of New Ocean Worlds Working Group Town Hall
+10. NASA Planetary Data Training Workshop at Arizona State University
+11. Travel Grants and Registration Open for 2023 Hybrid PlanetInsitu 
+    Workshop Within the iCAR Conference
+12. Small Bodies Assessment Group Steering Committee Position
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SMD: ROSES-2023 UPDATES REGARDING OPEN SCIENCE AND DATA 
+MANAGEMENT PLAN TO SUMMARY OF SOLICITATION AND RESEARCH OVERVIEWS
+
+On or about May 15, 2023, Section II(c) of the ROSES-2023 Summary of 
+Solicitation and the six research overviews (A.1, B.1) have been 
+updated in two ways regarding the "Open Science and Data Management 
+Plan" (OSDMP):
+
+1) to include a link to the new SMD Open-Source Science Guidance 
+   document (https://science.nasa.gov/oss-guidance) to help proposers 
+   write their plans and
+
+2) An important clarification regarding software archiving: The method 
+   of archiving software will not result in a weakness for proposals 
+   to ROSES-2023.
+
+Where appropriate, in both the ROSES-2023 Summary of Solicitation and 
+the six research overviews other small updates were also made, such as 
+to the list of program elements and the references to the "Proposer's 
+Guide" (formerly the Guidebook for Proposers). New text is in bold.
+
+Direct general questions concerning the ROSES-2023 Summary of 
+Solicitation to Max Bernstein at SARA@nasa.gov, general questions 
+concerning the OSDMP to HQ-SMD-SPD41@mail.nasa.gov, questions 
+regarding the division overviews to the R&A leads, and questions about 
+particular program elements to their respective point(s) of contact, 
+all of whom may be found at:
+
+https://science.nasa.gov/researchers/sara/program-officers-list/
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ANNOUNCEMENT OF OPPORTUNITY SOLAR TERRESTRIAL PROBES PROGRAM 
+DYNAMICAL NEUTRAL ATMOSPHERE-IONOSPHERE COUPLING (DYNAMIC) FINAL TEXT 
+RELEASED
+
+Number: NNH23ZDA019O
+Release Date: May 19, 2023
+Pre-Proposal Conference Date: June 6, 2023 (target)
+Mandatory Notice of Intent to Propose Due: June 30, 2023
+Proposals Due: August 22, 2023
+
+https://go.nasa.gov/DynamicAO23 
+
+The National Aeronautics and Space Administration (NASA) Science 
+Mission Directorate (SMD) is announcing the release of the final text 
+for the Announcement of Opportunity (AO) for Dynamical Neutral 
+Atmosphere-Ionosphere Coupling (DYNAMIC) under the Solar Terrestrial 
+Probes (STP) Program.
+
+All proposed science investigations must present focused science 
+objectives that address the high-level science goals recommended by 
+the 2013 Decadal Survey for Solar and Space Physics: A Science for a 
+Technological Society.
+
+Prospective investigators from any category of U.S. organizations or 
+institutions are welcome to respond. 
+
+The Science Office for Mission Assessments (SOMA) hosts the official 
+"DYNAMIC Acquisition Homepage" that provides further information, 
+including a Program Library and Q&A pages. SOMA will post inquiry 
+responses at:
+
+https://soma.larc.nasa.gov/STP/DYNAMIC/
+
+A Preproposal Conference will be held in June. SOMA will post the 
+Conference's forthcoming agenda, logistics, date and time 
+confirmation, etc., on the Preproposal Conference page located on the 
+DYNAMIC Acquisition Homepage.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 33
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution) 
+Release 33, nominally with data to February 2023:
+
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from ACCEL (Accelerometer).
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230515.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ASSOCIATE PROFESSOR IN PLANETARY EXPLORATION AT TU DELFT
+
+The Department of Space Engineering (SpE) of TU Delft in The 
+Netherlands has a vacancy for a permanent staff member in planetary 
+sciences and exploration, preferably at the associate professor level.
+
+The proposed position is in the Section of Planetary Exploration (PE). 
+The successful candidate will be involved in further development of 
+SpE research on planetary sciences in connection to spaceborne 
+instrumentation and interplanetary missions. Research within the PE 
+Section is focused on the outer planets and their moons (JUICE, 
+Europa-Clipper, new mission concepts), interiors and surfaces of 
+natural satellites and small planetary bodies, rocky planets 
+(especially Mars), planetary surface processes, planet formation and 
+evolution, and exoplanetary systems.
+
+The SpE department has facilities for building space-based miniprobes 
+and laboratories for instrument development (mainly optical) and 
+planetary ices including a bio-lab (DPLabs), as well as computational 
+facilities. TU Delft is within close range of ESA ESTEC Noordwijk, 
+Airbus Leiden, Leiden Observatory, SRON and TNO Space.
+
+Application deadline is June 15. See the website for further 
+information and online application:
+
+https://tinyurl.com/y6zpxr5r
+
+For more information on the Planetary Exploration section, visit 
+delftplanetary.nl, or contact the section head Prof. Dr. Bert 
+Vermeersen (L.L.A.Vermeersen@tudelft.nl).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FACULTY POSITION IN REMOTE SENSING OR GEOMORPHOLOGY AVAILABLE AT 
+KHALIFA UNIVERSITY, ABU DHABI, UAE
+
+The successful candidate will join the Department of Earth, Planetary 
+and Environmental Sciences, which includes research in Geophysics, 
+Paleontology, Petrology, Planetary Geology, Sedimentology, Atmospheric 
+dynamics, and Structural Geology. We are particularly encouraging 
+applicants with solid background in remote sensing and geomorphology. 
+Expertise in Planetary Geomorphology, and activity in space missions 
+is an advantage. The position is open for Assistant, Associate, and 
+Full Professor ranks. Candidates with planetary science interests may 
+also join KU's Space and Planetary Science Center:
+
+https://www.ku.ac.ae/spsc
+
+All candidates must have earned a Ph.D. degree in Earth Sciences, 
+Planetary Sciences, or a related field, and have at least 3 years of 
+post-doc experience, and a strong research record. 
+
+Khalifa University offers an attractive compensation and benefits 
+package, commensurate with the successful candidate's background and 
+experience.
+
+Please send your application as a single PDF containing a cover 
+letter, CV, publication list, research and teaching statement, and a 
+list of 3 suggested references to Mohamed.elmaarry@ku.ac.ae. Any 
+enquiries can be sent to the same email. Position is available until 
+a selection has been made.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+APPLY FOR THE CULTURALLY INCLUSIVE PLANETARY ENGAGEMENT WORKSHOP IN 
+MOUNTAIN VIEW, CA 
+ 
+Planetary scientists and astrobiologists are invited to apply to 
+attend the Culturally Inclusive Planetary Engagement professional 
+development workshop at the SETI Institute June 22 & 23, 2023. During 
+the two-day workshop, planetary scientists/astrobiologists and 
+informal educators are paired together and supported in bi-directional 
+conversations around diversity and inclusion in engaging Black and 
+Latinx audiences in planetary science. On June 24, participants will 
+lead hands-on activities during a co-designed public engagement event 
+following the workshop held in collaboration with a local 
+youth-serving organization. 
+ 
+During the workshop, participants team-up to:
+- Explore the importance of building equitable partnerships with 
+  organizations, subject matter experts, and informal educators 
+  serving Black and Latinx audiences
+- Learn evidence-based culturally relevant authentic approaches to 
+  nurture connections with Black and Latinx individuals
+- Practice planetary science engagement approaches through a 
+  culturally inclusive lens
+ 
+The deadline to apply is May 22, 2023. Space is limited to 10 informal 
+educators and 10 scientists. Stipends are available for participants 
+able to accept them. More information, including a link to the 
+application, is available online at:
+
+https://www.lpi.usra.edu/planetary-reach/workshops/seti/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ABSTRACT SUBMISSIONS FOR THE RESCHEDULED EXTRATERRESTRIAL MATERIALS 
+ANALYSIS GROUP MEETING
+
+Abstract submissions for the rescheduled Extraterrestrial Materials 
+Analysis Group (ExMAG) meeting (August 1-3, 2023) are due Thursday, 
+May 18, 2023. ExMAG invites members of the sample science community to 
+present posters on extraterrestrial material collections and 
+laboratory facilities used to analyze returned and collected 
+extraterrestrial samples. This virtual meeting will be open to the 
+public and scheduled over three six-hour days. The meeting will 
+include updates from NASA HQ and curation as well as reports on the 
+collections, sample return activities in progress and planned, 
+advanced curation methods, NASA funding and facilities, and data 
+archiving. There will be a virtual poster session and social event 
+where community members can exchange information about 
+extraterrestrial materials collections, curation, and analysis 
+facilities. For more information, visit:
+
+https://www.lpi.usra.edu/exmag/meetings/exmagapril2023/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+WEBINAR: MOON TO MARS ARCHITECTURE
+
+NASA will be hosting a virtual webinar at 2 p.m. EDT, Monday, May 22, 
+in which ESDMD leadership will discuss how U.S. commercial industry, 
+academic communities, international partners, and others can 
+contribute to NASA's evolving Moon to Mars architecture approach.
+
+The webinar will review the documents released in April and preview a 
+June workshop that we are currently planning for invited commercial 
+companies and academic institutions to share feedback on NASA's 
+architecture. More information about the Moon to Mars Architecture and 
+the processes that feed into the Architecture Definition Document can 
+be found here:
+
+https://www.nasa.gov/MoonToMarsArchitecture
+
+The link and registration is now live at the link below. When you 
+register you will get an email for your outlook calendar. 
+
+Webinar Registration Link:
+
+https://tinyurl.com/bde4m8mw
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ANNOUNCEMENT OF NEW OCEAN WORLDS WORKING GROUP TOWN HALL
+
+The newly-formed Ocean Worlds Working Group (OWWG) is pleased to 
+announce its inaugural virtual town hall meeting, on June 29 from 
+9-10:30 AM PT. Please join us at (password: 2VnQs63KsMi):
+
+https://jpl.webex.com/jpl/j.php?MTID=mb83a70b016ba9b468762f28ade20c070
+
+Before our meeting, we are asking the community to provide input on 
+the future direction of the OWWG at:
+
+https://forms.gle/pAkGE61rY5GXrwKM9
+
+You can also find out more about the OWWG and join our mailing list at:
+
+https://www.lpi.usra.edu/owwg/
+
+Thanks for your interest in the future of ocean world exploration!
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA PLANETARY DATA TRAINING WORKSHOP AT ARIZONA STATE UNIVERSITY
+
+We will be holding a second NASA Planetary Data Training (PDT) 
+Workshop at Arizona State University on August 8-11, 2023. This 
+workshop is in-person only, and will focus on hands-on training with 
+JMARS and ArcGIS Pro, and demos with ISIS3 for image processing, 
+planetary data management, and structure from motion stereo 
+photogrammetry.
+
+The registration and travel grant applications for the August 8-11 PDT 
+Workshop is now open at:
+
+https://rgcps.asu.edu/gis-pdtw-2023-Aug/
+
+We will have more virtual and hybrid training events later in 2023 and 
+in 2024. Please contact David Williams at David.Williams@asu.edu for 
+questions.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TRAVEL GRANTS AND REGISTRATION OPEN FOR 2023 HYBRID PLANETINSITU 
+WORKSHOP WITHIN THE ICAR CONFERENCE
+
+Folks are invited to participate in the second 2023 hybrid workshop on 
+Optimizing Planetary In Situ Surface-Atmosphere Interaction 
+Investigations (PlanetInsitu), held in conjunction with the 
+International Conference on Aeolian Research (ICAR). This one-day 
+workshop, held virtually and in Las Cruses, NM on Saturday, July 15 
+(following ICAR) will include lightning talks about instrument and 
+operations concepts under-development, panel discussions about 
+observation site selection considerations and avoiding 
+spacecraft-induced perturbations. All community members interested in 
+participating in the Saturday presentations/discussion can register 
+(for free) at:
+
+https://tinyurl.com/2pmazzk7
+
+As we can accommodate a limited number of virtual attendees, those 
+that would observe only should wait for recordings of the workshop to 
+be posted on the PlanetInsitu website:
+
+http://planetinsitu.space/
+
+and the ICAR conference website:
+
+https://www.icarxi.com/
+
+And for those interested in attending in-person and able to 
+demonstrate a relevant technology during the ICAR fieldtrip on July 
+12, please indicate this on the registration and note the link for 
+travel grants available for U.S. persons, with deadline May 31. 
+Please send any questions to Serina Diniega, 
+serina.diniega@jpl.nasa.gov.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+SMALL BODIES ASSESSMENT GROUP STEERING COMMITTEE POSITION
+
+The Small Bodies Assessment Group (SBAG) has extended the application 
+period for its open Human Exploration Lead Steering Committee (SC) 
+position (3-yr term) due to low response rate. The SC organizes SBAG 
+meetings, writes official findings, and takes a leadership role in 
+activities where community input is needed.
+
+The Human Exploration Lead is an individual actively involved in 
+studying human exploration (or adjacent tasks in support of that 
+endeavor), aware of current challenges and advances in the field, to 
+lead SBAG activities relevant to human exploration. Under their 
+guidance, SBAG will continue advancing our knowledge of potential 
+small body destinations and their environments for human exploration.
+
+The application requires: 1) a two-page CV, including a description of 
+participation in SBAG or other small bodies organizations, 2) a short 
+(300 words maximum) statement of interest. Selection criteria
+include participation in small bodies community organizations, 
+leadership experience, and relevant research/mission experience.
+
+In support of diversity, applicants may specify gender, whether they 
+belong to an underrepresented group in STEM, or other relevant
+information.
+
+E-mail applications to Lori Feaga (feaga@astro.umd.edu) by May 31, 
+8:00 PM EDT. New members will be announced at the 29th Meeting of SBAG.
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+A Long-lived Lunar Magnetic Field Powered by Convection in the Core
+and a Basal Magma Ocean
+Saira S. Hamid et al. 2023 PSJ 4:88
+https://doi.org/10.3847/PSJ/accb99
+
+Lunar Laser Ranging Retroreflectors: Velocity Aberration and
+Diffraction Pattern
+James G. Williams et al. 2023 PSJ 4:89
+https://doi.org/10.3847/PSJ/acbeab
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

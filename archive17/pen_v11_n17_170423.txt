@@ -1,0 +1,288 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 17 (April 23, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Europa Lander Town Hall at AbSciCon
+2. Roadmaps to Ocean Worlds (ROW) Townhall at AbSciCon
+3. Lunar and Small Bodies Graduate Conference 2017
+4. Ph.D. Opportunity in Martian Geochemistry
+5. Lunar Reconnaissance Orbiter Diviner GCPs
+6. NASA Frontier Development Lab Call for Applicants
+7. Postdoctoral Position in Planet Formation at SwRI Boulder
+8. [NASA] New Internet Addresses for PDS Discipline Nodes
+9. Summer School in Software Systems for Astronomy 
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EUROPA LANDER TOWN HALL AT ABSCICON
+
+The previous notice of the NASA Town Hall at AbSciCon to discuss the 
+Europa lander SDT report neglected to provide a date. The town hall is 
+Sunday, April 23, at 12:30 PM MST=PDT. The webex information is once 
+again given below. For questions please contact Dr. Curt Niebur at 
+curt.niebur@nasa.gov.
+
+Webex information
+
+Meeting Link: 
+
+https://nasa.webex.com/nasa/j.php?MTID
+=m87b0c6e539ca2b2adbaa81438321ca4a
+
+Meeting number: 992 222 852
+
+Meeting password: W@lc0m31
+
+Audio connection:
+
+Teleconference #: 888-989-9784
+
+Participant Passcode: 7070481
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ROADMAPS TO OCEAN WORLDS (ROW) TOWNHALL AT ABSCICON
+
+The Roadmaps to Ocean Worlds (ROW) team was chartered by OPAG to 
+identify science objectives for Ocean Worlds and to design a roadmap 
+(or roadmaps) to explore these worlds to address the identified science 
+objectives. We will be holding a ROW townhall at AbSciCon (Monday, 
+April 24, 12:15-1:15PM) to share our progress and allow for 
+astrobiology community input. We hope to see you there!
+
+Amanda Hendrix (arh@psi.edu)
+Terry Hurford (terry.a.hurford@nasa.gov)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LUNAR AND SMALL BODIES GRADUATE CONFERENCE 2017 
+
+Abstract Subsmission Deadline: June 2
+
+Registration is now open for the 8th Annual Lunar and Small Bodies 
+Graduate Conference (LunGradCon 2017) to be held on Monday, July 17, 
+2017 at the NASA Ames Research Center, preceding the NASA Exploration 
+Science Forum (ESF, July 18-20). With the expanded interests of the 
+Solar System Exploration Research Virtual Institute (SSERVI), the 
+scope of this year's LunGradCon includes both lunar and small body 
+science. LunGradCon provides an opportunity for grad students and 
+early-career postdocs to present their research on lunar and small 
+body science in a low-stress, friendly environment, being critiqued 
+only by their peers. In addition to oral presentations, the conference 
+presents opportunities for professional development and networking with 
+fellow grad students and postdocs, as well as senior members of SSERVI. 
+A limited amount of funding will be provided for travel and lodging 
+costs. The deadline for registration and abstract submission is June 2, 
+2016, 11:59 PM PDT. Note the abstract deadline for ESF is April 19.
+
+For more details, please visit:
+
+http://impact.colorado.edu/lungradcon/2017/ 
+
+or email any questions to: lungradcon@gmail.com
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PH.D. OPPORTUNITY IN MARTIAN GEOCHEMISTRY
+
+Wesleyan University has funding for a student to complete a Ph.D. in 
+the Department of Chemistry with a Concentration in Planetary Science.
+The program of study will be tailored to include a relevant geoscience 
+curriculum. The proposed project is to create a series of Mars 
+analogue brines and precipitate them under terrestrial and martian 
+conditions in a Mars chamber. Visible - near-infrared spectra of the 
+precipitates will then be compared to similar data collected in Mars 
+orbit. The research will be under the tutelage of Prof. Gilmore in the 
+Dept. of Earth and Environmental Sciences. The opening is available for 
+Fall of 2017. Please apply to the Chemistry Department at: 
+
+http://www.wesleyan.edu/grad/  
+
+Applications will be reviewed as they are received. More information 
+about Planetary Sciences at Wesleyan may be found at:
+
+http://www.wesleyan.edu/planetary/  
+
+Please direct all inquiries to: 
+
+Prof. Martha Gilmore  
+mgilmore@wesleyan.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LUNAR RECONNAISSANCE ORBITER DIVINER GCPS
+
+The Diviner Lunar Radiometer Experiment onboard the Lunar 
+Reconnaissance Orbiter has been acquiring solar reflectance and 
+mid-infrared radiance measurements of the lunar surface nearly 
+continuously since July 2009. All nadir-pointing observations acquired 
+over the first 5.5 years of the mission, approximately a quarter 
+trillion calibrated radiance measurements, have been compiled into a 
+0.5 degree resolution global data set with a 0.25 hour local time 
+resolution. This provides a coarse diurnal temperature cycle for each 
+map pixel location. These Global Cumulative Products (GCPs) have been 
+released as a new Diviner data set on the NASA Planetary Data System 
+Geosciences Node
+
+http://pds-geosciences.wustl.edu/lro/diviner.htm
+
+This data set significantly lowers the level of effort for data 
+users to incorporate Diviner results into their research or 
+presentations. Maps generated with this data set provide a global 
+perspective of the Moon's surface energy balance. Further details of 
+the data set and how it can be applied to conduct lunar science can 
+be found in Williams et al (2017), The global surface temperatures of 
+the Moon as measured by the Diviner Lunar Radiometer Experiment, 
+Icarus, 283, 300-325, and will be presented at the 3rd Planetary Data 
+Workshop occurring June 12-15 in Flagstaff, AZ.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA FRONTIER DEVELOPMENT LAB CALL FOR APPLICANTS
+
+NASA Frontier Development Lab (FDL) has announced its 2017 challenges 
+and opened the application process for participants. 
+
+FDL is looking for planetary scientists and computer or data 
+scientists with hands-on skills in machine learning, DNNs and other 
+algorithmic approaches.
+
+Applicants must have a masters, doctorate or post-doc level of 
+understanding in this year's problem areas (Heliophysics, Astronomy, 
+Exogeology, Data Science, Software Engineering or Advanced Statistics). 
+
+Hosted by the SETI Institute and NASA Ames, FDL is an artificial 
+intelligence accelerator established to tackle knowledge gaps in 
+space science by bringing together machine learning expertise and 
+physical science specialists. Interdisciplinary teams address 
+tightly defined problems and the format encourages rapid iteration 
+and prototyping to create outputs with meaningful application.
+
+The 2017 8-week program will accept 24 participants and will run 
+June 26 - August 18, 2017.
+
+To learn more about FDL, the 2017 challenge questions, and to apply, 
+please visit the FDL website at frontierdevelopmentlab.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL POSITION IN PLANET FORMATION AT SWRI BOULDER
+
+There is an open postdoctoral research position open at Southwest 
+Research Institute's office in Boulder Colorado to work with Hal 
+Levison and Kevin Walsh on a variety of topics related to Planet 
+Formation. More details and application information can be found at:
+
+https://resapp.swri.org/ResApp/Job_Search_Results.aspx?DETAIL=15-01225
+
+and
+
+https://resapp.swri.org/ResApp/Job_Search_Results.aspx?DETAIL=15-01226 
+
+Contact:
+
+Kevin Walsh: kwalsh@boulder.swri.edu
+
+Closing date: Open until filled - review of candidates begins 
+10-May-2017
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] NEW INTERNET ADDRESSES FOR PDS DISCIPLINE NODES
+
+Due to evolving government cybersecurity requirements, the Internet 
+addresses (URLs) of five Discipline Nodes of the Planetary Data System 
+(PDS) have changed. The new URLs are:
+
+Atmospheres (http://pds-atmospheres.nmsu.edu)
+Geosciences (http://pds-geosciences.wustl.edu)
+Planetary Plasma Interactions (http://pds-ppi.igpp.ucla.edu)
+Ring-Moon Systems (http://pds-rings.seti.org)
+Small Bodies (https://pds-smallbodies.astro.umd.edu)
+
+The URLs for the Engineering and Management Nodes, and the Navigation 
+and Ancillary Information Facility have not changed.
+
+The PDS apologizes for any disruptions that these changes cause.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+Registration is now open for the 4th offering of Software Systems for 
+Astronomy. The course covers software design and implementation of 
+telescope and instrument control systems, observation planning tools, 
+and software for analyzing and archiving astronomical data. SSfA-4 will 
+be offered as a two week intensive course this summer, 24-Jul to 
+04-Aug, 2017, on the Big Island of Hawaii.
+
+To register, visit the following web page and follow the instructions 
+(UHH students skip steps 1-4):
+
+ http://astro.uhh.hawaii.edu/Summer/Summer-2017
+/summer2017.php#Special_Summer_Note
+
+The course number is ASTR394. For more information visit:
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2017/summer2017.php
+
+or send email to aconrad@hawaii.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 24-August 4, 2017
+Summer School in Software Systems for Astronomy 
+http://astro.uhh.hawaii.edu/Summer/Summer-2017/summer2017.php
+Hilo, HI
+
+October 15-20, 2017
+49th Annual Division for Planetary Sciences Meeting
+https://aas.org/meetings/dps49
+Provo, UT
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

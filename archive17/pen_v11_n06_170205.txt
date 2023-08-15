@@ -1,0 +1,308 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 6 (February 5, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2017 AGU Fellows Nominations Open
+2. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 5
+3. Planetary Geomorphology 'Image of the Month'
+4. AMA for the New ESA Planetary Science Archive Interface
+5. Final Announcement for the Shock Metamorphism Workshop
+6. Extension for Submission Deadline for Icarus Special Issue for Mars 
+   Polar Science Conference
+7. JpGU-AGU 2017 Session P-PS02: Small Bodies - Exploration of the 
+   Asteroid Belt and the Solar System at Large
+8. Summer Internships at Johns Hopkins Applied Physics Lab (APL)
+9. IAVCEI Session I.1: Planetary Volcanology
+10. MPC User Committee
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2017 AGU FELLOWS NOMINATIONS OPEN
+
+The 2017 AGU Fellows nominations is now open. The deadline for 
+submission is set for 15 March 2017. The timeline for the 2017 
+nominations and committee work is posted at:ite: 
+
+http://honors.agu.org/fellows/
+
+Some of these dates may change as we move along the process. 
+
+Sarah T. Stewart
+President, AGU Planetary Section 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR and TER RELEASE 5
+
+PDS announces the fifth release of Mars Reconnaissance Orbiter CRISM 
+Targeted Empirical Data Record (TER) and Map-projected Targeted 
+Reduced Data Record (MTRDR) products, at:
+
+http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from Dec. 22, 2006, through July 20, 2008. 
+TER products are image cubes derived from CRISM hyperspectral targeted 
+observations, post-processed to standardize the illumination and 
+observations geometry and remove atmospheric gas absorptions and 
+instrument artifacts. MTRDRs are the same data map-projected using 
+terrain models of the Martian surface. The next TER/MTRDR release is 
+scheduled for May 1, 2017.
+
+Alternatively:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170131.shtml
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The February image of the month is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Everything you wanted to know about Martian 
+scoria cones, but were afraid to ask...".
+
+Post contributed by Dr. Petr Broz, Institute of Geophysics of the Czech 
+Academy of Science.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology 
+
+or Twitter @PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AMA FOR THE NEW ESA PLANETARY SCIENCE ARCHIVE INTERFACE
+
+OpenPlanetary will host an "Ask Me Anything" (AMA) with Sebastien Besse 
+and Isa Barbarisi, respectively Science and Technical Leads of the 
+ESA's Planetary Science Archive, to answer questions and receive 
+feedback about the new user interface and its future development.
+
+The AMA online event will take place on the OpenPlanetary Slack 
+(channel: #ama-new-esa-psa) between 5pm and 6pm CET on the 2nd of 
+March 2017.
+
+Please find more information at: 
+
+http://openplanetary.co/blog/community/ama-new-esa-psa.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FINAL ANNOUNCEMENT FOR THE SHOCK METAMORPHISM WORKSHOP
+
+2017 International Workshop on: Shock Metamorphism in Terrestrial and 
+Extra-Terrestrial Rocks will be held June 26 - July 2 in Perth, 
+Australia, including a field trip to the Wolfe Creek crater in Western 
+Australia.
+
+We invite researchers of all backgrounds and interests in studying 
+shock effects in geologic media and impact-related processes in the 
+solar system for this four-day multi-disciplinary workshop.
+
+Early bird registration is now open and submissions close 1st May 2017.
+
+More info: 
+
+http://www.sserviaustralia.org/event/shock-metamorphism-in-terrestrial
+-and-extra-terrestrial-rocks/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EXTENSION FOR SUBMISSION DEADLINE FOR ICARUS SPECIAL ISSUE FOR MARS 
+POLAR SCIENCE CONFERENCE
+
+As a participant in the recent Sixth Mars Polar Conference, we'd like 
+to let you know that we have extended the deadline for papers for the 
+Conference Special Issue in the journal Icarus. The new due date is 
+1 March. We hope this enables as many of you as possible to consider 
+submitting your scientific work to the special issue.
+
+Papers submitted after the deadline are not guaranteed to be in the 
+special issue. They may be sent to Icarus for normal review.
+
+We thank those who have already submitted papers and NOIs and 
+encourage other interested parties to email us to let us know if you 
+are intending to submit a paper.
+
+Regards,
+
+Adrian Brown (abrown@seti.org)
+Mike Sori (michael.sori@gmail.com)
+Isaac Smith (ibsmith@psi.edu)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JPGU-AGU 2017 SESSION P-PS02: SMALL BODIES - EXPLORATION OF THE 
+ASTEROID BELT AND THE SOLAR SYSTEM AT LARGE
+
+May 20-25, Makuhari Messe
+
+http://www.jpgu.org/meeting_e2017/
+
+Abstract deadline: February 16, 2017 05:00PM JST (UTC/GMT +9hours)
+
+Small Solar System bodies, including asteroids, comets, satellites, 
+and interplanetary dust particles have undergone a recent scientific 
+renaissance with new observations that have greatly expanded our 
+understanding of the origin and evolution of our Solar System. This 
+new information comes from telescopic data, and in-situ observations 
+with spacecraft carrying high resolution instruments sensing IR, 
+visible, UV, X-rays, gamma ray photons and neutrons. In addition, 
+Hayabusa 1 has returned samples to earth and Hayabusa 2 and OSIRIS-REx 
+have been sent to return more. In this session, all contributions on 
+small solar system bodies are welcome. We welcome all contributions 
+on recent advances in the study of asteroids whether obtained by 
+rendezvous spacecraft, sample return, analysis of meteorites, remote 
+sensing and laboratory research on analogous materials.
+
+Conveners:
+
+Eleonora Ammannito (UCLA),
+Taishi Nakamoto (Tokyo Institute of Technology),
+Masanao Abe (Institute of Space and Astronautical Science, Japan 
+Aerospace Exploration Agency),
+Christopher T. Russell (UCLA),
+Sei-ichiro Watanabe, (Division of Earth and Planetary Sciences, 
+Graduate School of Science, Nagoya University)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SUMMER INTERNSHIPS AT JOHNS HOPKINS APPLIED PHYSICS LAB (APL)
+ 
+APL is looking for the next generation of explorers! The 2017 APL NASA 
+Intern Program provides unique opportunities for university students 
+to work on NASA missions or other space-related research projects. The 
+internship program runs 10 weeks in the summer and applications are 
+due March 26; however, selections are made on a continuous basis, so 
+interested students should apply as early as possible. More information 
+is available at:
+
+http://www.jhuapl.edu/NASAIntern/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+IAVCEI SESSION I.1: PLANETARY VOLCANOLOGY
+
+We invite you to submit an abstract to our Planetary Volcanology 
+session at the IAVCEI 2017 Scientific Assembly in Portland, OR on 
+August 14-18, 2017.
+
+Volcanic activity is a hallmark of almost every large solid-surface 
+body in the Solar System. Giant volcanoes dominate the surfaces of 
+Venus, Mars, enormous calderas are abundant on Io, and large igneous 
+provinces are major physiographic features of Mercury and the Moon. 
+Each of these bodies also boasts evidence of pyroclastic activity, and 
+evidence of the interplay of volcanic and tectonic processes is 
+widespread. In the outer Solar System, numerous icy satellites (and a 
+dwarf planet) display evidence indicative of cryovolcanic activity. In 
+this session, we solicit contributions exploring the myriad styles of 
+volcanic landforms and processes on Solar System bodies (planets, 
+moons, or asteroids) using field observations, remotely sensed data, 
+laboratory or numerical simulations, or some combination thereof.
+
+Please submit your abstract here: 
+
+http://iavcei2017.org/abstract.html
+
+The submission deadline is March 17, 2017.
+
+Conveners:
+Paul K. Byrne (NCSU)
+DelWayne R. Bohnenstiehl (NCSU)
+Patrick J. McGovern (LPI)
+
+We look forward to seeing you in Portland!
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MPC USER COMMITTEE
+
+The Minor Planet Center (MPC) has become a functional sub-node of the 
+Small Bodies Node (SBN) of NASA's Planetary Data System (PDS). As part 
+of that transition, we are creating a User's Advisory Group for the 
+MPC. We would like to include both data providers to the MPC and users 
+of the data produced by MPC. We would also consider an orbital 
+dynamicist who compares his/her results with those of the MPC. At this 
+point we would like to solicit both volunteers and nominees from the 
+community. We anticipate an annual face-to-face meeting at the MPC 
+(in Cambridge, MA) and intervening electronic meetings perhaps 2 or 3 
+times per year. International, i.e., non-US, members are welcome but we 
+can not use NASA funds for the travel of international members. Please 
+contact both Matt Holman, Director of the MPC, and Mike A'Hearn, PI of 
+the PDS Small Bodies Node, with a very brief statement of your, or your 
+nominee's, relevance to the committee. See the web pages for the MPC: 
+
+http://www.minorplanetcenter.net/iau/mpc.html 
+
+and/or the SBN: 
+
+http://pdssbn.astro.umd.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 14-18, 2017
+International Association of Volcanology and Chemistry of the Earth's 
+Interior (IAVCEI) 2017 Scientific Assembly
+http://iavcei2017.org
+Portland, OR
+
+October 16-20, 2017
+Transformative Science for the Next Decades with the Green Bank 
+Observatory: Big Questions, Large Programs, and New Instruments 
+http://greenbankobservatory.org/transformative-science/
+Green Bank, WV
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

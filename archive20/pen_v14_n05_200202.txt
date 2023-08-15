@@ -1,0 +1,848 @@
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AAS Call for Information: Publication Policy and General Codes of 
+   Conduct for Consortia and Mission Teams
+2. Job Opportunity: Planetary Science Public Engagement at NASA GSFC
+3. COSPAR Session B0.4: Technologies for Planetary Research
+4. COSPAR Session B5.3: Ocean Worlds - Europa, Enceladus, Titan, and 
+   Beyond
+5. COSPAR Session B5.4: Ice Giant Systems
+6. Goldschmidt Session 14g: Weathering - Long-Term Terrestrial Climate 
+   Change, Modern Quantification, and Implications for Extraterrestrial 
+   Environments
+7. Goldschmidt Session 1B: From Abiotic to Biotic - Exploring the 
+   Possible (Bio)Geochemistry of a Habitable Mars
+8. Cycle 1 Call for Proposals for the James Webb Space Telescope (JWST)
+9. Postdoc Position in Planetary Science at Caltech
+10. [NASA] Draft of SpaceTech-REDDI-2020 Appendix F1: Tech Flights 
+    Released
+11. National Academies' Planetary Science and Astrobiology Decadal 
+    Survey: Statement of Task
+12. Early Career Professionals and the Planetary Science and 
+    Astrobiology Decadal Survey
+13. Planetary Science and Astrobiology Decadal Survey Town Hall
+14. Planetary Defense Inputs for the Decadal Survey: An Opportunity for 
+    the Planetary Defense Community to Help Protect the Future
+15. 8th Virtual MEPAG Meeting (VM8)
+16. Public Lectures on New Developments in Astronomy on YouTube
+17. Nominations Open for ASP Education Awards
+18. Free Resource Guides for Astronomy Education
+19. Big Picture Science Radio Show
+20. Ph.D. or M.S. Opportunity in Climate Resilience
+21. Postdoctoral Scholar Position at Northern Arizona University in 
+    Planetary Science
+22. Planetary Geomorphology Image of the Month
+23. Hera Workshop 
+24. [NASA] Open Position at NASA Headquarters: Mars Sample Return 
+    Program Director, Science Mission Directorate
+25. MER Data Catalog Survey
+26. OPAG: Agenda for the February 2020 Meeting Now Available
+27. NASA Planetary Data System (PDS) Data Release Calendar 2020 Now 
+    Posted
+28. Workshop: Observatory for the Outer Heliosphere, Heliosheath, and 
+    Interstellar Space
+29. Planetary Meeting Calendar Additions
+
+Commercial Announcements:
+
+C1. Book: Astronomy
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AAS CALL FOR INFORMATION: PUBLICATION POLICY AND GENERAL CODES OF 
+CONDUCT FOR CONSORTIA AND MISSION TEAMS
+
+The "Ethics Process" Task Force of the American Astronomical Society is 
+collecting 'best practice' documents for consortia and mission teams in 
+regards to Publication Policy and general Codes of Conduct. Submissions 
+can be treated as confidential if desired (although the task force will 
+need permission from the team lead to use them), and credit will be 
+given to everyone who helps.
+
+Topics that the group is interested in learning about, which might be 
+called a code of conduct, 'rules of the road', or a memorandum of 
+understanding) might include:
+
+* the approval process for a paper to be published (or for a project to 
+  be started) based on data from the project.
+* the process for someone to be appointed lead for a specific topic
+* the process for access to proprietary data
+* the policy for who are co-authors, and in what order
+
+Read more at:
+
+http://womeninastronomy.blogspot.com/2020/01/call-for-information
+-publication-policy.html  
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JOB OPPORTUNITY: PLANETARY SCIENCE PUBLIC ENGAGEMENT AT NASA GSFC
+
+The Solar System Exploration Division at NASA's Goddard Space Flight 
+Center is seeking a new public engagement team member to support their 
+planetary science missions and research teams.
+
+The new hire will initially support public engagement activities for 
+NASA's Lunar Reconnaissance Orbiter mission and two teams in NASA's 
+Solar System Exploration Research Virtual Institute (SSERVI), and 
+coordinate logistics for planetary science field campaigns to remote 
+locations, as well as public engagement efforts, for Goddard's 
+Instrument Field Team.
+
+https://sesda.com/careers/ss096-science-outreach-and-logistics
+-coordinator/
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+COSPAR SESSION B0.4: TECHNOLOGIES FOR PLANETARY RESEARCH
+
+43rd COSPAR Scientific Assembly 
+Sydney, Australia 
+August 15-23, 2020
+
+To accomplish the goals of Planetary research in the next decade more 
+complex missions, instruments, and space vehicles are being envisioned. 
+In addition, the advent of disruptive technologies such as Autonomy and 
+CubeSats/SmallSats brings new opportunities to achieve scientific 
+discoveries previously considered out of reach. This session explores 
+diverse technologies that can enable new instruments and missions that 
+survive and operate in extreme environments from the Moon to the inner 
+and outer reaches of the Solar System, enable swarms of spacecraft to 
+collect scientific data throughout our Solar System, drill through ice, 
+determine if life is present on planetary bodies, increase data rates 
+from distant bodies and much more.
+
+Abstract deadline: February 14, 2020
+
+https://www.cospar-assembly.org/
+
+Patricia M. Beauchamp (JPL-Caltech), 
+patricia.m.beauchamp@jpl.caltech.edu
+
+Jean-Pierre Lebreton, jean-pierre.lebreton@cnrs-orleans.fr
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+COSPAR SESSION B5.3: OCEAN WORLDS - EUROPA, ENCELADUS, TITAN, AND 
+BEYOND
+
+Please consider submitting an abstract to the Ocean Worlds Session at 
+the 43rd COSPAR Scientific Assembly on August 15-22 in Sydney, 
+Australia.
+
+Solar System exploration stands on a precipice, offering the 
+opportunity to search for signs of life in one or more of the ocean 
+worlds of the Outer Solar System in the coming decades. This event 
+welcomes papers describing one or more of the confirmed or potential 
+ocean worlds that harbor subsurface oceans of liquid water and/or, for 
+Saturn's moon Titan, surface reservoirs of liquid hydrocarbon and 
+solid organics. These bodies represent targets for future standalone 
+and cooperative missions led by the major space agencies in the quest 
+to understand the potential for life in the Solar System. Submissions 
+that describe new observations of ocean properties, stimulate/describe 
+future observations, or review our current state of knowledge are 
+encouraged. We also welcome laboratory investigations and future 
+mission plans that could extend our understanding of the habitability 
+of the outer Solar System. Presentations will include a mix of 
+solicited and contributed papers.
+
+Abstract deadline: February 14, 2020
+
+https://www.cospar-assembly.org/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+COSPAR SESSION B5.4: ICE GIANT SYSTEMS
+
+We invite abstract submissions for the COSPAR 2020, Session B5.4: Ice 
+Giant Systems to be held in Sydney, Australia, 15-22 August 2020. This 
+session will cover all aspects of the Uranus and Neptune systems, 
+including interiors, atmospheres, magnetospheres, rings, and 
+satellites. We welcome presentations spanning these themes, as well as 
+those on future mission architectures and enabling technologies to make 
+missions to these tantalising destinations a reality. We would also 
+welcome presentations that discuss the cross-disciplinary importance of 
+a future mission to an Ice Giant, including (but not limited to) the 
+fields of exoplanetary science and heliophysics).
+
+Abstracts are due February 14 at: 
+
+https://www.cospar-assembly.org/
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GOLDSCHMIDT SESSION 14G: WEATHERING - LONG-TERM TERRESTRIAL CLIMATE
+CHANGE, MODERN QUANTIFICATION, AND IMPLICATIONS FOR EXTRATERRESTRIAL
+ENVIRONMENTS
+
+Please consider submitting an abstract to our session at the 
+Goldschmidt 2020 conference to be held on June 21-26 in Honolulu.
+
+Abstracts are due by midnight February 14 (Hawaii Standard Time).
+
+We seek contributions from three main areas: (1) Quantification and 
+understanding of modern weathering regimes, with connections to 
+terrestrial soil and marine sediment formation, the impact of local 
+lithology (e.g., basaltic volcanic arcs vs. siliciclastic river deltas) 
+on weathering rates and chemistry, and changes as a result of 
+anthropogenic activities. (2) Connections between silicate weathering, 
+Severse weathering, and climate change on various timescales, e.g., 
+glacial-interglacial cycles of the late Pleistocene, long-term changes 
+over the Cenozoic, or early Earth/Archean, and how these changes are 
+being constrained from geologic records (i.e., isotopic tracers of 
+weathering). (3) Understanding weathering, fluid/rock interaction, 
+and/or soil formation regimes in extraterrestrial environments (e.g., 
+Mars and Titan), and how these processes may be related to climate and 
+hydrology, habitability, and respective evolution through time.
+
+For more information, and to submit an abstract, please go to: 
+
+https://goldschmidt.info/2020/
+
+See you in Honolulu!
+
+Mohit Melwani Daswani (JPL, California Institute of Technology)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GOLDSCHMIDT SESSION 1B: FROM ABIOTIC TO BIOTIC - EXPLORING THE POSSIBLE 
+(BIO)GEOCHEMISTRY OF A HABITABLE MARS
+
+Abstract deadline is February 14:
+
+https://goldschmidt.info/2020
+
+Geochemical evidence from meteorites and spacecraft have revealed that 
+from its earliest history, Mars has hosted potentially habitable 
+environments and a diverse organic chemical inventory. These 
+observations have enabled a paradigm shift in our understanding of 
+Martian carbon geochemistry and how that might relate to the emergence 
+and persistence of life of Mars. With a potential Mars sample return on 
+the horizon, renewed global effort is warranted to integrate current 
+and emerging knowledge on the evolution of Mars, its capacity to 
+support life, the conditions required for life's emergence, and 
+advanced geochemical approaches to yield accurate records of planetary 
+conditions including the potential role of abiotic reactions and 
+possibly biology in elemental cycles. By understanding these cycles and 
+setting an abiotic background, robust hypotheses can be developed to 
+test for evidence of Martian life if it ever existed. We invite 
+submissions that address mission, laboratory, analog, and experimental 
+efforts to inform hypotheses on abiotic or biotic influences on Mars 
+and their impact on geochemical cycling of biogenic elements, 
+especially carbon.
+
+Michael Tuite, Ken Williford, Andrew Steele, and Marc Fries
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CYCLE 1 CALL FOR PROPOSALS FOR THE JAMES WEBB SPACE TELESCOPE (JWST)
+
+Proposals are due May 1, 2020. The announcement of opportunity is at:
+
+http://www.stsci.edu/contents/news/jwst/2020/the-jwst-cycle-1-call-for
+-proposals-is-now-reopened
+
+Full details about proposing can be found at:
+
+https://jwst-docs.stsci.edu/jwst-opportunities-and-policies
+/jwst-call-for-proposals-for-cycle-1
+
+Future updates regarding the Call can be found at:
+
+http://www.stsci.edu/jwst/news-events/news
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOC POSITION IN PLANETARY SCIENCE AT CALTECH
+
+Applications are invited for a postdoc position in Caltech's Division 
+of Geological and Planetary Sciences. The successful applicant will 
+collaborate with Professor de Kleer's research group on the development 
+of surface models for satellites and small bodies for interpretation of 
+multi-wavelength thermal observations. For more information see the job 
+listing at: 
+
+http://www.gps.caltech.edu/about/work/postdoctoral-positions
+/postdoctoral-position-planetary-science
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] DRAFT OF SPACETECH-REDDI-2020 APPENDIX F1: TECH FLIGHTS RELEASED
+
+This is an Appendix to the NASA Research Announcement "Space Technology 
+Research, Development, Demonstration, and Infusion-2020 
+(SpaceTech-REDDI-2020)," 80HQTR20NOA01. The purpose of the Appendix is 
+to facilitate rapid demonstration of promising technologies for space 
+exploration and the expansion of space commerce through suborbital 
+testing with industry flight providers, thereby maturing capabilities 
+needed for NASA missions and commercial applications while 
+strategically investing in the growth of the U.S. commercial 
+spaceflight industry.
+
+NASA is requesting feedback from the research community and industry 
+flight providers regarding all aspects of this draft Appendix. 
+Comments may be submitted by email to the Flight Opportunities Program 
+Executive, Christopher Baker, at HQ-STMD-FO@nasaprs.com, with subject 
+line of the email to read "Comments on Tech Flights Draft Appendix." 
+The comment period ends at 5:00 p.m. Eastern Time on February 14, 2020. 
+The final version of the Appendix is scheduled to be released on or 
+about February 28, 2020.
+
+Go to:
+
+https://tinyurl.com/NASA-20FO-DRAFT
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NATIONAL ACADEMIES' PLANETARY SCIENCE AND ASTROBIOLOGY DECADAL SURVEY: 
+STATEMENT OF TASK
+
+The National Academies of Science, Engineering, and Medicine and NASA's 
+Science Mission Directorate have reached consensus on the statement of 
+task for the next decadal survey in planetary science and astrobiology.  
+The National Academies' Space Studies Board is currently preparing a 
+proposal to execute the agreed-upon tasks and the survey will be 
+formally initiated as soon as funding has been received from NASA. 
+Details can be found at:  
+
+https://sites.nationalacademies.org/SSB/SSB_198165
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+EARLY CAREER PROFESSIONALS AND THE PLANETARY SCIENCE AND ASTROBIOLOGY 
+DECADAL SURVEY
+
+Please join us at the kick-off event for the early career program of 
+the Decadal Survey in Planetary Science and Astrobiology on Sunday, 
+March 15, from 10:00 a.m. to 12:00 p.m. at The Woodlands Waterway 
+Marriott Hotel and Convention Center. Come learn about the decadal 
+survey, engage with the experts, and ask questions. The first hour will 
+focus on addressing questions such as: What is a decadal survey? What 
+is the role of a decadal survey? Why are they so important to NASA and 
+Congress? How do I get involved? While the second hour will be an open 
+forum and an opportunity to ask questions. Free registration for this 
+event available at: 
+
+http://sgiz.mobi/s3/Early-Career-Event 
+
+Note: LPSC registration is not required to participate in this event.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE AND ASTROBIOLOGY DECADAL SURVEY TOWN HALL
+
+Join us for a update on the planning for and organization of the 
+decadal survey on Monday, March 16, in Waterway 1-3 at the Woodlands 
+Waterway Marriott Hotel and Convention Center between 12:00 and 
+1:15 p.m. Open to all LPSC attendees. 
+
+Note: LPSC registration is required to participate in this event.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY DEFENCE INPUTS FOR THE DECADAL SURVEY: AN OPPORTUNITY FOR THE 
+PLANETARY DEFENCE COMMUNITY TO HELP PROTECT THE FUTURE
+
+Every ten years, at the request of NASA and the National Science 
+Foundation, the National Research Council conducts a "decadal study" 
+for Planetary Science. The content of the study is used to design 
+Planetary Science programs based on community views and consensus via 
+submittal of relevant white papers (individual or team authorship). 
+Collections for the 2022 Planetary Science decadal study will commence 
+in 2020, and this cycle will include Planetary Defense (PD) efforts.
+
+Whitepaper content may include, for example, potentially hazardous 
+object characterization methods and modeling, mission concepts, 
+subjects that may be impactful for future PD activities, efforts to 
+close strategic knowledge and technology gaps, etc.
+
+The whitepaper submission due date is anticipated for July 2020. To 
+facilitate community discussion, NASA Goddard Space Flight Center and 
+the Johns Hopkins University Applied Physics Laboratory will host a 
+workshop March 9-11, 2020 in Columbia, Maryland. Please send interest 
+in workshop participation to Ruthan Lewis, Ph.D. 
+(ruthan.lewis@nasa.gov).
+
+Updates with additional details about the workshop, whitepaper 
+submission, etc., will be provided when available.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+8TH VIRTUAL MEPAG MEETING (VM8)
+
+Friday, February 28, 2020
+
+10:30 am-12:30 pm PST 
+1:30 pm-3:30 pm EST
+
+I cordially invite you to participate in the next virtual meeting (VM8) 
+of the Mars Exploration Program Analysis Group (MEPAG), scheduled on 
+Friday, February 28th, 2020, at 10:30 am-12:30 pm PST (1:30 pm-3:30 pm 
+EST).
+
+Agenda items are expected to include updates about recent MEPAG 
+activities, including Decadal Survey preparations, and the MEP Update. 
+Additional reports will include the ongoing Goals Document revisions 
+by MEPAG Goals Chair, Dr. Donald Banfield and a PDS Update. The VM8 
+agenda will be shared within a few weeks on the MEPAG meeting website: 
+
+http://mepag.nasa.gov/meetings.cfm
+ 
+This meeting is open to all members of the Mars science community 
+including our international colleagues, and I look forward to your 
+participation.
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+[Edited for length]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PUBLIC LECTURES ON NEW DEVELOPMENTS IN ASTRONOMY ON YOUTUBE
+
+New lectures have been posted, free of charge, on the Silicon Valley 
+Astronomy Lectures YouTube site, including:
+
+* Eliot Quataert on the first image ever taken of a black hole
+* Jeff Moore on the New Horizon encounter with the most distant object 
+  we have ever visited
+* Kevin Hand on ocean worlds in our Solar System
+* Claire Max on how adaptive optics shows us a sharper universe.
+
+These (and many other non-technical illustrated talks recorded in HD) 
+can be found at: 
+
+http://youtube.com/SVAstronomyLectures  
+
+The series has 2.9 million views world wide.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+NOMINATIONS OPEN FOR ASP EDUCATION AWARDS
+
+The Astronomical Society of the Pacific welcomes nominations by March 1 
+for two awards in astronomy education:
+
+* The Thomas Brennan Award for excellence in high-school astronomy 
+  teaching
+* The Klumpke-Roberts Award for outstanding contributions to the public 
+  understanding of astronomy.
+
+For more information, and links to the new on-line nomination site, 
+go to: 
+
+https://astrosociety.org/who-we-are/awards/
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+FREE RESOURCE GUIDES FOR ASTRONOMY EDUCATION
+
+Updated resource guides for astronomy educators (and their students or 
+audiences) have been posted on line. They include:
+
+The Contributions of Women to Astronomy: 
+
+http://bit.ly/astronomywomen
+
+Web Resources for Debunking Astronomical Pseudo-science Claims: 
+
+http://bit.ly/pseudoastro
+
+Annotated Catalog of 250+ Pieces of Music Inspired by Astronomy: 
+
+http://bit.ly/astronomymusic
+
+Science Fiction Stories with Good Astronomy (An Annotated Guide 
+Organized by Topic): 
+
+http://bit.ly/astroscifi 
+
+You can find other guides at: 
+
+http://www.fraknoi.com/resource-guides-on-astronomy-education/
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+BIG PICTURE SCIENCE RADIO SHOW
+
+Big Picture Science, a weekly radio program hosted by Seth Shostak and 
+Molly Bentley, and produced at the SETI Institute, features segments 
+on many aspects of science and its interactions with popular culture, 
+done with verve and humor. You can search for topics or guests and 
+download segments free of charge at: 
+
+http://radio.seti.org/episodes
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PH.D. or M.S. OPPORTUNITY IN CLIMATE RESILIENCE
+
+Auburn University seeks M.S. and Ph.D. students to apply for the newly 
+funded $3M NSF Research Traineeship (NRT) Climate Resilience Program. 
+Domestic/permanent resident graduate students applying to Auburn can 
+apply for up to two years of project support ($34,500 stipend/yr and 
+tuition/fees paid). Additionally, international students and students 
+already supported by the university can apply as non-funded Trainees 
+still benefiting from the innovative interdisciplinary project. We seek 
+excellent students that want to help make the SEUS more resilient to 
+climate change related hazards through conducting interdisciplinary 
+research working with and communicating to both stakeholders and the 
+public. Programs associated with the NRT include the Earth System 
+Science Ph.D. Program in the Department of Geosciences. To learn more 
+about the project and to apply, please go to:  
+
+https://aub.ie/NRT 
+
+Applications are due on March 15, 2020. Students must be accepted to an 
+Auburn University M.S. or Ph.D. program and the graduate school to be 
+qualified as an NRT Trainee. Please contact the project PI, Dr. Karen 
+McNeal (Karen.mcneal@auburn.edu) with any questions. For questions 
+about planetary and/or impact-related projects in collaboration with 
+this program, also please contact Prof. David King 
+(kingdat@auburn.edu).
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+POSTDOCTORAL SCHOLAR POSITION AT NORTHERN ARIZONA UNIVERSITY IN 
+PLANETARY SCIENCE
+
+The Edwards Research Group in the Department of Astronomy and Planetary 
+Science at Northern Arizona University seeks a postdoctoral scholar to 
+join the research team. The Edwards Group works primarily on 
+characterizing the surfaces of rocky planets and instrument 
+development. Specifically, we seek candidates to help determine the 
+surface roughness of Bennu from the OSIRIS-Rex Thermal Emission 
+Spectrometer and develop a thermal correction utilizing this roughness 
+model to correct longer wavelength (greater than ~2.6um) OSIRIS-REX 
+Visible and InfraRed Spectrometer data. The successful candidate is 
+expected to publish scientific papers and, as appropriate, submit 
+proposals for external funding.
+
+Minimum Qualifications:
+
+* A Ph.D. in geoscience/remote sensing/planetary science or a related 
+  field
+* Experience with investigations of planetary surfaces, especially 
+  the Moon, Mars, or Bennu
+* Experience with thermal modeling or spectral modeling of planetary 
+  surfaces
+
+Preferred Qualifications:
+
+* Experience using laboratory/field instruments to address 
+  outstanding problems in geoscience/planetary science
+* A strong working knowledge of laboratory and spacecraft 
+  spectroscopic methods
+
+Applications must include a curriculum vitae, statement of research 
+interests, and contact information for three professional references.
+
+Application deadline: March 3, 2020 @ 11:59PM MST
+
+For questions, please contact: Christopher.Edwards@nau.edu
+
+https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/HRS_HRAM.HRS
+_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1
+&JobOpeningId=604820&PostingSeq=1
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The February image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Martian elusive Pits and the challenge of 
+working remotely". Contributed by Dr. Andreas Johnsson, University of 
+Gothenburg, Sweden.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+HERA WORKSHOP
+
+Nice (France), April 20-22, 2020
+
+The Hera mission (ESA), which will perform the first rendezvous with a 
+binary asteroid and measure precisely the outcome of the NASA DART 
+impact on the binary's moon, has been approved by ESA Member States in 
+November 2019 in the new Space Safety Program for launch in 2024.
+
+The main objective of the workshop is to present and discuss current 
+status of the ongoing activities in support and preparation to the Hera 
+mission. It also offers the small body community the possibility to 
+discuss possible contributions to the different working groups that 
+have been defined to support the mission development and data 
+interpretation.
+
+The venue is the Hotel Saint-Paul in Nice and a block of bedrooms has 
+been kept for participants. A form can be downloaded on the workshop 
+website to book a bedroom at preferential rate (deadline on 
+February 16, 2020).
+
+See:  
+
+https://www.cosmos.esa.int/web/hera-community-workshop
+
+Registration will open in mid-February, and the deadlines for 
+registration and other information will be provided in a second 
+announcement. The Hera meeting is followed by another workshop 
+devoted to the asteroid Apophis on April 23-24, 2020 at the same 
+venue: 
+
+https://www.hou.usra.edu/meetings/apophis2020/
+
+Patrick Michel and Michael Kueppers
+
+[Edited for length]
+
+
+24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24
+
+[NASA] OPEN POSITION AT NASA HEADQUARTERS: MARS SAMPLE RETURN PROGRAM
+DIRECTOR, SCIENCE MISSION DIRECTORATE
+
+From: Lori S. Glaze, NASA Planetary Science Division Director
+
+NASA is pleased to announce that the application deadline for the 
+Science Mission Directorate's Mars Sample Return Program Director will 
+be extended until 4 March 2020. To find a detailed description of this 
+Senior Executive position and additional information on qualifications 
+and application procedures, please visit USAJobs:
+
+https://www.usajobs.gov/GetJob/ViewDetails/556552400
+
+The vitality of NASA science programs is dependent upon the best people 
+working for and with the Science Mission Directorate and I encourage 
+those interested in strategic leadership of this important program to 
+apply to this opportunity.
+
+
+25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25
+
+MER DATA CATALOG SURVEY
+
+The goal of the Mars Exploration Rovers (MER) Data Catalog Project is 
+to make it easy and simple for researchers who were not members of the 
+MER team (as well as the general public) to discover and use Spirit and
+Opportunity data. We are conducting a survey to find out what features
+potential users would like to see in the catalog. We would appreciate
+it if you would take the survey, which should take ~5-10 minutes, by
+going to:
+
+http://www.merdatacatalog.com/survey
+
+In addition to completing the survey yourself, please pass the link on
+to anyone who might want to use MER data. We're hoping to hear from
+Mars-focused and non-Mars-focused planetary scientists, Earth
+scientists, high school teachers, undergraduates, engineers, museum
+workers, and anyone at all who might be interested in working with MER
+data.
+
+Conducting a survey constitutes experimenting on humans, so we have
+sought and received approval for the survey from Cornell University's
+Institutional Review Board (IRB) Office. The survey does not collect
+any identifying information, and all data will be presented in
+aggregate. It will be open through April 2020; we will present interim
+results collected by February 29th 2020 at LPSC.
+
+
+26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26
+
+OPAG: AGENDA FOR THE FEBRUARY 2020 MEETING NOW AVAILABLE
+
+The final agenda for the February 3-4, 2020, OPAG meeting is now 
+posted.
+
+Please visit:
+
+https://www.lpi.usra.edu/opag/meetings/upcoming
+/OPAG_agenda_Feb2020vs_29Jan_ToPost.pdf
+
+
+27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27
+
+NASA PLANETARY DATA SYSTEM (PDS) DATA RELEASE CALENDAR 2020 NOW POSTED
+
+The Planetary Data System (PDS) has posted its Data Release Calendar 
+for 2020 at:
+
+https://pds.nasa.gov/datasearch/subscription-service
+/data-release-calendar.shtml
+
+The PDS Data Release Calendar is a searchable and sortable table of 
+important dates associated with all PDS data releases in the current 
+calendar year. The calendar includes anticipated release dates for 
+mission data, actual release dates updated as they occur, and links 
+to pages for more information and to download the data. Users can use 
+the calendar to determine which data are acceptable for use in NASA 
+ROSES proposals. However, the final authority on data acceptability for 
+any ROSES opportunity rests with the designated Program Officer for 
+that opportunity as identified in the ROSES call. 
+
+
+28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28
+
+WORKSHOP: OBSERVATORY FOR THE OUTER HELIOSPHERE, HELIOSHEATH, AND 
+INTERSTELLAR SPACE
+
+Thursday, Friday, May 21-22, 2020
+LASP-SPSC, University of Colorado, Boulder
+
+With both Voyager spacecraft in interstellar space, the IBEX and the 
+upcoming IMAP missions imaging the outer boundaries of the heliosphere, 
+and New Horizons in the outer heliosphere, it is an ideal time to 
+combine resources from these missions and modeling efforts. This 
+workshop seeks input aimed at developing plans to maximize the use of 
+these observations and their comparison to models, plus plan any 
+operational changes that can maximize the return from these missions.
+
+Further information - and please register - here:
+
+http://lasp.colorado.edu/home/mop/resources/hosted-meetings
+/outer-heliosphere-workshop/
+
+LOC Fran Bagenal (CU-LASP)
+SOC Co-Chairs Heather Elliott (SwRI), Ralph McNutt, Jr (JHUAPL)
+
+
+29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 28, 2020
+8th Virtual MEPAG Meeting (VM8)
+http://mepag.nasa.gov/meetings.cfm
+Online
+
+April 20-22, 2020
+Hera Workshop
+https://www.cosmos.esa.int/web/hera-community-workshop
+Nice, France
+
+May 21-22, 2020
+Workshop on Observatory for the Outer Heliosphere, Heliosheath, and 
+Interstellar Space
+http://lasp.colorado.edu/home/mop/resources/hosted-meetings
+/outer-heliosphere-workshop/
+Boulder, CO
+
+August 5-7, 2020
+11th Planetary Crater Consortium Meeting
+https://www.hou.usra.edu/meetings/crater2020
+Honolulu, HI
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+BOOK: ASTRONOMY
+
+Senior Contributing Authors
+Andrew Fraknoi, Foothill College
+David Morrison, NASA Ames Research Center
+Sidney C. Wolff, National Optical Astronomy Observatory
+
+Astronomy is designed to meet the scope and sequence requirements of 
+one- or two-semester introductory astronomy courses. The book begins 
+with relevant scientific fundamentals and progresses through an 
+exploration of the Solar System, stars, galaxies, and cosmology. The 
+Astronomy textbook builds student understanding through the use of 
+relevant analogies, clear and non-technical explanations, and rich 
+illustrations. Mathematics is included in a flexible manner to meet 
+the needs of individual instructors.
+
+This is published by the non-profit OpenStax project at Rice 
+University (part of a national program to reduce college costs), has 
+now had over 300,000 readers, and has been adopted in more than 700 
+institutions. A new library of 1,100 multiple-choice questions is now 
+available to adopters, and a free open-resource hub has over 30 helpful 
+ancillary materials. A new app makes free downloading on phones and 
+tablets easier. Paper copies of the book are available for $58.
+
+Go to: 
+
+http://openstax.org/details/astronomy
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

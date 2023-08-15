@@ -1,0 +1,430 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 5, Number 45 (October 9, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Charles P. "Chuck" Sonett, 1924-2011
+2. [NASA] Planetary Science Subcommitee to Discuss Impacts to FY12 
+   Planetary Budget
+3. [NASA] Concepts for the Next NASA X-ray Astronomy Mission:  
+   Corrections
+4. [NASA] Request for Applications for X-Ray Community Science Team
+5. [NASA PDS] Cassini Data Release 27: ISS and VIMS
+6. [NASA PDS] Odyssey Data Release 37
+7. Mars Exploration Science Monthly Newsletter
+8. Planetary Geomorphology Image of the Month
+9. COSPAR and Women in Aerospace Europe Sign a Cooperation Agreement
+10. AbSciCon 2012 Proposal Requests
+11. Postdoctoral Researchers in Lunar Science
+12. Announcement: Europa Lander Open Forum
+13. The NASA Postdoctoral Program
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CHARLES P. "CHUCK" SONETT, 1924-2011
+
+It is with deep sadness that we note yet another loss to our community 
+this year with the recent passing of Chuck Sonett. Chuck was the first 
+Planetary Science Department head at the University of Arizona, 
+succeeding Gerard Kuiper as the second director of LPL. He was 
+involved with the very beginning of the US space program, through the 
+Apollo program, and was involved with the ESA/NASA Ulysses mission. 
+
+A memoriam is posted at:
+
+http://www.lpl.arizona.edu/resources/faculty/memoriam/sonett/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANETARY SCIENCE SUBCOMMITTEE TO DISCUSS IMPACTS TO FY12 
+PLANETARY BUDGET
+
+The NASA Planetary Science Subcommittee (PSS) will have an open 
+telecon/WebEx meeting Thursday, October 13, from 2-4 PM Eastern to 
+discuss potential impacts on the FY12 budget of the NASA Planetary 
+Division (the fiscal year begins October 1, 2011, but the federal 
+budget is currently under Continuing Resolution).
+
+Invited Speakers include:
+
+Jim Green, Director of the SMD Planetary Science Division
+Eric Smith, Deputy Director of the JWST Program Office
+
+Directions for participation are found at:
+
+http://frwebgate1.access.gpo.gov/cgi-bin/PDFgate.cgi?WAISdocID
+=s15EWS/5/2/0&WAISaction=retrieve
+
+Information about the PSS is available at:
+
+http://science.nasa.gov/science-committee/subcommittees
+/nac-planetary-science-subcommittee/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] CONCEPTS FOR THE NEXT NASA X-RAY ASTRONOMY MISSION: CORRECTIONS
+
+"Dear Colleague Letter" has been replaced by the correct "Request for
+Information".  Also, the page limit for responses is 10 pages (not 7).
+
+Solicitation number: NNH11ZDA018L
+Response Date:  October 28, 2011
+
+NASA is seeking information that can be used to develop concepts that 
+meet some or all of the scientific objectives of the International 
+X ray Observatory (IXO).  Information being sought includes relevant 
+mission concepts, instrument concepts, enabling technologies, or any 
+aspect of flight, ground or launch systems architecture.
+
+NASA is seeking information relevant to an X-ray astronomy mission 
+concept or mission concepts that will satisfy some or all the 
+scientific objectives listed in Table 1.  The RFI also requests 
+standalone instrument concepts as well as relevant key enabling 
+technologies for such missions or instruments.  Mission concepts 
+should range in cost from ~ $300M to $2,000M in FY12 dollars.
+
+The full text of the Dear Colleague Letter is posted on the NASA 
+research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH11ZDA018L".
+
+For further information, please contact:
+Jean Cottam, PCOS Chief Scientist 
+jean.cottam@nasa.gov
+
+NASA HQ PCOS program officers:
+Jaya Bajpayee, PCOS Program Executive
+jaya.bajpayee-1@nasa.gov
+
+Rita Sambruna, PCOS Program Scientist
+rita.m.sambruna@nasa.gov
+
+http://pcos.gsfc.nasa.gov/ 
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] REQUEST FOR APPLICATIONS FOR X-RAY COMMUNITY SCIENCE TEAM
+
+NASA is requesting letters of application from U.S. scientists to apply 
+for membership in the X-ray Community Science Team (CST).  This request 
+is open to all U.S. scientists, including individuals planning to 
+respond to the Request for Information (RFI).  Letters of application 
+are invited from individuals, not groups.
+
+NASA expects to select approximately 10 individuals for membership on 
+the X-ray CST and plans to announce its selection by November 3, 2011. 
+An initial meeting (by telecon) is tentatively scheduled for the week 
+of November 10, 2011.  Prospective applicants need to ensure that they 
+will have the necessary time and commitment to support their 
+participation in the X-ray CST through the anticipated presentation to 
+the CAA in Spring-Summer 2012.  
+
+Replies to this call should be submitted by email only and be received 
+by 4:30 PM EST on October 19, 2011.  Please email your letter (with 
+subject line "X-ray CST Application") to Dr. Richard Griffiths, NASA 
+HQ, at richard.e.griffiths@nasa.gov. Questions may be addressed to 
+Dr. Griffiths at the email address provided or at 202-358-1605.
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA PDS] CASSINI DATA RELEASE 27: IMAGING SCIENCE SUBSYSTEM AND 
+VISUAL AND INFRARED MAPPING SPECTROMETER
+ 
+The Planetary Data System (PDS) announces the availability of the 
+Cassini Imaging Science Subsystem (ISS) and  Visual and Infrared 
+Mapping Spectrometer (VIMS) Data Release #27. This release includes 
+ISS volume coiss_2066 and coiss_3003 (a cartographic map of Dione), 
+plus VIMS volume covims_0044.  Note that no new Cassini Radar data was 
+archived with PDS this quarter. The new ISS and VIMS volumes can be 
+found on the PDS Imaging Node website at: 
+
+http://img.pds.nasa.gov/  
+
+The PDS Imaging Node now includes all Cassini ISS, VIMS and Radar data 
+captured through 2010-12-31.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA PDS] ODYSSEY DATA RELEASE 37 
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 37, for the following instruments:  GRS, 
+THEMIS, RADIO SCIENCE (Releases 109-111), and SPICE.  The gamma sensor 
+component of the GRS instrument suite will no longer return data. The 
+HEND and neutron spectrometer components continue to operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20111004.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER
+
+Dear Members of the Mars Community,
+ 
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, please find the 
+October 2011 edition of the Mars Exploration Science Monthly 
+Newsletter on the web at:
+
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The October 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Oct11Image.html
+
+This Month's topic is on "Inflated Lava Flows on Earth and Mars".
+
+Images and caption contributed by Dr. W. Brent Garry (1), Dr. Jacob 
+E. Bleacher (2), Dr. James R. Zimbelman (3), and Dr. Larry S. 
+Crumpler (4)
+
+(1) Planetary Science Institute, Tucson, AZ, 85719, USA
+(2) Planetary Geodynamics Laboratory, Code 698, NASA Goddard Space 
+Flight Center, Greenbelt, MD, 20771, USA
+(3) Center for Earth and Planetary Studies, Smithsonian Institution, 
+National Air and Space Museum, Washington, DC, 20013, USA
+(4) New Mexico Museum of Natural History and Science, Albuquerque, 
+NM, 87104, USA
+ 
+
+Past images and captions are available at: 
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+COSPAR AND WOMEN IN AEROSPACE EUROPE SIGN A COOPERATION AGREEMENT
+
+We are pleased to announce that the Committee on Space Research 
+(COSPAR) and Women in Aerospace Europe have signed a Cooperation 
+Agreement formally establishing our partnership.
+ 
+Kind regards,
+The WIA-E Team
+
+To learn more about the Women in Aerospace Europe or COSPAR, please 
+see, respectively:
+
+http://wia-europe.org
+
+http://cosparhq.cnes.fr/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ABSCICON 2012 PROPOSAL REQUESTS
+
+The Astrobiology Science Conference 2012 (AbSciCon 2012) will be held 
+April 16 - 20, 2012, at the Georgia Tech Hotel and Conference Center 
+in Atlanta, GA. Given the wide variety of disciplinary tools and 
+topics to be presented at the meeting, the success of AbSciCon 2012 
+hinges upon the community's involvement in the organization of topical 
+sessions. The organizing committee is now soliciting community input 
+for session topics and session organizers. Oct 15, 2011 is the 
+SESSION TOPIC PROPOSAL DEADLINE. Follow this link for more information 
+about the meeting:
+
+http://abscicon2012.arc.nasa.gov/ 
+
+and this link to submit your session proposals:
+
+http://abscicon2012.abstractcentral.com/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL RESEARCHERS IN LUNAR SCIENCE
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI) invites applications for lunar science and exploration
+postdoctoral fellowships.  Opportunities include:
+
+Lunar Surface Geology and Remote Sensing - Using new LRO data; 
+integrating it with existing lunar data to evaluate processes 
+associated with impact cratering and/or planetary differentiation.  
+Experience with orbital remote sensing methods, photometry of lunar 
+materials, and photogeology of lunar or lunar-like terrains preferred. 
+
+Experimental and/or Analytical Petrology and Geochemistry - Using 
+Apollo and lunar meteorite samples (or synthetic analogues) to evaluate
+processes associated with impact cratering and/or planetary 
+differentiation.  Experience with electron and ion microprobes, and/or 
+LA-ICPMS techniques preferred.
+
+Modeling of Impact Cratering Processes - Using hydrocodes and 
+relevant analytical techniques to evaluate different cratering 
+processes on the Moon, to model specific crater or basin-forming 
+events, and potentially guide future exploration scenarios. 
+
+The successful candidate will be a member of the new LPI-JSC Center 
+for Lunar Science and Exploration (http://www.lpi.usra.edu/nlsi/), 
+one of the core teams within the NASA Lunar Science Institute. 
+           
+Further information, including submission requirements are found at:
+
+http://www.lpi.usra.edu
+
+Questions regarding science involved in the position, contact
+Dr. David Kring (kring@lpi.usra.edu). 
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ANNOUNCEMENT: EUROPA LANDER OPEN FORUM
+
+The Europa Science Definition Team (SDT) has been tasked by NASA 
+Headquarters to consider a lander option for Europa.  As part of the 
+information gathering effort, the Europa SDT will solicit input from 
+the scientific community at large.  A Town Hall meeting consisting of 
+presentations and discussion is scheduled for the afternoon 
+immediately following the upcoming OPAG meeting in Pasadena, on 
+Thursday October 20, from 1:30 to 5:00 pm.  Please see:
+
+http://icpi.nasaprs.com/opag
+
+Details from recent lander design studies will be presented, followed 
+by community presentations and open discussion.  Brief presentations 
+are solicited relating to topics such as: potential science objectives 
+and priorities, instrument techniques, landing environment and sites, 
+sample handling, and astrobiological context.
+
+Requests for brief (~5-minute) presentations on relevant topics will 
+be accepted until the week of the event.
+
+Interested parties unable to attend in person are encouraged to join 
+electronically.  Video conferencing details may be found at the OPAG 
+web site:
+
+http://www.lpi.usra.edu/opag/
+ 
+Note that registration for OPAG does not confirm participation in the 
+Forum.
+
+Please forward questions or RSVP to Steve Vance (svance@jpl.nasa.gov).
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+THE NASA POSTDOCTORAL PROGRAM
+
+The next deadline to apply for a NASA Postdoctoral Program (NPP) 
+fellowship is November 1, 2011.  These competitive 1-3 year 
+appointments advance NASA's missions in space science, earth science, 
+aeronautics, space operations, exploration systems, lunar science, and 
+astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens and foreign nationals who hold Lawful 
+Permanent Resident status or who are eligible for J-1 status as a 
+Research Scholar may apply.  An H-1B Visa status is not acceptable 
+because the NPP is not an employment program.
+
+Stipend rates for Postdoctoral Fellows start at $50,000 per year, 
+with moderate supplements for high cost-of-living areas and for 
+certain academic specialties. Funds are available for relocation 
+expenses, up to a specified limit, and health insurance is available 
+through the program. Fellows also receive $8,000 per appointment year
+to support travel to conferences, meetings, and other activities that
+directly support their research.
+
+Applications for the NASA Postdoctoral Program are accepted three 
+times each year: March 1, July 1, and November 1.
+
+For further information about this opportunity and to apply online, 
+visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 25-26, 2011
+Hands-On ISIS Workshop
+Contact: ssides@usgs.gov 
+Laurel, MD
+
+February 27-28, 2012
+NASA Mars Exploration Program Analysis Group (MEPAG) Meeting #25
+http://mepag.jpl.nasa.gov/
+Washington, DC
+
+March 3-10, 2011
+2012 IEEE Aerospace Conference
+http://www.aeroconf.org
+Big Sky, MT
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

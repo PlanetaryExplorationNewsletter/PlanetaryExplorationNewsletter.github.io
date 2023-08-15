@@ -1,0 +1,358 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 36 (September 1, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Outer Planets Assessment Group (OPAG) Town Hall
+2. OPAG Priority Science Questions: Letter to Dr. Lori Glaze, NASA PSD
+   Director
+3. OSIRIS-REx Release 4: OVIRS, TAGCAMS, and Mission-Wide Info
+4. Job Announcement: Photogrammetrist
+5. 36th International Geological Congress (IGC)
+6. [NASA] SMD Seeks Volunteer Reviewers
+7. Presentations From MEPAG (VM6) Now Available and Comments Requested By 
+   PPIRB About Mars Planetary Protection
+8. Job Opening: NAIF Node of the Planetary Data System
+9. Mars Reconnaissance Orbiter Data Release 50
+10. PDS Booth at DPS: Individual Tutorials (and Group Classes) 
+    Available
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OUTER PLANETS ASSESSMENT GROUP (OPAG) TOWN HALL
+
+EPSC-DPS Joint Meeting 2019, Fri, 20 Sep, 13:30 - 15:00 (Moon, Room 15)
+(SMW1.12)
+
+Centre International de Conferences de Geneve (CICG), Geneva,
+Switzerland
+
+The purpose of the Outer Planets Assessment Group (OPAG) Town Hall is
+to update the community on OPAG activities and get community input for
+upcoming activities, especially as they pertain to the run up for the
+next Decadal Survey.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+OPAG PRIORITY SCIENCE QUESTIONS: LETTER TO DR. LORI GLAZE, NASA PSD
+DIRECTOR
+
+Dated August 27, 2019. Posted to OPAG Website, see:
+
+https://www.lpi.usra.edu/opag/meetings/aug2019/OPAG-ScienceLetter-to-
+Glaze_27Aug19.pdf
+
+This letter is OPAG's response to the request by the PSD for OPAG to
+identify three Pre Decadal 'Big Questions' and how they relate to OPAG
+destinations.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OSIRIS-REX RELEASE 4: OVIRS, TAGCAMS, AND MISSION-WIDE INFO
+
+This release of OSIRIS-REx data includes:
+
+- OVIRS raw and calibrated data for Bennu Delivery 2, covering data
+  through Feb. 17, 2019.
+- TAGCAMS raw data for Bennu Delivery 2, covering data through Feb. 17,
+  2019.
+- Updated mission bundle with Mission Phase Plans for Orbit A and
+  Preliminary Survey, and with updates to the mission dictionary.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/
+SS-20190827.shtml
+
+or more directly from:
+
+https://sbn.psi.edu/pds/resource/orex/
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+Thank you for subscribing to the PDS Notification Service.
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB ANNOUNCEMENT: PHOTOGRAMMETRIST
+
+The USGS Astrogeology Science Center is looking for a Photogrammetrist
+(GS-11/12 Physical Scientist). We work in coordination with NASA and
+other agencies to support missions to planetary objects across the
+Solar System. If you are looking for a rewarding position in the
+Federal workforce and have expertise in photogrammetry and software
+development, we need your help! Job duties include developing software,
+algorithms, and/or guidelines for mapping planetary data; developing
+planetary sensor models that define the transformation between image
+space and object space; producing improved geospatial knowledge of
+extraterrestrial bodies and planetary datasets (e.g., spacecraft
+ephemerides, digital elevation models, orthorectified images and
+mosaics, metadata, and control networks); and providing guidance to
+technical staff working on photogrammetric and geodetic production
+tasks. Applicants must have a bachelor's or higher degree in physical
+science, engineering, or mathematics, expertise in the concepts,
+theories, and principles of photogrammetry, cartography, geodesy,
+and/or computer vision, and experience developing and modifying
+software to apply these principles to highly varied datasets.
+Applicants must be US citizens, and a background check is required.
+This position is located in Flagstaff, AZ. Apply starting September 2,
+2019 through USAjobs.gov announcement DEN-2019-0254.
+
+https://www.usajobs.gov/GetJob/ViewDetails/543559200
+
+Contact Brent Archinal with questions: (barchinal@usgs.gov; 
+928 556-7083). 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+36TH INTERNATIONAL GEOLOGICAL CONGRESS (IGC)
+
+Consider submitting abstracts on your planetary science research to
+36th IGC, in New Delhi, India, March 2-8, 2020.
+
+Abstract fee is waived until September 15. 
+
+Shameless plug for our session:
+
+40.4 Remote Sensing-Based Compositional Studies of Planetary Bodies and
+Planetary Geomorphology.
+
+Session Convenors: Deepak Dhingra, Neeraj Srivastava and Megha Bhatt
+
+Meeting website:
+
+https://www.36igc.org/home
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] SMD SEEKS VOLUNTEER REVIEWERS
+
+NASA's Science Mission Directorate is seeking subject matter experts to
+serve as mail-in and/or panel reviewers of proposals to ROSES. Just
+follow the links below to the volunteer review forms and click the
+boxes to indicate the topics in which you consider yourself to be a
+subject matter expert. If your skills match our needs for that review
+and there are not too many organizational conflicts of interest, we
+will contact you to discuss scheduling.
+
+https://science.nasa.gov/researchers/volunteer-review-panels/
+weather-and-atmospheric-dynamics-program-a26
+
+The following new volunteer reviewer forms have been (re)posted:
+
+Weather and Atmospheric Dynamics Program (ROSES A.26)
+ICESat-2 Research (ROSES A.36)
+Heliophysics Supporting Research (ROSES B.2)
+Heliophysics Theory, Modeling, and Simulations (ROSES B.3)
+The New Frontiers Data Analysis Program (ROSES C.7)
+Mars Data Analysis Program (ROSES C.9)
+Discovery Data Analysis (ROSES C.11)
+Planetary Instrument Concepts for the Advancement of Solar
+System Observations (PICASSO ROSES C.12)
+Planetary Science and Technology Through Analog Research (ROSES C.14)
+
+In addition to the persistent volunteer forms:
+
+Earth Surface and Interior and Space Geodesy Programs
+Astrophysics Data Analysis Program (Appendix D.2 of the annual ROSES
+NRA)
+The Physical Oceanography Program (PO)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PRESENTATIONS FROM MEPAG (VM6) NOW AVAILABLE AND COMMENTS REQUESTED BY 
+PPIRB ABOUT MARS PLANETARY PROTECTION
+
+Mars community members,
+
+Please see the request below from Wendy Calvin (University of
+Nevada-Reno), which is a follow-up to her request for feedback from
+MEPAG at the recent MEPAG virtual meeting (VM6), as input to a
+Planetary Protection Independent Review Board. At VM6, there was good
+discussion about the current Planetary Protection policies (including
+Special Regions). MEPAG /PPIRB is soliciting your input regarding:
+
+1) Planetary protection (PP) as currently implemented for Mars
+2) Suggestions for how to improve PP for Mars
+3) What we need to learn or study in order to update our understanding
+   of Martian "Special Regions"
+
+Please provide your name and affiliation along with your comment. 
+Responses should be input on the Google doc:
+
+https://docs.google.com/forms/d/e/1FAIpQLSe_3IZT-
+06_0SGE7fyMcBMKNUDxrA87WUfwcrPO3QFp2YCanA/viewform
+
+Feedback is requested by next Wednesday, Sept 4.
+
+For more context of the discussion at VM6, Dave Beaty's (MPO/JPL)
+presentation on this topic is available, along with all other VM6
+presentations, at the meeting website:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=vm6
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+JOB OPENING: NAIF NODE OF THE PLANETARY DATA SYSTEM
+
+NASA's Navigation and Ancillary Information Facility (NAIF), located at
+the Jet Propulsion Laboratory in Pasadena, California, is seeking a
+skilled, dedicated and highly motivated professional to help develop
+the "SPICE 2.0" Toolkit, a re-implementation of the existing SPICE 1.0
+Toolkit family using the C++11 language with a multithreaded and
+object-oriented architecture.
+
+The job involves original design, thoughtful implementation, excellent
+code documentation and provision of thorough testing facilities, all in
+keeping with existing NAIF standards and practices. The applicant must
+have demonstrable C++11 programming experience as well as skills in the
+areas of mathematics and space dynamics. He or she must be willing to
+quickly learn SPICE technology and capabilities in order to apply this
+knowledge to the SPICE 2.0 development effort.
+
+Applicants should have a degree in Engineering or Applied Mathematics,
+and have several years of practical, related experience. This job is
+not in the domain of computer science, but a strong aptitude for
+practical computer programming is required.  U.S. citizenship or
+equivalent is required.
+
+Persons interested in learning more about this offering should access
+this URL:
+
+https://jpl.jobs/jobs/2019-10884-SPICE-System-Development-Engineer
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 50
+
+The Planetary Data System (PDS) is pleased to announce a new delivery of
+Mars Reconnaissance Orbiter (MRO) data for the following instruments:
+
+  CRISM
+  CTX
+  HiRISE
+  MARCI
+  MCS
+  RSS
+  SHARAD
+  SPICE
+
+Note: no more derived gravity data will be added to the archive. Release
+50 does have SHARAD Radargrams but not EDRs.
+
+In general, MRO Release 50 includes data collected from
+November 9, 2018, to February 8, 2019.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190830.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PDS BOOTH AT DPS: INDIVIDUAL TUTORIALS (AND GROUP CLASSES) AVAILABLE
+
+The PDS will have a booth at the DPS meeting to provide PDS support to
+the scientific community. There will be both scheduled classes in
+selected topics as well as signup for individual support sessions. 
+Topics will cover all stages of the archive process, from developing
+and costing a Data Management Plan through getting data through PDS
+peer review. Finding and using PDS data will also be covered.
+
+Sign up for an individual session to get your specific questions
+answered, or come to one of the scheduled group sessions: 
+
+http://pds-training.psi.edu
+
+Available topics:
+
+- Finding PDS Data
+- General training on PDS4 (either for missions or R&A archives)
+- Data Management Plans for Proposers
+- Designing Mission or Project PDS4 Dictionaries
+- Archiving your data: Bring your data and we will get you started.
+- Using PDS4 data: How is it different and tools to read the PDS4
+  labels
+
+Contact: Eric Palmer, epalmer@psi.edu or Mitchell Gordon, 
+mgordon@seti.org
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 2-8, 2020
+36th International Geological Congress (IGC)
+https://www.36igc.org/
+New Delhi, India
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

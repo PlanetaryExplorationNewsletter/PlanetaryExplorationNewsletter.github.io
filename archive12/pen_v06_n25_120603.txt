@@ -1,0 +1,242 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 25 (June 3, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. John "Jack" McCauley, 1932-2012
+2. [NASA] Jupiter Icy Moons Explorer Participation Opportunities
+3. [NASA] PDS - Mars Exploration Rovers Data Release 32
+4. NASA Postdoctoral Fellowships
+5. Mars Exploration Science Monthly Newsletter - June 2012
+6. IAG Planetary Geomorphology Image of the Month
+7. [NASA] Research Position at GSFC
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JOHN "JACK" MCCAULEY, 1932-2012
+
+An eminent planetary scientist, John "Jack" McCauley, and a former 
+chief and colleague at USGS/Astrogeology has passed away. Jack was a 
+brilliant and productive field geologist and mapper, and he had many 
+significant contributions in geologic studies of the Sahara & Namib 
+deserts and the Moon, Mercury and Mars. A very nice obituary can be 
+found online:
+
+http://azdailysun.com/news/local/obituaries/john-f-mccauley
+/article_63b4b81c-8fd2-11e1-b6f9-0019bb2963f4.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] JUPITER ICY MOONS EXPLORER PARTICIPATION OPPORTUNITIES 
+
+On May 2, 2012, ESA selected the Jupiter Icy Moons Explorer (JUICE) 
+as the first Large-class mission in the Cosmic Vision plan. The JUICE 
+mission will investigate Jupiter and its icy moons, completing its 
+mission by orbiting Ganymede. The mission is planned for launch in 
+2022.  NASA has offered to contribute a combination of US 
+instrument(s), instrument component(s) for European-led instrument(s), 
+and/or Co-Investigators on European-led instruments, all to total not 
+more than $100M life cycle cost.  
+
+We expect 55% of this funding will be used during the instrument 
+development phases and the remaining 45% during operations (cruise and 
+prime science mission). Given the duration of cruise, lean focused 
+science teams will be a necessity.  
+
+JUICE instruments are planned to be solicited via a competitive 
+Announcement of Opportunity issued by ESA; a corresponding amendment to 
+SALMON will be released by NASA. Release of these documents is planned 
+for late June 2012. 
+ 
+Scientific objectives, model payload and mission profile can be found 
+in the JUICE Assessment Study Report (Yellow Book) at:
+
+http://sci.esa.int/juice 
+
+A Federal Business Opportunity (FBO) announcement will be available 
+within the next two weeks.  
+
+For more information, contact Curt Niebur (curt.niebur@nasa.gov).
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 32
+
+The Planetary Data System (PDS) is pleased to announce Release 32 of 
+Mars Exploration Rover data.  This release includes primarily data 
+from Sols 2701 through 2790 and includes data only from Opportunity, 
+MER1/B. It includes data from the following instruments:   
+
+APXS  
+HAZCAM  
+NAVCAM  
+MI  
+MOESSBAUER (EDRs)
+PANCAM  
+RAT
+Rover Motion Counter
+SPICE  
+
+There are no Mini-TES, Moessbauer RDRs, or Radio Science data 
+in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20120529.html
+  
+The following special services are provided for accessing MER data:
+  
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas: 
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHY NEWSLETTER - JUNE 2012
+
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the June 2012 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found at:
+
+http://mepag.jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+IAG PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://www.psi.edu/pgwg/images/Jun12Image.html
+
+This Month's topic is on "Glass-rich sand dunes and plains on Mars".
+
+Images and Caption contributed by Briony Horgan, Postdoctoral Fellow, 
+School of Earth and Space Exploration, Arizona State University.
+
+Past images and captions are available at: 
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] RESEARCH POSITION AT GSFC
+
+The Planetary Magnetospheres Laboratory at NASA Goddard Space Flight
+Center is seeking a researcher to provide expertise in new capabilities 
+for modeling the interactions between the solar wind and the Moon and 
+other near-airless bodies, transport and trapping of lunar volatiles, 
+volatile sources and losses, and plasma/surface interactions. In 
+addition to research, you will provide expertise in associated 
+planetary and exploration robotic missions and instrument development 
+projects.  You will participate in preliminary and critical design 
+reviews and develop and defend instrument and mission requirements. You 
+will be called on to demonstrate strong teaming capability applied to 
+the solution of relevant problems. Missions that you could support 
+include the Lunar Reconnaissance Orbiter (LRO) and future lunar and 
+planetary projects of the SSED.
+
+A PhD in a relevant field of Physics or Astronomy is preferred. 
+Candidates must have experience modeling solar wind/plasma interactions 
+with the surface and near surface environments of the Moon and other 
+solar system bodies. Salary will be commensurate with experience and 
+qualifications.  U.S. citizenship required. To view the full vacancy 
+announcement go to:
+
+http://www.usajobs.gov/GetJob/ViewDetails/317833300    
+
+For information about the research program, please contact 
+
+Robert MacDowall
+301-286-2608 
+robert.macdowall@nasa.gov
+
+NASA GSFC is an Equal Opportunity Employer.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings posted.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

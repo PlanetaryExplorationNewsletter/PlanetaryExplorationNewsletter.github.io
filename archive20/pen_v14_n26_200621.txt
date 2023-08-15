@@ -1,0 +1,429 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 26 (June 21, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: Building a New Generation of Reviewers - A Response
+2. [NASA] ROSES-20: New Frontiers Data Analysis Delay of Due Dates
+3. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 42
+4. Introducing the Titan Community Mailing List (Titan-L)
+5. OPAG White Paper Information
+6. OPAG Virtual Meeting
+7. Virtual Didymos Observers Workshop
+8. EPSC Session MITM17: Polarimetry as a Tool for Characterizing Dust
+   Particles - Observations, Modeling, and Laboratory Data
+9. The GSA Planetary Geology Division is Receiving Nominations for the 
+    Ronald Greeley Award
+10. PDS Data Services and User Study
+11. Postdoctoral Researcher in Planetary Magnetospheric Physics
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Photoexcitation: Offering Free Reviews of Grant Proposals and Job
+    Applications
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: BUILDING A NEW GENERATION OF REVIEWERS - A RESPONSE
+
+Current events, in particular the COVID-19 pandemic and the ongoing
+exposure of systematic racism in science and in society at large, have
+made the past few months an extremely difficult time for all
+scientists, regardless of career stage. We are all experiencing mental,
+physical, and emotional fatigue, exacerbated by the fact that we don't
+know when things will return to a semblance of "normal". However,
+early- and mid-career scientists are often the ones navigating
+additional responsibilities related to balancing home and work lives
+(e.g., childcare and parent-care, among others) in unprecedented ways,
+and often with little or no assistance or guidance.
+
+Read the full editorial at:
+
+http://planetarynews.org/editorials/200621.html
+
+Respectfully,
+
+Ryan N. Watkins, Planetary Science Institute
+Paul K. Byrne, North Carolina State University
+Amanda C. Stadermann, University of Arizona
+Angela Stickle, JHUAPL
+James H. Roberts, JHUAPL
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-20: NEW FRONTIERS DATA ANALYSIS DELAY OF DUE DATES
+
+The objective of C.7 The Planetary Science Division's New Frontiers
+Data Analysis Program (NFDAP) is to enhance the scientific return from
+New Frontiers missions by broadening scientific participation in the
+analysis and interpretation of data returned by these missions. Other
+mission and non-mission data sets may be used to supplement these data
+in a supporting role, but all proposals must require the use of data
+from at least one New Frontiers mission: New Horizons, Juno, and
+OSIRIS-REx.
+
+Go to:
+
+http://solicitation.nasaprs.com/ROSES2020
+
+It will also appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+For questions, contact Henry Throop at HQ-NFDAP@mail.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 42
+
+The NASA Planetary Data System is pleased to announce a new delivery of
+Lunar Reconnaissance Orbiter (LRO) data for the following instruments:
+
+CRaTER 
+DLRE 
+LAMP
+LEND 
+LOLA 
+LROC 
+MiniRF 
+SPICE
+
+In general, LRO Release 42 includes data collected between December 15,
+2019 and March 14, 2020.
+
+To access the above data, please visit the following links:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200615.shtml
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO
+data by specific search criteria:
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows
+searching and downloading of LRO data and other lunar orbital data sets
+(Clementine and Lunar Prospector):
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data can be obtained here:
+
+https://naif.jpl.nasa.gov/pub/naif/pds/data/lro-l-spice-6-v1.0/
+
+The PDS Team 
+Mail to: pds_operator@jpl.nasa.gov 
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+INTRODUCING THE TITAN COMMUNITY MAILING LIST (TITAN-L)
+
+Dear Colleagues,
+
+We are excited to bring your attention to a new mailing list that has
+been created for researchers interested in Saturn's largest moon. The
+Titan Community Mailing List (Titan-L) is a resource for the Titan
+community to
+
+- Support communication between members of our community
+- Promote integrated research efforts between the diverse areas
+  represented
+- Obtain/disseminate information
+ 
+Subscribe to the Titan mailing list here:
+
+https://www.lpi.usra.edu/titan-community/
+
+Rules: Titan Community Mailing List intended for the distribution of
+Titan-related scientific information and results, including citations
+of recently published work, mission details, meeting announcements, and
+job postings. The list does not accept attachments (to avoid spreading
+viruses and filling people's inboxes). The list is not a forum for
+political discussions or opinions about individuals, administrations,
+or missions. If a discussion wanders off the subject or away from
+objectivity, the Administrators will close the discussion. Thank you
+for your understanding.
+ 
+Sincerely,
+Vincent Chevrier (list admin), Shannon MacKenzie (list admin), and
+Jason Soderblom
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OPAG WHITE PAPER INFORMATION
+
+The Outer Planets Assessment Group (OPAG) is soliciting topics for
+White Papers to be submitted to the upcoming 2023-2033 Planetary
+Science and Astrobiology Decadal Survey. The list of white papers
+currently being prepared by members of the OPAG community, and the
+status of their preparation are recorded at the following link:
+
+https://docs.google.com/spreadsheets/d/1as89GEyX50SUrTOOEZBw9dw6bYmmH8vaQFH2nkeRFhU/edit?usp=sharing
+
+Members of OPAG community who are interested in joining any white paper
+effort should contact the lead author.
+
+We also encourage the OPAG community to examine the current list of
+white papers, and identify any gaps in the topics covered by those
+white papers. When any gap is identified, you may initiate an effort to
+close those gaps by starting a new white paper, or by contacting OPAG
+steering committee members to discuss how to proceed.
+
+New entries to the above spreadsheet can still be made via the
+submission form at this link:
+
+https://forms.gle/o4ZxADBUPNZ9jpRp9
+
+To make changes to existing entries, please contact Kunio Sayanagi
+<kunio.sayanagi@hamptonu.edu>. In particular, lead authors may be
+interested in adding a URL (e.g., Google form) people may follow to
+co-sign/endorse their white papers.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+OPAG VIRTUAL MEETING
+
+The next OPAG meeting will be a virtual meeting to be held from Sept.
+1-3, 2020. The meeting agenda and details about how to register and 
+attend this meeting will be posted at a later date.
+
+The focus of this timely meeting will be on aspects of the Decadal
+Survey that are relevant to OPAG. Status reports will be requested
+from the Decadal Survey co-chairs and panel chairs.
+
+Please contact Kunio Sayanagi at kunio.sayanagi@hamptonu.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+VIRTUAL DIDYMOS OBSERVERS WORKSHOP 
+
+June 22-25, 2020
+
+Join observers from the DART, Hera, and LICIACube teams as we discuss
+past and upcoming observations of NEA binary Didymos at our virtual
+Didymos Observers Workshop. We have an exciting schedule of speakers to
+talk about the components of the AIDA collaboration, results from our
+past lightcurve observations of Didymos to determine the properties of
+the binary system, and future plans for more observations later this
+year and after the 2022 DART impact. 
+
+The schedule and (no cost) registration information are posted here: 
+
+https://sites.google.com/view/didymosobs/didymosobsworkshop2020
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EPSC SESSION MITM17: POLARIMETRY AS A TOOL FOR CHARACTERIZING DUST
+PARTICLES: OBSERVATIONS, MODELING, AND LABORATORY DATA
+
+Remote sensing of Solar System objects such as planetary atmospheres,
+comets and asteroids, or the space between them, relies largely on the
+analysis of the solar light scattered by dust particles and clouds.
+Polarization is an invaluable tool for obtaining information on the
+physical properties (size, shape, and composition) and location of the
+scattering particles in the corresponding atmosphere. The aim of this
+session is to bring together observers, modelers, and experimental
+physicists to discuss the most recent results and advances in the
+characterization of dust particles by their spectropolarimetric
+pattern.  
+
+Conveners: O. Munoz, F. Moreno, A. Penttila, A.C. Levasseur-Regourd, O.
+Ivanova, L. Kolokolova, P. Tanga
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38442  
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE GSA PLANETARY GEOLOGY DIVISION IS RECEIVING NOMINATIONS FOR THE 
+RONALD GREELEY AWARD
+
+This award was established in 2011 and is given to those who have
+rendered outstanding service to the PGD community. It consists of a
+certificate signed by the Chair and will be presented at the division's
+award reception at the annual meeting. The nomination should include a
+description of what the nominee has given to the community and may be
+made by any PGD member before June 30, 2020.
+
+More info:
+
+https://community.geosociety.org/pgd/awards/greeley
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PDS DATA SERVICES AND USER STUDY
+
+The Planetary Data System (PDS) is kicking off a User Study as a
+follow-on to the PDS Survey, and next steps towards our Data Services
+Initiative. This Initiative and User Study are integral to enhancing
+the ways that we can serve you, our planetary science community. More
+specifically, we are looking for volunteers to help us get a better
+understanding of our how our community currently uses the PDS, but also
+how we can improve to meet your future needs. The study will include
+individual interviews/discussions (~45-60 minutes), with potential
+follow-ups to demo some prototypes. We are looking for folks across all
+planetary science domains and experience levels including, but not
+limited to: Scientists, tool developers, data providers, educators,
+students, international partners, and amateur astronomers.
+
+If you would like to help, please send an email to
+pds-operator@jpl.nasa.gov and we will reach out to plan next steps.
+Thank you for helping us better understand our community and assistance 
+in improving the PDS.
+
+For more technical details regarding the PDS Data Services Initiative 
+see our abstract: 
+
+https://www.hou.usra.edu/meetings/planetdata2019/pdf/7105.pdf
+
+and poster:
+
+https://www.hou.usra.edu/meetings/planetdata2019/eposter/7105.pdf
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing magnetometer results. In addition, the candidate will
+assist with magnetometer data validation and calibration. 
+
+Position 2: The data scientist's primary responsibility will be to 
+develop a data production pipeline for future magnetometer missions. 
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest.
+
+Candidates for these positions should have Ph.D. in physics, astronomy, 
+planetary science, space physics, geosciences, or related fields. 
+Successful candidates should also have expertise with one or more 
+programming languages commonly used in space science and a demonstrated 
+track record in analyzing spaceflight data, especially magnetometer 
+data and experience with the NAIF SPICE software package is highly 
+desired.
+
+Applications received by July 15, 2020 will receive the best
+consideration. Link to full job posting:
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://iopscience.iop.org/journal/2632-3338
+
+No new papers.
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+PHOTOEXCITATION: OFFERING FREE REVIEWS OF GRANT PROPOSALS AND JOB
+APPLICATIONS
+
+Photoexcitation is a new company with domain expertise in planetary
+science, astronomy, and exoplanets that provides rapid expert reviews
+of grant proposals, job applications, and more. For a limited time, we
+are offering free no-obligation Quick Skim reviews as we launch our
+business!
+
+https://www.photoexcitation.com/post/free-quick-skim-reviews-no-asterisk
+
+We look forward to supporting the planetary science community with 
+easy-to-get external feedback delivered within 1 business day.  
+
+External feedback is one of the best ways to improve your proposals and
+applications and we hope you have the resources you need. If you can
+use additional support, leverage our domain expertise in planetary
+science and planetary sciencing. Consider investing institutional funds
+to support your success, especially at crucial times in your career.
+Photoexcitation's review staff includes successful active planetary
+scientists with extensive experience in writing and reviewing grants
+(including missions), publishing papers, chairing hiring committees,
+etc. 
+
+Please pass this information -- including the free review offer --
+along to anyone you feel would benefit from our services. Learn more 
+at @photoexcitation on Twitter and:
+
+http://www.photoexcitation.com
+
+Exciting you to the next level!
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

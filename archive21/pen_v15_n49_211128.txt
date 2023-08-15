@@ -1,0 +1,449 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 49 (November 28, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 27
+2. [NASA] PDS: Mars 2020 Mission Release 2
+3. PDS Service Booth at AGU 2021
+4. AGU Session P24C: Ultraviolet Observing of Solar System Targets
+5. AGU Session P11A: Carbon Across the Solar System
+6. The 6th Beijing Earth and Planetary Interiors Symposium (BEPIS)
+7. Forming and Exploring Habitable Worlds
+8. EGU22 Call for Abstracts PS9.1: Atmospheres and Exospheres of 
+   Terrestrial Planets, Satellites, and Exoplanets
+9. Commemorating the Collapse of the Arecibo Telescope
+10. Ph.D. Opportunity in Planetary Mineralogy/Geochemistry at Southern 
+    Illinois University 
+11. Postdoctoral Scholar in Sediment Transport at Stanford University
+12. Postdoctoral Position in Planetary Climate Modeling
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 27
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 27, nominally with data to August 2021:
+
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from: ACCEL (Accelerometer)
+
+To access the above data, please visit:
+  
+https://pds.nasa.gov/datasearch/subscription-service/SS-20211115.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search
+
+For further information:
+
+https://pds.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: MARS 2020 MISSION RELEASE 2
+
+The NASA Planetary Data System announces Release 2 of data from the
+Mars 2020 Perseverance Rover mission to Mars. This release contains
+raw, calibrated, and derived data products covering sols 90-179 of the
+mission, May 22 through August 21, 2021. The data are archived at
+various PDS Nodes. Links to all the archives can be found at:
+
+https://pds-geosciences.wustl.edu/missions/mars2020/
+
+Data from the following science investigations are included in this
+release:
+
+- Mastcam-Z - Mast-mounted Zoom Camera System
+- Engineering Hazard and Navigation Cameras
+- Helicopter Cameras
+- EDLCam - Entry, Descent, and Landing System Cameras
+- MEDA - Mars Environmental Dynamics Analyzer
+- MOXIE - Mars Oxygen ISRU Experiment
+- PIXL - Planetary Instrument for X-ray Lithochemistry
+- RIMFAX - Radar Imager for Mars Subsurface Exploration
+- SHERLOC - Scanning Habitable Environments with Raman and Luminescence
+  for Organics and Chemicals
+- SuperCam - LIBS, Raman, Time-Resolved Fluorescence, VIS/IR
+  spectrometers, Remote Micro-Imager and microphone
+- SPICE - Observation geometry and ancillary data
+
+To subscribe to future announcements of Mars2020 data releases:
+
+https://pds.nasa.gov/tools/subscription_service/top.cfm
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search
+
+For further information:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PDS SERVICE BOOTH AT AGU 2021
+
+NASA's Planetary Data System (PDS) is hosting a user support area for
+members of the community who are archiving in the PDS, using data
+archived in the PDS, or need help finding data in the PDS at the 2021
+AGU in New Orleans 13-17 December. We can be found in the exhibition
+area at location number 1333. You can find additional information at:
+
+https://pds.nasa.gov
+
+Thank you.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P24C: ULTRAVIOLET OBSERVING OF SOLAR SYSTEM TARGETS
+
+Tuesday, 14 December 2021 14:30-15:45 CST
+Please join us for this dynamic panel discussion!
+
+https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/134994
+
+Ultraviolet spectroscopy and imaging have a decades-long history as
+valuable techniques for studying atmospheres, aurorae, plumes and
+surface composition and volatiles on asteroids, comet nuclei and moons.
+While there continue to be opportunities for UV remote sensing from
+Earth orbit and in future robotic missions, the infrastructure for UV
+instrumentation is at a crossroads. Existing orbital facilities are
+nearing the end of their useful lives and there continue to be many
+phenomena that cannot be effectively studied with existing,
+high-heritage instrument designs. Exciting advances in UV-optimized
+technologies promise new capabilities that can be incorporated into the
+next generation of robotic probes, flexible SmallSat missions, and
+large aperture space-based observatories. This session welcomes
+abstracts covering UV science results, as well as reports on progress
+toward developing new technologies such as UV detectors, high
+performance coatings and novel sensor designs.
+
+We hope to see you there, in person or virtually!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P11A: CARBON ACROSS THE SOLAR SYSTEM
+
+Monday, 13 December 2021 08:00-09:15 CST
+We hope to see you at this panel discussion!
+
+https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/134955
+
+Studies of the existence and state of carbonaceous material on Solar
+System bodies is at the forefront of planetary research. Samples of
+low-albedo asteroid 162173 Ryugu from the Hayabusa2 probe are on Earth
+and are being studied beginning in 2021. The OSIRIS-REx space probe has
+retrieved samples from low-albedo asteroid 101955 Bennu. As a framework
+for these studies, telescopic, laboratory and theoretical studies of
+carbon in all its forms have recently snowballed. The 2018 SSERVI
+Carbon in the Solar System workshop launched a series of presentations
+and discussions at various venues, enabling an information exchange
+around the weathering of carbonaceous compounds in response to thermal
+processes and irradiation, and what implications these compositions
+have for understanding material processing in the Solar System. We will
+generate and share ideas to support research of the new samples, along
+with studies of carbon, in various forms, at other locations across the
+Solar System.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+THE 6TH BEIJING EARTH AND PLANETARY INTERIORS SYMPOSIUM (BEPIS)
+
+Dear Colleagues,
+
+This is a brief notice to announce that the BEPIS will be held in
+August 2022. The talks will be given online and/or at the Institute of
+Geology and Geophysics, Chinese Academy of Sciences, Beijing, China.
+
+BEPIS focuses on observations and theoretical advances in paleo-, geo-,
+bio-, and rock magnetism, geodynamo theories and models, as well as
+planetary magnetism, with a primary aim of further understanding the
+origin, structure, and variations of Earth and planetary magnetic
+fields. Further details will be posted soon on the meeting website:
+
+https://bepis2022.casconf.cn/
+
+If you have questions, please do not hesitate to contact Professor
+Chenglong Deng (cldeng@mail.iggcas.ac.cn).
+
+We cordially invite friends, old and new, to participate in the
+BEPIS2022.
+
+All the best,
+Yongxin Pan, Keke Zhang, Chenglong Deng, Rixiang Zhu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FORMING AND EXPLORING HABITABLE WORLDS
+
+Meeting dates: 7-13 November 2022
+Location: Edinburgh with an optional retreat to Stirlingshire
+Abstract and early registration deadline: 15 April 2022
+
+https://www.habitableworlds.co.uk
+
+The inaugural Forming and Exploring Habitable Worlds meeting is a
+multi-discipline, week-long, international scientific meeting for the 
+exchange of new interdisciplinary findings and ideas relating to two 
+principal themes:
+
+1) The origins of habitable bodies in and beyond our home Solar System.
+
+2) The motivation for and current status of priorities for space
+exploration and its governance. 
+
+This meeting is to accommodate - with generous spacing for reasons of
+COVID safety - roughly 120 in-person delegates of all career stages
+based in a range of relevant employment sectors. A hybrid model is
+envisaged to be delivered so as to broaden participation by
+accommodating virtual attendance of additional delegates. The welcoming
+atmosphere of this modest-sized event will foster friendly scientific
+exchange and shall help to promote networking beneficial to early, mid,
+and senior career planetary scientists, space lawyers, educators, and
+space technology / mission innovators. Students and those in their
+early careers are particularly encouraged to attend and contribute
+their work in this friendly, relatively unintimidating, and specialist
+gathering.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EGU22 CALL FOR ABSTRACTS PS9.1: ATMOSPHERES AND EXOSPHERES OF
+TERRESTRIAL PLANETS, SATELLITES, AND EXOPLANETS
+
+EGU22 will be held in Vienna on 3-8 April 2022.
+
+Please, consider submitting an abstract to the EGU22 Session PS9.1:
+"Atmospheres and Exospheres of Terrestrial Planets, Satellites, and
+Exoplanets"
+
+Go to:
+
+https://meetingorganizer.copernicus.org/EGU22/session/44231
+
+The deadline for the abstract submission is 12 January 2022, 13:00 CET
+or, for those applying for EGU travel support, 1 December 2021.
+
+This session primarily focuses on the neutral atmospheres of
+terrestrial bodies other than the Earth. This includes not only Venus
+and Mars, but also exoplanets with comparable envelopes and satellites
+carrying dense atmospheres such as Titan or exospheres such as
+Ganymede. We welcome contributions dealing with processes affecting the
+atmospheres of these bodies, from the surface to the exosphere. We
+invite abstracts concerning observations, both from Earth or from
+space, modeling and theoretical studies, or laboratory work.
+Comparative planetology abstracts will be particularly appreciated.
+
+Hope to see you in Vienna!
+
+With best regards,
+
+The conveners Arianna Piccialli, Arnaud Beth and Audrey Vorburger
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+COMMEMORATING THE COLLAPSE OF THE ARECIBO TELESCOPE
+
+The Arecibo Science Advocacy Partnership (ASAP) invites you to
+participate in a commemoration of the tragic collapse of the 305m
+telescope at the Arecibo Observatory one year ago.
+
+Date: Wednesday, 1 December, Noon ET
+Moderated by ASAP Board Chair, Prof. Hector Arce
+
+Keynote presentation: "Celebrating the William E. Gordon 305m
+Telescope: Its History and Scientific Achievements" given by Prof. Don 
+Campbell, former NAIC Director and author of "A Brief History of the 
+Observatory".
+
+Members of the ASAP Board will also give a brief update on activities
+advocating for the Observatory's future.
+
+If you would like to receive the Zoom link, provide your email address:
+
+https://forms.gle/hos6rZLVJwJ2wNAg8
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PH.D. OPPORTUNITY IN PLANETARY MINERALOGY/GEOCHEMISTRY AT SOUTHERN
+ILLINOIS UNIVERSITY  
+
+The Geochemistry Lab at Southern Illinois University (Dr, Liliana
+Lefticariu, lefticar@siu.edu) in collaboration with NASA Johnson
+Space Center (Dr. Tanya Peretyazhko) and Illinois State Geological
+Survey (Dr. Martin Pentrak) is seeking a highly motivated Ph.D. student
+for an interdisciplinary project in planetary mineralogy/geochemistry
+and astrobiology. The project, funded by NASA, aims to study the
+transformation of phyllosilicate minerals under Mars-relevant
+conditions and determine the mechanisms by which phyllosilicates
+transform under a wide range of environmental conditions. The ideal
+candidate should have an excellent background in clay mineralogy and be
+familiar with X-ray diffraction, infrared and Raman spectroscopies, and
+general wet laboratory techniques.   
+
+The 3-year assistantship includes a monthly stipend and full tuition
+and fee waiver.  
+
+For a detailed description of this opportunity, see: 
+
+https://bit.ly/3oZu0NS
+
+The application deadline for SIUC graduate admissions is February 15,
+2022, and more information can be found here:
+
+https://geology.siu.edu/graduate/application-information.php
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL SCHOLAR IN SEDIMENT TRANSPORT AT STANFORD UNIVERSITY
+
+We are seeking a postdoctoral researcher to lead a series of
+low-pressure wind tunnel experiments to understand the formation of
+eolian ripples under a range of atmospheric pressures. This work is
+funded by a NASA Solar System Workings grant. The postdoctoral scholar
+will be appointed at Stanford University under the supervision of Dr.
+Mathieu Lapotre, lead and conduct the experiments at the NASA Ames
+Research Center, and collaborate with Drs. Ryan Ewing (Texas A&M) and
+Christy Swann (Naval Research Laboratory). Applicants must demonstrate
+expertise in sediment transport and flow hydrodynamics/aerodynamics.
+Previous experience with Particle Image Velocimetry (PIV) is strongly
+desired.
+
+Please contact Dr. Mathieu Lapotre (mlapotre@stanford.edu) with a CV
+for more information.
+
+Desired start date: January 15 - April 15, 2022
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POSTDOCTORAL POSITION IN PLANETARY CLIMATE MODELING
+
+DTU Space (the National Space Institute at the Technical University of
+Denmark) invites applications for a 3-year postdoctoral research
+position in planetary climates to work with Senior Researcher Dr Joao
+Mendonca. The successful applicant is expected to have experience in
+planetary modeling, including atmospheric or interior modeling, and
+will join the Exoplanet Group at DTU.
+
+The new postdoctoral researcher will primarily work on Venus science
+and the characterization of terrestrial extrasolar planets. The
+successful applicant is expected to have research experience in
+planetary sciences (e.g., planetary atmospheres and/or interiors).
+During the 3-year appointment, the successful applicant will contribute
+to the ESA EnVision mission science and will also be able to conduct
+her/his/their independent research, increasing the group's model
+expertise. The start date is flexible but expected to be in the fall of
+2022.
+
+Candidates should have a Ph.D. or equivalent by the start of the
+appointment. Please submit your online application no later than 15 
+December 2021 (Danish time).
+
+To view the full announcement and to apply:
+
+https://bit.ly/2ZxxTBc
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+January 11-13, 2022
+Low-Cost Science Mission Concepts for Mars Exploration
+https://www.hou.usra.edu/meetings/lowcostmars2022/
+Pasadena, CA
+
+June 5-10, 2022
+AOGS 2022
+https://www.asiaoceania.org/aogs2022/
+Honolulu, HI
+
+November 7-13, 2022
+Forming and Exploring Habitable Worlds
+https://www.habitableworlds.co.uk
+Edinburgh, Scotland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

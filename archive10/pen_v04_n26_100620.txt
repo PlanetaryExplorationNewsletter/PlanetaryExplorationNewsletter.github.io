@@ -1,0 +1,183 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 4, Number 26 (June 20, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Melissa Lane, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mars Global Reference Atmospheric Model (MARS-GRAM)
+2. [NASA] Discovery and New Frontiers Program "Space School Musical"
+3. [NASA PDS]  Lunar Reconnaissance Orbiter (LRO) Release 2
+4. Postdoctoral Position in Cosmochemistry at Washington University
+5. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MARS GLOBAL REFERENCE ATMOSPHERIC MODEL (MARS-GRAM)
+
+Mars Global Reference Atmospheric Model (Mars-GRAM) is an engineering-
+level atmospheric model developed by Marshall Space Flight Center's 
+Natural Environments Branch.  Mars-GRAM is widely used for diverse 
+mission applications. Applications include systems design, performance 
+analysis, and operations planning for aerobraking, entry descent and 
+landing, and aerocapture.  From 0-80 km altitude, Mars-GRAM is based 
+on NASA Ames Mars General Circulation Model (MGCM), while above 80 km 
+it is based on Mars Thermospheric General Circulation Model (MTGCM).  
+Mars-GRAM and MGCM use surface topography from Mars Global Surveyor 
+Mars Orbiting Laser Altimeter (MOLA), with altitudes referenced to 
+the MOLA constant potential surface (areoid).  Mars-GRAM has recently 
+been reclassified as public domain software.  As a result of this 
+change, Mars-GRAM is now available upon request through the Space 
+Environments and Effects (SEE) program website at: 
+
+http://see.msfc.nasa.gov/tte/model_Marsgram.htm
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DISCOVERY AND NEW FRONTIERS PROGRAM "SPACE SCHOOL MUSICAL"
+
+The solar system comes alive in "Space School Musical," a new 
+35-minute musical play about the solar system that  combines science 
+with music, fun lyrics, and simple choreography.  Students in school, 
+afterschool programs and summer camp can move, groove, and laugh 
+along with the planets, moons, meteors, comets, asteroids and even 
+some rockin' scientists as they sing, dance and serve up the freshest
+facts in the galaxy.  Kids can watch the video, learn the songs, and 
+even perform the play themselves. There are links to hands-on 
+activities, videos highlighting young, diverse scientists, engineers
+and interns at JPL, and a glossary of the terms used in the songs.  
+Created and produced by KidTribe for NASA's Discovery and New 
+Frontiers Programs, "Space School Musical" is is available as a free 
+resource for everyone at:
+
+http://discovery.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA PDS]  LUNAR RECONNAISSANCE ORBITER (LRO) RELEASE 2
+
+The NASA Planetary Data System announces the second release of data 
+from the LRO mission. In general, this release includes raw and derived
+products for data acquired from December 15, 2009 to March 14, 2010.  
+It also includes revised versions of products from Release 1 for LOLA, 
+LEND, Diviner, LAMP, and LROC. Details are given in the ERRATA.TXT 
+file in each archive.
+
+Data sets from the following experiments are included: CRaTER, DLRE, 
+LAMP, LEND, LOLA, LROC, and Mini-RF.
+
+Mini-RF data is delayed and will be available by June 22.
+
+LAMP data are expected to be released on June 17.
+
+LRO data are archived at the PDS Planetary Plasma Interactions (PPI), 
+Geosciences, Imaging, and Navigation and Ancillary Information (NAIF) 
+Nodes. The data may be accessed from these nodes' web sites and from 
+the main PDS home page:
+
+http://pds.nasa.gov/ 
+or 
+http://pds.nasa.gov/subscription_service/SS-20100615.html
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria.
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/ 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL POSITION IN COSMOCHEMISTRY AT WASHINGTON UNIVERSITY
+ 
+The Laboratory for the Space Sciences at Washington in St. Louis has 
+an opening for a post-doctoral research fellow in cosmochemistry. The 
+Laboratory for the Space Sciences is engaged in multi-disciplinary 
+research concentrating on the microanalysis of extraterrestrial 
+materials including meteorites, interplanetary dust particles, and 
+samples from comets, with special emphasis on the analysis of presolar
+grains (samples of stardust). We are seeking a scientist to participate
+in the study of silicon carbide grains of a supernova origin. The work 
+will involve chemical separation of presolar grains and isotopic 
+analysis by secondary ion mass spectrometry (NanoSIMS). For a general 
+overview of our research program please visit our website: 
+
+http://presolar.wustl.edu/
+ 
+The fellowship is open beginning of September 2010 and is for two 
+years. Applicants are expected to have a PhD and research experience 
+in experimental areas related to cosmochemistry.
+ 
+Anyone interested in the position should send a CV, list of 
+publication, a short statement of research goals and arrange for 
+three letters of recommendation, sent separately. Please send 
+applications via e-mail to Ernst Zinner ekz@wustl.edu
+
+In addition, several graduate student positions will also be 
+available in our group.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+July 31, 2010
+Chondrules: Their Role in Early Solar System History
+http://www.metsoc2010.org/symposium1.html
+New York, NY
+
+August 2-5, 2010
+AIAA Atmospheric and Space Environments Conference
+http://www.aiaa.org/content.cfm?pageid=230&lumeetingid=2109
+Toronto, Canada
+
+October 19-22, 2010
+Big Science with Small Telescopes: The role of 2 - 4m Telescopes 
+in the ERA of the Large and Extremely Large Telescopes
+http://www.tls-tautenburg.de/tls50/tls50.php
+Dornburg, Germany
+
+March 7-11, 2011
+42nd Lunar and Planetary Science Conference
+http://www.lpi.usra.edu/meetings/lpsc2011/
+The Woodlands, TX
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************
+

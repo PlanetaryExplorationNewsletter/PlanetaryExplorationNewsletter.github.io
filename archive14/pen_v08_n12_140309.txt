@@ -1,0 +1,648 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 12 (March 9, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Call for Special Issue in Planetary and Space Science on "Solar 
+   Wind Interaction with the Terrestrial Planets"
+2. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 28
+3. [NASA] ROSES-14 Eligible TRLs Changed for PICASSO
+4. NASA Postdoctoral Fellowships
+5. NASA's Solar System Exploration Research Virtual Institute's 
+   Exploration Science Forum (Formerly the Lunar Science Forum): 
+   Second Announcement
+6. New Dates for Venus Express VIRTIS and VMC Data Workshop
+7. MSL Research Assistantships at York University
+8. LPSC: MESSENGER Visible and Infrared Spectrograph (VIRS) Data 
+   Users' Workshop 2014
+9. GSA Special Papers on Large Meteorite Impacts and Planetary 
+   Evolution V
+10. [NASA] ROSES-14 NOIs Not a Two-Step Process for PPR
+11. MAVEN Mars Upper-Atmosphere and Solar-Wind Interactions Post-doc
+12. PSS Spring Teleconference
+13. [NASA] PDS - MESSENGER Data Release 11
+14. Panel Discussion for Young Scientists at LPSC
+15. Tenure-Track Position in Planetary Geoscience
+16. 48th ESLAB Symposium: New Insights into Volcanism Across the 
+    Solar System
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CALL FOR SPECIAL ISSUE IN PLANETARY AND SPACE SCIENCE ON "SOLAR WIND 
+INTERACTION WITH THE TERRESTRIAL PLANETS"
+
+We invite you to participate in a special issue of the Planetary and 
+Space Science journal, entitled "Solar Wind Interaction with the 
+Terrestrial Planets". Topics will include all aspects of planetary 
+plasma physics and interactions in the inner Solar System, e.g.:
+
+(a) magnetospheres, ionospheres, auroras
+(b) the solar wind interaction with planets (Mercury, Venus, Earth,
+    Mars) and their moons, or with asteroids/comets
+(c) plasma interactions with exospheres, dust and surfaces
+(d) intercomparisons of planetary environments
+
+Contributions are welcome that address previous, present, 
+forthcoming and planned observations from space, as well as ground-
+based observations, theoretical modelling or simulations. Laboratory 
+studies on planetary analogues aiming to simulate the surface-plasma 
+interaction will be considered as well.
+
+The deadline for submission in the 1st of July 2014, leading to a
+publication in end of 2014. Regular papers are expected, and the 
+usual refereeing process will be applied for publication in PSS. 
+Please inform us if a shifted deadline would be more convenient for 
+you.
+
+Please indicate your interest in contributing to the special issue, 
+together with a preliminary title of the intended paper by March 17.
+An approximate abstract, if available, would also be appreciated.
+
+P. Garnier, A. Milillo, A. Radioti
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 28
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 28 includes data collected from May 9, 2013, 
+through August 8, 2013. The release includes HiRISE data for 
+November 4, 2013, to February 5, 2014.
+
+To access the above data:
+
+http://pds.nasa.gov/subscription_service/SS-20140303.html
+
+To access the latest PDS Data Releases:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-14 ELIGIBLE TRLS CHANGED FOR PICASSO
+
+The PICASSO Program supports the development of spacecraft-based 
+instrument systems that show promise for use in future planetary 
+missions. The goal of the program is to conduct planetary and 
+astrobiology science instrument feasibility studies, concept formation, 
+proof of concept instruments, and advanced component technology 
+development to the point where they may be proposed in response to the 
+Maturation of Instruments for Solar System Exploration (MatISSE) 
+Program, C.13 of ROSES. Therefore, the proposed instrument system or 
+advanced components must address specific scientific objectives of 
+likely future planetary science missions.
+ 
+The PICASSO Program is intended to enable timely and efficient 
+technology infusion into the MatISSE Program and eventually into 
+flight missions. As such, the entry technology readiness level (TRL) 
+that PICASSO supports is 1-3. Proposals where the entry TRL is 4 or 
+higher are not appropriate for the PICASSO, but should be submitted 
+to C.13, the MatISSE program.
+ 
+The due dates remain unchanged. 
+Step-1 proposals due September 15, 2014.
+Step-2 proposals due November 14, 2014.
+ 
+Announcement NNH14ZDA001N is posted at:
+
+http://nspires.nasaprs.com/ 
+
+RSS feed at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2014
+ 
+Questions may be addressed to:
+Janice L. Buckner
+202-358-0183
+janice.l.buckner@nasa.gov
+ 
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample opportunity in planetary science is:
+
+https://www3.orau.gov/NPDoc/Catalog/17903
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm 
+
+Questions: nasapostdoc@orau.org
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA'S SOLAR SYSTEM EXPLORATION RESEARCH VIRTUAL INSTITUTE'S 
+EXPLORATION SCIENCE FORUM (FORMERLY THE LUNAR SCIENCE FORUM): SECOND 
+ANNOUNCEMENT
+
+Abstracts can now be submitted at:
+
+http://sservi.nasa.gov/NESF2014/
+
+The deadline for abstract submission is midnight PDT April 26, 2014. 
+
+Conference Details: 
+July 21-23, 2014 
+NASA Ames Research Center
+Moffett Field, CA
+No registration fees to attend
+
+We are soliciting abstracts for the following topics relevant to human 
+exploration targets of interest (Moon, near-Earth Asteroids, 
+Phobos/Deimos): Dust/Regolith, Exosphere/Plasma Interactions, Geology, 
+Geophysics, Human Exploration, Missions (including science enabled by 
+robotic, human and commercial missions), Radiation, Robotics, Sample 
+Return (including robotic-assisted through telepresence), Volatiles, 
+ISRU, Astro/Heliophysics (including Space Weathering), and Public 
+Outreach.
+
+Many of the ESF topics are of relevance to the Global Exploration 
+Roadmap. To further discussion with the science community, NASA will 
+conduct a separate session on the Global Exploration Roadmap on 
+July 24, immediately following the Exploration Science Forum. 
+
+The next announcement (April 2014) will discuss Exploration Science 
+Forum logistics (hotel accommodations, parking, and no-host meals). 
+Registration for the Forum is FREE and will remain open until 
+July 6th - Please register early.
+
+International visitors MUST register by May 26th 2014 in order to 
+process your NASA visitor information.
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEW DATES FOR VENUS EXPRESS VIRTIS AND VMC DATA WORKSHOP
+
+ESA is pleased to announce a Venus Express VIRTIS and VMC Data 
+Workshop that will be held at ESAC (Madrid, Spain) on 12-15 May 2014.
+
+The goal of the workshop is to introduce users to the data returned 
+by the VIRTIS and VMC instruments of the Venus Express orbiter, 
+available from ESA's Planetary Science Archive:
+
+http://archives.esac.esa.int/psa
+
+Scientific and technical lectures will be provided, as well as 
+hands-on data processing exercises, with members of the VIRTIS and 
+VMC instrument teams providing direct support on the best ways in 
+which to calibrate and use their data for science. The detailed 
+content of the course is still under development, and may be 
+changed in light of the interests of the participants.
+
+If you are interested in attending, please register at:
+
+https://docs.google.com/forms/d/15J6SRjsa9j8Fvllbd2f-2q9_hhY
+JwZvnX5bn3clhdKo/viewform
+
+Limited funding is available to help cover the travel and/or 
+subsistence costs of the participants attending the workshop.
+
+Should you be interested in applying for this support, please 
+provide a short justification for your request using the 
+registration form. 
+
+Registration deadline: 31 March 2014
+
+For more details, visit: 
+
+http://www.rssd.esa.int/index.php?project=PSA&page=vex_workshop 
+
+E-mail: vex-workshop@sciops.esa.int
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MSL RESEARCH ASSISTANTSHIPS AT YORK UNIVERSITY
+
+1-2 MSc Research Assistantships are available at York University for 
+work with the Mars Science Laboratory Mission.
+
+Projects will be primarily focused on Atmospheric research and 
+Atmosphere-Surface interactions and may involve elements of numerical 
+modeling, data analysis and experimental laboratory work. The 
+successful candidate(s) will also be expected to support MSL surface 
+operations. While the current availability of RA-ships is limited to 
+those who wish to pursue an MSc, it is likely that opportunities 
+will exist for successful students to go on to complete a PhD.
+
+Those interested should contact Dr. John E. Moores at jmoores@yorku.ca
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+LPSC: MESSENGER VISIBLE AND INFRARED SPECTROGRAPH (VIRS) DATA USERS' 
+WORKSHOP 2014
+
+12:00-1:15 p.m., Monday March 17th
+Woodlands Waterway Marriott, The Woodlands, TX
+Panther Creek Room
+
+Since entering orbit in 2011, MESSENGER's Visible and Infrared 
+Spectrograph (VIRS) has acquired >9 million spectra of Mercury's 
+surface and created the first spectral maps of the solar system's 
+innermost planet. These data are available in NASA's Planetary Data 
+System (PDS). This workshop will introduce the available VIRS 
+products, the calibrations applied, and tools for finding and using 
+VIRS data.
+
+This MESSENGER Visible and Infrared Spectrograph (VIRS) Data Users' 
+Workshop will be held in association with the 45th Lunar and Planetary 
+Science Conference on Monday, March 17, 2014, from 12:00-1:15 PM in
+the Panther Creek Room at The Woodlands Waterway Marriott and Hotel 
+and Convention Center, The Woodlands, TX. The workshop is intended 
+for anyone interested in using VIRS data.
+
+Attendees are encouraged to RSVP at: 
+
+https://secwww.jhuapl.edu/MESSENGER_Workshop/registration.aspx
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GSA SPECIAL PAPERS ON LARGE METEORITE IMPACTS AND PLANETARY 
+EVOLUTION V
+
+This is the final call for manuscripts for a Geological Society of 
+America on "Large Meteorite Impacts and Planetary Evolution V" 
+following the successful conference with the same name held in 
+Sudbury in August 2013:
+
+http://www.hou.usra.edu/meetings/sudbury2013/
+
+It should be noted that submitting a manuscript is not restricted to 
+those who attended this conference and we hope that you will spread 
+the word to your colleagues.
+
+Author Guidelines: Guidelines on formatting, figures, tables etc. 
+can be found on the Books section of the GSA's website: 
+
+http://www.geosociety.org/pubs/bookguid.htm.
+
+Timeline: The deadline for manuscript submission HAS BEEN EXTENDED 
+TO MARCH 31ST 2014.
+
+Submission process: Please follow the guidelines as laid out by GSA 
+(see above) and send a compiled pdf document to fifthlmi@gmail.com, 
+ensuring that the file size is 25 MB or smaller. In your e-mail, 
+please include a list of up to 3 potential reviewers.
+
+Questions: Questions regarding any aspect of this process can be 
+directed to fifthlmi@gmail.com
+
+We look forward to receiving your manuscript.
+
+Drs. Gordon Osinski and David Kring
+Co-Convenors, Large Meteorite Impacts and Planetary Evolution V
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-14 NOIS NOT A TWO-STEP PROCESS FOR PPR
+
+Planetary protection involves preventing biological contamination on 
+both outbound and sample return missions to other planetary bodies. 
+Numerous areas of research in astrobiology/exobiology are improving 
+our understanding of the potential for survival of Earth microbes 
+in extraterrestrial environments, relevant to preventing contamination 
+of other bodies by organisms carried on spacecraft. Research is 
+required to improve NASA's understanding of the potential for both 
+forward and backward contamination, how to minimize it, and to set 
+standards in these areas for spacecraft preparation and operating 
+procedures. Improvements in technologies and methods for evaluating 
+the potential for life in returned samples are also of interest. Many 
+of these research areas derive directly from recent National Research 
+Council (NRC) recommendations on planetary protection for solar 
+system exploration missions.
+ 
+This program will not use the two-step proposal submission process, 
+but instead invites optional Notices of Intent (NOIs) by 
+April 7, 2014, and proposals are due June 6, 2014.
+ 
+Announcement: NNH14ZDA001N
+Posted at:
+
+http://nspires.nasaprs.com 
+
+RSS feed at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2014
+
+[Edited for length.]
+
+ 
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MAVEN MARS UPPER-ATMOSPHERE AND SOLAR-WIND INTERACTIONS POST-DOC
+
+The Laboratory for Atmospheric and Space Physics (LASP) at the 
+University of Colorado Boulder invites applications for a Post-Doctoral 
+Research Associate to work on data from the MAVEN mission. The MAVEN 
+(Mars Atmosphere and Volatile Evolution) spacecraft arrives at Mars in 
+September, and will study the upper atmosphere and ionosphere, 
+interactions with the Sun and the solar wind, and the loss of 
+atmospheric atoms and molecules to space. The person hired will spend 
+approximately up to half of their time on science operations planning 
+activities, and the rest of their time integrating data analysis and/or 
+theoretical modeling in an area relevant to the mission or in related 
+interdisciplinary areas. 
+
+The MAVEN primary mission will last one Earth year from the start of 
+science mapping in November, with an expectation that there may be an 
+extended mission. The appointment will be initially for one year, with 
+the possibility of renewal for subsequent years or through the end of 
+the project. Applicants may be at the entry-level post-doc level or may 
+be more senior.
+
+For complete ad, and to apply, see:
+
+http://www.jobsatcu.com/postings/79407
+
+Questions: 
+Bruce Jakosky (MAVEN PI)
+bruce.jakosky@lasp.colorado.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PSS SPRING TELECONFERENCE
+
+Dear Colleagues:
+
+Just a friendly reminder that the Spring PSS telecon is this Wednesday 
+March 12, 2014.
+
+The Federal Register announcement, with webex and phone information 
+can be found at:
+
+http://www.gpo.gov/fdsys/pkg/FR-2014-02-14/pdf/2014-03288.pdf
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS - MESSENGER DATA RELEASE 11
+
+The Planetary Data System is pleased to announce Release 11 of data 
+collected by the MErcury Surface, Space ENvironment, GEochemistry, 
+and Ranging (MESSENGER) mission, including raw and calibrated products 
+acquired through 17 September 2013 and advanced products acquired 
+through 17 March 2013.
+
+New products for this release include:
+- Anti-coincidence shield neutron spectra and high-time-resolution 
+  energetic electron data (GRS)
+- Global 3-color map with various backplanes (MDIS)
+- Element concentration maps (GRS, XRS)
+- Neutron composition information (NS)
+- Reflectance spectra and base map and exosphere model (MASCS)
+- Density, temperature, pressure, and arrival direction distributions 
+  for selected time periods and ion species (EPPS)
+
+Advanced products with extended data and other improvements include:
+- Summed gamma-ray spectra and background-subtracted, geolocated 
+  neutron counts (GRNS)
+- Time-averaged magnetic field data (MAG)
+- Altimeter profiles, radiometry, and improved-resolution northern 
+  hemisphere digital elevation model (MLA)
+- Limb tangent height and surface reflectance spectra (MASCS)
+- Pitch-angle and measured-flux distributions and energy spectra 
+  (EPPS)
+- Occultation data and spherical harmonic gravity and shape models 
+  (RS/MLA)
+
+Data sets in this release:
+
+http://pds.nasa.gov/subscription_service/SS-20140307.html
+
+Data archived in the PDS:
+
+http://pds.nasa.gov
+
+ACT-REACT QuickMap interactive Web interface to MESSENGER data:
+
+http://messenger.jhuapl.edu
+
+http://www.nasa.gov/messenger
+
+MDIS mosaics:
+
+http://messenger.jhuapl.edu/the_mission/mosaics.html
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PANEL DISCUSSION FOR YOUNG SCIENTISTS AT LPSC
+
+The loosely organized group Young Scientists for Planetary Exploration 
+is hosting a two-part panel discussion and Q & A session on NASA 
+funding, how to get it, and what we can all do to improve the future 
+prospects of early career planetary scientists. Our panel features 
+several experienced researchers and NASA administrators, including: 
+Jonathan Rall (NASA Planetary R & A lead), Christina Richey (NASA 
+Program Officer), David Draper (NASA Manager of Astromaterials 
+Research), Curt Niebur (NASA Program and Discipline Scientist), 
+Sarah Noble (NASA Program Officer), and Casey Dreier (Planetary 
+Society Director of Advocacy). The event will be held on Tuesday,
+March 18, at 5:00 PM in the Woodlands room of the conference hotel. 
+Although this event is open to anyone interested, priority will be 
+given to students and early-career researchers (of any age).
+
+For more information, please contact Paul Hayne: 
+Paul.O.Hayne@jpl.nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+TENURE-TRACK POSITION IN PLANETARY GEOSCIENCE
+
+The Department of Earth Sciences and the Centre for Planetary Science 
+and Exploration at The University of Western Ontario invite 
+applications for a probationary tenure-track faculty position in the 
+area of Planetary Geoscience. The appointment will be made at the 
+rank of Assistant or Associate Professor. 
+
+This position builds upon the recent appointments of an NSERC/MDA/CSA 
+Industrial Research Chair in Planetary Geology, a Tier 1 Canada 
+Research Chair in Planetary Science and two Research Chairs, one in 
+Planetary Materials and one in Exoplanet Research. 
+
+The applicant will have a strong record in Planetary Geoscience 
+research, with preference given to applicants whose research focuses 
+on comparative planetology and/or planetary surface processes. 
+Research methodologies may include remote sensing and spectroscopy 
+for Earth and other planetary observations, geochemistry, hydrology, 
+geomicrobiology, metallogeny, and related fields. Involvement in 
+current or future planned planetary exploration missions and/or 
+Earth observation remote sensing is considered an asset to this 
+position. 
+
+More details on the position can be found at: 
+
+http://www.uwo.ca/earth/news/2014/faculty_position_in_planetary
+_geoscience.html
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+48TH ESLAB SYMPOSIUM: NEW INSIGHTS INTO VOLCANISM ACROSS THE SOLAR 
+SYSTEM
+
+The deadline for abstract submission has been extended to 14th 
+March 2014. Information is available at:
+
+http://congrexprojects.com/2014-events/48-ESLAB/
+
+The SOC thanks the numerous researchers that have already submitted 
+their abstract to the symposium.
+
+The symposium will focus on volcanism in the Solar System. Of 
+particular interest, but not limited to, will be new insights 
+obtained over the last years from international space missions 
+to planets, Moons and cryo-volcanism. The format will be made up 
+of plenary sessions on topics related to volcanism in the Solar 
+System, with contributed oral and poster presentations.
+
+Sebastien Besse on behalf of the SOC    
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 12-15, 2014
+Venus Express VIRTIS and VMC Data Workshop
+http://www.rssd.esa.int/index.php?project=PSA&page=vex_workshop 
+Madrid, Spain
+
+May 13, 2014
+M4 Venus Orbiter Workshop
+http://www.lpi.usra.edu/planetary_news/wp-content/uploads/2014/02/
+M4-Venus-Workshop.pdf
+London, United Kingdom
+
+June 9-12, 2014
+Fifth Joint Meeting of the Space Resources Roundtable and the 
+Planetary & Terrestrial Mining Sciences Symposium
+http://www.isruinfo.com//docs/srr_ann/srr_xv_ptmss_first_
+announcement.pdf
+Golden, CO
+
+June 24-27, 2014
+6th Workshop on Hyperspectral Image and Signal Processing: Evolution 
+in Remote Sensing
+http://core.ieee-whispers.com/
+Lausanne, Switzerland
+
+September 8-12, 2014
+Thirty Years of Beta Pic and Debris Disk Studies
+http://betapic30.sciencesconf.org/
+Paris, France
+
+September 22-25, 2014
+Exoplanets with JWST - MIRI
+http://www.mpia-hd.mpg.de/exoplanets2014/
+Heidelberg, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

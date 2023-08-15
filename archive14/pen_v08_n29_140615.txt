@@ -1,0 +1,260 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 29 (June 15, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. [NASA] PDS - Mars Exploration Rovers Data Release 40
+2. Eighth International Conference on Mars - Program Now Available
+3. NASA Postdoctoral Fellowships
+4. Observing Campaign to Study Comet 2013 A1 (Siding Spring)
+5. Input Requested for AGU Scientific Trends Survey
+6. Enceladus: A Habitable World - Special Session at Fall 2014 AGU
+   Meeting
+7. Planetary Meeting Calendar Additions
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 40
+
+The Planetary Data System (PDS) is pleased to announce Release 40
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 3421 through 3510, rover Opportunity (MER1/B), instruments:
+
+APXS
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There are no Mini-TES, Moessbauer, Radio Science, or Atmospheric 
+Opacity data in this release.  
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20140609.html
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+  
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+  
+http://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+  
+http://pds.nasa.gov/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EIGHTH INTERNATIONAL CONFERENCE ON MARS - PROGRAM NOW AVAILABLE
+
+Greetings Mars Community!
+ 
+Below is a link to the program for the Eighth International Conference 
+on Mars. It maps out the exciting sequence of talks and events for all 
+five days.
+ 
+There is no fee to attend the conference, but registration is strongly 
+encouraged! It helps us properly welcome you by making sure that we 
+have an accurate headcount for conference materials, refreshments, 
+etc. The link to the registration form is also found below.
+ 
+For more information, please visit:
+
+http://www.hou.usra.edu/meetings/8thmars2014/
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18421  
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OBSERVING CAMPAIGN TO STUDY COMET 2013 A1 (SIDING SPRING)
+
+C/Siding Spring will fly within 135,000 km of Mars on 19 October 2014. 
+Measurements leading to increased understanding of its orbit, nucleus 
+size, density, strength, rotation rate, composition, coma and tail 
+morphology, and evolution over time are highly encouraged, especially 
+around Mars closest approach. These observations will also contribute 
+to the studies of the interactions between the Martian atmosphere and 
+cometary dust and volatiles, relevant to understanding the delivery of 
+cometary water and organics to inner planets. The comet is best 
+observed from the Southern hemisphere, and will appear brightest to 
+Earth based observers in mid-September 2014 ([V_min] ~ 10). In order 
+to facilitate the maximal observing of Siding Spring, we are holding a 
+1-day observers' workshop/telecon on 11 Aug 2014, and Mars fleet pre-
+encounter tag-up workshop/telecon on 19 Sept 2014. Everyone is welcome 
+to attend and discuss their observing plans, needs, and results. We 
+will also be supporting a post-encounter special session at the Fall 
+2014 AGU meeting in San Francisco.
+
+For more information about observing opportunities for Comet Siding
+Spring, please visit the CIOC Campaign webpage at:
+
+http://cometcampaign.org
+
+and the Mars Program Siding Spring webpage at:
+
+http://mars.nasa.gov/comets/sidingspring
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INPUT REQUESTED FOR AGU SCIENTIFIC TRENDS SURVEY
+
+Dear Colleagues:
+ 
+The American Geophysical Union is asking for input to their Scientific 
+Trends Survey, from the broader scientific community, and indeed, 
+beyond. Its purpose: to help identify recent and currently emerging 
+trends for Earth and Space science. The full charge to the trends task 
+force can be found at:
+
+http://sites.agu.org/leadership/committees/council-committees/
+scientific-trends-task-force/
+
+Please take a view minutes to visit the survey at:
+
+https://www.surveymonkey.com/s/AGUScientificTrends2014
+
+The survey will close on or around this Friday, 20 June. Your opinions 
+will be valued.
+ 
+Bill McKinnon, on behalf of the AGU Planetary Sciences section
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ENCELADUS: A HABITABLE WORLD - SPECIAL SESSION AT FALL 2014 AGU 
+MEETING  
+
+Session Title: Enceladus: A Habitable World 
+Session ID: #1492 
+Conveners: Carolyn Porco, Chris McKay
+
+Geysers of icy particles and vapor, with trace amounts of organic 
+compounds, erupting from warm fractures and deriving from a salty, 
+subsurface sea make the Saturnian moon Enceladus the most accessible 
+extraterrestrial habitable zone in our solar system. In this special 
+session, now in its 9th year, we continue our focus on those topics 
+relating to the origin and state of the moon's geologically active 
+south polar terrain (SPT). These include observational, theoretical 
+and modeling investigations of the composition, state, and dynamics 
+of Enceladus' jets and plume, its thermal and interior state and 
+evolution, and the geomorphology of the SPT and similar provinces. We 
+also welcome studies addressing future spaceflight missions and the 
+moon's potential for biological activity.
+
+If you love Enceladus as much as we do, and you have new results that 
+fit the topics above, and you're eager to share them with other 
+Enceladus fans, please consider submitting an abstract to this special 
+AGU session. 
+
+The deadline for abstracts is August 6, 2014. 
+
+Hope to see you in San Francisco! 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 12-14, 2014
+2014 Conference on Big Data from Space (BiDS '14)
+http://congrexprojects.com/2014-events/BigDatafromSpace/introduction
+Frascati, Italy
+
+June 7-12, 2015
+22nd ESA Symposium on European Rocket and Balloon Programmes and 
+Related Research
+http://pac.spaceflight.esa.int
+Tromsø, Norway
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

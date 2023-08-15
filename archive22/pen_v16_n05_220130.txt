@@ -1,0 +1,451 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 5 (January 30, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] ROSES-21: Due Dates for C.30 OSIRIS-REx Sample Analysis
+   Participating Scientist Program
+2. [NASA] ROSES-21: Appended Planetary Major Equipment and Facilities
+   Proposals are Permitted Through the End of ROSES-2021
+3. [NASA] PDS: MRO CRISM MTRDR and TER Release 19
+4. [NASA] Planetary Science Advisory Committee (PAC) Meeting
+5. COSPAR-22 Session: B5.1 - Ocean Worlds
+6. MEPAG VM14 - 2nd Information Circular
+7. Mars Exploration Science Monthly Newsletter for February 2022
+8. DPS 2022 Meeting Self-Nomination for Scientific Organizing Committee
+9. Postdoctoral Research Associate in Planetary Science
+10. Postdoctoral Position in the Space Sciences 
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ROSES-21: DUE DATES FOR C.30 OSIRIS-REX SAMPLE ANALYSIS
+PARTICIPATING SCIENTIST PROGRAM
+
+The objective of C.30 the OSIRIS-REx Sample Analysis Participating
+Scientist Program (ORSA-PSP) is to enhance the scientific return during
+the sample analysis operational phase of the OSIRIS-REx mission by
+expanding participation in the mission through new investigations that
+broaden and/or complement existing investigations. Work solicited by
+this program element is to enhance, augment, or complement planned
+mission activities during the sample-analysis phase of the mission.
+
+On December 17, 2021 the text for C.30 ORSA-PSP was released but the
+due dates were TBD. The due dates for proposals have now been set.
+Step-1 proposals are due February 28, 2022 and Step-2 proposals are due
+April 26, 2022. All of the critical supporting documents are available
+for download on the NSPIRES page for this program element:
+
+https://tinyurl.com/yckuu8sm
+
+This Amendment will be posted on the NASA research opportunity homepage 
+at: 
+
+https://solicitation.nasaprs.com/ROSES2021
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions concerning C.30 ORSA-PSP may be directed to Jeffrey N.
+Grossman at HQ-OREXPSP@mail.nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-21: APPENDED PLANETARY MAJOR EQUIPMENT AND FACILITIES
+PROPOSALS ARE PERMITTED THROUGH THE END OF ROSES-2021
+
+Program element C.17 Planetary Major Equipment and Facilities (PMEF)
+Program allows proposers to participating programs supported by the
+Planetary Science Division to append a request to acquire or develop
+instrumentation to support the PI's research.
+
+See the NSPIRES page for this program element:
+
+https://tinyurl.com/36er5edy
+
+ROSES-2021 Amendment 65 announces that appended Planetary Major
+Equipment and Facilities (PMEF) are permitted through the end of
+ROSES-2021 to permit those who still plan to submit proposals (e.g., to
+a NoDD program) the opportunity to include an appended PMEF proposal
+for investigator instruments only. No stand-alone PMEF proposals are
+solicited. Those who would have appended a request for an investigator
+instrument to their proposal but were not able to do so (those
+submitted since Amendment 42 on November 4, 2021) may contact
+aaron.burton@nasa.gov.
+
+This Amendment will be posted on the NASA research opportunity homepage 
+at:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions concerning C.17 PMEF or this amendment may be directed to
+Aaron Burton at aaron.burton@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MRO CRISM MTRDR AND TER RELEASE 19
+
+PDS announces Release 19 of Mars Reconnaissance Orbiter CRISM Targeted
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data
+Record (MTRDR) products, at:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from February 9, 2010, through December 24,
+2011. TER products are image cubes derived from CRISM hyperspectral
+targeted observations, post-processed to standardize the illumination
+and observation geometry and remove atmospheric gas absorptions and
+instrument artifacts. MTRDRs are the same products map-projected using
+terrain models of the Martian surface.
+
+For a view centered on the datasets of this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220124.shtml
+
+To access all PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PLANETARY SCIENCE ADVISORY COMMITTEE (PAC) MEETING
+
+The next Planetary Science Advisory Committee (PAC) meeting will take
+place on February 15, 2022 from 12:00 to 6:00 pm (Eastern). The agenda
+will include Planetary Science Division (PSD) and Research and Analysis
+(R&A) updates, as well as a discussion period with representatives from
+the Planetary Science Analysis/Assessment Groups. The agenda is posted
+online:
+
+https://science.nasa.gov/researchers/nac/science-advisory-committees/pac
+
+Connection: The meeting will be held via Webex. The event address for
+attendees is:
+
+https://tinyurl.com/yzvwthc5
+
+The meeting number is: 2760 600 4415 and the password is: QTeyX3sXA24.
+
+Accessibility: Captioning will be provided for this meeting. NASA is
+committed to providing equal access to this meeting for all
+participants. If you need alternative formats or other reasonable
+accommodations, please contact Ms. KarShelia Kinard, Science Mission
+Directorate, NASA Headquarters, (202) 358-2355 or
+karshelia.kinard@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+COSPAR-22 SESSION: B5.1 - OCEAN WORLDS
+
+We are pleased to announce a session for the COSPAR 44th Scientific
+Assembly to be held in Athens, Greece, 16-24 July 2022.
+
+https://www.cosparathens2022.org/
+
+The abstract submission deadline is 11 February 2022.
+
+B5.1: Ocean Worlds session description: 
+The exploration of ocean worlds in the outer Solar System has
+significantly expanded our set of targets in the quest to discover
+signs of life beyond Earth in the past decade and will continue to be
+in the ones to come. We invite contributions that cover a wide range of
+topics focusing on confirmed or potential subsurface (including
+surficial in the case of Titan's lakes) ocean worlds of our Solar
+System. The topics can include studies on the geomorphology and
+composition of ocean worlds, geophysics and ocean properties, as well
+as laboratory investigations and field work of analogue environments.
+Furthermore, studies that examine interactions between planetary
+interiors, surfaces, atmospheres, and astrobiology/habitability are
+welcomed.
+
+https://www.cospar-assembly.org/admin/session_cospar.php?session=1018
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MEPAG VM14 - 2ND INFORMATION CIRCULAR
+
+The next virtual meeting (VM14) of the Mars Exploration Program
+Analysis Group (MEPAG) is scheduled for February 2-3, 2022, 1-5 pm ET
+(same time block for both days).
+
+Meeting agenda and WebEx connectivity information (including how to
+enable closed-captioning support):
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+Before VM14 please do this "homework" in preparation for discussions on
+MEPAG plans and future program activities. Community activities such as
+MASWG, the upcoming Low-Cost Mars Missions Workshop, and the
+forthcoming Decadal Survey report will provide guidance for Mars
+exploration. It's important that everyone has the opportunity to
+provide input during this planning process.
+
+Please come with your ideas that will augment these community efforts:
+
+- Is there something you think is missing from existing
+  discussions/reports? 
+- What science theme brought forward by the community is most
+  important, 
+  and what step(s) are necessary to best advance the science? 
+- Do you have a different mission "arc" in mind than the examples in
+  the MASWG report?  
+- Is there a vision of "What is next?" you would like to communicate?
+
+This meeting is open to all members of the Mars science community
+including our international colleagues.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR FEBRUARY 2022
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Michael
+Mischna, and Brandi Carrier of the Mars Program Science Office, the
+February 2022 edition of the Mars Exploration Science Monthly
+Newsletter can be found on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+DPS 2022 MEETING SELF-NOMINATION FOR SCIENTIFIC ORGANIZING COMMITTEE
+
+The Scientific Organizing Committee (SOC) of the 2022 DPS Meeting in
+London, Canada is seeking self-nominations from those interested in
+serving on the SOC. These self-nominations are for consideration for
+membership. The intent is to build a diverse, equitable and inclusive
+committee from these nominations.
+
+Members of the committee are expected to participate in remote telecons
+as needed, to review abstracts submitted by the community to the
+conference, to help sort those abstracts into sessions (including
+plenary sessions) and to help identify and select session chairs. The
+bulk of the reviewing and sorting activities typically take place
+within a single week.
+
+To self-nominate, please send the following materials to
+jmoores@yorku.ca by no later than February 7, 2022:
+
+1) Your name, contact details, and your present affiliation, including
+   career stage
+2) A list of areas of research in which you feel you could competently
+   review abstracts
+3) A list of anticipated blackout dates between May 1 and August 31 of 
+   2022 which would prevent you from reviewing and sorting abstracts.
+
+John Moores
+Chair, Scientific Organizing Committee
+2022 DPS Meeting (London, Canada)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOCTORAL RESEARCH ASSOCIATE IN PLANETARY SCIENCE
+
+Institution: U.S. Naval Academy
+
+Description: 
+Applications are invited for a position as a postdoctoral Assistant
+Research Professor in planetary science at the U.S. Naval Academy
+(USNA) Physics Department in support of Assistant Professor Matthew
+Knight, to begin as early as Spring 2022. The successful applicant will
+lead analyses of comets observed with heliophysics assets and will
+assist in observational support and analyses of NASA's Double Asteroid
+Redirection Test (DART). The position will involve collaboration with
+colleagues at the Naval Research Laboratory, University of Maryland,
+and Johns Hopkins University Applied Physics Laboratory, and may
+require travel to obtain new observations in Chile and/or Flagstaff,
+AZ. The successful candidate will also be encouraged to pursue research
+of their own choosing.
+
+This is a federal excepted service position with a one-year initial
+appointment and the possibility of renewing for an additional year.
+For additional information on the position and how to apply, please
+visit: 
+
+https://www.usna.edu/HRO/jobinfo/Physics-AsstResearchProf-AY22.php
+
+Applications will be reviewed beginning March 1, 2022 and the position
+will remain open until filled.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOCTORAL POSITION IN THE SPACE SCIENCES 
+
+Washington University in St. Louis invites applicants to conduct
+independent research as a postdoctoral fellow of the McDonnell Center
+for the Space Sciences. Areas of interest include astromaterials,
+cosmochemistry, astrophysics, planetary science, particle and nuclear
+physics, cosmology, and Earth as a planet. Candidates must have a Ph.D.
+by May 2022 degree candidate. 
+
+The initial appointment is for one year, renewable for a second year.
+Washington University is committed to equal employment opportunity and
+encourages applications by those underrepresented in their academic
+fields.
+
+Applications should include a CV, a brief statement of their three most
+significant publications, a 2-page research proposal, and names/contact
+info for three professional references. Applicants should contact
+referees, who will need to have letters uploaded to the link provided
+on the application site. Applications and letters are due March 1, 2022
+and should be submitted through Interfolio:
+
+https://apply.interfolio.com/101336
+
+Direct questions related to the application process to Jan Foster: 
+spacesciences@wustl.edu. The full advertisement can be found at: 
+
+https://mcss.wustl.edu/news/postdoctoral-fellowship-opening
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+A CO2 Cycle on Ariel? Radiolytic Production and Migration to
+Low-latitude Cold Traps
+Richard J. Cartwright et al. 2022 PSJ 3:8
+https://doi.org/10.3847/PSJ/ac3d30
+
+Col-OSSOS: Probing Ice Line/Color Transitions within the Kuiper Belt's
+Progenitor Populations
+Laura E. Buchanan et al. 2022 PSJ 3:9
+https://doi.org/10.3847/PSJ/ac42c9
+
+Polyaromatic Units Set the Albedo of Dark Extraterrestrial Materials
+Romain Maupin et al. 2022 PSJ 3:10
+https://doi.org/10.3847/PSJ/ac424b
+
+The Lost Meaning of Jupiter's High-degree Love Numbers
+Benjamin Idini and David J. Stevenson 2022 PSJ 3:11
+https://doi.org/10.3847/PSJ/ac4248
+
+LRO-LAMP Observations of the Preperihelion Coma of Comet C/2013 A1
+(Siding Spring)
+Lizeth O. Magana et al. 2022 PSJ 3:12
+https://doi.org/10.3847/PSJ/ac3fa5
+
+The Ice Coverage of Earth-like Planets Orbiting FGK Stars
+Caitlyn Wilhelm et al. 2022 PSJ 3:13
+https://doi.org/10.3847/PSJ/ac3b61
+
+Modeling Meteoroid Impacts on the Juno Spacecraft
+Petr Pokorny et al. 2022 PSJ 3:14
+https://doi.org/10.3847/PSJ/ac4019
+
+Repeating Gas Ejection Events from Comet 45P/Honda-Mrkos-Pajdusakova
+Alessondra Springmann et al. 2022 PSJ 3:15
+https://doi.org/10.3847/PSJ/ac3e66
+
+Active Main-belt Asteroid (6478) Gault: Constraint on Its Cohesive
+Strength and the Fate of Ejected Particles in the Solar System
+Pierce M. Jackson et al. 2022 PSJ 3:16
+https://doi.org/10.3847/PSJ/ac4031
+
+Radial Distribution of the Dust Comae of Comets
+45P/Honda-Mrkos-Pajdusakova and 46P/Wirtanen
+C. Lejoly et al. 2022 PSJ 3:17
+https://doi.org/10.3847/PSJ/ac4501
+
+Influence of Energy Dissipation on Spin Pole Precession Trajectories
+for Synchronous Rotators
+Bruce G. Bills and Adrian J. Brown 2022 PSJ 3:18
+https://doi.org/10.3847/PSJ/ac3c4b
+
+Gravity Investigation of Saturn's Inner System with the Innovative
+Skimmer Concept
+Marzia Parisi et al. 2022 PSJ 3:19
+https://doi.org/10.3847/PSJ/ac47a0
+
+Vortices and Dust Devils as Observed by the Mars Environmental Dynamics
+Analyzer Instruments on Board the Mars 2020 Perseverance Rover
+Brian Jackson 2022 PSJ 3:20
+https://doi.org/10.3847/PSJ/ac4586
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

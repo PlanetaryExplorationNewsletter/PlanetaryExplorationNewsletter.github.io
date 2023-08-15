@@ -1,0 +1,377 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 42 (September 30, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: William R. Ward (1944 - 2018)
+2. Assistant Professor of Physics or Astronomy at Ithaca College
+3. Bateman Postdoctoral Fellowship, Yale University
+4. Postdoctoral Position Cometary Atmospheres
+5. Research Associate in Planetary Science at CU Boulder
+6. Research Opportunities at the University of Hawaii: Fluid Migration 
+   in Titan's Ice Shell
+7. Grad Student/Postdoc Opportunities in Planetary Surface Processes 
+   at UT Austin
+8. NEOCam Science Community Discussion at DPS
+9. PubSpace and You: How to Deposit Your Manuscripts as Required by 
+   ROSES
+10. An Astrobiology Science Strategy for the Search for Life in the
+    Universe: Public Briefing and Webcast on 10/10/18
+11. Planetary Meetings Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: WILLIAM R. WARD (1944 - 2018)
+
+William (Bill) R. Ward passed away on September 20th at his home in
+Prescott, AZ after a battle with brain cancer. Ward was a preeminent
+theoretician that made many seminal contributions to our understanding
+of planetary dynamics and solar system formation. With his thesis
+advisor, Peter Goldreich, Ward proposed that planetesimals were formed
+via local gravitational instability in the protostellar disk. In 1973,
+Ward was the first to recognize that the obliquity of Mars undergoes
+large oscillations, and with Alastair Cameron in 1976, he was one of
+the original proposers of the giant impact theory for the origin of
+the Moon. Ward was a pioneer in the study of gravitational
+interactions between planets and their precursor gas disk, and how
+these may cause large scale changes in planetary orbits. His many
+papers on this topic elucidated the nature of Type I vs. Type II
+migration, central to our understanding of planet formation in our
+Solar System and in exoplanetary systems. Ward also contributed
+greatly to our understanding of satellite formation and dynamical
+evolution. After completing his Ph.D. at Caltech, Ward worked as a
+post-doc at CFA, before moving to JPL. He joined SwRI in Boulder, Co.,
+in 1998, and retired from SwRI as an Institute Scientist in 2014. Ward
+is survived by his wife Sandra, brother Jeff, sister Patty, sons Brad
+and Scott, and daughter Stephanie. 
+
+Provided by Robin Canup
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ASSISTANT PROFESSOR OF PHYSICS OR ASTRONOMY AT ITHACA COLLEGE
+
+The Ithaca College Department of Physics and Astronomy invites
+applications for a tenure-track assistant professor to begin in August
+2019. The successful candidate will embrace our commitment to
+undergraduate teaching, advising, and mentorship, will establish an
+active experimental physics or astrophysics research program or an
+observational astronomy research program with significant
+undergraduate student involvement, and will contribute to the
+operation and improvement of the department, school, and college.
+
+The successful candidate must have completed a Ph.D. in physics,
+astronomy, astrophysics, or a closely related field by August 1, 2019.
+Experience as a teacher of record or as a teaching assistant at the
+undergraduate level is required.
+
+For the complete position announcement and to submit an application,
+please visit:
+
+https://ithaca.peopleadmin.com
+
+Please upload a complete curriculum vitae, a statement of teaching
+experience and philosophy, a description of research plans, and a
+statement that addresses how they will contribute to a culture of
+inclusion and to diversity at Ithaca College. Applicants must also
+provide names and email addresses of three individuals who will be
+asked to submit letters of reference. To ensure full consideration,
+complete applications must be received by October 8, 2018.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+BATEMAN POSTDOCTORAL FELLOWSHIP, YALE UNIVERSITY
+ 
+The Department of Geology and Geophysics at Yale University announces
+an annual competition for a Bateman Postdoctoral Fellowship. We
+welcome applicants with research interests across the full range of
+disciplines within earth and planetary sciences (geophysics, planetary
+sciences, tectonics, oceans, atmosphere, climate dynamics,
+geochemistry, paleoclimatology, geobiology, and the evolution of
+life). The Postdoctoral Associate position is awarded for two years,
+providing a stipend ($60,000/yr) and base research funds ($5,000/yr),
+plus health care benefits and limited relocation expenses. Applicants
+should contact a sponsor in the Department to discuss potential
+research projects, and then submit a short (2-3 page) statement of
+research interests and proposed research, a curriculum vitae with a
+full list of publications, an endorsement letter from the sponsoring
+faculty member, and three confidential letters of reference.
+Applications should be submitted online at:
+
+http://apply.interfolio.com/54659
+
+The deadline for receipt of all application materials is December 15,
+2018, and successful candidates are expected to begin their program at
+Yale between July 1 and December 31, 2019. Yale University is an
+Affirmative Action/Equal Opportunity employer. Yale values diversity
+among its students, staff, and faculty and strongly welcomes
+applications from women, persons with disabilities, protected
+veterans, and underrepresented minorities.
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL POSITION COMETARY ATMOSPHERES
+
+The Physics Department at Auburn University invites applicants for a
+post-doctoral research position within the Atomic, Molecular and
+Optical Physics group in the field of cometary atmospheres.
+
+http://www.auburn.edu/cosam/departments/physics/research/atomic.htm
+
+The successful candidate will analyze images of comet 9P/Tempel 1
+taken during the flyby of NASA's Deep Impact spacecraft. These images
+were acquired with comet specific narrowband filters and allow for a
+detailed study of the gas and dust surrounding the nucleus. The goal
+of this project is to connect this gas and dust to specific areas on
+the nucleus, to investigate chemically heterogenous outgassing, and to
+identify atomic and molecular processes that alter the inner coma.
+
+Familiarity with planetary science and/or atomic and molecular physics
+is preferred. Substantial familiarity with a commonly-used scientific
+programming language (e.g. IDL, Python) is highly desirable. Review of
+applications will begin October 19th, 2018 and continue throughout the
+year as the positions become available.
+
+The contact for this activity is Prof. Dennis Bodewits
+(dennis@auburn.edu).
+
+More details and information on how to apply can be found at: 
+
+http://www.auburn.edu/~dzb0059/Bodewits_postdoc.pdf
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+RESEARCH ASSOCIATE IN PLANETARY SCIENCE AT CU BOULDER
+
+The newly formed Exploration of Planetary Ices and Climates (EPIC)
+group at the University of Colorado's Laboratory for Atmospheric and
+Space Physics (LASP) is seeking to fill a research position in
+planetary geophysics and remote sensing. Candidates at the levels of
+RS-I and RS-II will be considered. The initial appointment is for one
+year, with opportunities for future extensions.
+
+Research duties include conducting studies of the atmospheres and
+surfaces of planets and their natural satellites, including Earth's
+moon, using data from NASA's Lunar Reconnaissance Orbiter, Mars
+Reconnaissance Orbiter, and/or legacy datasets such as Cassini and
+Galileo. Candidates with expertise in numerical modeling and
+simulation of physical phenomena including ice/vapor transport,
+dynamical processes, or impact cratering are especially encouraged to
+apply. Studies of exoplanets and exomoons may also be supported.
+
+The CU/LASP EPIC group conducts a diverse research program
+encompassing data analysis, simulation, and theoretical studies to
+understand the atmospheres and surfaces of icy planets and moons. The
+group maintains strong involvement in both active and future NASA
+planetary missions. Inquiries may be directed to Prof. Paul Hayne:
+Paul.Hayne@Colorado.edu
+
+For more details and to apply:
+ 
+https://goo.gl/RtEvQX
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+RESEARCH OPPORTUNITIES AT THE UNIVERSITY OF HAWAII: FLUID MIGRATION IN
+TITAN'S ICE SHELL
+
+As part of the new NASA Astrobiology Institute (NAI) project
+"Habitability of Hydrocarbon Worlds: Titan and Beyond", I am
+investigating the mechanisms and pathways by which biosignature-
+hosting materials might be transported from a habitable ocean
+environment to the surface, where they could be recognized by remote
+sensing instruments.
+
+https://nai.nasa.gov/teams/can-8/jpl-titan/
+
+Opportunities exist in this area at the University of Hawaii (UH) for:
+
+A graduate student to pursue their Ph.D., enrolled through the
+Department of Earth Sciences (https://soest.hawaii.edu/GG/), but
+hosted within the Hawaii Institute of Geophysics and Planetology
+(https://www.higp.hawaii.edu). The deadline for applying is January 15
+for Fall 2019 admission; more details at:
+
+https://www.soest.hawaii.edu/GG/admissions/gg_admissions.html
+
+A postdoctoral researcher to develop a proposal for the NASA
+Astrobiology Postdoctoral Program, to be hosted at HIGP. The next
+deadlines for this program are November 1 and March 1; more details
+at:
+
+https://nasa.gov/funding/postdoctoral-fellowship-program
+
+Individuals are sought who have solid physics/math backgrounds, and
+interests/expertise in numerical modeling, cryomagmatism, ice physics,
+Titan and/or other icy satellites.
+
+Please contact Sarah Fagents at fagents@hawaii.edu for more
+information.
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GRAD STUDENT/POSTDOC OPPORTUNITIES IN PLANETARY SURFACE PROCESSES AT
+UT AUSTIN
+
+Applications are solicited for graduate students and a postdoctoral
+fellow to join the newly formed UT Austin Planetary Surface Processes
+Group, headed by Dr. Tim Goudge, in the Department of Geological
+Sciences at the University of Texas at Austin. Graduate student
+applications will be considered for Fall of 2019, while the start date
+of the postdoctoral fellow could be as early as January 2019.
+
+The area of focus for graduate student projects is open within the
+broad field of planetary surface processes, and will be selected based
+on research topics of mutual interest. Prospective students can find
+out more here:
+
+http://www.timgoudge.com/Files/Goudge_Student_Ad_2018.pdf
+
+The two year postdoctoral fellow position will involve research on the
+incision of paleolake outlet canyons on Mars. Prospective applicants
+can find out more here:
+
+http://www.timgoudge.com/Files/Goudge_Postdoc_Ad_2018.pdf
+
+Dr. Goudge is strongly committed to building an inclusive research
+group with diverse perspectives and backgrounds. Applicants from
+historically underrepresented groups in STEM fields, with
+non-traditional backgrounds, and/or with a demonstrated interest in
+efforts to improve inclusion and diversity in STEM are especially
+encouraged to apply.
+
+Prospective applicants with questions about these opportunities can
+contact Dr. Goudge at tgoudge <at> jsg.utexas.edu.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NEOCAM SCIENCE COMMUNITY DISCUSSION AT DPS
+ 
+The NEOCam Science Team invites the planetary science community to
+join us for a discussion of NEOCam at the 50th DPS meeting in
+Knoxville. We will present an overview of the mission concept,
+including anticipated bandpasses, survey strategy, and data products,
+as well as discuss some of the avenues of investigation that NEOCam
+would enable. The discussion will consist of two one-hour blocks with
+ample time for questions, so attendees may come and go as their
+schedule dictates. All members of the science community, especially
+early career researchers and members of historically under-represented
+groups, are encouraged to attend to learn more about the project. 
+
+Date: Thursday, Oct 25 2018
+Time: 3:00-5:00 pm
+Location: Room 200D
+ 
+Questions? Contact Joe Masiero (joseph.masiero@jpl.nasa.gov)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PUBSPACE AND YOU: HOW TO DEPOSIT YOUR MANUSCRIPTS AS REQUIRED BY ROSES
+
+At the DPS Fall Meeting on Monday, Oct 22, 12:00 pm - 12:45 pm, Room
+301B
+
+We will discuss the relatively new ROSES requirements to submit your
+manuscripts to NASA's PubSpace system, as well as the practicalities
+for doing so with a variety of different publications. Please join us.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AN ASTROBIOLOGY SCIENCE STRATEGY FOR THE SEARCH FOR LIFE IN THE
+UNIVERSE: PUBLIC BRIEFING AND WEBCAST ON 10/10/18
+
+Are we alone in the universe? Astrobiology, the study of the origins
+of life in the universe and the search for life on other worlds, is a
+highly interdisciplinary and rapidly changing field at the
+intersection of biology, chemistry, geology, planetary science, and
+physics. Recent scientific advances have opened new doors for
+astrobiological inquiry and at the request of NASA and Congress, the
+National Academies of Sciences, Engineering, and Medicine appointed a
+committee to develop a future research strategy for the field of
+astrobiology. Please join us for this public briefing event and
+webcast, where committee chair Barbara Sherwood Lollar and committee
+member Alan Boss will discuss the report's recommendations and take
+questions from the audience.
+
+Date and Time: Wednesday, October 10, 2018 from 11am-12pm EDT
+
+Location: National Academy of Sciences Building, Members Room 2101
+Constitution Ave., N.W., Washington, DC, 20418
+
+Register to attend in person or online:
+
+http://astrobioscience.eventbrite.com
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 10, 2018
+An Astrobiology Science Strategy for the Search for Life in the
+Universe: Public Briefing and Webcast
+http://astrobioscience.eventbrite.com
+Washington, DC (and online)
+
+June 10-13, 2019
+50th Annual meeting of the Division on Dynamical Astronomy (DDA) of the AAS
+https://dda.aas.org/meetings/2019
+Boulder, CO
+
+September 30-October 3, 2019
+Large Meteorite Impacts and Planetary Evolution VI
+https://www.hou.usra.edu/meetings/lmi2019/
+Brasilia, Brazil
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

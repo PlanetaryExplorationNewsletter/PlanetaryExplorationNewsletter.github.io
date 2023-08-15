@@ -1,0 +1,506 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 8 (February 9, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. COSPAR Session B0.1: Lunar Science and Exploration
+2. COSPAR Session C5.2: Dusty Plasmas in Space
+3. USGS Astrogeology Science Center Job Opportunities
+4. PDS Release of Near Earth Asteroid Tracking (NEAT) Data
+5. Call for papers - Icarus Special Issue: Lunar Volatiles
+6. PhD and PostDoc Positions in Planetary Sciences at University of 
+   Oslo, Norway
+7. Planetary Geomorphology Image of the Month
+8. Postdoc Position at the University of Cologne, Germany
+9. Second Annual Meeting of the AAS Laboratory Astrophysics Division: 
+   LAD 2014 
+10. NASA Seminar Series on Near-Earth Asteroids
+11. NASA Postdoctoral Fellowships
+12. Session to Improve the Quality of Your NASA Proposals
+13. Mars Critical Data Products Program (Round IX) - Mars 2020
+14. Interview with, Frank Drake, the Founder of SETI, Now on YouTube
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COSPAR SESSION B0.1: LUNAR SCIENCE AND EXPLORATION
+
+Call for papers
+
+COSPAR 2014 Moscow, August 2-10
+Abstract submission date: Feb. 14
+Full details and online abstract submission at:  
+
+https://www.cospar-assembly.org/
+
+Lunar science and exploration are having a renaissance with as many 
+as ten missions sent to Moon during the last one decade itself. This 
+session is aimed at discussing new progress in lunar science from 
+recent missions, latest science results, newer insight into our 
+understanding of Moon, modeling and synthesis of different scientific 
+data, future missions, and science questions. It will include invited, 
+contributed, and poster papers. Papers on new lunar mission concepts, 
+instrumentation for the future lunar missions, and human lunar 
+exploration are also welcome in this session.
+
+Scientific Organizer: Anil Bhardwaj (SPL, VSSC, India)
+ 
+Deputy Organizer: Vladislav Shevchenko (Moscow State University, 
+Russia)
+
+Scientific Organizing Committee: Richard Vondrak (NASA-GSFC), Igor 
+Mitrofanov (Space Research Institute, Russia), Alan Smith (MSSL, UK), 
+Bernard Foing (ESTEC/ESA & ILEWG), Carle M. Pieters (Brown 
+University), Kyeong Ja Kim (KIGAM, Korea), Yury Shkuratov (Institute 
+of Astronomy, Kharkiv National University, Ukraine), John Keller 
+(NASA-GSFC), Patrick Pinet (Midi-Pyrenees Observatory, France), Yury 
+Nefed'ev (Engelhard Astronomical Observatory, Russia), Ralf Jaumann 
+(Institute of Planetary Research/DLR, Germany), Tatsuaki Okada (ISAS/
+JAXA, Japan)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COSPAR SESSION C5.2: DUSTY PLASMAS IN SPACE
+
+Call for papers
+ 
+The scope of this session includes two areas of research regarding 
+"Dusty Plasmas in Space": (1) the wide range of naturally occurring 
+dusty plasmas in the Universe, such as those present in the 
+interstellar medium, in star and planet formation, in the solar 
+system, and in the Earth's atmosphere, and (2) man-made dusty plasmas 
+under microgravity conditions, e.g., experiments on the International 
+Space Station designed to observe basic dusty plasma processes such 
+as strong coupling phenomena. This session aims to provide an 
+opportunity for an exchange of technical know-how, and theoretical 
+and experimental ideas in order to further the development of dusty 
+plasma research as a whole.
+ 
+A full description of the session (C5.2) can be found at: 
+
+https://www.cospar-assembly.org/
+
+Abstract deadline: 14 February 2014.
+ 
+The 40th COSPAR Scientific Assembly will be held from 2-10 August 
+2014 in Moscow. Details at: 
+
+http://cospar2014moscow.com/
+ 
+Scientific Organizer: Hubertus Thomas (Max Planck Institute for 
+extraterrestrial Physics, Germany)
+Deputy Organizer: Timothy Stubbs (NASA GSFC)
+Scientific Organizing Committee: Robert Bingham (Rutherford Appleton 
+Laboratory, UK), Geraint Jones (UCL, Mullard Space Science Lab, UK),
+Vladimir Molotkov (Joint Institute for High Temperatures, Russia), 
+Hiroo Totsuji (JAXA, Japan)
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+USGS ASTROGEOLOGY SCIENCE CENTER JOB OPPORTUNITIES
+
+The U.S. Geological Survey Astrogeology Science Center in Flagstaff, 
+Arizona, has up to three full-time permanent interdisciplinary 
+(Geologist, Geophysicist, Physical Scientist, or Space Scientist) 
+research positions now posted online. The soft-money positions are at 
+the GS-13 grade level (comparable to associate professors in academia). 
+Candidates with strong research credentials in planetary science or in 
+remote sensing and geoscience applicable to planetary studies are 
+sought. Experience with both obtaining NASA research grants and working 
+on planetary space missions is especially important. The application 
+opportunity will be open from February 3, 2014 to February 21, 2014.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PDS RELEASE OF NEAR EARTH ASTEROID TRACKING (NEAT) DATA
+
+The Planetary Data System (PDS) is pleased to announce the 
+availability of the first installment of the image data from the Near 
+Earth Asteroid Tracking (NEAT) Survey. To access these data, please 
+visit the following link:
+
+http://sbn.psi.edu/pds/resource/neat.html
+
+PDS Small Bodies Node provides a utility for searching the NEAT data 
+set for images containing specified solar system targets, also 
+available at the above link.
+
+(The NEAT data will be released in six installments over the course 
+of 2014, of which this is the first.)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CALL FOR PAPERS - ICARUS SPECIAL ISSUE: LUNAR VOLATILES
+
+In the past five years, the paradigm of lunar volatiles research has
+shifted from hypothesizing on the existence of volatiles on the Moon 
+to classifying the abundance and distribution of different types of 
+volatiles on the Moon. This special issue reports work advancing the 
+understanding of volatiles in, on, and around the Moon including the 
+primordial inventory, volatile additions and losses throughout the 
+history of the Moon, and the current inventory of volatiles. 
+Manuscripts publishing spacecraft data relevant to mapping and 
+quantifying lunar volatiles are sought. In addition, papers focused 
+on the processes related to the storage, maintenance, migration, 
+delivery, or removal of volatiles are appropriate. The special issue 
+solicits submissions containing new scientific research via laboratory 
+studies, remote sensing, data analysis, modeling, sample analysis, or 
+theoretical investigations. Topics of interest include, but are NOT
+limited to:
+ 
+Composition and spatial distribution of volatiles
+Timing of volatile emplacement and removal
+Processes involving lunar volatiles
+Comparative analysis of volatiles on different solar system objects
+
+Author guidelines for preparation of manuscript can be found at:
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home/505620
+/authorinstructions
+
+For more information, please contact the editorial office at 
+Icarus@astro.cornell.edu
+
+Guest Editors:
+Dana Hurley
+Oded Aharonson
+Matthew Siegler
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PHD AND POSTDOC POSITIONS IN PLANETARY SCIENCES AT UNIVERSITY OF OSLO, 
+NORWAY
+
+The Centre for Earth Evolution and Dynamics at the University of Oslo, 
+Norway, invites applications for a:
+
+1) PhD Research Fellowship in Earth and Planetary Sciences on numerical 
+modeling of large scale impact cratering processes:
+
+http://uio.easycruit.com/vacancy/1124103/97031?iso=no
+
+2) Postdoctoral Research Fellowship in Earth and Planetary Sciences on 
+studying the geological evolutionary history and cratering record of 
+Mercury in comparison with the Moon and Mars:
+
+http://uio.easycruit.com/vacancy/1124221/97031?iso=no
+
+The positions and main tasks of the successful candidates are part
+of the "Crater Clock: Calibration of the Cratering Chronometer
+for the Earliest Planetary Evolution" project.
+
+Application deadline: May 1, 2014.
+
+If you have any questions, follow the links above, or contact
+Stephanie C. Werner, Centre for Earth Evolution and Dynamics at the 
+University of Oslo, Norway
+(stephanie.werner@geo.uio.no)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The February 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http:/planetarygeomorphology.wordpress.com/
+ 
+This Month’s topic is on "Paleolakes on Mars".
+
+Post contributed by Dr. Gino Erkeling, Institut für Planetologie, 
+Westfälische Wilhelms-Universität Münster, Germany.
+
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+   
+POSTDOC POSITION AT THE UNIVERSITY OF COLOGNE, GERMANY
+
+A two-year postdoc position starting in September 2014 is available 
+within the Space Physics/Planetary Group of the Institute of 
+Geophysics and Meteorology at the University of Cologne, Germany. The 
+position is renewable up to a total length of 6 years subject to the 
+continuation of funding.
+
+We look for candidates with interest in turbulence in space plasmas 
+or the interaction of planetary bodies (including extra-solar planets) 
+with their surrounding plasma environments. Theoretical, numerical 
+and/or observational approaches are equally well appreciated. 
+
+Interest to participate in the English-spoken teaching activities in 
+space plasma physics and planetary sciences of the Institute is 
+welcome. The position includes the possibility to pursue a 
+habilitation. 
+
+Candidates should submit a CV and a cover letter describing their 
+research experience and interests, and names and contact information 
+for two references. The position is open until filled, however we will 
+begin reviewing applications on April, 7 2014. We encourage women and 
+persons with disabilities to apply.  
+
+Applications should be submitted electronically to Joachim Saur, 
+Professor, Institute of Geophysics and Meteorology, University of 
+Cologne, Germany, saur@geo.uni-koeln.de
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+   
+SECOND ANNUAL MEETING OF THE AAS LABORATORY ASTROPHYSICS DIVISION: 
+LAD 2014 
+
+The second LAD meeting devoted to the interplay between laboratory 
+astrophysics and astronomy, planetary science and related sciences will 
+be held jointly with the 224th Meeting of the American Astronomical 
+Society, June 1-5, 2014, Boston, MA.
+
+Abstract Submission for oral and poster presentations opens 3 February 
+2014. The deadline for receipt of abstracts is 9:00 pm ET, Monday, 3 
+March 2014. Late abstracts will be accepted until 9:00 pm ET, Thursday, 
+17 April 2014.
+
+Detailed abstract information and presentation instructions can be 
+found at:
+
+http://aas.org/meetings/aas224/abstracts_full
+
+Details about the program and invited speakers can be found at:
+
+http://aas.org/aas-224th-meeting/224th-meeting-laboratory-astrophysics-
+division-sessions 
+
+In addition to its Annual Meeting, LAD, is also holding a one-day 
+meeting jointly with the AAS SPD Division and the APS GPAP Topical 
+Group in Plasma Astrophysics that will focus on the interplay between 
+laboratory astrophysics, plasma physics and solar physics.
+
+Posters – Parallel 4-day long session
+
+Conveners: 
+
+Farid Salama (NASA-Ames Research Center), Chair 
+John Black (Chalmers University of Technology) 
+Nancy Chanover (New Mexico State University) 
+Paul Drake (University of Michigan) 
+Chikang Li (Massachusetts Institute of Technology) 
+Daniel Wolf Savin (Columbia University) 
+Gianfranco Vidali (Syracuse University) 
+Steven Federman (University of Toledo), ex-officio
+
+ 
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA SEMINAR SERIES ON NEAR-EARTH ASTEROIDS
+ 
+Curious about NASA’s Grand Challenge to "discover all asteroids that 
+could threaten human populations and find out how to deal with them?" 
+
+NASA is sponsoring a series of seminars on the properties of Near 
+Earth Asteroids (NEAs) to provide information of interest to 
+astronomers (amateur and professional), students, teachers, and others 
+who are potentially interested in contributing to studies of NEAs. The 
+seminars will be held at 11am(Eastern) on the second and fourth Fridays 
+of each month. Information on how to join these seminars is posted at:
+
+http://sservi.nasa.gov/agc-seminar-series/
+
+The first 5 speakers are:
+ 
+- Feb 14 Lindley Johnson (NASA Headquarters):
+NASA's NEA programs
+ 
+- Feb 28 David Morrison (NASA Ames & SSERVI):
+History of impacts research and planetary defense
+ 
+- Mar 14 Paul Chodas (NEO Program Office at JPL):
+NEA discovery, orbit calculation and impact probability
+ 
+- Mar 28 Alan Harris (JPL retired): NEA populations and impact 
+frequency
+ 
+- Apr 11 Dan Britt (University of Central Florida): Physical 
+properties of NEAs
+ 
+This seminar series is sponsored by The NASA Asteroid Grand Challenge 
+Office, with the NASA Near Earth Object Observations Program and the 
+NASA Solar System Exploration Research Virtual Institute (SSERVI).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18115 
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+SESSION TO IMPROVE THE QUALITY OF YOUR NASA PROPOSALS
+
+Curious about how to improve the quality of the proposals you send to 
+NASA? Ever wonder what the review panel is really looking for when it 
+reviews that proposal? The Planetary Science Division at NASA 
+Headquarters is offering a Proposal Writing Workshop at LPSC that is 
+based on the cumulative experience of current and former Discipline 
+Scientists who have managed a variety of Research and Announcement 
+(R&A) programs at NASA Headquarters. The specific focus of this 
+intense, educational session is to provide a greater understanding of 
+NASA's research programs and review process and offer constructive and 
+practical insight into writing an effective research proposal. The 
+event is open to all at no charge and will be held on Sunday, March 
+16, from 12-4 pm in Waterway 1. All interested planetary scientists, 
+from graduate students through emeritus professors, are encouraged to 
+attend.
+ 
+To register, send an e-mail with your name, affiliation, and current 
+position to curt.niebur@nasa.gov.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS CRITICAL DATA PRODUCTS PROGRAM (ROUND IX) - MARS 2020
+
+Initial Landing Site Characterization for the Mars 2020 Rover Mission
+ 
+The Mars Exploration Program has issued, in January 2014, a Request for 
+Proposal for round IX of the Mars Critical Data Products program.  This 
+RFP provides support for initial landing site surface, atmosphere, and 
+gravity characterization for the Mars 2020 rover mission. The intent is 
+to convert mission data and numerical simulations into products focused 
+on specific landing site targets (to be provided by the program) that 
+will be useful for reducing the risk to the Mars 2020 rover mission. 
+Proposals are due on Wednesday, March 5, 2014.
+ 
+Details of the RFPs are posted at: 
+
+https://acquisition.jpl.nasa.gov/rfp/WH-2691-120313/default.htm 
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+INTERVIEW WITH, FRANK DRAKE, THE FOUNDER OF SETI, NOW ON YOUTUBE
+
+As part of the celebration of the beginning of the 30th year of the 
+SETI Institute, a 2012 interview with the "father of SETI science," 
+astronomer Frank Drake, is now available on YouTube at: 
+
+http://www.youtube.com/watch?v=HPQz-kdaxNo
+ 
+The interview was conducted by SETI Institute Board Member and veteran 
+astronomy educator Andrew Fraknoi at SETICon II in June 2012. The 
+discussion ranges widely over Dr. Drake's career and current thinking, 
+and includes reminiscences of Project OZMA (the very first experiment 
+searching for signals from civilizations among the stars) and his 
+current view of the Drake Equation (estimating the chances of 
+intelligent life out there). He also reflects on a number of modern 
+developments, including the discovery of numerous planets orbiting 
+other stars and novel ways of searching for extra-terrestrial 
+civilizations.
+
+The audience at this special event received a reprint of Frank Drake's 
+personal history of the Drake Equation, published by the Astronomical 
+Society of the Pacific. Because of its historical importance, this 
+article is now available freely on the web at: 
+
+http://www.astrosociety.org/wp-content/uploads/2013/02/ab2010-46.pdf
+ 
+More information about the current status of SETI can be found at the 
+Institute’s web site: 
+
+http://www.seti.org
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 1-5, 2014
+Second Annual Meeting of the AAS Laboratory Astrophysics Division: 
+LAD 2014
+http://aas.org/aas-224th-meeting/224th-meeting-laboratory-
+astrophysics-division-sessions
+Boston, MA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

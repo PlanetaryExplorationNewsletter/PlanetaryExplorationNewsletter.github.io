@@ -1,0 +1,657 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 30 (July 24, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] SMD Bridge Program Workshop: Sign Up to Express Interest
+2. [NASA] Venus Science Coordinating Group Nominations Open
+3. [NASA] PDS: Mars 2020 Mission Release 4
+4. AGU Session EP009: Deciphering the Stratigraphic Record of Surface 
+   Processes
+5. AGU Session EP010: Earth and Planetary Surface Processes General 
+   Contributions
+6. AGU session P005: Carbon Across the Solar System
+7. AGU Session P013: Giant Planet Interiors
+8. AGU Session P017: Machine Learning and Data Science in Planetary 
+   Science
+9. AGU Session: P023: Planetary Atmospheres, Space Weather, and 
+   Magnetic Fields
+10. AGU session P036: Ultraviolet Observing of Solar System Targets
+11. AGU Session U016: The Formation and Early Evolution of the Earth 
+    and the Moon
+12. DPS Women in Planetary Science Discussion Hour 2022 - October 4 
+    Hybrid Event
+13. 2022 Annual MetSoc Meeting - a Fully Hybrid Event
+14. Mars Exploration Science Program Newsletter for July 2022
+15. Planetary Society STEP Grants Pre-Proposals due August 17
+16. Research positions in the Planetary Atmospheres Group (PAG) at the
+    Institute for Basic Science, Daejeon, South Korea
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SMD BRIDGE PROGRAM WORKSHOP: SIGN UP TO EXPRESS INTEREST
+
+NASA's Science Mission Directorate (SMD) will be holding a community
+workshop in October 2022 with the goal of co-creating the NASA SMD
+Bridge Program. 
+
+https://tinyurl.com/y6nasnz2
+
+The NASA SMD Bridge Program is a new initiative to improve diversity,
+equity, inclusion and accessibility within the NASA workforce and
+within the U.S. science and engineering communities. The program aims
+to increase engagement and partnering between NASA Centers and
+Minority-Serving Institutions (MSIs), such as Historically Black
+Colleges and Universities (HBCUs), Tribal Colleges and Universities
+(TCUs), Primarily Undergraduate Institutions (PUIs), Community Colleges
+and other PhD-granting Universities.
+
+The NASA SMD Bridge Program Workshop will be fully virtual and is
+scheduled to take place from October 17-22, 2022. For more information, 
+see the workshop website:
+
+https://www.hou.usra.edu/meetings/smdfall2022/
+
+Please submit an indication of interest through July 25, 2022 to attend
+the workshop here:
+
+https://www.hou.usra.edu/meetings/smdfall2022/iofi/
+
+Registration, which is free, will be available shortly thereafter.
+
+Questions about SMD Bridge Program Workshop may be addressed to Dr.
+Padi Boyd, SMD Bridge Program Director, at patricia.t.boyd@nasa.gov.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] VENUS SCIENCE COORDINATING GROUP NOMINATIONS OPEN
+
+NASA's Planetary Science Division (PSD) and the European Space Agency
+(ESA) jointly are convening a Venus Science Coordinating group
+(VeSCoor). VeSCoor is a forum for dialogue within the broader,
+international Venus scientific community, in support of the upcoming
+ESA and NASA missions to Venus. VeSCoor's primary goal is to identify
+new, unanticipated scientific approaches and outcomes based on
+synergies among the missions to Venus and suggest studies to enhance
+overall scientific return.
+
+PSD has announced the nomination process for U.S. VeSCoor participants
+via a Dear Colleague Letter (DCL) dated July 20, 2022 available in PDF
+format at:
+
+https://tinyurl.com/5em6dk6p
+
+Individuals may self-nominate or nominate another person. Nominations 
+are due September 30, 2022 by 11:59 PM Eastern Time.
+
+For details of how to submit a nomination, please carefully read the
+DCL and the Terms of Reference (ToR). The DCL and ToR are located under
+the "Community Announcements" section of the webpage "For
+Researchers: Funding Opportunities and Announcements" at:
+
+https://science.nasa.gov/researchers/sara/solicitations-and-announcements
+
+Please email questions using "VeSCooR 2022" in the email's subject
+line, to Dr. Adriana Ocampo, Venus International Liaison, NASA HQ 
+Planetary Science Division at aco@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MARS 2020 MISSION RELEASE 4
+
+The NASA Planetary Data System announces Release 4 of data from the
+Mars 2020 Perseverance Rover mission to Mars. This release contains
+raw, calibrated, and derived data products covering sols 300-419 of the
+mission, December 23, 2021, through April 25, 2022. The data are
+archived at various PDS Nodes. For links to all the archives:
+
+https://pds-geosciences.wustl.edu/missions/mars2020/
+
+Data from the following science investigations are included in this
+release:
+- Mastcam-Z - Mast-mounted Zoom Camera System
+- Engineering Hazard and Navigation Cameras
+- Helicopter Cameras
+- EDLCam - Entry, Descent, and Landing System Cameras
+- MEDA - Mars Environmental Dynamics Analyzer
+- MOXIE - Mars Oxygen ISRU Experiment
+- PIXL - Planetary Instrument for X-ray Lithochemistry
+- RIMFAX - Radar Imager for Mars Subsurface Exploration
+- SHERLOC - Scanning Habitable Environments with Raman and Luminescence 
+  for Organics and Chemicals
+- SuperCam - LIBS, Raman, Time-Resolved Fluorescence, VIS/IR 
+  spectrometers, Remote Micro-Imager and microphone
+- SPICE - Observation geometry and ancillary data
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION EP009: DECIPHERING THE STRATIGRAPHIC RECORD OF SURFACE 
+PROCESSES
+
+Surface process systems include rivers, alluvial fans, dune fields,
+etc. These systems are sensitive to external forcing, such as tectonic
+and climatic conditions, and internal forcing, such as avulsion and
+migration. In principle, stratigraphy provides a record of past surface
+processes, and deciphering this is crucial to: (1) characterize the
+dynamics and environments of ancient landscapes; (2) understand the
+movement of water and sediment across planetary surfaces; and (3) 
+quantify the response of ancient landscapes to tectonic and climatic
+change. However, interpreting this record can be challenging (e.g.,
+outcrop/data/timescale limitations). This session welcomes
+contributions that focus on deciphering, or advancing our ability to
+decipher, surface processes from the stratigraphic record, and which
+span surface process systems on Earth and other planetary bodies. We
+particularly encourage contributions that tackle this challenge using
+multi-disciplinary approaches, including fieldwork, satellite
+observations, experimental work, and numerical models. 
+
+Please submit your abstracts to this session using the AGU portal by
+August 3. We welcome submissions from early career scientists and new
+members of the discipline.
+
+https://bit.ly/3zlUf7A
+
+Conveners: Sinead Lyster, Victoria Fernandes, Kartikeya Sangwan,
+Alexander Whittaker, Safiya Alpheus
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION EP010: EARTH AND PLANETARY SURFACE PROCESSES GENERAL 
+CONTRIBUTIONS
+
+We welcome contributions to this general poster session related to the
+disciplines, processes, and techniques involving the study of the
+surface of Earth or other planetary bodies. This session provides the
+opportunity for contributions that fall within the broad spectrum of
+Earth and Planetary Surface Processes. Contributions are welcome from a
+wide spectrum of disciplines including, but not limited to,
+geomorphology, sedimentology, planetary science, geophysics,
+engineering, atmospheric science, geology and biology. Processes of
+interest include, but are not limited to, fluvial, hillslope, tectonic,
+volcanic, glacial, coastal, marine, eolian, biologic, cryospheric and
+impact processes. We also welcome contributions to techniques in Earth
+and Planetary Surface Processes, such as field observations, numerical
+and physical modeling, remote sensing, geodesy, nonlinear dynamics,
+geochronology, geochemistry and geophysics.
+
+We are pleased to highlight our invited presentations, which will be
+given by Susannah Morey (University of Washington) and Shanti Penprase
+(University of Minnesota). 
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/158553
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P005: CARBON ACROSS THE SOLAR SYSTEM
+
+Please consider contributing an abstract!
+
+Studies of the existence and state of carbonaceous material on Solar
+System bodies is at the forefront of planetary research. Results from
+studies of samples of low-albedo asteroid 162173 Ryugu from the
+Hayabusa2 probe are being shared and discussed. The OSIRIS-REx space
+probe has retrieved samples from low-albedo asteroid 101955 Bennu. As a
+framework for these studies, telescopic, laboratory and theoretical
+studies of carbon in all its forms have recently snowballed. The 2018
+SSERVI Carbon in the Solar System workshop launched a series of
+presentations and discussions at various venues, enabling an
+information exchange around the weathering of carbonaceous compounds in
+response to thermal processes and irradiation, and what implications
+these compositions have for understanding material processing in the
+Solar System. We will generate and share ideas to support research of
+the new samples, along with studies of carbon, in various forms, at
+other locations across the Solar System.
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/162387
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P013: GIANT PLANET INTERIORS
+
+New constraints to the present-day interior structure and dynamics of
+giant planets are critical to advance our understanding of the
+formation and evolution of planets in the Solar System and beyond. The
+Juno and Cassini missions have recently revealed key aspects of the
+interiors of Jupiter and Saturn from a wealth of new measurements.
+Further, new studies of Uranus and Neptune continue to highlight the
+relevance of ice giants in understanding the exoplanet population. This
+session will bring together theory and observations capable of
+advancing our understanding of giant planet interiors. We welcome
+submissions within a broad range of topics, including: ring and Doppler
+seismology, gravity fields, normal mode oscillations, zonal flows and
+differential rotation, dynamo magnetic fields, core detection and
+characterization, consequences of stable stratification, helium and
+heavy element bulk composition, formation scenarios, and evolutionary
+pathways.
+
+We highly encourage submissions from early career scientists. 
+
+Please submit your abstract before August 3.
+
+Session Conveners: Benjamin Idini (Caltech), RaviT Helled (University
+of Zurich), Yamila Miguel (Leiden University), and Scott Bolton (SwRI)
+
+Session Chairs: Simone Marchi (SwRI), Saverio Cambioni (MIT), David A. 
+Williams (ASU), Insoo Jun (NASA-JPL)
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/161075
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P017: MACHINE LEARNING AND DATA SCIENCE IN PLANETARY
+SCIENCE
+
+Many facets of research in planetary science rely on analyzing large
+volumes of in-situ and spacecraft data. Traditionally, these data were
+collected and analyzed manually. In recent decades, developments in the
+field of machine learning (ML) have begun to gradually augment
+traditional techniques, answering the need for automatic methods that
+can rapidly and intelligently extract information from large datasets
+in a useful manner.
+
+This session will be dedicated to data driven research that leverages
+ML and data science to enhance our scientific understanding and return
+from planetary data and missions. Topics may encompass data analysis on
+the ground or onboard spacecraft for existing and future missions and
+instruments. Submissions are welcome for applications across science
+and engineering, including but not limited to: spacecraft operations
+and mission planning; surface, atmosphere, and space environment
+characterization; object detection and classification; change and
+novelty detection; interpretable methods; and other studies that apply
+ML and data science methods to planetary science.
+
+Please submit your abstract by August 3 at:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/159461
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION: P023 PLANETARY ATMOSPHERES, SPACE WEATHER, AND MAGNETIC
+FIELDS
+
+Atmospheric retention, and how it is influenced by stellar activity
+(i.e., space weather) and a planet's magnetic field, is a topic of
+interest for Solar System and extrasolar planets.
+
+Measurements of atmospheric escape rates and processes from Solar
+System planets exist, with the MAVEN mission having provided detailed
+measurements of the erosion of Mars' atmosphere. Comparison of escape
+rates from Venus, Earth, and Mars has sparked debate about whether
+planetary magnetic fields shield atmospheres or accelerate erosion. The
+Kepler "radius gap" between extrasolar sub-Neptunes and super-Earths
+suggests that atmospheric escape can be driven by the interaction
+between a planet's atmosphere and its host star's space weather.
+
+We encourage submissions on all aspects of magnetic fields of Solar
+System planets, their interactions with the solar wind, and extensions
+to extrasolar planets.
+
+Please submit abstracts by August 3.
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Home/0 
+
+The intent is to have a session at the American Astronomical Society 
+241 Meeting to focus on results from extrasolar planets.
+
+Joseph Lazio (Jet Propulsion Laboratory, California Institute of
+Technology) 
+David Brain (Laboratory for Atmospheric and Space Physics, Univ. 
+Colorado)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION P036: ULTRAVIOLET OBSERVING OF SOLAR SYSTEM TARGETS
+
+Please consider contributing an abstract!
+
+Ultraviolet spectroscopy and imaging have a decades-long history as
+valuable techniques for studying atmospheres, aurorae, plumes and
+surface composition and volatiles on asteroids, comet nuclei and moons.
+While there continue to be opportunities for UV remote sensing from
+Earth orbit and in future robotic missions, the infrastructure for UV
+instrumentation is at a crossroads. Existing orbital facilities are
+nearing the end of their useful lives and there continue to be many
+phenomena that cannot be effectively studied with existing,
+high-heritage instrument designs. Exciting advances in UV-optimized
+technologies promise new capabilities that can be incorporated into the
+next generation of robotic probes, flexible SmallSat missions, and
+large aperture space-based observatories. This session welcomes
+abstracts covering UV science results, as well as reports on progress
+toward developing new technologies such as UV detectors, high
+performance coatings and novel sensor designs.
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/162386
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION U016: THE FORMATION AND EARLY EVOLUTION OF THE EARTH AND
+THE MOON
+
+You can submit an abstract by following the link:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/161851
+
+This union session will be held in a hybrid format with both in-person
+and virtual presentations. The deadline for abstract submission is
+Wednesday, 3 August 2022 at 23:59 EDT.
+
+Please find more details on the session:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/161851
+
+Invited presenters:
+- Stephen Elardo (University of Florida)
+- Yoshinori Miyazaki (Caltech)
+- Sandrine Peron (ETH Zurich)
+- Razvan Caracas (Institut de Physique du Globe de Paris)
+- Prasun Mahanti (ASU)
+- Sen Hu (IGGCAS, China)
+- Alexander J. Evans (Brown University)
+- Ananya Mallik (University of Arizona)
+
+Conveners: Qian Yuan, Simon Lock, Rajdeep Dasgupta, Srinidhi Ravi
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+DPS WOMEN IN PLANETARY SCIENCE DISCUSSION HOUR 2022 - OCTOBER 4 HYBRID 
+EVENT
+
+Join us for the annual Division for Planetary Sciences Women in
+Planetary Science event in a hybrid format on October 4, 12-1pm
+Eastern. All are welcome! We will have both online and in person
+event hosts to facilitate conversation for both types of attendees. 
+This year the format will be mostly small-group discussions on
+professional development topics. Please see more details and register
+for the event at: 
+
+https://bit.ly/DPS_WiPS_2022
+
+The event is free to attend. A huge thanks(!) for supporting this 
+event again this year goes to our generous sponsor AURA.
+
+https://www.aura-astronomy.org/
+
+We know plans change, but please register ASAP if there is a 50%
+chance you will attend either in person or virtual so we can start to
+plan. For in person, please register by August 15 - that is when we
+need to get the initial food order in. 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+2022 ANNUAL METSOC MEETING - A FULLY HYBRID EVENT
+
+A reminder that this year's Annual Meeting of The Meteoritical Society
+will be a fully hybrid event, taking place August 14-19, 2022. The
+face-to-face meeting will be held at the Scottish Event Campus in
+Glasgow, Scotland, and options for both in-person and online
+registration are still available. All delegates will have access to the
+online platform for one month after the conference, providing the
+opportunity to re-watch presentations or catch up on any that you
+missed.
+
+Our detailed COVID-19 policy can be viewed on our website: 
+
+https://www.metsoc2022.com/covid-19
+
+In order to make everyone feel as safe as possible, it is the policy of
+MetSoc 2022 that attendees wear high-quality, well-fitting masks within
+the conference session rooms at the SEC venue. We encourage you to
+bring your own reusable mask. For further details about the scientific
+and social program see our conference website:
+
+https://www.metsoc2022.com
+
+We are looking forward to welcoming you to Glasgow,
+Lydia Hallis (email: metsoc2020@glasgow.ac.uk)
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR JULY 2022
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Michael
+Mischna, Brandi Carrier and Jonathan Bapst of the Mars Program Science
+Office, the July, 2022 edition of the Mars Exploration Science Monthly
+Newsletter can be found on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SOCIETY STEP GRANTS PRE-PROPOSALS DUE AUGUST 17
+
+The Planetary Society invites proposals to its grants program: Science
+and Technology Empowered by the Public (STEP) Grants. Proposals must
+fit within one or more of The Planetary Society's core enterprises
+(Explore Worlds, Find Life, Defend Earth). Preliminary proposals are
+due Aug. 17, 2022. Based on the pre-proposal submissions, a small
+number of proposers will be invited to submit full proposals from which
+grant selections will be made. For this round of STEP Grants, the
+nominal expectation is two awards at approximately the US$50,000 level
+each. More information can be found at: 
+
+https://planetary.org/stepgrants
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+RESEARCH POSITIONS IN THE PLANETARY ATMOSPHERES GROUP (PAG) AT THE
+INSTITUTE FOR BASIC SCIENCE, DAEJEON, SOUTH KOREA
+
+The Planetary Atmospheres Group (PAG) invites researchers with high
+motivation for Venus atmospheric research. The successful applicants
+will collaborate with Dr. Yeon Joo Lee, the Chief Investigator (CI) of
+PAG. The work will involve analyzing Venus data and conducting
+ground-based observations, including data reduction. The ground-based
+observations will be coordinated with space missions such as JAXA's
+Akatsuki, ESA-JAXA's BepiColombo, and ESA's EnVision. Experience with
+analysis of telescope or spacecraft data like images or spectra is
+desired, and good knowledge of radiative transfer models is preferred.
+The successful applicants will have opportunities to mentor internship
+students in PAG. Collaboration with national and international teams
+will be strongly supported.
+
+Two positions are available: one Senior Researcher position and one
+Postdoctoral Research Associate position. The deadline for the
+application is Aug 22 18:00 KST.
+
+For the details, visit:
+
+https://tinyurl.com/5n73kd83
+
+Nature news about the Institute for Basic Science:
+
+https://www.nature.com/articles/d41586-020-01465-8
+
+Support for international researchers:
+
+https://tinyurl.com/564xywnp
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+October 12-14, 2022
+Alive Universe - from Planets to Galaxies
+http://shao.az/news/239
+Pirkuli, Azerbaijan
+
+March 19-24, 2023
+Exoplanet Systems and Stellar Life Cycles: Late-Stage and Post-MS 
+Systems
+https://sites.google.com/view/late-stage-exoplanets-2023
+Aspen, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Experimental Constraints on Deliquescence of Calcium Perchlorate Mixed
+with a Mars Regolith Analog
+Rachel A. Slank et al. 2022 PSJ 3:154
+https://doi.org/10.3847/PSJ/ac75c4
+
+CI Asteroid Regolith as an In Situ Plant Growth Medium for Space Crop
+Production
+Steven. J. Russell et al. 2022 PSJ 3:155
+https://doi.org/10.3847/PSJ/ac74c9
+
+International Asteroid Warning Network Timing Campaign: 2019 XS
+Davide Farnocchia et al. 2022 PSJ 3:156
+https://doi.org/10.3847/PSJ/ac7224
+
+Predictions for the Dynamical States of the Didymos System before and
+after the Planned DART Impact
+Derek C. Richardson et al. 2022 PSJ 3:157
+https://doi.org/10.3847/PSJ/ac76c9
+
+Dynamical Evolution of the Didymos-Dimorphos Binary Asteroid as Rubble
+Piles following the DART Impact
+Harrison F. Agrusa et al. 2022 PSJ 3:158
+https://doi.org/10.3847/PSJ/ac76c1
+
+Jupiter's Temperature Structure: A Reassessment of the Voyager Radio
+Occultation Measurements
+Pranika Gupta et al. 2022 PSJ 3:159
+https://doi.org/10.3847/PSJ/ac6956
+
+The ESA Hera Mission: Detailed Characterization of the DART Impact
+Outcome and of the Binary Asteroid (65803) Didymos
+Patrick Michel et al. 2022 PSJ 3:160
+https://doi.org/10.3847/PSJ/ac6f52
+
+Expected Investigation of the (65803) Didymos-Dimorphos System Using
+the RGB Spectrophotometry Data Set from the LICIACube Unit Key
+Explorer (LUKE) Wide-angle Camera
+Giovanni Poggiali et al. 2022 PSJ 3:161
+https://doi.org/10.3847/PSJ/ac76c4
+
+Atmospheric Gravitational Tides of Earth-like Planets Orbiting Low-
+mass Stars
+Thomas Navarro et al. 2022 PSJ 3:162
+https://doi.org/10.3847/PSJ/ac76cd
+
+Preimpact Mutual Orbit of the DART Target Binary Asteroid (65803)
+Didymos Derived from Observations of Mutual Events in 2003-2021
+P. Scheirich and P. Pravec 2022 PSJ 3:163
+https://doi.org/10.3847/PSJ/ac7233
+
+Constraining the Internal Structures of Venus and Mars from the
+Gravity Response to Atmospheric Loading
+Flavio Petricca et al. 2022 PSJ 3:164
+https://doi.org/10.3847/PSJ/ac7878
+
+Mach and Froude Numbers on Mars
+Camella-Rosa C. Nasr et al. 2022 PSJ 3:165
+https://doi.org/10.3847/PSJ/ac72ab
+
+Exploring Jupiter's Polar Deformation Lengths with High-resolution
+Shallow Water Modeling
+Ali Hyder et al. 2022 PSJ 3:166
+https://doi.org/10.3847/PSJ/ac7952
+
+The Effects of Methane Clathrates on the Thermal and Seismic Profile
+of Titan's Icy Lithosphere
+Angela G. Marusiak et al. 2022 PSJ 3:167
+https://doi.org/10.3847/PSJ/ac787e
+
+Identifying Shadowing Signatures of C Ring Ringlets and Plateaus in
+Cassini Data from Saturn's Ionosphere
+Joshua Dreyer et al. 2022 PSJ 3:168
+https://doi.org/10.3847/PSJ/ac7790
+
+Searching for Binary Asteroids in Pan-STARRS1 Archival Images
+James Ou et al. 2022 PSJ 3:169
+https://doi.org/10.3847/PSJ/ac7871
+
+Simulation of Freezing Cryomagma Reservoirs in Viscoelastic Ice Shells
+Elodie Lesage et al. 2022 PSJ 3:170
+https://doi.org/10.3847/PSJ/ac75bf
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

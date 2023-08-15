@@ -1,0 +1,567 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 27 (July 3, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Call for Papers: Planetary Landscapes, Landforms, and their 
+   Analogues, ESurf Special Issue
+2. GSA Short Course 525: Introduction to Planetary Image Analysis with 
+   ArcGIS
+3. JPL Postdoc Opportunity in Mars Mineralogy
+4. Request for Survey Participants
+5. PhD Position: Laboratory Studies for the Icy Surfaces of Planetary 
+   Bodies
+6. [NASA] ROSES-22: C.26 Apollo Next Generation Sample Analysis for 
+   Community Comment
+7. Ernest Rutherford Fellowship in the School of Earth Sciences at the 
+   University of Bristol
+8. Research Scientist at NASA GSFC
+9. The Exploration of Asteroids Symposium - Call for Abstracts
+10. Planetary Geomorphology Image of the Month
+11. NASA HQ Program Scientist Openings
+12. [NASA] PDS: MRO CRISM MRDR Version 4
+13. [NASA] PDS: Aperiodic Data Releases in 2022.06
+14. [NASA] PDS: InSight Data Release 13
+15. [NASA] PDS: Odyssey Data Release 80
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CALL FOR PAPERS: PLANETARY LANDSCAPES, LANDFORMS, AND THEIR ANALOGUES, 
+ESURF SPECIAL ISSUE
+
+This is a reminder that we have an open Call for Papers for a Special 
+Issue of the EGU journal Earth Surface Dynamics (ESurf), entitled 
+'Planetary landscapes, landforms, and their analogues'.
+
+This special issue spans Planetary Geomorphology across the Solar 
+System, with a particular focus on comparative planetology and 
+terrestrial analogue studies. The focus of individual papers in the 
+special issue is flexible. More information can be found under 2021 
+Scheduled SIs at the following link: 
+
+http://tinyurl.com/yckan3rh
+
+Interested in submitting a manuscript? If you are considering 
+submitting a manuscript, or have any questions, please do get in touch 
+with us (f.butcher@sheffield.ac.uk and susan.conway@univ-nantes.fr).
+
+Manuscript Submission: Authors can submit their contribution using the 
+registration form on the ESurf website:  
+
+https://editor.copernicus.org/ESurf/manuscript_registration
+
+It is important that the correct special issue is selected during the 
+registration process.
+
+Deadline: The deadline for submissions is 30 November 2022. Individual 
+papers will be made available online with DOI after acceptance. There 
+is a 50% publication fee reduction for the first 6 papers to be 
+submitted.
+
+Many thanks,
+
+Frances Butcher and Susan Conway (Special Issue Guest Editors
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+GSA SHORT COURSE 525: INTRODUCTION TO PLANETARY IMAGE ANALYSIS WITH 
+ARCGIS
+
+Saturday, October 8, 2022, 8am-5pm, Cost: $40
+
+Registration link: 
+
+https://community.geosociety.org/gsa2022/program/short  
+
+Choose Course #525. NOTE: You must register to attend the GSA Annual 
+Meeting in Denver to attend the Short Course!
+
+This workshop introduces participants to image analysis, including 
+interpretation and feature mapping, using ArcGIS Pro software, 
+focusing on tasks and features most used in planetary science and 
+geology in general. It is accessible to participants with no prior 
+experience in GIS but includes optional advanced activities relevant 
+to experienced users. Most of the workshop consists of hands-on 
+exercises, with some demonstrations. The purpose of the workshop is 
+to expose participants to the basic tools that are available in 
+ArcGIS Pro for geological research. This will be taught through the 
+process of selecting a hypothetical landing site for a Mars rover 
+using image data from the Mars Odyssey and Mars Global Surveyor. 
+
+Scholarships are available to two students from underrepresented 
+communities to cover the costs of participating, including travel 
+and registration. Please contact us at spif@astro.cornell.edu for 
+scholarship application instructions.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JPL POSTDOC OPPORTUNITY IN MARS MINERALOGY
+
+Dr. Katie Stack Morgan, Research Scientist in Planetary Geology, 
+invites applications for a postdoctoral researcher to work on Mars 
+remote sensing mineralogy research at the NASA Jet Propulsion 
+Laboratory in Pasadena, CA. This post-doc will advance our 
+understanding of the global distribution and origin of the mineral 
+serpentine on Mars using CRISM data and cutting-edge processing 
+techniques.
+
+The post-doc, in collaboration with the PI, will:
+
+- Use dynamic aperture factor analysis/target transformation (DAFA/TT) 
+and radiance ratio analysis to localize and validate serpentine 
+spectra in CRISM images
+
+- Produce a validated and complete global map of Mg-rich serpentine on 
+Mars
+
+- Analyze the geologic context, terrain age, and stratigraphic context 
+of serpentine detections using CRISM, HiRISE, and CTX data to 
+constrain the mechanisms that controlled serpentinization on Mars.
+
+Required qualifications:
+
+Candidates should have a recent Ph.D. in Planetary Science, Earth 
+Science, Geology or Geosciences, Remote Sensing, or related field. The 
+ideal candidate will have experience analyzing remote sensing data 
+from Mars or Earth including: spectroscopic data, orbiter images, and 
+digital elevation models. Desired qualifications: Experience coding in 
+Matlab and Python, familiarity with ENVI, and experience with CRISM, 
+CTX, and HiRISE data. Go to:
+
+http://tinyurl.com/55usse4m
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REQUEST FOR SURVEY PARTICIPANTS
+
+My name is Alyvia Fondren, and I am an undergraduate student at Albion 
+College in Michigan. I am working with Dr. Andrea Francis in the 
+Psychology Department and Dr. Nicolle Zellner in the Physics Department 
+in hopes of understanding more about women's experiences with STEM 
+mentors during their undergraduate experience. I am also interested in 
+knowing whether there is a difference between women's experiences with 
+their mentors at liberal arts colleges compared to large universities. 
+Determining whether there is a difference in experiences at one type of 
+institution over another may help guide the creation of mentorship 
+programs for women in STEM.
+
+You will be asked to complete a questionnaire that asks you to complete 
+questions about possible mentorship experiences and the type of 
+undergraduate program that you attended. Your participation is entirely 
+voluntary and will take no more than 15 minutes.
+
+Link to the study: 
+
+https://www.surveymonkey.com/r/YXQRVDC
+
+For any additional information desired, please contact Dr. Andrea 
+Francis at afrancis@albion.edu or Dr. Nicolle Zellner at 
+nzellner@albion.edu. A request for more information does not 
+obligate you to participate in this study.
+
+Thank you so much for your time.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PHD POSITION: LABORATORY STUDIES FOR THE ICY SURFACES OF PLANETARY
+BODIES
+
+The Space Science and Planetology division, University of Bern, 
+Switzerland, is looking for an experimentalist to duplicate processes 
+resulting in particle release from icy surfaces of satellites: ice 
+irradiation with ions, electrons, and UV photons, to provide the 
+release efficiency and the chemical composition of ejecta for the case 
+of ions, UV photons, and electrons impacting an ice surface. We are 
+looking for a talented and motivated person who enjoys experimental 
+physics. Experience with electronics, vacuum instrumentation, ice 
+samples, and mass spectrometry would be of advantage.
+
+The position is available from 1 October 2022, and is funded for 4 
+years. Candidates with demonstrated experience in experimental work 
+will be favoured. The salary is in accordance with the personnel 
+regulations of the Canton of Bern. Please submit your application by 
+14 August 2022 as a single PDF file consisting of a cover letter in 
+which you describe your motivation and qualifications for the position, 
+a CV, list of your publications, and a list with names of three 
+references.
+
+http://tinyurl.com/9s8dpf7b
+
+Applicants should contact: Peter Wurz (peter.wurz@space.unibe.ch), or 
+Andre Galli (andre.galli@unibe.ch)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-22: C.26 APOLLO NEXT GENERATION SAMPLE ANALYSIS FOR
+COMMUNITY COMMENT
+
+The goal of the 2022 Apollo Next Generation Sample Analysis (ANGSA) 
+Program will be to maximize the science derived from samples returned 
+by the Apollo Program in preparation for future lunar missions 
+anticipated in the 2020s and beyond. To achieve this, the 2nd ANGSA 
+call will focus on small, high-value samples that are nearing their 
+pristinity limit.
+
+The draft text for this program element has been released. At this 
+time, we are requesting community feedback regarding the list of 
+pre-selected samples in Section 1.1. The goal is to include samples 
+that are nearing their pristinity limit and would be of high scientific 
+potential for a consortia study. Comments on the samples listed in this 
+draft, including requests for potential additional samples, must be 
+submitted by July 29, 2022, to HQ-ANGSA@mail.nasa.gov. Those who 
+submit comments may not receive individual responses. However, on 
+release of the final text, NASA will enumerate significant changes made 
+to the sample list between the draft and final solicitation, either 
+through a FAQ or changes document. Go to: 
+
+http://solicitation.nasaprs.com/ROSES2022
+
+Questions and comments concerning the draft of C.26 ANGSA may be 
+directed to HQ-ANGSA@mail.nasa.gov.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ERNEST RUTHERFORD FELLOWSHIP IN THE SCHOOL OF EARTH SCIENCES AT THE 
+UNIVERSITY OF BRISTOL
+
+The Science and Technology Facilities Council (STFC) Ernest Rutherford 
+Fellowship (ERF) scheme provides up to five years of support for early 
+career researchers to pursue their own independent research programme. 
+Subjects can span the remit of STFC's core science programme including 
+solar and planetary science, and astronomy. The School of Earth 
+Sciences at the University of Bristol can offer support for one 
+application to the ERF scheme, and we invite interested candidates to 
+make a pre-application for support by the school in their application 
+to STFC. We particularly welcome applications from people from 
+minoritized groups, such as members of the LGBT+ and BAME communities, 
+and/or with non-traditional career paths. For further details about 
+the position and how to apply, please visit: 
+
+https://www.bristol.ac.uk/earthsciences/opportunities/
+
+Deadline for pre-application: 31 July 2022.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+RESEARCH SCIENTIST AT NASA GSFC
+
+The Science & Exploration Directorate, Solar System Exploration 
+Division at NASA's Goddard Space Flight Center (GSFC) is seeking a 
+planetary scientist with a focus on contamination control and returned 
+samples, for a civil servant position. The successful candidate will 
+work as a member of the Artemis Internal Science team to define, 
+develop, and implement sample contamination plans, as well as carrying 
+out cutting-edge research related to planetary surface properties, the 
+Moon, airless bodies, and/or priority planetary targets for future 
+exploration. Expertise is required in defining or developing science 
+requirements for sample analyses, including contamination 
+considerations, as well as in leading collaborative groups and 
+overseeing research. This is a GS-14 level position located at 
+NASA-Goddard in Greenbelt, Maryland near Washington, DC.
+
+A full vacancy announcement, which contains further information 
+including qualification requirements and application instructions, 
+will be posted on July 21 and remain open for five days. Go to:
+
+https://www.usajobs.gov/ 
+
+The short period that the announcement is open is due to the type of 
+hiring authority, and is not a reflection of the openness of the 
+position.
+
+For additional information contact: Dr. Jamie Elsila Cook, 
+Jamie.E.Cook@nasa.gov.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE EXPLORATION OF ASTEROIDS SYMPOSIUM - CALL FOR ABSTRACTS
+
+The symposium aims to bring together world experts on asteroids to 
+review the current state-of-the-art in the field and discuss its future 
+development. It will primarily focus on near-Earth asteroids (NEAs), 
+and strategies to optimize the synergies between science, human 
+exploration, planetary defence and mission planning for NEAs. 
+Nevertheless, abstracts on other topics related to the exploration of 
+asteroids are also welcome.
+
+Where: ESA/ESTEC (Noordwijk, Netherlands)
+
+When: 7-11 November 2022
+
+Important dates:
+                
+- Abstract submission deadline: 11 July 2022
+- Registration deadline: 31 August 2022
+
+There are no registration or abstract processing fees. The conference 
+will be held in a hybrid format, with both in-person and remote 
+participation welcome.
+                
+For additional information, please visit the symposium web page at:
+
+http://tinyurl.com/39kbfv5s
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The July image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is 'Enigmatic flows in Chryse Planitia on Mars - mud 
+or lava?', contributed by Dr. Petr Broz, Institute of Geophysics of the 
+Czech Academy of Sciences.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA HQ PROGRAM SCIENTIST OPENINGS
+
+The Science Mission Directorate (SMD) at NASA Headquarters is seeking 
+candidates to serve as a Program Scientists within multiple 
+organizations. These positions may be located in the Earth Science, 
+Heliophysics, Planetary Science, Biological and Physical Sciences, and 
+Astrophysics Divisions, the Exploration Science Strategy & Integration 
+Office, Front Office, and/or other SMD program offices. Duties range 
+from overseeing research programs, reviewing proposals, and leading 
+research with academia and industry.
+
+Application Process
+
+The job announcement will open for applications at: on Friday, July 22, 
+and will close on Tuesday, July 26. The announcement number will be 
+HQ-22-DE-11497952-DS. Go to:
+
+https://USAJobs.gov 
+
+Advance notice of the vacancy is being provided to allow interested 
+candidates to prepare. Given the short period the announcement will be 
+open, it is a good idea to log into USAJOBS before the job announcement 
+opens and update your username, password, resume, etc., to facilitate 
+the timely submission of an application.
+
+Candidates interested in being notified when this job opportunity is 
+posted on USAJOBS and opened for three days are encouraged to sign up 
+for notifications using the features on the website.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] PDS: MRO CRISM MRDR VERSION 4
+
+The first release of the Mars Reconnaissance Orbiter's CRISM 
+instrument's Version 4 MRDRs is now available. Go to:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+Version 4 MRDRs include the full multispectral survey VNIR+IR data set,
+downselected for data quality and low atmospheric opacity, with 
+corrections applied to mitigate noise in the data, calibration 
+artifacts, and effects of spatial and temporal variations in 
+atmospheric opacity. Included are Lambert albedo maps, spectral 
+summary product maps, browse versions of the data, and information 
+that provides traceability to the source observations. This
+release includes 48 tiles; future releases (approximately every 3 
+months) will fill in data for the rest of the planet. For more 
+information:
+
+http://tinyurl.com/5bjbjnjw
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2022.06
+
+In May 2022, PDS ingested and made available the following data, none 
+of which were regularly released with an ongoing mission:
+
+- 2022.06.30 PVO Radio Occultation Profiles
+- 2022.06.29 VGR1 PWS Low Rate (Spectrum Analyzer) Data
+- 2022.06.29 VGR2 PWS Low Rate (Spectrum Analyzer) Data
+- 2022.06.24 Mars Express: SPICAM IR RDR Data
+- 2022.06.14 VGR1 Plasma Wave Science, Uncalibrated Waveforms
+- 2022.06.14 VGR2 Plasma Wave Science, Uncalibrated Waveforms
+- 2022.06.01 MRO delayed SHARAD EDRs and RDRs
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220630.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] PDS: INSIGHT DATA RELEASE 13
+
+The NASA Planetary Data System announces Release 13 of data from the
+InSight Lander mission to Mars. This release contains raw, calibrated,
+and derived data products covering the time period from January 1 to
+March 31, 2022. The data are archived at various PDS nodes:
+
+- SEIS (Seismometer) at the Geosciences Node
+- HP3/RAD (Heat Flow and Physical Properties Package / Radiometer) at 
+  the Geosciences Node
+- RISE (Radio Science) at the Geosciences Node
+- IDA (Instrument Deployment Arm) at the Geosciences Node
+- APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+- IFG (Insight Fluxgate Magnetometer) at the PPI Node
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at 
+  the Cartography and Imaging Sciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is 
+scheduled for October 1, 2022.
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+ 
+[NASA] PDS: ODYSSEY DATA RELEASE 80
+
+The NASA Planetary Data System announces Release 80 of data from the 
+Mars Odyssey Orbiter. This release contains raw, calibrated, and 
+derived data products nominally covering the time period October 1, 
+2021, through December 31, 2021, for the GRS/HEND/NS suite, and August 
+27, 2021, through November 26, 2021, for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data 
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data 
+may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+From a dataset-centered view:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220701.shtml
+
+Odyssey releases occur every three months. The next release is 
+scheduled for October 1, 2022.
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+November 7-11, 2022
+The Exploration of Asteroids Symposium
+http://www.stardust-network.eu/starcon2/exploration-of-asteroids-symposium/
+Noordwijk, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+No new articles this week.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

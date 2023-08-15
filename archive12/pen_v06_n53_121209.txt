@@ -1,0 +1,522 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 53 (December 9, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EDITORIAL: NASA Planetary Science Division Research and Analysis
+   Programs - An Assessment
+2. [PDS] Mars Reconnaissance Orbiter Data Release 23
+3. EGU 2013, Mars Science and Exploration Session
+4. EGU 2013, Planetary Plasma Physics Session
+5. EGU 2013, Digital Landscapes Session
+6. Mars Exploration Science Monthly Newsletter - December 2012
+7. 14th International Conference on Electromagnetic and Light 
+   Scattering, ELS-XIV
+8. Planetary Sessions, Short Course, and Field Trip in Canada, 
+   May 2013
+9. [NASA] Proposal Due Date Extension for Payloads Maturing 
+   Crosscutting Technologies that Advance Multiple Future Space 
+   Missions to Flight Readiness Status
+10. HST Cycle 21 Call for Proposals
+11. [NASA] Amendment to Request for Information - Concepts for 
+    Applications of Large Space Optics
+12. Planetary Graduate Program Clearinghouse
+13. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. New Book - Impact Cratering: Processes and Products
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: NASA PLANETARY SCIENCE DIVISION RESEARCH AND ANALYSIS 
+PROGRAMS - AN ASSESSMENT
+
+Mark V. Sykes
+Planetary Science Institute
+
+Despite high priority in the recent Planetary Decadal Survey and prior
+NRC reports, NASA Planetary Science Division Research and Analysis 
+programs continue to suffer from uncertain budgets and low selection 
+rates, undermining US solar system exploration. I have written a 
+report, with the above title, on the budget history and status of these
+programs, which has been posted at:
+
+http://planetarypolicy.org/RA_REPORT_DEC12/NASA_PSD_RA_Report.pdf
+
+with supporting documentation at:
+
+http://planetarypolicy.org/RA_REPORT_DEC12/RA_budget_history_03_13.xlsx
+http://planetarypolicy.org/RA_REPORT_DEC12/psd_grant_stats.xlsx
+
+Recommendations are made for the priority of funding stability and 
+growth, the communication of annual budgets to program officers at the 
+beginning of each fiscal year, and an ongoing assessment of activities 
+needed to support PSD strategic goals in a process that is open and 
+transparent.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[PDS] MARS RECONNAISSANCE ORBITER DATA RELEASE 23
+
+The NASA Planetary Data System (PDS) is pleased to announce a new 
+delivery of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments: CRISM, CTX, HiRISE, MARCI, MCS, RSS, SHARAD and SPICE.
+CRISM data will be available in approximately one week. There will be 
+no Derived Gravity data for this release. 
+
+In general, MRO Release 23 includes data collected from February 9, 
+2012 through May 8, 2012. The release includes HiRISE data for August 1 
+- November 3, 2012 (orbits 28,200 - 29,399). SHARAD data is available 
+for February 8-11, 2012 only.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20121203.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EGU 2013, MARS SCIENCE AND EXPLORATION SESSION
+
+We would like to draw your attention on the 2013 EGU session PS2.4 Mars 
+Science and Exploration. The session will be a venue to discuss current 
+science, future perspectives and developments in Mars Science and 
+Exploration, in these exciting - and challenging - times.
+
+The PS2.4 session will address the latest results on the interior, 
+surface, atmosphere and ionosphere of Mars from recent and ongoing Mars 
+missions.
+
+When and where: 7-12 April 2012, EGU, Vienna
+Submission deadline: 9th January 2013
+
+Info, links and social media:
+
+(EGU) 
+http://meetingorganizer.copernicus.org/EGU2013/session/11881
+
+(Facebook)   
+http://www.facebook.com/EGU2013Mars
+
+(Google+) 
+https://plus.google.com/u/0/events/cfst2ll1nq1e03p9rvf991dubgg
+
+Printable flyer (you can hang it in your department)
+
+Color version
+http://www.faculty.jacobs-university.de/anrossi/shared/egu2013
+/egu2013-A4.pdf
+
+B/W version
+http://www.faculty.jacobs-university.de/anrossi/shared/egu2013
+/egu2013-A4-BW.pdf
+
+We look forward to receiving your contributions.
+
+Thank you.
+
+Angelo Pio Rossi, Damien Loizeau, Agustin Chicarro
+
+an.rossi@jacobs-university.de
+damien.loizeau@univ-lyon1.fr
+achicarr@rssd.esa.int
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU 2013, PLANETARY PLASMA PHYSICS SESSION
+
+We invite you to submit an abstract to the following session during the 
+next EGU in Vienna, Austria (7-12 April 2013).
+
+PS5.1: Planetary Plasma Physics, including electrodynamics of induced 
+magnetospheres
+
+The emphasis of the session is on all aspects of planetary plasma 
+physics and interactions in the Solar System, including:
+(a) magnetospheres, ionospheres, auroras
+(b) the solar wind interaction with planets, moons, asteroids and 
+comets
+(c) plasma interactions with exospheres, dust and surfaces (e.g. at 
+Mercury, Europa, Ganymede, our Moon, etc.)
+(d) intercomparisons of planetary environments
+
+Contributions are welcome which address previous (e.g. CHANDRAYAAN-1, 
+KAGUYA), present (e.g. CASSINI, MARS EXPRESS, VENUS EXPRESS, ROSETTA, 
+MESSENGER, CHANG'E 2), forthcoming (e.g. BEPI COLOMBO) and planned 
+(e.g., JUICE) observations from space. Analyses of ground-based 
+observations of neutral and ionized environments are welcome. 
+Theoretical modelling and simulations are also strongly encouraged, 
+both in themselves and as a basis for intercomparisons and 
+interpretation of measurements. Laboratory studies on planetary 
+analogues aiming to simulate the surface-plasma interaction are 
+considered as well.
+
+The deadline for the reception of abstracts is: 9 January 2013
+
+Conveners: P. Garnier, A. Milillo, I. Dandouras
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EGU 2013, DIGITAL LANDSCAPES SESSION
+
+We are pleased to announce GM 2.1 the 'Digital Landscapes' session at 
+EGU2013 (Vienna, 8-12 April 2013). Following a successful session last 
+year, we look forward to seeing you at another dynamic and diverse 
+session full of interesting ideas.
+
+GM 2.1 Digital Landscapes: Quantitative Interrogation and Use to 
+Examine Geomorphic Processes
+
+This inter-disciplinary session focuses on exciting quantitative uses 
+of digital landscapes (DEM, DTM, DSM or point-cloud) to understand how 
+the Earth's surface is shaped.  Global (e.g. ASTER) to high-resolution 
+(e.g. laser scanning, structure-through-motion) data sets are welcomed 
+as we believe developments will come through cross-fertilization of 
+best practice and interesting method of analysis. Possibilities (e.g., 
+repeat surveys, real-time observation), problems (e.g. awkward case 
+studies), solutions and interesting geomorphic uses from archaeology to 
+volcano formation are encouraged.
+
+A full description of the session can be found at:
+
+http://meetingorganizer.copernicus.org/EGU2013/session/11694
+
+Deadline for Receipt of Abstracts: 9 January 2013
+
+All the best
+
+John, Paola, Susan, Paolo and David
+(conveners)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - DECEMBER 2012
+
+On behalf of Dave Des Marais (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Charles Budney of the Mars Program Science Office, the December 2012 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+14TH INTERNATIONAL CONFERENCE ON ELECTROMAGNETIC AND LIGHT SCATTERING,
+ELS-XIV
+
+Lille, France, June 17 - 21, 2013
+
+http://www-loa.univ-lille1.fr/ELS-XIV
+
+ELS-XIV is built on the remarkable success of the previous ELS 
+conferences that gathered scientists from different fields that 
+involved remote sensing of dust, aerosols, and particulate media. The 
+main objective of the conference is to bring together scientists and 
+engineers studying various aspects of light scattering and to provide a 
+relaxed atmosphere for in-depth discussions of theoretical advances, 
+measurements, and applications.
+
+The specific topics that will be covered include (but are not limited 
+to) the following:
+
+- new theoretical developments and numerical simulations of light 
+scattering by nonspherical and morphologically complex particles and 
+particle groups
+- laboratory and field experiments in light scattering by natural and 
+artificial particles
+- single and multiple light scattering by cloud and aerosol particles 
+in the terrestrial atmosphere
+- single and multiple scattering of light in various astrophysical 
+objects
+- light scattering in densely packed particulate media
+- near-field and coherent effects in light scattering
+- applications of light scattering in remote sensing, particle 
+detection, laboratory and field particle characterization
+
+One-page abstracts should be submitted to by 15 December 2012 to 
+ELS2013@univ-lille1.fr (please, check the conference website for 
+possible deadline extension).
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY SESSIONS, SHORT COURSE, AND FIELD TRIP IN CANADA, MAY 2013
+
+Dear colleagues,
+
+On behalf of the Planetary Sciences Division of the Geological 
+Association of Canada, it's my pleasure to announce a series of events 
+at the next Geological Association of Canada-Mineralogical Association 
+of Canada Annual Meeting to be held in Winnipeg May 22-24 2013: 
+
+http://gacmacwinnipeg2013.ca 
+ 
+This annual meeting with feature the widest diversity of events 
+organized by the Planetary Sciences Division ever, with 3 special 
+sessions, a short course, and a field trip! Details are below:
+ 
+Special Sessions: 
+
+http://gacmacwinnipeg2013.ca/specialsessions.html
+ 
+SS-28 Impact Cratering: A Geological Process         
+SS-29 Terrestrial Analogues for Comparative Planetary Geology and 
+      Astrobiology           
+SS-30 Astromaterials: Meteorites and More
+ 
+Short Course:
+
+Impact Cratering: A Geological Process (May 20-21).
+More details to be posted in the New Year.
+ 
+Field Trip:
+
+Lake St. Martin Impact Structure (Gypsumville) and East German Creek 
+Hypersaline Spring Complex.
+More details to be posted in the New Year.
+ 
+For now, please write those abstracts and submit before the January 
+21st deadline. And please this announcement on to your colleagues and 
+students!
+ 
+All the best,
+ 
+Dr. Gordon "Oz" Osinski
+Chair, Planetary Sciences Division
+gosinski@uwo.ca
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PROPOSAL DUE DATE EXTENSION FOR PAYLOADS MATURING CROSSCUTTING
+TECHNOLOGIES THAT ADVANCE MULTIPLE FUTURE SPACE MISSIONS TO FLIGHT 
+READINESS STATUS
+
+The deadline for the receipt of proposals for the current solicitation 
+cycle, AFO #6, has changed from December 21, 2012, to January 17, 2013, 
+11:59 PM ET. Selections of proposals are expected to be announced by 
+March 31, 2013.
+ 
+The solicitation page for this program on NSPIRES is at:
+
+https://nspires.nasaprs.com/external/solicitations
+/summary.do?method=init&solId=%7b0A6C5D60-20F3-E7FE-D4A3-710AE8AA43B6
+%7d&path=open
+ 
+Visit us on the web: http://flightopportunities.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+HST CYCLE 21 CALL FOR PROPOSALS
+
+Proposal Deadline: March 01, 2013
+
+NASA and The Space Telescope Science Institute (STScI) are pleased to 
+announce the Cycle 21 Call for Proposals for Hubble Space Telescope 
+(HST) Observations and funding for Archival Research and Theoretical 
+Research programs. Participation in this program is open to all 
+categories of organizations, both domestic and foreign, including 
+educational institutions, profit and nonprofit organizations, NASA 
+Centers, and other Government agencies.
+
+This solicitation for proposals will be open through March 01, 2013, 
+8:00pm EST. The Astronomer's Proposal Tools (APT), which is required 
+for Phase I Proposal Submission will be made available/released for 
+Cycle 21 Phase I use during the 2nd week of January 2013. Results of 
+the selection will be announced by the end of May 2013.
+
+All programmatic and technical information, as well as specific 
+guidelines for proposal preparation, are available electronically 
+from the STScI Announcement Web Page:
+
+http://www.stsci.edu/hst/proposing/docs/cycle21announce
+
+Please take note of the What's New for Cycle 21 section on the 
+announcement page.
+
+Questions can be addressed to the STScI Help Desk (help@stsci.edu; 
+410-338-1082).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] AMENDMENT TO REQUEST FOR INFORMATION - CONCEPTS FOR APPLICATIONS 
+OF LARGE SPACE OPTICS
+
+Potential responders to the original RFI, posted November 27, 2012, 
+should take note of the following revisions and clarifications:
+ 
+(1) The scope of admissible astrophysics objectives is expanded such 
+that only objectives of the Wide Field Infrared Survey Telescope 
+(WFIRST) stipulated in the 2010 National Research Council (NRC) decadal 
+survey are excluded.
+ 
+(2)  All abstract submissions must be in English.
+ 
+NASA has posted Agency goals, guidance and technical information about 
+the space optics systems at the SALSO website: 
+
+http://science.nasa.gov/salso/  
+
+Complete information on submission of concepts and other details 
+regarding SALSO activities are also posted at this site. Respondents 
+and other interested persons should check the site often for pertinent 
+information and updates.
+ 
+Point of Contact
+ 
+W. George Fletcher
+SALSO Project Manager
+256-544-5151
+george.fletcher@nasa.gov
+FAX: 256-544-5422
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY GRADUATE PROGRAM CLEARINGHOUSE
+
+Do you advise undergraduates on where to apply to grad school? Do you 
+have trouble remembering all the programs and keeping up to date? Do 
+you want to get the word out on your own graduate program? The DPS 
+Education & Public Outreach Subcommittee has assembled a listing of 68 
+institutions offering graduate degrees with a focus on planetary 
+science:
+
+http://dps.aas.org/education/graduate-schools
+
+So, please send this link to students you mentor and mailing lists of 
+majors. We especially want the webpage to be up-to-date and accurate, 
+so please also send it to your own graduate admissions liaisons for 
+updates and corrections. Application deadlines are imminent, so please 
+help get the word out!
+
+Dave Klassen, Brian Jackson & Nick Schneider
+Education & Public Outreach, Division for Planetary Sciences, 
+American Astronomical Society
+dpsed@aas.edu
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 25-27, 2013
+Herschel Calibration Workshop: Only the Best Data Products for the 
+Legacy Archive
+http://herschel.esac.esa.int/CalibrationWorkshop5.shtml
+Madrid, Spain
+
+April 22-27, 2013
+20th Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua/
+Kyiv, Ukraine
+
+June 6-9, 2013
+1st International Workshop on Education in Astrobiology
+http://www.nordicastrobiology.net/IWEA/
+Hoor, Sweden
+
+June 17-21, 2013
+14th International Conference on Electromagnetic and Light Scattering, 
+ELS-XIV
+http://www-loa.univ-lille1.fr/ELS-XIV
+Lille, France
+
+September 9-12, 2013
+LSST @ Europe: The Path to Science
+http://www.lsstcorp.org/meetings/lsst-europe-2013/
+Cambridge, UK
+
+September 9-12, 2013
+The 11th Hellenic Astronomical Conference
+http://www.helas.gr/conf/2013/index.php
+Athens, Greece
+
+October 14-16, 2013
+Annual Meeting of the Lunar Exploration Analysis Group
+http://www.lpi.usra.edu/meetings/leag2013/
+Laurel, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+NEW BOOK - IMPACT CRATERING: PROCESSES AND PRODUCTS
+
+It is my pleasure to announce the publication of a new book entitled 
+"Impact Cratering: Processes and Products", published by 
+Wiley-Blackwell: 
+
+http://ca.wiley.com/WileyCDA/WileyTitle
+/productCd-140519829X,descCd-tableOfContents.html 
+
+This book contains a dedication to Betty Pierazzo, my co-editor, who 
+sadly passed away before this project was completed.
+
+This book comprises 20 peer-reviewed chapters covering broad aspects of 
+the impact cratering process. It introduces readers to the threat and 
+nature of impactors, the impact cratering process, the products, and 
+the effects - both destructive and beneficial. A series of chapters on 
+the various techniques used to study impact craters provide a 
+foundation for anyone studying impacts.
+
+In addition to the book - available in both print and ebook form 
+- all figures from the book are available as powerpoint files from a 
+companion website, hopefully providing a valuable teaching resource: 
+
+http://bcs.wiley.com/he-bcs
+/Books?action=index&bcsId=7675&itemId=140519829X
+
+Best Regards,
+
+Dr. Gordon "Oz" Osinski
+University of Western Ontario, Canada
+gosinski@uwo.ca
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

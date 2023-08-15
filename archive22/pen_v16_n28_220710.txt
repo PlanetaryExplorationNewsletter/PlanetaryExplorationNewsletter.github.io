@@ -1,0 +1,347 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 28 (July 10, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Solar System Geometry Archiving and Operations Engineer at JPL
+2. Caltech/JPL Postdoc in Stable Isotope Geochemistry
+3. Postdoctoral Researcher at CU Boulder/LASP
+4. The Road to Mission Science: Seminars for Students and Early Career 
+   Researchers
+5. LPI Intern Stories 2022
+6. Sharing Planetary Science: Using Hands-on Activities
+7. DEIA Scholarships for GSA Short Course 525: Introduction to 
+   Planetary Image Analysis With ArcGIS
+8. Annual Fall GSA Session T93: Friends of Hoth, Episode VI - Return 
+   of the Small, Icy, and Ocean Worlds
+9. Meeting Announcement: AGU Chapman Conference on Advances in 
+   Understanding Alfven Waves in the Sun and the Heliosphere
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SOLAR SYSTEM GEOMETRY ARCHIVING AND OPERATIONS ENGINEER AT JPL
+
+The Navigation and Ancillary Information Facility (NAIF) team at JPL 
+is seeking to hire a team member whose primary job will comprise SPICE 
+PDS archiving, SPICE implementation for flight projects, and SPICE 
+user support. The complete details about this position and 
+instructions for applying are available at the JPL Careers website:
+
+https://tinyurl.com/JPL-NAIF-Engineer
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALTECH/JPL POSTDOC IN STABLE ISOTOPE GEOCHEMISTRY
+
+Applications are invited for a postdoctoral position in clumped 
+isotope geochemistry within Caltech's Division of Geological & 
+Planetary Sciences. The successful applicant will work with Professor 
+John Eiler and Dr. Amy Hofmann (JPL) on the collection and 
+interpretation of clumped isotope signatures in polycyclic aromatic 
+hydrocarbons (PAHs) from different classes of carbonaceous meteorites.
+
+Applicants for this position must have a PhD in geochemistry, organic 
+geochemistry, isotope geochemistry, organic chemistry, or equivalent 
+by the time of the appointment. Additional required qualifications 
+include significant organic chemistry 'wet lab' experience and a 
+working knowledge of the principles of stable isotope geochemistry. 
+
+The selected candidate is expected to begin as soon as possible. The 
+initial duration of the position is one year.
+
+The full advertisement (with additional details regarding job 
+responsibilities and application requirements) can be found here:
+
+https://tinyurl.com/Caltech-postdoc
+
+Questions regarding the position should be directed to Dr. Amy Hofmann, 
+amy.e.hofmann@jpl.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL RESEARCHER AT CU BOULDER/LASP
+
+The Exploration of Planetary Ices and Climates (EPIC) group at the 
+University of Colorado's Laboratory for Atmospheric and Space Physics 
+(LASP) seeks a postdoctoral researcher (RS-I, i.e., within ~3 years of 
+Ph.D.) in planetary science. Research in the EPIC group encompasses 
+theoretical and observational studies of the surfaces and atmospheres 
+of planets, natural satellites, and small bodies. The successful 
+candidate will collaborate with EPIC group members on currently funded 
+projects and seek to develop an independent research program. A focus 
+of this position will include investigations using data from NASA's 
+Lunar Reconnaissance Orbiter and the Dawn at Ceres mission to address 
+fundamental questions about ice on airless bodies.
+
+For further information and to apply, see the link below or contact 
+Dr. Paul Hayne (paul.hayne@colorado.edu) or Dr. Margaret Landis 
+(margaret.landis@colorado.edu). 
+
+https://tinyurl.com/yk8v3vxa
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+THE ROAD TO MISSION SCIENCE: SEMINARS FOR STUDENTS AND EARLY CAREER 
+RESEARCHERS
+
+The Lunar and Planetary Institute is hosting webinars for those who 
+have an interest in becoming involved in current or future planetary 
+science missions. Undergraduate and graduate students, postdocs, and 
+early career scientists are invited to join us for a discussion of how 
+to prepare for a career in mission science.
+ 
+The virtual event will feature a panel of mentors and mission 
+scientists representing active and upcoming planetary missions, 
+including Curiosity and Perseverance, Dragonfly, and DART. Panelists 
+will share their backgrounds, experiences, and recommendations. 
+Participants will be encouraged to ask questions and make connections 
+with mission scientists. We will describe planetary missions, discuss 
+mission science careers, and highlight relevant opportunities for 
+students and early career scientists.
+ 
+The next event will be a 90-minute virtual seminar on Tuesday, July 
+19, at 3 p.m. EDT / 2 p.m. CDT / 1 p.m. MDT / 12 p.m. PDT.
+ 
+Learn More:
+
+https://www.lpi.usra.edu/features/2022/061722/seminars
+
+Zoom Registration:
+
+https://www.zoomgov.com/webinar/register/WN_rIpsEg4_R_6qPSqK3VXcPw 
+
+YouTube Livestream:
+
+https://www.youtube.com/c/LPIUSRA
+ 
+Check out the Resource Packet for information about mission science, 
+internships, fellowships, scholarships, awards, and more:
+
+https://tinyurl.com/2p9avm8m
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+LPI INTERN STORIES 2022
+
+Wondering what it takes to become a planetary science intern working 
+alongside LPI and NASA scientists, conducting cutting-edge research? 
+Join us for Intern Stories 2022 to find out! During this free, virtual 
+event, you'll hear from LPI summer interns about how they applied and 
+prepared for their internship, their ongoing experiences, and how the 
+internship has helped them. Middle and high schoolers, undergraduate 
+students, parents, and educators are encouraged to tune in!
+
+Thursday, July 21, 4 p.m. EDT / 3 p.m. CDT / 2 p.m. MDT / 1 p.m. PDT.
+
+Learn More:
+
+https://www.lpi.usra.edu/features/2022/062422/lpi-intern-stories
+
+Zoom Registration:
+
+https://www.zoomgov.com/webinar/register/WN_pzwVSCFOR-WZE4yJzvU31g
+
+YouTube Livestream:
+
+https://www.youtube.com/c/LPIUSRA
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SHARING PLANETARY SCIENCE: USING HANDS-ON ACTIVITIES
+
+Learn about a variety of versatile, hands-on activities that 
+scientists can use to engage different audiences in planetary science. 
+Join in to discuss effective strategies and share your experiences and 
+favorite activities.
+
+Friday, July 22, 4 p.m. EDT / 3 p.m. CDT / 2 p.m. MDT / 1 p.m. PDT.
+
+Learn More:
+
+https://www.lpi.usra.edu/education/scientist-engagement
+
+Join the event:
+
+https://tinyurl.com/5ykh9mda
+
+YouTube Livestream:
+
+https://www.youtube.com/c/LPIUSRA
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DEIA SCHOLARSHIPS FOR GSA SHORT COURSE 525: INTRODUCTION TO PLANETARY 
+IMAGE ANALYSIS WITH ARCGIS
+
+The NASA-funded Planetary Data Training Workshops project is offering 
+two $2000 DEIA scholarships to participate in GSA Short Course 525: 
+Introduction to Planetary Image Analysis with ArcGIS, to be held at 
+the Geological Society of America Annual Meeting in Denver on 
+Saturday, October 8, 2022 (8am-5pm). The scholarships are intended to 
+cover travel costs, registration, and short course fees for members of 
+underrepresented communities to participate in the course, as part of 
+the GSA Meeting. If you have any questions regarding this scholarship 
+or application, please contact Zoe Learner Ponterio 
+(spif@astro.cornell.edu).
+
+The scholarship application can be found at this link:
+
+https://forms.gle/QBRsU8symtrfZfp7A
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ANNUAL FALL GSA SESSION T93. FRIENDS OF HOTH, EPISODE VI: RETURN OF THE 
+SMALL, ICY, AND OCEAN WORLDS
+
+This year's annual Geological Society of America meeting features 
+numerous sessions devoted to planetary sciences. We would like to 
+highlight the session titled "Friends of Hoth, Episode VI: Return of 
+the Small, Icy, and Ocean Worlds (T93)."
+
+We seek abstracts relating to surface, structural, and tectonic 
+processes; interior and thermal evolution; and planetary analogs as 
+they pertain to solid bodies in the outer Solar System. This includes 
+experimental, observational, and theoretical approaches.
+
+The deadline for abstract submission is July 19th. GSA is scheduled 
+for October 9-12, 2022 in Denver, CO. 
+
+Additional information about the GSA meeting and to submit and 
+abstract can be found at:
+
+https://community.geosociety.org/gsa2022/home
+
+If you have any questions, please contact session conveners: Erin 
+Leonard (erin.j.leonard@jpl.nasa.gov), Emily Martin 
+(martines@si.edu), or Alex Patthoff (apatthoff@psi.edu).
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MEETING ANNOUNCEMENT: AGU CHAPMAN CONFERENCE ON ADVANCES IN 
+UNDERSTANDING ALFVEN WAVES IN THE SUN AND THE HELIOSPHERE
+
+Berlin, Germany, 28 May - 2 June 2023 (in person)
+www.agu.org/Chapman-Alfven-Waves
+
+This interdisciplinary conference aims to bring together scientists to 
+review and discuss the current state of research on Alfven waves in 
+space plasmas, including planetary magnetospheres/ionospheres, solar 
+wind, solar atmosphere, and laboratory plasmas (if relevant to space 
+plasmas).
+
+The following science sessions will be organized:
+1. Alfven wave generation mechanisms
+2. Alfven wave propagation and coupling
+3. Alfven wave interactions with plasma and energetic particles
+4. Alfven wave applications in Solar System plasmas
+
+The organizers are:
+- Andreas Keiling (UC Berkeley, USA)
+- Tom Van Doorsselaere (KU Leuven, Belgium)
+- Fran Bagenal (University of Colorado, USA)
+- Akimasa Yoshikawa (Kyushu University, Japan)
+- Lyndsay Fletcher (University of Glasgow, UK)
+- David Knudsen (University of Calgary, Canada)
+- Lei Dai (National Space Science Center, China)
+- Ineke De Moortel (University of St Andrews, UK)
+- Ali Sulaiman (University of Iowa, USA)
+- Hermann Luhr (GeoForschungsZentrum, Germany)
+- George Clark (JHU/APL, USA)
+- Petra Kohutova (University of Oslo, Norway)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+May 28 - June 2, 2023
+AGU Chapman Conference on Advances in Understanding Alfven Waves in 
+the Sun and the Heliosphere
+https://www.agu.org/Chapman-Alfven-Waves
+Berlin, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+NASA's Double Asteroid Redirection Test (DART): Mutual Orbital Period
+Change Due to Reshaping in the Near-Earth Binary Asteroid System
+(65803) Didymos
+Ryota Nakano et al. 2022 PSJ 3:148
+https://doi.org/10.3847/PSJ/ac7566
+
+Tidal Heating at Europa Using the Multifrequency Analysis of Tidal
+Heating Toolkit
+Matthew E. Walker and Alyssa Rose Rhoden 2022 PSJ 3:149
+https://doi.org/10.3847/PSJ/ac6df0
+
+The Volatile Carbon-to-oxygen Ratio as a Tracer for the Formation
+Locations of Interstellar Comets
+Darryl Z. Seligman et al. 2022 PSJ 3:150
+https://doi.org/10.3847/PSJ/ac75b5
+
+Formation of Vitreous Salt Hydrates Under Conditions Relevant to
+Europa
+Paul V. Johnson and Tuan H. Vu 2022 PSJ 3:151
+https://doi.org/10.3847/PSJ/ac6bfb
+
+VALENTInE: A Concept for a New Frontiers-Class Long-duration In Situ
+Balloon-based Aerobot Mission to Venus
+Anicia Arredondo et al. 2022 PSJ 3:152
+https://doi.org/10.3847/PSJ/ac7324
+
+The Nature of Low-albedo Small Bodies from 3 um Spectroscopy: One
+Group that Formed within the Ammonia Snow Line and One that Formed
+beyond It
+Andrew S. Rivkin et al. 2022 PSJ 3:153
+https://doi.org/10.3847/PSJ/ac7217
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

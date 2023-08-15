@@ -1,0 +1,493 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 12 (March 21, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] ROSES-21: NOI Due Date Delay and POC Change for
+   Exoplanets Research
+2. [PDS] Lunar Reconnaissance Orbiter Data Release 45
+3. [PDS] Mars Science Laboratory Release 26
+4. NASA / SSERVI Analogs Focus Group
+5. 2021 NASA Planetary Science Summer School Applications Due April 1
+6. Funding for (Remote) Observations with the Europlanet Telescope
+   Network
+7. An Interactive Workshop to Explore Novel Ideas for Future
+   Scientific, Educational, and Cultural Activities with the Arecibo
+   Observatory
+8. Upcoming Open Decadal Survey Venus Panel Session on Venus
+   Geodynamics
+9. Virtual Conference: Applications of Statistical Methods and Machine
+   Learning in the Space Sciences
+10. Positions in the Planetary Science Division (PSD) at NASA
+    Headquarters
+11. Job Posting: Research Software Engineer at Northern Arizona
+    University
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ROSES-21: NOI DUE DATE DELAY AND POC CHANGE FOR
+EXOPLANETS RESEARCH
+
+The Exoplanet Research Program (XRP) solicits basic research proposals
+to conduct scientific investigations focused on exoplanets and
+exoplanetary systems. The broad research objectives of XRP include, but
+are not limited to: the detection and characterization of exoplanetary
+systems; the characterization of individual exoplanets; and the study
+of the origins of exoplanets.
+
+The due date for Mandatory Notices of Intent has been delayed by one
+week to April 2, 2021. The due date for proposals remains unchanged at
+May 27, 2021. In addition, the points of contact have been updated. New
+text is in bold and deleted text is struck through.
+
+This Amendment will be posted on the NASA research opportunity homepage
+at: 
+
+http://solicitation.nasaprs.com/ROSES2021 
+
+and will appear on SARA's ROSES blog at: 
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions concerning F.3 XRP may be directed to Hannah Jang-Condell at
+hannah.jang-condell@nasa.gov and Megan Ansdell at
+megan.c.ansdell@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[PDS] LUNAR RECONNAISSANCE ORBITER DATA RELEASE 45
+
+The NASA Planetary Data System announces Release 45 of data from the
+Lunar Reconnaissance Orbiter mission. This release contains raw and
+calibrated data products covering the nominal time period from
+September 15, 2020, through December 14, 2020. Some instrument teams
+are delivering more recent data. The data are archived at various PDS
+nodes.
+
+CRaTER at the PPI Node
+Diviner at the Geosciences Node
+LAMP at the Cartography and Imaging Sciences Node
+LEND at the Geosciences Node
+LOLA at the Geosciences Node
+LROC at the LROC Data Node
+Mini-RF at the Geosciences Node
+Radio Science at the Geosciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+To access the data by dataset:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210315.shtml
+
+LRO releases occur every three months. The next release is scheduled
+for June 15, 2021.
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[PDS] MARS SCIENCE LABORATORY RELEASE 26
+
+The NASA Planetary Data System announces Release 26 of data from the
+Mars Science Laboratory (Curiosity) mission. This release contains raw
+and calibrated data products covering the time period from July 30
+through November 7, 2020 (sols 2838-2934). The data are archived at
+various PDS nodes.
+
+APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+ChemCam at the Geosciences Node
+CheMin at the Geosciences Node
+DAN at the Geosciences Node
+Engineering Cameras at the Cartography and Imaging Sciences Node
+MAHLI (Mars Hand Lens Imager) - Cartography and Imaging Sciences Node
+Mastcam at the Cartography and Imaging Sciences Node
+PLACES Database at the Cartography and Imaging Sciences Node
+RAD (Radiation Assessment Detector) at the PPI Node
+REMS (Rover Environmental Monitoring Station) at the Atmospheres Node
+SAM (Sample Analysis at Mars) at the Geosciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210316.shtml
+
+The next MSL release is scheduled for August 2, 2021.
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA / SSERVI ANALOGS FOCUS GROUP
+
+Terrestrial analog field studies offer the unique opportunity to
+prepare for robotic and human planetary missions. Analogs provide the
+opportunity to conduct studies and tests related to science, mission
+operations, and technology in a relevant environment at relatively low
+cost and risk. The NASA / SSERVI Analogs Focus Group also considers
+laboratory analyses of extraterrestrial analog materials and how
+quantitative laboratory analyses can be brought into the field.
+
+The NASA / SSERVI Analogs Focus Group hosts quarterly seminars focused
+on various aspects of terrestrial analog science and exploration. Our
+next seminar will be held on Friday, 16 April 2021 and will be
+delivered by Dr. Gordon "Oz" Osinski (University of Western Ontario,
+Canada).
+
+More information and past seminars can be found here:
+
+https://sservi.nasa.gov/analogs-focus-group/
+
+If you would like to be added to the NASA / SSERVI Analogs Focus Group
+email list to receive seminar connection and other Analog Focus Group
+information, please email jennifer.heldmann@nasa.gov.
+
+Many thanks-
+
+Jennifer Heldmann (NASA Ames Research Center)
+Darlene Lim (NASA Ames Research Center)
+Timothy Glotch (Stony Brook University)
+Analogs Focus Group Co-Chairs
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+2021 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE APRIL 1
+
+Offered by the Jet Propulsion Laboratory in Pasadena, CA, PSSS is a
+3-month long career development experience to learn the development of
+a hypothesis-driven robotic space mission in a concurrent engineering
+environment while getting an in-depth, first-hand look at mission
+design, life cycle, costs, schedule and the trade-offs inherent in
+each.
+
+Science and engineering doctoral candidates, recent Ph.D.s, postdocs,
+and junior faculty who are U.S. Citizens or legal permanent residents
+(and a very limited number of Foreign Nationals from non-designated
+counties) are eligible. Applicants from diverse backgrounds are
+particularly encouraged to apply.
+
+Session 1: May 24-Aug 6
+Session 2: May 24-Aug 20
+
+With workload of a rigorous 3-hour graduate-level course, participants
+spend the first 10 weeks in preparatory webinars acting as a science
+mission team, & spend the final culminating week mentored by JPL's
+Advance Project Design Team to refine their planetary science mission
+concept design and present it to a mock expert review board. The
+culminating week is typically at JPL, however in 2021 it is likely to
+be virtual due to Covid-19 pandemic conditions.
+
+http://go.nasa.gov/missiondesignschools
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FUNDING FOR (REMOTE) OBSERVATIONS WITH THE EUROPLANET TELESCOPE NETWORK
+
+Open call, rolling deadline: Funding to support observations at the
+Europlanet Telescope Network.
+
+This network currently provides access to 16 different telescope
+facilities distributed all over the world, with telescopes up to 2
+meters in diameter, 14 of which are either robotic or provide service
+observations, and continue to operate despite COVID-19. Proposals are
+invited on any topic broadly related to Solar System or exoplanet
+observations. The short proposals (max 3 pages) can be submitted at any
+time; decisions on funding are made on a bi-monthly basis.
+
+Further details on the call and on how to apply can be found at the
+call website:
+
+https://bit.ly/2Br5LDt
+
+Our telescope table holds a broad range of information and contact
+data on all the facilities in the network. 
+
+https://bit.ly/31zYpa1
+
+To apply, please contact the relevant facilities first, agree on
+observing time, and then submit your funding proposal. If you have
+further questions on the call or if you are interested in organizing a
+coordinated observations campaign that would like to make use of the
+Europlanet Telescope Network, please contact na2@europlanet-society.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AN INTERACTIVE WORKSHOP TO EXPLORE NOVEL IDEAS FOR FUTURE SCIENTIFIC,
+EDUCATIONAL, AND CULTURAL ACTIVITIES WITH THE ARECIBO OBSERVATORY
+
+The US National Science Foundation is supporting an Arecibo Observatory
+Options Workshop, titled An Interactive Workshop to Explore Novel Ideas
+for Future Scientific, Educational, and Cultural Activities with the
+Arecibo Observatory, that is "focused on finding actionable and
+innovative ways to support, broaden, and strengthen the radio science
+community across Puerto Rico and to create or enhance the opportunities
+for scientific, educational and cultural activities and public outreach
+at the Arecibo Observatory. All are welcome, and participants at
+universities, colleges, and non-academic organizations, such as museums
+(etc.), in Puerto Rico are particularly encouraged to contribute."
+ 
+The workshop is open to anyone, not just US folks. If you are
+interested in participating, the link to information is here:
+
+https://arecibo.hub.ki/
+
+Registration deadline is 2 April 2021.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+UPCOMING OPEN DECADAL SURVEY VENUS PANEL SESSION ON VENUS GEODYNAMICS
+
+The Venus panel of the Decadal Survey on Planetary Science and
+Astrobiology will hold a themed session on Venus geodynamics on
+Wednesday, March 24. This session is open to the public, and will run
+from 11:00 am to 1:00 pm Eastern.
+
+Confirmed speakers for this session include Martha Gilmore (Wesleyan),
+Anna Gulcher (ETH Zurich), Lyal Harris (INRS), and Matthew Weller
+(Brown).
+
+You can find connection details, as well as information on future
+session themes and speakers, on the Venus panel webpage on the National
+Academies website:
+
+https://tinyurl.com/VenusPanel
+
+Best wishes,
+
+Paul Byrne (Panel Chair)
+Larry Esposito (Panel Vice-Chair)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VIRTUAL CONFERENCE: APPLICATIONS OF STATISTICAL METHODS AND MACHINE
+LEARNING IN THE SPACE SCIENCES
+
+Space Science Institute, Boulder, CO, is hosting this virtual
+conference May 17-21, 2021. The goal of this conference is to bring
+together academia and industry to leverage the advancements in
+statistics, data science, methods of artificial intelligence (AI) such
+as machine learning and deep learning, and information theory to
+improve the analytic models and their predictive capabilities making
+use of the enormous data in the field of space sciences.
+
+Conceived as a multidisciplinary gathering, this conference welcomes
+researchers from all disciplines of space science, AI, statistics, data
+science, and industry who make use of statistical analysis and methods
+of AI.
+
+The conference will be fully virtual, given the pandemic, and will
+consist of invited and contributed talks, and designated discussion
+sessions.
+
+There are limited funds for waiving the registration fee for
+students and early careers. Please indicate if you are requesting
+registration fee waiver when you submit your abstracts.
+
+Abstract submission opens February 15, closes March 31.
+Registration opens February 15, closes April 30.
+
+Further details of the conference can be found at: 
+
+http://spacescience.org/workshops/mlconference2021.php
+
+For questions, please email: bpoduval@spacescience.org.
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSITIONS IN THE PLANETARY SCIENCE DIVISION (PSD) AT NASA HEADQUARTERS
+
+NASA Program Scientists tackle a wide variety of challenges. These
+include: developing, operating, and maintaining Research & Analysis
+grants programs; serving as the Headquarters scientific lead for one or
+more Planetary Science missions; and helping implement and communicate
+the Planetary Science Division's strategic goals. Program scientists
+can have substantial influence on strategic planning and can help shape
+the long-term scientific direction of missions and programs that they
+oversee.  
+
+The Planetary Science Division (PSD) anticipates hiring one or more new
+program scientists, either as civil or through a detail or the
+Intergovernmental Personnel Act (IPA). More information on both types
+of positions can be found at:
+
+https://science.nasa.gov/about-us/job-opportunities
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+JOB POSTING: RESEARCH SOFTWARE ENGINEER AT NORTHERN ARIZONA UNIVERSITY
+
+The PIXEL research group in the Department of Astronomy and Planetary
+Sciences at Northern Arizona University seeks a Research Software
+Engineer. We process and analyze large datasets, develop new
+instruments, perform laboratory measurements, and run computer models
+of complex systems. In this role, you will support this cutting-edge
+planetary research through the management of computational resources
+(e.g., maintain linux servers, network, VPN, firewall, internal code
+repository, etc.), large datasets and help develop new tools to support
+data processing for an ongoing mission orbiting Mars (e.g., scientific
+algorithm implementation, database management, software tool and web
+app development, and automation of data-handling operations and report
+generation.)
+
+Minimum Qualifications
+- MS in Physics/Geosciences/Remote Sensing or related field; OR
+- BS in Physics/Geosciences/Remote Sensing or related field and two
+  years relevant research experience 
+
+Preferred Qualifications        
+- Experience working with data returned from interplanetary spacecraft
+- Experience working with database systems
+- Experience working with cloud computing systems
+- Experience working with large, complex datasets
+- Experience developing data processing pipelines and scientific
+  algorithm implementation
+- Experience programming in Python/Davinci/C/IDL/Bash
+- Experience working in and managing computing environments
+
+https://tinyurl.com/43ykfvxz
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 17-21, 2021
+Applications of Statistical Methods and Machine Learning in the Space
+Sciences
+http://spacescience.org/workshops/mlconference2021.php
+Online
+
+May 24-August 20
+NASA Planetary Science Summer School
+http://go.nasa.gov/missiondesignschools
+Pasadena, CA or Online
+
+June 4-28, 2021
+Arecibo Observatory Options Workshop
+https://arecibo.hub.ki
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Human-assisted Sample Return Mission at the Schrodinger Basin, Lunar
+Far Side, Using a New Geologic
+Map and Rover Traverses
+E. C. Czaplinski et al. 2021 PSJ 2:51
+http://doi.org/10.3847/PSJ/abdb34
+
+On the Capture of Interstellar Objects by Our Solar System
+Kevin J. Napier et al. 2021 PSJ 2:53
+http://doi.org/10.3847/PSJ/abe76e/53
+
+The Volatile Composition of the Inner Coma of Comet 46P/Wirtanen:
+Coordinated Observations Using
+iSHELL at the NASA-IRTF and Keck/NIRSPEC-2
+Nathan X. Roth et al. 2021 PSJ 2:54
+http://doi.org/10.3847/PSJ/abd706/54
+
+Rapidly Varying Anisotropic Methanol (CH 3 OH) Production in the Inner
+Coma of Comet 46P/Wirtanen as
+Revealed by the ALMA Atacama Compact Array
+Nathan X. Roth et al. 2021 PSJ 2:55
+http://doi.org/10.3847/PSJ/abdd3a
+
+Observation of the A Carinid Meteor Shower 2020 Unexpected Outburst
+Juan Sebastian Bruzzone et al. 2021 PSJ 2:56
+http://doi.org/10.3847/PSJ/abe9af
+
+The Reflectance of Cold Classical Trans-Neptunian Objects in the
+Nearest Infrared
+Tom Seccull et al. 2021 PSJ 2:57
+http://doi.org/10.3847/PSJ/abe4d9
+
+Spectrophotometric Analysis of the Ryugu Rock Seen by MASCOT: Searching
+for a Carbonaceous Chondrite
+Analog
+Stefan Schroder et al. 2021 PSJ 2:58
+http://doi.org/10.3847/PSJ/abbb97
+
+No Evidence for Orbital Clustering in the Extreme Trans-Neptunian
+Objects
+K. J. Napier et al. 2021 PSJ 2:59
+http://doi.org/10.3847/PSJ/abe53e
+
+Fractionation of Solar Wind Minor Ion Precipitation by the Lunar
+Paleomagnetosphere
+A. R. Poppe et al. 2021 PSJ 2:60
+http://doi.org/10.3847/PSJ/abea7d
+
+Terminator Double Layer Explorer (TerDLE): Examining the Near-Moon
+Lunar Wake
+W. M. Farrell et al. 2021 PSJ 2:61
+http://doi.org/10.3847/PSJ/abe0ca
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

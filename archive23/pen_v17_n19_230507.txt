@@ -1,0 +1,481 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 17, Number 19 (May 7, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes, 
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Metaversity Needs Virtual Reality Space Teachers
+2. Scientific Data Analyst with the MAVEN Imaging Ultraviolet 
+   Spectrograph Team
+3. Planetary Geomorphology Image of the Month
+4. Updated GRAM Suite Version 1.5.0 Released
+5. SOEST Research Fellowship
+6. Solar Wind 16 Deadlines Approaching
+7. Ice Giant Systems Seminar Series
+8. [NASA] PDS: Aperiodic Data Releases in 2023.04
+9. [NASA] Astrobiology Mission Ideation Factory: Indication of Interest
+10. [NASA] Advanced Air Vehicles Program (AAVP) Fellowship 
+    Opportunities Pre-proposal Webinar
+11. [NASA] ROSES-22: Topical Workshops, Symposia, and Conferences 
+    Proposal Due Date Delayed to July 21, 2023
+12. [NASA] SpaceTech-REDDI-2023 Appendix F1: TechFlights Now Open
+13. [NASA] Research Announcement (NRA): Early Stage Innovations 
+    Appendix 
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+METAVERSITY NEEDS VIRTUAL REALITY SPACE TEACHERS
+
+Join the innovative school in the Metaverse where 13-18-year-old 
+students learn disruptive technologies (Generative AI, 3D printing, 
+Data Science, and all things Space related).
+
+We take pride in our collaborative, team-oriented environment with 
+colleagues who deeply care about our mission. Metaversity is a fully 
+remote company, and like our students, our team is global. We are 
+hiring part-time faculty members from a vast range of backgrounds, 
+experiences, and perspectives. These are paid positions. 
+
+The role: Teaching five 1-hour classes per week. Classes are at the 
+same time each day but each teacher chooses the time, the amount of 
+classes you are able to teach each day, and for how many weeks. We 
+operate in all time-zones. We have 2 pay scales depending on whether 
+you create content or use ours. Classes start June 19.
+
+Required: A Ph.D. in Planetary Science, Astrobiology, Data Science, or 
+Satellite Engineering (or related fields).
+
+Bonus qualifications:
+
+1. Fluently speaking a foreign language
+2. Prior experience using a VR headset e.g. Oculus (including games)
+3. Prior experience teaching 13-18-year-olds (scientific outreach 
+   included)
+
+Metaversity has been founded by Dr. Jim Green, Dr. Trudi Hoogenboom, 
+and Wasim Ahmed.
+
+Apply at:
+
+https://forms.gle/guUnW71k6dkJUzvp6
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SCIENTIFIC DATA ANALYST WITH THE MAVEN IMAGING ULTRAVIOLET SPECTROGRAPH 
+TEAM
+
+The Imaging Ultraviolet Spectrograph (IUVS) team on the MAVEN mission 
+is seeking a talented data analyst. IUVS has made important discoveries 
+about the Mars atmosphere, including escape and evolution, aurora, 
+nightglow, photochemistry, composition, dynamics and cloud formation, 
+and more discoveries are anticipated. Responsibilities include: Data 
+analysis and interpretation, scientific programming, interpretation, 
+presentation of results at conferences and in publications. Mentoring 
+junior team members and software support. Mission operations. Position 
+requirements include: Bachelor's or Master's degree in astronomy, 
+physics, earth science, computer science or related area. Experience in 
+scientific programming in python or IDL. Work with remote sensing data, 
+retrievals, image processing. Experience with graphical data 
+representation and scientific visualization. Desired qualifications 
+include: Familiarity with planetary science, earth science or 
+astrophysics through coursework or experience, and best practices for 
+version control for code and data products. 
+
+Send inquiries to: nick.schneider@lasp.colorado.edu. 
+
+Please apply by 19 May through: 
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=47666 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The May image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "Surface expressions of ice flow on Earth and 
+Mars", contributed by Dr. Anna Grau Galofre, Laboratoire de 
+Planetologie et Geosciences, France.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook: 
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology Working Group)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+UPDATED GRAM SUITE VERSION 1.5.0 RELEASED
+
+The Global Reference Atmospheric Model (GRAM) Suite is an 
+engineering-oriented atmospheric model that estimates mean values and 
+statistical variations of atmospheric properties for planetary 
+destinations. GRAM outputs include atmospheric density, temperature, 
+pressure, winds, and chemical composition along a user-defined path. 
+
+GRAM Suite Version 1.5.0 contains the following updates: the addition 
+of SPICE file overrides, a SPICE kernel starter pack, and a topography 
+model based on Magellan data to Venus-GRAM, an upgrade of the CSPICE 
+toolkit to version N0067, and Earth-GRAM bug fixes. Additionally, the 
+Earth-GRAM NCEP data files are now provided in a separate zip bundle to 
+enable easier download of the GRAM Suite for non-Earth-GRAM users. 
+Additional details regarding GRAM Suite Version 1.5.0 can be found in 
+the CRITICAL INFORMATION AND ERRATA file and the GRAM Suite Change Log 
+file found in the documentation folder that is included in the GRAM 
+Suite distribution files. 
+
+GRAM Suite Version 1.5.0 is available upon request through the NASA 
+Software Catalog at: 
+
+https://software.nasa.gov/software/MFS-33888-1  
+
+All current and future GRAM upgrades are only released in the GRAM 
+Suite.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SOEST RESEARCH FELLOWSHIP
+
+The School of Ocean and Earth Sciences & Technology is accepting 
+applications for the 2023 SOEST Early Career Research Fellowship 
+Program at the University of Hawaii at Manoa. Through this position, 
+we are seeking early career applicants (completed their PhD within the 
+last 5 years) with demonstrated excellence in research and commitment 
+to collaboration and inclusivity. These one-year, non-tenurable, 
+faculty positions may be renewed for a second year, and will begin in 
+2023 or as mutually agreed. This program is designed to allow selectees 
+to develop and pursue research and teaching topics upon which they can 
+build a future academic career.
+
+Details about the position can be found at: 
+
+https://tinyurl.com/58tv89wp
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SOLAR WIND 16 DEADLINES APPROACHING
+
+Abstract and housing deadlines are approaching for the Solar Wind 16 
+meeting (June 12-17, 2023) at Asilomar in California. Please register, 
+book, and submit abstracts!
+
+The meeting will be organized around a group of "scene-setting" talks 
+which will describe the state-of-the-art in topics of solar wind 
+heating and acceleration mechanisms, solar wind sources, transients, 
+interaction with planets, and the relationship to broader problems in 
+astrophysics. Contributed talks and posters will be organized around 
+these scene-setting talks and there will be plenty of time for open 
+discussion.
+
+Confirmed scene-setting speakers are Lina Hadid, Matt Kunz, Lorenzo 
+Matteini, Merav Opher, Erika Palmerio, Viviane Pierrard, Alexis 
+Rouillard, and Yi-Ming Wang. 
+
+In addition, we'll have 'long view' talks from Marcia Neugebauer and 
+Russ Howard.
+
+A goal of the meeting is to come away from the week with some consensus 
+as the state of the field and ideas about where to go next. The new 
+measurements from DKIST, Solar Orbiter, and Parker Solar Probe will 
+frame these discussion and make this Solar Wind meeting especially 
+timely.
+
+Go to:  
+
+https://solarwind16.ssl.berkeley.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ICE GIANT SYSTEMS SEMINAR SERIES
+
+Date/Time: May 9, 11am ET
+
+Speaker: Dr. S.-H. Dan Shim (ASU)
+
+Topic: Exploring High-Pressure Chemistry to Unravel the Internal 
+Structures of Uranus, Neptune, & Sub-Neptune Exoplanets
+
+The Ice Giant Systems Seminar Series showcases recent developments in 
+scientific topics covering all aspects of the ice giant systems, 
+including atmospheres, satellites, rings, magnetic fields, interior 
+structures, and science related to formation and evolution.
+
+To access the virtual seminar, view the seminar schedule, and 
+"Stay Informed", visit the series website: 
+
+https://neptuneodyssey.jhuapl.edu/Events/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2023.04
+
+In April 2023, PDS ingested and made available the following data, 
+none of which were regularly released with an ongoing mission:
+
+2023.04.26 Hayabusa: all mission documents
+2023.04.26 Hayabusa: all AMICA images
+2023.04.26 IRAS data
+2023.04.26 HST: Images, Albedo Maps, and Shape of (1) Ceres
+2023.04.21 Galileo: Plasma Jupiter RTS Moments Derived
+2023.04.13 Mars Express: PFS data for extension 6
+2023.04.13 MRO: CRISM MRDR Version 4
+2023.04.05 Cassini: VIMS Global Hyperspectral Maps of Dione, Rhea
+
+To access those data, go to:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230430.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] ASTROBIOLOGY MISSION IDEATION FACTORY: INDICATION OF INTEREST
+
+The NASA Astrobiology Program has partnered with Knowinnovation (KI) to 
+host an Astrobiology Mission Ideation Factory focused on the search for 
+life at Mars. NASA would like to provide early career researchers the 
+opportunity to develop new concepts for Astrobiology missions. This 
+event will be an Ideas Lab-like activity focused on developing 
+Astrobiology missions, will provide an enrichment experience for the 
+participants, and is intended to be a first step in further development 
+of the top ideas. Participants are expected to be early career 
+post-docs and graduate students, with an interest in becoming more 
+involved in astrobiology-focused space missions. The event is 
+tentatively scheduled for a week in August 2023 at the NASA Goddard 
+Space Flight Center (GSFC) in Greenbelt, MD. We encourage those with 
+an interest in participating to fill out the Indication of Interest 
+form at:
+
+https://app.smartsheet.com/b/form/80ffc79926f14420a8224bc24266fa95
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ADVANCED AIR VEHICLES PROGRAM (AAVP) FELLOWSHIP OPPORTUNITIES 
+PRE-PROPOSAL WEBINAR
+
+The first of two pre-proposal teleconferences for the AAVP Fellowship 
+Opportunities will be held Monday, May 8, 2023 from 2:00-3:00 PM ET. 
+During this session, the AAVP team will give an in-depth overview of 
+the AAVP and highlight information contained in the Research 
+Opportunities in Aeronautics-2023 (ROA-2023) document regarding 
+proposal preparation and requirements. Proposers may also receive 
+technical assistance from project staff at this time, including tips 
+and guidance for submitting proposals.
+
+The AAVP Funding Opportunities announcement solicits proposals from 
+accredited U.S. institutions for research training grants to begin 
+the academic year. This Notice of Funding Opportunities (NOFO) is 
+designed to support independently-conceived research projects by 
+highly qualified graduate students, in disciplines needed to help 
+advance NASA's mission, thus affording these students the 
+opportunity to directly contribute to advancements in STEM-related 
+areas of study. AAVP Fellowship Opportunities are focused on 
+innovation and the generation of measurable research results that 
+contribute to NASA's current and future science and technology goals. 
+For more detail, please go to the AAVP landing page in NSPIRES.
+
+Registration for the Pre-proposal Webinar is required. Go to:
+
+https://tinyurl.com/yc5da6bx
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ROSES-22: TOPICAL WORKSHOPS, SYMPOSIA, AND CONFERENCES PROPOSAL 
+DUE DATE DELAYED TO JULY 21, 2023
+
+Through F.2 Topical Workshops, Symposia, and Conferences (TWSC), the 
+Science Mission Directorate (SMD) solicits proposals for events, 
+including asynchronous and virtual workshops, etc., that contribute to 
+SMD's science, technology and exploration research goals. Proposal 
+submission requires designation of at least one reviewing division or 
+office. However, proposals that are relevant to more than one division 
+are welcome.
+
+This amendment delays the proposal due date for F.2 TWSC to July 21, 
+2023. When TWSC-22 closes, this ROSES program element will be replaced 
+by a stand-alone TWSC notice of funding opportunity (NOFO). The TWSC 
+coordinator seeks comments on the current TWSC-22 text or other 
+feedback that may improve the stand-alone TWSC NOFO. Please email TWSC 
+comments/feedback by May 31, 2023, to mary.f.sladek@nasa.gov. Feedback 
+may or may not be incorporated in the future TWSC NOFO.
+
+Go to: 
+
+https://solicitation.nasaprs.com/ROSES2022
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] SPACETECH-REDDI-2023 APPENDIX F1: TECHFLIGHTS NOW OPEN
+
+NASA Headquarters has released a solicitation titled "Technology 
+Advancement Utilizing Suborbital and Orbital Flight Opportunities 
+'TechFlights'" as an Appendix to the Space Technology Mission 
+Directorate (STMD) umbrella NASA Research Announcement (NRA) titled 
+"Space Technology Research, Development, Demonstration, and Infusion 
+2023 (SpaceTech-REDDI-2023)."
+
+The purpose of this Appendix is to provide funding for the testing or 
+demonstration of space technologies in relevant environments through 
+flights on U.S. commercial suborbital rockets, rocket-powered lander 
+vehicles, high-altitude balloons, and aircraft following 
+reduced-gravity flight profiles, as well as orbital platforms hosting 
+payloads.
+
+A Mandatory Preliminary Proposal (MPP) is due on or before June 7, 
+2023, at 5:00 pm ET, with Full Proposals (by invitation only) due on 
+or before October 4, 2023, at 5:00 pm ET. Note that the submission of 
+a Mandatory Preliminary Proposal is a prerequisite to be invited to 
+submit a Full Proposal. Selections are expected to be announced in 
+February 2023 (target).
+
+Technologies must address one of the following topics: 1) Cislunar, 
+Lunar Surface, and In-Space Infrastructure & Capabilities, 2) Enabling 
+Crew-Tended Flight Addressing the Commercially Enabled Rapid Space 
+Science (CERISS) Initiative.
+
+Go to:
+
+https://tinyurl.com/NASA-23FO-F1
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] RESEARCH ANNOUNCEMENT (NRA): EARLY STAGE INNOVATIONS APPENDIX
+
+80HQTR23NOA01-23ESI-B2
+
+NOI Due: June 7, 2023, 5:00pm ET
+Proposal Due: July 6, 2023, 5:00pm ET
+
+The Space Technology Research Grants (STRG) Program within STMD seeks 
+proposals from accredited U.S. universities to develop unique, 
+disruptive, or transformational space technologies that have the 
+potential to lead to dramatic improvements at the system level 
+- performance, weight, cost, reliability, operational simplicity, or 
+other figures of merit associated with space flight hardware or 
+missions. The projected impact at the system level must be substantial 
+and clearly identified.
+
+A PI (see solicitation for restrictions) or Co-I may participate in no 
+more than two proposals in response to this solicitation.
+
+The solicitation exclusively seeks proposals responsive to one of the 
+following topics:
+
+Topic 1 - Advancing Radiation-Hardened Photon Counting Sensor 
+          Technologies
+
+Topic 2 - Advancements in Predicting Plume-Surface Interaction 
+          Environments During Propulsive Landings
+
+Topic 3 - Advancing the Performance of Refrigeration Systems Based on 
+          the Elastocaloric Effect
+
+Awards are planned to start in mid-January 2024. NASA plans to make 
+approximately 6 awards, subject to the receipt of meritorious 
+proposals.
+
+Point of Contact and Questions: Matthew Deans, NASA Space Technology 
+Research Grants Program Exec, hq-esi-call@mail.nasa.gov
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+August 17-19, 2023
+Strange New Worlds: The Exploration of ExoPlanets
+https://tinyurl.com/duzz88h5
+Pune, India
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Erratum: "The Influence of Surface Binding Energy on Sputtering in
+Models of the Sodium Exosphere of Mercury" (2022, PSJ, 3, 139)
+Rosemary M. Killen et al. 2023 PSJ 4:78
+https:doi.org/10.3847/PSJ/acc534
+
+Numerical Simulations of Tidal Deformation and Resulting Light Curves
+of Small Bodies: Material Constraints of 99942 Apophis and
+1I/'Oumuamua
+Aster G. Taylor et al. 2023 PSJ 4:79
+https://doi.org/10.3847/PSJ/acccef
+
+Col-OSSOS: The Two Types of Kuiper Belt Surfaces
+Wesley C. Fraser et al. 2023 PSJ 4:80
+https://doi.org/10.3847/PSJ/acc844
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

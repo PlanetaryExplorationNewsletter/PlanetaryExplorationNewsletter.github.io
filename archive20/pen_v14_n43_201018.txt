@@ -1,0 +1,376 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 43 (October 18, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. ISP Study Exploratory Workshop
+2. Arecibo Observatory Quarterly Newsletter Now Available
+3. MEPAG VM10 2nd Information Circular
+4. Upcoming Job Announcement - NASA MSFC
+5. We Are Looking for New Book Ideas
+6. Postdoc with MAVEN's Imaging UltraViolet Spectrograph Team
+7. DPS Professional Climate and Culture Subcommittee (PCCS) Seeking New
+   Members
+8. Machine Learning for Science (ML4SCI) Hackathon
+9. Events of Interest During DPS Week (Oct 26-30)
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ISP STUDY EXPLORATORY WORKSHOP
+
+Interstellar Probe Study Community,
+
+We are almost a month away from the third annual ISP Study Exploratory
+Workshop, and we can't wait to see you there! As a reminder, this event
+will be held remotely via Zoom.
+
+We have two important announcements for you.
+
+First: Please register to participate! Registration is now open on the
+website (link below).
+
+Second: Please submit your abstracts! We're looking for everyone to
+share their ideas that further the workshop's goal, namely, gathering
+together and discussing the objectives, design, and operations for a
+near-term, pragmatic interstellar probe mission. Please follow the
+instructions on the event page to submit your abstract (link below).
+Abstracts are due by 23 October.
+
+You can both register and submit your abstracts at the event website
+here: 
+
+http://interstellarprobe.jhuapl.edu/Resources/Meetings/agenda.php?id=112
+ 
+Help us spread the word about this event! Feel free to forward this
+information, and let us know if there are any newsletters or listservs
+this should also be forwarded to.
+ 
+Thanks so much!
+Interstellar Probe Study Team
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ARECIBO OBSERVATORY QUARTERLY NEWSLETTER NOW AVAILABLE
+
+The Fall 2020 Arecibo Observatory Newsletter is now available:
+
+http://outreach.naic.edu/ao/newsletters
+
+Each newsletter features science highlights and updates about the
+telescope, staff, and current education programs. The newsletter also
+includes interviews with scientists about their recent AO-related work
+and publications:
+
+Cassini Data Solves Mystery of Arecibo Radar Signals on Titan:
+
+http://www.naic.edu/ao/blog/cassini-data-solves-mystery-arecibo-radar-signals-titan
+ 
+A Holistic Approach to Understanding Asteroids: Laboratory, Theory, &
+Observations:
+
+http://www.naic.edu/ao/blog/holistic-approach-understanding-asteroids
+ 
+Analyzing Gravitational Fields around Small Bodies in Support of Future
+Spacecraft Missions:
+
+http://www.naic.edu/ao/blog/analyzing-gravitational-fields-around-small-bodies-support-future-spacecraft-missions
+ 
+Arecibo Observatory Returns from Tropical Storm Isaias Lockdown to
+Track Asteroid for NASA:
+
+https://www.ucf.edu/news/arecibo-observatory-returns-from-tropical-storm-isaias-lockdown-to-track-asteroid-for-nasa/
+ 
+You can subscribe to receive this newsletter via email in the future:
+
+https://areciboobservatory.us4.list-manage.com/subscribe?u=3057031f1c6bb49feeefdf63d&id=a7d471a7b5
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MEPAG VM10 2ND INFORMATION CIRCULAR
+
+2nd Information Circular
+10th Virtual MEPAG Meeting (VM10)
+Tuesday, October 20, 2020
+1:00 pm - 4:00 pm EDT
+  
+I cordially invite you to participate in the next virtual meeting
+(VM10) of the Mars Exploration Program Analysis Group (MEPAG). The
+meeting will be recorded and the chat box comments captured for those
+of you who are unable to attend. Those items will be posted at
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=vm10
+
+The agenda is below and includes updates about recent MEPAG, Mars
+Exploration Program, and Decadal Survey activities, with an extended
+discussion on Planetary Protection (PP) developments. Scott Hubbard
+will provide an overview of recent NASEM Reviews (e.g., Assessment of
+the Report of NASA's Planetary Protection Independent Review Board) and
+Lisa Pratt will discuss the formation of the NASEM Committee on
+Planetary Protection (CoPP) and other responses to various external
+reviews. Additionally, Curt Niebur will give a presentation about the
+New Frontiers 5 AO Status, and Justin Filiberto will discuss a new LPI
+initiative: Brines across the Solar System.
+
+WebEx connectivity information is below. This meeting is open to all
+members of the Mars science community including our international
+colleagues, and I look forward to your participation.
+ 
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+ 
+UPCOMING JOB ANNOUNCEMENT - NASA MSFC
+ 
+The Heliophysics and Planetary Science Branch at NASA Marshall Space
+Flight Center plans to offer multiple positions to conduct research and
+applications to solve Planetary Science problems. Outstanding
+candidates have the potential to be selected for federal employment.
+The candidate will perform research focused on remote sensing geologic
+and related investigations of planets, moons, and asteroids, and the
+development of instrumentation for planetary science. We are interested
+in complementing our existing expertise in geology, geomorphology,
+surface processes, volcanology, and geophysics. The candidate is also
+expected to bring or build a strong independent scientific research
+program through peer-reviewed proposals to NASA programs and/or through
+involvement in NASA planetary missions. Additionally, the candidate
+will advise science integration in exploration endeavors, including the
+Space Launch System and the Artemis program.
+
+All candidates must use the USAJobs.gov website to prepare and submit
+applications, and United States citizenship is required. The positions
+are expected to be announced soon, autumn 2020, under the category of
+Research Space Scientist and at the GS-13 grade level. Candidates are
+encouraged to create a USAJobs profile well in advance. Informal
+inquiries can be directed to Dr. David McKenzie,
+david.e.mckenzie@nasa.gov, 256-961-7896.
+
+http://www.usajobs.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+WE ARE LOOKING FOR NEW BOOK IDEAS
+
+From: Andreas Keiling (UC Berkeley), Xianzhe Jia (Univ. Michigan), Bea
+Gallardo-Lacourt (NASA GSFC), and Valery Nakariakov (Univ. Warwick)
+
+The AGU Books program has a new Editorial Board that is seeking to
+commission new books across the Earth and Space Sciences to serve our
+community of researchers, students, and educators.
+
+Do you know of some scientific advances that would be well-suited to
+being presented in book format? Is there a course you teach that needs
+a new textbook? Do you know someone who would be ideal to write or edit
+a new book?
+
+Andreas Keiling and Kate Lajtha, the two Editors-in-Chief, are
+supported by an exciting and diverse team of 11 Editors to cover all
+disciplines, including planetary science. Check them out at:
+
+https://agupubs.onlinelibrary.wiley.com/hub/books-editorial-board
+
+You can contact one of the Editors-in-Chief or one of the specialty
+editors covering your field of research to discuss book ideas and the
+proposal process.
+
+For more information about the AGU Books Program visit:
+
+https://www.agu.org/Publish-with-AGU/Publish/Books
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOC WITH MAVEN'S IMAGING ULTRAVIOLET SPECTROGRAPH TEAM
+
+The Laboratory for Atmospheric and Space Physics (LASP) at the
+University of Colorado Boulder seeks a talented scientist for the
+Imaging Ultraviolet Spectrograph (IUVS) team on MAVEN. IUVS is making
+important discoveries in Mars atmosphere, including escape and
+evolution, aurora, nightglow, photochemistry, composition, dynamics and
+cloud formation.
+
+Key Responsibilities: Observational studies of the Mars atmosphere
+through ultraviolet spectroscopy and imaging. Scientific analysis of
+data obtained, publication of results in scientific journals,
+conference presentations. Support for mission/instrument operations and
+observation planning. Operation and enhancement of automated data
+processing pipelines. Mentoring student researchers.
+
+Qualifications: Ph.D in Planetary Science, Astronomy, Atmospheric
+Science, Physics or similar. Coding proficiency in python, IDL or
+similar. Skill with data analysis, image processing, statistics.
+Familiarity with Mars atmospheric science, including one or more of the
+following: atmospheric structure, dayglow, nightglow, aurora,
+photochemistry, ultraviolet spectroscopy, atmospheric evolution,
+climate, waves and tides, General Circulation Models, numerical
+simulation.
+
+For more on CU/Boulder, LASP, benefits, please see:
+
+https://jobs.colorado.edu/jobs/jobDetail?jobId=21086
+
+We are committed to building a culturally diverse community of faculty,
+staff, and students contributing to an inclusive campus environment.
+Application review begins on 15 November. Remote work during the
+pandemic is negotiable. Contact nick.schneider@lasp.colorado.edu.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DPS PROFESSIONAL CLIMATE AND CULTURE SUBCOMMITTEE (PCCS) SEEKING NEW
+MEMBERS
+
+Are you interested in making the planetary science community more
+diverse and inclusive? If so, please contact dpspccs@gmail.com by Oct
+30 to volunteer to be part of the DPS Professional Culture and Climate
+subcommittee (PCCS). A list of our charge, duties, and expectations can
+be found at: 
+
+https://dps.aas.org/leadership/climate
+
+You also can speak with any current PCCS members (listed at above site)
+and, in particular, you are welcome to contact Co-Chair Serina Diniega
+(serina.diniega@jpl.nasa.gov). At the DPS meeting, PCCS efforts will be
+described a bit at the DPS Members meeting (Oct 28, 1-2pm EDT) and with
+the PCCS Plenary speaker (Oct 30, 12:45-1:40pm EDT).
+
+To express interest in becoming a PCCS member, please send an email to
+dpspccs@gmail.com by the end of the DPS meeting (Oct 30), including (1)
+why you are interested, (2) a brief description of any EDIA work you've
+already done, and (3) a brief statement on what you might hope to
+accomplish with the PCCS. Comments about past or potential future work
+by PCCS are also welcomed, as always.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MACHINE LEARNING FOR SCIENCE (ML4SCI) HACKATHON
+
+A consortium of universities led by the University of Alabama and Brown
+University are hosting a virtual hackathon focused on the application
+of machine learning to science (ML4SCI). There will be six challenges,
+including one focused on planetary science (identification of
+cosmic-ray artifacts in images acquired by planetary science missions).
+This year's event will run virtually from October 26-30.
+Participants are encouraged to self-organize into small teams or
+participate on their own to devise unique solutions to the challenges.
+Participants will have opportunities to interact with the organizers
+and each other via Slack. The Zoom kickoff meeting is on October 26 (5
+PM EDT) and accessible via:
+
+https://bit.ly/33Sdx55
+
+Participants can register via Slack at:
+
+https://bit.ly/3noij1V
+
+Winners will receive certificates and prizes. For questions, please
+contact the ML4SCI Hackathon Organization Team ML4SCI2020@gmail.com or
+Prof. Sergei Gleyzer sgleyzer@ua.edu
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EVENTS OF INTEREST DURING DPS WEEK (OCT 26-30)
+
+* The Decadal Survey Townhall will be open to the public, Thurs Oct 29,
+  4:30-5:30PM ET. Check for the Zoom link:
+
+  https://aas.org/meetings/dps52 
+
+* The NASA-NSF Townhall will be open to the public, Tues Oct 27,
+  5:00-6:00 PM ET. Check for the Zoom link:
+
+  https://aas.org/meetings/dps52
+
+* Open Mic Night is Thursday Oct 29, 9:00-midnight ET. Email Joe
+  Spitale (jnspitale@psi.edu) to participate!
+
+* Check the #DPS2020 peripheral events page for more exciting events,
+  such as:
+  
+  Student & Early Career Reception 
+  Women in Planetary Science Discussion Hour 
+  LGBTQ+ Networking Meetup
+  Planetary Science Art Fair
+  Exhibit Hall
+  DPS Career Center
+  Scientists of Color Meet-Up
+  Social Hour + Trivia Games (with prizes from Startorialist!)
+  Daily Science Chats
+  Decadal Survey White Paper Discussion Hour
+  Workforce Townhall 
+     
+ https://aas.org/meetings/dps52/peripheral-events
+     
+     
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 5-8, 2021
+15th Hellenic Astronomical Conference
+http://www.helas.gr/conf/2021/
+Patras, Greece
+
+September 13-17, 2021
+Planet-Forming Disks: From Surveys to Answers
+https://www.lorentzcenter.nl/planet-forming-disks-from-surveys-to-answers.html
+Leiden, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new articles.
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

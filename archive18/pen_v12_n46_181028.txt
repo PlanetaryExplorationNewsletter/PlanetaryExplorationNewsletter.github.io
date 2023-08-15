@@ -1,0 +1,364 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 46 (October 28, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Graduate Student Research Opportunities in Planetary Science at
+   Tulane University
+2. Ph.D. Position in Experimental Planetary Science
+3. Faculty Position in Isotope Geochemistry at UTK
+4. EGU Session: Space Environments of Unmagnetized or Weakly Magnetized
+   Solar System Bodies and the Effects of Space Weather on These 
+   Systems
+5. VICAR Open Source v3.0 Available
+6. Civil Service Job at Goddard (1/2)
+7. Civil Service Job at Goddard (2/2)
+8. Open Position in Planetary Geology
+9. Register Today for the 2019 Humans to Mars Summit
+10. Request for Information for Inputs to the Science Mission
+    Directorate Strategic Plan for Scientific Data and Computing
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+GRADUATE STUDENT RESEARCH OPPORTUNITIES IN PLANETARY SCIENCE AT TULANE
+UNIVERSITY
+
+Highly motivated students with an interest in pursuing graduate studies
+in planetary science are encouraged to apply to the Department of Earth
+and Environmental Sciences at Tulane University. The Planetary Science
+Research Group focuses on studying the geomorphology, and surfaces
+processes and properties of terrestrial planetary bodies. Potential
+research topics include analysis of ancient terrains on Venus and the
+polar ice deposits on Mars. Students will gain experience integrating
+multiple orbital datasets using Geographical Information Systems (e.g.,
+ArcGIS). For more information, please contact Dr. Jennifer Whitten
+(jwhitten1@tulane.edu) or see:
+
+http://whitten.wp.tulane.edu/
+
+Applications are due December 31, 2018
+
+http://www2.tulane.edu/sse/eens/academics/graduate/index.cfm
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PH.D. POSITION IN EXPERIMENTAL PLANETARY SCIENCE
+
+The Space Research and Planetology Division at the University of Bern,
+Switzerland, has an opening for a Ph.D. student position in
+experimental planetary science. The successful candidate will prepare
+and examine analogue samples for the surfaces of the Moon and Mercury
+and will put the experimental results into the general context of the
+surfaces and tenuous atmospheres of the Moon and Mercury.
+ 
+A detailed description can be found at:
+
+http://www.space.unibe.ch/about_us/jobs/
+phd_position_in_experimental_planetary_science/index_eng.html
+
+Complete applications received by 1 November 2018 will receive full
+consideration. After this date, applications will be considered
+depending on availability.
+ 
+Yours sincerely,
+ 
+Andre Galli, University of Bern
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FACULTY POSITION IN ISOTOPE GEOCHEMISTRY AT UTK
+
+The Department of Earth and Planetary Sciences, University of
+Tennessee, Knoxville, invites applications for a nine-month,
+tenure-line position in Isotope Geochemistry and Geochemistry to be
+hired at the rank of Associate Professor.
+
+The successful candidate will develop a program of externally funded
+research in isotope geochemistry and geochemistry that includes
+supervision of undergraduate and graduate students, post-doctoral
+researchers, and technical staff. The candidate will provide primary
+oversight of a newly created ICP-MS core facility, which will include
+quadrupole and multicollector ICP-MS instruments, a laser ablation
+system, and a clean laboratory housed in the Department of Earth and
+Planetary Sciences. All laboratory spaces are new and purpose-built for
+the core facility, with significant university resources available for
+equipment purchase.
+
+Applicants must hold a Ph.D. (or equivalent) degree in solid-earth
+geoscience or a related discipline, and demonstrate excellence and
+innovation through publications and grants/contracts in isotope
+geochemistry (radiogenic and/or non-traditional stable isotope) or
+geochemistry, with the capacity to lead research in isotope
+geochemistry. Full details and application instructions can be found
+at: 
+
+https://eps.utk.edu/about/jobs/faculty-geochemsitry.php
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU SESSION: SPACE ENVIRONMENTS OF UNMAGNETIZED OR WEAKLY MAGNETIZED
+SOLAR SYSTEM BODIES AND THE EFFECTS OF SPACE WEATHER ON THESE SYSTEMS
+
+We are pleased to announce that the abstract submission is now open for
+the EGU 2019 meeting that will take place in Vienna (Austria) on 7-12
+April 2019. We would like to encourage to submit an abstract to our
+session, PS4.2: "Space environments of unmagnetized or weakly
+magnetized solar system bodies and the effects of space weather on
+these systems"
+
+The session will focus on the analysis of ionospheres and
+magnetospheres of weakly magnetized bodies with substantial atmospheres
+(e.g. Mars, Venus, Titan, Pluto and comets), and how each body reacts
+to disturbances caused by solar activities, interplanetary conditions,
+or parent magnetospheric environments (e.g. solar flares, coronal mass
+ejections and solar energetic particles), sharing similarities with
+their magnetized counterparts but with scientifically important
+differences. This session invites abstracts concerning remote and
+in-situ data analysis, modeling studies, comparative studies,
+instrumentation and mission concepts for weakly magnetized solar system
+bodies. More information can be found at:
+
+https://meetingorganizer.copernicus.org/EGU2019/session/31959
+
+Deadline: 10 January 2019
+
+We look forward to welcoming you!
+ 
+Kind regards,
+Martin Volwerk, Charlotte Goetz, Niklas Edberg, Beatriz Sanchez-Cano
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VICAR OPEN SOURCE V3.0 AVAILABLE
+
+We are pleased to announce that the VICAR Open Source Core version 3.0
+is now available. This release includes:
+
+  Pre-built binaries for 32- and 64-bit Linux(Red Hat 7.3) and Mac OS X
+  64-bit.
+
+  A Docker Centos7 image that runs the 64-bit Linux binaries.
+
+  24 new application programs: classifier, clusterer, denoisetv,
+  destripe, file2tcl, gamma, gtigeolo, gtlabfix, horizon, ibisclst2,
+  ibisclst3, mooresc, randpixel, rgb2ish, sampler, sc2rpc, scinterp,
+  shadow, shp2rast, tclmath, wedge, wnr2005, xyzpic2, zipcol2
+ 
+  4 new application programs were added in Vicar Open Source Core
+  version 2.0 but were not listed previously: getzval, gtappend, gtmss,
+  vtiff3o
+
+  13 anomalies, 27 bug fixes/improvements.
+
+  The .com files for GUI,P1,P2,P3 have been unpacked and the .com files
+  have been eliminated. There is a subdirectory per application, with
+  all of that application's files.
+
+  A new plugin that enables GDAL reading and writing of VICAR image
+  files.
+
+  New Use Case Examples:
+    Landsat 7 Mosaic
+    SRTM Mosaic
+    Landsat 8 Multi-Spectral Analysis
+    Landsat 8 Pan Sharpening
+    Using ISIS with VICAR to Process Galileo Europa Imagery
+    Neptune's Satellite Proteus
+
+For details, visit:
+
+https://www-mipl.jpl.nasa.gov/vicar_open.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CIVIL SERVICE JOB AT GODDARD (1/2)
+
+The Science & Exploration Directorate, Solar System Exploration
+Division, Planetary Geology, Geophysics, and Geochemistry Laboratory
+(Code 698) is seeking a junior or more senior scientist to conduct
+research into the dynamics of Ocean Worlds and Icy Worlds in our and
+other solar systems. These postings will run until 11/8/18.
+
+Junior Scientist:
+ 
+http://www.usajobs.gov/GetJob/ViewDetails/513174800
+
+Senior Scientist:
+ 
+http://www.usajobs.gov/GetJob/ViewDetails/513173600
+ 
+For additional information contact:  Dr. Noah Petro,
+Noah.E.Petro@nasa.gov; or Dr. Terry Hurford, Terry.A.Hurford@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CIVIL SERVICE JOB AT GODDARD (2)
+
+The Science & Exploration Directorate, Solar System Exploration
+Division, Planetary Environments Laboratory (Code 699) is seeking a
+scientist to conduct research on the habitability and exobiology of
+planetary environments in support of long-term science goals related to
+the existence and distribution of life on Ocean Worlds. The call for
+this position will close on Monday, November 26, 2018. 
+ 
+Direct Link to USAJobs:
+
+http://www.usajobs.gov/GetJob/ViewDetails/513617000  
+ 
+For additional information contact: Dr. William Brinckerhoff,
+William.B.Brinckerhoff@nasa.gov; or Dr. Melissa Trainer,
+Melissa.G.Trainer@nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OPEN POSITION IN PLANETARY GEOLOGY
+
+The University of Idaho seeks a creative and dynamic person for a
+Tenured Track Planetary Science Position who will contribute to our
+department's strong research core in lithosphere and surface processes
+and to our college's growing interdisciplinary planetary science
+emphasis area. Areas of specialization from the broader theme of
+planetary sciences are open, but we are particularly interested in
+candidates whose field-based research examines early Earth surface
+processes including either planetary crustal dynamics or the appearance
+and evolution of early life forms as documented in the rock record.
+
+The Inland Northwest is a spectacular place to establish an academic
+career in geological sciences, especially for someone looking to
+integrate field-based teaching and research. Our department's location
+in north-central Idaho provides access to a wide array of unique
+geological settings for teaching and research, including a number of
+planetary analog study sites. Close proximity to Washington State
+University allows for inter-departmental collaboration and sharing of
+research facilities.
+
+Information on our department can be found at:
+
+https://www.uidaho.edu/sci/geology
+
+Details on the position as well as application instructions can be
+found at: 
+
+http://uidaho.peopleadmin.com/postings/22809 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+REGISTER TODAY FOR THE 2019 HUMANS TO MARS SUMMIT
+
+Early registration for the 2019 Humans to Mars Summit (H2M) is now
+open. H2M 2019 will be held on May 14-16, 2019 at the prestigious and
+historic National Academy of Sciences Building in Washington, D.C.
+
+Tentative speakers already include Jim Bridenstine, Tom Stafford, Buzz
+Aldrin, Ellen Stofan, Alan Stern, Rebecca Keiser, Dava Newman, Lynn
+Rothschild, and many others
+
+H2M 2019 will present the latest on: Apollo Moon Landing - 50th
+Anniversary; Mars science and robotic precursor missions; Utilizing the
+Moon to enable human exploration of Mars; Insight, the 2020 Rover, and
+future science missions; Feeding Mars: Agriculture, synthetic biology,
+3-D printing; Diplomacy, international collaboration, and Mars
+exploration; Living off the land: In-situ resource utilization; How the
+Gateway will be utilized to advance human exploration of Mars; The
+partnership between the entertainment industry and space exploration;
+and Innovating our way to Mars
+
+Register today at:
+
+http://h2m.exploremars.org
+
+Early registration available until January 31, 2019.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+REQUEST FOR INFORMATION FOR INPUTS TO THE SCIENCE MISSION DIRECTORATE
+STRATEGIC PLAN FOR SCIENTIFIC DATA AND COMPUTING
+
+Solicitation Number: NNH18ZDA017L
+Release Date: September 18, 2018
+Response Date: 11:59 PM Eastern Time November 2, 2018
+
+To allow more time for answers, the deadline for RFI has been extend
+until November 2, 2018 The NASA Science Mission Directorate requests
+information, comments and suggestions to assist in the development of a
+Strategic Plan for Scientific Data and Computing. The Strategic Plan
+for Scientific Data and Computing is intended to span the range of
+activities within the Science Mission Directorate, including
+opportunities for cross-disciplinary science investigations.
+
+This RFI is open to responses from all parties including commercial
+entities, international organizations, academia, NASA Centers, and
+other government agencies. Please note that responses to this RFI are
+in the form of a Notice of Intent (NOI) submitted to NSPIRES. Please be
+sure to complete the Summary and Program Specific Questions components
+of the NOI, as this makes up the response. No attached document is
+requested or permitted. The full text of the RFI and response
+instructions can be found on NSPIRES at:
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId={B896B39A-F430-1916-2247-B791CE3D5FBF}&path=open.
+
+Responses provided by email, mail or other means will not be accepted.
+
+Email questions concerning this RFI to
+hq-smd-data-computing-rfi@mail.nasa.gov.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 25-29, 2019
+Life3E: Search for life, from Early Earth to Exoplanets
+https://icisequynhon.com/conferences/2019/search-for-life/
+Quy Nhon, Vietnam
+
+May 13-17, 2019
+ExoComets: Understanding the Composition of Planetary Building Blocks
+http://lorentzcenter.nl/lc/web/2019/1132/info.php3?wsid=1132&venue=Oort
+Leiden, the Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org  
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu 
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

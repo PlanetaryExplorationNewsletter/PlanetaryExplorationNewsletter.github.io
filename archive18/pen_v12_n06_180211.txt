@@ -1,0 +1,454 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 6 (February 11, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Postdoctoral Position at MIT
+2. [NASA] Seeking Volunteer Reviewers in Earth and Space Science
+3. Workshop in Geology and Geophysics of the Solar System - 2nd 
+   Announcement
+4. AGU Planetary Sciences Section Leadership Opportunities
+5. Postdoctoral Position in Asteroid Science at MPS, Germany
+6. Planning Solar System Observations with JWST in Cycle-1
+7. Planetary Sessions at the May GSA Cordilleran-Rocky Mountain Joint 
+   Meeting
+8. Volunteers Needed for Updating VEXAG's Venus Exploration Documents
+   in 2018
+9. Summer School in Software Systems for Astronomy
+10. MEPAG Meeting 36 Venue and Hotel Block Announced
+11. MEPAG Meeting Reminder
+12. New OPAG Goals Document Posted for Community Comments
+13. Carbon in the Solar System Workshop
+14. Environments of Terrestrial Planets Under the Young Sun: Seeds of 
+    Biomolecules
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW POSTDOCTORAL POSITION AT MIT
+
+Applications are invited for a postdoctoral position at MIT to work on 
+the physical characterization of near-Earth objects. This position will 
+be supervised by Dr. Francesca DeMeo. The postdoctoral associate will 
+work in collaboration with Dr. DeMeo and other project team members on 
+the MIT-Hawaii Near Earth Object Spectroscopic Survey, a long-running 
+near-infrared spectral survey using SpeX on the NASA IRTF. The position 
+is to take a leading role in target selection, spectroscopic 
+observations (~1 night per month), reduction, and data analysis.
+
+To apply, send the following to fdemeo@mit.edu:
+
+* A Cover Letter
+* A Curriculum Vitae
+* A Statement of past research accomplishments and future research 
+  goals (2 pages or less)
+* Phone numbers and e-mail addresses of three references
+
+The start date is Summer or early Fall 2018. Review of applications 
+will begin on 15 March 2018. The position will remain open for 
+applications until filled.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SEEKING VOLUNTEER REVIEWERS IN EARTH AND SPACE SCIENCE
+
+NASA's Science Mission Directorate (SMD) is seeking subject matter 
+experts to serve as mail-in and/or panel reviewers of proposals to 
+ROSES and other SMD solicitations. Go to:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+for links to volunteer review forms for the programs below and
+click the boxes to indicate the topics in which you consider yourself 
+to be a subject matter expert. If your skills match our needs for that 
+review, we will contact you to discuss scheduling. 
+ 
+We are currently seeking reviewers for:
+
+Advancing Collaborative Connections for Earth System Science (ACCESS)
+Astrophysics Data Analysis
+Astrophysics Research and Analysis
+Earth Surface and Interior and Space Geodesy Programs
+Habitable Worlds
+Solar System Workings
+Earth Science (Graduate Student) Fellowship Proposals
+Space Science (Graduate Student) Fellowship Proposals
+InSight Participating Scientist Program
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+WORKSHOP IN GEOLOGY AND GEOPHYSICS OF THE SOLAR SYSTEM 
+- 2ND ANNOUNCEMENT
+
+June 23rd-July 1st 2018 
+Petnica Science Center, Petnica, Serbia
+http://petnica.rs/planetary2017/
+
+The workshop in Geology and Geophysics of the Solar System is now open 
+for registration.
+
+The call for scholarships is open until 1 March, and we anticipate to 
+let all candidates know very soon after.
+
+The number of places is limited, and the registration is first-come 
+first-served basis. However, if you have already applied for a 
+scholarship, your place is provisionally booked until you get the 
+information about your scholarship.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU PLANETARY SCIENCES SECTION LEADERSHIP OPPORTUNITIES
+
+The Planetary Sciences section of the American Geophysical Union is 
+looking to expand the number of volunteers who help to lead and 
+operate the various section activities throughout the year. 
+Compensation towards your AGU Fall Meeting registration is anticipated 
+in recognition of your service. To learn more about the available 
+opportunities, and to apply, please visit: 
+
+https://planets.agu.org/leadership.php
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL POSITION IN ASTEROID SCIENCE AT MPS, GERMANY
+
+The Max Planck Institute for Solar System Research in Gottingen, 
+Germany, invites applications for a postdoctoral position to work on
+the active binary asteroid 288P/300163.
+
+Details are found at:
+
+http://www.mps.mpg.de/5230867/job_full_offer_11934395?c=2169
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANNING SOLAR SYSTEM OBSERVATIONS WITH JWST IN CYCLE-1
+
+In light of the April 6, 2018, deadline for JWST Cycle-1 observing 
+proposals, a 4-hour webinar will be held on February 13 from 10a-2p 
+(EST) and will summarize JWST planning tools and their application to 
+observations of solar system targets. These tools include the 
+Astronomer's Proposal Tool (APT), Exposure Time Calculator (ETC), the 
+Target Visibility Tool, and best practices for Solar System proposers.  
+Operational constraints that affect observations of solar system 
+targets will be summarized and include: bright limits, pointing 
+constraints, track rates, and the impact of ephemeris uncertainties on 
+certain observing modes. Science instrument capabilities and 
+applications will be briefly summarized, but are described extensively 
+in 12 papers in PASP v128, 959 & 960 (2016).
+
+WebEx information:
+
+https://stsci.webex.com/stsci
+/j.php?MTID=m11d817133347203e9300d096eb4f428d
+
+Meeting number: 902 908 849
+Meeting password: JWST2018
+
+Audio connection: +1-510-210-8882 USA toll (International numbers 
+can be found through the link above.)
+
+Further details including presentation materials can be found here: 
+
+https://tinyurl.com/y9clnm3t
+ 
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY SESSIONS AT THE MAY GSA CORDILLERAN-ROCKY MOUNTAIN JOINT
+MEETING
+
+May 15-17, 2018
+Flagstaff, AZ
+
+We invite contributions to the following planetary sessions:
+
+T21. Recent Advances in Planetary Geoscience. How the volume and
+diversity of recent data sets have significantly advanced our
+understanding of the geologic character and evolution of bodies in the
+Solar System. 
+
+T22. Earth as a Stepping Stone for Planetary Exploration. Terrestrial
+research in the field and in the laboratory is necessary for advancing
+planetary exploration. 
+
+T23. Integrating Composition and Morphology: Keys to Constraining
+Planetary Surface Processes from Spacecraft Data. Compositional
+interpretations critically augment geomorphological and/or
+sedimentological studies to yield a refined understanding of geologic
+context and surface processes.
+
+T24. Understanding Basin Environments and Evolution Beyond Earth.
+Though topographic and structural basins exist beyond Earth, lack of
+direct access makes deciphering exposed units a challenge.
+
+There also will be a full-day post-conference field trip on May 18 to
+planetary analog sites in northern Arizona (The Holey Tour).
+ 
+Abstract deadline is February 20, 2018. More information can be
+obtained at the meeting website:
+
+http://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/rm/
+2018mtg/home.aspx
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+VOLUNTEERS NEEDED FOR UPDATING VEXAG'S VENUS EXPLORATION DOCUMENTS 
+IN 2018
+
+In order to prepare for the upcoming Planetary Science Decadal Survey 
+and a NASA-sponsored Venus Flagship Study, volunteers are needed to 
+support a key Venus Exploration Analysis Group (VEXAG) effort for 2018 
+of reviewing and updating our primary VEXAG Venus Exploration 
+documents:
+
+(1) Venus Exploration Goals, Objectives, and Investigations,
+(2) Venus Exploration Technology Plan, and
+(3) Venus Exploration Roadmap.
+
+VEXAG  Focus Groups will be formed for each of these 3 documents. The 
+schedule for completing this is:
+
+- Kick-offs in March at LPSC
+- Drafts for community review by the fall in time for the annual VEXAG 
+  Meeting
+- Final versions completed and posted by the end of 2018
+
+If you are interested in participating in this effort, provide Bob 
+Grimm, VEXAG Chair, (grimm@boulder.swri.edu) and Martha Gilmore, VEXAG 
+Deputy Chair mgilmore@wesleyan.edu) with a short statement on your 
+expertise and expected contribution by Friday, March 9, 2018. 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+Registration is now open for the 5th offering of Software Systems for 
+Astronomy. The course covers software design and implementation of 
+telescope and instrument control systems, observation planning tools, 
+and software for analyzing and archiving astronomical data. SSfA-5 will 
+be offered as a two week intensive course this summer, 23-Jul to 
+03-Aug, 2018, on the Big Island of Hawaii.
+
+The course number is ASTR385.  For more information visit:
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2018/ssfa18.php
+
+or send email to aconrad@hawaii.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MEPAG MEETING 26 VENUE AND HOTEL BLOCK ANNOUNCED
+        
+MEPAG Meeting 36 will be held April 3-5, 2018 at the Crystal City 
+Marriott at Reagan National Airport (1999 Jefferson Davis Hwy, 
+Arlington, VA 22202).
+
+A room block has been made available at $253/night (GSA rate) for the 
+nights of April 2-4; this room block will be open through March 12. To 
+make a reservation at this rate, please use the following link: Crystal 
+City Marriott at Reagan National Airport GROUP RATE LINK. 
+
+Please Note: The regular room rate at this hotel may be lower than the 
+GSA rate – so we recommend checking out the Marriott site 
+(http://www.marriott.com/hotels/travel/wascc-crystal-city-marriott-at
+-reagan-national-airport/) without the meeting code before making use 
+of the room block.
+
+Additionally, we remind you to please register, if you intend to 
+attend MEPAG Meeting 36 in-person: 
+
+https://docs.google.com/forms/d/e
+/1FAIpQLSf5ryntC2pTy7D3rJTsXdRoibOMDVyaYmRYR0Hsb4lDf0BSSA/viewform 
+
+Registration is not required for attendance, but aids with meeting 
+planning and name-badge printing. (Note that registration is 
+completely separate from forecasting.) The online registration 
+will be open until March 23.
+
+We look forward to seeing you at the Crystal City Marriott!
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG MEETING REMINDER
+
+The MEPAG Meeting 36 1st Informational Circular is available at:
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m36
+
+A focus of this MEPAG meeting will be preparation for the next Decadal 
+Survey. We would like to draw your attention to two upcoming deadlines, 
+associated with this forum:
+
+(1) To request a presentation spot at the MEPAG meeting forum, please 
+submit an abstract outlining your concept to 
+mepagmeetingqs@jpl.nasa.gov by Thursday, February 22. Information about 
+the forum and abstract content/length can be found in the 1st Circular.
+
+(2) To encourage and enable more Early Career participation in the 
+forum (and in the full MEPAG meeting), the NASA Mars Program Office has 
+announced that travel awards are available for up to four early career 
+U.S. scientists or engineers with an interest or role in the Mars 
+Exploration Program. Selection for the travel award will be based on 
+submission of an acceptable abstract for the forum, anticipated 
+participation in the full MEPAG meeting, and demonstration of financial 
+need. Please submit an application form by Thursday, February 15 
+(deadline has been extended) and a first-author concept abstract by 
+the abstract deadline. Further information can be found in the 1st 
+Circular.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NEW OPAG GOALS DOCUMENT POSTED FOR COMMUNITY COMMENTS
+
+An extensively revised draft goals document for the Outer Planets 
+Assessment Group has been posted at: 
+
+https://www.lpi.usra.edu/opag/  
+
+We invite the OPAG science community to provide feedback by using the 
+OPAG Discussion Board: 
+
+https://www.lpi.usra.edu/forums/viewforum.php?f=2  
+
+To use this, you must have filled out a notification of interest form 
+at: 
+
+https://www.lpi.usra.edu/opag/opag.cfm 
+
+and register for the discussion board. This document will be discussed 
+at the next OPAG meeting February 21-23 in Hampton, Virginia. 
+
+This document will influence both the next decadal survey and 
+near-term decisions such as what mission concepts to study and 
+technologies to support, and provides a resource for PI-led proposals 
+to SIMPLEx, Discovery, New Frontiers, telescopic observations, and 
+for R&A. 
+
+-OPAG Steering Committee
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+CARBON IN THE SOLAR SYSTEM WORKSHOP
+
+April 25-27, 2018
+Denver, Colorado
+
+Abstracts are due March 6. We've posted a notional program with some of 
+the invited speakers. Check it out at:
+
+https://carbon-workshop.arc.nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ENVIRONMENTS OF TERRESTRIAL PLANETS UNDER THE YOUNG SUN: SEEDS OF
+BIOMOLECULES
+
+9-13 April, 2018 
+NASA Goddard Space Flight Center 
+Greenbelt, MD, USA
+
+Hosted by the Sellers Exoplanet Environments Collaboration, this 
+symposium is a major international interdisciplinary conference in the 
+emerging area of astrobiology covering astrophysical, physico-chemical, 
+atmospheric and geological aspects of environments of early terrestrial 
+planets with a focus on the impacts of the young Sun’s space weather on 
+the precursors of life. 
+
+The central objective of the Symposium is to unify and coordinate these 
+efforts to understand, and characterize heliophysical, magnetospheric, 
+ionospheric, climate and their interaction with geological environments 
+on the early Earth, Mars and Venus and their impacts on the initiation 
+of prebiotic chemistry.
+
+The official web site for the symposium is available at: 
+
+https://science.gsfc.nasa.gov/600/seec/Events
+/Environments_of_Terrestrial_Planets_Under_the_Young_Sun.html
+
+Please register and submit your abstract (at no cost) at: 
+
+https://asd.gsfc.nasa.gov/conferences/seec/2018_Symposium/
+
+Please contact Prof. Vladimir Airapetian at NASA/GSFC and American 
+University at vladimir.airapetian@nasa.gov
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 11-15, 2018
+Cosmic Dust: Origin, Applications & Implications
+https://indico.nbi.ku.dk/event/1040/
+Copenhagen, Denmark
+
+June 20-22, 2018
+Exoplanets Orbiting Hot Stars
+https://vu.edu/planetsaroundhotstars
+Nashville, TN
+
+July 8-11, 2018
+Spectroscopy of Exoplanets
+http://www.exomol.com/activities/conference-spectroscopy-of-exoplanets/
+Windsor, United Kingdom
+
+July 23-August 3, 2018
+Software Systems for Astronomy
+http://astro.uhh.hawaii.edu/Summer/Summer-2018/ssfa18.php
+Hilo, HI
+
+September 10-14, 2018
+Triple Evolution and Dynamics Trendy-2
+http://www.lorentzcenter.nl/lc/web/2018/1016
+/info.php3?wsid=1016&venue=Oort
+Leiden, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

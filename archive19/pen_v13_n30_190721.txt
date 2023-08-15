@@ -1,0 +1,639 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 30 (July 21, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session P028: Planetary Atmospheres and Evolution
+2. AGU Session P022: Machine Learning for Planetary Science 
+3. AGU Session P017: Ice from Grains to Landscapes - Surface Processes
+   on Active Icy Worlds
+4. AGU Special A117: Sounds of the Solar System - Geophysical
+   and Planetary Acoustics
+5. AGU Session P019: Infrared Spectroscopy for Surface Compositions
+   Across the Solar System
+6. AGU Session EP036: Shaping Landscapes of the Solar System -
+   Environmental Flows on Other Planets
+7. AGU Session P004: Beyond the Catastrophe - The Biological and
+   Astrobiological Significance of Impact Cratering in the Solar System
+8. AGU Session P029: Planetary Atmospheric, Surface, and Interior Science
+   Using Radio and Laser Links
+9. AGU Session A031: Atmospheric Radiative Transfer through Clouds and
+   Precipitation - Applications to Remote Sensing and Data Assimilation
+10. AGU Session P007: Comparative Planetology - Large Planetesimals and
+    Dwarf Planets Throughout the Solar System
+11. Planetary Sciences Exploration Postdoctoral Position at the
+    University of Central Florida
+12. Job Opening: University of Nevada, Reno - Full Professor and
+    Department Chair
+13. Professor Position in Radiation and Remote Sensing of Atmospheres
+    in Berlin
+14. [NASA] SIMPLEx (PEA-J of SALMON-3) Closed, 2020 Solicitation
+    Anticipated
+15. MRO SHARAD RDR Data from Releases 27-35
+16. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 12
+17. [ESA] PSA: Rosetta Spice Kernels Increment Release
+18. Ganymede Book Call for Chapters
+19. A'Hearn Symposium
+20. Deadline Approaching for 2019 Annual Meeting Student Travel Grant:
+    August 21
+21. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION P028: PLANETARY ATMOSPHERES AND EVOLUTION
+
+Understanding the nature and variability of (exo)planetary atmospheres,
+the physical mechanisms governing these atmospheres, and their chemical
+evolution are strong driving forces of planetary science and Solar
+System exploration mission planning. While the long-term evolution of
+the Earth is constrained by geological studies and isotopic analyses,
+the evolutionary paths of other planets must be reconstructed from data
+obtained through astronomical observations and planetary missions.
+Models of planetary atmospheres use these observations to highlight
+governing physical processes operating from the Earth to other planets
+in our Solar System and beyond. The rapidly increasing number of
+discovered exoplanets provides a new opportunity for interdisciplinary
+collaborations between heliophysicists, astrophysicists, geoscientists,
+biochemists, planetary and climate scientists concerning the physical
+and chemical evolution of (exo)planetary atmospheres and planetary
+habitability.
+
+This session welcomes observational, theoretical, experimental, and
+field studies relevant to the atmospheres, evolution, and habitability
+of planets in and outside of our Solar System.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/79425
+
+The deadline for abstract submission is Wednesday, 31 July 2019.
+
+Convenors:
+Feng Tian (Macau University of Science and Technology),
+Cedric Gillmann (Free University of Belgium)
+Vladimir Airapetian (NASA/GSFC/SEEC & American University)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P022: MACHINE LEARNING FOR PLANETARY SCIENCE
+
+Machine Learning (ML) is the subfield of computer science
+that gives "computers the ability to learn without being explicitly
+programmed." As increasingly large, complex datasets are acquired,
+autonomy and machine intelligence will have a critical role in the
+interpretation of data from planetary exploration missions. There is a
+need for frameworks that can rapidly and intelligently extract
+information from these datasets in a manner useful for scientific
+analysis. This session will explore research that leverages machine
+learning methods to enhance our scientific understanding of planetary
+data and to increase the scientific return from exploration missions.
+This session will also explore ways of introducing machine learning
+into existing analysis workflows. Topics may encompass data analysis on
+the ground (post-downlink) as well as onboard a spacecraft for existing
+or future planetary exploration missions and instruments.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/78481
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P017: ICE FROM GRAINS TO LANDSCAPES: SURFACE PROCESSES ON
+ACTIVE ICY WORLDS
+
+We would like to invite submissions to our Icy Worlds AGU session this
+fall in San Francisco.
+
+As we consider the in situ exploration of outer Solar System worlds -
+such as icy satellites, small bodies, and Kuiper Belt objects -
+increasing collaboration between those who study surface processes on
+landscape scales and those who study processes at the scale of a landed
+robotic vehicle will continue to increase in importance. To gather
+these different scientific communities together, we invite
+contributions ranging in focus from comparative planetology and remote
+sensing, to laboratory analogs, instrumentation and experiments, to
+theoretical and numerical modeling. We intend for this session to
+foster more collaboration between these communities, so that we may
+continue to explore the commonality of surface processes on icy worlds,
+despite their dispersion across the Solar System.
+
+For more information or to submit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/85538
+
+Conveners:
+Sam Birch (Cornell)
+Cynthia Phillips (JPL)
+Orkan Umurhan (Ames)
+Kevin Hand (JPL)
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SPECIAL SESSION A117: SOUNDS OF THE SOLAR SYSTEM: GEOPHYSICAL AND
+PLANETARY ACOUSTICS
+
+Forces imposed on the atmosphere of Earth and other planets can create
+acoustic waves that travel vast distances, providing information
+on their source and the transmission medium. On Earth, low frequency
+sound ("infrasound") sensors can capture signals from natural sources
+(volcanoes, earthquakes, severe storms, bolides, etc.) and human
+activities (chemical and nuclear explosions, supersonic aircraft, wind
+turbines, dams, etc.). These sounds can be inverted to determine
+atmospheric structure. They may also carry energy into the upper
+atmosphere, creating localized heating. The recent detection of Martian
+infrasound via the InSight lander has highlighted the scientific
+dividends of acoustic monitoring on other Solar System bodies as well.
+In fact, studies of acoustic wave propagation have been performed for
+Venus, Jupiter, and Titan; there is an increasing recognition that
+sound waves can provide details on a variety of phenomena that cannot
+be captured from orbit. This session is dedicated to highlighting
+studies of acoustic waves on the Earth and beyond. We invite 
+theoretical, numerical, and experimental studies in geophysical and
+planetary acoustics.
+
+For more information contact Siddharth Krishnamoorthy
+(siddharth.krishnamoorthy@jpl.nasa.gov)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P019: INFRARED SPECTROSCOPY FOR SURFACE COMPOSITIONS
+ACROSS THE SOLAR SYSTEM
+
+This session seeks to bring together infrared spectroscopists studying
+the surface composition of the terrestrial planets, the small bodies,
+icy moons and beyond, in either short-wave IR, long-wave IR, or both.
+Submissions are encouraged from either telescopic or spacecraft
+spectroscopy that highlight new results. Additionally, in celebration
+of AGU's centennial, we also encourage submissions on the history and
+evolution of our understanding of surface compositions as spectroscopic
+techniques have improved or as we have achieved increased spatial
+resolution with spacecraft flybys, orbiters and landers. Submissions on
+spectroscopy from laboratory studies, extraterrestrial materials, and
+Earth analogs are also welcome.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/76881
+
+Conveners: Wendy Calvin (UNR), Diana Blaney (JPL), Vicky Hamilton
+(SWRI), Bethan Ehlmann (Caltech)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION EP036: SHAPING LANDSCAPES OF THE SOLAR SYSTEM -
+ENVIRONMENTAL FLOWS ON OTHER PLANETS
+
+Quantitative models for surface processes have been derived for Earth
+systems. When applied to other planetary bodies, these Earth-based
+models can provide critical insights into the geologic history of the
+Solar System. In return, planetary surfaces across the Solar System
+offer a unique opportunity to test these models under conditions often
+unachievable on Earth. We invite a range of contributions in the field
+of planetary surface processes with an emphasis on fluid and granular
+flows (fluvial, eolian, glacial, mass wasting, coastal, etc.) and that
+use laboratory experiments, theoretical and numerical modeling, and
+planetary-exploration data from orbiters, landers, and rovers. This
+session's goal is to explore the interplay between quantitative models
+for planetary surface processes and new planetary exploration data that
+often challenge these models. We intend this session to foster more
+collaboration between members of the PS and EPSP sections.
+
+For more information or to submit an abstract, go here:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/81798
+
+Conveners: Marisa Palucis (Dartmouth College), Alex Morgan (Smithsonian
+Institution) and Mathieu Lapotre (Stanford)
+
+Invited Authors: Edwin Kite (University of Chicago) and Britney Schmidt
+(Georgia Tech)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P004: BEYOND THE CATASTROPHE - THE BIOLOGICAL AND
+ASTROBIOLOGICAL SIGNIFICANCE OF IMPACT CRATERING IN THE SOLAR SYSTEM
+
+Meteorite impact events are unique, ubiquitous, and significant
+geological processes on every rocky and icy body in the Solar System.
+Impact events on the early Earth undoubtedly had profound effects on
+early life, if not the origin of life. The effects of shock
+metamorphism combined with the generation of post-impact hydrothermal
+systems in the presence of adequate water make impact environments
+attractive astrobiology targets. This session will discuss the
+beneficial biological consequences and astrobiological implications of
+meteorite impact events and impact craters: including habitat
+modification, generation of subsurface habitability, biosignature
+preservation, microbial metabolic implications and planetary
+exploration targets.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/82641
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P029: PLANETARY ATMOSPHERIC, SURFACE, AND INTERIOR SCIENCE
+USING RADIO AND LASER LINKS
+
+Solar System exploration has been advanced over the past five decades
+via Radio Science techniques to study planetary and solar phenomena as
+well as fundamental physics. The scope of this session includes
+investigations within the Solar System as well as tests of fundamental
+physics to expand the frontiers of Solar System exploration using radio
+and optical science to address the study of ocean worlds, planetary and
+small body interiors, the dynamics, composition, and thermal structure
+of planetary atmospheres, characterizing the scattering, electrical,
+and other properties of planetary surfaces, and research in fundamental
+physics and Solar System dynamics. Relevant technology topics include
+the design of small spacecraft networks and constellations, advances in
+flight and ground instrumentation, advances in space clock
+technologies, novel communications architectures including optical
+links, advances in radio and laser technologies, and new techniques and
+instrumentation for entry probe radio science.
+
+The submission deadline is Wednesday, 31 July 2019.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/74030
+
+Conveners:
+David H. Atkinson, JPL, David.H.Atkinson@jpl.nasa.gov
+Sami.W. Asmar, JPL, Sami.W.Asmar@jpl.nasa.gov
+Silvia Tellmann, Univ. Cologne, silvia.tellmann@uni-koeln.de
+Luciano Iess, Universit  La Sapienza, luciano.iess@uniroma1.it
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION A031: ATMOSPHERIC RADIATIVE TRANSFER THROUGH CLOUDS AND
+PRECIPITATION - APPLICATIONS TO REMOTE SENSING AND DATA ASSIMILATION
+
+The Joint Center for Satellite Data Assimilation is hosting a session
+on radiative transfer model development at the 2019 AGU Fall Meeting
+with the title: "Atmospheric Radiative Transfer through Clouds and
+Precipitation - Applications to Remote Sensing and Data Assimilation".
+If you would like to present your work on radiative transfer model
+development involving scattering particles and applications of such
+novel models in a remote sensing context please consider submitting an
+abstract to this session before the deadline on July 31, 2019.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/71478
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION P007: COMPARATIVE PLANETOLOGY: LARGE PLANETESIMALS AND
+DWARF PLANETS THROUGHOUT THE SOLAR SYSTEM
+
+Observations returned by space missions (e.g., Dawn, New Horizons,
+Cassini) and large Earth-bound telescopic surveys (e.g., NEOWISE,
+Adaptive optics observations) over the past decade offer a broad
+encompassing view of the population of large planetesimals and dwarf
+planets that formed shortly after Solar System formation. Most of these
+bodies have retained information on their accretional environments
+while others have undergone significant internal evolution.
+
+The Psyche and Lucy missions now prepare to continue deciphering the
+Solar System's early history with the exploration of 16 Psyche and
+Jupiter's Trojan asteroids, while instruments on the extremely large
+telescopes available in the next decade will provide observations with
+unprecedented details of many large planetesimals.
+
+This session welcomes abstracts that address new observations and
+models of large planetesimals found across the Solar System, compare
+and contrast the properties of planetesimals found in various small
+body reservoirs, and address their possible genetic relationships.
+
+Abstract deadline: July 31
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/82009
+
+Conveners:
+Julie Castillo-Rogez (JPL/Caltech)
+Debra Buczkowski (JHU/APL)
+Franck Marchis (SETI Institute)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCES EXPLORATION POSTDOCTORAL POSITION AT THE UNIVERSITY
+OF CENTRAL FLORIDA
+
+The Department of Physics (physics.cos.ucf.edu) at the University of
+Central Florida (UCF) and the Florida Space Institute (FSI) invite
+applications for a post-doctoral position as part of the Center for
+Lunar and Asteroid Surface Science (CLASS) of the NASA Solar System
+Exploration Research Virtual Institute (SSERVI). We seek candidates
+with interests in exploration-related planetary science including, but
+not limited to, lunar surface mineralogy, regolith processes, primitive
+asteroid mineralogy, and in situ resource utilization (ISRU).
+
+Applicants must have a Ph.D. at the time of appointment in Geological
+Sciences, Planetary Sciences, or a closely related discipline. The
+successful applicant is expected to be involved in CLASS projects
+related to the physical properties of lunar and asteroidal materials,
+the scientific support of ISRU development, and lunar regolith
+processes. This will include interaction with the commercial NewSpace
+community in the development of the next generation of lunar landers,
+instruments, and experiments. Interested individuals should provide
+include a cover letter, curriculum vitae, summary of research, and a
+list of three professional references with contact information to Dr.
+Daniel Britt (dbritt@ucf.edu).
+
+Screening of applications will continue until the position is filled.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JOB OPENING: UNIVERSITY OF NEVADA, RENO - FULL PROFESSOR AND DEPARTMENT
+CHAIR
+ 
+The Department of Geological Sciences and Engineering (DGSE) at UNR
+invites applications for a tenured, full professor to serve as
+Department Chair. Applicants must have a Ph.D. in Geological Sciences
+or a related field, and a proven track record in research and service
+as well as evidence of successful personnel and financial management.
+Leadership qualities, enthusiasm, effective interpersonal communication
+and organizational skills are required. The Chair's role includes
+representing the Department to university administration, other
+university units, industry, and to public and private agencies at the
+local, regional, national, and international levels. The Chair will be
+expected to oversee recruitment of world-class faculty, and facilitate
+their professional development. The Chair will be expected to teach a
+reduced course load, supervise graduate students and maintain a robust
+research program.
+
+Review of applications will begin Monday, September 16, 2019. We are
+expecting a start date of July 1, 2020. 
+
+The University of Nevada, Reno is an equal opportunity/affirmative
+action employer. We promote excellence through diversity and encourage
+all qualified individuals to apply. 
+
+For additional details on the Department and UNR please see the full
+application:
+
+https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-
+Nevada-Reno---Main-Campus/Professor-Chair-Geological-Sciences_R0116800
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PROFESSOR POSITION IN RADIATION AND REMOTE SENSING OF ATMOSPHERES IN
+BERLIN
+
+We now have an Associate Professor position open at Freie Universitat
+Berlin that might be of interest for planetary scientists that work
+with Earth's atmosphere as well as planetary atmospheres and radiative
+transfer. 
+
+Please find detail here:
+
+https://www.fu-berlin.de/universitaet/beruf-karriere/jobs/english/GW-
+Prof-E-W2-fuer-Strahlung-und-Fernerkundung.html
+
+Applications have to be submitted by August 15th via e-mail to the
+address mentioned in the link.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] SIMPLEX (PEA-J OF SALMON-3) CLOSED, 2020 SOLICITATION
+ANTICIPATED
+
+In 2018 NASA solicited PEA J of SALMON-3 NASA solicited and received
+proposals for Small Innovative Missions for Planetary Exploration
+(SIMPLEx): investigations in which a secondary payload small spacecraft
+is built and deployed from a primary spacecraft mission, for
+acquisition of science data, analysis, publication of scientific
+results, and delivery of the data to an appropriate NASA archive.
+
+PEA J of SALMON-3 was presented as an open call, allowing for proposals
+to be submitted at any time. However, it is now closed. It is
+anticipated that another SIMPLEx opportunity will be solicited in 2020.
+When the next SIMPLEx opportunity is released, it will have a new
+(letter) designation. It is anticipated that the next SIMPLEx proposal
+due date will be no earlier than June 2020 and no fewer than 90 days
+after release of the text. New flight opportunities, consistent with
+the due date, will be identified at the time of release. Lessons
+learned may result in minor changes to the solicitation.
+
+Questions regarding SIMPLEx may be addressed to Ms. Doris Daou at
+Doris.Daou@nasa.gov.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MRO SHARAD RDR DATA FROM RELEASES 27-35
+
+The Planetary Data System (PDS) announces the release of new data from
+the SHARAD instrument on the Mars Reconnaissance Orbiter (MRO).
+
+SHARAD derived data from the ASI (Italian Space Agency) SHARAD Ground
+Operations Center have been released covering the period
+March 10, 2013 - May 16, 2015. These time periods correspond to
+previous MRO releases 27-35. The SHARAD team is recovering data from 
+deliveries that were missed due to a hiatus in ground operations
+between June 2012 and March 2013.
+
+For details, see the file ERRATA.TXT on the archive volume at:
+
+http://pds-geosciences.wustl.edu/mro/mro-m-sharad-4-rdr-v1/mrosh_1004/
+
+For further information see the PDS Geosciences Node SHARAD web page:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR AND TER RELEASE 12
+
+PDS announces Release 12 of Mars Reconnaissance Orbiter CRISM Targeted
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data
+Record (MTRDR) products, at:
+
+http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from August 10, 2007, through February 20,
+2008. TER products are image cubes derived from CRISM hyperspectral
+targeted observations, post-processed to standardize the illumination
+and observation geometry and remove atmospheric gas absorptions and
+instrument artifacts. MTRDRs are the same products map-projected using
+terrain models of the Martian surface.
+
+The standard route to access released data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190717.shtml
+
+To access all PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[ESA] PSA: ROSETTA SPICE KERNELS INCREMENT RELEASE
+
+The ESA SPICE Service (ESS) and the Planetary Science Archive (PSA) 
+with NAIF are pleased to announce the release on the 19th of July, 2019
+of the next increment of the ROSETTA SPICE data set,
+RO/RL-E/M/A/C-SPICE-6-V1.0.
+
+To access the above data, please visit the following link:
+
+https://doi.org/10.5270/esa-1dfi4i7 
+
+The data can be accessed directly via FTP at the PSA and at NAIF:
+
+ftp://psa.esac.esa.int/pub/mirror/INTERNATIONAL-ROSETTA-MISSION/SPICE/
+RO-RL-E-M-A-C-SPICE-6-V1.0/
+
+http://naif.jpl.nasa.gov/pub/naif/pds/data/ro_rl-e_m_a_c-spice-6-v1.0/
+rossp_1000
+
+The data set's aareadme file in ASCII text format is located at
+
+ftp://psa.esac.esa.int/pub/mirror/INTERNATIONAL-ROSETTA-MISSION/SPICE/
+RO-RL-E-M-A-C-SPICE-6-V1.0/AAREADME.TXT
+
+All available ESA SPICE data may be found at:
+
+https://www.cosmos.esa.int/web/spice/data
+
+For further information, see the ESA SPICE Service Home Page:
+
+https://spice.esac.esa.int
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+GANYMEDE BOOK CALL FOR CHAPTERS
+
+Dear Colleagues,
+
+Those of you who are involved in the JUICE Working Groups 1/2/3 or on
+the MOP mailing list may already have seen this message.
+
+We are proposing to write a dedicated book on Ganymede. We are in
+contact with Cambridge University Press who are supporting our effort,
+but now request a full table of content. Therefore, we are now putting 
+out this call for chapters. The concept Table of Content can be found 
+at:
+
+ftp://ftp.iwf.oeaw.ac.at/pub/Volwerk/
+
+If you are interested, please send the title, authors and a short
+description of the content of your chapter to: ganymede.book@gmail.com
+
+For Melissa McGrath, XianZhe Jia and Tilman Spohn
+Best regards
+Martin Volwerk
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+A'HEARN SYMPOSIUM
+
+New Cometary Insights from the Close Approach of 46P/Wirtanen: A
+Symposium in Celebration of Mike A'Hearn
+
+This is a final reminder that registration for the meeting (August 6-8,
+2019 on the University of Maryland campus) will end on July 30, 2019.
+
+We are still accepting abstracts for poster presentations, regarding
+comet Wirtanen, other comets, big picture views, or memories of Mike.
+
+For more information about the meeting and a link to the registration
+site, go to:
+
+http://wirtanen.astro.umd.edu/symposium/index.shtml
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+DEADLINE APPROACHING FOR 2019 ANNUAL MEETING STUDENT TRAVEL GRANT:
+AUGUST 21
+
+Greetings Planetary Community!
+
+The Planetary Geology Division (PGD) of the Geological Society of
+America offers 1-2 travel grant(s) in the amount of $500 to help defray
+costs for PGD student members who are traveling to the GSA Annual
+Meeting to present first-authored papers. 
+
+The deadline to apply for the 2019 Annual Meeting Student Travel Grant
+is August 21st, 2019. 
+
+To apply, download and complete the Travel Grant Application Form and
+send completed application materials (Travel Grant Form, current CV (2
+page maximum) and Short (300-500 word) Justification for why you need
+travel) should be submitted as a single PDF file to PGD 2nd Vice-Chair
+Debra Hurwitz (email). For more details go to:
+
+https://community.geosociety.org/pgd/awards/travel-grants
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 6-12, 2020
+Planetary Science: The Young Solar System
+https://www.icisequynhon.com/conferences/2020/planetary_science
+Quy Nhon, Vietnam
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

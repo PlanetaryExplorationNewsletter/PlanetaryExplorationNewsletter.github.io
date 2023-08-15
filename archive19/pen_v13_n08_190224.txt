@@ -1,0 +1,433 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 8 (February 24, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Research Scholar in Noble Gas Geochronology and 
+   Isotope Geochemistry of Planetary Materials
+2. Early Registration Deadline for 2019 Planetary Defense Conference
+3. Introduction to Planetary Image Analysis with ArcGIS at LPSC
+4. Upcoming Proposal Writing Workshops
+5. [NASA] ROSES: New Opportunity in C.30 Planetary Mission Concept 
+   Studies
+6. [NASA] ROSES: New Opportunity in C.31 KPLO PSP
+7. 3rd COSPAR Working Meeting on Refining Planetary Protection 
+   Requirements for Human Missions to Mars
+8. Software Systems for Astronomy - Change of Dates
+9. Terrestrial Analog Survey
+10. International Venus Conference Abstract Deadline Extended
+11. SSERVI Carbon in the Solar System LPSC Workshop
+12. IUGG/IAMAS Session M24: Clouds and Circulations in Planetary
+    Atmospheres
+13. Undergraduate Summer Interns Available for SSW-Funded Researchers: 
+    PGGURP is Now SUPPR
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL RESEARCH SCHOLAR IN NOBLE GAS GEOCHRONOLOGY AND ISOTOPE 
+GEOCHEMISTRY OF PLANETARY MATERIALS
+
+The Group 18 Laboratories, School of Earth and Space Exploration,
+Arizona State University invites applications for a postdoctoral 
+research scholar to study the origin and thermal evolution of lunar 
+impact melt breccias, predominantly using noble gas geochronology and 
+isotope geochemistry. These studies will be conducted largely using 
+ultraviolet laser ablation microprobe techniques that permit very high 
+spatial resolution sampling of target materials in petrographic context. 
+Details regarding this position and how to apply may be found at
+
+https://sese.asu.edu/about/opportunities/other
+
+Review of applications will begin on March 20, 2019. Please contact Kip 
+Hodges (kvhodges@asu.edu) directly for additional information.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EARLY REGISTRATION DEADLINE FOR 2019 PLANETARY DEFENSE CONFERENCE
+
+The International Academy of Astronautics will hold its 6th Planetary 
+Defense Conference from April 29 to May 3rd, 2019 in College Park, 
+Maryland, USA. The bi-annual conference brings together world experts 
+to discuss the threat to Earth posed by asteroids and comets and 
+actions that might be taken to deflect a threatening object.
+
+Key International and Political Developments
+Advancements in NEO Discovery
+New NEO Characterization Results
+Deflection & Disruption Modeling and Testing
+Mission & Campaign Design
+Impact Consequences
+Disaster Response
+Impact Risk Assessment and Decision to Act
+Public Education and Communication
+
+The conference will include a hypothetical NEO/Earth impact event 
+scenario that will be part of the conference (similar to what was done 
+at previous conferences)
+
+https://cneos.jpl.nasa.gov/pd/cs/
+
+Conference attendees may also use the hypothetical scenario as their 
+topic for papers and presentations.
+
+The NASA Planetary Defense Coordination Office would like to remind the 
+community that the Early Registration deadline is Friday, March 1,
+2019. For more information and to register, visit: 
+
+http://pdc.iaaweb.org/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+INTRODUCTION TO PLANETARY IMAGE ANALYSIS WITH ARCGIS AT LPSC
+
+The Spacecraft Planetary Imaging Facility (SPIF) of Cornell University 
+is offering this free workshop at the upcoming 50th LPSC on Sunday, 
+March 17, sponsored by the Regional Planetary Image Facility (RPIF) 
+network. This will be an introductory level course accessible to 
+participants with no prior ArcGIS experience. The workshop will run 
+from 9:00am to 4:00pm and will cover topics including ArcGIS basics, 
+spatial analysis, and map document production, mostly through hands-on 
+exercises using data from Mars Odyssey and Mars Global Surveyor. 
+Participants will be given a one-year ArcGIS license as part of the 
+workshop.  
+
+Registration is required: 
+
+https://goo.gl/vajXdS
+
+The deadline for registration is March 8, 2019. Please contact Zoe 
+Learner Ponterio, SPIF Data Manager, for more information at 
+zap9@cornell.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+UPCOMING PROPOSAL WRITING WORKSHOPS
+
+The success of scientists depends upon their ability to obtain funding. 
+Using Research Opportunities in Space and Earth Sciences (ROSES) from 
+NASA as a primary example, this workshop will focus on teaching the 
+audience key points to writing a successful proposal. Proposal Writing 
+Workshops help early career scientists, as well as those looking to 
+improve their previous proposal performance. As a result of this 
+session, participants will be able to understand the proposal writing, 
+reviewing, and selection process for federally funded proposals, and 
+help those who have previously submitted proposals improve their 
+performance. The workshop will be done in a format that allows for a 
+great deal of audience participation. Participants are encouraged to 
+bring along previous proposal materials and reviews to go through 
+within the group or for one-on-one Q&A during the workshop.
+
+There are two upcoming opportunities to participate in a Proposal 
+Writing Workshop:
+
+Saturday, March 16th, 10 AM
+Out to Innovate Conference
+Los Angeles, CA
+
+https://www.noglstp.org/outtoinnovate/ 
+
+Sunday, March 17th, 1 PM 
+50th LPSC
+Houston, TX
+
+https://www.hou.usra.edu/meetings/lpsc2019/
+
+For more information, please contact Christina Richey, 
+christina.r.richey@jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES: NEW OPPORTUNITY IN C.30 PLANETARY MISSION CONCEPT STUDIES
+
+NASA has started preparations for the 2023 Planetary Science Decadal 
+Survey and one of the tasks of the 2023 Decadal Survey Committee will 
+be to recommend a portfolio of planetary science missions. The Decadal 
+Survey Committee may choose to recommend a portfolio of missions 
+containing a mix of prioritized large- and medium-size mission 
+concepts, or even a program of competed medium-size missions. NASA and 
+the community are interested in providing appropriate input to the 2023 
+Decadal Survey regarding medium/large-size mission concepts. To this 
+end, NASA is soliciting proposals to conduct mission concept studies in 
+planetary science. Results of the selected studies will be provided by 
+NASA as input to the 2023 Decadal Survey.
+
+Mandatory NOIs are due by March 22, 2019, and the due date for 15-page 
+proposals is May 21, 2019. Any new information that comes out of or 
+questions sent to the NASA point of contact will be posted in a FAQ on 
+the NSPIRES web page for this program element.
+
+Go to:
+
+http://nspires.nasaprs.com/
+
+Questions regarding this program element may be directed to 
+Doris.Daou@nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES: NEW OPPORTUNITY IN C.31 KPLO PSP
+
+This amendment creates a new opportunity in program element C.31, the 
+Korea Pathfinder Lunar Orbiter Participating Scientist Program.
+
+The objective of the Korea Pathfinder Lunar Orbiter (KPLO) 
+Participating Scientist Program (PSP) is to enhance the scientific 
+return during the science phase of the KPLO mission by expanding 
+participation in the mission through new investigations that 1) broaden 
+or complement existing mission investigations, or 2) leverage the KPLO 
+mission data for studies outside of the original mission scope. The 
+KPLO Participating Scientist Program is jointly solicited by the 
+Science Mission Directorate (SMD) Planetary Science Division (PSD) 
+and the Human Exploration and Operations Directorate (HEOMD) Advanced 
+Exploration Systems (AES) Division, but will be administered primarily 
+by the Planetary Science Division.
+
+For C.31, the Korea Pathfinder Lunar Orbiter Participating Scientist 
+Program, Step-1 proposals are due April 2, 2019 and proposals are due 
+May 22, 2019.
+
+Go to:
+
+http://nspires.nasaprs.com/
+
+The Science Mission Directorate point of contact for this program 
+element is Shoshana Weider, who may be reached at 
+shoshana.z.weider@nasa.gov
+
+The Human Exploration and Operations Directorate point of contact for 
+this program element is John Guidi, who may be reached at 
+john.guidi@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+3RD COSPAR WORKING MEETING ON REFINING PLANETARY PROTECTION 
+REQUIREMENTS FOR HUMAN MISSIONS TO MARS
+
+COSPAR, with support from ESA and NASA, is pleased to announce the 3rd 
+COSPAR Working Meeting on Refining Planetary Protection Requirements 
+for Human Missions to Mars, to be held May 14-16, 2019, at the Lunar 
+and Planetary Institute in Houston. This is an interdisciplinary 
+meeting to continue the process of addressing previously identified 
+knowledge gaps in planetary protection between now and the first 
+crewed flight to the martian surface.
+
+The meeting will feed into subsequent COSPAR reporting on potential 
+opportunities to address knowledge gaps in the areas of: i) Microbial 
+and human health monitoring; ii) Technology and operations for 
+contamination control; and iii) Natural transport of contamination on 
+Mars. The second two days will have a particular focus on measurements 
+and instruments for addressing knowledge gaps in Microbial and Human 
+Health Monitoring.
+
+Further information on agenda, logistics, registration and remote 
+participation will be available shortly.
+
+The workshop seeks to ensure a balance of discipline specialty and 
+nationality among the participants. Accordingly, in person attendance 
+may be limited by the capacity of the facilities. Indications of 
+interest in participation can be sent to Valerie.a.chabot@nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SOFTWARE SYSTEMS FOR ASTRONOMY - CHANGE OF DATES
+
+Please note that the dates for the summer school in Software Systems 
+for Astronomy (SSfA-6) have changed. The course will take place July 
+16-26, 2019, on the Big Island of Hawaii. The course covers software 
+design and implementation of telescope and instrument control systems, 
+observation planning tools, and software for analyzing and archiving 
+astronomical data. More information can be found here: 
+
+http://astro.uhh.hawaii.edu/Summer/Summer-2019/ssfa19.php
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+TERRESTRIAL ANALOG SURVEY
+
+Please take a few minutes to fill out this short anonymous survey 
+about Terrestrial Analog Studies! The USGS Astrogeology Science Center 
+is developing a terrestrial analog program, and we are working hard to 
+ensure that the products and services we create meet the needs of the 
+scientific community. Your responses will help identify areas of future 
+development.
+
+https://www.surveymonkey.com/r/X5QD8X3
+
+Please forward the above link as needed to interested community 
+members. If you have further questions or comments, please feel free 
+to contact Lauren Edgar (ledgar@usgs.gov). Thank you in advance for 
+your time.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+INTERNATIONAL VENUS CONFERENCE ABSTRACT DEADLINE EXTENDED
+
+The Abstracts deadline is now: 
+March 11, 14:59 UTC
+March 11, 23:59 JST
+March 11, 10:59 EDT
+March 11, 07:59 PDT
+
+Please visit this website for any updated registration and abstract 
+submission information: 
+
+https://www.cps-jp.org/~akatsuki/venus2019/registration.html
+
+The conference is intended to cover all areas of Venus science with 
+special focus on new results obtained from Japan's Venus Climate 
+Orbiter "Akatsuki". Results from previous missions, from ground-based 
+observations, numerical computations, and theoretical works are all 
+welcome.
+
+More info can be found at the Conference website:
+ 
+https://www.cps-jp.org/~akatsuki/venus2019/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SSERVI CARBON IN THE SOLAR SYSTEM LPSC WORKSHOP
+
+The 4th in our series of SSERVI-sponsored Carbon in the Solar System 
+workshops will be held on Thursday of LPSC week (March 21), 
+noon-1:15 PM in the Indian Springs room at the Marriott. The event 
+will focus on the material that darkens low-albedo bodies in the 
+Solar System. In the previous three SSERVI Carbon in the Solar System 
+workshops/panels, opinions varied on the material that darkens the 
+low-albedo - often presumed primitive - material in the Solar System. 
+Carbon, iron sulfide, magnetite and other materials have been proposed 
+as the darkening agent(s). In this fourth discussion in the series 
+(open to all interested LPSC attendees), we pursue this topic. What 
+implications do these compositions have for understanding the 
+processing and evolution of the Solar System? Our collection of carbon-
+rich samples will expand in the near future when pristine samples of 
+the near-Earth asteroids 162173 Ryugu and 101955 Bennu are returned to 
+Earth. Providing a framework for the existence and processing of carbon 
+throughout Solar System history improves our future analyses. 
+
+This session will be kicked off by an introductory talk given by Dr. 
+Larry Nittler, followed by open discussion among all attendees.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+IUGG/IAMAS SESSION M24: CLOUDS AND CIRCULATIONS IN PLANETARY
+ATMOSPHERES
+
+Abstract deadline extended: March 1, 2019 at 12:00 CET (Central 
+European Time)
+
+We now have new information on clouds and atmospheric circulations,
+including Earth. There are some similarities and many differences among 
+the clouds, their origins and impacts. Especially, for all planets 
+including Earth, cloud motions are a key measurement in studying global 
+circulations and there have been recently many improvements in the 
+techniques. The symposium invites presentations on the clouds or 
+measurements involving clouds on different planets, including Earth.
+
+Conveners: Kevin McGouldrick (USA), Emmanuel Marcq (France)
+
+Go to:
+
+http://iugg2019montreal.com/m.html
+
+The IUGG/IAMAS General Assembly will be held July 8-18, 2019, in
+Montreal, Canada.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+UNDERGRADUATE SUMMER INTERNS AVAILABLE FOR SSW-FUNDED RESEARCHERS: 
+PGGURP IS NOW SUPPR
+
+The Planetary Geology and Geophysics Undergraduate Research Program is 
+now known as the Summer Undergraduate Program for Planetary Research 
+(SUPPR) and is ready to send you an undergraduate intern for 8 weeks 
+this summer. NASA SUPPR will cover the costs of getting the 
+undergraduate to your institution, housing costs for the student while 
+there, as well as a cost-of-living stipend (up to $7300 per intern). 
+Each intern is allowed up to $1000 for reimbursement if they present 
+their SUPPR research at a conference (the Lunar and Planetary Science 
+Conference is popular) the following year. More information can be 
+found at: 
+
+https://www.lpi.usra.edu/suppr/
+
+If you are interested in hosting an intern this summer, please fill out 
+the online form by March 8:
+
+https://www.lpi.usra.edu/suppr/mentors/
+
+Please email Tracy Gregg (tgregg@buffalo.edu) with any questions.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 10-13, 2019
+Integrations of Satellite and Ground-Based Observations and 
+Multi-Disciplinarity in Research and Prediction of Different Types of 
+Hazards in Solar System
+http://www.gi.sanu.ac.rs/site/index.php/en/activities
+/conferences-organisation/975-hazards-sos
+Valjevo, Serbia
+
+June 24-28, 2019
+Ringberg Conference on Star-Planet Connection
+http://www2.mpia-hd.mpg.de/~starsplanets2019/
+Ringberg Castle, Germany
+
+August 25-29, 2019
+Symposium on Water in the Universe
+http://astro.phys-acs.org/symposia/Fall2019.html
+San Diego, CA
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

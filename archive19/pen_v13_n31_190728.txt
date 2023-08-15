@@ -1,0 +1,357 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 31 (July 28, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session P041: Ultraviolet Observing of Solar System Targets
+2. AGU Session V045: Some Like It Wet! Active and Ancient Hydrothermal 
+   Processes on Earth and Beyond
+3. AGU Session P024: Mercury - The Continuing and Future Exploration of 
+   the Innermost Planet
+4. AGU Session P032: Returning to the Moon - The Science of Exploration
+5. Postdoctoral Fellowship Opportunities at Cornell University
+6. Early Career Participant Support Available for OPAG Meeting, 
+   August 19-21
+7. OPAG Subsurface Needs for Ocean Worlds (SNOW) Meeting #1
+8. [NASA]-Themed STEM Student Challenge
+9. Celebrating the Women of Apollo
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION P041: ULTRAVIOLET OBSERVING OF SOLAR SYSTEM TARGETS
+
+We are pleased to invite abstract submissions for this session at the 
+2019 AGU Fall Meeting in San Francisco, CA, December 9-13, 2019.
+
+Ultraviolet spectroscopy and imaging have a decades-long history as 
+valuable techniques for studying atmospheres, aurorae, plumes, and 
+surface composition and volatiles on asteroids, comet nuclei and moons. 
+While there continue to be opportunities for UV remote sensing from 
+Earth orbit and in future robotic missions, the infrastructure for UV 
+instrumentation is at a crossroads. Existing orbital facilities are 
+nearing the end of their useful lives and there continue to be many 
+phenomena that cannot be effectively studied with existing, 
+high-heritage instrument designs. Exciting advances in UV-optimized 
+technologies promise new capabilities that can be incorporated into the 
+next generation of robotic probes, flexible SmallSat missions, and 
+large aperture space-based observatories. This session welcomes 
+abstracts covering UV science results, as well as reports on progress 
+toward developing new technologies such as UV detector technologies, 
+high performance coatings, and novel sensor designs.
+
+Deadline for abstract submissions: Wednesday, 31 July, 23:59 EDT
+
+Conveners Shouleh Nikzad (JPL), Amanda Hendrix (PSI), Walt Harris 
+(Univ. Arizona)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION V045: SOME LIKE IT WET! ACTIVE AND ANCIENT HYDROTHERMAL
+PROCESSES ON EARTH AND BEYOND
+
+Fluid-rock interactions in the oceanic lithosphere are of fundamental 
+importance in regulating mass and heat exchange in numerous geologic 
+processes, with strong implications for 1) the evolution of life on 
+Earth and possibly elsewhere in the Solar System, 2) the dynamics of 
+plate tectonics and metamorphism, 3) climate change through feedback 
+between atmosphere, hydrosphere, and lithosphere, and 4) the formation 
+of economic mineral deposits and hydrocarbons. This session aims to 
+provide a forum for anyone studying the mechanisms, effects, and 
+implications of fluid-rock interactions and metamorphic processes in 
+the oceanic lithosphere, including active systems and their ancient 
+analogues preserved in the rock record. We welcome contributions 
+relevant to terrestrial and extraterrestrial settings where liquid 
+water is or once was present including planets, icy moons, and 
+meteorite parent bodies. Field studies, laboratory experiments, 
+numerical models, and remote sensing studies that further our 
+understanding of fluid-rock interactions, metasomatic, and metamorphic 
+processes are welcome.
+
+Invited speakers:
+
+Jill McDermott (Lehigh University) 
+http://mcdermottlab.weebly.com/
+
+Steve Vance, (Jet Propulsion Laboratory/Caltech) 
+https://science.jpl.nasa.gov/people/Vance
+
+Conveners:
+
+Frieder Klein (Woods Hole Oceanographic Institution)
+Emily Cooperdock (University of Southern California)
+Chris Glein (Southwest Research Institute)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P024: MERCURY - THE CONTINUING AND FUTURE EXPLORATION OF 
+THE INNERMOST PLANET
+
+With three days to the deadline, we remind folks of a Mercury session 
+at the 2019 AGU Fall Meeting in San Francisco, CA, December 9-13, 2019.
+
+NASA's MESSENGER mission revolutionized our understanding of Mercury's 
+surface, interior, exosphere, and magnetosphere. With the successful 
+launch of the ESA-JAXA BepiColombo dual spacecraft mission to Mercury 
+in October 2018, that understanding will soon take another substantial 
+step forward. In this session, we welcome papers on data analysis, 
+laboratory measurements, ground-based observations, and theoretical 
+developments that build on the current state of knowledge of Mercury, 
+as well as contributions on Mercury-like exoplanets. We particularly 
+welcome papers on how questions raised by MESSENGER findings can be 
+addressed by future observations expected from BepiColombo.
+
+Arya Udry (University of Nevada Las Vegas) and Hannah Susorney 
+(The University of British Columbia) will give invited presentations.
+
+Please consider submitting an abstract for this session. For more 
+information, visit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/82251
+
+The submission deadline is this Wednesday, July 31, 2019.
+
+Conveners:
+Paul Byrne (North Carolina State University)
+Sean Solomon (Columbia University)
+Johannes Benkhoff (European Space Agency)
+Masaki Fujimoto (Japan Aerospace Exploration Agency)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P032: RETURNING TO THE MOON - THE SCIENCE OF EXPLORATION
+
+We are pleased to invite you to submit an abstract for the following 
+session at the 2019 AGU Fall Meeting in San Francisco, CA, 
+December 9-13, 2019.
+
+The session will focus on how the close collaboration between science, 
+technology and exploration will enable deeper understanding of the 
+Moon and other airless bodies as we move further out of low-Earth 
+orbit. The Solar System Exploration Research Virtual Institute 
+(SSERVI) will focus on the scientific aspects of exploration as they 
+pertain to the Moon, Near Earth Asteroids (NEAs) and the moons of Mars.
+This session will feature interdisciplinary, exploration-related 
+science centered around all airless bodies targeted as potential human 
+destinations. Areas of study reported here will represent the broad 
+spectrum of lunar, NEA, and Martian moon sciences encompassing 
+investigations of the surface, interior, exosphere, and near-space 
+environments as well as science uniquely enabled from these bodies.
+Graduate students and early career researchers are particularly 
+encouraged to submit for oral presentations.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm19/gateway.cgi
+
+The submission deadline is Wednesday, July 31, 2019.
+
+Conveners:
+Greg Schmidt (NASA SSERVI)
+Brad Bailey (NASA SSERVI)
+Kristina Gibbs (NASA SSERVI)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL FELLOWSHIP OPPORTUNITIES AT CORNELL UNIVERSITY
+
+The Department of Astronomy at Cornell University encourages early 
+career researchers in astronomy and planetary sciences to apply to the 
+following postdoctoral fellowship opportunities:
+
+* 51 Pegasi b Fellowship
+  Cornell University is among the fourteen host institutions for this 
+  planetary astronomy focused postdoctoral fellowship. Deadline: 
+  September 20th
+
+  https://www.hsfoundation.org/programs/science/51-pegasi-b-fellowship 
+
+* Klarman Postdoctoral Fellowship 
+  This prestigious new fellowship allows recipients to conduct research 
+  in any discipline across Cornell's College of Arts & Sciences. 
+  Deadline: October 15th
+
+  https://as.cornell.edu/klarman-postdoctoral-fellowships 
+
+* Cornell Presidential Postdoctoral Fellowship 
+  This program offers significant independence to top-tier postdoctoral 
+  researchers and scholars in all areas of study at Cornell. Deadline: 
+  September 2nd
+
+  https://research.cornell.edu/content/fellowship-essentials
+
+Diversity and inclusion are a part of Cornell University's heritage. 
+We particularly welcome applications from individuals who belong to 
+groups that have been historically underrepresented in planetary 
+sciences and astronomy such as women, persons with disabilities, racial 
+and ethnic minorities, gender and sexual minorities, and others who may 
+contribute to diversification of the field. Our inclusive community of 
+scholars, students, and staff impart an uncommon sense of larger 
+purpose, and contribute creative ideas to further the university's 
+mission of teaching, discovery, and engagement.
+
+For more information contact Nikole Lewis (nikole.lewis@cornell.edu)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EARLY CAREER PARTICIPANT SUPPORT AVAILABLE FOR OPAG MEETING, 
+AUGUST 19-21
+
+NASA's Outer Planets Assessment Group will provide travel grants for a
+limited number of interested Early Career participants to attend the 
+OPAG meeting August 20-21 in Boulder, CO. OPAG plays a key role in 
+sculpting the planetary science community's input into NASA activities 
+for outer planets science and exploration. Thus it is critical for 
+Early Career scientists to attend these meetings both to learn how NASA 
+and Planetary Science programs operate and to represent the community 
+that will work on OPAG-relevant projects in the coming decade. In 
+addition to the OPAG meeting, Early Career travel awardees can also 
+participate in the OPAG Subsurface Needs for Ocean Worlds Meeting 
+(SNOW) on August 19 prior to OPAG. Selected individuals will present 
+a poster at the meeting on a topic of their choosing. Interested 
+graduate students, postdocs, and other Early Career scientists (within 
+5 years of PhD/MS/BS) should submit a one-page letter of interest and 
+a CV to morgan.l.cable "at" jpl.nasa.gov by August 1, 2019. Recipients 
+will be notified by August 5, and will receive support for hotel and 
+transportation costs. For more information, email Morgan Cable at the 
+address above.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPAG SUBSURFACE NEEDS FOR OCEAN WORLDS (SNOW) MEETING #1
+
+Accessing into and through the ice shells of ocean worlds will both 
+enable compelling science, including the search for evidence of past 
+and present life, and require dedicated technology programs to realize.
+OPAG invites members of the astrobiology, planetary science, ocean 
+science and technology communities to join together in a 
+community-based forum aimed at defining the path to the ocean(s). The 
+first Subsurface Needs for Ocean Worlds meeting will be held 9am-5pm 
+August 19, 2019, immediately prior to the fall OPAG meeting in Boulder, 
+CO. This 1-day workshop is designed to be an open forum to discuss 
+technology needs, common science drivers, and mission architectures for 
+Ocean Worlds exploration. The agenda will include a mixture of short 
+presentations, break out groups, and lighting talks on technology and 
+science. 
+
+SNOW meeting #1 will seek to develop plans for Decadal Survey white 
+paper(s) and define action items and agenda for the next meeting 
+(prior to the winter/spring OPAG meeting). Early career scientists are 
+encouraged to participate. Travel support for the OPAG meeting, can be 
+extended to attend SNOW.
+ 
+Go to:
+
+https://forms.gle/bsYWEb8tc2DizvedA
+
+Questions: 
+Britney Schmidt (britneys "at" eas.gatech.edu) 
+Kate Craft (kate.craft "at" jhuapl.edu) 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA]-THEMED STEM STUDENT CHALLENGE
+
+The National Aeronautics and Space Administration's (NASA) Office of 
+Science, Technology, Engineering, and Mathematics (STEM) Engagement 
+(OSTEM) invites the NASA Space Grant community, academia, and industry 
+to submit responses to this Request for Information (RFI) NNH19ZHA001L 
+to assist NASA in evolving the student challenge portfolio beginning in 
+the 2019-2020 academic year. 
+
+NASA's OSTEM seeks innovative challenge proposals that engage 
+college-level students across the nation in Lunar-focused challenges 
+that align with technology needs of the Artemis Mission and that will 
+inspire, engage, educate and employ the Artemis generation.
+
+Responses will be reviewed by NASA and inform the planned release of a 
+Space Grant RFP Solicitation later this calendar year (2019). 
+
+Go to: 
+
+https://bit.ly/2yiBxOa
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+CELEBRATING THE WOMEN OF APOLLO
+
+Splashdown! July 24th marked the 50th anniversary of the return of 
+Apollo 11 astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins, 
+after a historic mission that saw Neil and Buzz on the lunar surface 
+for about 2.5 hours. In mid-1969, there were about 100 women, including 
+16 engineers, serving in top positions at the Kennedy Space Center in 
+Florida. But thousands of other women around the country also supported 
+the Apollo program, before, during, and after 1969. Many of them have 
+recently been interviewed as part of the 50th anniversary, and their 
+stories have appeared in various news outlets. For easy reference, we 
+list many here. If you find even more (and we hope you do!), please let 
+us know in the comments section. As we go forward to the Moon with 
+Artemis, including the first women landing on the lunar surface by 2024 
+and onward to Mars, women around the world will continue to leave 
+indelible marks on the Moon and throughout the Solar System.
+
+Read more at:
+
+https://womeninastronomy.blogspot.com/2019/07
+/celebrating-women-of-apollo.html
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+February 18-21, 2020
+3rd International Planetary Caves Conference
+https://www.hou.usra.edu/meetings/3rdcaves2020/
+San Antonio, TX
+
+February 25-27, 2020
+PERC International symposium on Dust & Parent bodies (IDP2020)
+http://www.perc.it-chiba.ac.jp/meetings/IDP2020/
+Tokyo, Japan
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

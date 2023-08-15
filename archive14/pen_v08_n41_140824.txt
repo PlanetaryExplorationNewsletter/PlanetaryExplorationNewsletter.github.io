@@ -1,0 +1,233 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 41 (August 24, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Asteroid Impact Deflection Assessment (AIDA) Workshop Abstract
+   Deadline
+2. NASA Postdoctoral Fellowships
+3. MAVEN Postdoctoral Researcher in Mars Magnetic Fields
+4. Farinella Prize 2014: Announcement of the Winner
+5. 4th International Workshop on LunarCubes
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ASTEROID IMPACT DEFLECTION ASSESSMENT (AIDA) WORKSHOP ABSTRACT DEADLINE
+
+The first International Asteroid Impact Deflection Assessment (AIDA) 
+Workshop will be held 15-17 October 2014 in Laurel, Maryland. AIDA is 
+a technology demonstration of the kinetic impactor concept. It is 
+composed of the DART (Double Asteroid Redirection Test) and AIM 
+(Asteroid Impact Mission) spacecrafts, each under consideration by 
+NASA and ESA. The combination of both spacecrafts is referred to as 
+AIDA.
+
+Abstracts are solicited for participants to the workshop. Topics 
+include studies relevant to the two concepts (DART projectile and AIM 
+rendezvous spacecraft), knowledge of the Didymos binary system (the 
+target of the AIDA demonstration), and on binary origins, dynamics 
+and properties (e.g. regolith and surface characteristics, internal 
+structure), impact observing strategies, additional science 
+opportunities during an impact demonstration and associated payloads, 
+impact modeling and momentum transfer of an artificial projectile, 
+ejecta dynamics, etc.
+
+Abstracts are due 1 September 2014. Please visit: 
+
+http://www.oca.eu/michel/AIDAWorkshop2014/ 
+
+for further details, including abstract format.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18696  
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  http://bit.ly/1u0LcSj
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+ 
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MAVEN POSTDOCTORAL RESEARCHER IN MARS MAGNETIC FIELDS
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) 
+investigating Mars magnetic fields using data from the MAVEN (Mars 
+Atmosphere and Volatile EvolutioN) mission. Additional details are 
+available at: 
+
+http://www.astro.umd.edu/employment/
+
+The appointment will be initially for one year, with the possibility 
+of renewal in subsequent years. Candidates should have a Ph.D. in a 
+relevant discipline with experience conducting scientific research 
+related to the MAVEN science objectives or the types of instruments 
+included in the MAVEN science payload. Disciplined IDL and Fortran 
+programming skills, demonstrated scientific writing ability, and 
+experience in acquisition and analysis of data (especially magnetometer 
+data) from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by September 1, 2014 will receive full 
+consideration.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FARINELLA PRIZE 2014: ANNOUNCEMENT OF THE WINNER
+
+The Board of the 2014 Paolo Farinella Prize, composed by B. Bottke, 
+F. Mignard, A. Rossi, D.J. Scheeres and G.B. Valsecchi, has unanimously 
+awarded Prof. David Vokrouhlicky (Charles University, Prague, 
+Czeck Republic) the Prize for 2014, on the topic "Non-Gravitational 
+Forces in the Solar System".
+
+A close collaborator and friend of Farinella, David shared Paolo's 
+interest in the dynamics of both artificial and natural celestial 
+bodies exploiting an interdisciplinary approach to enrich both 
+disciplines.
+
+David and Paolo Farinella were the first to set forth a unified 
+version of the Yarkovsky effect (the diurnal and seasonal brands) and 
+to draw a bold conclusion at that time regarding the importance of 
+this kind of radiation forces in the orbital evolution of asteroids. 
+At that time when radiation forces were seen relevant only for dust 
+particles, David and Paolo set a new paradigm by showing that these 
+tiny forces could drive minor bodies into the internal region of the 
+solar system and be responsible for triggering their capture into 
+resonances.
+
+The Prize will be delivered to Prof. Vokrouhlicky in a Special Prize 
+Session during the 2014 EPSC in Cascais, Portugal (September 7-12, 
+2014).
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+4TH INTERNATIONAL WORKSHOP ON LUNARCUBES
+
+October 7-10, 2014 
+Sunnyvale, California
+
+2014 Keynote Speakers 
+
+- Astrobotic (astrobotic.com)
+  Private access to cislunar space for less than $100k\Kg
+
+- Deep Space Industries (deepspaceindustries.com)
+  Private access to asteroids in cislunar space and beyond
+
+- Made in Space (madeinspace.us)
+  Gravity independant 3D printing on Earth and ISS
+
+- SpaceGambit (spacegambit.org)
+  Supporting talent, technology and teams in the Space Maker Movement
+
+- Lunar Initiatives (lunarinitiatives.com)
+  Global workshops and initiatives promoting Lunar and deep space 
+  exploration, now
+
+Its your moon, what are you waiting for?
+
+Register and book now, rooms fill up fast!
+
+LunarCubes.com
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 4, 2014
+Europa Instrument Investigations Pre-proposal Conference 
+http://soma.larc.nasa.gov/europa/conf_wkshop.html
+On-Line
+
+October 15-17, 2014
+AIDA International Workshop 2014 
+https://www-n.oca.eu/michel/AIDAWorkshop2014/
+Laurel, MD
+
+October 23-24, 2014
+Premier Atelier
+http://plato-france1.sciencesconf.org/resource/page/id/1
+Marseille, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,481 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 26 (June 9, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Update - Target NEO 2 Workshop
+2. Job Announcement: NASA Goddard
+3. Job Announcement: JAXA
+4. Postdoctoral Researcher in Planetary Mapping and Impact Studies:
+   Lunar and Planetary Institute
+5. Mars Exploration Science Monthly Newsletter - June 2013
+6. Announcement of Opportunity to Submit Input to Study on Human 
+   Spaceflight
+7. [NASA] Draft Earth Venture Instrument
+8. Comparative Climatology Symposium (May 7) and Venus Game-Changing 
+   Technology Forum (May 8) Presentations Posted 
+9. ICAR
+10. NASA Postdoctoral Fellowships
+11. Lungradcon 2013 Virtual Workshop - Registration Deadline 
+    Approaching
+12. Mars Reconnaissance Orbiter Data Release 25
+13. Mars Express Mission Special Products Release
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+UPDATE - TARGET NEO 2 WORKSHOP
+
+July 9, 2013
+National Academy of Sciences Bldg. 
+2101 Constitution Ave, NW 
+Washington, DC
+
+8 AM - 6 PM
+
+Registration (free) and information: 
+
+http://targetneo.jhuapl.edu
+
+This follow-up to the highly successful Target NEO Workshop, held in 
+February 2011, supports the development of a robust human exploration 
+program by ensuring that the technical viewpoints of experts pertinent 
+to robotic and human NEO exploration are provided and documented.
+
+Key Questions: What are the technical challenges involved and what new 
+capabilities are needed for the newly proposed Asteroid Retrieval 
+Mission (ARM)? Are there any alternative approaches? What technical 
+information is still needed to support and sustain a robust human 
+explortion program to a NEO?
+
+Outcome: Public Report
+
+Session Descriptions:
+Update to Flexble Path Architecture (Asteroid First)
+The Small (< 10 m) NEA Population 
+Finding Small NEAs:  Current Capabilities and Gaps
+Small NEA Mission Design Challenges 
+Techical Value of ARM - Panel Discussion
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JOB ANNOUNCEMENT: NASA GODDARD
+
+NASA, Goddard Space Flight Center, Greenbelt, Maryland. Permanent 
+position. The Science and Exploration Directorate, Solar System 
+Exploration Division (SSED), Planetary Systems Laboratory, is seeking 
+a research scientist to provide expertise in spectroscopic study of 
+small solar system bodies and planetary atmospheres. Studies include:
+
+1) High resolution infrared spectroscopic characterization of comets, 
+   asteroids, and planetary atmospheres.
+2) Development of LTE/non-LTE radiative transfer models capable of 
+   interpreting high resolution infrared spectra of small bodies, 
+   planets and exoplanets 
+3) Development of quantum-mechanical models of polyatomic molecules 
+   of astrobiological interest.
+4) utilization of 3-D general circulation models of planetary 
+   atmospheres to understand transport of trace species detectable 
+   with high resolution infrared spectroscopy.
+
+Candidates must have research experience in planetary atmospheric 
+science and surface composition; infrared spectroscopic observation, 
+analysis, and data reduction; and radiative transfer and atmospheric 
+modeling. U.S. citizenship required. To view the full vacancy 
+announcement go to:
+
+https://www.usajobs.gov/GetJob/ViewDetails/344238800
+
+Applications must be received by June 28, 2013. For information 
+about the research program and the Planetary Systems Lab, contact 
+Keith Noll, Chief, Lab Chief, at 301-614-5968, or by e-mail at 
+keith.s.noll@nasa.gov. 
+NASA, GSFC is an Equal Opportunity Employer.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JOB ANNOUNCEMENT: JAXA
+
+The Japan Aerospace Exploration Agency (JAXA) International Top Young
+Fellowship (ITYF) was established as a prestigious new fellowship 
+program in 2009. The ITYF is designed to attract outstanding, highly 
+motivated, early-career researchers in any of the space science fields 
+covered by the Institute of Space and Astronautical Sciences (ISAS) to 
+work in Japan for 3 (extendable to 5) years. An excellent remuneration 
+package is offered, including research budget (including travel 
+expense) so that the fellow can extend their international profile, as 
+well as developing collaborations within Japan.
+
+The most recent call for JAXA International Top Young Fellowship
+applications, for FY2013, has been issued.
+The application deadline is 31 August 2013. Please see the below the 
+link for further details.
+
+http://www.jaxa.jp/employ/index_e.html
+
+Please feel free to forward this information to those who might be
+interested in it.
+
+Masaki Fujimoto
+ISAS, JAXA
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAPPING AND IMPACT STUDIES:
+LUNAR AND PLANETARY INSTITUTE
+
+Universities Space Research Association (USRA) invites applications 
+for a postdoctoral fellowship in planetary science in Houston, Texas.
+
+The candidate will work with Dr. Paul Schenk, investigating the impact 
+crater shapes and distributions on icy satellites, including Enceladus, 
+using the entire Cassini image library, and supplementary stereo and 
+shape-from-shading techniques (although experience in these tools is
+not required). The candidate will also be expected to develop their 
+own research projects using this data.
+
+Candidate must have a recent Ph.D. in geology or geophysics and have 
+a strong background in remote sensing/image processing of spacecraft 
+data, and preferably experience in geophysical or mapping 
+investigations. The position is generally for two years, with a 
+possible extension to three years. Apply to the posting at:
+
+https://usracareers.silkroad.com/
+
+include a letter of interest, a curriculum vita with a list of 
+publications, a brief statement of research interests, and a list of 
+three references. Review of candidates begins August 1, 2013, with a 
+hiring decision, as soon as possible thereafter. Information on 
+current research and facilities at the LPI is found on our website:
+
+www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - JUNE 2013
+
+Dear Members of the Mars Community,
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Charles Budney of the Mars Program Science Office, attached is the 
+June 2013 edition of the Mars Exploration Science Monthly Newsletter.
+ 
+The latest newsletter can be found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ANNOUNCEMENT OF OPPORTUNITY TO SUBMIT INPUT TO STUDY ON HUMAN 
+SPACEFLIGHT
+
+The U.S. National Research Council (NRC) of the National Academies is
+currently conducting a congressionally-requested study to examine the 
+goals, core capabilities, and direction of human space flight. The 
+Committee on Human Spaceflight invites interested individuals and
+groups to submit input papers describing their own ideas on the role 
+of human spaceflight and their vision for a suggested future. In 
+developing their papers, respondents are asked to carefully consider 
+the following broad questions.
+
+1. What are the important benefits provided to the United States and 
+   other countries by human spaceflight endeavors?
+2. What are the greatest challenges to sustaining a U.S. government 
+   program in human spaceflight?
+3. What are the ramifications and what would the nation and world lose 
+   if the United States terminated NASA's human spaceflight program? 
+
+Respondents are asked to describe the reasoning that supports their 
+arguments and, to the extent possible, include or cite any evidence 
+that supports their views. In considering #1 above, submitters may 
+consider private as well as government space programs.
+
+For more information on the committee and the goals of the study, 
+please see the statement of task at:
+
+http://www.nationalacademies.org/humanspaceflight
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] DRAFT EARTH VENTURE INSTRUMENT
+
+Release Date: June 4, 2013
+Draft AO Prospective Bidders Telecon/WebEx: June 14, 2013
+Comments Due: June 28, 2013
+Identification Number: NNH13ZDA009J
+Notice Type: Presolicitation
+
+The Earth Venture element of the ESSP Program conducts PI-led science 
+investigations relevant to SMD's Earth Science research program. 
+Earth Venture investigations must address NASA's goals to acquire 
+deeper scientific understanding of the components of the Earth system, 
+their interactions, and the consequences to life of changes in the 
+Earth system. This solicitation calls for proposals for complete PI-led 
+spaceflight instrument development. When deployed on a satellite 
+selected by NASA, these spaceflight instruments will be used to conduct 
+innovative, integrated, hypothesis or scientific question-driven 
+investigations addressing pressing Earth system science issues.
+
+NASA will hold an Draft AO Prospective Bidders Telecon/WebEx on Friday, 
+June 14, 2013, to provide an overview of the draft EVI-2 Program 
+Element Appendix (emphasizing the differences between EVI-2 and the 
+prior EVI-1 solicitation) and to address any questions. Information 
+about the Workshop will be made available at: 
+
+http://essp.larc.nasa.gov/EVI-2/
+ 
+Comments may be addressed to: 
+Dr. Kenneth Jucks
+kenneth.w.jucks@nasa.gov 
+(subject line to read "EVI-2 Instruments Draft PEA")
+ 
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+COMPARATIVE CLIMATOLOGY SYMPOSIUM (MAY 7) AND VENUS GAME-CHANGING 
+TECHNOLOGY FORUM (MAY 8) PRESENTATIONS POSTED 
+
+Comparative Climatology Symposium presentations 
+
+The May 7th, 2013 Comparative Climatology Symposium aim to maintain 
+the multidisciplinary dialogue started at the highly informative 
+conference on Comparative Climatology of the Terrestrial Planets 
+held in June 2012. This symposium highlighted the similarities and 
+differences between the environments of the terrestrial planets: 
+Venus, Earth, Mars, and Titan. Speakers presented results from the 
+2012 CCTP Conference, current Earth climate models, Earth observation, 
+past and current Venus missions, observational studies of the 
+Terrestrial planets and exoplanets, and the influence of the Sun on 
+climate. Presentations (video and PDF) from this Symposium are now 
+posted on the VEXAG website:
+
+http://www.lpi.usra.edu/vexag/meetings/ComparativeClimatology
+/presentations/
+ 
+Venus Game-Changing Technology Forum (May 8th) presentations
+
+Space technology is a vital tool for both scientists and engineers to 
+reach some of the most extreme environments in our solar system. 
+Exploring Venus with these technologies can answer key questions 
+ranging from the history of Venus to the habitability of our universe.    
+ 
+To help us understand these challenges, a Venus Game-Changing 
+Technology Forum was held on May 8, 2013. Presentations from that 
+Forum are now posted on the VEXAG website, Meetings Archives tab:
+
+http://www.lpi.usra.edu/vexag/meetings/archive/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ICAR
+
+First announcement for the Eighth International Conference on Aeolian 
+Research (ICAR VIII).
+
+21st-25th July 2014, Lanzhou, China.
+
+Special session on extra-terrestrial aeolian research
+
+http://www.2014icar8.com/AboutUs/16.html
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities to 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site. An example of one of the research opportunities 
+in planetary science is:
+
+https://www3.orau.gov/NPDoc/Catalog/17721
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+ 
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+ 
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LUNGRADCON 2013 VIRTUAL WORKSHOP - REGISTRATION DEADLINE APPROACHING
+
+The abstract submission and registration deadline is approaching for 
+LunGradCon! Participants must register by June 15th, 2013. The 4th 
+Annual Lunar Graduate Conference (LunGradCon 2013) is to be held on 
+Wednesday, July 10th, prior to the NASA Lunar Science Forum. This
+year LunGradCon will be an entirely virtual one day workshop. 
+Participants can choose to join in using Adobe Connect, Google+ 
+HangOuts, or a call-in polycom system. LunGradCon is organized to 
+provide an opportunity for graduate students and early-career postdocs 
+to present their research in a low-stress, friendly environment, being 
+critiqued only by their peers. In keeping with the future direction 
+of the NLSI, we encourage participation from all students and postdocs
+investigating the Moon, Near Earth Asteroids, Phobos and Deimos, and 
+the near space environments of these target bodies.
+
+For more details, please visit:
+
+http://lasp.colorado.edu/ccldas/lgc2013
+
+or email any questions to: lungradcon@gmail.com
+
+The abstract submission and registration deadline is Saturday, 
+June 15th, 2013.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 25
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM, CTX, HiRISE, MARCI, MCS, RSS, SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 25 includes data collected from August 9, 2012 
+through November 8, 2012. The release includes HiRISE data for 
+February 4, 2013, to March 30, 2013.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20130601.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS EXPRESS MISSION SPECIAL PRODUCTS RELEASE
+
+The European Space Agency just celebrated the 10th anniversary of its 
+Mars Express mission, which was launched to the Red Planet on 2nd June 
+2003. Special products released on this occasion:
+
+Global mineralogical maps:
+
+http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Ten_years
+_at_Mars_new_global_views_plot_the_Red_Planet_s_history
+ 
+North pole mosaic:
+
+http://www.esa.int/Our_Activities/Space_Science/Crowning_glory
+
+Kasei Valles:
+
+http://www.esa.int/Our_Activities/Space_Science/Mars_Express/The_
+floodwaters_of_Mars
+
+Mars Express top 10 highlights:
+
+http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=51820
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+December 8-12, 2013
+Exoplanets and Disks: Their Formation and Diversity
+http://exoplanets.astron.s.u-tokyo.ac.jp/SubaruConf13/
+Keauhou Kona, HI
+
+December 9-13, 2013
+AGU Fall Meeting
+http://fallmeeting.agu.org/2013/
+San Francisco, CA
+
+March 17-21, 2014
+45th Lunar and Planetary Science Conference
+http://www.hou.usra.edu/meetings/lpsc2014/
+The Woodlands, TX
+
+July 21-25, 2014
+Eighth International Conference on Aeolian Research (ICAR VIII)
+http://www.2014icar8.com/AboutUs/16.html
+Lanzhou, China
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

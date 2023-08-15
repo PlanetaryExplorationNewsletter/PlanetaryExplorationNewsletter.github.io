@@ -1,0 +1,266 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 32 (July 30, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Future Kuiper Belt Missions Community Group Sign-up 
+2. AGU Session 22722: Linking Sediment Transport and Geophysical Flows 
+   to Planetary Surface Evolution (EP027)
+3. [NASA] PDS Rosetta Data Release by the Small Bodies Node
+4. Astrobiology 2017
+5. VEXAG Meeting #15 Call for Presentations and Registration
+6. Venus Exploration Analysis Group (VEXAG) Call for Steering 
+   Committee Members
+7. Mars Exploration Science Monthly Newsletter for July 2017
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+FUTURE KUIPER BELT MISSIONS COMMUNITY GROUP SIGN-UP 
+
+If you are interested in joining a community group to study and support
+future NASA missions to explore objects in the Kuiper Belt, including
+as one possibility a potential return to Pluto, please fill out the
+web-form here: 
+
+http://bit.ly/F_KBO_list
+
+Sincerely,  Jason Hofgartner, Renu Malhotra, Bill McKinnon, Cathy
+Olkin, Silvia Protopapa, Kelsi Singer, Alan Stern, and Mark Sykes
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION 22722: LINKING SEDIMENT TRANSPORT AND GEOPHYSICAL FLOWS TO
+PLANETARY SURFACE EVOLUTION (EP027)
+
+https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session22722
+
+Invited speakers: Tim Goudge (University of Texas at Austin) and
+Mackenzie Day (University of Texas at Austin)
+
+Description: Planetary missions over the past decade have revealed that
+while planetary bodies across the solar system differ greatly in
+surface conditions, their landscapes share striking similarities to
+those on Earth. Understanding the feedbacks between how geophysical
+flows and sediment transport processes affect landscape evolution is
+necessary for constraining the current and past climatic conditions on
+such planetary surfaces. We invite contributions from research
+exploring these interplays using remote sensing data from surface or
+orbital missions, numerical modeling, laboratory experiments, Earth
+analog studies, or some combination thereof. We expect that a joint
+session between Planetary Sciences Section and the Earth and Planetary
+Surface Processes Focus Group will foster collaborations between those
+working to understand how geophysical flows and sediment fluxes modify
+our own planet's surface under changing climates and those who are
+working to understand how such surface processes behave in places with
+vastly different conditions and constraints from our own.
+
+Regards,
+Alexander Morgan (University of Virginia/Smithsonian Institution)
+Marisa Palucis (Dartmouth)
+Orkan Umurhan (NASA Ames Research Center)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - ROSETTA DATA RELEASE BY THE SMALL BODIES NODE
+
+Small Bodies Node of the NASA Planetary Data System is pleased to
+announce that the following Rosetta data for the mission instruments
+have been released:
+
+In Peer Review:
+Shape Models of Comet 67P/C-G v2.0
+
+In lien resolution:
+VIRTIS Escort 3 and 4 67P Raw Data
+MIDAS Escort 4 and Extension 1-3 67P Calibrated Data
+MIRO Escort 4 and Extension 1-3 67P Raw/Calibrated Data
+COSIMA In-Flight and 67P Data through January 2016
+
+ESA PSA certified:
+VIRTIS Prelanding MTP004-MTP009  67P Calibrated Data
+RPCMIP Prelanding 1-3 and Escort 1-4 67P Calibrated Data
+
+NASA PDS certified (locally archived):
+ALICE Prelanding,  Escort 1-4 and Extension 1-3  67P
+Raw/Calibrated/Resampled Data
+GIADA Escort 1-2 and Extension 3 67P Raw/Calibrated Data
+Lander ROLIS Post Hibernation Commissioning Raw Data, Separation
+Descent Landing 67P Raw/Calibrated Data, First Science Sequence 67P Raw
+Data
+
+The data as well as mission and instrument information, are available
+at: 
+
+http://pdssbn.astro.umd.edu/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ASTROBIOLOGY 2017
+
+This conference will take place in the beautiful Chilean Patagonia in
+Coyhaique (November 26 - December 1, 2017). For updated information and
+to pre-register, please see:
+
+http://www.astrobiology2017.org
+
+The oral contribution submission deadline has been extended to Friday,
+August 4, 2017. Please note that a link to the abstract submission form
+is sent to you after the registration process is completed. The SOC
+will select oral papers after their review. The notification of
+acceptance is expected to be sent out on August 25, 2017.
+
+For those that wish to present a poster at Astrobiology 2017, the
+deadline coincides with the end of the regular registration period,
+October 13. The submission process is the same as for oral
+contributions, and the selected posters are expected to be announced a
+couple of weeks after the deadline.
+
+There are only 21 available seats left at the Training School. Register
+soon to secure yours. The two-day training school with lectures on
+basics of Astrobiology will take place in Santiago during the
+Friday-Saturday preceding the conference (November 24-25), and it is
+open to early-career participants. For more information on the training
+school, including the program, please click:
+
+http://astrobiology2017.org/training-school/
+
+With best regards,
+Patricio Rojo (LOC's chair)
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VEXAG MEETING #15 CALL FOR PRESENTATIONS AND REGISTRATION
+
+Venus Exploration Analysis Group (VEXAG) Meeting #15 will be held on
+Tuesday-Thursday, November 14-16, 2016 at the Applied Physics 
+Laboratory (APL), Laurel Maryland, hosted by Noam Izenberg.
+
+Current plans are:
+
+November 14, 2017 (Tuesday) - NASA and Mission Reports
+
+November 15, 2017 (Wednesday) - Venus Science and Technology Reports
+
+November 16, 2017 (Thursday) - VEXAG Activities and Future Meetings
+(adjourn at mid-day).
+
+Abstracts are solicited for all topics related to Venus science,
+applicable technologies, modeling techniques and the study of
+Venus-like exoplanets. Please submit a one-page abstract in LPSC format
+for your oral or poster presentation to the LPI Portal for this 
+meeting:
+
+https://www.hou.usra.edu/meeting_portal/abstract_submission/?mtg=569
+
+by September 14, 2017 at 5:00 p.m. U.S. Central Daylight Saving Time
+(GMT-5). Posting of the full program is anticipated in October.
+
+If you are attending in person or via Web-EX and haven't done so
+already, please enter your name on the Meeting Registration/Intent to
+Attend Form on the VEXAG Web-Site:
+
+https://www.hou.usra.edu/meeting_portal/registration/?mtg=vexag2017
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+VENUS EXPLORATION ANALYSIS GROUP (VEXAG) CALL FOR STEERING COMMITTEE
+MEMBERS
+
+VEXAG is seeking a volunteer for VEXAG Steering Committee members to
+replace those who have successfully completed their service to the
+community. This new member will start late this year, commencing with
+the next VEXAG Meeting at APL on November 14-16, 2017. The term will
+run for three years.
+
+Also, the VEXAG Early Career Scholars Focus Group is looking for
+interested group members.
+
+If you are interested, send your resume and a statement of how you
+could contribute to VEXAG to Bob  Grimm and Martha Gilmore, VEXAG Chair
+and Deputy Chair (grimm@boulder.swri.edu, mgilmore@wesleyan.edu) by
+August 25, 2017.
+
+VEXAG activities for the next three years are expected to be community
+building with an emphasis on:
+
+Preparing for the next Planetary Science Decadal Survey
+Venus Exploration Goals, Objectives, and Strategies
+Technology Development and Laboratory Measurements
+International Collaboration
+Early Career and Young Scholar Development
+
+VEXAG (http://www.lpi.usra.edu/vexag/) is a community-based forum
+established in July 2005 to assess scientific priorities and strategies
+for exploration of Venus. VEXAG is currently composed of a chair and
+five Focus Groups, where the Focus Groups actively solicit input from
+the Venus community on the topics listed above. 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JULY 2017
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+James Ashley of the Mars Program Science Office. As before, the
+newsletter can also be found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 5-7, 2018
+Cryovolcanism in the Solar System Workshop
+https://www.hou.usra.edu/meetings/cryovolcanism2018/
+Houston, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

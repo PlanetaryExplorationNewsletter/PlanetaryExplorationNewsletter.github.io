@@ -1,0 +1,376 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 26 (June 20, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. 7th Mars Atmosphere Modelling and Observations Workshop
+3. Volunteer Opportunities with the AGU Planetary Science Section
+4. Call for Papers for Special Collection on Planetary Caves
+5. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 46
+6. Post-Doctoral Position in Isotope Geochemistry
+7. Post-Doctoral Position in Geophysics/Planetary Physics
+8. Two Geologist Positions, Smithsonian Institution
+9. Mars Exploration Science Monthly Newsletter for June 2021
+10. Lunar and Planetary Lab Conference (LPLC)
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Wednesday, June 23, 11:00AM-6:00PM ET
+Panel on Small Solar System Bodies Meeting #13
+
+https://bit.ly/3qnGIGR
+
+Friday, June 25, 11:00PM-5:00PM ET
+Panel on Mercury and the Moon Meeting #19
+
+https://bit.ly/3iUM0YG
+
+Please see links above for agenda and connection information.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+7TH MARS ATMOSPHERE MODELLING AND OBSERVATIONS WORKSHOP
+
+June 14-17, 2022
+Paris, France
+
+This meeting will be face-to-face. For more details, please go to:
+
+https://www-mars.lmd.jussieu.fr/paris2022
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+VOLUNTEER OPPORTUNITIES WITH THE AGU PLANETARY SCIENCE SECTION
+
+The Planetary Sciences Section of AGU is looking for volunteers to 
+participate on a Nominations Committee for AGU awards. We are looking 
+We are looking  to recruit several people to solicit a diverse 
+nomination pool for each award. If you are interested, please go to:
+
+https://bit.ly/3wHZjzu
+
+For additional information, contact Jenny Whitten 
+(jwhitten1@tulane.edu), PS Secretary.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR PAPERS FOR SPECIAL COLLECTION ON PLANETARY CAVES
+
+Call for Papers: "Exploring Planetary Caves as Windows into Subsurface 
+Geology, Habitability, and Astrobiology"
+
+Submission Deadline: November 30, 2021
+
+This special collection, which focuses on the current state of 
+planetary cave science, including: 1) how we identify and characterize 
+planetary caves, 2) which processes are behind their genesis and what 
+we can learn from terrestrial analogs, 3) the potential for planetary 
+caves as habitats for life, and 4) how we may explore these windows 
+into the subsurface.
+ 
+This special collection welcomes recent advances in geology, 
+geophysics, astrobiology, and environmental science regarding 
+planetary caves. This knowledge will be the baseline for future space 
+missions and will help the community to set scientific goals and 
+technological solutions for the exploration of planetary caves.
+ 
+Manuscripts should be submitted through the GEMS website for Earth and 
+Space Science or JGR-Planets by selecting the collection title from 
+the Special Section drop-down menu on the submission portal.
+
+Organizers: 
+
+Charity M. Phillips-Lander, Southwest Research Institute
+Francesco Sauro, University of Bologna
+Laura Kerber, NASA Jet Propulsion Laboratory
+J. Judson Wynne, Northern Arizona University
+Timothy N. Titus, United States Geological Survey
+Penelope J. Boston, NASA Astrobiology Institute, NASA Ames
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 46
+
+The NASA Planetary Data System announces Release 46 of data from the 
+Lunar Reconnaissance Orbiter mission. This release contains raw and 
+calibrated data products covering the nominal time period from December 
+15, 2020, through March 14, 2021. Some instrument teams are delivering 
+more recent data. The data are archived at various PDS nodes.
+
+CRaTER at the PPI Node
+Diviner at the Geosciences Node
+LAMP at the Cartography and Imaging Sciences Node
+LEND at the Geosciences Node
+LOLA at the Geosciences Node
+LROC at the LROC Data Node
+Mini-RF at the Geosciences Node
+Radio Science at the Geosciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from: 
+
+https://pds-geosciences.wustl.edu/missions/lro
+
+To access the data by dataset:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210615.shtml
+
+LRO releases occur every three months. The next release is scheduled 
+for September 15, 2021.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POST-DOCTORAL POSITION IN ISOTOPE GEOCHEMISTRY
+
+Bavarian Geoinstitute for Experimental Geochemistry and Geophysics 
+(BGI), University of Bayreuth, Germany
+
+The BGI, University of Bayreuth, Germany, is seeking a candidate for a 
+post-doctoral position to investigate potassium isotope fractionation 
+during Solar System formation. The candidate will develop potassium 
+isotope analysis by double-spiked thermal ionisation mass spectrometry 
+(TIMS) in tandem with development of measurement by collision cell 
+MC-ICPMS and apply these methods to the analysis of various meteorites,
+terrestrial rocks and experimental samples. 
+
+The position is part of a project that seeks to quantify the role of 
+vapour loss during planet formation and is funded by European Research 
+Council Starting Grant Vaploss. As such, the candidate will become 
+part of a team of two post-doctoral researchers who will work jointly
+with the PI (Dr. Remco Hin) on the project in a research institute 
+with a long-standing interest in Earth and planetary sciences.
+
+The position is funded for 3 years. The salary will be based on grade 
+E13 TV-L of the pay scale for the German public sector.
+
+Applications are being received until the position is filled. For more 
+details, please visit the homepage of the BGI:
+
+https://www.bgi.uni-bayreuth.de/?page=1&amp;lng=de
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POST-DOCTORAL POSITION IN GEOPHYSICS/PLANETARY PHYSICS
+
+Bavarian Geoinstitute for Experimental Geochemistry and Geophysics
+(BGI), University of Bayreuth, Germany
+
+The BGI, University of Bayreuth, Germany, is seeking a candidate for a 
+post-doctoral position to numerically model volatile loss processes 
+occurring during planetary growth. The work will focus on describing 
+the formation of vapour above magma and escape of this vapour from the 
+gravitational influence of growing planetary objects, and integrating
+chemical fractionation during these processes.
+
+The position is part of a project that seeks to quantify the role of 
+volatile loss during planetary growth and is funded by European 
+Research Council Starting Grant Vaploss. As such, the candidate will 
+become part of a team of two post-doctoral researchers who will work 
+jointly with the PI (Dr. Remco Hin) on the project in a research 
+institute with a long-standing interest in Earth and planetary 
+sciences.
+
+The position is funded for 2 years. The salary will be based on grade 
+E13 TV-L of the pay scale for the German public sector.
+
+Applications are being received until the position is filled. For more 
+details, please visit the homepage of the BGI:
+
+https://www.bgi.uni-bayreuth.de/?page=1&amp;lng=de
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TWO GEOLOGIST POSITIONS, SMITHSONIAN INSTITUTION 
+
+The Smithsonian Institution, National Air and Space Museum (NASM), 
+Center for Earth and Planetary Studies (CEPS) welcomes applications for 
+two federal, full-time, permanent geologist positions. CEPS carries out 
+cutting-edge research on the geology and geophysics of planets and 
+moons across the Solar System, develops novel methods for remote 
+sensing, mentors the next generation of scientists, and shares the 
+excitement of planetary exploration with museum visitors. CEPS 
+participates in planetary missions to rocky and icy planetary bodies, 
+analyzes data returned by these missions, and studies planetary analog 
+features in the field. 
+
+The incumbent conducts scientific research in planetary and terrestrial 
+geology, geophysics, and remote sensing with emphasis on data analysis 
+and synthesis. Major duties include proposing to external sources for 
+funding, scientific research and analysis leading to peer-reviewed 
+publications that significantly advance the incumbent's field of study, 
+presentation of results in professional conferences, and active public 
+outreach in the fields of Earth and planetary science. The positions 
+close on Monday, June 28, 2021. 
+
+Current or former competitive service federal employees, apply at:
+
+https://www.usajobs.gov/GetJob/ViewDetails/604552600 
+
+The public, apply at:
+
+https://www.usajobs.gov/GetJob/ViewDetails/604553000 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JUNE 2021
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the June 
+2021 edition of the Mars Exploration Science Monthly Newsletter can be 
+found: 
+
+https://mepag.jpl.nasa.gov 
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+LUNAR AND PLANETARY LAB CONFERENCE (LPLC)
+
+The organizing committee is happy to announce that the Lunar and 
+Planetary Lab Conference (LPLC) will be happening again this year. Last 
+year, we had a great turnout with the virtual conference and 
+pre-recorded talks. This year, we hope to kick off the new semester 
+with LPLC in person on Friday, August 20, 2021.
+
+We will do our best to follow whatever guidelines the university puts 
+forth for the Fall semester and we plan to have methods in place for 
+social distancing during the conference. Due to the unique 
+circumstances for this year, we would like to get a headcount of the 
+number of participants we can expect through a registration process. 
+All participants, whether presenting or not, will need to fill out the 
+registration form. Another form will be sent out later in the summer to 
+those who have registered in order to get abstracts for presentations. 
+We will provide more information about the conference format and plans 
+once we have an idea of the number of participants. 
+ 
+The registration form will be open until July 18 and can be found at:
+
+https://www.lpl.arizona.edu/LPLC 
+
+If you have any questions, feel free to contact 
+UALPLConference@gmail.com
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+August 20, 2021
+Lunar and Planetary Lab Conference (LPLC)
+https://www.lpl.arizona.edu/LPLC
+Online
+
+August 23-27, 2021
+Atmospheres, Atmospheres! Do I look like I care about atmospheres?
+https://www.eso.org/sci/meetings/2021/Atmo2021.html
+Online
+
+September 13-17, 2021
+Annual Meeting of the German Astronomical Society
+https://ag2021.astronomische-gesellschaft.de
+Online
+
+June 14-17, 2022
+7th Mars Atmosphere Modelling and Observations Workshop
+https://www-mars.lmd.jussieu.fr/paris2022
+Paris, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Brittle Boulders of Dwarf Planet Ceres
+Stefan E. Schroder et al. 2021 PSJ 2:111
+https://doi.org/10.3847/PSJ/abfe66
+
+Titan: Earth-like on the Outside, Ocean World on the Inside
+Shannon M. MacKenzie et al. 2021 PSJ 2:112
+https://doi.org/10.3847/PSJ/abf7c9
+
+On the Probability That a Rocky Planet's Composition Reflects Its Host 
+Star
+J. G. Schulze et al. 2021 PSJ 2:113
+https://doi.org/10.3847/PSJ/abcaa8
+
+Characterization of Exogenic Boulders on the Near-Earth Asteroid 
+(101955) Bennu from OSIRIS-REx Color Images
+Lucille Le Corre et al. 2021 PSJ 2:114
+https://doi.org/10.3847/PSJ/abfbe2
+
+Atomic-scale Evidence for Open-System Thermodynamics in the Early Solar 
+Nebula
+Thomas J. Zega et al. 2021 PSJ 2:115
+https://doi.org/10.3847/PSJ/abf5e5
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org   
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* https://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

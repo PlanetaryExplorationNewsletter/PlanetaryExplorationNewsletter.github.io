@@ -1,0 +1,280 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 5, Number 18 (April 17, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Planetary Data System (PDS) Cassini Data Release #25
+2. [NASA] Planetary Data System (PDS) Odyssey Data Release #35
+3. [NASA] Planetary Science Subcommittee to Discuss Decadal Survey and 
+   Recent Budget Developments
+4. [NASA] Two Positions Available in Planetary Science at NASA Head-
+   quarters
+5. [NASA] NSPIRES Due Date Modified for Summer 2011 Minority Student
+   Education Forum
+6. Postdoctoral Researcher in Planetary Mapping:  Lunar and Planetary
+   Institute
+7. JSPS-DST Asia Academic Seminar and CPS 8th International School of 
+   Planetary Sciences Joint Assembly
+8. New "Discoveries in Planetary Science" Classroom Powerpoints 
+   Available
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PLANETARY DATA SYSTEM (PDS) CASSINI DATA RELEASE #25
+
+The Planetary Data System (PDS) announces the availability of the 
+Cassini Imaging Science Subsystem (ISS), Visual and Infrared Mapping 
+Spectrometer (VIMS) and Radar Data Release #25. This release includes 
+ISS volumes coiss_2062 and coiss_2063, VIMS volume covims_0042, and 
+Radar volumes CORADR_0216, CORADR_0218, and CORADR_0219.  This data 
+can be found on the PDS Imaging Node website at URL: 
+
+http://img.pds.nasa.gov/
+
+The PDS Imaging Node now includes all Cassini ISS, VIMS and Radar 
+data captured through 2010-06-30.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANETARY DATA SYSTEM (PDS) ODYSSEY DATA RELEASE #35
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 35, for the following instruments:  
+GRS,  THEMIS, RADIO SCIENCE (Releases 103-105), and SPICE.
+
+The gamma sensor component of the GRS instrument suite will no longer 
+return data. The HEND and neutron spectrometer components continue to 
+operate.  
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110401.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA PLANETARY SCIENCE SUBCOMMITTEE TO DISCUSS DECADAL SURVEY AND 
+RECENT BUDGET DEVELOPMENTS
+
+The Planetary Science Subcommittee of the NASA Advisory Council will be 
+meeting in Washington, DC, on April 18-19, 2011, at NASA Headquarters. 
+They will be discussing responses to the recently released planetary 
+decadal survey and strategies for implementing it.  Jim Green will give 
+a preliminary report on the impact of the 2011 budget passed last week 
+by Congress and signed by the President.  In that budget, NASA Science 
+was increased by 10% over 2010, only 1.3% below that requested in the 
+President's budget.
+
+The PSS agenda is posted at:
+
+http://science.nasa.gov/science-committee/subcommittees
+/nac-planetary-science-subcommittee/
+
+Click on "Agenda" under "April 2011".
+
+This meeting is available telephonically and by WebEx. Any interested 
+person may call 800-779-7680, pass code PSS, to participate in this 
+meeting by telephone. The WebEx link is: 
+
+https://nasa.webex.com 
+
+Meeting number on April 18 is 996 764 473, password PSS_Apr18. 
+Meeting number on April 19 is 998 076 509, password PSS_Apr19.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] TWO POSITIONS AVAILABLE IN PLANETARY SCIENCE AT NASA HEAD-
+QUARTERS
+
+In support of the Year of the Solar System, up to two, full-time, paid
+one-year, detailee positions are available in Planetary Science at 
+NASA Headquarters.  For more information, contact Kristen Erickson at:
+
+Kristen.erickson@nasa.gov
+202-358-1017
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] NSPIRES DUE DATE MODIFIED FOR SUMMER 2011 MINORITY STUDENT
+EDUCATION FORUM
+
+Amendment No. 5 modifies the eligibility and due date for Appendix H: 
+Summer 2011 Minority Student Education Forum available at the following 
+link:
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method=
+init&solId=%7b409BBA73-D9C8-57C0-07E9-7187FC1D138F%7d&path=open
+
+The dates for the education forum remain the same, July 19, 2011 and 
+July 20, 2011.
+ 
+Further information regarding technical and education questions about 
+the Summer 2011 Minority Student Education Forum is available from 
+Benita DeSuza, Education and External Relations Directorate, Kennedy 
+Space Center, Florida 32899
+benita.w.desuza@nasa.gov
+ 
+Change of Due Date: 
+
+The due date for proposals is now extended until 11:59 pm Pacific 
+Time, April 27, 2011.
+ 
+Proposals may be submitted via Grants.gov, however review of the 
+proposal will require an account on the NSPIRES system. Signed 
+electronic copies of proposals must be received no later than 
+11:59 pm Pacific Time, April 27, 2011. 
+
+Change of Eligibility: 
+
+The following paragraph is now added to section H.5 Eligibility 
+Requirements: 
+
+Proposals will also be accepted from: 1) Institutions of Higher 
+Education offering ABET accredited degrees in STEM disciplines with 
+outreach programs targeted at underserved/underrepresented students 
+from rising 5th grade through high school, 2) organizations that 
+support MSIs and underserved/underrepresented students from rising 5th 
+grade through high school.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAPPING:  LUNAR AND PLANETARY
+INSTITUTE
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston TX, invites applications for a 
+postdoctoral fellowship in planetary science.  The successful 
+candidate will work with Dr. Paul Schenk, investigating the topography 
+of Jupiter's volcanic moon Io using stereo and shape-from-shading 
+techniques (although experience in these tools is not required).  A 
+variety of landforms will be mapped, including volcanoes and mountains, 
+as well as regional and global scale shape deviations.  The candidate 
+will also be expected to develop their own research projects using this 
+data.  Candidate must have a recent Ph.D. in geology or geophysics.  
+In addition, the candidate shall have a strong background in remote 
+sensing/image processing of spacecraft data, and preferably experience 
+in geophysical or volcanological investigations.  The position is 
+generally for two years, with a possible extension to a maximum of 
+three years. Further information on current research and facilities at 
+the LPI can be found on our website:
+
+http://www.lpi.usra.edu
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JSPS-DST ASIA ACADEMIC SEMINAR AND CPS 8TH INTERNATIONAL SCHOOL OF 
+PLANETARY SCIENCES JOINT ASSEMBLY
+
+Registration is now open for the upcoming school:  "Challenges in 
+Astronomy: Observational Advances"
+
+The objective of the school/seminar is to promote education and 
+research in planetary sciences for highly motivated graduate students 
+and young researchers by providing them with an opportunity to 
+interact with leading scientists in a specific field.  Note that the 
+term "Planetary Sciences" is used in a broader sense to include 
+astronomy, astrophysics, astrochemistry, astrobiology, astromineralogy, 
+geosciences, space science, cosmology, and other related fields.
+
+The second circular and the detailed program are now available at the 
+CPS Web site:
+
+https://www.cps-jp.org/~pschool/pub/2011-09-26/index.html
+
+Date: 26 September - 1 October 2011
+[1-3 October 2011 for a facility tour for a limited number of 
+participants]
+Venue: Minami-Awaji Royal Hotel
+
+IMPORTANT DATES:
+All deadline times are 23:59 Japanese Standard Time, UTC+9
+10 May 2011 Travel Grant Application Deadline
+18 May 2011 Registration Application Deadline
+18 May 2011 Abstract Submission Deadline
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NEW "DISCOVERIES IN PLANETARY SCIENCE" CLASSROOM POWERPOINTS AVAILABLE
+
+The DPS Education Subcommittee announces the 4th release of
+"Discoveries in Planetary Science" Classroom Powerpoints, covering
+six new topics:
+
+- A Thousand New Planets
+- Buried Martian Carbonates
+- The Lunar Core
+- A Six Planet System
+- Martian Gully Formation
+- Propellers in Saturn's Rings
+
+These are succinct summaries of discoveries too recent to appear in
+"Intro Astronomy" college textbooks; each set consists of just three
+slides to be shown: the discovery itself, a basic explanation based on
+good planetary science, and the "big picture" context.  Another page 
+for further information is provided as well. Powerpoints and PDFs can 
+be downloaded from:
+
+http://dps.aas.org/education/dpsdisc
+
+Feedback from the community on how these slide sets are used and
+received is welcomed, and will be used to improve future releases. 
+Planetary scientists with recent or upcoming results of broad interest 
+are encouraged to submit them for consideration by providing an initial 
+draft using the template provided on the website. For more information, 
+contact Nick Schneider & Dave Brain at dpsdisc@aas.org.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+January 16-20, 2012
+ExoClimes 2012: the Diversity of Planetary Atmospheres
+http://www.exoclimes.org/
+Aspen, CO
+
+July 15-20, 2013
+Protostars and Planets VI
+http://www.ppvi.org
+Heidelberg, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

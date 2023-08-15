@@ -1,0 +1,603 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 13 (March 26, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes, 
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: Congress Needs to Intervene in the Management of NASA
+   Planetary Science
+2. Call to Action: Petition Congress for 2029 Launch Date for VERITAS
+3. Titan Through Time Meeting Update
+4. Job Opportunity: Software Engineer III for Small-Body Ephemeris 
+   Development at the Jet Propulsion Laboratory
+5. Workshop on Impact Processes as a Path to Habitability on Planetary 
+   Bodies
+6. [NASA] ROSES-23: New Opportunity C.24 "Here to Observe" Program for 
+   NASA's Planetary Science Division
+7. [NASA] Sixth Community Announcement: Advance Notice Regarding 
+   Forthcoming Release of the New Frontiers 5 (NF5) Announcement of 
+   Opportunity (AO)
+8. NEOWISE 2023 Data Release
+9. UTCT X-Ray Computed Tomography Short Course June 28-30, 2023
+10. Culturally Inclusive Planetary Engagement Workshops
+11. Hybrid Science Lecture with Updates from JWST, April 6
+12. Job Announcement: Life Detection Scientist at NASA GSFC
+13. Space Tourism Conference: Bridging the Technical-Leisure Divide
+14. Opportunity for Science Community Involvement in a Mars Sample 
+    Return Measurement Definition Team
+15. $1000 Minigrants to Support Women and Girls in Astronomy 
+16. Small Bodies Assessment Group (SBAG) Steering Committee (SC) 
+    Positions
+17. Visiting Assistant Professor at Wesleyan University
+18. Planetary Meeting Calendar Additions
+19. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: CONGRESS NEEDS TO INTERVENE IN THE MANAGEMENT OF NASA 
+PLANETARY SCIENCE
+
+Threats to New Horizons, VERITAS, NEO Surveyor, and other missions
+due to managerial missteps by the Biden administration need to be 
+addressed by Congress. 
+
+For the full editorial, please go to:
+
+https://planetarynews.org/editorials/230326.html
+
+Mark V. Sykes
+
+[Opinions expressed are those of the author and not the Planetary 
+Science Institute]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALL TO ACTION: PETITION CONGRESS FOR 2029 LAUNCH DATE FOR VERITAS
+
+The VERITAS team needs your help. NASA selected VERITAS in June 2021 
+and then put the mission on hold this past November despite us being 
+on time and on budget. Now we are scheduled to launch "no earlier than 
+2031". 
+
+To maintain our schedule as much as possible, we are working to 
+petition Congress to stipulate a 2029 launch date for VERITAS. If you 
+are willing and able, please read and sign the petition to our elected 
+officials:
+
+https://secure.planetary.org/site/SPageServer?pagename=/actioncenter#/35
+
+We realize that many are unable to participate in this petition given 
+your affiliations, but please share this with any U.S. friends and 
+amily you may have who are able to do so. 
+
+If you would like more information about the situation VERITAS finds 
+itself in, please feel free to reach out to me or anyone else on the 
+VERTIAS team. 
+
+Thank you for your support, 
+
+Jenny Whitten 
+she/her 
+Associate Deputy PI of VERITAS 
+jwhitten1@tulane.edu 
+
+[Editor Note: Even civil servants in the US have a right to engage in
+free speech and solicit Congress as private individuals] 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+TITAN THROUGH TIME MEETING #6 UPDATE
+
+The website for the next Titan Through Time meeting in Paris is now 
+officially online, as well as the opportunity to register and submit an 
+abstract. Go to:
+
+https://sites.google.com/view/titanthroughtimeparis2023/home
+
+You will find information on the location of the meeting, a few first 
+hints for the logistics, and a dedicated page for registration and 
+contribution submission (oral or poster). The meeting will be 
+full-hybrid, but only remote oral presentation will be available.
+
+The deadline for registration and abstract submission is fixed on 
+April 15. The program will soon follow.
+
+Please keep tuned on the website as we will continue on populating it 
+with new information on a regular basis.
+
+We are sincerely looking forward seeing you all in Paris next June.
+
+Sebastien Rodriguez, for the LOC and SOC of the TTT #6
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB OPPORTUNITY: SOFTWARE ENGINEER III FOR SMALL-BODY EPHEMERIS 
+DEVELOPMENT AT THE JET PROPULSION LABORATORY
+
+JPL's Solar System Dynamics (SSD: ssd.jpl.nasa.gov) and Center for 
+Near-Earth Object Studies (CNEOS: cneos.jpl.nasa.gov) are looking for 
+an experienced IT professional interested in supporting our mission of 
+providing high-quality orbital data for Solar-System objects. More 
+information is available at:
+
+https://tinyurl.com/4dnb9y4s
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+WORKSHOP ON IMPACT PROCESSES AS A PATH TO HABITABILITY ON PLANETARY 
+BODIES
+
+This workshop will be held in Campinas, Brazil, on June 26-28, 2023. 
+Sponsorship for the meeting has been provided by FAPESP (Sao Paulo 
+Research Foundation) and Unicamp (State University of Campinas), that 
+will allow the registration to be free of charge. The workshop will be 
+by invitation only, so please email the main organizer, Alvaro Crosta 
+(crosta@unicamp.br), if you would like to be invited, and include the 
+topic of your contribution. There will be an optional field trip 
+(June 29-July 3) to visit two impact structures in southern Brazil, 
+Vargeao and Vista Alegre.
+
+Scope of workshop: Large cosmic impacts are among the key geological 
+processes potentially leading to the establishment of habitable 
+conditions in planetary bodies. This meeting is intended to discuss 
+recent advances in understanding the role of impacts in creating 
+potential life-harboring environments in icy and rocky planetary 
+bodies, with a special focus on icy moons such as Titan and Europa.
+
+Alvaro Crosta (University of Campinas, Brazil)
+Rosaly Lopes (NASA/Jet Propulsion Laboratory, USA)
+Catherine Neish (University of Western Ontario, Canada)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-23: NEW OPPORTUNITY C.24 "HERE TO OBSERVE" PROGRAM FOR 
+NASA'S PLANETARY SCIENCE DIVISION
+
+C.24 Here to Observe (H2O) solicits proposals from non-R1 institutions 
+for undergraduate students to observe NASA Planetary Science Division 
+(PSD) mission meetings/activities alongside mentors and peers. By 
+opening doors to PSD missions and sharing the excitement of planetary 
+exploration, H2O's goal is to spark and maintain an interest for 
+underrepresented students considering STEM careers. Proposing 
+institutions are expected to accommodate core, NASA-led program 
+activities (such as workshops, seminars and field trips) and describe 
+other proposed supplemental activities that will be finalized in a 
+co-creation period with participating PSD missions. Additionally, NASA 
+will provide optional, self-guided educational packages that introduce 
+participating students to Solar System science/exploration and NASA 
+systems engineering. Participation is limited to undergraduates and 
+faculty from U.S.-based institutions and to U.S. citizens and green 
+card holders to ensure NASA compliance with ITAR and EAR rules as 
+export-controlled materials could be presented in PSD mission meetings.
+
+This program element does not have a proposal due date, proposals may 
+be submitted at any time. Go to:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions concerning C.24 H2O may be directed to David J. Smith at 
+HQ-H2O@mail.nasa.gov.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] SIXTH COMMUNITY ANNOUNCEMENT: ADVANCE NOTICE REGARDING 
+FORTHCOMING RELEASE OF THE NEW FRONITERS 5 (NF5) ANNOUNCEMENT OF 
+OPPORTUNITY (AO)
+
+SAM.gov Special Notice ID Number: NNH20ZDA016L
+
+Release of the draft AO: January 10, 2023 (actual)
+Estimated Release of final AO: November 2023 (target)
+Estimated Proposal due date: March 2024 (target)
+
+NASA has assessed the availability and readiness of RPS technologies 
+for the NF5 AO. Based on this assessment, NASA has made the following 
+decisions to provide the lowest risk to proposers:
+
+ * The NF5 AO will offer up to two fueled Multi-Mission Radioisotope 
+   Thermoelectric Generator (MMRTG) units for proposals requiring 
+   radioisotope electrical power for spacecraft.
+
+* The NF5 AO will offer up to twenty fueled radioisotope heater units 
+  (RHUs) for proposals requiring thermal heating for specific 
+  spacecraft components.
+
+For further information, go to:
+
+https://newfrontiers.larc.nasa.gov/NF5 
+
+Questions and feedback may be emailed using "6th CA for NF5" in the 
+subject line to Dr. Curt Niebur, the New Frontiers Program Lead 
+Scientist, via curt.niebur@nasa.gov.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NEOWISE 2023 DATA RELEASE
+
+The Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE) and 
+IPAC at the California Institute of Technology announce the NEOWISE 
+2023 Data Release.
+
+The 2023 Release includes data acquired during the ninth year of the 
+NEOWISE Reactivation mission (Mainzer et al. 2014, ApJ, 792, 30), 
+13 December 2021 to 13 December 2022. These data are combined with 
+those from Years 1-8 into a single archive that contains ~22.9 million 
+sets of 3.4 and 4.6 micron images and a database of ~171 billion source 
+detections. 
+
+NEOWISE scanned the sky ~18 times during the first nine years of survey 
+operations, with approximately six months between survey passes. With 
+twelve or more independent exposures are made on each sky position 
+during each epoch, the NEOWISE archive is a time-domain resource for 
+extracting multiple, independent thermal flux and position measurements 
+of Solar System small bodies and background galactic and extragalactic 
+sources.
+
+A guide to the NEOWISE data release, data access instructions, and 
+supporting documentation is available at:
+
+https://wise2.ipac.caltech.edu/docs/release/neowise/
+
+NEOWISE is a joint project of the Jet Propulsion Laboratory/California 
+Institute of Technology and the University of Arizona, funded by the 
+National Aeronautics and Space Administration Planetary Science 
+Division.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+UTCT X-RAY COMPUTED TOMOGRAPHY SHORT COURSE JUNE 28-30, 2023
+ 
+The University of Texas X-ray CT Facility (UTCT), a NASA Planetary 
+Science Enabling Facility, will host its annual short course on the 
+acquisition, visualization, and analysis of X-ray CT (XCT) data June 
+28-30, 2023 in Austin, TX. This course presents an overview of the 
+acquisition and interpretation of XCT data, followed by hands-on 
+training in 3D visualization and quantitative analysis of discrete 
+geological features (e.g., clasts, mineral grains, pores) and fabrics.
+ 
+Funds are available to help cover the cost of lodging and meals and 
+there is no charge to attend. Preference is given to applicants with a 
+demonstrated need for immediate application of the skills learned. 
+Participants are invited to bring their own XCT data or have samples 
+scanned (at a discount) at UTCT prior to the course. 
+ 
+To apply email Dr. Romy Hanna (romy@jsg.utexas.edu) by Friday, 
+April 28, that outlines (limit ~300 words):
+ 
+1. Relevant biographical information (academic affiliations and status 
+   as student or faculty/staff);
+2. The type of sample(s) that you aim to analyze and your research 
+   objectives;
+3. Whether you have sample(s) that you would like to have scanned at 
+   UTCT
+ 
+For more information about UTCT visit: 
+
+https://www.ctlab.geo.utexas.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+CULTURALLY INCLUSIVE PLANETARY ENGAGEMENT WORKSHOPS
+
+Conducted by the NASA SMD Science Activation Planetary Resources and 
+Content Heroes (ReaCH) project.
+
+Planetary scientists and astrobiologists (including graduate students, 
+post-doctoral researchers, engineers and technicians) and informal 
+(out-of-school time) educators are invited to apply to attend a 2023 
+Culturally Inclusive Planetary Engagement professional development 
+workshop: 
+
+https://www.lpi.usra.edu/planetary-reach/workshops/
+
+During the workshops, scientists and educators are paired together and 
+supported in bi-directional conversations around diversity and 
+inclusion in engaging Black and Latinx audiences in planetary science. 
+Participants also lead hands-on activities during a co-designed public 
+engagement event following the workshop held in collaboration with a 
+local youth-serving organization. The event allows workshop 
+participants the opportunity to practice engagement strategies 
+discussed in the workshop.
+
+Confirmed 2023 workshop locations and dates:
+
+New Orleans, LA (Tulane University; June 8-10)
+Mountain View, CA (SETI Institute; June 22-24)
+Miami, FL (Perez Art Museum Miami; August 17-19)
+
+Space in each workshop is limited to 10 planetary 
+scientists/astrobiologists and 10 informal educators. Stipends are 
+available for participants able to accept them.
+
+Questions? Please contact Andy Shaner at shaner@lpi.usra.edu.
+
+The Planetary Resources and Content Heroes (ReaCH) project is based 
+upon work supported by NASA under cooperative agreement award number 
+80NSSC21M0003.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+HYBRID SCIENCE LECTURE WITH UPDATES FROM JWST, APRIL 6
+
+Join the LPI for a hybrid presentation (in-person and online) by 
+Dr. Ian Wong of NASA's Goddard Space Flight Center. Dr. Wong will 
+provide a high-level overview of some of the highlights from the first 
+year of JWST Solar System observations and discuss how these results 
+will revolutionize our understanding of Solar System formation and 
+evolution.
+
+This event will be held in-person and online on Thursday, April 6. The 
+presentation will begin at 7:30PM CT (8:30PM ET/ 6:30PM MT/ 5:30PM PT).
+
+Learn more: 
+
+https://www.lpi.usra.edu/features/2023/032223/cess/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JOB ANNOUNCEMENT: LIFE DETECTION SCIENTIST AT NASA GSFC
+
+The Astrochemistry Laboratory of the Solar System Exploration Division 
+at NASA Goddard Space Flight Center (GSFC) is seeking a full-time 
+research scientist specializing in life detection science who would 
+work to connect theories of life and biological search patterns to 
+measurable parameters and contribute to future mission concepts. The 
+successful candidate will work closely with life detection instrument 
+technology developers to conceive of measurement approaches that are 
+well connected to fundamental, robust theories or models of biology and 
+life signatures. This research position entails developing productive 
+collaborative relationships, leading ground-breaking research, and 
+providing input into future mission/instrument design. This is a 
+GS-13/14 level civil servant position located at NASA-Goddard in 
+Greenbelt, Maryland near Washington, DC.
+
+A full vacancy announcement, which contains further information 
+including qualification requirements and application instructions, will 
+be posted later this spring at: 
+
+htps://www.usajobs.gov
+
+For additional information contact: Dr. Natasha Johnson,  
+natasha.m.johnson@nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+SPACE TOURISM CONFERENCE: BRIDGING THE TECHNICAL-LEISURE DIVIDE
+
+The Space Tourism Conference (STC) presents the cross-section of 
+industries comprising space tourism: aerospace, media, entertainment, 
+architecture, design, advertising, marketing, finance, high tech, 
+science, manufacturing, futurism and the arts. 
+
+Join STC this year on April 28 in Los Angeles near LAX airport to hear 
+from private-sector astronauts, entertainers, travel experts, 
+engineers, and yes--planetary scientists. Tickets on sale now at:
+
+https://www.spacetourismconf.com/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+OPPORTUNITY FOR SCIENCE COMMUNITY INVOLVEMENT IN A MARS SAMPLE RETURN 
+MEASUREMENT DEFINITION TEAM
+
+NASA and ESA are planning to charter a Measurement Definition Team 
+(MDT) to assess the measurement and instrumentation needs for the 
+high-containment Mars Sample Return Sample Receiving Project facility 
+to process samples brought back from Mars and accomplish sample safety 
+assessment, curation, and science. There will be an open call for 
+membership, and early career individuals are encouraged to apply. We 
+expect the applications for this committee to be accepted in late 
+spring 2023, with an anticipated committee timeline between September 
+2023 and July 2024.
+
+If you are interested in receiving more information as it becomes 
+available, please register your interest at: 
+
+https://science.nasa.gov/solar-system 
+
+The link title is: Mars Sample Receiving Project Measurement 
+Definition Team 1 - Indication of Interest
+
+Note: emails are only being collected for the purpose of sharing 
+information about this MDT, and the list will be deleted once the group 
+has been formed.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+$1000 MINIGRANTS TO SUPPORT WOMEN AND GIRLS IN ASTRONOMY
+
+The Women and Girls in Astronomy Project (WGAP) will target aspiring 
+astronomers and current professionals alike, establishing a network to 
+uplift, educate, connect with, and provide opportunities to women and 
+girls. Ten unique astronomy projects will be selected and awarded 
+$1,000 USD mini-grants. The projects must take place in Canada, United 
+States, the Caribbean, Mexico, or Greenland. Projects are encouraged to 
+approach astronomy from a unique lens, including, but not limited to, 
+scientific, social, technical, cultural, and artistic perspectives.
+
+Read more and find out how to apply at:
+
+https://tinyurl.com/2kw4xcpn
+
+ 
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) STEERING COMMITTEE (SC) POSITIONS
+
+SBAG seeks applications for the SC (3-year terms). The SC organizes 
+SBAG meetings, writes official findings, and takes a leadership role in 
+other activities where community input is needed.
+
+1. Human Exploration Lead: An individual actively involved in studying
+   human exploration, aware of current challenges and advances in the 
+   field, to lead SBAG activities relevant to human exploration.
+
+2. Early Career Secretary (2.5-yr term): A person to support the SC in 
+   all aspects of its meetings and operation, with <3 years experience 
+   after a terminal degree.
+
+3. Three at-large members: Any small bodies community member from any
+   career stage is welcome.
+
+The application requires: 1) a two-page CV, including a description of
+participation in SBAG or other small bodies organizations, 2) a short 
+(300 words maximum) statement of interest. Criteria for selection 
+includes participation in small bodies community organizations, 
+leadership experience, and relevant research/mission experience.
+
+In support of diversity, applicants may specify gender, whether they
+belong to an underrepresented group in STEM, or other relevant
+information.
+
+E-mail applications to Lori Feaga (feaga@astro.umd.edu) by May 5, 2023,
+8:00 PM EDT. New members will be announced at the 29th Meeting of SBAG
+(July).
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+VISITING ASSISTANT PROFESSOR AT WESLEYAN UNIVERSITY
+
+Wesleyan University's Department of Earth and Environmental Sciences 
+(E&ES) invites applications for a one-year full-time Visiting Assistant 
+Professor of E&ES, beginning as early as September 1, 2023. The 
+position is for one year and is renewable for up to three years 
+depending on performance and the curricular needs of the department. We 
+invite applications from candidates specializing in the remote sensing 
+and morphology of planetary surfaces, however candidates with a focus 
+in any field of Planetary Geosciences will be considered. The teaching 
+load is 3/2, or equivalent, in person on Wesleyan's campus. Wesleyan is 
+a highly selective liberal arts university that values both scholarship 
+and teaching very highly, has a strong, diverse undergraduate student 
+body. Applications completed by April 1 will receive full 
+consideration. Please contact Martha Gilmore at mgilmore@wesleyan.edu 
+if you have questions about the position or application process. 
+
+https://careers.wesleyan.edu/postings/9495
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+April 28, 2023
+Space Tourism Conference: Bridging the Technical-Leisure Divide
+https://www.spacetourismconf.com/
+Los Angeles, CA
+
+June 8-10, 2023
+2023 Culturally Inclusive Planetary Engagement Workshop
+https://www.lpi.usra.edu/planetary-reach/workshops/nola/
+New Orleans, LA
+
+June 13-15, 2023
+Titan Through Time VI
+https://sites.google.com/view/titanthroughtimeparis2023/home
+Paris, France
+
+June 22-24, 2023
+2023 Culturally Inclusive Planetary Engagement Workshop
+https://www.lpi.usra.edu/planetary-reach/workshops/seti/
+Mountain View, CA
+
+August 17-19, 2023
+2023 Culturally Inclusive Planetary Engagement Workshop
+https://www.lpi.usra.edu/planetary-reach/workshops/miami
+Miami, FL
+
+December 11-15, 2023
+9th Annual Science at Low Frequencies (SALF) Conference
+https://tinyurl.com/3xweehvz
+Amsterdam, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Role of Sulfate in Cation Exchange Reactions: Applications to
+Clay-Brine Interactions on Mars
+Christopher Geyer et al. 2023 PSJ 4:48
+https://doi.org/10.3847/PSJ/acba97
+
+Taxonomic Classification of Asteroids Using the KMTNet Multiband
+Photometry Data Set
+Sangho Choi et al. 2023 PSJ 4:49
+https://doi.org/10.3847/PSJ/aca7c8
+
+The Influence of Cloud Condensation Nucleus Coagulation on the Venus
+Cloud Structure
+Kevin McGouldrick and Erika L. Barth 2023 PSJ 4:50
+https://doi.org/10.3847/PSJ/acbdf8
+
+Modeling the Formation of Selk Impact Crater on Titan: Implications
+for Dragonfly
+Shigeru Wakita et al. 2023 PSJ 4:51
+https://doi.org/10.3847/PSJ/acbe40
+
+Grain Size Effects on Visible and Near-infrared (0.35-2.5 um)
+Laboratory Spectra of Ordinary Chondrite and HED Meteorites
+Bryn Bowen et al. 2023 PSJ 4:52
+https://doi.org/10.3847/PSJ/acb268
+
+Strong Depletion of 13C in CO Induced by Photolysis of CO2 in the 
+Martian Atmosphere, Calculated by a Photochemical Model
+Tatsuya Yoshida et al. 2023 PSJ 4:53
+https://doi.org/10.3847/PSJ/acc030
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

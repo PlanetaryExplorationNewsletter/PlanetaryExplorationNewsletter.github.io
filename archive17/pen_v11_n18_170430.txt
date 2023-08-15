@@ -1,0 +1,477 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 18 (April 30, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Lloyd V. Berkner Space Policy Internships Autumn 2017
+2. Small Bodies Planetary Astronomy Python Package
+3. National Academies: Space Policy Permanent Job
+4. Planetary Geomorphology 'Image of the Month'
+5. Building New Worlds - Now Accepting Registration Applications
+6. Lunar and Planetary Institute Now Accepting Applications for Staff
+   Scientist
+7. Amendment to SALMON-3 (PEA I MMX)
+8. Mars Reconnaissance Orbiter CRISM MTRDR and TER Release 6
+9. Proposal of New Book on Martian Volcanism
+10. EPSC 2017 Session OPS4/TP8.2: Planetary Aerosols and Clouds Session
+11. EPSC 2017 Session TP5/OPS5/SB14: Planetary Geomorphology Session
+12. EPSC 2017 Session TP4: Mars Interior and Surface Session
+13. One Week until H2M 2017
+14. NASA FDL 2017 Call for Applicants
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LLOYD V. BERKNER SPACE POLICY INTERNSHIPS AUTUMN 2017
+
+The goal of the Lloyd V. Berkner Space Policy Internship is to provide
+promising undergraduate and graduate students with the opportunity to
+work in the area of civil space research policy in the nation's
+capital, under the aegis of the National Academies of Sciences,
+Engineering, and Medicine's Space Science Board. The autumn program is
+open to undergraduate and graduate students. The deadline for
+applications is 2 June. Candidate(s) selected for will be contacted no
+later than 7 July. Additional information about the program, including
+application procedure, can be found at:
+
+http://sites.nationalacademies.org/SSB/SSB_052239
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SMALL BODIES PLANETARY ASTRONOMY PYTHON PACKAGE
+
+We are proposing a dedicated Python package for use in small bodies
+planetary astronomy (asteroids and comets). The idea is to include
+well-tested routines that are widely used in our field to prevent
+people from re-inventing the wheel time and again. The goal would be to
+produce a package that will eventually be added as an Astropy
+affiliated package, meeting all of their high-level standards and
+building upon existing functionality.
+
+We would like to know from you, as a potential user, what features you
+would be interested in. Also, if you are interested in contributing,
+either by doing actual Python programming for this package or simply
+contributing existing code (Python or any other common language, your
+contribution will be properly acknowledged), please let us know.
+
+We created a google form for you to provide us feedback:
+
+https://docs.google.com/forms/d/e/
+1FAIpQLScidOFtDEGBn4TnwlPoemMXoDJf5LUDGuTyE3PFSW5aT-a1tw/viewform
+
+If you have questions, feel free to contact us directly:
+M. Mommert (michael.mommert@nau.edu) and
+M. S. P. Kelley (msk@astro.umd.edu)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NATIONAL ACADEMIES: SPACE POLICY PERMANENT JOB
+
+The National Academies Space Studies Board is looking to add a program
+officer and is now accepting applications. See job announcement at:
+
+https://chk.tbe.taleo.net/chk06/ats/careers/requisition.jsp?org=NAS&cws
+=1&rid=8650
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The May image of the month is now available at the IAG's Planetary
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Cryovolcanic flows on Ceres". Contributed by Dr.
+Katrin Krohn, German Aerospace Center, Institute of Planetary Research.
+
+You can now follow IAG Planetary Geomorphology Image of the Month on
+Facebook 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter
+
+@PlanetGeomorpho
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+BUILDING NEW WORLDS - NOW ACCEPTING REGISTRATION APPLICATIONS
+
+Accretion: Building New Worlds is the first topical conference of
+LPI's "The First Billion Years" initiative.
+
+http://www.lpi.usra.edu/first-billion-years/ 
+
+The conference will focus on processes of star formation and
+circumstellar disks that lead to planetary systems with both
+silicate-rich and volatile-rich planetary bodies. These planetary
+bodies and their subsequent evolutions provide the basis for habitable
+environments and for the origin of life as we know it. The goal of this
+topical conference is to integrate the disparate stories of planetary
+accretion, both physical and chemical, into a consistent (although
+understandably incomplete) whole. The list of invited speakers can be
+found on the conference website.
+
+There is no registration fee, but registration is mandatory. 
+
+Due to limited seating, priority will be given to people who submit
+abstracts selected for presentation. Because student participation is
+strongly encouraged, second priority will be given to undergraduate and
+graduate students and early career researchers who apply to attend
+(abstract submission is NOT a requirement for attendance for
+participants in this category). Remaining seats will be assigned on a
+first-come, first-served basis according to the date of application.
+
+Register deadline: June 15, 2017 
+Abstract deadline: June 1, 2017 
+
+http://www.hou.usra.edu/meetings/accretion2017/
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LUNAR AND PLANETARY INSTITUTE NOW ACCEPTING APPLICATIONS FOR STAFF
+SCIENTIST
+
+The successful candidate must have a Ph.D. in Planetary Sciences or in
+a related discipline, and at least 10 years of experience in the field.
+The candidate must be a U.S. Citizen or Legal Permanent Resident, and
+be able to pass a detailed government background investigation. The
+successful candidate will be expected to design and conduct research in
+planetary science, propose for and receive external funding for
+research, support and advise post-doctoral fellows and/or graduate
+students, seek involvement with spacecraft missions if appropriate, and
+participate with NASA and the science community in review panels,
+analysis and advisory groups, etc. We are particularly interested in
+hearing from prospective candidates who have expertise beyond that of
+our existing staff scientists.
+
+For more information about the position, please contact the LPI
+Director, Dr. Louise Prockter at prockter@lpi.usra.edu. Applicants
+should submit a letter of interest, a curriculum vita with a list of
+publications, a brief (maximum three pages) statement of research
+interests, and a list of three references to:
+
+https://usracareers.silkroad.com/
+
+Further information on current research and facilities at the LPI can
+be found on our website at:
+
+http://www.lpi.usra.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AMENDMENT TO SALMON-3 (PEA I MMX)
+
+The Program Element Appendix (PEA) I: MMX Neutron and Gamma-Ray
+Spectrometer Investigation (NNH17ZDA004O-MMX) is ammended to correct a
+typographical error and provide additional information on SALMON-3
+requirements.
+
+Section 3 (p.6):
+
+The Delivery of Structural & Thermal Model (estimated) is March 2020.
+
+Section 4.4.1.1 (p.11):
+
+Requirement I-7. In Table B3b (see Section H of Appendix B of the
+SALMON-3 AO), the cost shall be in fiscal year 2020 dollars (FY2020$).
+
+Go to: 
+
+http://nspires.nasaprs.com
+
+Questions on this solicitation may be addressed by E-mail to the MMX
+Program Scientist: Thomas S. Statler, E-mail: Thomas.S.Statler@nasa.gov
+(subject line to read "MMX NGRS"). Responses to all inquiries will be
+answered by E-mail.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS RECONNAISSANCE ORBITER CRISM MTRDR AND TER RELEASE 6
+
+PDS Announces the Sixth Release of Mars Reconnaissance Orbiter CRISM
+Targeted Empirical Data Record (TER) and Map-projected Targeted Reduced
+Data Record (MTRDR) products, at:
+
+http://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from June 12, 2007, through June 23, 2008.
+TER products are image cubes derived from CRISM hyperspectral targeted
+observations, post-processed to standardize the illumination and
+observations geometry and remove atmospheric gas absorptions and
+instrument artifacts. MTRDRs are the same data map-projected using
+terrain models of the Martian surface. The next TER/MTRDR release is
+scheduled for August 1, 2017.
+
+Alternatively:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170427.shtml
+
+To access the latest PDS Data Releases:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PROPOSAL OF NEW BOOK ON MARTIAN VOLCANISM
+
+Dear colleagues,
+
+I'm putting together a proposal for a new specific book on Martian
+volcanism. I think that time has come for such a book, particularly
+after the latest discoveries (i.e. volcanic alignments, new volcanic
+centers in the southern hemisphere, links between volcanism and
+southern giant impact, tridymite at Gale, and much more). 
+
+I have some people who already joined this project but I want to
+enlarge the number of authors in order to have a final product as much
+shared as possible within the planetary community. This is a wonderful
+opportunity for everyone to contribute with a chapter or more. 
+
+So please send me a message (either giovanni.leone@erdw.ethz.ch or
+giovanni.leone@tin.it) with your expression of interest and title(s) of
+chapter(s) that you are willing to contribute. Of course, I'll be happy
+to answer all your questions via email. The deadline for the expression
+of interest is May 31, 2017.
+
+Kind regards
+
+Leone Giovanni 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EPSC 2017 SESSION OPS4/TP8.2: PLANETARY AEROSOLS AND CLOUDS SESSION
+
+Dear Colleagues,
+
+European Planetary Science Congress 2017 
+Riga, Latvia, 
+17-22 September 2017
+Abstract deadline: May 3!
+
+We invite you to submit abstracts to our (co-organized) session
+OPS4/TP8.2 "Aerosols and clouds in planetary atmospheres"!
+
+http://meetingorganizer.copernicus.org/EPSC2017/session/26063
+
+Atmospheric aerosols and cloud particles are found in every atmosphere
+of the solar system and in exoplanets. Depending on their size, shape,
+chemical composition, latent heat, and distribution, their effect on
+the radiation budget varies drastically and is difficult to predict.
+When organic, aerosols also carry a strong prebiotic interest
+reinforced by the presence of heavy atoms such as nitrogen, oxygen or
+sulfur.
+
+The aim of the session is to gather presentations on these complex
+objects for both terrestrial and giant planet atmospheres, including
+the special case of Titan's hazy atmosphere. All research aspects from
+their production and evolution processes, their observation/detection,
+to their fate and atmospheric impact are welcomed, including laboratory
+investigations and modeling.
+
+The ambition of the session is a review effort beginning in our solar
+system, and which would be valuable to further investigate atmospheric
+aerosols in exoplanetary systems.
+
+With best regards,
+Nathalie Carrasco, Panayotis Lavvas, Anni Maattanen
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+EPSC 2017 SESSION TP5/OPS5/SB14: PLANETARY GEOMORPHOLOGY SESSION
+ 
+This session invites research on past and present processes and
+landforms on planetary surfaces, including moons, asteroids and comets.
+
+The session scope encompasses all aspects of geomorphology, both
+exogenic and endogenic. We particularly encourage contributions on
+Earth-analogue studies, recent Mars and results from the multitude of
+new high-resolution data from missions to objects never seen before
+(e.g., Rosetta, New Horizons). This session aims to represent the new
+frontiers of geomorphology on Earth and beyond.
+
+http://meetingorganizer.copernicus.org/EPSC2017/session/26045
+ 
+Deadline for abstract submission: 3 May 2017, 13:00 CEST
+ 
+Solmaz Adeli, Andreas Johnsson, Ernst Hauber
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+EPSC 2017 SESSION TP4 : MARS INTERIOR AND SURFACE SESSION
+ 
+This session welcomes all presentations on Mars' interior and surface
+processes. The aim of this session is to bring together disciplines as
+various as geology, geomorphology, geophysics, mineralogy, glaciology,
+and chemistry. We welcome presentations on either present or past Mars
+processes, either pure Mars science or comparative planetology with the
+Earth, either observations or modeling or laboratory experiments (or
+any combination of those). New results on Mars science obtained from
+recent in situ and orbital measurements are particularly encouraged, as
+well as prospective science for the preparation of future missions to
+be exploring Mars (InSight, ExoMars, Rover 2020).
+ 
+http://meetingorganizer.copernicus.org/EPSC2017/session/26044
+ 
+Deadline for abstract submission: 3 May 2017, 13:00 CEST
+ 
+Ernst Hauber, Gino Erkling, Solmaz Adeli
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ONE WEEK UNTIL H2M 2017
+
+Join us at the Humans to Mars Summit (H2M) that will be held from May
+9-11, 2017 at The George Washington University in Washington, DC. 
+Register at: 
+
+http://H2M.ExploreMars.org
+
+Can't be there in person? Watch the webcast here:
+ 
+https://livestream.com/viewnow/HumansToMars2017
+
+H2M is an annual Mars exploration conference that addresses the major
+technical, scientific, and policy challenges that need to be overcome
+in order to send humans to Mars by the 2030s. It is the most
+comprehensive conference in the world focused on landing humans on
+Mars, and the 2017 H2M is shaping up to be the biggest H2M yet.
+
+Confirmed and tentative speakers already include Robert Lightfoot,
+William Gerstenmaier, Penny Boston, Thomas Zurbuchen, Clementine
+Poidatz (National Geographic Series, Mars), Ellen Stofan, Buzz Aldrin,
+John Grunsfeld, James Green, Janet Ivey (Janet's Planet), Stephen
+Jurczyk, Leonard David, Joe Cassady (Aerojet Rocketdyne), Talal Kaissi
+(UAE), Ann Merchant (Science and Entertainment Exchange), and many
+others...
+
+Register today at: 
+
+http://h2m.exploremars.org
+
+or
+
+If you can't come in person, join us on the H2M webcast at:
+
+https://livestream.com/viewnow/HumansToMars2017
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NASA FDL 2017 CALL FOR APPLICANTS
+
+NASA Frontier Development Lab is looking for masters, doctorate or
+post-doc researchers with an understanding or interest in one of these
+areas:
+
+Planetary Defense: Near-Earth Object 3D Shape Modeling or Comet
+Detection
+Space Weather: Coronal Mass Ejections (CMEs) or Solar-Terrestrial 
+Interactions 
+Space Resources: Lunar Water or Asteroid Prospecting
+
+Hosted by the SETI Institute and NASA Ames in Mountain View and
+supported by leaders in AI from the private sector (e.g., IBM,
+Nvidia, Autodesk and Miso Technologies) FDL brings together teams of
+experts in the physical sciences and specialists in data science and
+machine learning for an intense 8-week concentrated study on topics
+important to NASA - and to humanity's future.
+
+The format encourages rapid iteration and prototyping to create outputs
+with meaningful application, papers and conference posters.
+
+All participants are paid and provided accommodation and transport in
+Silicon Valley.
+
+The 2017 8-week program is still accepting qualified participants and
+will run June 26 - August 18, 2017.
+
+Applications will be accepted until the closing date (19 May 2017), 
+although we encourage you to apply sooner to ensure a place.
+
+To learn more about FDL and submit your application, please visit the
+FDL website at: 
+
+http://frontierdevelopmentlab.org
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 19-23, 2017
+Comets Workshop 2017: Comet Formation Paradigm after Rosetta
+http://www.astro.bas.bg/comets2017/
+Sofia, Bulgaria
+
+October 17-20, 2017
+The Cosmic Wheel and the Legacy of the AKARI archive: From Galaxies and Stars to Planets and Life
+http://www.ir.isas.jaxa.jp/AKARI/akari2017/
+Tokyo, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

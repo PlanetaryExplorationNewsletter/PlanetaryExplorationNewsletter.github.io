@@ -1,0 +1,328 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 27 (July 5, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Fall AGU Special Session: Carbon on Mars
+2. Fall AGU Special Session P035: Using Current Chemistry and 
+   Mineralogy Data to Guide Future Discoveries from Mars 2020
+3. NAI Director Application Deadline Extended to July 10, 2015 
+4. [NASA] PDS - Odyssey Data Release 52
+5. [NASA] PDS - Mars Atmosphere and Volatile Evolution Data Release 1B
+6. [NASA] PDS - Cassini Data Release 42
+7. Planetary Geomorphology 'Image of the Month'
+8. NASA Postdoctoral Fellowships
+9. Planetary Meeting Calendar Additions
+
+Commercial Announcement:
+
+C1. Summer School in Software Systems for Astronomy
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+FALL AGU SPECIAL SESSION: CARBON ON MARS
+
+We are organizing a special session on the general topic of carbon on 
+Mars at the upcoming Fall AGU Meeting. We hope to receive contributions 
+addressing a wide range of relevant topics, including: accretion, core 
+formation, mantle geochemistry, formation of crust, outgassing of 
+carbon species, climate evolution, sequestration (and recycling?) of 
+carbon, organic chemistry on Mars, preservation of biosignatures, and 
+future experiments addressing carbon characterization and life 
+detection.  
+
+Additional information can be found at:  
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/Session7477
+
+Deadline to submit an abstract: 5 August 2015, 11:59 P.M. EDT
+
+We are looking forward to an interesting session!
+
+Joe Michalski & Paul Niles
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FALL AGU SPECIAL SESSION P035: USING CURRENT CHEMISTRY AND MINERALOGY 
+DATA TO GUIDE FUTURE DISCOVERIES FROM MARS 2020
+
+This session will focus on understanding the diversity of martian 
+surface chemistries and mineralogies, specifically in preparation for 
+future Mars missions. There is a wealth of evidence from a wide range 
+of observations that suggests that the surface of Mars records a 
+diversity of environments with complicated geologic histories. As we 
+prepare to return to Mars in 2020, questions about how to interpret 
+our current data sets remain. Are there any potential biosignatures 
+that have already been observed? What additional data would we need to 
+confirm them? Are there new types of geologic materials or terrestrial 
+analogs that we should examine to elucidate these signatures on Mars? 
+Of particular interest are studies synthesizing results from in situ, 
+remote sensing, field, and/or laboratory studies that provide 
+suggestions for future martian materials of interest.
+
+Deadline to submit an abstract: 5 August 2015, 11:59 P.M. EDT
+
+To submit abstracts to this session, visit:
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/start.html
+
+Conveners:
+
+Mikki Osterloo, Laboratory for Atmospheric and Space Physics, 
+University of Colorado
+Craig Hardgrove, Arizona State University
+Nina Lanza, Los Alamos National Laboratory
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NAI DIRECTOR APPLICATION DEADLINE EXTENDED TO JULY 10, 2015
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI). 
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading or managing large interdisciplinary 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future. Applicants for this position should have a 
+broad scientific perspective on astrobiology, experience in conducting 
+interdisciplinary scientific research, and demonstrated skills needed 
+to harness the strengths of disparate research communities towards a 
+greater goal. S/he should understand how to grow a research endeavor 
+and respond to changing budget climates while focusing on maximizing 
+the scientific return on NASA's investments in astrobiology. S/he 
+should have experience in leading a diverse staff ranging from 
+established scientists to support personnel, resource planning, and 
+executing budgets and schedules. S/he should be comfortable with modern 
+information technologies and distributed research teams. NASA is 
+particularly interested in applicants who will find ways to infuse 
+astrobiology into NASA flight missions.
+
+Interested individuals should apply at: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/393518700 
+
+You can also go to USAJobs at: 
+
+https://www.usajobs.gov/ 
+
+In the keyword search box, type vacancy number "AR15S0001." Select 
+"Director, NASA Astrobiology Institute", then click "Apply Online".
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - ODYSSEY DATA RELEASE 52
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 52, for the following instruments:
+
+GRS
+THEMIS
+Radio Science (Releases 154-156)
+SPICE
+
+Note that the THEMIS EDRs are ready; the RDRs will be ready later in 
+July.
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150701.shtml
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 1B
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+the following additional data from MAVEN (Mars Atmosphere and Volatile 
+Evolution) release 1B:
+
+EUV (Extreme Ultraviolet Monitor)
+
+To receive email announcements of future releases of MAVEN data, please
+sign up on the PDS Subscription Service at:
+
+http://pds.nasa.gov/tools/subscription_service/top.cfm
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150702.shtml
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS - CASSINI DATA RELEASE 42
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 42, July to September 2014, for instruments:
+
+INMS
+ISS
+MAG
+MIMI
+RADAR
+SPICE
+UVIS
+VIMS
+
+HRD data for this period was announced in release 41. RPWS data for 
+this period was announced in release 40. There was no RSS data for this 
+period. CDA and CIRS data will be available shortly.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days beyond 
+the formal release date to be incorporated into these services. Check 
+each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20150703.shtml
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The July image of the month is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This Month's topic is on Possible Periglacial Landscape in Utopia 
+Planitia, Mars.
+
+Contributed by Alex Barrett, Department of Physical Sciences, Open 
+University, UK.
+
+You can now follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/17613
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and $8,000 
+per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/1JkwABH
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 28 - March 1, 2016
+The 2nd Conference on Astrophysics and Space Science (APSS 2016)
+http://www.engii.org/ws2016/Home.aspx?id=686
+Beijing, China
+
+March 21-25, 2016
+47th Lunar and Planetary Science Conference
+http://www.hou.usra.edu/meetings/lpsc2016/
+The Woodlands, TX
+
+April 11-15, 2016
+15th Biennial ASCE International Conference on Engineering,
+Science, Construction and Operations in Challenging Environments
+http://earthspaceconf.mst.edu
+Orlando, FL
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+The University of Hawai'i at Hilo Physics and Astronomy Department 
+offers a two week course, July 20-31. The course covers software 
+design and implementation of telescope and instrument control systems, 
+observation planning tools, and software for analyzing and archiving 
+astronomical data. A full course description and instructions for 
+enrollment are given at:
+
+http://phys.uhh.hawaii.edu/Summer2015/index.php#courseA
+
+There are 2 seats remaining.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

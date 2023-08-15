@@ -1,0 +1,635 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 39 (September 8, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Bushun N. Khare (1933-2013)
+2. In Memoriam: Bruce Murray (1931-2013)
+3. [NASA] PDS Announces Dawn's Framing Camera Data for Vesta Now 
+   Accessible on the Small Bodies Image Browser
+4. [NASA] PDS - Dawn VIR Data Release
+5. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 26 
+6. Future In-Space Operations (FISO) Working Group Seminars
+7. Io Workshop 2013: Coordination for the EXCEED Mission
+8. Special Issue of Icarus: MSL 1st Year Results
+9. NASA Postdoctoral Fellowships
+10. [NASA] Reviewers Sought for MMAMA and PICASSO
+11. [NASA] Planetary Protection Removed from ROSES 2013
+12. Mars Express OMEGA Global Map Data Set
+13. Research Associate in Planetary Ring Studies
+14. NRAO Community Day at the 45th DPS Meeting: Enhancing Your Solar 
+    System Science with the Best Radio/Mm/Submm Facilities
+15. Announcing the 2013 DPS Women in Planetary Science Lunch
+16. Exoclimes III: The Diversity of Planetary Atmospheres
+17. [NASA] Ames Research Center Job Announcement AR13B0014, Research 
+    Space Scientist, AST, Planetary Studies, GS-1330-12/13
+18. Planetary Science: Progress with Suborbital Reusable Launch
+    Vehicles
+19. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. "Fundamental Planetary Science" by Jack J. Lissauer 
+    and Imke de Pater
+C2. New Book on Planetary Geology
+
+
+o---------------------------------------------------------------------o
+
+        
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: BISHUN N. KHARE (1933-2013)
+
+Our colleague and friend Bishun Khare died quietly on August 20 at the 
+age of 80. Bishun is widely known for his early work on organic solid 
+residues (tholins) related to the aerosols in planetary atmospheres and 
+the interstellar medium, performed for many years at Cornell University 
+in collaboration with Carl Sagan. Their 1984 paper gave the optical 
+constants of Titan tholin from the X-ray to microwave region, and has 
+served as a fundamental input to modeling work that included planetary 
+surfaces in addition to atmospheric aerosols. That key paper has 
+received well over 300 citations, and has stimulated much additional 
+research on tholins, both in the US and in Europe. In 1996, Bishun 
+moved from Cornell to NASA Ames Research Center on a Senior National 
+Research Council fellowship, and subsequently joined the SETI 
+Institute. He continued his research on many topics in his Ames lab, 
+and mentored a great number of students, including supervising the 
+thesis work of graduate students. Bishun was a patient, kind, and 
+sharing individual, who loved to talk about science, especially the 
+organic materials in Nature and those he could synthesize in his lab.
+
+Composed by D. Cruikshank.
+
+[From the DPS Newsletter]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+IN MEMORIAM: BRUCE MURRAY (1931-2013)
+
+Bruce Murray, former JPL Director, co-founder of the Planetary Society, 
+and Caltech Emeritus Professor passed away on August 29. In the words 
+of JPL's Director Charles Elachi, "Bruce was JPL's fifth Director, 
+serving from 1976 to 1982, but his association with JPL goes back much 
+further. He was a Caltech geologist and a key member of the Mariner 4 
+Imaging team that captured the first close up image of Mars in 1964. 
+It was only the first of four planetary missions in which he played a 
+vital role as a scientist. Shortly after Bruce became Director, JPL was 
+the scene for mission operations for the landings of Viking 1 and 2 on 
+Mars. The following year Voyager 1 and 2 were launched, and Bruce led 
+the lab through the Voyagers' encounters at Jupiter and Saturn. He 
+worked tirelessly to save our nation's planetary exploration capability 
+at a tumultuous time when there was serious talk of curtailing future 
+missions. Along with Carl Sagan and Lou Friedman, he founded The 
+Planetary Society. Long after returning to Caltech as a professor, he 
+continued to be a strong voice in expressing the importance of space 
+exploration."
+
+[From the DPS Newsletter]
+
+        
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS ANNOUNCES DAWN'S FRAMING CAMERA DATA FOR VESTA NOW 
+ACCESSIBLE ON THE SMALL BODIES IMAGE BROWSER 
+
+The Asteroid Subnode of the Planetary Data System is pleased to 
+announce the release of the Dawn missions Framing Camera's data into 
+the Small Bodies Image Browser (SBIB):
+
+http://sbib.psi.edu
+
+The SBIB tool is designed to provide direct access to the image data 
+maintained at the Small Bodies Asteroid subnode. One can click on the 
+overview map (or click and drag a search box) and do a search for all 
+images that fall within that region. The SBIB will provide a list of 
+images, their footprints on the overview map, and thumbnails that can 
+be either as viewed by the spacecraft or map-projected. Level 1A and 1B
+are available in IMG (native format), FITS, JPEG, PNG and ISIS cubes 
+(both basic cubes and map projected cubes with coordinates).
+
+The data currently in the system are all of the framing camera images 
+of Vesta from Survey through the 2nd High Altitude Mapping Orbit 
+(HAMO 2). The data have been accepted by the PDS in time for the 
+upcoming Planetary Mission Data Analysis Program deadline.
+
+Questions or comments, contact Dr. Eric Palmer, epalmer@psi.edu
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - DAWN VIR DATA RELEASE
+
+The Planetary Data System (PDS) is pleased to announce the release of 
+the Dawn Visible and Infrared Spectrometer (VIR) L1a (raw) and L1b 
+(calibrated) data for all Vesta phases.
+
+To access the above data, please visit the following link:
+
+http://sbn.psi.edu/pds/resource/dwnvvir.html
+
+For access to all PDS-archived Dawn data, go to:
+
+http://sbn.psi.edu/pds/archive/dawn.html
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS MARS - RECONNAISSANCE ORBITER DATA RELEASE 26
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 26 includes data collected from 
+November 9, 2012, through February 8, 2013. The release includes 
+HiRISE data for May 5, 2013, to August 2, 2013.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20130903.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FUTURE IN-SPACE OPERATIONS (FISO) WORKING GROUP SEMINARS
+
+You are invited to participate in the weekly Future In-Space 
+Operations (FISO) Working Group seminars that are conducted by telecon 
+on Wednesdays at 3 PM EDT. This was begun in 2006, as an innovative 
+outreach effort providing researchers, industry leaders, and policy 
+makers information on "hot topics" of strategic importance. It is 
+co-chaired by Harley Thronson (NASA GSFC) and Dan Lester (U. Texas), 
+and it is described in some detail in:
+
+http://www.thespacereview.com/article/2233/1
+
+For dial-in information, the schedule of upcoming seminars, and an 
+archive of presentations and audio recordings of seminars and 
+discussions, go to:
+
+http://spirit.as.utexas.edu/~fiso/telecon.htm 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+IO WORKSHOP 2013: COORDINATION FOR THE EXCEED MISSION
+
+Saturday 12th October, 2013
+Southwest Research Institute, Boulder, CO
+  
+This 1-day scientific meeting will be held in downtown Boulder after 
+DPS Denver to discuss the latest research and developments in Io 
+science since the 2012 Io Workshop.
+  
+The Japanese EUV Sprint-A/EXCEED mission was to launch in August 2013 
+on the new EPSILON launch vehicle but has been delayed. EXCEED will 
+observe the Jovian aurora and Io plasma torus for a number of months. 
+This workshop will focus on topics which might benefit from EXCEED 
+data and coordinated observations at all wavelengths, though 
+presentations on other aspects of Io science will be accepted if time 
+allows.
+  
+For more information, regular updates and to register your interest, 
+please go to:
+
+http://www.boulder.swri.edu/~con/ioworkshop2013
+  
+Organizers: Constantine Tsang, John Spencer, Fran Bagenal, Rosaly Lopes
+Contact Email: con@boulder.swri.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SPECIAL ISSUE OF ICARUS: MSL 1ST YEAR RESULTS
+
+The Mars Science Laboratory (MSL) Curiosity rover has completed its 
+first Earth year of operations, revealing a diversity of rock and soil 
+types, including an ancient streambed, unusual igneous rocks, 
+mudstones, mineral veins, and hydrated surface and subsurface 
+materials. The elemental composition and mineralogy of the first 
+drilled samples suggest conditions that could have been capable of 
+supporting life. Now that initial operations and testing of the 
+rover capabilities have been completed in the Yellowknife Bay area, 
+the rover has begun its traverse towards the entrance to Mt. Sharp. 
+As such, it is timely to coordinate results from MSL's first year of 
+operations into a journal special issue, submitted to Icarus by 
+October 1, 2013.  
+
+This special issue is for papers that:
+
+- Include observations and analyses of MSL data related to atmospheric 
+science, geologic and geomorphologic studies, surface properties, 
+radiation environment, and mineralogy and geochemistry of the surface 
+and subsurface materials analyzed by Curiosity
+- Incorporate additional orbital data sets of the Curiosity landing 
+site region 
+
+Author guidelines for preparation of manuscript can be found at: 
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home
+/505620/authorinstructions
+
+Please contact the editorial office at icarus@astro.cornell.edu with 
+any questions.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of a research opportunity in planetary science is:
+
+https://www3.orau.gov/NPDoc/Catalog/17590    
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/14cNpfH
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] REVIEWERS SOUGHT FOR MMAMA AND PICASSO
+
+The Planetary Science Division has two new volunteer reviewer web forms 
+on the SARA web page. The Science Mission Directorate is currently 
+seeking volunteer reviewers for the evaluation of proposals to ROSES 
+2013 Appendix C.14 Moon and Mars Analogue Mission Activities (MMAMA) 
+and ROSES 2013 Appendix C.16: Planetary Instrument Concepts for the 
+Advancement of Solar System Observations. Both of these can be found 
+at: 
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PLANETARY PROTECTION REMOVED FROM ROSES 2013
+
+When the ROSES-2013 omnibus solicitation was released in February, 
+Appendix C.18, the Planetary Protection Research Program (PPRP) due 
+dates were listed as "TBD." We regret to inform proposers that PPRP 
+will not be solicited in ROSES-13. The impacts of sequestration in the 
+current fiscal year and lowered future planning budgets don't leave 
+enough funds to support both existing and future investigations in 
+FY 2014. Appendix C.18 will appear in Tables two and three of ROSES-13 
+as "Not solicited this year." Questions concerning Appendix C.18, the 
+Planetary Protection Research Program, may be directed to Cassie Conley 
+at cassie.conley@nasa.gov. This and all Amendments to ROSES 12 can be 
+found at: 
+
+http://science.nasa.gov/researchers/sara/grant-solicitations
+/roses-2013/ 
+
+where one can also subscribe to a convenient RSS feed.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MARS EXPRESS OMEGA GLOBAL MAP DATA SET
+
+The first release of the Mars Express OMEGA Mars Global Map Data Set is
+available at the ESA planetary Science Archive:
+
+ftp://psa.esac.esa.int/pub/mirror/MARS-EXPRESS/OMEGA
+/MEX-M-OMEGA-5-DDR-GLOBAL-MAPS-V1.0
+
+The  data set can be visualised in Google Earth using this link:
+
+http://www.rssd.esa.int/SB/PSA/include/missions/mex
+/omega-mars-global-maps_netlink.kmz
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+RESEARCH ASSOCIATE IN PLANETARY RING STUDIES
+
+We invite applications for a position as a Research Associate at 
+Cornell University.  This will support investigations into planetary 
+ring processes, in particular the planning and analysis of imaging 
+(ISS) and infrared (VIMS) observations obtained by the Cassini mission 
+now orbiting Saturn.  Our specific interests lie in structural and 
+dynamical processes of Saturn's rings, including its main and faint 
+rings and small satellites. Candidates must have a PhD in the physical 
+sciences (planetary science, astronomy, physics, geophysics, or 
+related fields).
+
+The initial appointment is for one year, but the appointment is 
+renewable for at least an additional year.  Review of applications has 
+begun, but we will accept applications until September 30. The expected 
+start date is later in fall 2013, but is negotiable.
+
+Applicants should submit a resume, a one-page statement of research 
+experience and interests, and names of three potential references to 
+Lynda Sovocool (lmk3@cornell.edu), Human Resource Manager, 106 Space 
+Sciences Bldg., Cornell University, Ithaca NY 14853. 
+
+Cornell University is an EEO/AA/Title IX/Section 504/ADA employer.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+NRAO COMMUNITY DAY AT THE 45TH DPS MEETING: ENHANCING YOUR SOLAR SYSTEM
+SCIENCE WITH THE BEST RADIO/MM/SUBMM FACILITIES
+
+Monday October 7th, 12-1:30pm
+
+The National Radio Astronomy Observatory invites you to a NRAO 
+Community Event at the 45th DPS meeting. This event is  designed for 
+the planetary science community, and in particular for those who do not 
+regularly utilize radio data in their research. If you would like to 
+learn more about the science that is possible with NRAO facilities and 
+the proposal/observations process - this session is for you!
+
+We will provide a brief overview of the NRAO facilities and their
+instruments followed by broad talks describing the variety of submm, mm
+and cm observations possible for Solar System bodies by I. de Pater
+(Berkeley) and M. Kelley (U. Maryland). We will discuss practical
+information on how to design and optimize proposals, focusing on the
+recent call for proposals for ALMA Cycle 2.
+
+No registration is required to attend but we will provide lunch for
+those registering early on our website:
+
+https://science.nrao.edu/php/nrao-cd-dps/index.php
+
+Kartik Sheth & Arielle Moullet
+Contacts : ksheth@nrao.edu; amoullet@nrao.edu
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ANNOUNCING THE 2013 DPS WOMEN IN PLANETARY SCIENCE LUNCH
+
+Join us for an informal meeting and discussion hour over lunch at the 
+Division of Planetary Sciences Meeting in Denver, CO. This year's 
+overall topic will be leadership. We will have a brief presentation, 
+but are planning for a very interactive program with lots of time for 
+discussion among participants. Please feel free to bring any 
+information/announcements related to women in astronomy and planetary 
+science to share. Due to the generosity of the DPS committee, we will 
+be able to provide boxed lunches this year. All are welcome! RSVPs are 
+requested due to space limitations and for planning the lunch order:  
+
+http://bit.ly/WIA_2013
+
+Important:  I have just been alerted that the catering order needs to 
+be placed by Sept. 15th, so please RSVP if you think you might attend, 
+and please pass this invite and RSVP page on to interested persons!  
+
+Sincerely, 
+
+Kelsi Singer and the Professional Development Committee of the DPS 
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+EXOCLIMES III: THE DIVERSITY OF PLANETARY ATMOSPHERES
+
+We are pleased to invite you to the Third Exoclimes Conference on the 
+diversity of planetary atmospheres, from Earth to exoplanets. This 
+international meeting will take place in Davos, Switzerland, on 
+9-14 February 2014.
+
+The objective of the meeting is to bring together Earth, Solar System 
+and Exoplanet specialists to discuss recent results and the way ahead. 
+It follows on two successful previous editions, in Exeter in 2010 and 
+Aspen in 2012. Review talks cover topics from Earth's paleo-climates 
+to Jupiter and Titan, to the atmosphere of exoplanets and cool brown 
+dwarfs, and focus on comparative planetology with a wide perspective.
+
+More information is available at: 
+
+http://www.exoclimes.org
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] AMES RESEARCH CENTER JOB ANNOUNCEMENT AR13B0014, RESEARCH SPACE 
+SCIENTIST, AST, PLANETARY STUDIES, GS-1330-12/13
+
+https://www.usajobs.gov/GetJob/ViewDetails/349635800
+
+NASA, the world's leader in space and aeronautics is always seeking 
+outstanding scientists, engineers, and other talented professionals to 
+carry forward the great discovery process that its mission demands.
+
+The Exobiology Branch (Code SSX) at NASA Ames Research Center is 
+currently seeking interested applicants for the position of Research 
+Space Scientist. The incumbent is responsible for conducting 
+microbiological and/or geologic research to identify biosignatures that 
+characterize past/present life in environments related to astrobiology. 
+He/she studies the origin, composition, structure, and evolution of 
+the solar system, including planets and satellites; the Earth and Moon; 
+and meteorites, asteroids, comets and dust. As a Research Space 
+Scientist, the incumbent is responsible for conducting research 
+involving modern field samples, ancient terrestrial rocks, meteorites, 
+extraterrestrial materials, ices, Mars analog rocks, and returned data 
+from spaceflight missions. He/she conducts research that emphasizes on 
+the elucidation and characterization of modern, ancient, or 
+extraterrestrial habitable zones and mineral biosignature. This 
+includes the evaluation of preservation potential related to 
+biosignatures; primary/secondary mineral phases associated with 
+habitable zones; and the development of databases, microbial specimens, 
+and geological collections for planetary studies and spacecraft 
+missions.
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE: PROGRESS WITH SUBORBITAL REUSABLE LAUNCH VEHICLES 
+(SRLV)
+
+Sunday, October 6, 2013 
+2:00 PM - 5:00 PM 
+Director's Row I 
+Sheraton Denver Downtown Hotel
+
+Suborbital Reusable Launch Vehicles (sRLV), ranging from balloons to 
+spacecraft, provide new, cost-effective platforms for planetary science 
+observations and experiments. From the on-going BRISSON campaign to 
+observe comet ISON to contained simulations of planetary formation 
+processes in zero-G, planetary scientists are now utilizing these 
+vehicles in their research. The modest costs and development times for 
+suborbital missions provide excellent training opportunities for future 
+spacecraft mission PIs and developers of spacecraft instruments. 
+Suborbital platforms offer advantages for increasing technology 
+readiness level for flight experiments at a fraction of the cost of 
+traditional orbital platforms. This second DPS workshop updates the 
+use of rSLVs for instrumentation, spacecraft and mission design to 
+address and answer planetary science questions. Composed of talks and 
+open discussion, this workshop will present science results and lessons 
+learned from planetary scientists engaged in research and suborbital 
+spacecraft industries.  
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 16-17, 2013
+Astronomy in the TMT Era
+http://tmt.mtk.nao.ac.jp/astro_tmt_era2013
+Tokyo, Japan
+
+March 16, 2014
+International Workshop on Scientific Opportunities in Cislunar
+Space (SOCS) - SOCS 1
+http://socsworkshops.com
+Houston, TX
+
+April 9-11, 2014
+International Workshop on Lunar Superconductor Applications (LSA)
+http://lsaworkshops.com
+Cocoa Beach, FL
+
+July 6-11, 2014
+CoRoT3-KASC7: The Space Photometry Revolution
+http://kasc7.asteroseismology.org
+Toulouse, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+"FUNDAMENTAL PLANETARY SCIENCE" BY JACK J. LISSAUER AND IMKE DE PATER
+
+Cambridge University Press is pleased to announce the publication of 
+an engaging new textbook for advanced undergraduate students, which 
+explains the wide variety of physical, chemical and geological 
+processes that govern the motions and properties of planets. Building 
+on the success of their award-winning graduate textbook, the authors 
+provide an overview of our current knowledge and discuss some of the 
+unanswered questions at the forefront of research in planetary science 
+and astrobiology today. They combine knowledge of the Solar System and 
+the properties of extrasolar planets with astrophysical observations 
+of ongoing star and planet formation, offering a comprehensive model 
+for understanding the origin of planetary systems. With more than 200 
+exercises to help students learn how to apply the concepts covered, 
+this textbook is ideal for a one-semester or two-quarter course for 
+undergraduate students.
+
+The text will be available at the DPS meeting in Denver. To find out 
+more information and to order an examination copy (instructors only), 
+visit:
+
+http://www.cambridge.org/lissauer/ 
+
+
+C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2-C2
+
+NEW BOOK ON PLANETARY GEOLOGY
+
+Now available from Dunedin Academic Press, "Planetary Geology: An 
+Introduction (Second Edition)" [ISBN 9781780460154 - $49.50] Is written 
+by Claudio Vita-Finzi and Dominic Fortes. Recent planetary missions by 
+NASA, the European Space Agency, and other national agencies have 
+reaffirmed that the geological processes which are familiar from our 
+studies of the Earth operate on many solid planets and satellites. 
+Common threads link the internal structure, thermal evolution, and 
+surface character of both rocky and icy worlds. Volcanoes, impact 
+craters, ice caps, dunes, rift valleys, rivers, and oceans are 
+features of extra-terrestrial worlds as diverse as Mercury and 
+Titan. "Planetary Geology" provides students and armchair enthusiasts 
+with comprehensive coverage of the solar system viewed through the eyes 
+of Earth scientists. This comprehensively updated second edition 
+presents fresh evidence that planetary geology now embraces 
+conventional geology and vice versa. Great for classes, the book 
+contains numerous color illustrations. Place orders with Dunedin's 
+North America distributor, International Specialized Book Services 
+(ISBS) - phone 1-800-944-6190. ISBS website link:
+
+http://www.isbs.com/partnumber.asp?cid=&pnid=413275
+
+International Specialized Book Services
+920 NE 58th Ave., Suite 300
+Portland, OR 97213   USA
+
+1-503-287-3093 or within North America 1-800-944-6190
+
+Fax: 1-503-280-8832
+
+Join our mailing list!
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

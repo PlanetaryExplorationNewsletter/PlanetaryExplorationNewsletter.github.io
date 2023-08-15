@@ -1,0 +1,131 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 33 (August 6, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology 'Image of the Month'
+2. [NASA] Mars Science Laboratory Release 15
+3. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The August image of the month is now available at the IAG's Planetary
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Global stereo topography of Jupiter's moon Io".
+Contributed by Oliver White, at SETI (Search for Extraterrestial
+Intelligence Institute), USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or Twitter
+@PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] MARS SCIENCE LABORATORY RELEASE 15
+
+The NASA Planetary Data System announces the fifteenth release of data
+from the Mars Science Laboratory (MSL) mission, covering data acquired
+from Sol 1515 through Sol 1648 (November 9, 2016, to March 26, 2017).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+APXS
+ChemCam
+CheMin
+DAN
+Hazcam
+MAHLI
+MARDI
+Mastcam
+Navcam
+PLACES
+RAD
+REMS
+SAM
+SPICE
+
+To access the above data for this release:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170801.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+The data may also be reached from the main PDS home page: 
+
+https://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives:
+The Planetary Image Atlas at the Imaging Node allows selection of MSL
+image data by specific search criteria.
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events.
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+November 13-17, 2017
+Astronomical Heritage of the Middle East
+http://heritage.aras.am
+Yerevan, Armenia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

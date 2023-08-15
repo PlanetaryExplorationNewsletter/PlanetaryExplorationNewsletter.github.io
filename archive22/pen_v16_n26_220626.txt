@@ -1,0 +1,429 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 26 (June 26, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] NASA Administrator Announces Next NAC Meeting, New Members
+2. [NASA] New Frontiers 5 Announcement of Opportunity Schedule Update
+3. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 50
+4. [NASA] PDS: JUNO Data Release 19
+5. Save the Date: 1st Workshop on Ices in the Solar System
+6. Geologic Mapping Subcommittee (GEMS) Membership Application Open
+7. PhD Position in Space Research/Mass Spectrometry at University of 
+   Bern, Switzerland
+8. PhD Position: Experimental Space Research
+9. Scientific Data Analyst with the MAVEN Imaging UltraViolet 
+   Spectrograph Team
+10. Job Announcement: Space Remote Sensing and Data Science Group 
+    Leader
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NASA ADMINISTRATOR ANNOUNCES NEXT NAC MEETING, NEW MEMBERS
+
+NASA Administrator Bill Nelson announced Wednesday the NASA Advisory
+Council (NAC) will convene its next meeting on August 9-10. Nelson also
+appointed new members to the NAC, who will provide leadership counsel
+and advice on agency programs and priorities. The new council members
+are:
+
+Dr. John-Paul Clarke (Chair, NAC Aeronautics Committee) - professor of
+aerospace engineering and engineering mechanics at The University of
+Texas at Austin, where he holds the Ernest Cockrell Jr. Memorial Chair
+in Engineering.
+
+Hon. Kay Bailey Hutchison (Member at Large) - most recently served as
+the U.S. permanent representative to NATO. Prior to that she served in
+the U.S. Senate as Chair of the Commerce Science and Space 
+Subcommittee.
+
+Dr. Ellen Williams (Chair, NAC Science Committee) - director of the
+Earth System Science Interdisciplinary Center and a distinguished
+university professor at the University of Maryland.
+
+Ms. Jacklyn Wynn (Member at Large) - vice president of strategic
+programs for the federal health sector at General Dynamics Information
+Technology.
+
+For the latest on the NASA Advisory Council events, activities, and
+news, visit:
+
+https://www.nasa.gov/offices/nac
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NEW FRONTIERS 5 ANNOUNCEMENT OF OPPORTUNITY SCHEDULE UPDATE
+
+The NASA Science Mission Directorate (SMD) has released a fourth
+Community Announcement concerning its intention to solicit 
+investigations for the New Frontiers Program (NNH20ZDA016L):
+
+https://sam.gov/opp/7a7c4989fa8a42b5bcecc945f7107778/view 
+
+The planned fifth New Frontiers Announcement of Opportunity (AO)
+release date has been accelerated. SMD plans to release the New
+Frontiers 5 AO in November 2023. Subsequent announcements will provide
+further information regarding the New Frontiers 5 AO's content and
+schedule.
+
+https://www.nasa.gov/news/budget/
+
+The New Frontiers 5 AO will be based on the SMD Standard PI-led 
+Mission AO Template:
+
+http://soma.larc.nasa.gov/standardao/sao_templates.html
+
+However, proposers must read carefully the Final New Frontiers 5 AO
+text when it is released for necessary details and any adjustments to 
+the AO Template or changes from the draft text.
+
+Further information, as it becomes available, will be posted on the New
+Frontiers 5 Acquisition website at:
+
+https://newfrontiers.larc.nasa.gov/NF5/
+
+Questions and feedback on the schedule in this notice are due by July 
+29, 2022, and may be addressed by email with "New Frontiers 5 AO" in 
+the subject header to Dr. Curt Niebur, New Frontiers Program Lead 
+Scientist: curt.niebur@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 50
+
+The NASA Planetary Data System announces Release 50 of data from the
+Lunar Reconnaissance Orbiter mission. This release contains raw,
+calibrated, and derived data products covering the nominal time period
+from December 15, 2021, through March 14, 2022. Some instrument teams
+are delivering more recent data. The data are archived at various PDS
+nodes.
+
+- CRaTER at the PPI Node
+- Diviner at the Geosciences Node
+- LAMP at the Cartography and Imaging Sciences Node
+- LEND at the Geosciences Node
+- LOLA at the Geosciences Node
+- LROC at the LROC Data Node
+- Mini-RF at the Geosciences Node
+- Radio Science at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+Or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220615.shtml
+
+LRO releases occur every three months. The next release is scheduled
+for September 15, 2022.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: JUNO DATA RELEASE 19
+
+The Planetary Data System announces the 19th release of data from the
+JUNO mission. The release includes EDR and RDR level data acquired
+between 2021-09-03 and 2021-11-29, which covers Juno Orbits 37 and 38.
+Data sets from the following experiments are now available:
+
+- FGM (magnetometer)
+- Gravity
+- JADE (plasma)
+- JEDI (energetic particle detector)
+- JIRAM (infrared auroral mapper)
+- JunoCam (camera)
+- MWR (microwave radiometer)
+- SPICE
+- UVS (ultraviolet imaging spectrometer)
+- Waves (radio and plasma wave science)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220621.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SAVE THE DATE: 1ST WORKSHOP ON ICES IN THE SOLAR SYSTEM
+
+We are excited to announce the first in a potential series of workshops
+on Ices in the Solar System, "A Volatile-Excursion from Mercury and the
+Moon to the Kuiper Belt and Beyond". The workshop is scheduled for
+January 9-11, 2023, at Dawson College in Montreal, QC, CA.
+
+The workshop aims to fuse a diverse group of early-, mid-, and
+senior-career planetary scientists whose work focuses on Ices, and
+provide a dynamic platform for presenting and exchanging their most
+current observations, interpretations, hypotheses, and/or explanations.
+Discussion of mission-exploration plans and options, current and/or
+proposed, also would be welcomed.
+
+A complimentary meet-and-greet reception will take place off-campus on
+January 8. The location and time of the reception will be announced at
+a later date.
+
+To be added to the mailing list to receive additional information about
+this workshop, submit an indication of interest:
+
+https://www.hou.usra.edu/meeting_portal/iofi/?mtg=ices2023
+
+Please contact the lead convener, Richard Soare 
+(RSoare@dawsoncollege.qc.ca) with any questions. Learn more at:
+
+https://www.hou.usra.edu/meetings/ices2023/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GEOLOGIC MAPPING SUBCOMMITTEE (GEMS) MEMBERSHIP APPLICATION OPEN
+
+Calling Planetary Geologic Mappers! The Mapping and Planetary Spatial
+Infrastructure Team (MAPSIT) invites individuals from the planetary
+science community to apply for membership in the Geologic Mapping
+Subcommittee (GEMS). To respond to this solicitation, a 2-page CV and
+250-word statement of interest must be submitted by July 1, 2022.
+Applicants need not be a member of MAPSIT to apply. Visit this link for
+more information, including where to submit applications:
+
+https://www.lpi.usra.edu/mapsit/reports/GEMS_Call_for_Membership_2022.pdf
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PHD POSITION IN SPACE RESEARCH/MASS SPECTROMETRY AT UNIVERSITY OF BERN,
+SWITZERLAND
+
+Comet Interceptor (CI), the new F-class mission of the European Space
+Agency, is currently under development to fly past a pristine comet.
+The University of Bern is the lead institute of the mass spectrometer
+suite MANiaC (Mass Analyzer for Neutrals in a Coma) which is dedicated
+to the investigation of the gas coma surrounding the comet's nucleus.
+
+The PhD contains both theoretical and lab work as well as the study of
+comets and spacecraft instrumentation. The project focuses on the
+characterization of the MANiaC time-of-flight mass spectrometer and
+pressure/density gauge. The work includes testing of the ion-optical
+design, ion source, detector, and characterization of the different
+instrument models and subunits of MANiaC.
+
+The position requires a Master of Science degree in physics or a
+closely related field in engineering. Experience in instrumentation,
+lab work, and programming languages are an advantage. Interested
+applicants should send their curriculum vitae (including professional
+experience), a one-page motivation letter, the contact details of two
+reference persons, and grades obtained at the Master level to Dr.
+Martin Rubin (martin.rubin@unibe.ch).
+
+https://tinyurl.com/2rnh4nf4
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PHD POSITION: EXPERIMENTAL SPACE RESEARCH
+
+The Space Research and Planetology Division, University of Bern,
+Switzerland, is seeking a PhD student to join the group for the JUICE
+mission to Jupiter and its icy moons. We are participating in the JUICE
+mission with a neutral gas and ion mass spectrometer (NIM), which will
+measure the chemical composition of the atmospheres of Jupiter's icy
+moons: Europa, Ganymede, and Callisto. Experience with electronics,
+measurement techniques, vacuum instrumentation, ion-optical simulation,
+and mass spectrometry would be of advantage. Several tests, and
+calibrations with the flight spare instrument and the ground reference
+instrument are planned, using fast neutral beams and low-energy ion
+beams.
+
+The position is available beginning 1 October 2022. Candidates with
+demonstrated experience in experimental work will be favoured. The
+salary is in accordance with the personnel regulations of the Canton of
+Bern. Submit your application by 29 July 2022 as a single pdf file
+consisting of a cover letter describing your motivation and
+qualifications for the position, a CV, list of your publications, and
+names of three references.
+
+https://tinyurl.com/3p7dm2e2
+
+Applicants should contact: Peter Wurz (peter.wurz@unibe.ch) or Martina 
+Fohn (martina.foehn@unibe.ch) 
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SCIENTIFIC DATA ANALYST WITH THE MAVEN IMAGING ULTRAVIOLET SPECTROGRAPH 
+TEAM
+
+The Imaging Ultraviolet Spectrograph (IUVS) team on the MAVEN mission
+is seeking a talented data analyst. IUVS has made important discoveries
+about the Mars atmosphere, including escape and evolution, aurora,
+nightglow, photochemistry, composition, dynamics and cloud formation,
+and more discoveries are anticipated.
+
+Responsibilities include: Data analysis and interpretation, scientific
+programming, interpretation, presentation of results at conferences and
+in publications. Mentoring junior team members and software support.
+Mission operations.
+
+Position requirements include: Bachelor's or Master's degree in
+astronomy, physics, earth science, computer science or related area.
+Experience in scientific programming in python or IDL. Work with remote
+sensing data, retrievals, image processing. Experience with graphical
+data representation and scientific visualization.
+
+Desired qualifications include: Familiarity with planetary science,
+earth science or astrophysics through coursework or experience, and
+best practices for version control for code and data products.
+
+Inquiries to nick.schneider@lasp.colorado.edu. Please apply by 15 July
+at:
+
+https://jobs.colorado.edu/jobs/JobDetail/?jobId=39804
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JOB ANNOUNCEMENT: SPACE REMOTE SENSING AND DATA SCIENCE GROUP LEADER
+
+Los Alamos National Laboratory is seeking a highly motivated scientific
+and engineering leader with expertise and experience in remote sensing,
+data science, and space research. ISR-6 develops and deploys
+sophisticated and customized detection systems and analysis tools to
+address needs in our key mission areas of nuclear non-proliferation,
+space domain awareness, atmospheric science, planetary science and
+exploration, and multi-source intelligence. To develop and deploy these
+tailored solutions, we leverage our core capabilities in:
+
+- spectral, spatial, and temporal sensing (acoustic, optical, infrared, 
+  RF, and x-rays); 
+- source phenomenology modeling, interpretation, and
+  propagation; 
+- data analysis, algorithm development and machine learning;
+- detector and system design, development, and deployment (ground,
+  airborne and space-based platforms).
+
+Our portfolio includes high impact scientific efforts such as the
+ChemCam and SuperCam experiments on NASA's Curiosity and Perseverance
+rovers, NASA's NACHOS hyperspectral cubesat missions, the RAPid
+Telescopes for Optical Response (RAPTOR) which is an array of
+"thinking" telescopes for time-domain astronomy, ultra-low light
+imaging systems such as the Remote Ultra-low Light Imaging (RULLI)
+system.
+
+https://tinyurl.com/jvnsyckr
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+January 9-11, 2023
+1st Workshop on Ices in the Solar System
+https://www.hou.usra.edu/meetings/ices2023/
+Montreal, Canada
+
+June 11-12, 2022
+ExoPAG 26
+https://exoplanets.nasa.gov/exep/events/375/exopag-26/
+Pasadena, CA
+
+November 8-10, 2022
+Planetary Formation and Exoplanets with the ELT
+https://elt-exoplanets.sciencesconf.org
+Frejus, France
+
+January 9-11, 2023
+A Volatile-Excursion from Mercury and the Moon to the Kuiper Belt and Beyond
+https://www.hou.usra.edu/meetings/ices2023
+Montreal, Canada
+
+July 3-7, 2023
+Complex Planetary Systems II (CPS II): Latest Methods for an Interdisciplinary Approach
+https://www.iau.org/science/meetings/future/symposia/2746/
+Namur, Belgium
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.] 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Rover-mounted Hydrated Mineral Detector for Mars Exploration: A
+Preliminary Report
+Soon Sam Kim et al. 2022 PSJ 3:144
+https://doi.org/10.3847/PSJ/ac6e5f
+
+Estimation of Crust and Lithospheric Properties for Mercury from High-
+resolution Gravity and Topography
+Sander Goossens et al. 2022 PSJ 3:145
+https://doi.org/10.3847/PSJ/ac703f
+
+Variability in Titan's Mesospheric HCN and Temperature Structure as
+Observed by ALMA
+Alexander E. Thelen et al. 2022 PSJ 3:146
+https://doi.org/10.3847/PSJ/ac7050
+
+Pre- and Post-entry, Descent and Landing Assessment of the Martian
+Atmosphere for the Mars 2020 Rover
+Michael A. Mischna et al. 2022 PSJ 3:147
+https://doi.org/10.3847/PSJ/ac7148
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,430 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 17 (April 17, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Project Scientist Position at NASA MSFC
+2. [NASA] ROSES-16 Amendment 6: Step-2 Due Date Delayed for C.9 the 
+   Mars Data Analysis Program
+3. GSI Session P8: Tectonics and Igneous Activity
+4. [NASA] Call for Letters of Application for Membership on NASA's 
+   Science Instrument Definition Team for GHAPS
+5. Summer School in Software Systems for Astronomy
+6. Registration Extension for the 4th European Lunar Symposium
+7. OPAG Meeting - New Steering Committee Members Sought
+8. [NASA] Martian Moons eXploration (MMX) Mission SALMON-2 Community 
+   Announcement
+9. [NASA] Water World Additions to PICASSO, MatISSE, and PSTAR and
+   Delay of MatISSE Due Dates
+10. SPICE Training Announcement
+11. Dusty Visions Workshop 2016
+12. PDS LOLA Data Release
+13. Key Deadlines Approaching for Next Generation Suborbital 
+    Researchers Conference (NSRC) 2016
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PROJECT SCEINTIST POSITION AT NASA MSFC 
+
+The Heliophysics and Planetary Science Office at NASA Marshall Space 
+Flight Center anticipates filling a Planetary Scientist civil service 
+position within the next several weeks. The candidate will fill a 
+project scientist position for the Space Launch System (SLS), 
+providing relevant expertise on Solar System destinations for human 
+and robotic exploration, and become a part of the MSFC Planetary 
+Science group focused on geologic investigation of planets, asteroids, 
+and/or moons. We are especially interested in adding capability in 
+remote sensing of solid surfaces to complement our existing expertise 
+in geochronology and geophysics. The candidate is expected to bring 
+or build a strong independent scientific research program through 
+peer-reviewed proposals to NASA programs and/or through involvement 
+in NASA planetary missions.
+
+All candidates must use the USAJobs website:
+
+USAJobs.gov 
+
+to prepare and submit applications, and United States citizenship is 
+required to be eligible. We anticipate filling the position at the 
+GS-13 level with a starting date in mid-2016. Formal job posting will 
+be announced when available. Informal inquiries can be directed to:
+ 
+Dr. Barbara Cohen 
+MSFC Planetary Sciences 
+barbara.a.cohen@nasa.gov 
+256-961-7566. 
+
+A how-to guide for preparing responsive applications using the 
+USAJobs.gov site will be provided upon request.
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-16 AMENDMENT 6: STEP-2 DUE DATE DELAYED FOR C.9 THE MARS 
+DATA ANALYSIS PROGRAM 
+
+On or about April 11, 2016, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2016" (NNH16ZDA001N) will be posted on the NASA research 
+opportunity homepage at 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2016
+
+to
+
+This amendment is posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+and 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2016
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GSI SESSION P8: TECTONICS AND IGNEOUS ACTIVITY
+
+The Geological Society of Italy (GSI; founded in 1881) is having 
+planetary geology together with terrestrial geology topics in the 
+same sessions with the aim of favouring interdisciplinary dialogue 
+and collaborations. A complete list of the available sessions, 
+conveners and keynote speakers is available for each session can be 
+found here:
+
+http://www.sginapoli2016.it/home/index.php/en/2016-01-15-21-14-07/
+session-list
+
+The 88th Conference of the GSI will be held in Naples, 7-9 September 
+2016, with a rich programme of excursions in the fantastic 
+surroundings of the city, including the Vesuvius and the Campi 
+Flegrei. All the relevant information can be found here:
+
+http://www.sginapoli2016.it/home/index.php/en/ 
+
+I would like to draw your attention to session P8, which will also 
+include planetary volcanism and tectonics. This session will discuss 
+the current state of knowledge about the interaction between tectonics 
+and igneous activity in different geodynamic settings, with a focus on 
+mid-plate settings and subduction zones. We invite contributions from 
+a broad range of Earth and planetary scientists, who employ different 
+techniques to assess various magma-tectonic processes in ancient and 
+recent tectonic settings, and the relationships between volcanism and 
+tectonic structures at global, regional or local scale.
+ 
+Best regards,
+
+Giovanni Leone
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] CALL FOR LETTERS OF APPLICATION FOR MEMBERSHIP ON NASA'S SCIENCE 
+INSTRUMENT DEFINITION TEAM FOR GHAPS
+
+NASA's Planetary Science Division (PSD) invites scientists and other 
+qualified and interested individuals to apply for membership on GHAPS 
+Science Instrument Definition Team (SIDT) to help define instrument 
+priorities for a stratospheric balloon gondola telescope that will 
+serve as a community asset for future planetary science observations.
+
+Applications should submit a one-page letter describing interest and 
+qualifications, as well as a one-page Curriculum Vitae (both in pdf 
+format). The letter should also contain a statement confirming the 
+applicant's time availability during the one month time period to 
+participate on the SIDT, particularly if there are any major schedule 
+constraints that may restrict engagement at critical times. The 
+expected activities include the following:
+
+- Teleconferences beginning approximately the week of May 23, 2016; 
+- A potential face-to-face meeting in June 2016 in the Washington, 
+  DC area (SIDT members provide their own travel support);
+- Preparation and review of materials for the final report;
+- Additional meetings/telecons as appropriate.
+
+Deadline: May 6, 2016 (11:59 p.m. ET)
+Submit letters to Rob Landis at rob.r.landis@nasa.gov
+Subject Line: GHAPS SIDT Application
+
+For more information, go to:
+
+https://www.facebook.com/groups/padawans4planets/permalink/
+963459787086689/
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SUMMER SCHOOL IN SOFTWARE SYSTEMS FOR ASTRONOMY
+
+The University of Hawaii'i at Hilo Physics and Astronomy Department 
+offers the two week course (July 25 - August 5). The course covers 
+software design and implementation of telescope and instrument control 
+systems, observation planning tools, and software for analyzing and 
+archiving astronomical data. A full course description and instructions 
+for enrollment are given at:
+
+http://phys.uhh.hawaii.edu/Summer2016/summer2016.php
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REGISTRATION EXTENSION FOR THE 4TH EUROPEAN LUNAR SYMPOSIUM
+
+The 4th European Lunar Symposium will take place at the Trippenhuis 
+(Dutch Royal Academy of Arts and Sciences), Amsterdam, The Netherlands 
+on Wed, 18th May and Thu, 19th May, 2016 (pre-registration on the 
+evening of Tue 17th May, 2016). 
+
+The registration deadline has been extended to April 29th. Space is 
+limited, therefore the organizing committees suggest that you register 
+now to insure your participation.
+
+A global surge in lunar exploration has thrust lunar science and 
+exploration back into the limelight once again. Current interests in 
+the exploration of the Moon range from astronomical, astrophysical, 
+geological, commercial, resource utilization, and strategic 
+considerations, to its use as an outpost for future human exploration 
+of the Solar System. One of the main aims of this meeting is to bring 
+together the European scientific community interested in various 
+aspects of lunar exploration. In addition, lunar experts from 
+countries engaged in launching lunar missions are also invited to 
+attend this meeting.
+
+Further information relating to abstract submission, registration etc. 
+will be made available via the meeting website which is located at: 
+
+http://sservi.nasa.gov/els2016/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPAG MEETING - NEW STEERING COMMITTEE MEMBERS SOUGHT
+
+The next OPAG meeting will be August 11-12 at Little America in 
+Flagstaff, AZ. If you would like to make a presentation (including 
+science nuggets), please contact OPAG chair Alfred McEwen 
+(mcewen@lpl.arizona.edu).
+
+OPAG needs five new members for the steering committee because of 
+rolloffs from time expiration and other commitments. We will accept 
+nominations (including self-nominations) consisting of one paragraph 
+about how your involvement will benefit OPAG, plus your CV, sent to 
+mcewen@lpl.arizona.edu. The OPAG committee will vote on who to add, 
+considering how to maintain balance between science disciplines, 
+planetary objects, and institutions, to retain expertise in relevant 
+technologies, and to promote diversity. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] MARTIAN MOONS EXPLORATION (MMX) MISSION SALMON-2 COMMUNITY
+ANNOUNCEMENT
+ 
+NASA's Science Mission Directorate (SMD) intends to release a Program 
+Element Appendix (PEA) to the Stand Alone Missions of Opportunity 
+Notice (SALMON-2) on or about June 1, 2016. This PEA will solicit 
+proposals for one instrument investigation to be implemented on the 
+Martian Moons eXploration (MMX) mission, which is being developed by 
+the Japan Aerospace Exploration Agency (JAXA) for launch in 2022. 
+NASA SMD intends to solicit proposals for one Principal Investigator 
+(PI)-led science investigation involving the development of a Neutron 
+and Gamma-Ray Spectrometer instrument, to be integrated with and 
+deployed on the MMX spacecraft. 
+ 
+Questions regarding this announcement may be addressed to: 
+
+Dr. Thomas S. Statler
+MMX Program Scientist
+Science Mission Directorate
+NASA Headquarters
+Washington, DC 20546-0001. 
+
+E-mail may be sent to:
+ 
+Thomas.S.Statler@nasa.gov
+
+with the subject line should consist of the character string 
+"MMX PEA" (without quotation marks).
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] WATER WORLD ADDITIONS TO PICASSO, MATISSE, AND PSTAR AND 
+DELAY OF MATISSE DUE DATES
+
+The Planetary Instrument Concepts for the Advancement of Solar System 
+Observations (PICASSO) and Maturation of Instruments for Solar System 
+Exploration (MatISSE) Programs support the development of spacecraft-
+based instruments. Planetary Science and Technology Through Analog 
+Research (PSTAR) program supports investigations focused on exploring 
+the relevant environments on Earth in order to develop a sound 
+technical and scientific basis to conduct planetary research on other
+solar system bodies. Amendment 7 adds text to those program elements 
+noting that instruments focused on the detection of extant life in the 
+"Ocean Worlds" of the outer Solar System are especially of interest 
+and will be considered for separate funding from the Outer Planets 
+and Ocean Worlds Program.
+
+The due dates for MatISSE have changed. MatISSE Step-1 proposals are 
+now due May 20, 2016 and Step-2 proposals are now due July 21, 2016.
+ 
+Questions concerning program element PICASSO may be directed to 
+James Gaier (james.r.gaier@nasa.gov).
+
+Questions concerning program element MatISSE may be directed to 
+William B. Cook (william.b.cook@nasa.gov).
+
+Questions concerning program element PSTAR may be directed to
+Sarah Noble (sarah.noble-1@nasa.gov) or Mary Voytek 
+(mary.voytek-1@nasa.gov).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SPICE TRAINING ANNOUNCEMENT
+
+The ESAC SPICE Service and the Navigation and Ancillary Information
+Facility (NAIF) will conduct a SPICE observation geometry training
+class on September 12-15, 2016 in Madrid, SPAIN. SPICE at ESAC is
+described at:
+
+http://www.cosmos.esa.int/web/spice/home
+
+The class is free and open to all professionals and students involved
+in Solar System exploration. Further information about the class and
+the class registration form are found at:
+
+http://www.cosmos.esa.int/web/spice/training-class-september-2016
+
+Registration is due by June 30, 2016.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DUSTY VISIONS WORKSHIP 2016
+
+The 2016 Dusty Visions Workshop will be held in Boulder, CO, July 
+22nd-24th. We plan on having a discussion heavy workshop on the 
+current studies and future direction of cosmic dust research. 
+Registration deadline is May 1st, with an Abstract Deadline of June 
+1st, a registration fee of $90 will be due at the door. To register 
+send Full name, Institution, City, and Country to 
+michelle.villeneuve@colorado.edu. For more information, 
+please visit:
+
+http://impact.colorado.edu/DustyVisions2016.html
+
+Thanks,
+Michelle Villeneuve
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PDS LOLA DATA RELEASE
+
+The Planetary Data System (PDS) announces the release of a new data set
+from the LOLA instrument on the Lunar Reconnaissance Orbiter. The LOLA 
+Radiometry (RADR) data set contains along-track profiles of normal 
+albedo, the radiance of the Moon at zero phase angle relative to a 
+Lambert surface illuminated normally, calculated from LOLA altimetry 
+data acquired during the Nominal Mission phase.
+
+LOLA RADR data may be obtained from the PDS Geosciences Node at:
+
+http://pds-geosciences.wustl.edu/missions/lro/lola.htm
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+KEY DEADLINES APPROACHING FOR NEXT GENERATION SUBORBITAL RESEARCHERS 
+CONFERENCE (NSRC) 2016
+
+This year's Next Generation Suborbital Researchers Conference 
+(NSRC-2016) will be held at the Omni Interlocken Resort, in 
+Broomfield, Colorado, on June 2-4, 2016, with a welcome reception on 
+June 1. Key deadlines for meeting participation are rapidly 
+approaching, these are: 
+
+Poster Abstracts Submission: Deadline April 28th
+Early-Bird (Discounted) Meeting Registration: Deadline April 29th
+Hotel Room Reduced Rate Registration: Deadline May 1st
+
+Topics discussed at NSRC-2016 will include flight provider status, 
+regulatory issues, NASA's flight opportunities program, as well as 
+applications including planetary science, astronomy and solar physics, 
+atmospheric science, microgravity sciences, education, public outreach, 
+life sciences, suborbital and commercial markets and policy, 
+technology, and technology testing.
+
+All contributed abstracts this year will be for posters to maximize 
+the time needed to have practical provider and NASA/FAA discussions 
+and networking, which will be focused on maturing payload ideas into 
+actual suborbital flights. NSRC plans to accept ALL poster 
+contributions that relate to next-gen suborbital research and 
+education.
+
+To learn more about the conference, to register, and to submit an 
+abstract, visit: 
+
+http://nsrc.swri.org
+
+[Edited for length.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 7-9, 2016
+88th Congress of the Italian Geological Society
+http://www.sginapoli2016.it
+Naples, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

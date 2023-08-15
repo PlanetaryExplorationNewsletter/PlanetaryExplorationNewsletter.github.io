@@ -1,0 +1,332 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 14 (March 23, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. [NASA] PDS - Mars Science Laboratory Data Release 4
+2. [NASA] ROSES-14 Change in Due Dates for Planetary Protection 
+   Research (PPR)
+3. NASA Postdoctoral Fellowships
+4. Postgraduate Opportunities in Planetary Geomorphology
+5. First Announcement: NASA Technology Workshop for the Discovery 
+   2014 AO
+6. Education Opportunities in NASA STEM (EONS)
+7. Broad Agency Announcement (BAA) – Asteroid Redirect Mission
+8. Call for Abstracts: "Commercial Exploration of Asteroids &
+   Comets: a Paradigm Shift in Small Body Science" 
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS - MARS SCIENCE LABORATORY DATA RELEASE 4
+
+The NASA Planetary Data System announces the fourth release of data 
+from the Mars Science Laboratory (MSL) mission, covering data 
+acquired from Sol 360 through Sol 449 (August 10 through November 10, 
+2013).
+
+This release consists of raw and derived data sets from the 
+following instruments:
+Alpha Particle X-ray Spectrometer (APXS)
+Chemistry & Micro-Imaging (ChemCam)
+Chemistry and Mineralogy (CheMin)
+Dynamic Albedo of Neutrons (DAN)
+Hazard Avoidance Cameras (Hazcam)
+Mars Hand Lens Imager (MAHLI)
+Mars Descent Imager (MARDI)
+Mast-mounted Cameras (Mastcam)
+Navigation Cameras (Navcam)
+Radiation Assessment Detector (RAD)
+Rover Environmental Monitoring Station (REMS)
+Sample Analysis at Mars (SAM)
+Spacecraft, Planet, Instrument, Pointing C-Matrix, and Event kernels 
+  (SPICE)
+
+To access the above data:
+
+http://pds.nasa.gov/subscription_service/SS-20140317.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node 
+web site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+The data may also be reached from the main PDS home page:
+
+http://pds.nasa.gov/
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching MSL archives:
+The Planetary Image Atlas at the Imaging Node:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node:
+
+http://an.rsl.wustl.edu/msl
+
+pds_operator@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-14 CHANGE IN DUE DATES FOR PLANETARY PROTECTION RESEARCH 
+(PPR) 
+ 
+Amendment 8 changes the due date for C.15, PPR. This program is one 
+of the few calls in Planetary Science that does not use the two-step 
+proposal submission process. Notices of Intent (NOIs) are requested 
+by June 27, 2014, and proposals are due September 5, 2014.
+ 
+On or about March 19, 2014, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2014" (NNH14ZDA001N) will be posted on the NASA research 
+opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2014
+ 
+Questions concerning C.15, PPR, may be addressed to:
+
+Catharine Conley
+Planetary Protection Officer
+
+(202) 358-3912
+HQ-PPR@mail.nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18212
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/1fuCwZG
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTGRADUATE OPPORTUNITIES IN PLANETARY GEOMORPHOLOGY
+
+Postgraduate opportunities in planetary geomorphology (aeolian, rock 
+breakdown) are available at Trinity College Dublin, Ireland. 
+
+Initial deadline is April 6th, 2014. Details are available at: 
+
+http://earthandplanetary.wordpress.com/graduate-opportunities/
+ 
+Dr. Mary C. Bourke,
+Division of Geography
+Trinity College
+Dublin 2, Ireland
+
+Phone: +353 1 896 1888
+bourkem4@tcd.ie
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+FIRST ANNOUNCEMENT: NASA TECHNOLOGY WORKSHOP FOR THE DISCOVERY 2014 AO
+
+In the upcoming Discovery 2014 Announcement of Opportunity, NASA is 
+considering offering as Government-Furnished Equipment a number of 
+NASA-developed technologies. In preparation for this, NASA's Science 
+Mission Directorate and Space Technology Mission Directorate are co-
+hosting a "Technology Workshop."  The goal of this event is to educate 
+the potential proposing community on each technology being offered and 
+inform how each technology will be supported to the proposal team.
+ 
+All expenses and arrangements for attending this meeting are the 
+responsibility of the attendees. Travel costs are not allowable as 
+direct costs under another Federal Government award. Government 
+employees may attend and be authorized travel and associated costs as 
+a matter of official business.
+ 
+Details of the workshop are being finalized for the week of April 7, 
+with a target date of Wednesday, April 9, 8:30 AM to 6:30 PM.  
+Information will be available at: 
+
+http://discovery.larc.nasa.gov/
+
+The workshop will be divided into two sections: briefings on each 
+technology offering in the morning and the opportunity for small-group 
+meetings in the afternoon. In order to reach the widest audience 
+possible, each briefing will also be webcast.
+ 
+Leonard A. Dudzinski
+Michael H. New
+Ryan Stephan
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EDUCATION OPPORTUNITIES IN NASA STEM (EONS)
+
+NASA's Office of Education is accepting new proposals under the 
+Education Opportunities in NASA STEM (EONS) 2014 NASA Research 
+Announcement for Educator Professional Development (EPD) appendix.
+ 
+EPD is designed to provide high quality STEM professional development 
+opportunities for formal and informal educators capitalizing on NASA's 
+unique assets and capabilities. Pre-service, in-service, and informal 
+educators working with grades K-20 and higher education faculty are 
+considered customers and clients who derive benefits from EPD 
+opportunities. EPD was established to consolidate historically diverse 
+components into a focused effort to ensure operational efficiency 
+while optimizing strategies, methods, and technologies that promote 
+and foster educators' use of NASA-related content in their 
+instructional activities. Proposals are due June 18, 2014.
+ 
+For more information regarding these opportunities, please visit the 
+NASA EONS page on the NSPIRES website.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+BROAD AGENCY ANNOUNCEMENT (BAA) – ASTEROID REDIRECT MISSION
+
+NASA released the Asteroid Redirect Mission Broad Agency Announcement, 
+accessible at: 
+
+https://prod.nais.nasa.gov/cgibin/eps/sol.cgi?acqid=159813#Other 01
+ 
+During the March 26 Asteroid Initiative Opportunities Forum NASA will 
+discuss the objectives of the BAA and gain feedback on it and other 
+opportunities for involvement with the asteroid initiative.
+ 
+The maximum seating capacity for the forum has been reached, and there 
+is a waiting list for onsite attendance. If you are currently 
+registered to attend and your availability has changed, please notify 
+NASA your seat may be offered to an individual on the waiting list.
+ 
+For virtual attendees, please tune in to the live broadcast on NASA 
+TV, and join the conversation via Twitter with the hashtag #AskNASA.
+ 
+Learn more about the Asteroid Initiative Opportunities Forum here: 
+
+http://www.nasa.gov/asteroidforum
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+CALL FOR ABSTRACTS: "COMMERCIAL EXPLORATION OF ASTEROIDS & COMETS: A 
+PARADIGM SHIFT IN SMALL BODY SCIENCE" 
+
+Session SB11/MTI9 at EPSC 2014
+Abstracts are due 06 May 2014.
+
+This session will focus on the changing emphasis of scientific
+investigation of small bodies, which will develop with the movement
+towards mining in space and the consequent increase in flight
+opportunities and opportunities for piggyback rides for instruments 
+that might otherwise be regarded as too experimental. Mining planning
+introduces a requirement for information on structure and strength at
+large and small scales. The other driver in the new paradigm for
+asteroidal and comet studies, which overlaps with this, is the
+increasing interest in body models and structure for Planetary 
+Defense. Contributions are sought from the asteroid mining actors and 
+the planetary science community.
+
+Commercial exploration missions could significantly influence how
+research on asteroids and comets is conducted. New opportunities for
+collaborations will eventually arise. Becoming the first dedicated 
+event about this topic in a European scientific forum, the session's
+intention is to start a discussion and encourage substantial 
+activities in the field in Europe.
+
+Further information & abstract submission:
+
+http://meetingorganizer.copernicus.org/EPSC2014/session/16801
+
+European Planetary Science Conference 2014
+Cascais, Portugal
+07-12 September 2014
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 30 - July 4, 2014
+The Outer Regions of Extrasolar Planetary Systems
+http://eas.unige.ch/EWASS2014/session_display.jsp?id=S2
+Geneva, Switzerland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

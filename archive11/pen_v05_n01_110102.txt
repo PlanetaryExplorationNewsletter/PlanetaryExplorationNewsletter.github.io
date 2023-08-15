@@ -1,0 +1,184 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 5, Number 1 (January 2, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Lunar Reconnaissance Orbiter Data Release 4
+2. [NASA] Strategic Astrophysics Technology
+3. Workshop on Identifying NEO Targets for Human Exploration
+4. Upcoming Meeting to Focus on Roadmap for Small Bodies Exploration 
+   and Technology Needs
+5. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LUNAR RECONNAISSANCE ORBITER DATA RELEASE 4
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA and LROC.  Mini-RF and 
+SPICE data will be released shortly.
+
+In general, LRO Release 4 includes data collected between June 15 
+and September 14, 2010.
+
+The following data sets will include revisions of previously 
+released products, as explained in the errata.txt file for each 
+data set:
+
+LOLA EDR, RDR, GDR: all previously released data revised
+LEND EDR, RDR: data products acquired July 3-June 14, 2010 are revised
+Diviner RDR: data products acquired July 5-June 15, 2010 are revised
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20101215.html
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria. 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/                     
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] STRATEGIC ASTROPHYSICS TECHNOLOGY
+
+This program element solicits proposals for focused development of 
+technologies that feed into and enable missions in the three science 
+program areas of the Astrophysics Division: Exoplanet Exploration, 
+Physics of the Cosmos, and Cosmic Origins. The Strategic Astrophysics 
+Technology (SAT) program is designed to address the mid-TRL "gap" 
+between TRL levels 4 and 6. The goal of the SAT program is to support 
+the maturation of technologies whose feasibility has already been 
+demonstrated to the point where they can be incorporated into NASA 
+flight missions.
+
+Through this amendment, the areas of emphasis for strategic investment 
+in technology development for NASA's astrophysics programs have been
+revised in response to the Astro2010 Decadal Survey, New Worlds, 
+New Horizons. Specifically, Sections 2-4 of ROSES-10, Appendix D.11 
+contain descriptions of revised areas of technology development that 
+are of particular interest to NASA.
+
+NOIs due January 28, 2011. 
+Proposals due March 25, 2011. 
+
+Amendment NNH10ZDA001N is posted at:
+
+http://nspires.nasaprs.com/ 
+
+(select "Solicitations" then "Open Solicitations" then "NNH10ZDA001N") 
+ 
+RSS feed at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2010
+
+Further information is available from:
+Dr. Douglas Hudgins
+(202) 358-0988
+Douglas.M.Hudgins@nasa.gov
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+WORKSHOP ON IDENTIFYING NEO TARGETS FOR HUMAN EXPLORATION
+
+Date: February 22, 2011
+Location: George Washing University, Washington DC
+Registration:  http://www.gwu.edu/~spi/symposiumrsvp.cfm
+
+The Open Global Community NEO Workshop is being held to discuss our 
+knowledge of the NEO population and the extent to which we have 
+sufficient known targets to guarantee reasonable accessibility by 
+humans. This involves mission design constraints such as delta-velocity 
+and mission duration and corresponding quantification of risks. 
+Requirements will be determined for expanding our knowledge of the 
+NEO population and its characteristics to meet human exploration needs.
+A report will be generated for major stakeholder review and 
+consideration.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+UPCOMING MEETING TO FOCUS ON ROADMAP FOR SMALL BODIES EXPLORATION AND 
+TECHNOLOGY NEEDS
+
+The Fourth Meeting of the NASA Small Bodies Assessment Group is being 
+held in Washington DC from January 24-26. The first part of the meeting 
+will be a Technology Forum on Small Body Scientific Exploration, to 
+overview technology needs and the drivers for new science by technology 
+and new technology by science. The second part of the meeting will be 
+devoted to reviewing and discussing sections of the Roadmap for Small 
+Bodies Exploration. This will be a living document supported by the 
+small bodies community to provide ongoing input to NASA for the 
+exploration of asteroids, comets, the Kuiper Belt and other small 
+solar system bodies. It will be updated as new studies are released 
+such as the planetary decadal survey and as new discoveries are made 
+that may shift our exploration focus and emphasis. 
+
+For more information about this meeting, including the agenda and 
+registration meeting, please go to:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+There is no registration fee.
+
+Mark Sykes
+Chair, NASA Small Bodies Assessment Group
+sykes@psi.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 22, 2011
+Open Global Community NEO Workshop
+http://www.gwu.edu/~spi/symposiumrsvp.cfm
+Washington, DC
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

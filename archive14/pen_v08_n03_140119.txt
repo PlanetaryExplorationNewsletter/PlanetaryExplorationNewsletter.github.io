@@ -1,0 +1,429 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 8, Number 3 (January 19, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Draft ROSES 2014 Calls Available for Public Comment
+2. Student Summer Internships at Johns Hopkins University Applied 
+   Physics Laboratory
+3. The 65th International Astronautical Congress in Toronto, Canada
+4. [NASA] Hubble Space Telescope Cycle 22 Call for Proposals
+5. Session on "Planetary Surface Processes" at Next RST Meeting
+6. NASA Postdoctoral Fellowships
+7. Asteroids, Comets, Meteors 2014 (ACM'2014)
+8. SHARAD/MARSIS Data Users' Workshop - 45th LPSC
+9. Mars Critical Data Products Program (Round IX) - Mars 2020
+10. Call for Papers: Venus Science and Exploration
+11. Planetary Meeting Calendar Additions
+
+Commercial Announcements
+
+C1. Build a New Horizons Spacecraft of Your Own (Vote for the LEGO 
+    Model)!
+ 
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] DRAFT ROSES 2014 CALLS AVAILABLE FOR PUBLIC COMMENT
+
+The Planetary Science Division has posted draft text for some ROSES 
+2014 calls at:
+
+http://www.lpi.usra.edu/PSD-RandA/ 
+
+and invites feedback from the community. The draft solicitations 
+include all 5 new core programs, as well as solicitations for the 
+Dawn Focused Research Analysis Program, the Cassini Data Analysis and 
+Participating Scientist Program, and the Exoplanets Research Program.  
+Please send any constructive feedback to the Assessment Group (AG) 
+chairs:
+
+For CAPTEM, email Hap McSween  (mcsween@utk.edu)
+For LEAG, email Jeff Plescia (Jeffrey.Plescia@jhuapl.edu)
+For MEPAG, email Serina Diniega (Serina.Diniega@jpl.nasa.gov)
+For OPAG, email: Candy Hansen (cjhansen@psi.edu)
+For SBAG, email: Nancy Chabot (Nancy.Chabot@jhuapl.edu)
+For VEXAG, email: Lori Glaze (Lori.S.Glaze@nasa.gov)
+
+Comments also may be sent to SARA@nasa.gov, and/or may be sent 
+directly to the relevant program officers, whose email addresses are 
+listed at:
+
+http://science.nasa.gov/researchers/sara/program-officers-list/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+STUDENT SUMMER INTERNSHIPS AT JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS 
+LABORATORY
+
+The Johns Hopkins University Applied Physics Laboratory (APL) is 
+offering summer projects for students interested in working on NASA 
+missions or space-related research opportunities at APL. Students 
+will receive a stipend for the 10-week program, and housing will be 
+provided. Visit the website for more information and to apply:
+
+https://www.aplapp.com/
+
+Applications are due January 27, 2014.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+THE 65TH INTERNATIONAL ASTRONAUTICAL CONGRESS IN TORONTO, CANADA
+
+NASA announces its intent to participate in the 65th International 
+Astronautical Congress (IAC) and requests that full-time graduate 
+students attending U.S. universities or colleges respond to this "Call 
+for Abstracts."  The IAC – which is organized by the International 
+Astronautical Federation (IAF), the International Academy of 
+Astronautics (IAA), and the International Institute of Space Law 
+(IISL) – is the largest space-related conference world-wide and selects 
+an average of 1000 scientific papers every year. The upcoming IAC will 
+be held September 29-October 3, 2014 in Toronto Canada. NASA's 
+participation in this event is an on-going effort to continue to bridge 
+NASA with the astronautical and space international community.
+ 
+For more information, see:
+
+http://www.iafastro.com/index.php/events/iac/iac-2014  
+
+and select "IAC 2014 call for papers" for a list of sessions
+ 
+The full text of the abstract must be submitted electronically in the 
+prescribed format to the IAC website at: 
+
+http://www.iafastro.org 
+
+no later than February 24, 2014 and to NASA at: 
+
+http://iac.nasaprs.com 
+
+by February 21, 2014.
+ 
+If you have a question or concern about the programmatic or the 
+electronic submission of your abstract, please email 
+abstract@nasaprs.com and you will receive a response within two 
+business days.
+ 
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+HUBBLE SPACE TELESCOPE CYCLE 22 CALL FOR PROPOSALS
+
+NASA and The Space Telescope Science Institute (STScI) are pleased to 
+announce the Cycle 22 Call for Proposals for Hubble Space Telescope 
+(HST) Observations and funding for Archival Research and Theoretical 
+Research programs. Participation in this program is open to all 
+categories of organizations, both domestic and foreign, including 
+educational institutions, profit and nonprofit organizations, NASA 
+Centers, and other Government agencies.
+ 
+This solicitation for proposals will be open through April 11, 2014 
+8:00pm EDT. The Astronomer's Proposal Tools (APT), which is required 
+for Phase I Proposal Submission will be made available/released for 
+Cycle 22 Phase I use during the 2nd week of February 2014. Results of 
+the selection will be announced by the end of June 2014.
+ 
+All programmatic and technical information, as well as specific 
+guidelines for proposal preparation, are available electronically 
+from the STScI Announcement Web Page:
+ 
+http://www.stsci.edu/hst/proposing/docs/cycle22announce
+ 
+Please take note new operating system requirements for APT (due to a 
+necessary upgrade to Java 7):
+ 
+For Mac see: 
+
+http://www.stsci.edu/hst/proposing/apt/installation/osx
+
+For Linux see: 
+
+http://www.stsci.edu/hst/proposing/apt/installation/linux
+ 
+Questions can be addressed to the STScI Help Desk 
+help@stsci.edu
+410-338-1082
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SESSION ON "PLANETARY SURFACE PROCESSES" AT NEXT RST MEETING
+
+A session on "Planetary Surface Processes" is scheduled at the next 
+Reunion des Sciences de la Terre (RST) (27-31 October 2014, Pau, 
+France). Contributions from the international planetology community 
+are welcome. Abstract submission for this session is now open until 
+15 May: 
+
+http://rst2014-pau.sciencesconf.org/
+
+A description (in French) of the session is available here: 
+
+http://rst2014-pau.sciencesconf.org/conference/rst2014-pau/page_
+resume_theme_1.html#session1.11
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17701   
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/18GSlHK
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ASTEROIDS, COMETS, METEORS 2014 (ACM'2014)
+
+June 30 - July 4, 2014
+Helsinki, Finland
+
+Call for abstracts and registration.
+
+Asteroids, Comets, Meteors focuses on the research of small Solar 
+System bodies. Small bodies are the key to understanding the formation 
+and evolution of the Solar System, carrying signals from pre-solar 
+times. Understanding the evolution of the Solar System helps unveil 
+the evolution of extrasolar planetary systems. Societally, small bodies 
+will be important future resources of minerals. The near-Earth 
+population of small bodies continues to pose an impact hazard, whether 
+it be small pieces of falling meteorites or larger asteroids or 
+cometary nuclei capable of causing global environmental effects. The 
+conference series entitled "Asteroids, Comets, Meteors" constitutes 
+the leading international series in the field of small Solar System 
+bodies.
+
+The ACM'2014 Call for Abstracts and Registration is now open at:
+
+http://www.helsinki.fi/acm2014/
+
+Abstracts and registration are due by March 31, 2014.
+
+Looking forward to seeing you in Helsinki!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SHARAD/MARSIS Data Users' Workshop - 45th LPSC
+
+The SHARAD/MARSIS Data Users' Workshop is tentatively scheduled for 
+Sunday, March 16, 2014 (before the 45th LPSC) from 3-7 PM at The 
+Woodlands, Texas, Waterway Marriott Hotel and Convention Center. 
+
+The Workshop is hosted by the SHARAD & MARSIS science teams; by the 
+Radar Lab, DIET Dept., Sapienza University of Rome; and by the PDS 
+Geosciences Node. It is sponsored by the University of Texas Institute 
+of Geophysics. 
+
+Radar sounding data from the SHARAD instrument on MRO and the MARSIS 
+instrument on Mars Express have provided a wealth of information on 
+the near-subsurface of Mars. This workshop will:
+
+Provide an introduction to the radar data and explain how to:
+
+- access the data in various forms,
+- locate the data on the planet and pick new targets, 
+- process SHARAD data through a user-friendly Web interface,
+- discriminate between subsurface returns and surface clutter, and
+- use software tools to map subsurface reflectors, 
+
+There is no registration fee; however, attendees are required to 
+register at the Workshop website: 
+
+http://www.ig.utexas.edu/sharad_marsis/ 
+
+Please check this website frequently for further details and the 
+program posting.
+
+Address questions to:
+
+Roger Phillips (roger@boulder.swri.edu)
+Jack Holt (jack@ig.utexas.edu)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS CRITICAL DATA PRODUCTS PROGRAM (ROUND IX) -  MARS 2020
+
+Initial Landing Site Characterization for the Mars 2020 Rover Mission
+ 
+The Mars Exploration Program has issued, in January 2014, a Request for 
+Proposal for round IX of the Mars Critical Data Products program.  This 
+RFP provides support for initial landing site surface, atmosphere, and 
+gravity characterization for the Mars 2020 rover mission. The intent is 
+to convert mission data and numerical simulations into products focused 
+on specific landing site targets (to be provided by the program) that 
+will be useful for reducing the risk to the Mars 2020 rover mission. 
+Proposals are due on Wednesday, March 5, 2014.
+ 
+Details of the RFPs are posted at: 
+
+https://acquisition.jpl.nasa.gov/rfp/WH-2691-120313.htm 
+
+or 
+
+https://acquisition.jpl.nasa.gov/bizops/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+CALL FOR PAPERS: VENUS SCIENCE AND EXPLORATION
+
+Dear Colleagues,
+
+We invite submissions of papers related to Venus science and 
+exploration for a Special Issue of Planetary and Space Science. We 
+particularly solicit papers arising from the International Venus 
+Conference held in Catania in June 2013, but further papers not 
+presented at that conference are very welcome.
+
+Submission for this journal is via: 
+
+http://ees.elsevier.com/pss/default.asp
+
+To ensure that all manuscripts are correctly identified for inclusion 
+into the special issue, please select "SI: Exploration of Venus" when 
+you reach the "Article Type" step in the submission process.
+
+Deadline for submission for this Special Issue will be 28 February
+2014, but of course we welcome earlier submissions!
+
+Please feel free to distribute this announcement widely.
+
+Guest editors: Hakan Svedhem, Colin Wilson, Giuseppe Piccioni
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+March 18-21, 2014
+International Workshop on Scientific Use, Digitization and Preserving 
+Astronomical Photographic Records
+http://www.astroplate.cz/
+Prague, Czech Republic
+
+May 5-9, 2014
+13th International Conference on Space Operations (SpaceOps 2014)
+http://geocalendar.agu.org/meeting/spaceops-2014-13th-international-
+conference-on-space-operations/
+Pasadena, CA
+
+July 29-31, 2014
+NASA Small Bodies Assessment Group Meeting #11
+http://www.lpi.usra.edu/sbag/
+Washington, DC
+
+September 23-27, 2014
+National Conference of Astronomers of Serbia
+http://poincare.matf.bg.ac.rs/~astroweb/nkas17/
+Belgrade, Serbia
+
+September 29 - October 3, 2014
+65th International Astronautical Congress
+http://www.iafastro.com/index.php/events/iac/iac-2014
+Toronto, Canada
+
+October 27-31, 2014
+Réunion des Sciences de la Terre
+http://rst2014-pau.sciencesconf.org/
+Pau, France
+
+November 16-21, 2014
+Triple Evolution & Dynamics in Stellar and Planetary Systems
+http://trendy-triple.weebly.com/
+Haifa, Israel
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+BUILD A NEW HORIZONS SPACECRAFT OF YOUR OWN (VOTE FOR THE LEGO MODEL)!
+
+New Horizons is NASA's New Frontiers mission currently on its way to 
+visit Pluto in July 2015 and boldly proceed on to the outer frontier 
+of our Solar System, the Kuiper Belt.  You can help bring a LEGO© 
+version of the New Horizons spacecraft to life.  If enough votes are 
+received at:
+
+http://lego.cuusoo.com/ideas/view/44093 
+
+and the idea is selected for production, space exploration fans of all 
+ages will have the chance to enjoy their very own model of the fastest 
+spacecraft ever launched.  Your support is needed!
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

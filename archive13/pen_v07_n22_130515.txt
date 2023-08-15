@@ -1,0 +1,219 @@
+PLANETARY EXPLORATION NEWSLETTER - SPECIAL REPORT AND ANALYSIS
+Volume 7, Number 22 (May 15, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o---------------------SPECIAL REPORT AND ANALYSIS---------------------o
+
+NASA OPERATING PLAN FOR FY2013 TO TARGET PLANETARY OVERALL, CUTS 
+RESEARCH AND COMPETED MISSIONS 
+
+CALL TO ACTION: CONGRESSIONAL HELP IS NEEDED, AND CALL NASA TO TASK
+
+Mark V. Sykes
+Planetary Science Institute
+
+In his FY13 budget request, President Obama proposed the NASA Planetary 
+budget be cut by more than 20% from its FY12 level (From $1.5B to less
+than $1.2B). Under the initial Continuing Resolutions covering the 
+first half of the fiscal year, the Administration chose to operate NASA 
+Planetary at this reduced level. Congress restored more than $222M of 
+the President's cut in its FY13 appropriation passed on March 21 and 
+signed into law by the President. Congress's action is now being 
+reversed by NASA and others in the Administration through the 
+preferential application of rescission and sequestration cuts of more 
+than 15% to the NASA Planetary Science budget.
+
+When Congress allocated additional funds, it also specified how they 
+were to be spent in support of Planetary Science Research, Discovery, 
+New Frontiers, Mars Exploration (including MAVEN, MSL, and other Mars 
+activities including a future mission), and Outer Planets (including 
+studies in support of a future Europa mission). Under section 505 of 
+the law, no project can be eliminated or changed by more than 10%, 
+unless House and Senate Committees on Appropriations are notified 15 
+days in advance. That means that if NASA decides the political 
+consequences are minimal, it can pretty much do what it wants as long 
+as notice is given - and that is what is happening.  
+
+After removing essentially all of funds added by Congress to Planetary
+Science, NASA and and others in the Administration have further chosen 
+to reallocate significant funds from present planetary research and 
+Discovery budgets to pay for new studies in support of a future Europa 
+mission. The next Discovery call will certainly be delayed. The impact 
+to research programs will be severe - further reduced selection rates 
+can be anticipated. Might existing awards be retroactively reduced? 
+Damage is made worse by the fact that these cuts are being implemented 
+in the final months of the fiscal year. 
+
+Congress does not compel this action. This is a policy choice of NASA 
+and others in the Obama Administration.
+
+The Operating Plan has yet to be submitted to Congressional Committees
+on Appropriations. It was due on May 10th. I have obtained detailed 
+information on its content from several source documents that 
+collectively reveal a fairly stable state of development with very 
+small tweaks in recent weeks. 
+
+A summary of the Operating Plan and its effects are given in the table
+below. Each row corresponds to a budget line given in the FY13 budget
+bill passed by Congress on March 21. Lunar Quest and Technology were 
+not specifically called out (hence the brackets). 
+
+FY13P = President's proposed budget for fiscal 2013 (the breakdown of
+        Outer Planets in the President's FY13 budget proposal is 
+        inferred from information in the proposed Operating Plan).
+        This is the budget under which NASA Planetary Science has 
+        been operating since October 1, 2012.
+OP    = Operating Plan for fiscal 2013, with rescission and 
+        sequestration applied, to be submitted to Congress 
+Delta = OP - FY13P
+Cong  = Appropriated budget signed into law (without rescission and 
+        sequestration)
+%Cong = Percentage change in appropriated budget proposed by NASA 
+        Operating Plan including rescission and sequestration
+
+Note: All numbers are in $millions. At this point, I expect only small
+adjustments prior to the submission of the Operating Plan to Congress. 
+My apology for any scrivener's errors.
+
+Note: DELTA IS PARTICULARLY IMPORTANT, because it indicates the amount
+of funding being removed or added to the current budget by the
+operating plan. A negative indicates funding that must be removed from 
+a program over the next four months (the end of the current fiscal 
+year).
+
+Note: I understand that the apparent MAVEN reduction is not a cut. It 
+reflects the timing of expenses. These funds continue to be book-kept 
+within Mars exploration with little change to the overall current 
+budget level - though Congress directed a major increase, which has 
+been removed.
+
+                            FY13P   OP   Delta   Cong   %Cong
+
+PLANETARY SCIENCE          1192.3 1196.0  +3.7  1415.0  -15.5
+
+Planetary Science Research  188.5  174.5 -14.0   192.0   -9.1
+Discovery                   189.6  162.9 -26.7   244.0  -33.2
+New Frontiers               175.0  162.7 -12.3   175.0   -7.0
+Mars Exploration            360.8  357.6  -3.2   450.8  -20.7
+- MAVEN                     146.4  127.4 -19.0   146.4  -13.0
+- MSL                        65.0   63.8  -1.2    65.0   -1.8
+- Other Mars Activities     149.4  166.4 +17.0   239.4  -30.5
+Outer Planets                84.0  147.8 +63.8   159.0   -7.0
+- Europa (OP Flagship)     [  3.0]  69.7 +66.7    75.0   -7.1
+- [Other OP Activities]    [ 81.0]  78.1  -2.9
+[Lunar Quest]                61.5   67.0  +5.5
+[Technology]                132.9  123.4  -9.5
+
+
+CONGRESS SHOULD GIVE NASA SPECIFIC DIRECTION FOR A REVISED OPERATING 
+PLAN
+
+(1) Rescission and sequestration should not be preferentially applied 
+to NASA Planetary Science and should not exceed 8%.
+
+(2) Cuts should not result in any Planetary budget line being reduced
+below the President's FY13 budget request, under which the Planetary
+Science Division has been operating since the beginning of the fiscal
+year.
+
+(3) Priority should be given to stabilizing research and data analysis
+programs and improving their selection rates, as well as advancing the 
+date of the next Discovery call.
+
+CONTINUING EVERY LINE AT OR ABOVE THEIR CURRENT FUNDING LEVEL WOULD BE 
+CONSISTENT WITH THE LAW.
+
+This would avoid further damage to existing programs (beyond that 
+already suffered in the first half of the fiscal year) while allowing 
+augmented activities to realize benefit from funds remaining above the 
+President's budget request after rescission and sequestration is 
+applied to the higher budget that was passed by Congress and signed 
+into law.
+
+The planetary community did a great job convincing Congress of the need 
+to take the action it did. There was large support from both Senate and 
+House, Republicans and Democrats. We need once more to engage our 
+elected representatives to preserve what has been a crown jewel of 
+American initiative and achievement - the US solar system exploration 
+program.
+
+Contact the Chairs and Ranking Members of the House and Senate 
+Appropriations Subcommittees on Commerce, Justice, Science and 
+Related Agencies and tell them that a 15% reduction of the FY13 NASA 
+Planetary budget and the damaging reallocation of resources across 
+that budget after reductions is not acceptable. Contact your 
+Representative and Senators and ask them to add their voice to yours 
+in these requests. 
+
+The Subcommittee chairs are:
+
+Sen. Barbara Mikulski (Chair)
+202-224-5202 (Subcommittee #)
+202-224-8858 (Mikulski FAX)
+senator@mikulski.senate.gov
+
+Sen. Richard Shelby (Ranking Member)
+202-224-5202 (Subcommittee #)
+202-224-3416 (Shelby FAX)
+senator@shelby.senate.gov
+
+Rep. Frank Wolf (Chair)
+202-225-3351 (Subcommittee #)
+202-225-1808 (Subcommittee FAX)
+frank@wolfforcongress.com
+
+Rep. Chaka Fattah (Ranking Member)
+202-225-3351 (Subcommittee #)
+202-225-1808 (Subcommittee FAX)
+chaka.fattah@mail.house.gov
+
+Other members of the Senate subcommittee may be found at:
+
+http://www.appropriations.senate.gov/sc-commerce.cfm
+
+Other members of the House subcommittee may be found at:
+
+http://appropriations.house.gov/about/members
+/commercejusticescience.htm
+
+It has been suggested to me by Congressional staff that comments
+should also be directed to NASA. 
+
+NASA Administrator Charles Bolden 
+charles.bolden@nasa.gov
+202-358-1010
+
+Associate Administrator for Space Science John Grunsfeld
+john.m.grunsfeld@nasa.gov
+202-258-3889
+
+This operating plan has yet to be submitted to Congress. In 
+anticipation that whatever is sent will see the bright light of day,
+I hope that NASA and the rest of the Administration will reconsider
+their current plans and make rational modifications consistent with 
+the above. 
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

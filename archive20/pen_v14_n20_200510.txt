@@ -1,0 +1,267 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 20 (May 10, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Odyssey Data Release 71
+2. Update: 2020 In Situ Science and Instrumentation Workshop for the
+   Exploration of Europa and Ocean Worlds
+3. Planetary Missions Concept Studies Announcement
+4. New Mercury Exploration Assessment Group (MExAG) - Call for Steering
+   Committee Nominations
+5. Mars Exploration Science Monthly Newsletter for May 2020
+6. Small Bodies Assessment Group (SBAG) Community Survey for Decadal
+   Report
+7. Postdoctoral or Guest Scientist Positions in Space Physics
+8. Planetary Science Journal - New Papers
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: ODYSSEY DATA RELEASE 71
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Odyssey Data, Release 71, for the following instruments:
+
+  GRS
+  THEMIS
+  RADIO SCIENCE (release 201)
+  SPICE
+
+The gamma sensor component of the GRS instrument suite no longer
+returns data. The HEND and neutron spectrometer components continue to
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200401.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+UPDATE: 2020 IN SITU SCIENCE AND INSTRUMENTATION WORKSHOP FOR THE
+EXPLORATION OF EUROPA AND OCEAN WORLDS
+
+Due to the current situation, the 2020 In Situ Science and
+Instrumentation Workshop for the Exploration of Europa and Ocean Worlds
+has been postponed to a later date. On May 14, 2020 the Europa Lander
+pre-project team will host a virtual presentation from 10 AM - 12 PM
+Pacific. This Webex presentation will cover much of the Europa Lander
+mission concept overview material, and updates on several of the
+technology development efforts that have been ongoing, along with an
+interactive feature to allow for questions from attendees.
+
+Everyone who had registered for the in-person workshop remains on our
+mailing list and will be sent the Webex virtual meeting info. If you
+did not register for the workshop, but are interested in participating
+in this remote meeting, please email us at
+Europainsitu.workshop@jpl.nasa.gov to get a link to be added to our
+mailing list.
+
+For the draft agenda, May 14th presentation, and other information
+please visit:
+
+https://www.europa-insitu.caltech.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY MISSIONS CONCEPT STUDIES ANNOUNCEMENT
+
+The Planetary Mission Concept Studies Workshop previously scheduled for
+March 15, 2020 at LPSC 51 will now take place virtually on May 26-27,
+2020.
+
+For further information and the agenda, please visit:
+
+https://www.hou.usra.edu/meetings/pmcs2020/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NEW MERCURY EXPLORATION ASSESSMENT GROUP (MEXAG) - CALL FOR STEERING
+COMMITTEE NOMINATIONS
+
+The NASA Planetary Science Division (PSD) is pleased to announce the
+formation of a new Mercury Exploration Assessment Group (MExAG). This
+community-based, interdisciplinary body will provide science input and
+analysis needed to plan and prioritize Mercury research and exploration
+activities. Membership of MExAG, and participation in its activities,
+is open to all members of the planetary science and exploration
+community who are interested in the exploration of Mercury.
+
+MExAG is now accepting nominations for its initial Steering Committee.
+See the MExAG website for full information:
+
+https://www.lpi.usra.edu/mexag/
+
+Nominations will close at 11:59pm (EDT) on May 27, 2020 so that the 
+Steering Committee can be in place before the Planetary Science and 
+Astrobiology Decadal Survey White Paper submission deadline.
+
+Steven A. Hauck, II (Case Western Reserve University)
+Chair, MExAG
+
+Shoshana Weider (on behalf of PSD Director, Lori Glaze)
+MExAG NASA Liaison
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MAY 2020
+
+The May 2020 edition of the Mars Exploration Science Monthly Newsletter 
+can be found attached and on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) COMMUNITY SURVEY FOR DECADAL
+REPORT
+
+SBAG has posted a survey that queries the community for opinions on
+research priorities and missions. Please fill it out before May 25,
+2020. It should take about 10 minutes.
+
+https://www.surveymonkey.com/r/sbag_decadal
+
+Bonnie Buratti, for the SBAG Steering Committee
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSTDOCTORAL OR GUEST SCIENTIST POSITIONS IN SPACE PHYSICS
+
+Swedish Institute of Space Physics (IRF) invited applications for
+positions in the field of space plasma physics. The topics of the
+respective positions:
+
+- Investigation of electron dynamics in a cometary ionosphere. The work
+involves analysis of Rosetta data at comet 67P.
+- Particle energization by collisionless shocks at electron scales. The
+work involves analysis of data from Magnetospheric Multiscale mission
+at the Earth's bow shock.
+
+Our team performs observations, data analysis and modelling of space
+plasma processes. The team has decades of experience in developing and
+operating instruments to measure electric fields, plasma temperature,
+density and density fluctuations for spacecraft missions.
+
+The positions are available at IRF's Uppsala office (Angstrom
+Laboratory). Funded by grants from the Swedish National Space Agency
+for 2 years.
+
+Applications: registrator@irf.se
+Reference number: 2.2.1-137/20
+Closing date: 31 May 2020
+
+Information:
+
+https://www.irf.se/en/news/2020/04/29/postdoctoral-or-guest-scientist-positions-in-space-physics-ref-nr-2-2-1-137-20/
+
+Contact:
+Dr. Eriksson: anders.eriksson@irfu.se
+Assoc. Prof. Khotyaintsev: yuri.khotyaintsev@irfu.se
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Recurrent Cometary Activity in Near-Earth Object (3552) Don Quixote
+Michael Mommert et al. 2020 PSJ 1:12
+http://doi.org/10.3847/PSJ/ab8ae5
+
+Mapping the Predicted Solar Wind Hydrogen Flux in Lunar South Pole
+Craters
+Dov J. Rhodes and William M. Farrell 2020 PSJ 1:13
+http://doi.org/10.3847/PSJ/ab8939
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 26-27, 2020
+Planetary Mission Concept Studies Workshop
+https://www.hou.usra.edu/meetings/pmcs2020
+Online
+
+June 15-19, 2020
+Astrochemical Frontiers - Quarantine Edition
+https://sites.google.com/cfa.harvard.edu/astrochemicalfrontiers
+Online
+
+June 24-25, 2020
+Preventing Harassment in Science: Building a Community of Practice Toward Meaningful Change
+https://www.hou.usra.edu/meetings/anti-harassment2020/
+Online
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

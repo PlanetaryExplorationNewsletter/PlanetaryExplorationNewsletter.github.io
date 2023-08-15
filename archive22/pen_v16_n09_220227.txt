@@ -1,0 +1,420 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 9 (February 27, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Post-Doctoral Position on the Effect of Volcanism on the Martian 
+   Climate
+2. [NASA] Call for Reviewers for Informal STEM Education Proposals
+3. [NASA] ROSES-21: OSIRIS-REx Sample Analysis Participating Scientist 
+   Program Step-1 Due Date Delay and New Document Posted
+4. ESA Archival Research Visitor Programme
+5. Postdoctoral Position at JPL
+6. The USGS Astrogeology Science Center is Hiring up to Two Geodesists 
+   (GS-12/13)
+7. Goldschmidt Session 01A: ExPet in Planetary Science
+8. FLOW Coffee Hour: Life Cycle of Missions and How to get Involved
+9. Second Annual NASA Planetary Data System Customer Satisfaction 
+   Survey - 2022
+10. Workshop on In Situ Exploration of the Giant Planets
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL POSITION ON THE EFFECT OF VOLCANISM ON THE MARTIAN 
+CLIMATE
+
+Applications are being solicited for a postdoctoral research position 
+in atmospheric modeling in the planetary geology group at the Jet 
+Propulsion Laboratory. Consideration of applications will begin 
+02/21/2022 and continue until the position is filled. Desired start 
+date between spring and summer 2022. Dr. Laura Kerber will serve as the 
+primary advisor.
+
+Description of the Project: Volcanic eruptions throughout Martian 
+history would have produced voluminous quantities of H2S, SO2, and H2O, 
+which contributed to transient climate perturbations as well as 
+surface reservoirs of ice and sulfate minerals. This goal of this 
+project is to create a complete model of the volcanic sulfur on Mars, 
+including eruption, residence in the atmosphere, photochemical and 
+microphysical evolution, interaction with the water cycle, and 
+deposition on the surface. Many parts of the model are already in 
+place.
+
+Preferred (but not required) qualifications include:
+
+Prior work with large climate models, experience programming in 
+Fortran, understanding of parallel processing/MPI, published research 
+involving volcanic emissions, atmospheric physics or chemistry 
+(especially microphysics of droplets, cloud physics, sulfur species, 
+or photochemistry), or the climate of Mars. Familiarity with French 
+is a plus.
+
+https://tinyurl.com/4px7h6u2
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] CALL FOR REVIEWERS FOR INFORMAL STEM EDUCATION PROPOSALS
+
+The NASA Teams Engaging Affiliated Museums and Informal Institutions 
+(TEAM II) management team is actively recruiting qualified peer 
+reviewers external to NASA to review NASA TEAM II proposals. A diverse 
+reviewer pool is sought, including but not limited to practicing or 
+retired informal education leadership, managers, educators, and 
+evaluators (e.g., informal; youth groups; public outreach), higher 
+education faculty, scientists & engineers with K-12 outreach 
+experience, and other experts (including individuals without a current 
+institutional affiliation).
+
+Please submit your qualifications, interest, and availability - or 
+nominate qualified colleagues at: 
+
+https://informal.jpl.nasa.gov/reviewer  
+
+To volunteer yourself, click the "Register to Be Considered as a 
+Reviewer" link and be prepared to upload your 2-3 page resume. (No 
+resume is necessary to nominate a colleague using the "Suggest 
+Qualified Reviewers" link.) For additional information, a 
+potential reviewer can send questions/inquires to the 
+TEAMII@jpl.nasa.gov - please no phone calls.
+
+Although NASA cannot guarantee an invitation to review will result, 
+we thank you for your consideration and/or referrals. Selected 
+reviewers will be expected to disclose all conflicts of interest, 
+including situations that may give the appearance of bias.
+
+Link to funded projects from previous solicitations: 
+
+https://informal.jpl.nasa.gov/museum/CP4SMP/Map
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-21: OSIRIS-REX SAMPLE ANALYSIS PARTICIPATING SCIENTIST 
+PROGRAM STE-1 DUE DATE DELAY AND NEW DOCUMENT POSTED
+
+The objective of ROSES-21 C.30 the OSIRIS-REx Sample Analysis 
+Participating Scientist Program (ORSA-PSP) is to enhance the scientific 
+return during the sample analysis operational phase of the OSIRIS-REx 
+mission by expanding participation in the mission through new 
+investigations that broaden and/or complement existing investigations. 
+Work solicited by this program element is to enhance, augment, or 
+complement planned mission activities during the sample-analysis phase 
+of the mission.
+
+Amendment 67 announces three things:
+
+1) A new document, the Higher Resolution of SEIWG flow chart - page 33 
+from Sample Analysis Plan (.PDF) has been posted under "Other 
+documents" on the NSPIRES page of C.30 ORSA-PSP.
+
+2) Some browser configurations do not prominently display the scroll 
+bars that allow visitors to the web page to access all of the PDFs 
+posted there.
+
+3) Since some proposers may not have been aware of these documents, 
+the ORSA-PSP Step-1 proposal due date has been delayed to March 7, 
+2022, to give all potential proposers an opportunity to review all 
+of the documents.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+Questions concerning C.30 ORSA-PSP may be directed to Jeffrey N. 
+Grossman at HQ-OREXPSP@mail.nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ESA ARCHIVAL RESEARCH VISITOR PROGRAMME
+
+To increase the scientific return from its space science missions, the
+European Space Agency (ESA) welcomes applications from scientists
+interested in pursuing research projects based on data publicly 
+available in the ESA Space Science Archives.
+
+The ESA Archival Research Visitor Programme is open to scientists, at 
+all career levels, affiliated with institutes in ESA Member States and
+Collaborating States. Early-career scientists, including PhD students, 
+are particularly encouraged to apply.
+
+During their stay, visiting scientists will have access to archives and
+mission specialists for help with the retrieval, calibration, and 
+analysis of archival data. In principle, all areas of space research 
+covered by ESA science missions can be supported.
+
+Residence lasts typically between one and three months, also 
+distributed over multiple visits. Research projects can be carried out 
+at ESAC (Madrid, Spain) and at ESTEC (Noordwijk, Netherlands). To offset 
+the expenses incurred by visitors, ESA covers travel costs and provides
+support for lodging expenses and meals.
+
+Applications received before 1 May 2022 will be considered for visits
+in the following autumn and winter (2022/2023).
+
+For further details, including areas of research and contact 
+information, please refer to:
+
+https://www.cosmos.esa.int/web/esdc/visitor-programme
+
+Questions: arvp@cosmos.esa.int
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL POSITION AT JPL
+
+The postdoctoral research associate will work with Dr. Catherine Elder 
+and Dr. Tom Nordheim to study the interiors of Europa and the Uranian 
+moons. Specifically, the postdoctoral researcher will investigate the 
+plausibility of seafloor volcanism on Europa through mantle convection, 
+magma generation, migration, and eruption modeling. They will also 
+investigate the interior structure and thermal evolution of Miranda and 
+Ariel, with the aim of addressing the question: Do these objects have 
+current or geologically recent subsurface oceans?
+
+We invite applicants with a recent PhD in planetary science, physics, 
+geology, or a related field. We seek someone who has experience in 
+numerical modeling and a strong background in physics. Previous 
+experience studying icy satellites, mantle convection, or geochemistry 
+is preferred but not required. Go to:
+
+https://tinyurl.com/yc4pt9vf
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+THE USGS ASTROGEOLOGY SCIENCE CENTER IS HIRING UP TO TWO GEODESISTS 
+(GS-12/13)
+
+Our mission is to help humanity understand our Solar System by 
+maximizing the scientific and technical return from planetary missions 
+through scientific research, software development, and the creation of 
+spatial data products and standards. To help us achieve that mission, 
+we seek two geodesists who can develop new capabilities in the fields 
+of digital elevation models, planetary shape, rotation, and 
+orientation, photogrammetric techniques, image matching, and geodetic 
+standards. Job duties include planning and conducting novel geodetic 
+and cartographic analysis, developing digital image processing 
+techniques, designing or modifying bundle adjustment software, 
+maintaining and improving global planetary control networks, and 
+providing guidance to technical staff working on photogrammetric and 
+geodetic production tasks. Applicants must have a bachelor's or higher 
+degree in geodesy or a related field with additional professional 
+experience. Expertise in the concepts, theories, and principles of 
+photogrammetry, cartography, geodesy, and/or computer vision is 
+expected. Applicants must be US citizens, and a background check is 
+required. This position is located in Flagstaff, AZ. Apply starting 
+March 7, 2022 through USAjobs announcement USGS-SAC-22-11289270-DE-LL: 
+
+https://www.usajobs.gov/GetJob/ViewDetails/638771100 
+
+Closes March 21, 2022. Contact Michael Bland with questions: 
+mbland@usgs.gov  
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GOLDSCHMIDT SESSION 01A: EXPET IN PLANETARY SCIENCE
+
+Please consider submitting an abstract to our session Experimental 
+Petrology in Planetary Science: Insights into the Diversity of Both 
+Planets and the Scientists who Study Them (01a), at Goldschmidt 2022 
+(hybrid - Honolulu, Hawai'i, July 10-15 2022).
+
+Abstract submission closes March 1, 2022 
+
+https://2022.goldschmidt.info/goldschmidt/2022/cfp.cgi
+
+We encourage submission from experimental petrology-centric research 
+as well as inclusion, diversity, equity, and accessibility efforts 
+in the field.
+
+Keynote Speaker: Christina Richey, Jet Propulsion Laboratory
+
+Understanding the processes by which rocky planetary bodies 
+differentiated into a core, mantle, and crust, and how their 
+resulting attributes influenced subsequent geologic events and 
+atmospheric compositions is crucial to understanding the evolution 
+of solar systems. The aim of this session is to bring together 
+diverse perspectives from the various avenues of experimental 
+petrology-centric research within the overarching field of 
+planetary sciences, in order to spark big picture and 
+interdisciplinary discussions. Therefore, we encourage submissions 
+from all areas of experimental studies including surface, mantle, 
+and core conditions and geochemical studies of achondrites to 
+understand the formation and evolution of rocky bodies within or 
+outside of our Solar System. 
+
+Kathleen Vander Kaaden, Kayla Iacovino, Kara Brugman
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FLOW COFFEE HOUR: LIFE CYCLE OF MISSIONS AND HOW TO GET INVOLVED
+
+NOW's Future Leaders of Ocean Worlds (FLOW) is hosting a coffee hour 
+Wednesday March 2 at 12 pm PT that will be focused on the life cycle 
+of missions and getting involved in mission work. You can learn more 
+about FLOW and access the meeting at: 
+
+https://oceanworlds.space/flow
+
+The panelists are as follows:
+
+Dr. Linda Spilker (NASA JPL) - Vice Chair for Outer Planets Assessment 
+Group; previous work includes Cassini Project Scientist; Voyager 
+Science Liaison; Enceladus Life Finder, Hermes mission concepts: 
+
+https://science.jpl.nasa.gov/people/Spilker/
+
+Dr. Melissa Trainer (NASA GSFC) - Deputy PI of Dragonfly; DAVINCI Co-I; 
+MSL science team member; worked on TiME mission concept to Titan: 
+
+https://science.gsfc.nasa.gov/sed/bio/melissa.trainer
+
+Dr. James Keane (NASA JPL) - Science team member for New Horizons & 
+GRAIL; Co-I on Io Volcano Observer mission proposal; Juno 
+Participating Scientist: 
+
+https://science.jpl.nasa.gov/people/keane/
+
+Dr. Kate Craft (JHU APL) - Europa Clipper, Europa Lander mission 
+concept: 
+
+https://oceanworlds.space/team/
+
+Webex Information:
+
+Date & Time: Wednesday, Mar 2, 2022 12:00-1:00 pm PT 
+
+Link: https://jpl.webex.com/jpl/j.php?MTID=me8671766b3ea94f8e3a05f954b4ef6ea
+
+Meeting number: 2764 615 5473
+Password: dJreQM7PR27
+
+Join by phone: +1-510-210-8882 USA Toll
+Access code: 276 461 55473
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SECOND ANNUAL NASA PLANETARY DATA SYSTEM CUSTOMER SATISFACTION SURVEY 
+- 2022
+
+NASA's Science Mission Directorate (SMD) will be conducting its annual 
+customer satisfaction survey of the Planetary Data System (PDS) 
+March-April 2022. Survey results will be used to ensure that the needs 
+of the planetary science community are being met by identifying areas 
+for improvement and helping the PDS set its future service priorities.  
+
+https://pds.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+WORKSHOP ON IN SITU EXPLORATION OF THE GIANT PLANETS
+
+The Conveners are pleased to announce a three-day workshop dedicated to 
+In Situ Exploration of the Giant Planets to be held at JHU/APL on July 
+12-14, 2022.
+
+The workshop is expected to have both in-person and virtual 
+participation, and will focus includes the science, instrumentation and 
+technologies, and mission concepts important for future in situ 
+explorations of giant planet atmospheres, and entry probes as an 
+element of future international giant planet missions.
+
+Workshop sponsors: Johns Hopkins University Applied Physics Laboratory 
+(JHU/APL), the Laboratory for Astrophysics in Marseille (LAM), and the 
+Lunar and Planetary Institute (LPI).
+
+Conveners: Dr. David H. Atkinson (David.H.Atkinson@jpl.nasa.gov), 
+Dr. Kathleen Mandt (Kathleen.Mandt@jhuapl.edu), and Dr. Olivier Mousis 
+(olivier.mousis@lam.fr)
+
+For more information including important dates for call for abstracts, 
+abstract deadline, and registration, please visit:
+
+https://www.hou.usra.edu/meetings/giantplanets2022/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Dark-flight Estimates of Meteorite Fall Positions: Issues and a Case
+Study Using the Murrili Meteorite Fall
+M. C. Towner et al. 2022 PSJ 3:44
+https://doi.org/10.3847/PSJ/ac3df5
+
+A Snowball in Hell: The Potential Steam Atmosphere of TOI-1266c
+C. E. Harman et al. 2022 PSJ 3:45
+https://doi.org/10.3847/PSJ/ac38ac
+
+High-resolution Search for Kuiper Belt Object Binaries from New
+Horizons
+H. A. Weaver et al. 2022 PSJ 3:46
+https://doi.org/10.3847/PSJ/ac4cb7
+
+Thermophysical Investigation of Asteroid Surfaces. II. Factors
+Influencing Grain Size
+Eric M. MacLennan and Joshua P. Emery 2022 PSJ 3:47
+https://doi.org/10.3847/PSJ/ac4967
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

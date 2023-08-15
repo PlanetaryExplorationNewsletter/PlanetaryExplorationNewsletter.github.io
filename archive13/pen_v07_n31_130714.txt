@@ -1,0 +1,715 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 31 (July 14, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. OPAG Meeting July 15-16
+2. AGU Session GP015 - Planetary Magnetism and Paleomagnetism
+3. AGU Session MR019 - Volatiles at High Pressure: Exploring 
+   the Interior of Giant Planets and Exoplanets
+4. AGU Session NH023 - The Chelyabinsk Meteor Event
+5. AGU Session P006 - Dynamic Mars from Long-Term Observations,
+   Correction
+6. AGU Session P009 - Evolutions, Interactions, and Origins of Outer
+   Planet Satellites
+7. AGU Session P022 - Rapid Environmental Change and the Fate of 
+   Planetary Habitability
+8. AGU Session P030 - Thermal Modeling of Terrestrial and Planetary 
+   Bodies
+9. AGU Session P034 - Using Topography to Investigate the 
+   Evolution of Solar System Bodies
+10. GSA Session T4 - Geologic Mapping of Planetary Bodies Across the 
+   Solar System
+11. GSA Session T10 - The Surprising Innermost Planet
+12. GSA Session T192 - Volcanic/Tectonic Processes and Their 
+    Interactions on Rocky Planets and Moons
+13. Two Postdoctoral Fellowships in Planetary Sciences
+14. 4-year PhD Position in Earth Sciences
+15. Io Workshop 2013: Coordination for the EXCEED Mission
+16. Information for MEPAG #28 Web Meeting
+17. Mars Exploration Science Monthly Newsletter - July 2013
+18. Resource - Map Projection on the Web 
+19. Abstract Deadline for International Scientific Workshop on Golden 
+    Spike Human Lunar Expeditions: 25 July 2013
+20. NASA Postdoctoral Fellowships
+21. New Website and Listserv: Planetary Atmospheres
+22. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OPAG MEETING JULY 15-16
+
+This week's OPAG meeting being held July 15-16 will be accessible to 
+remote participants using WebEx. A video feed will provide live 
+coverage of the speakers and the presentations being given and a 
+separate teleconference line will provide the audio. To participate, 
+visit: 
+
+https://nasa.webex.com
+
+Enter the appropriate meeting number and click on the "Register" 
+button near the bottom of the webpage. After registering the system 
+will immediately send you an email with the meeting password, which 
+you can enter on the webpage to log in to the meeting. Alternatively, 
+you may simply follow the directions in the email you receive (please 
+note that since this is an automatically generated email some spam 
+filters may intercept it). Teleconference instructions will be 
+provided in WebEx after you log in to the meeting.
+ 
+Meeting number for Monday, July 15:  997 509 618
+ 
+Meeting number for Tuesday, July 16:  991 892 109
+ 
+You can save time by setting up WebEx Meeting Manager, on Windows or 
+Mac, in advance of the meeting by visiting: 
+
+https://nasa.webex.com/nasa/mc
+
+On the left side press "Set Up", then press "Meeting Manager" and the 
+follow the instructions. 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION GP015 - PLANETARY MAGNETISM AND PALEOMAGNETISM 
+
+Dear Colleagues, 
+
+We invite contributions for this session at the AGU Fall meeting, 9-13 
+December 2013, in San Francisco, USA.
+
+Section/Focus Group: Geomagnetism and Paleomagnetism (GP)
+Co-Sponsors: Planetary Sciences (P)
+ 
+New paleomagnetic analyses of planetary samples and in situ measure-
+ments of planetary magnetism are transforming our understanding of the 
+interior structures and thermal evolution of solar system bodies. At 
+least seven bodies in the solar system have active dynamos, while 
+Mars, the Moon, and some planetesimals likely generated ancient dynamo 
+magnetic fields. Some meteorites may record early fields associated 
+with the protoplanetary disk or Sun. This session calls for 
+contributions relating to three aspects of magnetism on terrestrial 
+and giant planets and icy moons: 1) Paleomagnetic studies of samples; 
+2) Measurements and modeling of active and past dynamo fields and 
+crustal magnetism; and 3) Magnetic properties of extraterrestrial 
+materials
+
+Conveners: 
+Benjamin Weiss (MIT; bpweiss@mit.edu) 
+John Tarduno (University of Rochester; john@earth.rochester.edu)
+Robert Lillis (University of California, Berkeley; 
+  rlillis@ssl.berkeley.edu)
+
+Abstract Deadline - Tuesday, 6 August 2013 
+San Francisco, CA (Dec 9-13 2013)
+
+Abstracts can be submitted at:
+
+https://fallmeeting.agu.org/2013/account/
+
+https://fallmeeting.agu.org/2013/scientific-program/session-search
+/sessions/gp015-planetary-magnetism-and-paleomagnetism-2/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION MR019 - VOLATILES AT HIGH PRESSURE: EXPLORING THE 
+INTERIOR OF GIANT PLANETS AND EXOPLANETS
+
+Experimental and computational high-pressure techniques are used to 
+explore the properties of fluids and solids of simple molecular 
+materials and their mixtures at extreme conditions existent inside 
+giant planets. We welcome studies about, but not limited to mixtures 
+of ices like H2, He, CH4, H2O, NH3, etc. Most of the previous work 
+investigated behavior of individual components, but properties of the 
+mixtures, including chemical reactions and ionization remain poorly 
+understood. Here we invite for dialogue contributors from communities 
+of static and dynamic high-pressure, theory and computer simulations, 
+planetology, and fluid dynamics, with an interest in the structure 
+and functioning of the giant planets. We are especially interested in 
+reports on recent advances in understanding hydrogen at megabar 
+pressures.
+
+http://fallmeeting.agu.org/2013/scientific-program/session-search/
+sessions/mr019-volatiles-at-high-pressure-exploring-the-interior-of-
+giant-planets-and-exoplanets/
+
+Conveners:
+Razvan Caracas, CNRS ENS Lyon, razvan.caracas@ens-lyon.fr
+Alexander Goncharov, Carnegie Institution for Science, 
+  goncharov@gl.ciw.edu
+Burkhard Militzer, University of California Berkeley, 
+  militzer@berkeley.edu
+Jonathan Fortney, University of California Santa Cruz, 
+  jfortney@ucolick.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION NH023 - THE CHELYABINSK METEOR EVENT
+
+On February 15, 2013, Earth experienced the largest cosmic impact of 
+the last century. Without warning, a ~20-m diameter asteroid plunged 
+into the atmosphere and exploded over Cheyabinsk, Russia, with an 
+energy of ~0.5 megatons. This session will bring together various 
+analyses of this unique event, discuss the nature of the impactor and 
+the physics of the airburst, and describe the damage on the ground and 
+the meteorites that have been collected. This impact can be understood 
+within the context of the broader asteroid impact hazard. It also has 
+a human dimension, with important lessons for risk analyses and hazard 
+communication. We solicit abstracts from experts on asteroids, impact 
+airbursts, meteoritics, risk communication, and natural disaster 
+response.
+
+Abstracts are due August 6
+
+Conveners:
+Clark Chapman (Southwest Research Inst) cchapman@boulder.swri.edu
+David Morrison (Carl Sagan Center, SETI Institute) 
+  david.morrison@nasa.gov
+Alan Harris (More Data!) harrisaw@att.net
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P006 - DYNAMIC MARS FROM LONG-TERM OBSERVATIONS, CORRECTION
+
+(CORRECTED FROM PREVIOUS VERSION)
+
+We are well into the 2nd decade of continuous Mars observations that 
+began with MGS and have continued with ODY, MEX, MRO, and our landed 
+spacecraft. Bridged to earlier times by spacecraft observations from 
+the 1960s onwards, and a continuous telescopic campaign, our view of 
+Mars is now one of a planet on which surface and atmospheric changes 
+occur at frequencies of days, years, and decades, a testament to long-
+term monitoring that continues to this day. At this time, it is 
+appropriate that this record, with implications for Martian geology, 
+climate, atmospheric dynamics, and other processes, be integrated into 
+a journal special section, submitted to Icarus by November 15, 2013.
+
+This special issue is for for papers that: 
+- Include surface, sub-surface, and atmosphere observations, or model 
+results, that are new and a unique outcome of the long-term data 
+acquisition provided by Mars spacecraft and telescopes
+- Highlight the long-term implications of processes that are observed 
+and ongoing now
+- Are not reviews of previous work
+
+Author guidelines for preparation of manuscript can be found at: 
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home/505620/
+authorinstructions
+
+Please contact the editorial office at icarus@astro.cornell.edu with 
+any questions.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P009 - EVOLUTIONS, INTERACTIONS, AND ORIGINS OF OUTER 
+PLANET SATELLITES
+
+Organized by Krishan Khurana & Amanda Hendrix
+
+This session explores current and past planetary processes that lead 
+to unique present day conditions on outer planet satellites. The 
+session will consist of invited and contributed talks that highlight 
+geological and geophysical modeling and interpretation of both 
+remotely-sensed and in-situ data. Presentations on interaction of 
+planetary field and plasma with the surfaces and interiors of the 
+moons and theoretical models of the origin and evolution of surfaces 
+and interiors of the moons are also welcome. Contributions that 
+investigate processes on multiple moons to uncover underlying trends 
+are especially welcome.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P022 - RAPID ENVIRONMENTAL CHANGE AND THE FATE OF PLANETARY 
+HABITABILITY
+
+Rapid environmental change can be used as a scientific bridge, relating 
+astrobiology to earth, planetary, and space sciences in the study of 
+how life may adapt through abrupt climate crises. Recent discoveries 
+inspire us to re-examine our understanding of how rapidly planetary 
+habitats can be redistributed. Past habitable environments on Mars from 
+the Curiosity rover, possible subsurface lakes on Europa, and 
+potentially habitable exoplanets from the Kepler spacecraft continue to 
+expand our definition of the habitable zone. Abstracts on the 
+intertwined aspects of changing habitability, including the complex 
+interactions among astronomical, geological, and climatic forces, on 
+the Earth and beyond, are welcome.
+
+Abstract Deadline - Tuesday, 6 August 2013 
+
+https://fallmeeting.agu.org/2013/scientific-program/session-search/
+sessions/p022-rapid-environmental-change-and-the-fate-of-planetary-
+habitability/
+
+Conveners: Cynthia Phillips, Franck Marchis, Nathalie Cabrol  of the 
+Carl Sagan Center, SETI institute 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P030 - THERMAL MODELING OF TERRESTRIAL AND PLANETARY BODIES
+
+We are inviting you to submit an abstract to the above fall AGU 
+session. We are excited to be convening this session, as it gives us 
+an opportunity to share our science results and techniques with the 
+broad thermal modeling community, rather than just our narrow sub-
+discipline. Our hope is that this session will foster communication 
+and facilitate collaborations between sub-disciplines or those working 
+on different planetary bodies.  
+
+Thermal modeling techniques are used to understand a broad range of 
+geologic and atmospheric problems on solid planetary bodies, including 
+but not limited to Earth, Europa, Io, Mars, and Titan. Examples of such 
+problems include the cooling of lava flows, volcano/geothermal 
+monitoring, surface and near sub-surface physical properties, crater 
+deformation, and ice-rock interactions. The techniques used to address 
+thermal modeling-related questions are often applicable across many 
+disciplines, datasets, and topics. By sharing scientific results and/or 
+thermal modeling techniques and applications from a broad range of sub-
+disciplines, we will foster interdisciplinary collaboration and 
+cooperation within the diverse thermal modeling community.
+
+Abstract Deadline:  6 August 2013
+
+Conveners:
+Robin Fergason, rfergason@usgs.gov (USGS, Astrogeology Science Center)
+Greg Vaughan, gvaughan@usgs.gov (USGS, Astrogeology Science Center)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P034 - USING TOPOGRAPHY TO INVESTIGATE THE EVOLUTION OF 
+SOLAR SYSTEM BODIES
+
+Spacecraft data have enabled the surface topography of many solar 
+system bodies to be determined. These data provide insight into near-
+surface processes and properties that exist over the visible history of 
+a body, on global and local scales. We invite abstracts on any topic in 
+which topography plays a role. These may describe theoretical 
+investigations, laboratory studies or mission data analysis of any body 
+in the solar system and could include (but are not limited to): 
+topographic measurements that are indicative of the types of surface 
+terrain or environments present; processes that create or erase/erode 
+surface topography at any scale; and subsurface processes that are 
+expressed by surface topography.
+
+Conveners: 
+Wes Patterson (JHU APL)
+Ross Beyer (SETI Institute) 
+Louise Prockter (JHU APL)
+
+Abstract Deadline - Tuesday, 6 August 2013 
+San Francisco, CA (Dec 9-13 2013)
+
+https://fallmeeting.agu.org/2013/scientific-program/session-search/
+sessions/p034-using-topography-to-investigate-the-evolution-of-solar-
+system-bodies/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GSA SESSION T4 - GEOLOGIC MAPPING OF PLANETARY BODIES ACROSS THE SOLAR 
+SYSTEM
+
+Geologic maps present fundamental syntheses of interpretations of the 
+materials, landforms, structures, and processes that characterize 
+planetary surfaces and can also provide a contextual framework for 
+summarizing and evaluating thematic research for a given region or 
+body. Planetary geologic maps have been published by the U.S. 
+Geological Survey since 1962 and over this time numerous maps of 
+several planetary bodies have been prepared at a variety of scales and 
+projections using the best available image and topographic bases. These 
+maps have been used for scientific analysis of the planetary body, but 
+also for specialized investigations such as targeting regions of 
+interest for data collection and for characterizing sites for landed 
+missions. However, the field of planetary geologic mapping has been 
+evolving rapidly to embrace the use of new data and modern technology 
+and to accommodate the growing needs of planetary exploration. We 
+encourage abstract submissions related to the description of the 
+geologic mapping (and subsequent analysis) of solid solar system 
+bodies, including the terrestrial planets, moons and asteroids.
+ 
+Conveners:
+Debra Buczkowski (JHU/APL)
+Danielle Wyrick (SwRI)
+ 
+Abstract Deadline – Tuesday, 6 August 2013
+Denver, CO (October 27-30 2013)
+  
+http://www.geosociety.org/meetings/2013/sessions/topical.asp
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+GSA SESSION T10 – THE SURPRISING INNERMOST PLANET
+
+Orbital observations by the MESSENGER spacecraft have shown that 
+Mercury is unusual among the terrestrial planets in many respects. This 
+session will showcase findings from recent geological, geochemical, and 
+geophysical investigations of Mercury's surface and interior. Abstracts 
+are due August 6. For more information see:
+
+http://community.geosociety.org/2013AnnualMeeting/Home/
+
+Conveners:
+
+Carolyn Ernst
+Carolyn.Ernst@jhuapl.edu
+
+Brett Denevi
+Brett.Denevi@jhuapl.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+GSA SESSION T192 - VOLCANIC/TECTONIC PROCESSES AND THEIR INTERACTIONS 
+ON ROCKY PLANETS AND MOONS
+
+We invite submissions to this oral session at the GSA Annual Meeting, 
+27-30 October, 2013, in Denver, Colorado (abstract submission 
+deadline Aug. 6th). Abstract submission guidelines can be found at: 
+
+http://community.geosociety.org/2013AnnualMeeting/Sessions
+
+The surfaces of the rocky planets and moons have been extensively 
+shaped and modified by both tectonic and volcanic processes. In many 
+instances, these processes have been comtemporaneous and interactive, 
+highlighting the importance of magmatic processes for driving tectonic 
+deformation in the absence of plate tectonics. In turn, magmatically 
+driven tectonic features provide conduits for the release of magmatic 
+fluids, melted cryosphere, and volatiles, particularly on Mars. We 
+encourage abstract submissions related to the description, mapping, 
+and modeling of volcanic and tectonic features on rocky solar system 
+bodies, including terrestrial analogs for planetary processes, with 
+emphasis on volcanic/tectonic interaction and its relevance for the 
+structural and geomorphological evolution of the rocky planets and 
+moons.
+
+Conveners:
+Simon A. Kattenhorn (University of Idaho) - 
+  simkat@uidaho.edu
+Danielle Wyrick (Southwest Research Institute) - 
+  danielle.wyrick@swri.org
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+TWO POSTDOCTORAL FELLOWSHIPS IN PLANETARY SCIENCES
+
+The Institute of Geological Sciences of the Polish Academy of Sciences 
+is seeking candidates for 2 postdoctoral fellowships, (tenure-track 
+positions in the field of planetary sciences:
+
+Position 1 - Martian geosciences: geology, geophysics, atmosphere and 
+climate
+
+Position 2 - Processing and methods of analysis of datasets used in 
+Martian geoscience research
+
+Application deadline: October 10th, 2013; contract starting date: 
+December 1st, 2013; duration: 19 months; location: WROONA planetology 
+group, Wrocław, Poland; salary: attractive; More information: 
+
+http://wroona.ing.pan.pl/?Post-doc-positions-available-open&lang=en 
+
+For more information, contact: 
+Daniel Mège, WROONA Group PI: daniel.mege@twarda.pan.pl
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+4-YEAR PHD POSITION IN EARTH SCIENCES, UTRECHT UNIVERSITY / LEIDEN 
+OBSERVATORY, LEIDEN UNIVERSITY
+
+Aqueous alteration of polycyclic aromatic hydrocarbons in asteroids 
+and meteorites    
+
+We have an open position for a PhD candidate with a broad interest in 
+geosciences, chemistry, and astronomy and a willingness to interact 
+across scientific disciplines.
+
+The project focuses on the key question if aqueous alteration could be 
+a mechanism to break down larger PAHs into smaller PAHs and other 
+organic compounds that are detected in meteorites. The primary goal of 
+this proposal is to experimentally investigate the effect of water and 
+high temperature on PAHs embedded in meteoritic mineral matrices. Our 
+experiments will focus on the interaction between PAHs, water, and 
+minerals under different temperature conditions.
+
+We are looking for an enthusiastic person with a background in 
+experimental methods relevant to this research; specifically, Raman 
+spectroscopy and scanning/transmission electron microscopy techniques. 
+While students work on their own PhD projects, good interaction with 
+others in the group will be key to success.
+
+For more information please contact Dr. ten Kate (i.l.tenkate@uu.nl) 
+with cc to Prof. Tielens (tielens@strw.leidenuniv.nl) and Dr. Plümper 
+(O.Plumper@uu.nl) or check here: 
+
+http://www.ingeloes.com/jobs/PhD_PAH_aqueous_alteration.pdf
+
+Application deadline is October 1, 2013.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+IO WORKSHOP 2013: COORDINATION FOR THE EXCEED MISSION
+
+1st Invitation for Talks
+ 
+Saturday 12 October, 2013
+Southwest Research Institute, Boulder, CO
+ 
+This 1-day scientific meeting will be held in downtown Boulder after 
+DPS Denver to discuss the latest research and developments in Io 
+science since the 2012 Io Workshop. 
+
+The Japanese EUV Sprint-A/EXCEED mission will launch in August 2013 to 
+observe the Jovian aurora and Io plasma torus for a number of months. 
+This workshop will focus on topics which might benefit from EXCEED data 
+and coordinated observations at all wavelengths, though presentations 
+on other aspects of Io science will be accepted if time allows.
+ 
+For more information and to register an abstract, please go to:
+
+http://www.boulder.swri.edu/~con/ioworkshop2013
+ 
+Organizers: Constantine Tsang, John Spencer, Fran Bagenal, Rosaly Lopes
+Contact Email: con@boulder.swri.edu
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+INFORMATION FOR MEPAG #28 WEB MEETING
+
+Members of the Mars community,
+
+On behalf of Lisa Pratt, MEPAG Chairperson, we cordially invite you 
+to participate in the 28th meeting of the Mars Exploration Program 
+Analysis Group (MEPAG), scheduled as an electronic meeting for July 
+23, 2013.
+
+Using Adobe Connect, this meeting will occur from 11 a.m. to 3:30 p.m. 
+EDT (8 a.m. to 12:30 p.m. PDT) Tuesday, July 23, 2013. Instructions
+for Adobe Connect may be found at:
+
+http://mepag.jpl.nasa.gov/meeting/jul-13/web_meeting.html
+
+Key discussion topics will include:
+- Mars program status, budget, and current missions.
+- 2020 Mars Rover Science Definition Team report
+- Planning for future MEPAG work.
+
+The meeting is open to all members of the Mars science community 
+including our international colleagues. Thank you for your 
+understanding regarding this virtual meeting format.
+
+We look forward to your participation.
+
+Sincerely,
+Charles Budney
+MEPAG Chair Support
+Mars Program Office, JPL
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - JULY 2013
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Charles Budney of the Mars Program Science Office, the July 2013 
+edition of the Mars Exploration Science Monthly Newsletter is 
+available at:
+
+http://mepag.jpl.nasa.gov
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+RESOURCE - MAP PROJECTION ON THE WEB 
+
+The Astrogeology Science Center is pleased to announce the public 
+release of a new community resource called the Map Projection on the 
+Web (POW) service. This free, on-line service transforms raw Planetary 
+Data System (PDS) images to science-ready map-projected images. POW 
+uses PDS Imaging Node tools to locate images and then allows the user 
+to select and submit individual images to be processed using 
+Astrogeology’s free image processing package, the Integrated 
+Software for Imagers and Spectrometers (ISIS). POW provides users with 
+calibrated cartographic images that can be used for geologic mapping, 
+analysis in a Geographic Image System (GIS), change detection, 
+merging of dissimilar instrument images, and use in a host of 
+scientific applications (e.g., ArcMAP, ENVI, Matlab, JMARS, QGIS, 
+Opticks, etc.). Support for LROC images should be available in late 
+August. This project was supported by the NASA PG&G Cartography 
+Program. 
+
+For more information and/or to request a required account please visit: 
+
+http://astrocloud.wr.usgs.gov/signup/
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+ABSTRACT DEADLINE FOR INTERNATIONAL SCIENTIFIC WORKSHOP ON GOLDEN SPIKE 
+HUMAN LUNAR EXPEDITIONS: 25 JULY 2013
+
+The Lunar and Planetary Institute (LPI) and Golden Spike are holding a 
+two-day workshop for the US and international lunar and planetary 
+community to explore the planned capabilities of Golden Spike human 
+lunar expeditions expected to begin in 2020. Abstracts for both 
+invited and contributed papers are due Thursday, 25 July: 
+
+https://www.hou.usra.edu/meeting_portal/abstract_submission/?mtg=449 
+
+This workshop will be held at the Lunar and Planetary Science Institute 
+(LPI) in Houston, Texas on October 3-4, 2013. The workshop will focus 
+on landing site selection, surface experiment packages, sample return 
+capabilities, and surface traverse planning. More information about 
+this workshop and an expression of interest form can be found at: 
+
+http://www.lpi.usra.edu/meetings/gs2013/
+
+More information about Golden Spike can be found at 
+www.goldenspikecompany.com. 
+
+Topics to be covered in the workshop include landing site selection, 
+surface traverse capabilities and planning, sampling capabilities, 
+and experiment selection. 
+
+The workshop’s program committee includes Dr. Steve Mackwell, 
+Director of the Lunar and Planetary Institute, Dr. Clive Neal/Notre 
+Dame University, Dr. William McKinnon/Washington University in St. 
+Louis, Dr. Mahesh Anand/The Open University, UK, Dr. James Carpenter/
+European Space Agency, and Dr. Alan Stern, CEO and President of Golden 
+Spike. 
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/18624
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+ 
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: http://bit.ly/162yBSO
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+NEW WEBSITE AND LISTSERV: PLANETARY ATMOSPHERES
+
+As a result of the AGU Chapman Conference on "Crossing the Boundaries 
+in Planetary Atmospheres: From Earth to Exoplanets," we have launched 
+a new website and listserv.  The website includes presentations from 
+the conference as well as several new initiatives that have begun in 
+response to the group discussions.  We are also investigating the 
+possibility of a future journal special issue.  Please check out the 
+new website, and join the email list if you would like to receive more 
+information in the future:
+
+http://www.lpi.usra.edu/planetary_atmospheres/
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+July 22-25, 2013
+13th European Workshop on Astrobiology
+http://eana13.astrobiologia.pl/
+Szczecin, Poland
+
+July 23, 2013
+MEPAG #28 Web Meeting
+http://mepag.jpl.nasa.gov/meeting/jul-13/index.html
+Online
+
+August 12-16, 2013
+25th Annual NASA Planetary Science Summer School
+http://pscischool.jpl.nasa.gov
+Pasadena, CA
+
+August 15-18, 2013
+2013 International Mars Society Convention
+http://www.marssociety.org/
+Boulder, CO
+
+November 19-21, 2013
+Young Researchers Exobiology Conference (EJC'13)
+http://www.exobiologie.fr/index.php/actualites/congres/congres-exobio-
+jeunes-chercheurs-2013-les-inscriptions-sont-ouvertes/
+Paris, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu). All Editor time is volunteered.                                              
+***********************************************************************

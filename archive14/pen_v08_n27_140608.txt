@@ -1,0 +1,433 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 27 (June 8, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. July 1 Deadline for PSS "Solar Wind Interaction with the Terrestrial
+   Planets"
+2. [NASA] PDS Mars Reconnaissance Orbiter Data Release 29
+3. Dennis Schatz of Pacific Science Center Wins Astronomy Outreach 
+   Award
+4. Uwingu Awards Graduate Student Travel Grants to Research Conferences 
+5. THEMIS Geodetically Controlled Mosaics Available from the USGS
+6. Postdoc Position at University of Colorado LASP
+7. Mars Exploration Science Monthly Newsletter - June 2014
+8. NASA Postdoctoral Fellowships
+9. NASA Invites Universities to Submit Innovative Early-Stage 
+   Technology Proposals
+10. [NASA] Planetary Science Division Seeking Volunteer Reviewers
+11. New Approaches to Lunar Ice Detection and Mapping
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JULY 1 DEADLINE FOR PSS "SOLAR WIND INTERACTIONS WITH THE TERRESTRIAL
+PLANETS
+
+The deadline for submissions to the special issue "Solar wind 
+Interaction with the Terrestrial Planets" in the Planetary and Space 
+Science journal is July 1, 2014. Covered topics include all aspects of 
+planetary plasma physics and interactions in the inner Solar System, 
+e.g.:
+
+(a) Magnetospheres, ionospheres, auroras
+(b) The solar wind interaction with planets (Mercury, Venus, Earth,
+    Mars) and their moons, or with asteroids/comets
+(c) Plasma interactions with exospheres, dust and surfaces
+(d) Intercomparisons of planetary environments
+
+Contributions are welcome which address previous, present, forthcoming 
+and planned observations from space, as well as ground-based 
+observations, theoretical modelling or simulations. Laboratory studies 
+on planetary analogues aiming to simulate the surface-plasma 
+interaction are considered as well.
+
+Go to:
+
+http://ees.elsevier.com/pss/
+
+Under 'Article Type' choose 'SI: Solar Wind Planet Interaction'. Please 
+provide 3-4 names of potential reviewers when you submit your 
+manuscript.
+
+Acceptance for publication will be December 1, 2014, with an expected 
+publication date in early February 2015. 
+
+P. Garnier, A. Milillo, A. Radioti
+Philippe.Garnier@irap.omp.eu
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS MARS RECONNAISSANCE ORBITER DATA RELEASE 29
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 29 includes data collected from August 9, 
+2013, through November 8, 2013. The release includes HiRISE data for 
+February 5 to May 2, 2014.
+
+To access the above data, go to:
+
+http://pds.nasa.gov/subscription_service/SS-20140602.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+DENNIS SCHATZ OF PACIFIC SCIENCE CENTER WINS ASTRONOMY OUTREACH AWARD
+
+Dennis Schatz, Senior Advisor and former Senior Vice President of 
+Pacific Science Center in Seattle, has won the 2014 Klumpke-Roberts 
+Award of the Astronomical Society of the Pacific, given for a lifetime 
+of contributions to the public understanding of astronomy. Previous 
+winners of this prestigious award include Carl Sagan, Isaac Asimov, 
+Dava Sobel, and Timothy Ferris.
+
+Schatz's more than 20 books on science for children (including The 
+Astronomy Activity Book) have been translated into 23 languages and 
+have sold more than 2 million copies. Schatz is perhaps best known for 
+his widely-used hands-on astronomy activities, which put students in 
+the role of scientists -- asking questions, doing experiments, and 
+drawing conclusions. These activities include "Reasons for the 
+Seasons," "Pocket Sun Clock," "Modeling and Explaining Lunar Phases," 
+"Invent an Alien," and "Recipe for your own Comet." Many of his 
+activities have been published in two popular astronomy curriculum 
+packages, AstroAdventures and The Universe at Your Fingertips.
+
+For more about the Klumpke-Roberts Award (including previous winners), 
+see: 
+
+http://www.astrosociety.org/about-us/klumpke-roberts-award-of-the
+-astronomical-society-of-the-pacific/
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+UWINGU AWARDS GRADUATE STUDENT TRAVEL GRANTS TO RESEARCH CONFERENCES
+
+Uwingu has awarded 11 travel grants to finishing PhD students from both 
+the United States and overseas to present their results at research 
+conferences. Winning students were selected from a field of dozens of 
+applications Uwingu received in late April. The travel grants announced 
+on June 3rd support research topics ranging from Martian and lunar 
+science, to astrobiology, to exoplanets. Congratulations to:
+
+Brandi Carrier (Tufts University)
+Aditya Chopra (Australian National University)
+Ingrid Daubar (University of Arizona)
+Catherine Elder (University of Arizona)
+Ellen Harju (UCLA)
+Lu Liu (University of Washington)
+Bo Ma (University of Florida)
+Johanna Teske (University if Arizona)
+Jessica Watkins (UCLA)
+Jennifer Whitten (Brown University)
+Mehmet Yesiltas (University of Central Florida)
+
+More at: 
+
+http://www.uwingu.com/blog/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+THEMIS GEODETICALLY CONTROLLED MOSAICS AVAILABLE FROM THE USGS
+
+THEMIS infrared geodetically controlled mosaics, updated spacecraft 
+pointing and orientation information (i.e., preliminary smithed SPICE 
+kernels), and supporting documentation are available for download and 
+public use from the United States Geological Survey (USGS) Astrogeology 
+Science Center. Nine daytime infrared and eight nighttime infrared 
+mosaics are currently available, with additional mosaics being released 
+each January and July until a global product is completed. These 
+mosaics are tied to a known coordinate system (USGS Viking Orbiter Mars 
+Digital Image Model 2.1), spatially adjusted to align feature 
+boundaries, and orthoprojected at 100 m/pixel scale. This process 
+results in sub-pixel registration between images and the daytime IR and 
+nighttime IR mosaics to be well-registered to one another. These 
+products enhance our knowledge (e.g., position, precision, and 
+accuracy) of image placement and the location of small-scale surface 
+features, and will benefit the current and future orbital acquisition 
+of data, the planning of spacecraft and surface operations, and allows 
+for easier and improved intercomparison of all Mars data sets.
+
+Please see the following website for product download and additional 
+documentation:
+
+http://astrogeology.usgs.gov/maps/mars-themis-controlled-mosaics-and
+-preliminary-smithed-kernels
+
+Please contact Robin Fergason (rfergason@usgs.gov) with any questions.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOC POSITION AT UNIVERSITY OF COLORADO LASP
+
+The Laboratory for Atmospheric and Space Physics (LASP) at the 
+University of Colorado Boulder is seeking to fill immediately a 
+postdoctoral research associate position to investigate the near-Mars 
+space environment within the context of the Mar-solar wind interaction. 
+The research will involve: (1) modeling of the physical processes at 
+work in the Martian ionosphere and induced magnetosphere with an 
+emphasis on atmospheric escape, and/or (2) analysis of the data 
+returned from the NASA Mars Atmosphere and Volatile EvolutioN (MAVEN) 
+mission.
+
+Applicants must have a Ph.D. degree in planetary and space physics or 
+a closely related field. Previous experience with programming is 
+desirable. Interested applicants must be dedicated, highly motivated, 
+and have a good track record of publication. The postdoctoral position 
+is initially for one year, and may be extended, contingent upon 
+performance and funding availability. Applications will be considered 
+beginning June 15, 2014 and the position will remain open until filled. 
+For specifics about the position, contact Dr. Xiaohua Fang at 
+xiaohua.fang@lasp.colorado.edu.
+
+Only online applications are accepted. Please visit the following 
+website for the application and instructions: 
+
+http://www.jobsatcu.com/postings/83112
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - JUNE 2014
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Amy Hale of the Mars Program Science Office, June 2014 edition of the 
+Mars Exploration Science Monthly Newsletter can be found on the web at:
+
+http://mepag.jpl.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/17710
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar may 
+apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA INVITES UNIVERSITIES TO SUBMIT INNOVATIVE EARLY-STAGE TECHNOLOGY 
+PROPOSALS
+
+NASA is seeking proposals from universities to advance the agency's 
+plans for exploration to deep space and Mars. The Early Stage 
+Innovations NASA Research Announcement calls for innovative space 
+technology proposals that could benefit the space program, other 
+government agencies and the greater aerospace community.
+
+NASA's Space Technology Mission Directorate expects to make 
+approximately 12 awards this fall, with total award amounts of up to 
+$500,000. Research and development efforts will take place over two to 
+three years.
+
+Researchers will investigate transformative space technologies in 
+areas such as advanced thermal protection materials modeling, 
+computational materials, in situ utilization of asteroid materials, 
+mobile robotic surface probe concepts for planetary exploration, 
+kinetic penetrators for icy planetary moons, and advanced technology 
+habitat system designs for continued human exploration of space.
+
+Only accredited U.S. universities may submit proposals under this 
+solicitation. Notices of intent to submit proposals to the Early 
+Stage Innovations Appendix of NASA's Research Announcement, Space 
+Technology Research, Development, Demonstration, and Infusion 2014 
+(SpaceTech-REDDI-2014), are due June 24. The deadline for submitting 
+final proposals is July 21.
+
+To view the announcement and information for submitting proposals, 
+visit:
+
+http://go.nasa.gov/1mRS9y8
+
+David E. Steitz
+202-358-1730
+david.steitz@nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PLANETARY SCIENCE DIVISION SEEKING VOLUNTEER REVIEWERS 
+
+To increase the pool of un-conflicted reviewers the Planetary Science 
+Division is seeking subject matter experts to serve as mail-in 
+reviewers of proposals and/or in-person reviewers to engage in 
+discussions at a face-to-face panel meeting. New researchers (including 
+post-doctoral fellows) are welcome to apply as they provide fresh 
+insight from people close to the most current research. Go to the link 
+below to the volunteer review forms and indicate the fields in which 
+you consider yourself to be a subject matter expert and click the 
+boxes. If your skills match our needs for this review NASA will contact 
+you to discuss scheduling. We are currently seeking reviewers for:
+
+ROSES 2014 C.13 Maturation of Instruments for Solar System Exploration
+ROSES 2014 E.3 The Exoplanet Research Program
+ROSES 2014 C.2 Emerging Worlds
+ROSES 2014 C.6 Solar System Observations
+ROSES 2014 C.3 Solar System Workings
+ROSES 2014 C.10 Cassini Data Analysis and Participating Scientist 
+ Program
+ROSES 2014 C.11 Discovery Data Analysis
+
+Go to:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/ 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NEW APPROACHES TO LUNAR ICE DETECTION AND MAPPING
+
+We are pleased to announce the release of the final report for the 
+study, "New Approaches to Lunar Ice Detection and Mapping", from the 
+Keck Institute for Space Studies:
+
+http://kiss.caltech.edu/study/lunar-ice/KISS_lunar_report.pdf 
+
+(36 Mb PDF)
+
+This study, which began in July 2013, was motivated by recent advances 
+in two areas: 1) remote sensing data and models provide compelling 
+(though sometimes conflicting) evidence for the presence of 
+concentrated volatiles on the Moon, and 2) small, low-cost spacecraft 
+have emerged as a potentially viable means of planetary exploration 
+and science. We therefore sought to identify key measurements for 
+lunar ice detection and mapping that could be accomplished through 
+innovative, low-cost mission concepts.
+
+The report summarizes the current state of knowledge about lunar 
+volatiles, and identifies future measurement approaches that could 
+clarify their abundance, composition, and distribution. The mission 
+concepts presented are a small subset of those considered in the study, 
+and are those we found most compelling and/or technically mature. More 
+information on this study can be found here:
+
+http://kiss.caltech.edu/study/lunar-ice/index.html
+
+Best regards,
+
+Paul O. Hayne (JPL) 
+David A. Paige (UCLA) 
+Andrew P. Ingersoll (CalTech) 
+on behalf of 33 co-authors from 15 separate institutions
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 12-14, 2014
+45th Annual Binghamton Geomorphology Symposium
+http://web.eps.utk.edu/symposium/index.php
+Knoxville, TN
+
+September 24 - October 2, 2014
+Summer Course on Exoplanets
+http://www.nordicastrobiology.net/Exoplanets2014/
+La Palma, Spain
+
+October 7-10, 2014
+4th International Workshop on LunarCubes (LCW 4)
+http://lunarinitiatives.com/lunar-cubes.com/
+Mountain View, CA
+
+June 15-19, 2015
+Astrobiology Science Conference 2015 (AbSciCon2015)
+http://www.hou.usra.edu/meetings/abscicon2015/
+Chicago, IL
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,398 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 32 (August 1, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. Opportunities for AGU Fall Meeting Conference Registration 
+   Reimbursement
+3. Arecibo Observatory Quarterly Newsletter Now Available
+4. [NASA] PDS: InSight First Release of HP3 Data
+5. [NASA] PDS: Aperiodic Data Releases in 2021.07
+6. Tenure Track Faculty Position in Planetary Science at Brown 
+   University
+7. Call for Applications to the Measurements Definition Team for 
+   International Mars Ice Mapper
+8. Physical Sciences Lunar Surface Science Workshop Agenda Now 
+   Available
+9. Mars Exploration Science Monthly Newsletter for August 2021
+10. Mercury's Surface Response to the Interplanetary Environment: 
+    Identifying Needed Studies in Laboratory Astrophysics
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Wed Aug 4, 11:00 AM-5:00 PM ET (includes both open and closed sessions, 
+TBA)
+Panel on Small Solar System Bodies Meeting #15
+https://bit.ly/3ib5zuN
+
+Wed Aug 4, 11:00 AM-5:00 PM ET (includes both open and closed sessions, 
+TBA)
+Panel on Venus Meeting #15
+https://bit.ly/3C05nGK
+
+Fri Aug 6, 11:00 AM-2:15 PM ET (open session is 11:00AM-1:10PM; see 
+posted agenda)
+Panel on Mercury and the Moon + Panel on Mars + Human Exploration 
+Writing Group
+https://bit.ly/2VoNbpv
+
+Please see links above for agenda, connection information, and detailed 
+information on timing of open sessions.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+OPPORTUNITIES FOR AGU FALL MEETING CONFERENCE REGISTRATION 
+REIMBURSEMENT
+
+To make the 2021 AGU Fall Meeting as widely accessible as possible, and 
+to gauge community need, the Planetary Sciences Section of AGU wants to 
+offer partial or full reimbursement of registration costs to those for 
+whom registration expenses present a barrier to attendance. At this 
+time, we cannot gauge the level of reimbursement we will be able to 
+provide, or guarantee that all need will be met, and we are, 
+unfortunately, unable to waive registration fees in advance. 
+Applications can be completed through this Google form at:
+
+https://bit.ly/3fgRE4J
+
+Please submit by August 31.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ARECIBO OBSERVATORY QUARTERLY NEWSLETTER NOW AVAILABLE
+
+The 2021 Summer Arecibo Observatory Newsletter now available at:
+
+https://bit.ly/2TKmeMm
+
+Each newsletter features science highlights and updates about the 
+facility, staff, and current education programs. See all newsletters 
+here: 
+
+http://www.naic.edu/ao/newsletters
+
+You can subscribe to receive future newsletters via email: 
+
+https://bit.ly/3fg721g
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: INSIGHT FIRST RELEASE OF HP3 DATA
+
+The NASA Planetary Data System announces the first release of data from 
+the InSight Heat Flow and Physical Properties Package (HP3) instrument. 
+This release contains covers two thermal conductivity measurements 
+conducted using the TEM-A sensor suite. Measurements were performed at 
+a mole tip depth of 0.37 m after the mole was fully buried in the soil 
+and cover the depth range between 0.03 and 0.37 m. Released ancillary 
+data obtained during mole hammering provide the mole tilt with respect 
+to local gravity during these measurements.
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is 
+scheduled for October 1, 2021.
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: APERIODIC DATA RELEASES IN 2021.07
+
+In July 2021, PDS ingested and made available the following data, none 
+of which were regularly released with an ongoing mission:
+
+2021.07.30 Rosetta: RPCICA complete archive
+2021.07.28 Mars Express: MaRS raw data from extended missions 5,6
+2021.07.16 Mars Express: MaRS raw data from extended missions 5
+2021.07.09 Mars Express: MaRS raw data from extended missions 4,5
+2021.07.01 KPNO McMath-Pierce Solar Telescope Observations of Mercury
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210731.shtml
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TENURE TRACK FACULTY POSITION IN PLANETARY SCIENCE AT BROWN UNIVERSITY
+
+The Department of Earth, Environmental and Planetary Sciences at Brown 
+University invites applications for a tenure-track faculty position in 
+Planetary Science. Ideal candidates are those working on fundamental 
+processes applicable across multiple Solar System bodies and who would 
+broaden and enhance existing departmental strengths in climate and 
+environmental science, geochemistry, geophysics, planetary materials, 
+or remote sensing. We encourage candidates from all fields of planetary 
+science to apply.
+
+The successful candidate will be expected to maintain an active, 
+externally-funded research program, enjoy a commitment to teaching at 
+both undergraduate and graduate levels, and contribute to the academic 
+community of the department and university including efforts to 
+promote diversity, equity, and inclusion. Women, members of 
+historically underrepresented groups, and individuals with 
+disabilities are particularly encouraged to apply. Appointment is 
+expected at the Assistant Professor level, although exceptional 
+circumstances could warrant appointment at a higher level. The position 
+will remain open until filled, but review of applications will begin 
+October 1, 2021, with an anticipated start date of July 1, 2022. For 
+further information about how to apply, please visit: 
+
+http://apply.interfolio.com/90367
+
+You may also contact the search committee chair Professor Ralph 
+Milliken (Ralph_Milliken@brown.edu). 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR APPLICATIONS TO THE MEASUREMENTS DEFINITION TEAM FOR 
+INTERNATIONAL MARS ICE MAPPER
+
+On July 26, NASA and the Canadian, Italian, and Japanese space agencies 
+released a Call for Applications for Membership on the Joint 
+ASI/CSA/JAXA/NASA Measurement Definition Team for the International 
+Mars Ice Mapper Mission (I-MIM). I-MIM would map and characterize 
+accessible (within the uppermost 10 m) subsurface water ice and its 
+overburden in mid-to-low latitudes to support planning for potential i
+human surface missions to Mars. This (unfunded) opportunity is open to 
+scientists, engineers, and other qualified and interested individuals 
+from institutions worldwide. For reasons of cost, time, and safety, 
+most of the MDT's work will be carried out using email and tele/video 
+conferences. The full text of this call and all associated 
+documentation and application materials can be found at:   
+
+https://go.nasa.gov/imim_mdt    
+
+Applications are due August 23, 2021.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PHYSICAL SCIENCES LUNAR SURFACE SCIENCE WORKSHOP AGENDA NOW AVAILABLE
+
+The NASA Biological and Physical Sciences Division is hosting a 
+workshop on fundamental and applied research on the Moon in physical 
+sciences on August 18-19, 2021.
+
+This workshop will bring together the science community, commercial 
+companies, and NASA Divisions and Programs with the goals of discussing 
+investigations on reduced gravity and lunar environmental effects in 
+physical sciences research for sustained lunar human habitation and in 
+preparation for human exploration to Mars and to inform and inspire the 
+science community to contribute white papers for the Biological and 
+Physical Sciences Decadal Survey.
+
+The workshop agenda has been posted at: 
+
+https://www.hou.usra.edu/meetings/lunarsurface2020/ 
+
+Registration is free, but required by August 13.
+
+Workshop presentations and posters will concern reduced gravity and 
+environmental effects of the Moon on physical systems, including:
+
+- Lunar dust and its properties, behavior, and mitigation
+- Life support and thermal management
+- Materials flammability and habitat fire safety
+- Extraction of water-ice from regolith research, including separation, 
+- purification, electrolysis, and liquefaction
+- Lunar environment and its effects on materials
+- Lunar research in extraction, processing, and handling
+- Lunar research for advanced manufacturing
+- Fundamental physics research on the lunar surface
+
+[Edited for Length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR AUGUST 2021
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Brandi 
+Carrier, and Dave Beaty of the Mars Program Science Office, the August 
+2021 edition of the Mars Exploration Science Monthly Newsletter can be 
+found attached and on the web at: 
+
+http://mepag.jpl.nasa.gov 
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MERCURY'S SURFACE RESPONSE TO THE INTERPLANETARY ENVIRONMENT:
+IDENTIFYING NEEDED STUDIES IN LABORATORY ASTROPHYSICS
+
+Date: January 24-27, 2022
+Location: Virtual
+
+Mercury is a complex system of interconnected parts: magnetosphere,
+exosphere, and surface. How Mercury responds to its interplanetary
+environment is equally complex. Models help us understand how solar 
+wind and micrometeorites modify Mercury’s surface spectral, mineral, 
+and chemical properties and produce the planet’s exosphere. The 
+reliability of these models hinges on accurately understanding the 
+underlying physical processes responsible for the observed properties.
+
+This workshop will focus on identifying those processes whose
+uncertainties hinder our ability to reliably model Mercury’s response 
+to the interplanetary environment. We will discuss the laboratory
+astrophysics studies, theoretical and experimental, most needed to
+advance our understanding of Mercury’s system.
+
+The workshop will produce several reports to guide scientific efforts
+for supporting analysis of BepiColombo data and future missions. It 
+will examine the limitations of current planetary models that build on 
+the underlying laboratory astrophysics data. It will outline the status 
+of laboratory astrophysics studies and what experimental and 
+theoretical work is needed to fully address these limitations.
+
+A modest registration fee to be determined will be requested.
+
+For details:
+
+https://meeting.psi.edu/mercurylab2022/
+
+Send questions to: MercuryLabAstro2022@gmail.com
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+Note: Most face-to-face meetings going forward will have online 
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+September 14-17, 2021
+NASA Astrobiology Graduate ConfereN/Ce (AbGradCon)
+https://www.abgradcon.org/
+Online
+
+November 2-4, 2021
+MARS - A New Geological Frontier
+https://www.geolsoc.org.uk/11-gsl-mars
+Online
+
+November 8-9, 2021
+2021 Community Workshop on Astromaterials Data Management in the Era 
+of Sample Return Missions
+https://corex.lpl.arizona.edu/astromaterials-workshop 
+Tucson, AZ
+
+January 24-27, 2022
+Mercury's Surface Response to the Interplanetary Environment: 
+Identifying Needed Studies in Laboratory Astrophysics
+https://meeting.psi.edu/mercurylab2022/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Propagation of Vertical Fractures through Planetary Ice Shells: The 
+Role of Basal Fractures at the Ice-Ocean Interface and Proximal Cracks
+Catherine C. Walker et al. 2021 PSJ 2:135
+https://doi.org/10.3847/PSJ/ac01ee
+
+The Scientific Value of a Sustained Exploration Program at the 
+Aristarchus Plateau
+Timothy D. Glotch et al. 2021 PSJ 2:136
+https://doi.org/10.3847/PSJ/abfec6
+
+Triton: Fascinating Moon, Likely Ocean World, Compelling Destination!
+Candice J. Hansen et al. 2021 PSJ 2:137
+https://doi.org/10.3847/PSJ/abffd2
+
+Habitability of Martian Noachian Hydrothermal Systems as Constrained 
+by a Terrestrial Analog on the Colorado Plateau
+Jake R. Crandall et al. 2021 PSJ 2:138
+https://doi.org/10.3847/PSJ/ac053e
+
+The Geographic Distribution of Dense-phase O2 on Ganymede
+Samantha K. Trumbo et al. 2021 PSJ 2:139
+https://doi.org/10.3847/PSJ/ac0cee
+
+Transmission Spectroscopy of the Earth-Sun System to Inform the Search 
+for Extrasolar Life
+L. C. Mayorga et al. 2021 PSJ 2:140
+https://doi.org/10.3847/PSJ/ac0c85
+
+Charon's Far Side Geomorphology
+Ross A. Beyer et al. 2021 PSJ 2:141
+https://doi.org/10.3847/PSJ/ac09e9
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org   
+*                                                                     
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* https://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,466 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 12 (March 19, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memory of Jack "Dr. Rock" Farmer (April 18, 1947 - February 22, 
+   2023)
+2. Astrobiology SciComm Guild March Meeting: Digital Learning Projects 
+   for Scientists, Educators, and Students 
+3. [NASA] Request for Information: New Horizons Interstellar Mission
+4. [NASA] ROSES-23 Amendment 5: F.15 High Priority Open-Source Science 
+   Final Text and Due Dates
+5. [NASA] Panel Reviewers Needed for MUREP Women's Colleges and 
+   Universities
+6. MEPAG 40 Hybrid Meeting
+7. Job Opening: Remote Sensing Lab Manager at the University of Arizona
+8. NASA Planetary Science Summer School Applications Due March 27, 2023
+9. Mars Exploration Science Program Newsletter for March 2023
+10. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 53
+11. [NASA] PDS: Mars Science Laboratory Release 32
+12. Associate Professor/Professor in Planetary Atmospheres at 
+    ISAE-SUPAERO, University of Toulouse
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORY OF JACK "DR. ROCK" FARMER (APRIL 18, 1947 - FEBRUARY 22, 
+2023)
+
+It is with great sadness that we announce the passing of Jack "Dr. 
+Rock" Farmer on February 22, 2023. This is a tremendous loss of a 
+widely beloved teacher, mentor, and community outreach leader.
+
+Jack's career spanned nearly 50 years as a paleontologist and an 
+astrobiologist, who helped pioneer the field of exopaleontology. 
+Throughout his career, Jack played crucial roles in contributing to 
+the development of NASA exploration strategies, particularly in the 
+search for fossil biosignatures on Mars. He was a kind, patient man 
+who left a positive impact in his community.
+
+We offer our heartfelt condolences to his wife, Maria, their daughter, 
+Bethany, and the rest of their family. Jack will be deeply missed by 
+the many who he inspired. His memory as a compassionate and skilled 
+scientist will live on in his students and colleagues.
+
+Contributors: Charlene Estrada, Marisol Juarez Rivera, Jon 
+Lima-Zaloumis, Jorge Nunez, Svetlana Shkolyar, and Kathleen Campbell
+
+Full length memoriam available here:
+
+https://tinyurl.com/457nvzju
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ASTROBIOLOGY SCICOMM GUILD MARCH MEETING: DIGITAL LEARNING PROJECTS 
+FOR SCIENTISTS, EDUCATORS, AND STUDENTS 
+
+The Astrobiology SciComm Guild is an initiative of the NASA 
+Astrobiology Program office. Our mission is to support the 
+astrobiology community as evolving science communicators, by 
+leveraging and co-creating SciComm opportunities for members while 
+serving DEIA ideals. We regularly bring members diverse SciComm 
+opportunities with NASA and external partners. Our next virtual 
+meeting will be on March 23 at 10 am Pacific / 1 pm Eastern where 
+we'll have guest speakers from NASA's Infiniscope team, of NASA's 
+Science Activation program, to discuss digital learning opportunities 
+for members. If you would like to become a member, please contact 
+svetlana.shkolyar@nasa.gov. To attend the March meeting, register and 
+receive connection details here:
+
+https://tinyurl.com/2p9dkwe9
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] REQUEST FOR INFORMATION: NEW HORIZONS INTERSTELLAR MISSION
+
+Number: NNH23ZDA011L
+
+Release Date: March 15, 2023
+
+Response Date: April 17, 2023
+
+The Heliophysics Division (HPD), Astrophysics Division (APD), and 
+Planetary Science Division (PSD) of NASA's Science Mission Directorate 
+(SMD) are soliciting information under this Request for Information 
+(RFI) to determine interest in the science community for continuing 
+the New Horizons mission operations and utilizing its unique position 
+in the Solar System to answer important questions about the 
+heliosphere and its interaction with the interstellar medium while 
+allowing for scientific opportunities that present themselves beyond 
+Heliophysics. The RFI is focused on determining whether interested 
+science teams have a set of science objectives to propose to NASA for 
+use of the mission beyond FY24. The purpose of this RFI is to gauge 
+the level of interest of the wider science community in pursuing the 
+next phase of science leadership for the mission and to estimate 
+appropriate annual costs.
+
+The RFI seeks responses only from United States persons, i.e., U.S. 
+industry, universities, non-profit organizations, NASA Centers, other 
+U.S. Government agencies, and individual researchers. International 
+team members, i.e., entities or individuals outside the U.S., are 
+permitted as part RFI responses from U.S.-led science teams.
+
+https://go.nasa.gov/NewH23IMRFI
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-23 AMENDMENT 5: F.15 HIGH PRIORITY OPEN-SOURCE SCIENCE 
+FINAL TEXT AND DUE DATES
+
+Program element F.15 High Priority Open-Source Science (HPOSS) 
+supports the development of innovative open-source tools, software, 
+frameworks, data formats, and libraries that will have a significant 
+positive impact to the SMD science community.
+
+ROSES-2023 Amendment 5 releases the final text for this program 
+element, which had been listed as "TBD". This is a no-due-date program 
+and proposals may be submitted at any time until March 29, 2024, by 
+which point the ROSES-2024 version of this program element should be 
+open for proposal submission.
+
+This program will evaluate proposals using dual-anonymous peer review, 
+see Section 4.3 and the associated "Guidelines for Anonymous 
+Proposals" document under "Other Documents" on the NSPIRES page for 
+this program element
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions concerning F.15 HPOSS may be directed to Chelle Gentemann 
+at chelle.gentemann@nasa.gov and Rachel Paseka at 
+rachel.e.paseka@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PANEL REVIEWERS NEEDED FOR MUREP WOMEN'S COLLEGES AND 
+UNIVERSITIES
+
+Minority University Research and Education Project (MUREP) Women's 
+Colleges and Universities (WCU) is a new initiative seeking to address 
+the significant gender gap and disparate experiences of women in STEM 
+in the United States. WCU awardees will research and develop 
+strategies through an intersectional lens to increase retention of 
+women in STEM degrees and workforce.
+ 
+NRESS is seeking panel reviewers for a virtual panel review scheduled 
+for April 26-28, 2023.
+
+The panel will be comprised of a group of peers, discussing the 
+strengths and weaknesses of each proposal. The duration of the panel 
+might change depending on the number of proposals being reviewed, but 
+for scheduling purposes, plan on a full-day commitment for all three 
+days. Non-civil servant panelists may be eligible to receive a 
+$200/per day honorarium.
+ 
+If you are interested in serving as a virtual panelist, please 
+register by March 31, 2023.
+ 
+Link to registration form:
+
+https://forms.gle/fLNeEhU2vynwWfhU8
+ 
+Please note, your willingness to participate in this review does not 
+guarantee your selection. Reviewers will be selected based on the 
+subject matter of each proposal received. You will only be contacted 
+if you are selected to participate.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MEPAG 40 HYBRID MEETING
+
+MEPAG 40 will take place on April 11-12, 2023, at the University of 
+Arizona D.C. Center for Outreach and Collaboration in Washington, D.C. 
+This two-day meeting will consist of in-person and virtual 
+presentations on a range of topics pertinent to the Mars exploration 
+community.
+
+There is no registration fee, but registration is required:
+
+https://tinyurl.com/mr2xmwnx
+
+Registration for in-person attendance will be available through March 
+31, 2023. Registration for virtual attendance will be available 
+through April 12, 2023.
+
+Note: In-person participants must register by Friday March 31, 2023 
+and must bring a government issued ID (e.g., driver's license, 
+passport) to ensure access to the meeting venue.
+
+Additional meeting details can be found on the meeting webpage:
+
+https://www.lpi.usra.edu/mepag/meetings/mepagapril2023/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB OPENING: REMOTE SENSING LAB MANAGER AT THE UNIVERSITY OF ARIZONA
+
+The Space Imagery Center at the University of Arizona's Lunar and 
+Planetary Laboratory (LPL) seeks a long-term manager for a planetary 
+remote sensing lab with special emphasis on planetary photogrammetry. 
+The Space Imagery Center contains several state-of-the-art 
+photogrammetry workstations in addition to decades of historical 
+planetary data and literature. The job includes training other people 
+in a variety of settings; creating new data products & tools; 
+participating in local research and proposal writing; and exercising 
+considerable day-to-day independence. This position also includes 
+opportunities for independent research, mentoring, and public 
+outreach, and broader collaborations within LPL's dynamic Planetary 
+Surfaces Group:
+
+https://www.lpl.arizona.edu/research/surfaces
+
+Two possible flavors of this position are available depending on the 
+applicant qualifications - see full descriptions at:
+
+https://tinyurl.com/5n7kkvbu
+
+https://tinyurl.com/bdhe6npd
+
+All applications should be made through the University of Arizona 
+Talent Website (links above). Please direct any questions to Dr. 
+Shane Byrne: shane@lpl.arizona.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE MARCH 27, 2023
+
+Offered by NASA's Jet Propulsion Laboratory in Pasadena, CA, PSSS is a 
+3-month long career development experience to learn the development of 
+a hypothesis-driven robotic space mission in a concurrent engineering 
+environment while getting an in-depth, first-hand look at mission 
+design, life cycle, costs, schedule & the inherent trade-offs.
+
+Science & engineering doctoral candidates, recent PhDs, postdocs, & 
+junior faculty who are U.S. Citizens or legal permanent residents (& a 
+very limited number of Foreign Nationals from non-designated counties) 
+are eligible. Applicants from diverse backgrounds are particularly 
+encouraged to apply - we highly value diversity, equity, and inclusion.
+
+Session 1: May 11-August 4
+
+Session 2: May 25-August 18
+
+With workload of a rigorous 3-credit graduate-level course, 
+participants act as a planetary science mission team during the first 
+10 weeks of preparatory webinars, with the final culminating week 
+mentored by JPL's Advance Project Design Team for refining the mission 
+concept design & presenting it to a mock expert review board. The 
+culminating week is planned to be at JPL.
+
+https://go.nasa.gov/missiondesignschools
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR MARCH 2023
+
+Mars Community,
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Michael Mischna, Brandi 
+Carrier and Jonathan Bapst of the Mars Program Science Office, the 
+March 2023 edition of the Mars Exploration Science Monthly Newsletter 
+can be found on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 53
+
+The NASA Planetary Data System announces Release 53 of data from the 
+Lunar Reconnaissance Orbiter mission. This release contains raw, 
+calibrated, and derived data products covering the nominal time period 
+from September 15 through December 14, 2022. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes.
+
+- CRaTER at the PPI Node
+- Diviner at the Geosciences Node
+- LAMP at the Cartography and Imaging Sciences Node
+- LEND at the Geosciences Node
+- LOLA at the Geosciences Node
+- LROC at the LROC Data Node
+- Mini-RF at the Geosciences Node
+- Radio Science at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+Or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230315.shtml
+
+LRO releases occur every three months. The next release is scheduled 
+for June 15, 2023.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: MARS SCIENCE LABORATORY RELEASE 32
+
+The NASA Planetary Data System announces Release 32 of data from the 
+Mars Science Laboratory (Curiosity) mission. This release contains raw 
+and derived data products covering the time period from July 30 
+through November 6, 2022 (sols 3548-3644). The data are archived at 
+various PDS nodes. 
+ 
+- APXS (Alpha Particle X-ray Spectrometer) at the Geosciences Node
+- ChemCam at the Geosciences Node
+- CheMin at the Geosciences Node
+- DAN at the Geosciences Node
+- Engineering Cameras at the Cartography and Imaging Sciences Node
+- MAHLI (Mars Hand Lens Imager) at the Cartography and Imaging 
+  Sciences Node
+- Mastcam at the Cartography and Imaging Sciences Node
+- PLACES Database at the Cartography and Imaging Sciences Node
+- RAD (Radiation Assessment Detector) at the PPI Node
+- REMS (Rover Environmental Monitoring Station) at the Atmospheres Node
+- SAM (Sample Analysis at Mars) at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/msl/
+
+or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230316.shtml
+
+The next MSL release is scheduled for August 1, 2023.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ASSOCIATE PROFESSOR/PROFESSOR IN PLANETARY ATMOSPHERES AT 
+ISAE-SUPAERO, UNIVERSITY OF TOULOUSE
+
+ISAE-SUPAERO at Universite de Toulouse is hiring an associate 
+professor/professor in planetary atmosphere (Permanent Position). 
+The proposed position is in the SSPA team (Space Systems for 
+Planetary Applications) of the Electronics, Optronics Signal 
+Department at ISAE-SUPAERO:
+
+https://www.isae.fr/deos
+
+The successful candidate will be involved in the development of the 
+Institute's research related to the field of planetary atmospheres. 
+An understanding of space instrument and space missions design is 
+strongly desired. 
+
+Full details and how to apply at:
+
+https://tinyurl.com/mpzyzbnn
+
+Questions can be directed via email to Professor David Mimoun, 
+david.mimoun@isae-supaero.fr
+
+Applications should be submitted by March 31th, 2023.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Observational Characterization of Main-belt Comet and Candidate Main-
+belt Comet Nuclei
+Henry H. Hsieh et al. 2023 PSJ 4:43
+https://doi.org/10.3847/PSJ/acbdfe
+
+Updated Radiative Transfer Model for Titan in the Near-infrared 
+Wavelength Range: Validation against Huygens Atmospheric and Surface 
+Measurements and Application to the Cassini/VIMS Observations of the 
+Dragonfly Landing Area
+M. Es-sayeh et al. 2023 PSJ 4:44
+https://doi.org/10.3847/PSJ/acbd37
+
+The Distribution of Molecular Water in the Lunar South Polar Region 
+Based upon 6 um Spectroscopic Imaging
+William T. Reach et al. 2023 PSJ 4:45
+https://doi.org/10.3847/PSJ/acbdf2
+
+Laboratory Studies of Brine Growth Kinetics Relevant to Deliquescence 
+on Mars
+Raina V. Gough et al. 2023 PSJ 4:46
+https://doi.org/10.3847/PSJ/acbd98
+
+Comet P/2021 HS (PANSTARRS) and the Challenge of Detecting Low-
+activity Comets
+Quanzhi Ye et al. 2023 PSJ 4:47
+https://doi.org/10.3847/PSJ/acbfbb
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

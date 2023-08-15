@@ -1,0 +1,356 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 18 (April 26, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. World View NASA Earth Venture Mission 3 Announcement
+2. Lecturer of Astronomy at Northern Arizona University
+3. Small Bodies Assessment Group (SBAG) Steering Committee Positions 
+   Open
+4. Research Scientist II at the Jet Propulsion Laboratory (1/2)
+5. Research Scientist II at the Jet Propulsion Laboratory (2/2)
+6. [ESA] PSA: ExoMars 2016 SPICE Kernels Archive Release
+7. Large Interferometer For Exoplanets (LIFE) Virtual Mini Workshop
+8. Exoplanets: The Nexus of Astronomy and Geoscience
+9. The 2020 Planetary Science Workforce Survey
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+WORLD VIEW NASA EARTH VENTURE MISSION 3 ANNOUNCEMENT
+
+Stratollites are high-altitude solar-powered platforms that can support 
+several of the focus areas of NASA's Earth Venture Mission (EVM) 3 
+program via payload TRL raising for risk reduction and/or by providing 
+measurements with adjunct calibration or science measurements to 
+augment EVM-3 satellites. Stratollites use lift, ballast, and winds 
+at different altitudes to control trajectory and to loiter in areas of 
+interest. Stratollites can carry up to 100 kg and 300 W of payload. In
+addition to TRL-raising, Stratollite applications for EMV-3 support 
+could include in situ and remote sensing measurements of atmospheric 
+composition, weather, carbon cycle, water and energy cycle, and climate 
+variability and change. For more information, contact Alan Stern
+(astern@worldview.space) or see:
+
+https://worldview.space/ 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LECTURER OF ASTRONOMY AT NORTHERN ARIZONA UNIVERSITY
+
+The Department of Astronomy and Planetary Science at Northern Arizona 
+University seeks a lecturer to teach and develop courses for our 
+growing undergraduate program in astronomy. The successful candidate is 
+expected to teach across a full range of classroom environments, from 
+large introductory lectures to small upper-division courses, and to 
+organize, supervise, and occasionally teach introductory astronomy 
+labs. Responsibilities may also include curriculum development and 
+student mentoring.
+
+Application review begins May 15, 2020. For additional information, 
+please visit:
+
+https://tinyurl.com/ybuqn6vu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SMALL BODIES ASSESSMENT GROUP (SBAG) STEETING COMMITTEE POSITIONS OPEN
+
+We are soliciting up to five positions open on the Steering Committee 
+of the Small Bodies Assessment Group, with terms starting in August 
+2020. The SBAG Steering Committee organizes SBAG meetings, writes the 
+official SBAG findings, and takes a leadership role in other activities 
+where community input on topics of interest is needed. 
+
+We are looking for members with expertise in the following areas:
+
+* Human Exploration Lead - We desire an individual actively involved 
+  in, studying, and aware of Human Exploration and the current 
+  challenges and progress in this field to lead related SBAG activities
+* At-large members (2 to 4) - Any member of the small bodies community 
+  from any career stage is welcome to apply.
+
+Terms are for three years. Application for Steering Committee 
+Membership requires a) a two-page CV and b) a short (one-page or 
+equivalent) statement of interest. Previous participation in SBAG is 
+preferred, but not required. Send your application to Bonnie Buratti 
+(bonnie.buratti@jpl.nasa.gov) by May 25, 2020.
+
+The current Steering Committee will select new members prior to the
+23rd Meeting of SBAG, June 1-2, 2020.
+
+Bonnie Buratti, SBAG Steering Committee Chair
+
+https://www.lpi.usra.edu/sbag/
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+RESEARCH SCIENTIST II AT THE JET PROPULSION LABORATORY (1/2)
+
+The Jet Propulsion Laboratory invites applications for a Scientist who 
+will bring new expertise to and ensure continuity of existing 
+capabilities at JPL in planetary science. The successful candidate will 
+develop models for the chemical evolution of Europa, Enceladus, Titan, 
+Ganymede, and other ocean worlds in support of the Icy Worlds, Titan, 
+and Vital Signs teams. The candidate will investigate the detailed 
+chemical evolution of Europa's interior and its ice. Perform NASA 
+funded research, including setting up and conducting novel experiments 
+to measure chemical properties and processes applicable to planetary 
+interiors. Investigate the metamorphic evolution of Ceres's rocky 
+mantle and support mission formulation as a subject matter expert on
+ocean world chemistry.
+
+Qualifications:
+
+* PhD in geochemistry, planetary geophysics, or a related field.
+* 3-4 years expertise in applying meteoritics, petrology, aqueous 
+  geochemistry to problems in astrobiology.
+
+The following qualifications are preferred:
+
+* Knowledge of geophysical forward modeling and inverse theory, 
+  high-pressure experimental design and implementation.
+
+Applications are due by May 26, 2020 or until filled and should be 
+submitted at:
+
+https://jpl.jobs/jobs/2020-11799-Research-Scientist-II
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+RESEARCH SCIENTIST II AT THE JET PROPULSION LABORATORY (2/2)
+
+The successful candidate will develop an independently funded research 
+program, provide scientific leadership and support research conducted 
+within the laboratory studies group. The candidate will publish in 
+peer reviewed scientific journals, and present papers at scientific 
+conferences.
+
+Qualifications:
+
+* PhD. degree in experimental chemistry or physics.
+* Demonstrated working knowledge at the forefront of experimental 
+  laboratory studies with direct planetary science applications (i.e, 
+  relevance to icy moons, Kuiper Belt Objects, dwarf planets, 
+  asteroids, comets, and Solar System evolution).
+* Demonstrated experience with a range of relevant experimental 
+  techniques (e.g., matrix isolation, UV an IR spectroscopy, mass 
+  spectroscopy, temperature programmed desorption) and apparatus (e.g., 
+  cryogenic systems, UHV systems).
+* Demonstrated reputation as a productive researcher with a track 
+  record of publications in peer-reviewed journals.
+
+The following qualifications are preferred:
+
+* 3-5 years of related post-doc experience.
+* History of writing successful external research funding proposals.
+* Demonstrated working knowledge of planning, execution, and analysis 
+  of astronomical observations.
+
+Applications are due by May 3, 2020 or until filled and should be 
+submitted at:
+
+https://jpl.jobs/jobs/2020-11716-Research-Scientist-II-Laboratory-Studies
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[ESA] PSA: EXOMARS 2016 SPICE KERNELS ARCHIVE RELEASE
+
+The ESA SPICE Service (ESS) and the Planetary Science Archive (PSA) 
+with NAIF are pleased to announce an incremental release of the
+ExoMars2016 SPICE bundle, em16_spice.
+
+To access the above data, please visit the following link:
+
+https://doi.org/10.5270/esa-kfjsoi9
+
+The data can be accessed directly via FTP at the PSA and at NAIF:
+
+ftp://psa.esac.esa.int/pub/mirror/ExoMars2016/em16_spice/
+
+https://naif.jpl.nasa.gov/pub/naif/pds/pds4/em16/em16_spice/
+
+The bundle's readme file in ASCII text format is located at:
+
+ftp://psa.esac.esa.int/pub/mirror/ExoMars2016/em16_spice/readme.txt
+
+All available ESA SPICE data may be found at:
+
+https://www.cosmos.esa.int/web/spice/data
+
+For further information, see the ESA SPICE Service Home Page:
+
+https://spice.esac.esa.int
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LARGE INTERFEROMETER FOR EXOPLANETS (LIFE) VIRTUAL MINI WORKSHOP
+
+We would like to advertise a virtual mini workshop to introduce the 
+LIFE (Large Interferometer For Exoplanets initiative to a wider 
+audience and give some time to discuss its current status:
+
+https://www.life-space-mission.com
+
+The workshop will be held on Thursday, May 14, 2020, from 
+4:00-6:00 PM CEST.
+
+LIFE Virtual Mini Workshop Program:
+
+(1) Sascha Quanz: The Science of LIFE: current status, open questions 
+    & ways to participate
+(2) Denis Defrere: LIFE: measurement principle and technology 
+    requirements
+(3) Open discussion and Q&A
+
+To be notified about the relevant Zoom videolink to join the event, 
+please register here: 
+
+https://forms.gle/epciWazz2GhVp3Je6
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EXOPLANETS: THE NEXUS OF ASTRONOMY AND GEOSCIENCE
+
+This is a call for papers to a special section of JGR-Planets entitled, 
+"Exoplanets: The Nexus of Astronomy and Geoscience."
+
+AGU Guest Editors: Cayman Unterborn (Arizona State University), Laura 
+Schaefer (Stanford University), Eliza Kempton (University of Maryland), 
+Seth Jacobson (Michigan State University)
+
+In recent years, our knowledge about exoplanets has expanded 
+tremendously. From super-Earths to water worlds, Hot Jupiters to 
+mini-Neptunes, exoplanets represent a diversity of worlds well beyond 
+that of our Solar System. The field of exoplanets is moving from an 
+era of discovering exoplanets to understanding their populations and 
+characterizing individual exoplanets in detail. To do this, however, 
+requires a monumental interdisciplinary effort, bringing together 
+astronomers, geoscientists, and planetary scientists including 
+observers, theorists, and experimentalists. In this special section of 
+JGR Planets, we wish to bring together authors from across each of 
+these disciplines to present results of interest to the wider exoplanet 
+field and cross these traditional disciplinary boundaries.
+
+As part of the special section, all papers will be published with Gold 
+open-access at no extra charge.
+
+Submissions are being accepted on a rolling basis until September 30,
+2020.
+
+Manuscripts are to be submitted through the AGU website: 
+
+https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2169-9100.EXOPL1
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+THE 2020 PLANETARY SCIENCE WORKFORCE SURVEY
+
+The AIP is conducting a Survey of the Planetary Science Community. The 
+survey is being sponsored by the AAS Division for Planetary Science 
+(DPS) and is also serving as the DPS membership survey and the followup 
+to the 2011 Planetary Workforce Survey: 
+
+http://lasp.colorado.edu/home/mop/resources/planetary-science-workforce-survey
+
+The 2020 survey is being sent to everyone who is either a member of 
+DPS, GSA (planetary division), and/or on the LPSC email list serve. The 
+message requesting your response is from DPS Chair Amanda Hendrix 
+(using email address stats@aip-info.org).
+
+Our hope is that the results of this survey will be useful to the 
+community, particularly as input into the Planetary Decadal Survey 
+since it now includes "Workforce issues". Please fill this survey out 
+to have your voice heard.
+
+If you believe you should have received this email, but haven't, please 
+check your junk and spam folders as several people have reported 
+finding the survey there.
+
+Questions/comments can be directed to stats@aip-info.org or 
+Amanda Hendrix (arh@psi.edu).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+May 14, 2020
+Large Interferometer For Exoplanets (LIFE) Virtual Mini Workshop
+https://forms.gle/epciWazz2GhVp3Je6
+Virtual
+
+October 26-31, 2020
+Ultraviolet Astronomy in the XXI Century
+http://www.nuva.eu/workshop2020
+Vitoria, Spain
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://iopscience.iop.org/issue/2632-3338/1/1
+
+Physical Properties of 299 NEOs Manually Recovered in Over Five Years 
+of NEOWISE Survey Data
+Masiero, et al., 2020. PSJ 1:9.
+https://doi.org/10.3847/PSJ/ab8638
+
+Systematic Characterization of and Search for Activity in Potentially 
+Active Asteroids
+Mommert, et al., 2020. PSI 1:10.
+https://doi.org/10.3847/PSJ/ab8191
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

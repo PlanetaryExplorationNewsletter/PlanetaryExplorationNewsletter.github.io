@@ -1,0 +1,230 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 21 (May 3, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Nic Richmond, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC Session on Exploring the Martian Moons
+2. "Discoveries in Planetary Science" Classroom Powerpoints
+3. Planetary Geomorphology Image of the Month
+4. OSEWG 2009 Workshop on Robots Supporting Human Science and 
+   Exploration
+5. [NASA] PDS Final Release of Phoenix Data
+6. [NASA] Group 5 University Research Centers (URC) Announcement
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC SESSION ON EXPLORING THE MARTIAN MOONS
+
+A session on "Exploring the Martian moons" is organised at the upcoming 
+EPSC conference, to be held in Potsdam (Germany) on 13-18 September 
+2009. We invite papers on the results of past or present planetary 
+missions on the Martian Moons, and on Phobos in particular. The 
+following topics can be addressed: position, interior, mass 
+determination, volume, subsurface, surface properties, temperatures, 
+composition, geology, origin, solar wind interaction. Papers on the 
+future mission Phobos-Grunt are welcome. Ground-based observations 
+results are also relevant.
+
+Deadline: 8 May 2009
+
+http://meetingorganizer.copernicus.org/EPSC2009/session/1765
+
+Conveners: O. Witasse and T. Duxbury
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+"DISCOVERIES IN PLANETARY SCIENCE" CLASSROOM POWERPOINTS
+
+The Education Subcommittee of the AAS Division for Planetary Sciences 
+announces the inaugural release of "Discoveries in Planetary Science" 
+Classroom Powerpoints. These are succinct summaries of discoveries too 
+recent to appear in "Intro Astronomy" college textbooks; each set 
+consists of just three slides to be shown: the discovery itself, a 
+basic explanation based on good planetary science, and the "big 
+picture" context. Another page for further information is provided as 
+well. The first set covers Mars Methane, Extrasolar Planet Imaging, The 
+Chaotic Early Solar System, Mars Sulfur Chemistry, and Mercury 
+Volcanism. Powerpoints and pdf's can be downloaded from 
+http://dps.aas.org/education/dpsdisc. Planetary scientists with recent 
+or upcoming results of broad interest are encouraged to submit them for 
+consideration by providing an initial draft using the template provided 
+on the website. For more information, contact Nick Schneider & Dave 
+Brain at dpsdisc@aas.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The May 'Image of the month' is now available at the IAG's Planetary 
+Geomorphology web page
+
+http://www.psi.edu/pgwg/images/may09image.html
+
+This month's topic is on layered sediments in Martian craters
+
+Past images and captions are available at 
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OSEWG 2009 WORKSHOP ON ROBOTS SUPPORTING HUMAN SCIENCE AND EXPLORATION
+
+August 5-6, 2009
+
+Lunar and Planetary Institute (LPI)
+Universities Space Research Association (USRA)
+3600 Bay Area Boulevard
+Houston, Texas, 77058.
+
+This workshop will investigate how robotics might best be used to 
+support a sustainable program of human exploration and science on the 
+Moon.  The objective is to identify areas where high-priority lunar 
+science needs can be met with space robotics capabilities, while 
+fostering improved understanding and communication between the 
+communities.  The workshop will engage the Lunar Science and Space 
+Robotics communities to include expertise from both domains.
+
+URL for more information:
+http://www.lpi.usra.edu/meetings/osewg2009/osewg20091st.shtml
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS FINAL RELEASE OF PHOENIX DATA
+
+The NASA Planetary Data System announces the third and final release of 
+data from the Mars Phoenix Lander mission. This release includes raw 
+and derived data products from Sols 91 through 152, July 27 - 
+October 29, 2008.
+
+Data are being released for the following experiments:  
+
+ASE - EDRs only
+MET LIDAR and Pressure-Temperature Sensors (includes reprocessing of 
+data from Releases 1 and 2.)
+MECA (TECP, AFM, and WCL only; AFM RDRs to be released by
+approximately June 1, 2009)
+TEGA
+Telltale Anemometer
+
+For OM, RAC and SSI data, please check the Imaging Node site for
+release status: 
+
+http://pds-imaging.jpl.nasa.gov.
+
+Phoenix data are archived at the PDS Atmospheres, Geosciences, and 
+Imaging Nodes. The data may be accessed from these nodes' web sites or 
+from
+
+http://pds.nasa.gov/subscription_service/SS-20090429.html
+
+PDS offers two services for searching the Phoenix archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of
+Phoenix data by specific search criteria.
+
+http://pds-imaging.jpl.nasa.gov/search/phoenix/
+
+The Phoenix Analyst's Notebook at the Geosciences Node allows searching
+and browsing of Phoenix data in the context of mission events, for the
+expert user.
+
+http://an.rsl.wustl.edu/phx
+
+To receive email announcements of PDS data releases, please
+use the PDS Subscription Service at
+
+http://pds.jpl.nasa.gov/tools/subscription_service/top.cfm.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] GROUP 5 UNIVERSITY RESEARCH CENTERS (URC) ANNOUNCEMENT
+
+The NASA Office of Education, Integration Division, Minority University 
+Research and Education Program (MUREP) has released a solicitation for 
+proposals for the NASA Group 5 University Research Centers (URC), 
+Announcement Number NNH09ZNE003C.  This solicitation is in cooperation 
+with NASA's four Mission Directorates - Aeronautics Research, 
+Exploration Systems, Science, and Space Operations and NASA's ten Field 
+Centers.  Each University Research Center (URC) is expected to be a 
+multi-disciplinary scientific, engineering and/or commercial research 
+center designed to provide a broad-based, competitive NASA-related 
+research capability among the Nation's Minority Institutions, foster 
+new aerospace science and technology concepts, provide mechanisms for 
+expanded participation by faculty and students of Minority Institutions 
+in mainstream research, and increase the number of underrepresented and 
+underserved U.S. students obtaining advanced degrees in NASA-related 
+fields and entering the aerospace workforce. All institutions 
+designated by the Department of Education as a Historically Black 
+College or University, Hispanic-Serving Institution, or 
+Minority-Serving Institution are eligible to apply for this cooperative 
+agreement funding opportunity.
+
+Notices of Intent are due May 22, 2009.  The closing date for receipt 
+of proposals is June 19, 2009. 
+
+Go to 
+http://nspires.nasaprs.com/, click "Solicitations", and then "Open 
+Solicitations". 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 24-27, 2009
+2009 Joint Assembly: The Meeting of the Americas (CGU, GAC, IAH-CNC, 
+MAC, SEG, MSA, GS, AGU)
+http://www.agu.org/meetings/ja09/
+Toronto, Canada
+
+August 5-6, 2009
+OSEWG 2009 Workshop on Robots Supporting Human Science and Exploration
+http://www.lpi.usra.edu/meetings/osewg2009/osewg20091st.shtml
+Houston, TX
+
+October 12-14, 2009
+Geological Mapping of Mars: A Workshop on New Concepts and Tools
+http://www.irsps.unich.it/education/mapping09/
+Il Ciocco, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

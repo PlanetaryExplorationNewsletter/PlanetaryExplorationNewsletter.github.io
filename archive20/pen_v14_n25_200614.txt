@@ -1,0 +1,493 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 25 (June 14, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC2020 Session ODAA1: Diversity and Inclusiveness in Planetary
+   Sciences
+2. EPSC2020 Session SB5: Observing and Modelling Meteors in Planetary
+   Atmospheres
+3. EPSC2020 Session SB11: Physical Properties of Small Bodies: 
+   Observations and Techniques
+4. EPSC2020 Session OPS3: "Planet" Titan
+5. EPSC2020 Session SB7: Space Missions to Small Bodies - Planetary 
+   Defense
+6. EPSC2020 Session SB3: Comets, Centaurs, Trans-Neptunian and 
+   Interstellar Objects
+7. GRAM Suite Version 1.0 Released
+8. ESA Project Scientist Position for Mars Sample Return Mission
+9. Faculty Positions at National Institute of Science Education and
+   Research (NISER), Bhubaneswar, India
+10. White Papers Deadline Extended
+11. Planetary and Astrobiology Blank Papers: White Papers Cancelled or
+    Downscaled Due to Direct Impact of COVID-19 and National-Scale 
+    Civil Action
+12. White Paper regarding RPIFs and the Planetary Data Ecosystem
+13. Postdoctoral Researcher in Planetary Magnetospheric Physics 
+14. Building a New Generation of Reviewers
+15. Planetary Meeting Calendar Additions
+16. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC2020 SESSION ODAA1: DIVERSITY AND INCLUSIVENESS IN PLANETARY
+SCIENCES
+
+The benefits of diversity and inclusiveness in the scientific community
+are incontrovertible. This session aims to foster debate within the
+planetary sciences community about the reasons behind
+under-representation of different groups (gender, cultural, ethnic
+origin and national) and best practices to make the research
+environment more inclusive identifying and addressing barriers to
+equality.
+
+We invite abstracts focusing on: under-representation (gender,
+cultural, ethnic origin and nationality biases) supported by statistics
+and data; outreach and education activities to reach broad and diverse
+audiences, best practices to support inclusiveness; and case studies on
+mentoring and bias-concerned activities.
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38414
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+Conveners: Arianna Piccialli, Lena Noack, Edgard Rivera-Valentin
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC2020 SESSION SB5: OBSERVING AND MODELLING METEORS IN PLANETARY
+ATMOSPHERES
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38553
+
+Session description: More than 10^7 kg of extraterrestrial objects or
+meteoroids ranging in size from a few microns to tens of meters in
+diameter enter the Earth's atmosphere every year. A small fraction of
+these yields free samples of extraterrestrial matter - meteorites - for
+laboratory study. The majority, which burn up or ablate completely in
+the Earth's atmosphere, appear as visible meteors in the night sky.
+Recording meteor activity and modelling the process of ablation allow
+us to measure directly the flux of small planetary impactors. This
+provides the 'ground truth' for estimating present cratering rates and
+planetary surface ages by implication.
+
+The application of the latest observational and modeling techniques has
+rendered meteor science as one of the leading avenues for investigating
+the nature and origin of interplanetary matter and its parent bodies.
+This session will provide a forum for presenting fundamental results
+and novel ideas in this area and informing the broader planetary
+science community of the interdisciplinary impact of present and future
+work. In particular, it will solicit contributions related to planetary
+defense and the impact hazard from meter-sized asteroids.
+
+Session conveners: Maria Gritsevich, Apostolos Christou, Jurgen Oberst,
+Elizabeth Silber, Joseph Trigo-Rodriguez
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC2020 SESSION SB11: PHYSICAL PROPERTIES OF SMALL BODIES: 
+OBSERVATIONS AND TECHNIQUES
+ 
+Dear Colleague,
+ 
+Please consider submitting an abstract to the EPSC SESSION SB11:
+Physical properties of small bodies: observations and techniques
+virtual meeting September 21 - October, 2020.
+
+Electromagnetic scattering phenomena play a key role in determining the
+properties of Solar System surfaces based on observations using
+different techniques and in a variety of wavelengths ranging from the
+ultraviolet to the radio. This session will promote a general
+advancement in the exploitation of observational and experimental
+techniques to characterize radiative transfer in complex particulate
+media. Abstracts are solicited on progresses in numerical methods to
+extract relevant information from imagery, photometry, polarimetry and
+spectroscopy in solid phase, reference laboratory databases,
+photometric modeling, interpreting features on planetary surfaces,
+mixing/unmixing methods... Software and web service applications are
+welcome.
+
+Abstract submission deadline: June 24, 2019, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38563
+ 
+Virtual meeting info:
+
+https://www.epsc2020.eu/virtual_meeting/overview.html
+ 
+Conveners: Stephane Erard, Maria Gritsevich, Karri Muinonen, Antti
+Penttila, Frederic Schmidt
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC2020 SESSION OPS3: "PLANET" TITAN 
+
+Please consider submitting an abstract to the EPSC session OPS3:
+"Planet" Titan 
+
+This will be a virtual meeting September 21 - October, 2020. 
+
+Despite its satellite status, Titan has nothing to envy to planets: it
+has planetary dimensions, a substantial and dynamic atmosphere, a
+carbon cycle, a variety of geological features (dunes, lakes, rivers,
+mountains...), seasons and a hidden ocean. It even now has its own
+mission: Dragonfly, selected by NASA in the frame of the New Frontiers
+program.
+
+In this session, scientific presentations are solicited to cover all
+aspects of current research on Titan: from its interior to its upper
+atmosphere, using data collected in the frame of the Cassini-Huygens
+mission (2004-2017) or from ground-based telescopes (e.g., ALMA) or
+based on modelling and experimental efforts to support the
+interpretation of past and future observations of this unique world.
+
+Abstract submission deadline: June 24, 2019, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38538 
+
+Virtual meeting info:
+
+https://www.epsc2020.eu/virtual_meeting/overview.html
+
+Convener: Alice Le Gall | Co-conveners: Anezina Solomonidou, Sandrine
+Vinatier, Giuseppe Mitri, Marco Mastroguiseppe, Sarah M. Horst
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC2020 SESSION SB7: SPACE MISSIONS TO SMALL BODIES - PLANETARY 
+DEFENSE
+
+Conveners: Patrick Michel, Andy Cheng, Julia de Leon, Michael Kueppers,
+Holger Sierks
+
+Dates: September 21, 2020 - October 9, 2020
+Abstracts are due June 24, 2020, 13:00 CEST
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38557 
+
+The NASA DART and the ESA Hera missions will allow performing the first
+complete asteroid deflection test by a kinetic impact, including the
+full characterization of the target and the impact outcome. The
+development of these missions is supported by a large number of
+activities in terms of modeling (impact process, dynamics, physical
+properties), instrumentation, close proximity operations and data
+analyses. In parallel, the inventory and spectral properties of
+Near-Earth Objects from Earth and from space (NEOSM) will progress
+substantially. This session welcomes contributions related to those
+fascinating topics.
+
+Please forward this message to your colleagues and in particular to
+any early career researcher you may know who is working on a relevant
+topic. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EPSC2020 SESSION SB3: COMETS, CENTAURS, TRANS-NEPTUNIAN AND 
+INTERSTELLAR OBJECTS
+
+https://meetingorganizer.copernicus.org/EPSC2020/session/38551
+
+Dates: 21 September 2020 - 9 October 2020
+
+Our knowledge of the physical and dynamical properties of the small
+body populations in the Solar System is constantly improving, thanks to
+new Earth- and space-based observations, space missions as well as
+theoretical advances, and the appearance of the first interstellar
+objects. The goal of this session is to highlight recent results that
+are providing fundamental clues about the early stages of the solar and
+extrasolar systems. Abstracts on topics related to comets, Centaurs,
+trans-neptunian and interstellar objects will be welcomed. 
+
+Abstracts are due June 24, 2020, 13:00 CEST. Go to:
+
+https://www.epsc2020.eu/abstract_management/how_to_submit_an_abstract.html
+
+Maria Teresa apria, Alan Fitzsimmons and Aurelie Guilbert-Lepoutre
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+GRAM SUITE VERSION 1.0 RELEASED
+
+The Global Reference Atmospheric Model (GRAM) Suite is an
+engineering-oriented atmospheric model that estimates mean values and
+statistical variations of atmospheric properties for planetary
+destinations. GRAM outputs include atmospheric density, temperature,
+pressure, winds, and chemical composition along a user-defined path. 
+The GRAMs have been rearchitected from Fortran to a common
+object-oriented C++ framework. This new architecture creates a common
+GRAM library of data models and utilities. Version 1.0 of the GRAM
+Suite contains the rearchitected Neptune-GRAM. The GRAM Suite is now
+available upon request through the NASA Software Catalog at:
+
+https://software.nasa.gov/software/MFS-33888-1
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ESA PROJECT SCIENTIST POSITION FOR MARS SAMPLE RETURN MISSION
+
+The European Space Agency's Directorates for Science and for Human and 
+Robotic Exploration are seeking a Programme Scientist for the Mars 
+Sample Return mission. Your primary role will be to lead the scientific 
+preparations in ESA for the Mars Sample Return Campaign. This campaign 
+is under study by ESA and NASA and aims to return about 500g of Mars 
+samples to Earth.
+
+The position is based at ESTEC in the Netherlands.
+Deadline for applications is July 7, 2020.
+
+Details can be found at: https://tinyurl.com/yacthy6l
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FACULTY POSITIONS AT NATIONAL INSTITUTE OF SCIENCE EDUCATION AND
+RESEARCH (NISER), BHUBANESWAR, INDIA
+
+The School of Earth and Planetary Sciences (SEPS) at National Institute
+of Science Education and Research (NISER), Bhubaneswar, India would
+like to inform you about the new interdisciplinary centre dedicated to
+leading the major research areas of Solar System science such as
+terrestrial planets, outer planets and small bodies (comets, KBOs,
+rings, asteroids, meteorites, and dusts), astrochemistry, astrobiology,
+exoplanets (atmospheres, interiors, and formation mechanisms), future
+planetary/exoplanetary missions, instrumentations, and techniques. We
+aim to achieve our goals by deepening the collaborations between the
+planetary scientists, astrophysicists, astrobiologists, astrochemists,
+earth scientists, and atmospheric physicists.
+
+Current faculty members in SEPS are involved actively in Indian and
+large international collaborative projects and
+astronomy/planetary/exoplanetary missions, e.g., SKA, ALMA,
+Chandrayaan-2, NASA's JWST, SOFIA, and Dawn.
+
+NISER SEPS is currently accepting potential faculty applications at
+various levels (Assistant Professor, Reader-F and Associate Professor):
+
+Please find detailed information here:
+
+https://www.niser.ac.in//notices/2019/recruitments/Rolling_Advt_Faculty_Oct-2019.pdf
+ 
+Please apply through online here:
+
+https://ims.niser.ac.in/OnlineRecruitmentApplication.action
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+WHITE PAPERS DEADLINE EXTENDED
+
+We recognize that we are in unforeseen and challenging times that
+impact the ability of community members to meet the previously defined
+July 4th deadline for Decadal white papers. These inputs are of
+crucial importance to the success of our Decadal, which depends upon
+the broad involvement of our community. 
+
+As such, we are implementing the following changes to the white paper
+deadlines:
+
+Science white papers - July 15
+Mission concept white papers - August 15
+All other white papers - September 15
+
+Read full statement from the co-chairs:
+
+https://us8.campaign-archive.com/?e=&u=e4e29ee864bd61cfd49438b70&id=4908e5ed96
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY AND ASTROBIOLOGY BLANK PAPERS: WHITE PAPERS CANCELLED OR
+DOWNSCALED DUE TO DIRECT IMPACT OF COVID-19 AND NATIONAL-SCALE CIVIL
+ACTION
+
+A community white paper for the Planetary and Astrobiology Decadal
+Survey is focused on capturing a list of white papers that have been
+cancelled or diminished by current events.
+
+If you have or know of any white papers that will not be written, or
+that will be substantially diminished in scope or scale due to these
+events, please add them to the table in the white paper. Please forward
+this information to colleagues as ppropriate.
+
+Link to paper:
+
+https://t.co/ZTbd5mhwxB
+ 
+Link to form to add a canceled or diminished white paper:
+
+https://forms.gle/xFijV5NB4Ngh2s4HA
+
+Please contact Noam Izenberg (noam.izenberg@jhuapl.edu) with any
+questions, and spread this info to those who might need it.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+WHITE PAPER REGARDING RPIFS AND THE PLANETARY DATA ECOSYSTEM
+
+NASA's Regional Planetary Image Facilities (RPIF) Network has supported
+the data analysis needs of the planetary community for over 45 years. 
+Over the last decade the Directors of the US RPIF nodes have developed
+a plan to evolve the RPIFs into digital data training and support
+centers to better enable community members to use spatially-enabled
+planetary data, and to better support the evolving Planetary Data
+Ecosystem. We have written a White Paper for the Astrobiology and
+Planetary Science Decadal Survey that explains this evolution, which
+can be downloaded at this link:
+
+https://sol.la.asu.edu/index.php/s/NB5mj6qzgCpz98s
+
+If you wish to sign on to this white paper as a co-signer, please email
+David.Williams@asu.edu by June 30 and I will add you name. Thank you!
+
+David A. Williams, Ph.D.
+Director, The Ronald Greeley Center for Planetary Studies
+The NASA RPIF at Arizona State University
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+POSTDOCTORAL RESEARCHER IN PLANETARY MAGNETOSPHERIC PHYSICS 
+
+Applications are now being accepted for two postdoctoral scientists to
+work with the NASA/Goddard Space Flight Center Planetary Magnetospheres
+Laboratory in Greenbelt, MD. The position is funded through the CRESST
+II.
+
+Position 1: The postdoctoral researcher will work for either the Juno
+project with the primary responsibility of conducting analysis and
+publishing the magnetometer results. In addition, the candidate will
+assist with the magnetometer data validation and calibration.
+
+Position 2: The data scientist's primary responsibility will be to
+develop a data production pipeline for future magnetometer missions.
+This involves taking raw magnetometer data, applying the appropriate
+transformations and calibrations, and producing the final public data
+products. The data scientist is encouraged to pursue their own research
+interest. Candidates for this position should have earned a Ph.D. in
+physics, astronomy, planetary science, space physics, geosciences, or
+related fields. Successful candidates should also have expertise with
+one or more programming languages commonly used in space science and a
+demonstrated track record in analyzing spaceflight data, especially
+magnetometer data and experience with the NAIF SPICE software package
+is highly desired. Applications received by July 15, 2020 will receive
+the best consideration. 
+
+https://jobregister.aas.org/ad/bb0cf722
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+BUILDING A NEW GENERATION OF REVIEWERS
+
+Dear colleagues,
+
+As the number of scientific publications grows, the need of reviewers
+in science is growing in the same measure. It's time for the younger
+generations to build reviewing experience in their CV and thus
+flanking/helping the experienced generations to bear an always growing
+workload. It's also a wonderful opportunity to have your say and your
+contribution to the improvement of submitted papers. It would be great
+to hear from new entries who are willing to review papers in the broad
+fields of planetary geology and volcanology. Anyone interested please
+drop me a line to the following email: giovanni.leone@uda.cl
+
+Best regards,
+
+Prof. Dr. Giovanni Leone
+
+Guest Editor - Journal of Volcanology and Geothermal Research
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 4-6, 2020
+Apophis T–9 Years: Knowledge Opportunities for the Science of Planetary Defense
+https://www.hou.usra.edu/meetings/apophis2020
+Online
+
+December 7-11, 2020
+AGU Fall Meeting
+https://www.agu.org/Fall-Meeting
+San Francisco, CA (and Online)
+
+March 15-19, 2021
+52nd Lunar and Planetary Science Conference
+https://www.hou.usra.edu/meetings/lpsc2021/
+The Woodlands, TX
+
+June 20-25, 2021
+Asteroids, Comets, Meteors Conference
+https://www.hou.usra.edu/meetings/acm2021/
+Flagstaff, AZ
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Inertial Modes of a Freely Rotating Ellipsoidal Planet and Their
+Relation to Nutations
+Jeremy Rekier et al. 2020 PSJ 1:20
+http://doi.org/10.3847/PSJ/ab93c8
+
+Experimental Investigation of Oxidation of Pyroxene and Basalt:
+Implications for Spectroscopic Analyses of the Surface of Venus and 
+the Ages of Lava Flows
+K. S. Cutler et al. 2020 PSJ 1:21
+http://doi.org/10.3847/PSJ/ab8faf
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

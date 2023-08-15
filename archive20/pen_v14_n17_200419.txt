@@ -1,0 +1,282 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 17 (April 17, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: MRO SHARAD Backlogged RDR Dataset Release, 47-49
+2. Planetary Exploration Budget Dataset Release
+3. Extended Deadline for Session Proposals, Workshops, Town Halls, AGU 
+   Fall Meeting
+4. OpenPlanetary Virtual Conference
+5. Save the Date - TESS Science Conference II
+6. SSfA Summer School
+7. Research Scientist II at the Jet Propulsion Laboratory
+8. Planetary Slides and Reports Available
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: MRO SHARAD BACKLOGGED RDR DATASET RELEASE, 47-49
+
+MRO SHARAD derived data from the ASI (Italian Space Agency) SHARAD
+Ground Operations Center have been released covering the period
+April 21-October 15, 2018. These time periods correspond to previous
+MRO releases 48-49, plus some missing data from release 47. Data are
+available here:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+The SHARAD team is recovering data from deliveries that were missed due
+to a hiatus in ground operations between June 2012 and March 2013. For
+details, see the file ERRATA.TXT on the archive volume at:
+
+http://pds-geosciences.wustl.edu/mro/mro-m-sharad-4-rdr-v1/mrosh_1004/
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY EXPLORATION BUDGET DATASET RELEASE
+
+The Planetary Society is pleased to release the planetary exploration
+budget dataset - the most comprehensive public reference of NASA's
+investments in robotic planetary exploration to date.
+The dataset includes the following unique features:
+
+- Total amounts (as proposed and actually spent) on NASA's planetary
+  science program since fiscal year 1959, including refined inflation
+  adjustments using NASA's New Start Index.
+- Complete spending profiles for every SMD-directed planetary mission
+  and every major planetary program (Mariner, Discovery, New
+  Frontiers, etc.), broken down by development, operations, and 
+  launch costs, where possible.
+- Congressionally enacted amounts for major planetary projects for
+  all fiscal years after 2000, where specified.
+- Raw data and program structure for nearly every planetary budget
+  request since fiscal year 1959.
+
+The data is being made available for free, to anyone. To access, and to
+see additional discussion on methods, data normalization, and context,
+visit:
+
+https://www.planetary.org/get-involved/be-a-space-advocate/become-an-expert/planetary-exploration-budget-dataset.html
+
+For questions, suggestions, or corrections, please contact 
+casey.dreier@planetary.org
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EXTENDED DEADLINE FOR SESSION PROPOSALS, WORKSHOPS, TOWN HALLS, AGU 
+FALL MEETING
+
+Just a reminder that the deadline for sessions, workshops, town halls, 
+and innovative sessions for the 2020 AGU Fall Meeting (7-11 December in 
+San Francisco) has been extended until Thursday, 23 April. So far we have 
+received very few session proposals to Planetary Sciences.
+
+I know we are all challenged by the current COVID-19 crisis, but I
+wanted to encourage you to propose your favorite session for this
+meeting.  Even if it ends up as a totally virtual meeting, it can help
+make up for the cancelled spring 2020 meetings. Stay safe everyone, and
+make your session proposals here:
+
+https://agu.confex.com/agu/fm20/prelim.cgi/Home/0
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPENPLANETARY VIRTUAL CONFERENCE
+
+OpenPlanetary will host a virtual planetary science conference from
+June 22-24. The conference will consist of lecture-length talks from
+invited speakers, coffee break / networking opportunities, workshops
+and tutorials, and a hackathon. The conference will have no
+registration fee, but registration will be required to participate. A
+schedule and website, with information on how to register, will be
+announced in the coming weeks.
+
+Contact chase@openplanetary.org with questions.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SAVE THE DATE - TESS SCIENCE CONFERENCE II
+
+The second TESS Science Conference will take place on August 2-6
+(Mon-Fri), 2021, at the Kresge Auditorium on MIT campus (Cambridge, MA,
+USA). The conference is timed at the beginning of the 2nd year of the
+TESS Extended Mission, and 4th year overall. The conference will cover
+all science done with TESS data, from Solar System, through exoplanets
+and stellar astrophysics, to extragalactic astronomy. The conference
+will focus on all aspects of the mission: TESS data analysis techniques
+developed by the community, follow-up observations, and how discoveries
+made with TESS data impact theoretical understanding. Later this year
+we will send a detailed announcement with information about 
+registration and accommodation options. Please direct any questions to:
+tsc2@mit.edu.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SSFA SUMMER SCHOOL
+
+Please note that the Summer School in Software Systems for Astronomy 
+(SSfA-7) will be offered online this year, and will be spread over 7 
+weeks, 22-Jun to 31-Jul, 2020.  The course covers software design and 
+implementation of telescope and instrument control systems, observation
+planning tools, and software for analyzing and archiving astronomical 
+data.
+
+If you are not a University of Hawaii at Hilo (UHH) student, use this
+link to be admitted for the summer:
+
+https://hilo.hawaii.edu/depts/summer/SummerAdmissions.php
+
+Once you have been admitted (or if you are already a UHH student), use
+this link to register:
+
+https://hilo.hawaii.edu/depts/summer/SummerCourseRegistration.php
+
+Direct questions to: aconrad@hawaii.edu
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+RESEARCH SCIENTIST II AT THE JET PROPULSION LABORATORY
+
+The Jet Propulsion Laboratory invites applications for a Scientist to 
+bring new expertise and ensure continuity of existing capabilities at 
+JPL. The successful candidate will develop an independently funded 
+research program, provide scientific leadership and support research 
+conducted within the laboratory studies group. The candidate will 
+publish in peer reviewed scientific journals, and present papers at 
+scientific conferences. 
+
+Qualifications:
+- Ph.D. degree in experimental chemistry or physics.
+- Demonstrated working knowledge at the forefront of experimental 
+  laboratory studies with direct planetary science applications (i.e, 
+  relevance to icy moons, Kuiper Belt Objects, dwarf planets, 
+  asteroids, comets, and Solar System evolution).
+- Demonstrated experience with a range of relevant experimental 
+  techniques (e.g., matrix isolation, UV an IR spectroscopy, mass 
+  spectroscopy, temperature programmed desorption) and apparatus 
+  (e.g., cryogenic systems, UHV systems).
+- Demonstrated reputation as a productive researcher with a track 
+  record of publications in peer-reviewed journals. 
+	
+Preferred qualifications:
+- 3-5 years of related post-doc experience.
+- History of writing successful external research funding proposals.
+- Demonstrated working knowledge of planning, execution, and analysis 
+  of astronomical observations.
+  
+Applications due by May 3, 2020, or until filled. Submit to:
+
+https://jpl.jobs/jobs/2020-11716-Research-Scientist-II-Laboratory-Studies
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY SLIDES AND REPORTS AVAILABLE
+
+Planetary Science Research Discoveries (PSRD) is a NASA-sponsored
+educational site sharing research on meteorites, asteroids, planets,
+moons, and other materials in our Solar System. Easily search through
+the extensive PSRD Archives for background reading and annotated slide
+sets for your online learning:
+
+http://www.psrd.hawaii.edu/Archive/
+
+For more slide presentations with extraterrestrial examples of topics
+covered in undergraduate geochemistry, petrology, and introductory
+geology courses, visit:
+
+https://www.higp.hawaii.edu/cosmoeye/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 18-19, 2020
+Astronomy From the Moon: The Next Decades - POSTPONED
+https://royalsociety.org/science-events-and-lectures/2020/03/astronomy-moon/
+London, United Kingdom
+
+April 19-24, 2020
+European Conference on Laboratory Astrophysics ECLA 2020: Linking Dust,
+Ice and Gas in Space - POSTPONED
+https://www.frcongressi.it/ecla2020/
+Anacapri, Italy
+
+October 12-16, 2020
+Thermal Infrared Astronomy - Past, Present and Future
+https://www.eso.org/sci/meetings/2020/IR2020.html
+Garching, Germany
+
+[Editor Note: Many meetings have been cancelled or postponed as a 
+consequence of the COVID-19 pandemic. Please go to the meeting site to 
+check for further information and rescheduled dates linked to 
+particular events.]
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://iopscience.iop.org/issue/2632-3338/1/1
+
+Retrograde-rotating Exoplanets Experience Obliquity Excitations in an
+Eccentricity-enabled Resonance
+Kreyche, et al., 2020. PSJ 1:8.
+http://doi.org/10.3847/PSJ/ab8198
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,403 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 4, Number 29 (July 11, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Melissa Lane, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  [NASA] Due date change for Kepler Guest Observer Program
+2.  [NASA] Planetary Data System Odyssey Data, release 32
+3.  Special Issue of Planetary and Space Science - "Titan Through Time"
+      Reminder of Deadlines
+4.  Planetary Data System - Cassini ISS and VIMS Release 22 Archive 
+      Data Volumes Available
+5.  July Decadal Survey Steering Group Meeting
+6.  [NASA] ROSES-10 Amendment 11: Earth and Space Science Experiments 
+      using Commercial Reusable Suborbital Research Vehicles and 
+      the International Space Station
+7.  2010 GSA Annual Meeting Session
+8.  Abstract deadline for 'Venus Our Closest Earth-Like Planet
+9.  Roadmap for Small Bodies Exploration in the Solar System
+10. 3rd Small Bodies Assessment Group Meeting - Registration Now Open
+11. Two Program Scientist Positions in Planetary Science Division,
+       NASA HQ will Close July 12th
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] DUE DATE CHANGE FOR KEPLER GUEST OBSERVER PROGRAM
+
+The Kepler Guest Observer Program solicits proposals for the 
+acquisition and analysis of new scientific data from the Kepler 
+mission, which is the tenth mission launched under NASA's Discovery
+Program. During its 3.5-year prime mission, Kepler will continuously 
+monitor a ~100 square degree field-of-view (FOV) in the Cygnus region
+(alpha=19h 22m 40s, delta=44deg 30' 00''), with the objective of 
+photometrically detecting transits of Earth-size planets in the 
+habitable zones (HZ) of stars in the solar neighborhood. The
+instrument's high-precision photometry capability, with two available 
+cadence modes (1 minute and 30-minute), provides a powerful tool
+for asteroseismology research and other variability analyses of both 
+Galactic and extragalactic sources.
+
+The due date for proposal submission is now 11:59 pm EST Dec 17, 2010.
+
+This amendment is posted at:
+
+http://nspires.nasaprs.com/
+
+select "Solicitations" then "Open Solicitations" then "NNH10ZDA001N". 
+
+Questions regarding the Kepler GO Program:
+Dr. Douglas Hudgins
+Astrophysics Division (Mail Code 3Y28)
+Science Missions Directorate
+NASA Headquarters
+Washington DC 20546-0001
+(202) 358-0988
+douglas.m.hudgins@nasa.gov
+
+You can now track amendments, clarifications and corrections to ROSES 
+and subscribe to an RSS feed at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2010
+
+(Editor note: Edited for length)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANETARY DATA SYSTEM ODYSSEY DATA, RELEASE 32
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 32, for the following instruments:
+
+     GRS
+     THEMIS
+     SPICE
+  
+There are no GRS gamma spectra included in this release. The gamma 
+sensor has stopped returning data. The HEND and Neutron Spectrometer 
+sensors are still operating.
+
+To access the above data, please visit:
+  
+http://pds.nasa.gov/subscription_service/SS-20100701.html
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SPECIAL ISSUE OF PLANETARY AND SPACE SCIENCE - "TITAN THROUGH TIME" -
+REMINDER OF DEADLINES
+
+We are pleased to announce that the previously-advertised special issue
+of Planetary and Space Science "Titan Through Time" has received a very
+strong response from the Titan research community and we anticipate a
+full issue. It may be possible to accomodate a small number of
+additional submissions: any further abstracts (due June 30th) should be
+submitted immediately (to conor.a.nixon@nasa.gov).
+
+The journal portal will open in the last week of July (a notice will be
+sent with details) and first submissions are due August 31st, 
+conforming to normal PSS formats. All details will be updated regularly 
+at this site:
+
+http://www.astro.umd.edu/~nixon/t3-pss-issue.html
+
+Conor Nixon and Ralph Lorenz
+Special Issue Guest Editors
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY DATA SYSTEM - CASSINI ISS AND VIMS RELEASE 22 ARCHIVE 
+DATA VOLUMES AVAILABLE
+
+The Imaging Node of the Planetary Data System has published the 
+Cassini Imaging Science System (ISS) volumes coiss_2056 and 
+coiss_2057 and Cassini Visual Infrared Mapping Spectrometer (VIMS) 
+volumes covims_0037 and covims_0038.  These can be found on the 
+Imaging Node website at URL:
+
+http://pds-imaging.jpl.nasa.gov/data/cassini/cassini_orbiter/
+
+These volumes contain all the Cassini ISS and VIMS data released 
+as part of the Cassini Data Archive Release 22.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JULY DECADAL SURVEY STEERING GROUP MEETING
+
+The Steering Group of the National Research Council's Planetary 
+Science Decadal Survey will hold its fourth and penultimate meeting 
+in Room 206 of the National Academies' Keck Center, 500 Fifth St. NW 
+Washington, D.C., on Tuesday-Thursday 13-15 July.  There are two open 
+sessions on the 13th but the remainder of the meeting will be held 
+in closed session.  The open sessions will be webcast at:
+
+http://connect.arc.nasa.gov/psdecadal/  
+
+To access the audio, you must call 1-866-525-2256, accesscode 7078222.  
+The times of the open sessions is available on the meeting agenda 
+posted on the decadal survey's website at:
+
+http://sites.nationalacademies.org/SSB/CurrentProjects/ssb_052412 
+
+Please note that the agenda is subject to change.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-10 AMENDMENT 11: EARTH AND SPACE SCIENCE EXPERIMENTS 
+USING COMMERCIAL REUSABLE SUBORBITAL RESEARCH VEHICLES AND THE ISS
+
+For both Commercial reusable suborbital research (CRuSR) vehicle 
+payloads and International Space Station (ISS) payloads, proposals 
+must be submitted to the appropriate ROSES program element depending
+on the science addressed by the proposed investigation. Proposals for
+investigations using CRuSR vehicles and the ISS are solicited through
+the Commercial Reusable Suborbital Research Platforms for Earth
+Science program (Appendix A.27), Geospace Science program (Appendix
+B.3), Solar and Heliospheric Science program (Appendix B.4),
+Planetary Astronomy program (Appendix C.5), and the Astrophysics
+Research and Analysis program (Appendix D.3). 
+
+Go to:
+
+http://nspires.nasaprs.com/ 
+
+select "Solicitations" then "Open Solicitations" then "NNH10ZDA001N". 
+
+General questions concerning the NASA Science Mission 
+Directorate's solicitation for CRuSR or ISS based experiments 
+may be addressed to:
+Dr. Paul Hertz
+Science Mission Directorate
+NASA Headquarters
+Washington, DC 20546-0001
+(202) 358-0986
+paul.hertz@nasa.gov
+
+You can now subscribe to an RSS feed for amendments, clarifications
+and corrections to ROSES at:
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2010/RSS.
+
+(Editor note: Edited for length, see links for full announcement)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+2010 GSA ANNUAL MEETING SESSION
+
+T107: Field Geology on Other Planets: An Emerging Science
+
+It is probably not well known in the geoscience community that we 
+have actually begun to do true exploration field geology on other 
+planetary bodies. Field geologic studies, including sampling, both 
+human and robotic, have now been done on the surface of the Moon. 
+On Mars we have now done robotic geologic transects on the surface 
+and reconnaissance geologic mapping. Even orbital imaging and 
+multispectral instruments in orbit around other bodies are providing 
+what amount to "air photos" and high-resolution spot remote sensing 
+at outcrop levels of resolution.
+
+This session will explore the status of past, present, and future 
+studies of planetary surfaces from the perspective of field geology. 
+Presentations will examine complex geologic relations on other planets 
+that have been determined through in situ and through near-remote 
+sensing studies of samples, outcrops, and terrains.
+
+Abstract Deadline: August 10
+
+http://www.geosociety.org/meetings/2010/sessions/topical.asp
+
+Annual Meeting: October 31 - November 3, 2010 in Denver, CO
+
+GSA Planetary Geology Division; GSA Quaternary Geology and 
+Geomorphology Division
+
+Larry S. Crumpler
+New Mexico Museum of Natural History & Science
+larry.crumpler@state.nm.us
+
+W. Brent Garry
+Smithsonian Institution
+garryw@si.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ABSTRACT DEADLINE FOR 'VENUS OUR CLOSEST EARTH-LIKE PLANET'
+
+Abstracts are due July 15 for 'Venus Our Closest Earth-Like Planet: 
+From Surface To Thermosphere - How Does It Work?' To be held in 
+Madison, Wisconsin, Aug. 30-Sept. 2. The 8th VEXAG meeting follows 
+on Sept. 2. For more information see:
+
+http://www.venus.wisc.edu/workshop/index.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ROADMAP FOR SMALL BODIES EXPLORATION IN THE SOLAR SYSTEM
+
+This is an open invitation for the planetary community to participate 
+in the Roadmap being generated by the NASA Small Bodies Assessment 
+Group. If you are interested, please go to 
+
+http://www.lpi.usra.edu/sbag
+
+and click on "Roadmap". You may register to subscribe to the various
+listservs for the different sections of the document:
+
+Science Issues (Lead: Joe Nuth, NASA Goddard)
+Population Identification and Characterization 
+           (Lead: Yan Fernandez, UCF)
+In-Situ Studies (Lead: Dan Britt, UCF)
+Sample Return (Lead: Paul Weissman, JPL)
+Theoretical Studies (Lead: David Nesvorney, SWRI)
+Laboratory Studies (Lead: Marla Moore and Reggie Hudson, NASA Goddard)
+Human Exploration (Lead: Paul Abell, PSI)
+Technology (Lead: John Dankanich, NASA Glenn)
+Data Archiving and Access (Lead: Mark Sykes, PSI)
+
+The Roadmap will be a living document laying out where we are, where 
+we want to go and what is needed to get there in the exploration of 
+small bodies. 
+
+The timeline for generating this document is:
+
+August 3-4    Draft Roadmap section outlines posted for community
+              comment and discussed at the 3rd SBAG Meeting 
+              (Pasadena, CA).
+
+January 25-26 Completed section drafts posted for community comment
+              and discussed at the 4th SBAG Meeting (Washington, DC).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+3RD SMALL BODIES ASSESSMENT GROUP MEETING - REGISTRATION NOW OPEN
+
+Date: August 3-4, 2010
+Location: Pasadena, CA
+Site: Westin Hotel Pasadena
+
+You are invited to participate in the 3rd SBAG Meeting. Registration 
+is now open. Please go to:
+
+http://www.lpi.usra.edu/sbag/meetings/
+
+There is no registration fee. In order for us to adequately plan for 
+the facility and refreshments, please register by July 21. Information 
+on the meeting site and hotel accommodations, as well as a draft 
+agenda is also posted at the above URL.
+
+See you there!
+
+On behalf of the SBAG steering committee,
+
+Mark V. Sykes
+SBAG Chair
+sykes@psi.edu
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TWO PROGRAM SCIENTIST POSITIONS IN PLANETARY SCIENCE DIVISION, NASA 
+HQ WILL CLOSE JULY 12TH
+ 
+This is just a reminder that time is running out for a great Civil 
+Servant opportunity in the Planetary Science Division of NASA 
+Headquarters.  The USAJobs Vacancy number for two Program Scientist 
+positions is HQ10B0129. These positions opened on Monday, June 14, 
+2010, and will close at midnight on Monday, July 12, 2010.
+ 
+For instructions on how to apply and qualification requirements, 
+please access the full text vacancy announcement at:
+ 
+http://jobsearch.usajobs.gov/ftva.asp?opmcontrol=1940244
+ 
+U.S. citizenship is required. NASA is an Equal Opportunity Employer 
+and Provider.
+ 
+Once again, I would like to encourage you to apply for one of these 
+fabulous opportunities.
+ 
+James L. Green, Director, Planetary Science Division
+NASA Headquarters
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 23-24, 2010
+The Transient Universe: From Exoplanets to Hypernovae
+http://ria.ie/Events/Events-Listing/Two-day-conference--
+The-Transient-Universe--from-e.aspx
+Dublin, Ireland
+
+October 27-30, 2010Joint meeting: "Paneth Kolloquium" & "The first 
+10 million years of the solar system"
+http://www.cosmochemistry.org/
+Noerdlingen, Germany
+
+January 5-9, 2011
+Archaeoastronomy and Ethnoastronomy: Building Bridges Between Cultures
+http://www1.archaeoastronomy.org/index.php?option=com_content&view=
+article&id=13&Itemid=15&lang=en
+Lima, Peru
+
+Posted at http://planetarynews.org/meetings.html
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+*
+***********************************************************************
+

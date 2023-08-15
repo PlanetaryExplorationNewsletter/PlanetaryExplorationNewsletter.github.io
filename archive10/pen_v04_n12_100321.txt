@@ -1,0 +1,294 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 12 (March 21, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Melissa Lane, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Venus-GRAM Now Available as Public Domain Software
+2. [NASA] Civil Service Position at NASA Johnson Space Center: 
+   Small bodies and near-Earth objects
+3. [NASA] Lunar Reconnaissance Orbiter Release 1
+4. MEPAG WebEx and Teleconference information
+5. Information Session on ESA's Lunar Lander: A Precursor to Human 
+   Exploration 
+6. International Venus Conference, Aussois, France, 20-26 June 2010
+7. Abstracts & Registration Being Accepted for August 2010 ASP Meeting
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+VENUS-GRAM NOW AVAILABLE AS PUBLIC DOMAIN SOFTWARE
+
+The Venus Global Reference Atmospheric Model (Venus-GRAM) was developed 
+by the NASA Marshall Space Flight Center's Natural Environments Branch.  
+Venus-GRAM is suitable for a variety of engineering applications at all 
+attitudes, locations, and times within the atmosphere of Venus and is 
+based on the Committee on Space Research (COSPAR) Venus International 
+Reference Atmosphere (VIRA).  Venus-GRAM has recently been reclassified 
+as public domain software.  As a result of this change, Venus-GRAM is 
+now available upon request through the website: 
+
+http://see.msfc.nasa.gov/tte/model_Venusgram.htm
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] CIVIL SERVICE POSITION AT NASA JOHNSON SPACE CENTER: 
+SMALL BODIES AND NEAR-EARTH OBJECTS
+
+The Astromaterials Research and Exploration Science (ARES) Directorate 
+at NASA Johnson Space Center (JSC) announces an opening for a civil 
+service research scientist in the Astromaterials Research Office.  The 
+incumbent will serve as a Planetary and Exploration Science Expert and 
+will be expected to conduct fundamental research and to support 
+mission planning for exploration of small planetary bodies (asteroids, 
+near-Earth objects, comets). A Ph.D. or equivalent experience in 
+chemistry, physics, geology, geochemistry, planetary sciences, 
+astronomy, or a related field is required. The position requires an 
+expert knowledge of advanced principles and practices of planetary and 
+space sciences, with detailed scientific competence that enables the 
+incumbent to investigate and provide consultative services on the 
+entire range of complex scientific questions within the area of 
+expertise.  The position will be filled at the GS-14 level.
+
+All applications must be made through the www.USAJobs.gov website, 
+using position number JS10D0059.  The application opportunity will 
+close 9 April 2010.  Please address inquiries to Drs. David Draper 
+(Manager, Astromaterials Research Office, david.draper@nasa.gov), 
+Gregory Byrne (Assistant Director, ARES, gregory.j.byrne@nasa.gov) 
+or Eileen Stansbery (Director, ARES, eileen.k.stansbery@nasa.gov).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] LUNAR RECONNAISSANCE ORBITER RELEASE 1
+
+The NASA Planetary Data System announces the first release of data from 
+the Lunar Reconnaissance Orbiter (LRO) mission. This release includes 
+raw and derived products for data acquired from the start of mapping on 
+September 15, 2009, through December 14, 2009, along with data 
+collected during the commissioning phase June 23 - September 14, 2009.
+
+Data sets from the following experiments are included in this release:
+
+- Cosmic Ray Telescope for Effects of Radiation (CRaTER)
+- Diviner Lunar Radiometer Experiment (DLRE)
+- Lyman-Alpha Mapping Project (LAMP)
+- Lunar Exploration Neutron Detector (LEND)
+- Lunar Orbiter Laser Altimeter (LOLA)
+- Lunar Reconnaissance Orbiter Camera (LROC)
+- Mini-Radio Frequency technology demonstration (Mini-RF)
+
+The data may be accessed from 
+
+http://pds.nasa.gov/ 
+
+or 
+
+http://pds.nasa.gov/subscription_service/SS-20100315.html.
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria. The Image Atlas will be available 
+shortly. Please check the Imaging Node web site for information about 
+its availability.
+
+http://pds-imaging.jpl.nasa.gov/.
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data sets 
+(Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MEPAG WEBEX AND TELECONFERENCE INFORMATION
+
+Teleconference numbers and WebEx instructions have been posted 
+to the MEPAG website at:
+
+http://mepag.jpl.nasa.gov/meeting/mar-10/webex.html
+
+And are duplicated below:
+
+WebEx Directions
+
+Topic: MEPAG #22
+Date: Every 1 day, from Wednesday, March 17, 2010 to Thursday, 
+March 18, 2010
+Time: 7:00 am, Pacific Time (San Francisco, GMT-08:00)
+Meeting Number: 992 687 152
+Meeting Password: MEPAG#22webex
+
+To join the online meeting (Now from iPhones too!):
+
+1. Go to https://nasa.webex.com/nasa/j.php?ED=123783202&UID
+=0&PW=NOTdmNTgwM2M4&RT=MiM0
+2. Enter your name and email address.
+3. Enter the meeting password: MEPAG#22webex
+4. Click "Join Now".
+5. Follow the instructions that appear on your screen.
+
+To view in other time zones or languages, please click the link:
+
+https://nasa.webex.com/nasa/j.php?ED=123783202&UID=0&PW
+=NOTdmNTgwM2M4&ORT=MiM0
+
+For assistance:
+
+1. Go to https://nasa.webex.com/nasa/mc
+2. On the left navigation bar, click "Support".
+
+NASA Conferencing Center:
+
+Call-in toll free number: 888-790-3557
+Call-in toll number: 1-517-308-9292
+Participant passcode: 5378854
+Call-in time: 08:15 AM PACIFIC TIME
+
+Hope you can join us.
+
+Dr. Charles Budney
+Mars Program Office
+Jet Propulsion Laboratory
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INFORMATION SESSION ON ESA's LUNAR LANDER:
+A PRECURSOR TO HUMAN EXPLORAION
+
+ESA's Human Space Flight Directorate will be hosting an information 
+session on their plans for a Lunar Lander mission on 14 April 2010; 
+a precursor to human exploration for the Moon. This mission will 
+perform soft precision landing at the Lunar South Pole and provides 
+opportunities for a payload which prepares for human exploration. 
+
+The session is primarily intended to inform and update respondents to 
+2009's Lunar Lander Request For Information (RFI) about the mission 
+and its objectives, ongoing work and plans for the future.  The session 
+may also be of interest to other stakeholders in Lunar Exploration. 
+
+Topics presented will include 
+
+Lunar Lander mission outline 
+Formulation of mission objectives 
+Model payload 
+
+The session will take place at the European Space Research and 
+Technology Centre (ESTEC) in the Netherlands and will also be broadcast 
+online. 
+
+Persons wishing to attend the session in ESTEC or view remotely via 
+the internet, either live or later on, are requested to e-mail 
+explorationcall@esa.int. Questions regarding the event can also be 
+sent via the same address. 
+
+We look forward to sharing our plans for lunar exploration with you. 
+
+The ESA Lunar Lander Team
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+INTERNATIONAL VENUS CONFERENCE, AUSSOIS, FRANCE, 20-26 June 2010
+
+With the arrival of Venus Express at Venus in April 2005 Venus research 
+got a well deserved boost after being more or less in hibernation for 
+more than a decade. Many research groups, worldwide, have intensified 
+their work both in data analysis and in modelling. In December 2010 the 
+Japanese Venus Climate Orbiter, now named Akatsuki will arrive at 
+Venus, allowing for joint simultaneous observations from two spacecraft 
+for the first time. This conference will deal with new results in all 
+fields related to Venus, from the interior through surface and 
+atmosphere to the plasma environment, including reanalysis of older 
+datasets and comparative planetology, extended to exoplanets. The 
+format is based on sessions of typically half a day in duration, each 
+introduced by one or two invited talks. The conference will be held in 
+the small village Aussois in the French Alps, reachable via train to 
+Modane. The closest international airports are at Lyon, Geneva and 
+Torino. Thanks to our sponsors we can offer a very competitive package 
+including registration, lodging and meals for the whole week. The 
+meeting website   
+
+http://lesia.obspm.fr/venus2010/    
+
+is open for registration and abstract submission. Abstracts are 
+accepted until April 6.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+ABSTRACTS & REGISTRATION BEING ACCEPTED FOR AUGUST 2010 ASP MEETING
+
+Registration is Open for ASP Meeting in Boulder in August on Space and 
+Earth Science Education
+
+The Astronomical Society of the Pacific's web site for its 2010 
+meeting is now accepting registration and abstract submissions at:
+
+http://www.astrosociety.org/2010meeting
+
+This meeting, being held on the scenic University of Colorado campus 
+in Boulder from Jul. 31 to Aug. 4, brings together two hands-on 
+symposia that the ASP has been sponsoring:
+
+* Cosmos in the Classroom: Teaching Introductory Astronomy and 
+  Planetary Science to Non-science Majors
+* Earth and Space Science: Making Connections in Education and Public 
+  Outreach.
+
+Inexpensive hotel accommodations and campus residence halls have been 
+arranged. Some scholarships are available for astronomy instructors 
+from community colleges and other colleges where travel budgets are 
+limited or non-existent.
+
+Abstracts are welcome for a number of different types of contributions 
+to the two symposia. Full instructions are available on the meeting web 
+site. The deadline for submitting an abstract is April 23.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 11-17, 2011
+Extreme Solar Systems II
+http://ciera.northwestern.edu/Jackson2011/
+Moran, WY
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+ 
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

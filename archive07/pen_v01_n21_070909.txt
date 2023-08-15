@@ -1,0 +1,203 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 21 (September 9, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] NSPIRES: FUSE Legacy Science Program cancelled
+2. [NASA] NSPIRES: Proposal due date reminder for Research and 
+   Technology Development to Support Crew Health and Performance in 
+   Space Exploration
+3. [NASA] PDS releases Lunar Radar data set
+4. Planetary Atmospheres workshop abstract deadline *SEPTEMBER 11th*
+5. Status of FY 2008 Appropriations bills
+6. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] NSPIRES: FUSE LEGACY SCIENCE PROGRAM CANCELLED
+
+This amendment cancels the program element in Appendix D.11 entitled 
+"FUSE Legacy Science Program."
+
+The last operational reaction wheel on FUSE (Far Ultraviolet 
+Spectroscopic Explorer) stopped on July 12. Attempts to restart any 
+of the wheels have been unsuccessful. Although the instrument remains 
+in excellent condition, the FUSE satellite is currently incapable of 
+the fine pointing control required to continue its science mission, 
+and there is no real prospect for recovering this capability. The 
+NASA Science Mission Directorate has concluded that the scientific 
+mission of FUSE is no longer viable and has decided to terminate the 
+mission. The Astrophysics Division intends to place special emphasis 
+on FUSE archival research in the 2008 Astrophysics Data Program that 
+will be part of the 2008 ROSES proposal solicitation.
+
+On or about September 7, 2007, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2007" (NNH07ZDA001N) will be posted on the NASA research 
+opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+(select "Solicitations" then "Open Solicitations" then "NNH07ZDA001N").
+
+Further information about this program element is available from Dr. 
+Hashima Hasan, Astrophysics Division, Science Mission Directorate, 
+NASA, Washington, DC 20546-0001; Telephone: (202) 358-0692; E-mail: 
+hhasan@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NSPIRES: PROPOSAL DUE DATE REMINDER FOR RESEARCH AND TECHNOLOGY 
+DEVELOPMENT TO SUPPORT CREW HEALTH AND PERFORMANCE IN SPACE EXPLORATION
+
+This notice is a reminder that Step-1 proposals for the Research and 
+Technology Development to Support Crew Health and Performance in 
+Space Exploration Missions NRA (NRA NNJ07ZSA002N) are due September 
+14, 2007 at 5:00 PM Eastern Time. As specified in the NRA on pages 
+NSPIRES-2 and 4, Step-1 proposals must be submitted by an official of 
+the PI's organization after the PI has released the prepared proposal 
+to the institution official.  It is strongly recommended that the PI 
+work closely with his/her organization official to ensure the 
+proposal is submitted by the due date and time listed in this 
+solicitation. See 'open solicitations' at:
+
+http://nspires.nasaprs.com/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS RELEASES LUNAR RADAR DATA SET
+
+The Planetary Data System has released a new lunar radar data set 
+provided by Bruce Campbell of the Smithsonian Institution's Center for
+Earth and Planetary Studies. The data set is a dual-polarization 
+calibrated radar map of the moon collected at 70 cm wavelength, using 
+the 305-meter radio telescope at Arecibo to transmit and the NRAO's 
+105-meter Robert C. Byrd Green Bank Telescope to receive. The data are
+available from the PDS Geosciences Node at:
+ 
+http://pds-geosciences.wustl.edu/missions/lunar_radar/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY ATMOSPHERES WORKSHOP ABSTRACT DEADLINE *SEPTEMBER 11TH*
+
+Reminder:  Abstracts for the Planetary Atmospheres workshop are due on 
+Monday *SEPTEMBER 11th, 8am CDT*.
+
+Location and date: Greenbelt, MD, November 6-7, 2007
+Convenor: Phil Crane, NASA Headquarters
+
+This professional workshop will highlight scientific research that 
+falls under the traditional purview of the NASA Planetary Atmospheres 
+Program. The main goals of the workshop are to facilitate communication
+between atmospheres researchers; to provide opportunity for cross-
+discipline interaction; to identify particular fields of interest in 
+planetary atmospheres research for the next decade; and to stimulate 
+theoretical, laboratory, and data-gathering activities in those 
+critical fields. See:
+
+http://www.lpi.usra.edu/meetings/patm2007/
+
+The abstract deadline is Monday 8 am CDT. Late abstracts may still
+be considered for poster space but will not be included in the printed
+volume.
+
+Julianne Moses 
+moses@lpi.usra.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+STATUS OF FY 2008 APPROPRIATIONS BILLS
+
+PEN readers are directed to The American Institute of Physics Bulletin 
+of Science Policy News at 
+
+http://www.aip.org/fyi/2007/093.html
+
+"The House and Senate returned to Washington yesterday, with less
+than four weeks to go until the start of the new fiscal year.
+The outlook for the completion of the FY 2008 budget cycle is
+still very uncertain;  the only certainty is that it will not be
+completed by September 30."
+
+Links to information about the House and Senate bills for NASA, NSF,
+USGS and other agencies are linked in this bulletin.
+
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 5-7, 2008
+2008 SORCE Science Meeting: SORCEs Past, Present, and Future Role in 
+Earth Science Research
+Santa Fe, NM
+http://lasp.colorado.edu/sorce/news/2008ScienceMeeting/
+
+February 12-16, 2008
+Dynamical Astronomy in Latin America
+Mexico City, Mexico
+http://www.astroscu.unam.mx/congresos/adela/
+
+March 10-13, 2008
+Leverhulme Climate Symposium
+Cambridge, United Kingdom
+http://www.leverhulmeclimatesymposium.org/
+
+April 13-18, 2008
+European Geosciences Union General Assembly 2008
+Vienna, Austria
+http://meetings.copernicus.org/egu2008/
+
+May 12-16, 2008
+SpaceOps 2008: Protecting the Earth, Exploring the Universe
+Heidelberg, Germany
+http://www.aiaa.org/content.cfm?pageid=230&lumeetingid=1436
+
+May 27-30, 2008
+2008 Joint Assembly (of Geophysical Unions)
+Fort Lauderdale, FL
+http://www.agu.org/meetings/ja08/
+
+May 28-31, 2008
+1st International HEPPA Workshop 2008 on High-Energy Particle
+Precipitation
+in the Atmosphere
+Helsinki, Finland
+http://www.fmi.fi/research_atmosphere/atmosphere_21.html
+
+July 29 - August 1, 2008
+2008 Western Pacific Geophysics Meeting
+Cairns, Australia
+http://www.agu.org/meetings/wp08/
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

@@ -1,0 +1,247 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 53 (December 25, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. LPSC Special Session on LIPs
+2. LPSC Special Session on Mars Volatile Surface-Atmospheric 
+   Interactions: Past and Present
+3. [NASA] PDS - Mars Exploration Rovers Data Release 50
+4. Planetary Geomorphology at EGU 2017
+5. Research Support Specialist III - SPIF/GIS Manager Cornell 
+   University
+6. [NASA] RFI for Life Detection Challenge
+7. Mars 2020 Rover Landing Site Engineering Telecon
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+LPSC SPECIAL SESSION ON LIPS
+
+Please consider submitting your abstract to the special session on 
+Large Igneous Provinces (LIPs) in the Solar System for the 48th LPSC. 
+Comparing LIPs on different planetary bodies will provide lively 
+discussion, greater understanding, synergy and collaborations. Please 
+contact conveners Tracy Gregg (tgregg@buffalo.edu) or Richard Ernst 
+(Richard.Ernst@ErnstGeosciences.com) if you have any questions.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LPSC SPECIAL SESSION ON MARS VOLATILE SURFACE-ATMOSPHERE INTERACTIONS:
+PAST AND PRESENT
+
+This session will focus on the recent advancements in Mars polar 
+science. The exchange of volatiles between the atmosphere and the 
+surface is one of the modern climate drivers, and one of the most 
+active processes on modern Mars. If one defines the polar regions as 
+places with active exchange, then the term "polar processes" includes 
+the mid-latitudes and the Tharsis bulge. Both invited and contributed 
+abstracts are welcome.
+
+LPSC Planetary Polar Processes and/or Cryospheres.
+
+In addition to the Mars Special Session, there is also the more 
+general "Planetary Polar Processes and/or Cryospheres." In the past, 
+this session has mostly attracted abstracts from the Mars and Mars 
+Analog communities. We encourage the use of this session topic for 
+all planetary bodies that have cryospheres - especially those icy 
+bodies in or past the Main Asteroid Belt.
+
+Abstract Deadline:  Tuesday, January 10, 2017
+(5:00 p.m. U.S. Central Standard Time, GMT-6)
+
+http://www.hou.usra.edu/meetings/lpsc2017/programAbstracts
+/instructions/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 50
+
+The Planetary Data System (PDS) is pleased to announce Release 50
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 4321 through 4410, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There is no Radio Science data in this release, and no more Mini-TES
+or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20161219.shtml
+
+The following special services are provided for accessing MER data.
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY GEOMORPHOLOGY AT EGU 2017
+
+Abstract deadline 11th Jan.
+
+Once you have turned in your LPSC abstract(s), get thinking about EGU! 
+The Planetary Geomorphology session GM1.4/PS9.5 at EGU2017 (Vienna 
+Austria 23-28 April) welcomes abstracts concerning landforms and the 
+processes that shape them on all solar system bodies. Earth analogue 
+studies, flume/simulation work and novel approaches using remote 
+sensing data are especially encouraged. This session has always 
+provided a stimulating forum for cross-disciplinary discussion and we 
+hope you'll join us once again to bring geomorphology and planetary 
+science closer together. This year we welcome Prof. Michael Lamb from 
+Caltech as our invited speaker!
+
+Session details and link to abstract submission: 
+
+http://meetingorganizer.copernicus.org/EGU2017/session/24124
+
+Abstract instructions: 
+
+http://egu2017.eu/abstract_management/how_to_submit_an_abstract.html
+
+Regards,
+
+Planetary Geomorphology Conveners
+Susan Conway 
+Matthew Balme 
+Davide Baioni 
+Tjalling de Haas 
+Nikolaus J. Kuhn
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+RESEARCH SUPPORT SPECIALIST III - SPIT/GIS MANAGER CORNELL UNIVERSITY
+
+The Cornell Center for Atmospheric and Planetary Science seeks 
+candidates with GIS experience to fill our Spacecraft Planetary 
+Imaging Facility, (SPIF) Data Manager's/GIS Specialist position. The 
+SPIF Manager is responsible for the management of all aspects of SPIF 
+operations. Assisting users in locating, processing and analyzing 
+spacecraft data stored in NASA Planetary Data Systems. The successful 
+candidate will hold yearly workshops on ArcGIS, SOCET, SET/GPX, and PDS 
+data processing using USGS ISIS software package. They will also 
+develop and maintain education/public outreach programs alongside 
+existing center outreach personnel. To apply and see additional 
+information please go to:  
+
+https://cornell.wd1.myworkdayjobs.com/en-US/CornellCareerPage/job
+/Ithaca-Main-Campus/SPIF-Data-Manager-GIS-Specialist_WDR-00009712-1 
+
+Question may be directed to Lynda Sovocool, Finance and Human Resource 
+Manager, lmk3@cornell.edu.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] RFI FOR LIFE DETECTION CHALLENGE
+
+NASA has released a Request For Information seeking input on a 
+potential new Centennial Challenge. The Centennial Challenges program 
+is seeking input on a life detection challenge proposed to start in 
+2017. The challenge focuses on building and demonstrating a scientific 
+instrument capable of detecting evidence of Earth-type life in a small 
+(10 mL) liquid sample provided to the instrument. The RFI is available 
+at:
+
+https://www.fbo.gov/index?s=opportunity&mode=form&id
+=816f28a096b0afa5db189264e7e95b96&tab=core&_cview=0  
+
+Further information is available from:
+
+Melinda E. Swenson 
+melinda.e.swenson@nasa.gov
+(256)544-0381
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS 2020 ROVER LANDING SITE ENGINEERING TELECON
+
+Save the date! A pre-workshop "Landing Site Engineering Telecon" 
+webcast is planned for Tuesday, January 31, 2017 at 
+10:00am-12:00pm PST. Connection and content information will be posted 
+at the meeting website by mid-January: 
+
+http://marsnext.jpl.nasa.gov 
+
+Materials presented will be relevant for the 3rd Landing Site Workshop 
+presentations and discussion.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 27-March 1, 2017
+Planetary Science Vision 2050 Workshop
+http://www.hou.usra.edu/meetings/V2050/
+Washington, DC
+
+May 4-5, 2017
+New Views of the Moon - Europe
+http://www.hou.usra.edu/meetings/newviews2017/
+Muenster, Germany
+
+May 15-19, 2017
+The Applied Space Environments Conference (ASCE 2017):
+Measurements, Models, Testing, and Tools
+http://sti.usra.edu/asec2017/
+Huntsville, AL
+
+July 26-27, 2017
+CHEOPS Open Time Workshop
+http://www.cosmos.esa.int/web/cheops-open-time-workshop-2017/
+Schloss Seggau, Austria
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

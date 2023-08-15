@@ -1,0 +1,418 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 51 (December 11, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Positions in Planetary Physics, Johns Hopkins 
+   University
+2. Seeking Graduate Students, Northern Arizona University
+3. Call for Presentations for the 3rd 2020 Mars Rover Mission Landing 
+   Site Workshop
+4. Mars Science Laboratory Release 13
+5. Mars Exploration Science Monthly Newsletter for December 2016
+6. Second Announcement of Mars Polar Icarus Special Issue
+7. Post-doctoral Scientist in Planetary Space Physics at the Swedish 
+   Institute of Space Physics in Uppsala
+8. European Lunar Symposium Call for Abstracts
+9. Dust, Atmosphere and Plasma Environment of the Moon and Small 
+   Bodies Workshop
+10. TH23K: NASA Planetary Sciences Division Town Hall
+11. NASA New Frontiers Program AO Released
+12. Working Group on Finding Signs of Past Rock-Hosted Life
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL POSITION IN PLANETARY PHYSICS, JOHNS HOPKINS UNIVERSITY
+
+Applications are invited for multiple postdoctoral positions working 
+on research topics related to planetary physics (solar system or 
+extrasolar) in Prof. Sabine Stanley's group in the Department of Earth 
+and Planetary Sciences at Johns Hopkins University. Areas of interest 
+include theoretical, observational or computational studies in 
+planetary magnetic fields, planetary interior structure and evolution, 
+dynamo theory, or other topics where a strong collaboration with Prof. 
+Stanley's group is beneficial. In addition to members of the 
+Department of Earth and Planetary Sciences, there are also 
+opportunities for interactions with planetary scientists at the 
+Applied Physics Laboratory and the Space Science Telescope Institute. 
+One position will involve spending the majority of time at the Applied 
+Physics Lab. The deadline for applications is February 15th, 2017. 
+Further details can be found at: 
+
+http://apply.interfolio.com/39656 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+SEEKING GRADUATE STUDENTS, NORTHERN ARIZONA UNIVERSITY
+
+We are recruiting excellent undergraduates for our PhD program in 
+Astronomy and Planetary Science at Northern Arizona University. Our 
+department is rapidly growing, and our new PhD students will join 
+students, postdocs, and faculty working on telescopic observations of 
+our Solar System and other planetary systems; spacecraft explorations 
+of Mars and other bodies in our Solar System; "big data" science, in 
+preparation for LSST; and astrophysical laboratory experiments, among 
+other topics. We enjoy unparalleled telescope access and rich 
+collaborations with neighboring institutions Lowell Observatory and 
+the US Geological Survey/Astrogeology Branch.
+
+Flagstaff is a beautiful four seasons mountain town that is surrounded 
+by national forest; nearly every kind of outdoor activity takes place 
+within minutes of downtown's excellent food/coffee/beer/art scene.
+
+Applications are due January 15, but preference will be given to 
+applications that are received by January 1. For more information, 
+including list of current faculty and their research interests, as 
+well as how to apply to our program, please see
+
+http://www.physics.nau.edu/AstroPhD
+
+Please do not hesitate to contact me or any member of our department 
+for additional information. You may also send queries to 
+astronomy.grad@nau.edu. We look forward to hearing from you!
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CALL FOR PRESENTATIONS FOR THE 3RD 2020 MARS ROVER MISSION LANDING 
+SITE WORKSHOP
+
+The 3rd landing site workshop for the 2020 Mars Rover mission will be 
+held at the Doubletree Hotel, Monrovia, CA, on February 8-10, 2017. 
+Presentations are solicited on the science merits of the eight 
+remaining candidate landing sites for the Mars 2020 mission. The full 
+second announcement/call for presentations, workshop logistics, and a 
+request for registration can be found at:
+
+http://marsnext.jpl.nasa.gov/workshops/wkshp_2017_02.cfm
+
+The primary goal of the third workshop will be to further evaluate the 
+eight candidate landing sites that emerged from the second workshop and
+reduce the number of candidate sites remaining under consideration to 
+three or four. Evaluations at the Workshop will employ the framework 
+provided by existing data for Mars (e.g., MRO), the science 
+requirements of the 2020 mission, and a better understanding of the 
+2020 engineering requirements and traversability of the landing sites 
+relative to these requirements. Presenters at the workshop are expected 
+to make a comprehensive, persuasive talk on why a specific site is the 
+right one for the 2020 mission and payload, including how and where the 
+science objectives of the mission can be accomplished.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MARS SCIENCE LABORATORY RELEASE 13
+
+The NASA Planetary Data System announces the thirteenth release of 
+data from the Mars Science Laboratory (MSL) mission, covering data 
+acquired from Sol 1294 through Sol 1417 (March 27, 2016, to August 1, 
+2016).
+
+This release consists of raw and derived data sets from:
+  Alpha Particle X-ray Spectrometer (APXS)
+  Chemistry & Micro-Imaging (ChemCam)
+  Chemistry and Mineralogy (CheMin)
+  Dynamic Albedo of Neutrons (DAN)
+  Hazard Avoidance Cameras (Hazcam)
+  Mars Hand Lens Imager (MAHLI)
+  Mars Descent Imager (MARDI)
+  Mast-mounted Cameras (Mastcam)
+  Navigation Cameras (Navcam)
+  Position Localization and Attitude Correction Estimate Storage 
+     (PLACES)
+  Radiation Assessment Detector (RAD)
+  Rover Environmental Monitoring Station (REMS)
+  Sample Analysis at Mars (SAM)
+  Spacecraft, Planet, Instrument, Pointing C-Matrix, and Event kernels 
+     (SPICE)
+
+To access the above data for this release at:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20161205.shtml
+
+Links to all MSL data sets may be found on the PDS Geosciences Node 
+web site at: 
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+The data may also be reached from the main PDS home page at: 
+
+http://pds.nasa.gov/ 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and 
+Ancillary Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives at: 
+
+http://pds-imaging.jpl.nasa.gov/search/
+
+http://an.rsl.wustl.edu/msl
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR DECEMBER 2016
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the November 2016 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SECOND ANNOUNCEMENT OF MARS POLAR ICARUS SPECIAL ISSUE
+
+The Scientific Organizing Committee is organizing a special issue of 
+Icarus related to Mars Polar research, particularly in the fields of 
+polar geology, glaciology, climate record, atmospheric dynamics, 
+terrestrial analogs, ground ice, geochemistry, and Mars polar surface 
+activity. In recognition of the broad scope, interdisciplinary nature, 
+and strong international interest in this topic, we welcome the 
+participation of any interested scientist with relevant theoretical, 
+experimental, or field experience. This special issue is open to all 
+interested authors with Mars Polar related research to publish, 
+whether they attended the conference or not. Please email questions  
+or notices of intent to guest editors, Adrian Brown (abrown@seti.org) 
+and Michael Sori (michael.sori@gmail.com). 
+
+Manuscripts should be submitted through Icarus' EVISE website at: 
+
+https://www.evise.com/profile/#/ICARUS/login
+
+Authors must select "Mars Polar Science VI" when they reach the 
+"Article Type" step in the submission process.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POST-DOCTORAL SCIENTIST IN PLANETARY SPACE PHYSICS AT THE SWEDISH 
+INSTITUTE OF SPACE PHYSICS IN UPPSALA
+
+This project will investigate the structure and dynamics of Saturn's 
+ionosphere and its interaction with the charged dust and plasma near 
+its rings. The Cassini mission will end in 2017 with close orbits 
+through the ring systems and passages through the upper atmosphere 
+and ionosphere of Saturn. The Radio & Plasma Wave Science instrument 
+package includes IRF's Langmuir probe. Data from this will be analysed 
+in order to study the ring dust and plasma and make the first detailed 
+in-situ measurements of Saturn's ionosphere.
+
+Candidates should have completed a PhD in space physics or a related 
+field during 2013 or later. Candidates planning to obtain their PhD 
+before April 2017 may apply. If the candidate has an older degree and 
+wants to refer to special circumstances, this should be clearly 
+stated. Candidates should demonstrate experience in spacecraft data 
+analysis, as part of national and international collaborations. 
+Experience with theoretical modelling is an advantage, as is an 
+interest in developing instrumental techniques and methods, and 
+experience in coordinating scientific activities.
+
+Further details: http://www.irf.se/jobb
+
+Closing date for applications: 26 January 2017
+Reference number: 2.2.1-312/16
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EUROPEAN LUNAR SYMPOSIUM CALL FOR ABSTRACTS
+ 
+The 5th European Lunar Symposium will take place at the University of 
+Munster, Germany on May 2-3, 2017 (pre-registration on the evening of 
+Monday, 1st May, 2017). There are other related events being planned 
+on either side of ELS (1st May - ESA Exploration Day; 4th and 5th May 
+- New Views of the Moon 2 workshop) so you may wish to keep the ELS 
+week of 1st May 2017 free in your diary!
+ 
+The format will be similar to previous European Lunar Symposiums and 
+will consist of both oral and poster presentations divided into four 
+broad themes of: "Science of the Moon", "Science on the Moon", 
+"Science from the Moon" and "Future Lunar Missions".
+ 
+We are now accepting abstracts for this meeting. Please click on the 
+"Abstracts" tab of the website at: 
+
+https://els2017.arc.nasa.gov 
+
+We are limited to 200 maximum participants and will adopt a first come 
+first serve policy, so please submit your abstract at your earliest 
+convenience. 
+ 
+Deadlines and Milestones:
+ - Abstract submission deadline: January 31, 2017
+ - Meeting Registration Opens: March 1, 2017
+ - Meeting Registration Closes: March 31, 2017
+ 
+Harry Hiesinger and Mahesh Anand 
+(on behalf of the ELS organizers)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DUST, ATMOSPHERE AND PLASMA ENVIRONMENT OF THE MOON AND SMALL BODIES 
+WORKSHOP
+
+The Dust, Atmosphere and Plasma environment of the Moon and Small 
+Bodies (DAP-2017) workshop will be a forum to (i) discuss our current 
+understanding of the surface environment of the Moon, the moons of 
+Mars, and asteroids, (ii) share new results from past and ongoing 
+missions, and (iii) describe expectations for planned upcoming 
+missions to airless bodies and comets. The workshop will take place 
+January 11-13, in Boulder, CO. 
+
+The program is now available online at:
+
+http://impact.colorado.edu/dap_meeting.html 
+
+The talks will be broadcasted, please visit the conference webpages 
+for online access information. 
+
+Mihaly Horanyi and Alan Stern
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+TH23K: NASA PLANETARY SCIENCES DIVISION TOWN HALL
+
+NASA's Planetary Sciences Division (PSD) leadership team will present 
+an update of status and plans with significant time for discussion. 
+The audience is expected to comprise current and potential 
+investigators in PSD's programs and/or those of its partner agencies, 
+as well as current and potential users of its data and models.
+
+Tuesday, 13 December 2016 12:30 - 13:30 Moscone West - 2009
+
+Primary Contacts:
+James L Green (james.green@nasa.gov) - NASA Headquarters
+Doris Daou (doris.daou-1@nasa.gov) - NASA Headquarters
+
+Presenters:
+James L Green - NASA Headquarters
+Thomas Zurbuchen - NASA Headquarters
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA NEW FRONTIERS PROGRAM AO RELEASED
+ 
+NASA's Science Mission Directorate (SMD) is releasing the Announcement 
+of Opportunity (AO) for New Frontiers Program mission investigations. 
+The New Frontiers Program conducts Principal Investigator (PI)-led 
+space science investigations in SMD's planetary programs under a 
+not-to-exceed cost cap for the PI-Managed Mission Cost. At the 
+conclusion of Phase A concept studies, it is planned that one New 
+Frontiers investigation will be selected to continue into subsequent 
+mission phases. New Frontiers Program investigations must address 
+NASA's planetary science objectives as described in 2014 NASA 
+Strategic Plan and the 2014 NASA Science Plan. Both documents are 
+now available at: 
+
+http://science1.nasa.gov/about-us/science-strategy/.
+ 
+Further information will be posted on the New Frontiers Program 
+Acquisition Page at: 
+
+http://newfrontiers.larc.nasa.gov/ 
+
+as it becomes available. Questions may be addressed to: 
+
+Dr. Curt Niebur  
+
+(202) 358-0390
+
+curt.niebur@nasa.gov.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+WORKING GROUP ON FINDING SIGNS OF PAST ROCK-HOSTED LIFE
+
+Motivated by the suite of habitable environments available to 
+Mars-2020 for in situ exploration and sample collection, we are 
+convening a set of 4 web-hosted telecons, open to the community. The 
+first two telecons are:
+
+Telecon 1: Martian Environment: Evidence for Rock-Hosted Waters 
+What is the evidence for ancient Mars environmental conditions? What 
+is the likelihood of habitats for rock-hosted life? 
+December 19, 8:30AM PST // facilitated by Bethany Ehlmann, Paul Niles
+ 
+Telecon 2: Metabolisms and Niches for Terrestrial Rock-Hosted Life 
+Where rock-hosted life found on earth today? What are its metabolisms 
+and products?
+December 20, 8:30AM PST // facilitated by Tullis Onstott, Jeff Marlow
+
+The URL for the meeting is:
+
+https://connect.arc.nasa.gov/rocklife2017/
+
+Select "Enter as a Guest", type in your name and click the "Enter Room" 
+button. The telecon line is 844-467-6272, passcode 250961
+
+For further schedule and information about the working group, see:
+
+http://web.gps.caltech.edu/~rocklife2017/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+April 24-26, 2017
+Exoplanet Science with Small Telescopes: Precise Radial Velocities
+http://web.sas.upenn.edu/smalltrv/
+Philadelphia, PA
+
+May 2-3, 2017
+5th European Lunar Symposium (ELS)
+https://els2017.arc.nasa.gov
+Munster, Germany
+
+May 15-19. 2017
+5th IAA Planetary Defense Conference
+http://pdc.iaaweb.org
+Tokyo, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

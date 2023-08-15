@@ -1,0 +1,183 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 25 (June 19, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. [NASA] SMD: Delay in DYNAMIC AO Release
+2. NASA JPL Job Opening: Research Scientist, Planetary Geosciences
+3. BepiColombo Science Operations Scientist Position at ESA
+4. Planetary Meeting Calendar Additions
+5. Planetary Science Journal - New Papers
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SMD: DELAY IN DYNAMIC AO RELEASE
+
+NASA's Science Mission Directorate (SMD) is delaying the release of 
+the draft Dynamical Neutral Atmosphere-Ionosphere Coupling (DYNAMIC) 
+mission solicitation due to reduced budget availability anticipated at 
+this time.
+
+Further information specific to DYNAMIC will be posted on the 
+Acquisition Homepage as it becomes available:
+
+https://soma.larc.nasa.gov/STP/DYNAMIC/
+
+NASA has not approved the issuance of the DYNAMIC AO and this 
+notification does not obligate NASA to issue the AO and solicit 
+proposals. Any costs incurred by prospective investigators in 
+preparing submissions in response to a DYNAMIC AO are incurred 
+completely at the submitter's own risk.
+
+Any questions about the DYNAMIC delay should be directed via email 
+only using subject line "DYNAMIC NNH22ZDA004L" to:
+
+Dr. Jared Leisner, 
+Solar Terrestrial Probes Program Lead Program Scientist, Heliophysics 
+Division, Science Mission Directorate, NASA, Washington, DC 20546; 
+jared.s.leisner@nasa.gov.
+
+Depending on the nature of the question(s)/comments, NASA may respond 
+on an individual basis by email or may post responses at the Q&A 
+section of DYNAMIC Acquisition Homepage. The anonymity of 
+persons/institutions who submit questions/comments will be preserved.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA JPL JOB OPENING: RESEARCH SCIENTIST, PLANETARY GEOSCIENCES
+
+The Jet Propulsion Laboratory in Pasadena, California, invites 
+applications for a new research position in the Planetary Geosciences 
+Group. The successful candidate will support the Europa Clipper 
+mission by providing expertise in icy satellite geological mapping, 
+analysis, and interpretation as well as expertise in surface landform 
+distribution and identification. It is expected that the successful 
+candidate will develop an independently funded research program. 
+Opportunities exist for participation in ongoing and future space 
+missions.
+
+This position requires the following qualifications:
+- PhD in planetary geology, or a related field.
+- Peer-reviewed publications in high-impact journals
+- Demonstrated professional reputation as a productive researcher
+
+The following qualifications are preferred:
+- Experience with icy satellite structural analysis and interpretation.
+- Experience in geological mapping, and landform analysis and 
+  interpretation.
+- Familiarity with the Europa Clipper mission.
+- Experience in mission formulation and concept development, 
+  particularly in relation to outer Solar System exploration.
+- Experience on active planetary missions.
+- Experience obtaining grant funding.
+
+To view the full description and apply, visit:
+
+https://tinyurl.com/JPLScientist
+
+Applications received by July 4, 2022 will receive full consideration.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+BEPICOLOMBO SCIENCE OPERATIONS SCIENTIST POSITION AT ESA
+
+Closing Date: 19 July 2022
+Vacancy Type: Permanent
+Location: ESAC, Villanueva de la Canada, Spain
+
+As Science Operations Scientist you will be part of the BepiColombo 
+Science Operations Centre reporting to the BepiColombo Mission Manager 
+and will coordinate the science planning activities throughout the 
+various mission phases. In particular, you will be the main scientific 
+interface for science operations with the BepiColombo stakeholders in 
+the science community, ensuring that their science goals are properly 
+translated into operational requirements, and fulfilled throughout the 
+implementation and execution of the mission's science operations. In 
+addition to the above duties, you are expected to continue to carry 
+out research in planetary sciences and actively contribute to the 
+scientific life of the Department. A PhD in planetary sciences, 
+astronomy or physics is required for this post.
+
+Please see the job listing for additional information:
+
+https://tinyurl.com/ESAScienceOps
+
+The working languages of the Agency are English and French. A good 
+knowledge of one of these is required. Knowledge of another Member 
+State language would be an asset. Please note that applications are 
+only considered from nationals of select countries.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+The Influence of Surface Binding Energy on Sputtering in Models of the
+Sodium Exosphere of Mercury
+Rosemary M. Killen et al. 2022 PSJ 3:139
+https://doi.org/10.3847/PSJ/ac67de
+
+Double Asteroid Redirection Test (DART): Structural and Dynamic
+Interactions between Asteroidal Elements of Binary Asteroid (65803)
+Didymos
+Masatoshi Hirabayashi et al. 2022 PSJ 3:140
+https://doi.org/10.3847/PSJ/ac6eff
+
+The Possible Formation of Jupiter from Supersolar Gas
+Artyom Aguichine et al. 2022 PSJ 3:141
+https://doi.org/10.3847/PSJ/ac6bf1
+
+Exploring the Shallow Subsurface of Mars with the Ma_MISS Spectrometer
+on the ExoMars Rover Rosalind Franklin
+M. C. De Sanctis et al. 2022 PSJ 3:142
+https://doi.org/10.3847/PSJ/ac694f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

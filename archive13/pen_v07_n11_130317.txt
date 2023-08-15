@@ -1,0 +1,319 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 11 (March 17, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Invitation to Golden Spike Lunch Seminar at LPSC: Monday, March 18
+2. Planetary Atmospheres Researcher (GSFC/CRESST/University of 
+   Maryland)
+3. Destination: Europa 
+4. 10th IAA Low-Cost Planetary Missions Conference (LCPM-10)
+5. Job Opportunity: Image Processing Engineer
+6. NASA Postdoctoral Fellowships
+7. Faculty Position in Planetary Geoscience 
+8. Training Opportunity: Stereo Processing of Planetary Imagery using 
+   SOCET SET
+9. Postdoc at Boston University - Venus and Mars Ionospheres
+10. Exomars Mission: Formal Agreement Signed by ESA and ROSCOSMOS
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+INVITATION TO GOLDEN SPIKE LUNCH SEMINAR AT LPSC: MONDAY, MARCH 18
+
+This is an open invitation to attend an LPSC lunch seminar Monday, 
+March 18th at 12 noon in the Woodlands Room, titled "Golden Spike 
+Human Lunar Expeditions: Overview and Science Input Forum." In this 
+seminar Alan Stern will provide an overview of Golden Spike's planned 
+human lunar expedition capabilities and business model. Following the 
+talk, both Stern and Bill McKinnon will answer questions. 
+All LPSC attendees, as well as members of the community, are invited. 
+
+For more information, please visit:
+
+http://www.lpi.usra.edu/meetings/lpsc2013/events/highlighted/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY ATMOSPHERES RESEARCHER (GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+The NASA Goddard Space Flight Center's (GSFC) Planetary Environments
+Laboratory, in conjunction with the Center for Research and Exploration 
+in Space Science and Technology (CRESST), is soliciting applications 
+for a researcher in the field of Planetary Atmospheres to support 
+Mars upper atmosphere investigations with the MAVEN mission. 
+Additional details are available at:
+
+http://www.astro.umd.edu/employment/
+
+Candidates should have a Ph.D. in a relevant discipline with a strong 
+and demonstrated interest in and understanding of upper atmospheric 
+physics. IDL skills and experience in acquisition and analysis of data 
+from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All
+applications received by Monday, April 22, 2013 will receive full
+consideration.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+DESTINATION: EUROPA 
+
+Destination: Europa is a new organization, affiliated with the SETI 
+Institute, whose goals are to promote interest in outer solar system 
+science among the general public and advocate for funding of a new 
+Europa mission. We have just launched a website:
+
+europa.seti.org
+
+for blog, and social media presence. In the first 24 hours, our 
+Facebook page received over 300 "likes", showing that there is 
+widespread interest and support for this effort! In order to keep 
+up interest in the site, we are currently seeking people to contribute 
+content to the blog. There are several options for contributing, 
+including:
+
+- An editorial-style article on the benefits of a Europa mission
+- A single slide "nugget" presenting an interesting Europa (or 
+  related) result
+- A link to an interesting science article, within the public domain, 
+  along with a few words relating it to Europa
+
+If you are interested in contributing to this effort, please email 
+Alyssa Rhoden at planetarygal@gmail.com for more information. We 
+are also happy to hear additional ideas for content/distribution 
+and feedback on the website itself.
+
+--The Destination: Europa steering committee 
+(Alyssa Rhoden, Britney Schmidt, Cynthia Phillips, and Paul Hayne)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+10TH IAA LOW-COST PLANETARY MISSIONS CONFERENCE (LCPM-10)
+
+Registration and abstracts submission now open.
+
+The 10th International Academy of Astronautics Low-Cost Planetary 
+Missions Conference, LCPM-10, will be held on the campus of the 
+California Institute of Technology in Pasadena, California, on 
+June 18-20, 2013. 
+
+Abstract submission is now open until 12 April 2013:
+
+http://www.beatricia.caltech.edu/lcpm10/abs-1.html
+
+Authors will be notified of the disposition of their submissions on 
+1 May 2013. 
+
+Online registration is also open and closes on 3 June 2013:
+
+http://www.beatricia.caltech.edu/lcpm10/reg-1.html
+
+Please see:
+
+http://lcpm10.caltech.edu/ 
+
+for further information or contact the organizing committee at 
+lcpm@caltech.edu. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JOB OPPORTUNITY: IMAGE PROCESSING ENGINEER
+
+Title: Image Processing Engineer
+Location: NASA Ames Research Center, Moffett Field, CA
+Start Date: Flexible
+Contractor: SGT, Inc.
+
+Want to build teraflop processing pipelines that run on NASA's 
+supercomputers? Want to wrangle petabytes of satellite data into 
+planet-scale mosaics? Want to help build ultra high-resolution digital 
+models of the Earth, Moon, and Mars?
+
+NASA Ames Intelligent Robotics Group:
+
+http://irg.arc.nasa.gov
+
+has an immediate opening for a full-time IMAGE PROCESSING ENGINEER. 
+
+In this position, you will develop and improve open-source software 
+that supports space exploration through satellite imaging. You will 
+also help develop and extend NASA open-source software, including our 
+high-performance stereo vision tool, the "Ames Stereo Pipeline". Our 
+team is a mixture of individuals with diverse backgrounds in planetary 
+science, computer vision, and software engineering.
+
+For more information, visit: http://tinyurl.com/bh97b6a
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+FACULTY POSITION IN PLANETARY GEOSCIENCE
+
+The Department of Earth Sciences and the Centre for Planetary Science 
+and Exploration (CPSX) at the University of Western Ontario invite 
+applications for a faculty position in the area of Planetary 
+Geoscience. The appointment will be made at the rank of Associate 
+or Full Professor.
+
+This position builds upon the recent appointments of an NSERC/MDA/CSA 
+Industrial Research Chair in Planetary Geology, a Tier I Canada 
+Research Chair in Planetary Science and two Tier II Canada Research 
+Chairs, one in Planetary Materials and the other on Exoplanets.
+
+Full details of the position can be found here: 
+
+http://www.uwo.ca/earth/news/2013/faculty_position_in_planetary_
+geoscience.html
+
+Please come and find us at the CPSX booth at LPSC!
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+TRAINING OPPORTUNITY: STEREO PROCESSING OF PLANETARY IMAGERY USING 
+SOCET SET
+
+The Planetary Photogrammetry Guest Facility at the Astrogeology Sci. 
+Ctr. of USGS would like to announce a FREE training opportunity on the 
+production of topographic maps from planetary images using BAE's 
+SOCET SET. The training will cover hands-on procedures for surface 
+extraction from Mars HiRISE images, including an overview of ISIS and 
+SOCET SET, data import and export, orientation procedures, multisensor 
+triangulation, manual and automated DTM extraction, and editing.
+
+If you are interested in participating, please email us at the address 
+below with your name, title, affiliation, and full contact information. 
+Please include your preferred attendance dates and a statement 
+describing your interest in the training. Seating is limited, please 
+reply ASAP.
+
+Note:
+1. Training is 3 days, starting Monday or Tuesday.
+2. Training will focus on HiRISE, but we can advise participants on 
+   the suitability of different sensors for their research projects.
+3. If you would like to stay longer to process your own datasets, 
+   please let us know so we can schedule additional visits for further 
+   production time.
+
+Please let us know if you require further information. 
+Dr. Raad Saleh
+
+Email: PlanetaryPhotogrammetry@usgs.gov
+
+http://astrogeology.usgs.gov/geology/photogrammetry-guest-facility
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+POSTDOC AT BOSTON UNIVERSITY - VENUS AND MARS IONOSPHERES
+
+The Center for Space Physics at Boston University invites applications
+for a postdoctoral researcher position supervised by Professor Paul
+Withers. The research will involve the analysis of observations from
+the ionospheres of Venus and Mars, supplemented by numerical
+simulations.
+
+Candidates should possess a PhD degree in a relevant field. Experience
+conducting research on planetary ionospheres is desirable. The salary
+offered will be competitive and commensurate with experience. Funding
+is available for two years with the possibility of extension. The
+appointment is expected to begin as soon as possible after 1 June 2013.
+Please contact Paul Withers (withers@bu.edu) for further information.
+
+Applications should be sent by email to Paul Withers (withers@bu.edu).
+The application should be submitted in PDF format and contain a
+curriculum vitae, statement of research interests, and contact
+information for three referees. Review of applications will begin on
+30 April 2013. Women and underrepresented minorities are particularly
+encouraged to apply. Boston University is an equal
+opportunity/affirmative action employer.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EXOMARS MISSION: FORMAL AGREEMENT SIGNED BY ESA AND ROSCOSMOS
+
+More at:
+
+http://www.esa.int/Our_Activities/Space_Science/ExoMars_ESA_and_
+Roscosmos_set_for_Mars_missions
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 5-9, 2013
+The 6th Meeting on Cosmic Dust
+https://www.cps-jp.org/~dust/Welcome.html
+Kobe, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

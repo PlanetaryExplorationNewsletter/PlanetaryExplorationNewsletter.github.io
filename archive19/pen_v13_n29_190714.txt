@@ -1,0 +1,681 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 29 (July 14, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Horizon 2061 Synthesis Workshop
+2. AGU Session EP002: Advances in Uncrewed Aerial Vehicle (UAV) Use for
+   Earth and Planetary Observation
+3. AGU Session SM024: Magnetospheres in the Outer Solar System 
+4. AGU Session P005: Carbon Across the Solar System
+5. AGU Session P008: Concepts for Future Planetary Science Missions
+6. AGU Session P016: Ice and Ocean Worlds
+7. AGU Session P023: Mars Sample Return
+8. AGU Session P024: Mercury - The Continuing and Future Exploration
+   of the Innermost Planet
+9. AGU Session P027: Passing Through Purgatory - Architectures,
+   Technologies, and Considerations for Accessing Ocean World Interiors
+10. AGU Session P033: Sedimentary Volcanism, Diapirism, and
+    Liquefaction in the Solar System
+11. AGU Session P037: The Kuiper Belt Captain's Tale - NASA's New
+    Horizons Explores the Pluto System, 2014 MU69 ("Ultima Thule"), and
+    Beyond
+12. AGU Session P035: The Evolution of Venus and Venus-like Exoplanets
+13. AGU Session P036: The Interiors of Jupiter and Saturn in the Era of
+    Juno and Cassini
+14. AGU Session P038: The New Mars Underground 2.0
+15. AGU Session P039: The Uranus and Neptune Systems, and Their
+    Relation to Other Planets
+16. Planetary Geology/Volcanology Field Trip at GSA
+17. OPAG Findings Spring 2019 Now Posted and Upcoming OPAG Meeting
+18. Faculty Position at Institute for Planetary Materials
+19. [NASA] Three Updates to the ROSES-2019 Summary of Solicitation
+20. [NASA] ROSES-19: TWSC Updates
+21. Planetary Meeting Calendar Additions 
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+HORIZON 2061 SYNTHESIS WORKSHOP
+
+The Third Circular of the "Horizon 2061 synthesis workshop" will be
+organized by IRAP and OMP in Toulouse from September 11-13, 2019. The
+objectives, contents and components of the "Planetary Science, Horizon
+2061" long-term foresight exercise are presented in our conference
+website:
+
+https://h2061-tlse.sciencesconf.org/
+
+The main objective of the Horizon 2061 long-term community foresight 
+exercise is to progressively build with YOUR inputs and YOUR ideas the 
+contours of the four "pillars" of planetary exploration:
+
+- the important science questions that planetary exploration addresses;
+
+- the broad spectrum of space missions that need to be flown to address 
+these science questions;
+
+- the enabling technologies that we will need to master in the coming 
+decades to fly these missions;
+
+- the technical infrastructures and services, space-based and 
+ground-based, that will be needed to support the planetary exploration 
+missions and maximize their science return.
+
+We have chosen to schedule our workshop just before the EPSC-DPS
+meeting in Geneva (September 16-20). Travel from Toulouse to Geneva can
+be done in one-hour direct flights, which should facilitate
+participation in the two events and decrease travel costs.
+
+Register:
+
+https://h2061-tlse.sciencesconf.org/registration
+
+(early registration until July 22)
+
+Abstracts:
+
+https://h2061-tlse.sciencesconf.org/index/unauthorized 
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION EP002: ADVANCES IN UNCREWED AERIAL VEHICLE (UAV) USE FOR
+EARTH AND PLANETARY OBSERVATION
+
+We are pleased to invite abstract submissions for the following session
+at the 2019 AGU Fall Meeting in San Francisco, CA, December 9-13, 2019.
+
+Uncrewed (or unmanned) aerial vehicles (UAVs) present new opportunities
+for standoff sampling and measurement, close range remote sensing, and
+detailed reconstruction of Earth and planetary surfaces. UAVs drive
+innovative studies in many disciplines, targeting a range of
+challenging environments. New platforms, sensors, operational
+approaches, and data analysis techniques drive the growing potential of
+UAVs in high impact, and often low cost, Earth and planetary science
+research. This session will highlight novel UAV-based studies,
+especially those using new workflows to address operational,
+sensor fusion, and data reduction obstacles. We encourage submissions
+that describe novel work in any of the following areas: (1)
+applications of UAVs within Earth and planetary science; (2) platforms,
+sensors, measurement techniques, and operational approaches for
+UAV-driven studies; (3) post-processing workflows, data management
+practices, and computational tools that focus UAV data analysis; or (4)
+methods for visualization and communication of UAV-based science
+results.
+
+Conveners:
+Daven Quinn (UW Madison)
+Alistair Hayden (Caltech)
+Emily Mason (Cambridge)
+Nathan Stein (Caltech)
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/83210
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+ 
+AGU SESSION SM024: MAGNETOSPHERES IN THE OUTER SOLAR SYSTEM 
+
+Conveners: Xianzhe Jia, Chris Paranicas and George Hospodarsky
+
+This session invites abstracts covering the structure and dynamics of
+the magnetospheres of the giant planets (Jupiter, Saturn, Uranus and
+Neptune) as well as Ganymede. Papers on magnetospheric and auroral
+processes including magnetosphere-ionosphere coupling, plasma
+transport, tail dynamics, rotational modulations, magnetospheric
+boundaries, and the role of the solar wind are consistent with our
+session themes. We particularly encourage submissions that compare the
+giant planet magnetospheres to one another, or compare them to those of
+terrestrial planets. The session will be an ideal forum for the
+discussion of recent advances in our understanding of all these systems
+enabled by in-situ and remote observations as well as theoretical and
+numerical modeling.
+
+For full session description, please visit: 
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/72721
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4 
+
+AGU SESSION P005: CARBON ACROSS THE SOLAR SYSTEM
+
+We invite abstracts for the following session at the 2019 AGU Fall
+Meeting in San Francisco, CA, December 9-13, 2019.
+
+Recent results ranging from the Kuiper Belt, the Pluto system, the
+Saturn system, other locations beyond ~5 AU, all the way to Mercury in
+the inner Solar System, and nearly all points in between, raise
+questions about the state of carbon in the Solar System: how do
+carbonaceous compounds become weathered in response to thermal
+processes and irradiation? How do we recognize carbon compounds and
+their various weathering products? The syntheses of these results
+improve our scientific understanding of the role of carbon in the Solar
+System, how it evolves and how to recognize it. The carbonaceous
+near-Earth asteroids 162173 Ryugu and 101955 Bennu are now being
+visited and sampled; the analyses of these samples will provide context
+for the presence of carbon. In this session, abstracts covering
+observational, laboratory and modeling work related to carbon and
+carbonaceous species on Solar System bodies are welcome.
+
+Deadline for abstract submissions: Wednesday, 31 July, 23:59 EDT
+
+Conveners: Faith Vilas (PSI, fvilas@psi.edu), Amanda R. Hendrix (PSI),
+Yvonne J. Pendleton (NASA ARC)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P008: CONCEPTS FOR FUTURE PLANETARY SCIENCE MISSIONS
+ 
+We are convening an AGU Fall Meeting session focusing on innovative
+concepts for future planetary science missions. Note that this session
+covers mission concepts of all sizes, types, and planetary targets, and
+from all countries and institutions.
+
+We encourage you to submit an abstract to this session (ID 78051,
+P008: Concepts for Future Planetary Science Missions) in the
+Planetary Sciences section. For full session description, please
+visit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/78051
+
+The deadline is Wednesday, 31 July at 23:59 EDT. Note that this has
+been approved as a Short Talk-style session, so submitters will have
+the option of presenting a five-minute talk or a poster with a
+highlight of the poster in the oral session. This new format will allow
+us to fit more talks into our time allotment, enabling a broader
+assortment of mission concepts to be presented. Thanks in advance, and
+we look forward to seeing you at AGU!
+
+Best regards, Morgan Cable (Morgan.L.Cable@jpl.nasa.gov), Conor Nixon,
+Melissa Trainer and Karl Hibbitts
+ 
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P016: ICE AND OCEAN WORLDS
+
+Attention ice-ocean and ocean world enthusiasts! We'd like to draw your
+attention to session P016: Ice and Ocean Worlds: Geology, oceanography,
+chemistry, habitability
+
+Cross listed within the Planetary, Cryospheric and Ocean Sciences
+sections, this session brings together studies of icy and ocean worlds:
+those in our own Solar System and possible worlds in extra-solar
+systems! We encourage contributions on any topic relating to the
+icy/ocean world theme, including geophysics, geodynamic modeling,
+seismic waveform modeling/inversion, hydrogeology, geochemistry,
+microbiology, in-situ/remote sensing observations, theoretical/modeling
+and laboratory work, analog field investigations, and more.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/85548
+
+We hope to see you there!
+Angela Marusiak
+Saikiran Tharimena
+Steve Vance
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P023: MARS SAMPLE RETURN
+
+Balancing the Benefits of a New Phase of Mars Exploration Against
+Potential Risks to Earth, While Communicating Both to the Public 
+
+San Francisco, Dec 9-13, 2019
+
+In a mission sequence beginning in 2020, NASA and partners plan to
+assemble martian samples for possible future return, potentially
+exposing the Earth to relatively fresh material from Mars. Mars samples
+will be scientifically selected, and stored there for later pick-up.
+Sample-return mission partners are studying a joint endeavor that would
+open Mars as a two-way field site for further study. This session will
+examine a future MSR campaign, with NASA as systems architect and the
+lead on an MSR Lander (SRL) mission, and ESA as the lead on an MSR
+Orbiter mission, providing a Sample Fetch Rover and the Sample Transfer
+Arm for the SRL. The NASA-provided Sample Capture, Handling, and
+Containment system and Earth Entry Vehicle would be mounted on the
+Orbiter, and with a sample receiving facility will be essential to
+protecting the Earth from sample-exposure risks. Effective public
+communication will be essential to mission success.
+
+Please consider submitting to this session and feel free to pass the
+information along to anyone you think might be interested. 
+
+Abstracts are due by July 31, 23:59 EDT
+
+For full session description, please visit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/81113 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P024: MERCURY - THE CONTINUING AND FUTURE EXPLORATION OF
+THE INNERMOST PLANET
+
+We are pleased to announce a session on Mercury at the 2019 AGU Fall
+Meeting in San Francisco, CA, December 9-13, 2019.
+
+NASA's MESSENGER mission revolutionized our understanding of Mercury's
+surface, interior, exosphere, and magnetosphere. With the successful
+launch of the ESA-JAXA BepiColombo dual spacecraft mission to Mercury
+in October 2018, that understanding will soon take another substantial
+step forward. In this session, we welcome papers on data analysis,
+laboratory measurements, ground-based observations, and theoretical
+developments that build on the current state of knowledge of Mercury,
+as well as contributions on Mercury-like exoplanets. We particularly
+welcome papers on how questions raised by MESSENGER findings can be
+addressed by future observations expected from BepiColombo.
+
+Please consider submitting an abstract for this session. For more
+information, visit:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/82251
+
+The submission deadline is Wednesday, July 31, 2019.
+
+Conveners:
+Paul Byrne (North Carolina State University)
+Sean Solomon (Columbia University)
+Johannes Benkhoff (European Space Agency) 
+Masaki Fujimoto (Japan Aerospace Exploration Agency)
+
+We look forward to seeing you in December!
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P027: PASSING THROUGH PURGATORY - ARCHITECTURES,
+TECHNOLOGIES, AND CONSIDERATIONS FOR ACCESSING OCEAN WORLD INTERIORS
+ 
+Conveners: Samuel Howell (samuel.m.howell@jpl.nasa.gov), Kris Zacny,
+Christine McCarthy, Patrick Gasda
+ 
+Are you interested in getting into the oceans of icy satellites or
+beneath Earth's ice sheets? The icy interiors and oceans of Ocean
+Worlds are of great astrobiological potential, and may provide unique
+insight into the geologic and geochemical evolution of planetary ice
+formations. In this session we welcome studies related to ice
+penetration and ocean access on all Ocean Worlds, including Earth, that
+illuminate potential science and instrumentation, subsurface
+exploration, and of particular interest, ongoing architecture and
+technology development efforts for enabling subsurface exploration.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/74457
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AGU SESSION P033: SEDIMENTARY VOLCANISM, DIAPIRISM, AND LIQUEFACTION IN
+THE SOLAR SYSTEM
+
+We would like to invite submissions to our AGU session this fall in San
+Francisco:
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/76580
+
+A growing body of research aided by recent orbital observations has
+begun to address the presence of widespread sedimentary volcanic
+morphologies on Mars and other bodies. Proposed mud volcanism,
+sedimentary diapirism, and liquefaction morphologies are supported by
+observations of pitted cones, flows, and injectites, vacuum chamber
+experiments, and Earth analog comparison. We solicit contributed papers
+on data analysis, laboratory measurements, ground-based observations,
+and theoretical developments that build on the current state of
+knowledge of sedimentary volcanism on Mars and in the Solar System.
+
+Conveners: 
+
+Jacob Adler (Arizona State University)
+Chris Okubo (USGS Flagstaff)
+James Skinner (USGS Flagstaff)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION P035: THE EVOLUTION OF VENUS AND VENUS-LIKE EXOPLANETS
+
+We are pleased to invite you to submit an abstract for the following
+session at the 2019 AGU Fall Meeting in San Francisco, CA, December
+9-13, 2019.
+
+Today Venus appears to be hostile and uninhabitable. However, recent
+studies have shown that its climate evolution is complex and could
+permit early habitable conditions (e.g. Way et al. 2016). Other recent
+studies of Magellan imagery have demonstrated the possibility that many
+tesserae on Venus are some of the oldest geological surface units
+visible today (e.g. Gilmore et al. 2017) and may predate much of the
+near-global resurfacing. The idea that Venus is a static single plate
+planet has also come into question with the studies of Davaille et al.
+2017 and Byrne et al. 2018. All of these studies have implications for
+the understanding of Venus-like Exoplanets (Kane et al. 2014) to be
+discovered in the near term. This session will explore recent advances
+in understanding the evolution of Venus and Venus-like exoplanets and
+how they may inform each other.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/80203
+
+Conveners:
+Michael Way (NASA/GISS)
+Martha Gilmore (Wesleyan)
+Stephen Kane (UC Riverside)
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+AGU SESSION P036: THE INTERIORS OF JUPITER AND SATURN IN THE ERA OF
+JUNO AND CASSINI
+ 
+Constraining the present-day interior structure and dynamics of giant
+planets is critical to understanding the formation and evolution of
+planets in our Solar System and beyond. Both the ongoing Juno mission
+and the recently concluded Cassini mission have provided a wealth of
+new measurements, revealing key aspects of the interiors of Jupiter and
+Saturn for the first time. This session will bring together both
+observations and theoretical interpretations to improve our
+understanding of giant planet interiors.
+
+We welcome submissions on wide range of interior topics, including:
+gravity science; strong differential rotation (zonal flows); properties
+of intrinsic (dynamo) magnetic fields; the existence and properties of
+the central core; seismic, thermal, and magnetic consequences of stable
+stratification; normal modes; bulk composition (including helium and
+heavy element abundance); as well as formation scenarios and
+evolutionary pathways.
+ 
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/79026
+ 
+Conveners: Kimberly Moore (Harvard University), David Stevenson (Caltech)
+Abstract deadline: 31 July 2019, 11:59 pm EDT
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+AGU SESSION P037: THE KUIPER BELT CAPTAIN'S TALE - NASA'S NEW HORIZONS
+EXPLORES THE PLUTO SYSTEM, 2014 MU69 ("ULTIMA THULE"), AND BEYOND
+
+Conveners: Chiristina Dalle Ore, Jeff Moore, Hal Weaver
+
+New Horizons, outbound from its successful encounter with Pluto,
+Charon, and four smaller moons, reached Kuiper belt object (486958)
+2014 MU69 on 1 Jan 2019. Just as Pluto was found to be remarkably
+geologically active for a small, cold, distant planet, 2014 MU69 proved
+to be, in its own way, a revelation. Formed of two contrasting lobes,
+apparently gently merged in the earliest days of the Solar System,
+"Ultima Thule" is providing detailed insights into the conditions and
+processes of planetesimal formation. This session encourages
+submissions on analysis and modeling of Pluto system data from the 2015
+encounter, presentation of new data from the Ultima Thule encounter,
+along with emerging understanding of planetesimal formation and
+evolution. Submissions are also encouraged on Kuiper belt science
+generally, including Earth-based observations, theoretical modeling,
+New Horizons observations of other KBOs and the heliosphere, and plans
+for future exploration of the Solar System's 3rd zone.
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/83603
+
+Abstracts are due 31 July!
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+AGU SESSION P038: THE NEW MARS UNDERGROUND 2.0
+
+After last year's highly successful "The New Mars Underground" session,
+we look forward to seeing again many abstracts focusing on the Martian
+subsurface: its properties, processes and prospects for life, ancient
+and modern, across science, enabling technologies and mission
+concepts.
+
+The Martian crustal subsurface encompasses a wide range of environments
+at depths from ~centimeters to kilometers. These environments are
+relatively unexplored but are of enormous interest for planetary
+science. Recent results, e.g., methane fluctuations, radar data that
+are consistent with liquid subsurface water, and ongoing debates on
+RSL, all point to dynamic subsurface environments. We invite
+contributions that address the nature and diversity of Mars crustal
+subsurface environments (modeling, experiments, observations) or
+develop the tools/missions for exploring them (sounding, access, in
+situ analysis). We are particularly interested in contributions that
+advance our understanding of how the subsurface changes with geographic
+location and depth, in respect to: volatiles such as brines, ices,
+clathrates, salts, methane and oxidants, the potential for extant life
+and the preservation of signs of extinct life, the redox potential of
+past and present environments, and the technologies/mission concepts
+that enable such subsurface exploration.
+
+Conveners: Vlada Stamenkovic (JPL, Vlada.Stamenkovic@jpl.nasa.gov),
+Nina Lanza (Los Alamos), Jack Mustard (Brown), Kris Zacny (Honeybee)
+
+Abstracts due: 31 July 2019, 11:59 pm EDT
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/83347
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AGU SESSION P039: THE URANUS AND NEPTUNE SYSTEMS, AND THEIR RELATION TO
+OTHER PLANETS
+
+https://agu.confex.com/agu/fm19/prelim.cgi/Session/81002
+
+Uranus and Neptune systems are high-priority targets for near-future 
+exploration by orbiter and/or flyby missions that may accompany in situ 
+probes and landers. We aim to hold a highly interdisciplinary session 
+that advances the state of the art in our understanding of all aspects 
+of ice-giant systems: the magnetospheres, satellites, rings, 
+atmospheres, and interiors of Uranus and Neptune; their formation and 
+evolution; and their relation to other planets in and beyond our solar 
+system. Our session especially welcomes presentations that advance our 
+understanding of the Ice Giant systems in preparation for future remote 
+sensing and in situ explorations. We solicit presentations on 
+observations, modeling, theory and laboratory work, as well as concepts 
+for missions and instruments relevant for future exploration of the Ice 
+Giant Systems.
+
+Convenors: Kunio Sayanagi, Krista Soderlund, Zibi Turtle, Xin Cao
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY GEOLOGY/VOLCANOLOGY FIELD TRIP AT GSA
+
+Thinking about a field trip at GSA this year? Please consider the
+following 3 day/2 night trip (Sep 19-21):
+
+"Unraveling volcanic and related processes using remotely sensed data
+sets: Perspectives from a Miocene-aged volcanic terrain in northwest
+Arizona"
+
+Cost: $448
+
+Registration deadline: August 19 (early registration deadline)
+
+https://community.geosociety.org/gsa2019/attend/registration
+
+Student funding opportunities: The Planetary Geology Division (PGD) of
+GSA is offering a limited number of student travel awards for this
+trip. To apply for a travel award, please email a 1-2 page CV and a
+~300-500 word justification to Nick Lang (nlang@mercyhurst.edu)
+explaining: 1) how attendance on this trip would enhance your current
+research and/or future career goals, 2) if you are attending the annual
+meeting in Phoenix, and 3) if you are presenting at GSA (include
+presentation title and if it is a poster or oral presentation). Any
+recipients of a travel award are expected to help staff the PGD booth
+during the annual meeting. Applications must be received by 8 pm EDT
+Tuesday, August 20 to be considered; reward recipients will be notified
+soon after this deadline.
+
+For more information, email Nick Lang (nlang@mercyhurst.edu)
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+OPAG FINDINGS SPRING 2019 NOW POSTED AND UPCOMING OPAG MEETING
+
+https://www.lpi.usra.edu/opag/meetings/apr2019/OPAG%20Findings%20Spring
+%202019.pdf
+
+Reminder: Upcoming Meetings 
+
+The next OPAG Meeting will be held August 20-21, 2019, Boulder, CO. The
+day prior, August 19, will be the Ocean World Access Working Group
+Workshop. The meeting will be held at the University of Colorado's
+Laboratory for Atmospheric and Space Physics (LASP), Space Science
+Building, Room W120 (SPSC) on East Campus, 3665 Discovery Drive,
+Boulder, Colorado, 80303. Directions to SPSC can be found at:
+
+http://lasp.colorado.edu/home/about/address-directions/spsc/
+
+The Outer Planets Assessment Group (OPAG) will be devoting the bulk of
+its August meeting to discussions and preparation for the next Decadal
+Survey. Community members are encouraged to attend and add their voice
+to this diverse discussion. During the meeting we will arrange panel
+discussions on various topics. Please contact Carrie Chavez
+(cchavez@seti.org) by August 15 if you would like to lead one of these
+panel discussions. By the end of the meeting we expect to produce a
+list of three key recommendations to develop and eventually deliver to
+the Decadal Survey committee for consideration
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+FACULTY POSITION AT INSTITUTE FOR PLANETARY MATERIALS
+
+The Institute for Planetary Materials (IPM), Okayama University,
+Misasa, Japan, invites applications for an Assistant Professor (tenure
+track) position in the area of Astrobiology. IPM consists of three
+divisions, the Division for Astrobiology, the Division for Planetary
+System Science, and the Division for Basic Planetary Materials Science.
+Further information about the faculty, research and facilities of the
+Institute can be found at the IPM website:
+
+http://www.misasa.okayama-u.ac.jp
+
+Applications are invited for a tenure-track assistant professor
+position in the Division for Astrobiology. 
+
+http://www.misasa.okayama-u.ac.jp/eng/announcement/?eid=01724
+
+We seek a candidate who will be able to develop a novel and independent
+research program in one of the research areas in astrobiology, such as
+analytical or experimental studies of prebiotic chemistry,
+mineral-water-organic interactions related to the origin of life, the
+search for signatures of primitive life on the early Earth or in the
+Solar System, and also work within a collaborative environment with
+other staff to pursue joint researches on Earth and planetary
+materials.
+ 
+ 
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] THREE UPDATES TO THE ROSES-2019 SUMMARY OF SOLICITATION
+
+SRLV POC update and two clarifications to the ROSES-2019 Summary of
+Solicitation:
+
+https://nspires.nasaprs.com/external/viewrepositorydocument/
+cmdocumentid=669382/solicitationId=%7BABB576B8-F844-25E0-AD23-
+9E94AAC04AE1%7D/viewSolicitationDocument=1/ROSES%202019%20SoS%20July%
+209%20update.pdf
+
+Three things have been changed in the ROSES-2019 Summary of
+Solicitation: 
+
+1. The POC for Suborbital Reusable Launch Vehicles in
+Section V(b)iii has been updated, 
+
+2. A new bullet about purchasing computers has been added to Section
+IV.(d) including a link to a new ROSES FAQ#27 on this topic:
+
+https://science.nasa.gov/researchers/sara/faqs#27
+
+3. The section of Table 1 on References now links to ROSES FAQ #19
+clarifying references to web pages/URLs:
+
+https://science.nasa.gov/researchers/sara/faqs#19
+
+Questions about the Summary of Solicitation in general and these
+updates in particular may be directed to SARA@nasa.gov.
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+[NASA] ROSES-19: TWSC UPDATES
+ 
+E.2 Topical Workshops, Symposia, and Conferences (TWSC) is updated in a
+number of ways, adding new subsection and clarifying existing text.
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%
+7bC5D940F1-2FDD-C1AF-05A3-07BBF6B7454A%7d&path=&method=init
+
+This program element is strictly limited to proposals for topical
+workshops, symposia, conferences, and other scientific/technical
+meetings that advance the goals and objectives of the Earth Science,
+Heliophysics, and Planetary Science Divisions. This program element
+does not support any type of research projects; course development;
+and/or scholarships or fellowships.
+
+Proposals may be submitted at any time during the open period of
+ROSES-2019.
+
+The coordinating point of contact for programmatic information is Mary
+Sladek who may be reached at mary.f.sladek@nasa.gov. Questions about
+availability of funds and/or whether specific events are of interest to
+the divisions should be directed to the appropriate point of contact at
+
+https://science.nasa.gov/researchers/sara/program-officers-list
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 23-27, 2019
+Rosetta SWT and Workshop
+https://www.cosmos.esa.int/web/rosetta-swt/swt-52
+Noordwijk, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

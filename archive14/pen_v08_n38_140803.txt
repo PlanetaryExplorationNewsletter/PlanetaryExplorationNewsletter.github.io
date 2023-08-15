@@ -1,0 +1,543 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 38 (August 3, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Editorial: The Future of ARM (R. Binzel, MIT)
+2. AGU Session - The Rite of Spring: The Changing Seasons on Titan
+3. AGU Session U018 - Upstairs Downstairs: Consequences of Internal 
+   Evolution for the Habitability of Planetary Surfaces
+4. AGU Session V007 - Accretionary and Planetary Differentiation 
+   Processes as Recorded in Early Earth and Planetary Materials
+5. AGU Education and Public Outreach Session
+6. Planetary Analogues Town Hall Meeting at EPSC 2014, Cascais, 
+   Portugal
+7. NASA Postdoctoral Fellowships
+8. Spitzer Space Telescope Cycle-11 Call for Proposals
+9. MAVEN Postdoctoral Researcher in Mars Magnetic Fields
+10. Planetary Geomorphology Image of the Month
+11. Doctoral Program Applications Invited by University of Heidelberg
+12. Mars Exploration Science Monthly Newsletter: August 2014
+13. [NASA] PDS - Mars Science Laboratory Release 6
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EDITORIAL: THE FUTURE OF ARM
+
+Richard P. Binzel
+Professor of Planetary Science
+Massachusetts Institute of Technology
+
+The Asteroid Retrieval Mission (ARM) continued to raise concern last 
+week at both the Small Bodies Assessment Group (SBAG) and NASA Advisory 
+Council (NAC) meetings. Several accounts are available at:
+
+http://blog.chron.com/sciguy/2014/07
+/nasas-asteroid-mission-takes-a-beating/
+
+http://www.spacenews.com/article/civil-space
+/41466asteroid-mission-causes-big-stir-among-small-bodies-scientists?
+_wcsid=EE54C92434DB03C483FC59B6FB3D476433FDA26192541BE056A2FB73DE54E484
+
+http://www.spacepolicyonline.com/news/asteroid-expert-richard-binzel
+-arm-is-emperor-with-no-clothes?utm_source=feedburner&utm_medium=feed&
+utm_campaign=Feed%3A+Spacepolicyonline+(SpacePolicyOnline+News)
+
+For balance, the challenges and potential exploration advancements of 
+ARM are in the SBAG presentations at:
+
+http://www.lpi.usra.edu/sbag/meetings/jul2014/agenda.shtml
+
+SBAG will be issuing its draft findings soon for public comment. These 
+findings will have particular impact on planetary exploration as House 
+Resolution 4412 specifically calls for SBAG's assessment of ARM as it 
+considers whether to legislate ongoing funding. Neither the cost to 
+NASA as an agency nor the cost to planetary science has been 
+determined.
+
+I hope every member of the community with an opinion about ARM and its 
+potential impact on planetary exploration will exercise their right to
+convey it either through the SBAG process or by otherwise reaching out 
+to a member of the SBAG Steering Committee: 
+
+http://www.lpi.usra.edu/sbag/committee/
+
+Some people may have felt discouraged from publicly voicing their 
+opinions. Government employees, or anyone feeling constrained, should 
+use private email accounts and phone lines. We are all entitled to 
+express our viewpoints.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION - THE RITE OF SPRING: THE CHANGING SEASONS ON TITAN
+
+Intense scrutiny by the Cassini Saturn Orbiter, combined with extensive 
+ground based observing campaigns, has established Titan's seasonal 
+weather pattern over more than a third of a Saturn orbital period. Many 
+of the changes seen in the atmosphere are associated with changes on 
+the surface. These changes are the product of atmospheric processes 
+such as evaporation, rainfall and/or infiltration and fluvial activity 
+most probably in combination with dynamic processes ongoing in Titan's 
+interior. The relative contribution of each of these processes to 
+Titan's state at a given point in time is gradually being understood. 
+The session will present recent spacecraft and ground-based results and 
+test the veracity of the current models.
+
+Conveners:
+Robert  M. Nelson, Planetary Science Institute
+Rosaly M. Lopes, Jet Propulsion Laboratory
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION U018 - UPSTAIRS DOWNSTAIRS: CONSEQUENCES OF INTERNAL 
+EVOLUTION FOR THE HABITABILITY OF PLANETARY SURFACES
+
+The chemistry and physics of planetary interiors shapes and is shaped 
+by conditions at their surfaces. The nature and extent of these 
+interactions are not well understood. For example, in Earth history, 
+the transition from a reduced to an oxidizing surface environment 
+after 2.4 Ga, which paved the way for complex life, may have been 
+modulated by changes in the redox state of mantle-derived gases. On 
+Earth-like exoplanets, variations in planetary mass and composition 
+affect the prospects for life, and for its detectability, in ways that 
+have barely been considered. This session seeks to bring together 
+geochemists, geophysicists, geobiologists, and others who are building 
+knowledge about the complex relationships between the surface 
+habitability and internal evolution of Earth and Earth-like worlds.
+
+Conveners: 
+Ariel D. Anbar (ASU) 
+Christopher Ballentine (Oxford) 
+David Catling (U. Washington) 
+Christy Till (ASU)
+
+Confirmed Invited Speakers: 
+Ben Black 
+Lindy Elkins-Tanton 
+Kurt Konhauser 
+Lee Kump 
+Adrian Lenardic 
+Charles Langmuir 
+Diana Valencia 
+John Wade
+
+Abstract deadline: August 6, 2014
+
+To submit, go to: 
+
+https://agu.confex.com/agu/fm14/u/papers/index.cgi?sessionid=3709
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION V007 - ACCRETIONARY AND PLANETARY DIFFERENTIATION PROCESSES 
+AS RECORDED IN EARLY EARTH AND PLANETARY MATERIALS
+ 
+This session (V007 ID#1785) invites contributions based on geophysical 
+models and geochemical records in terrestrial and planetary materials 
+that will increase our understanding of early Earth and planetary 
+evolution. We encourage contributions on topics such as: constraints 
+on the nature of building blocks of terrestrial planets; timing and 
+nature of early differentiation of the silicate Earth; consequences of 
+Moon formation and late accretion for the development of the major 
+terrestrial and lunar reservoirs; processes and timescales for the 
+generation and survival of mantle heterogeneities; and implications of 
+the composition of planetary materials for models of the chemical 
+evolution of the Earth.
+ 
+Co-Sponsor(s):
+DI - Study of the Earth's Deep Interior
+EGU-GMPV - European Geophysical Union-Geochemistry Mineralogy 
+Petrology and Volcanology
+MR - Mineral and Rock Physics
+P - Planetary Sciences
+ 
+Invited Speakers:
+Jingao Liu (University of Alberta)
+Oliver Nebel (Australian National University)
+Hanika Rizo Garza (Carnegie Institution of Washington)
+ 
+For more information, visit:
+ 
+https://agu.confex.com/agu/fm14/webprogrampreliminary/Session1785.html
+ 
+The submission deadline is August 6, 2014.
+ 
+Conveners:
+Audrey Bouvier, University of Western Ontario
+Mathieu Touboul, University of Maryland College Park
+Jeffrey D. Vervoort, Washington State University
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU EDUCATION AND PUBLIC OUTREACH SESSION
+
+Everyone is permitted an additional E/PO abstract that does not count 
+against your science abstract limit. Consider submitting to the four 
+highlighted sessions below:
+
+* Educator Professional Development Programs Promoting Authentic 
+Scientific Research. Presentations are welcome from educators and 
+scientists, and those who design, facilitate, evaluate or fund such 
+programs.
+
+* Engaging Engineers in Education and Public Outreach: Models of 
+Success for Teaching Students. We invite scientists, engineers, and 
+E/PO professionals to share tools, resources, and examples of 
+successful projects that supports students' understandings aligned 
+with the Next Generation Science Standards.
+
+* Scientist Engagement in Education and Public Outreach: Sharing 
+Effective Tools, Resources, and Stories of Success. We invite 
+presenters to share tools, resources and stories of success that 
+report lessons learned about sharing their work in E/PO settings.
+
+* Student Professional Communities - representatives and alumni 
+from student groups are invited to share how their group was founded, 
+how it is organized and funded, what activities the group does to 
+benefit its student members, and any information on outcomes.
+
+Learn more at: 
+
+https://agu.confex.com/agu/fm14/webprogrampreliminary/ED.html
+
+Abstracts are due on August 6th.
+
+Contact Sanlyn Buxner (buxner@psi.edu) or Jen Grier (jgrier@psi.edu) 
+for information.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY ANALOGUES TOWN HALL MEETING AT EPSC 2014, CASCAIS, PORTUGAL
+
+An Analogs Town Hall is planned for Tuesday, 9 September from 9:00 to 
+12:30 in the Mars Room. This is intended for members of the analogs 
+community - principal investigators, scientists, engineers, mission 
+managers - who wish to discuss recent analog activities over the past 
+five years on a global scale, and propose new concepts for research 
+projects and missions in support of future Solar System exploration. 
+This will be a forum for discussion between the participants and 
+invited speakers regarding recent and ongoing activities conducted by 
+the speaker's home space agency. These include but are not restricted 
+to: space exploration analog project goals, results, and lessons 
+learned; how analog project results are communicated; how analog 
+missions could be expanded in future to more closely match space 
+missions; and how all these activities could become more visible to the 
+global space exploration community.
+
+Convenors: 
+Dean Eppler (NASA Johnson Space Center) 
+Stephen Hoffman (Science Applications International Corporation) 
+Gian Gabriele Ori (International Research School of Planetary Sciences) 
+Nicole Schmitz (German Aerospace Center Institute for Planetary 
+Research)
+Marie-Claude Williamson (Geological Survey of Canada)
+
+Contact: 
+Steve Hoffman 
+stephen.j.hoffman@nasa.gov
+
+http://www.epsc2014.eu/analogues_town_hall_meeting.html
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18395
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1iUrK4I
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SPITZER SPACE TELESCOPE CYCLE-11 CALL FOR PROPOSALS
+
+http://ssc.spitzer.caltech.edu/warmmission/propkit/cp/cp11.pdf
+
+Large & Exploration Science Letters of Intent Due:
+Thursday, 28 August 2014
+
+Proposal Deadline:
+Wednesday, 29 October 2014, 4:00 PM PDT
+
+Cycle-11 programs will execute in the February 2015 - September 2016 
+timeframe. We expect to select 6,700 - 9,200 hours of scheduling 
+priority 1 programs and 1,000 hours of priority 2 snapshot programs.
+
+Priority in the selection of Cycle-11 will be given to programs that
+highlight
+
+- Astro2010 science themes
+- Planetary science programs observing targets in our Solar System.
+- Investigations that concentrate on developing the scientific 
+  landscape that JWST will explore, or will help maximize the JWST 
+  scientific return.
+
+In this cycle proposers are especially encouraged to consider 
+compelling planetary science campaigns (long-term/multiple 
+observations) that focus on the changing nature of solar system 
+objects over time. Many of these objects are possible future mission 
+targets as outlined in the most recent planetary decadal survey. 
+Proposers should identify how these observations contribute to the 
+body of scientific knowledge needed to help refine objectives for 
+future missions and aid in the understanding of the origin or 
+evolution of the targeted body. 
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MAVEN POSTDOCTORAL RESEARCHER IN MARS MAGNETIC FIELDS
+
+(NASA-GSFC/CRESST/University of Maryland)
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate, funded through the University of Maryland College Park 
+(UMCP) and the Center for Research and Exploration in Space Science 
+and Technology (CRESST), to work in the Planetary Magnetospheres 
+Laboratory of the NASA Goddard Space Flight Center (GSFC) investigating 
+Mars magnetic fields using data from the MAVEN (Mars Atmosphere and 
+Volatile EvolutioN) mission. Additional details are available at: 
+
+http://www.astro.umd.edu/employment/
+
+The appointment will be initially for one year, with the possibility 
+of renewal in subsequent years. Candidates should have a Ph.D. in a 
+relevant discipline with experience conducting scientific research 
+related to the MAVEN science objectives or the types of instruments 
+included in the MAVEN science payload. Disciplined IDL and Fortran 
+programming skills, demonstrated scientific writing ability, and 
+experience in acquisition and analysis of data (especially 
+magnetometer data) from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by September 1, 2014 will receive full 
+consideration.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The August 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/
+
+This Month's topic is on Experimental Delta Formation in Crater Lakes.
+
+Post by G. de Villiers, Faculty of Geoscience, Utrecht University
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DOCTORAL PROGRAM APPLICATIONS INVITED BY UNIVERSITY OF HEIDELBERG
+
+The International Max Planck Research School for Astronomy & Cosmic 
+Physics at the University of Heidelberg (IMPRS-HD) invites 
+highly-qualified students aiming for a doctoral degree in astrophysics 
+to apply by November 17, 2014 for the academic year starting September 
+2015.
+
+An earlier start of the research work is possible.
+
+Applicants are generally required to expect a MSc (or equivalent) in 
+Physics or Astronomy, including an extensive MSc thesis and a very 
+good physics background. For further information about IMPRS Heidelberg 
+and details of the application procedure, we refer to our web-site at:
+
+http://www.mpia.de/imprs-hd/
+
+The scientific environment in Heidelberg provides outstanding research 
+facilities with access to ground-based and space telescopes as well as 
+high-performance computers.
+
+The following institutions of the Max Planck Society and Heidelberg 
+University take part in IMPRS-HD:
+
+Max Planck Institute for Astronomy
+Max Planck Institute for Nuclear Physics
+Astronomisches Rechen-Institut
+Institute of Theoretical Astrophysics
+Landessternwarte Koenigstuhl
+Heidelberg Institute of Theoretical Studies
+
+A wide range of astrophysical topics is covered in Heidelberg,
+among them:
+ 
+Planet & Star Formation 
+Metal-Poor Stars 
+Extrasolar Planets & Substellar Objects 
+Astrometry 
+Formation, Evolution & Dynamics of Galaxies 
+Cosmology & Structure Formation 
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: AUGUST 2014
+
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Amy Hale of the Mars Program Science Office, the August 2014 edition 
+of the Mars Exploration Science Monthly Newsletter is posted at:
+
+http://mepag.jpl.nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS - MARS SCIENCE LABORATORY RELEASE 6
+
+The NASA Planetary Data System announces the sixth release of data 
+from the Mars Science Laboratory (MSL) mission, covering data acquired 
+from Sol 450 through Sol 583 (November 10, 2013, through March 28, 
+2014).
+
+This release consists of raw and derived data sets from the following
+instruments:
+
+APXS
+ChemCam
+CheMin
+DAN
+Hazcam
+MAHLI
+MARDI
+Mastcam
+Navcam
+RAD
+REMS
+SAM
+SPICE
+
+To access the above data for this release:
+
+http://pds.nasa.gov/subscription_service/SS-20140801.html
+
+Links to all MSL data sets may be found on the PDS Geosciences Node web
+site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/
+
+The data may also be reached from the main PDS home page:
+
+http://pds.nasa.gov/ 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives: The Planetary 
+Image Atlas at the Imaging Node allows selection of MSL image data by 
+specific search criteria. Go to:
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows searching and
+downloading of all MSL data in the context of mission events:
+
+http://an.rsl.wustl.edu/msl
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 5-9, 2014
+7th GEOSCIED Conference
+http://geocalendar.agu.org/meeting/7th-geoscied-conference/
+Hyderabad, India
+
+October 23-24, 2014
+The Brown Dwarf to Exoplanet Connection Conference:
+Making sense of Atmospheres and Formation
+http://www.physics.udel.edu/gp/bdexocon/BDEXOCON.htm
+Newark, DE
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

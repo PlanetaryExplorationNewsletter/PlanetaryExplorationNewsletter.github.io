@@ -1,0 +1,207 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 21 (May 15, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] ASTRO-H Guest Observer - Cycle 1 Cancellation
+2. [NASA] Concepts for Ocean worlds Life Detection Technology (COLDTech)
+3. 28th Edition of the IAC Winter School: Solar System Exploration
+4. MAVEN Science Team Meeting
+5. 88th GSI Congress Abstract Deadline Postponed
+6. Call for Participation - SOCET SET Training Opportunity
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] ASTRO-H GUEST OBSERVER - CYCLE 1 CANCELLATION
+
+NASA planned to issue a call for Guest Observer proposals for the 
+ASTRO-H mission but due to an anomaly experienced by the Hitomi 
+spacecraft on March 26, 2016, and the subsequent loss of the mission, 
+the planned release of this program element has been canceled.
+ 
+Announcement: NNH16ZDA001N
+
+Posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+
+and on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2016.
+ 
+Questions concerning this program element may be directed to Louis 
+Kaluzienski at louis.j.kaluzienski@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] CONCEPTS FOR OCEAN WORLDS LIFE DETECTION TECHNOLOGY (COLDTECH)
+ 
+The Concepts for Ocean worlds Life Detection Technology (COLDTech) 
+Program supports the development of spacecraft-based instruments and 
+technology for surface and subsurface exploration of ocean worlds such 
+as Europa, Enceladus, and Titan.
+
+Specifically, COLDTech seeks to a) develop and advance the maturity 
+of science instruments, especially those focused on the detection of 
+evidence of life, especially extant life, in the ocean worlds of the
+outer Solar System (e.g., Enceladus, Europa, and Titan); b) sample 
+acquisition, delivery and analysis systems for such missions, and 
+c) spacecraft technologies required to access the oceans. 
+ 
+Mandatory Step-1 proposals are due by June 17, 2016, and Step-2
+proposals are due by August 12, 2016.
+ 
+The full announcement (NNH16ZDA001N) may be found at:
+
+http://nspires.nasaprs.com/ 
+
+and will appear on the RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations/
+roses-2016.
+ 
+Questions concerning this program element may be directed to Curt 
+Niebur at curt.niebur@nasa.gov.
+
+[Edited for length.]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+28TH EDITION OF THE IAC WINTER SCHOOL: SOLAR SYSTEM EXPLORATION
+
+This year the XXVIII Edition of the Winter School of Astrophysics, 
+organized by the Instituto de Astrofisica de Canarias, is focused 
+on the exploration of the Solar System. The school will be held in 
+the UNESCO word heritage city of San Cristobal de La Laguna, in 
+Tenerife (Canary Islands, Spain) in November, 7-16, 2016.
+
+The school in intended for post-graduate students in Astrophysics 
+completing their PhD, and also to young postdocs. It is limited to 
+50 participants, and will provide several advanced courses in specific 
+topics like planetary space missions, asteroids, comets, origin and 
+evolution of the Solar System and a small workshop on planetary data 
+archiving and image processing. 
+
+For more details visit our website: 
+
+http://www.iac.es/winterschool/2016/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MAVEN SCIENCE TEAM MEETING
+
+The next MAVEN science-team meeting will be held on the Boston 
+University campus on 14-17 June.  The meeting is open to non-team 
+members as long as (i) they are actively working with MAVEN data, 
+and (ii) they receive advance approval. To request approval or for 
+more information, contact the MAVEN P.I., Bruce Jakosky, at 
+bruce.jakosky@lasp.colorado.edu. No on-site walk-ups will be allowed.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+88TH GSI CONGRESS ABSTRACT DEADLINE POSTPONED
+
+The deadline for the submission of planetary, geological, and 
+volcanological abstracts to the 88 GSI Congress, which will take place 
+in Naples on 7-9 September 2016, is postponed to 30 May 2016.
+
+The deadline for the registration to the excursions, including Vesuvius 
+and Campi Flegrei, is 15 June 2016.
+
+You will find all the details both in Italian and English here:
+
+http://www.sginapoli2016.it/home/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+CALL FOR PARTICIPATION - SOCET SET TRAINING OPPORTUNITY
+
+The Planetary Photogrammetry Guest Facility at the Astrogeology Science 
+Center of the U.S. Geological Survey would like to announce its Call 
+for Participation for a training opportunity on July 25-27, 2016. This 
+training will cover photogrammetric processing of planetary stereo 
+imagery using USGS Integrated Software for Imagers and Spectrometers 
+and SOCET SET software developed by BAE Systems. The training is FREE 
+to participants, and will cover end-to-end, hands-on photogrammetric 
+procedures for surface extraction (i.e., digital elevation model 
+generation) from Mars Reconnaissance Orbiter HiRISE image pairs.  For 
+additional information and application instructions, please see 
+
+http://astrogeology.usgs.gov/facilities/photogrammetry-guest-facility.  
+
+For information about a USGS Integrated Software for Imagers and 
+Spectrometers Hands-on Workshop being held July 28-29, 2016 - also 
+hosted by the Astrogeology Science Center, please see: 
+
+https://isis.astrogeology.usgs.gov/fixit/projects/isis/news
+
+Interested individuals can attended both the SOCET SET and the USGS 
+Integrated Software for Imagers and Spectrometers workshops.  
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+September 13-16, 2016
+Multiple Faces of Interstellar Dust
+http://wwwmpa.mpa-garching.mpg.de/~lana/DUST2016/
+Garching, Germany
+
+October 27-28, 2016
+SMA science in the Next Decade
+http://events.asiaa.sinica.edu.tw/workshop/20161027/
+Taipei, Taiwan
+
+November 7-16, 2016
+XXVIII Canary Islands Winter School of Astrophysics
+http://www.iac.es/winterschool/2016/
+La Laguna, Spain
+
+May 29-June 23, 2017
+Protoplanetary Disks and Planet Formation and Evolution
+http://www.munich-iapp.de/scientific-programme/programmes-2017/
+protoplanetary-disks/
+Garching, Germany
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

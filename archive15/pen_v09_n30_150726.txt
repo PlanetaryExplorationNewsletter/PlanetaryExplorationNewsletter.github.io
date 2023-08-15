@@ -1,0 +1,447 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 9, Number 30 (July 26, 2015)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU 2015 Session 7784: Magnetospheres in the Inner Solar System
+2. AGU 2015 Session 7905: A Decade's Obervance of a Habitable World
+3. AGU 2015 Session 7990: Radar Investigations of Planetary Surfaces and 
+   Subsurfaces
+4. AGU 2015 Session 8936: Magma Channelization Across the Solar System
+5. NASA Postdoctoral Fellowships 
+6. [NASA] Release of the NASA Asteroid Redirect Mission Formulation 
+   Assessment and Support Team (FAST) Charter
+7. NRC CubeSats Symposium
+8. VEXAG Meeting #13
+9. OPAG Announcement
+10. Planetary Meeting Calendar Additions
+
+Commercial Announcement:
+
+C1. Spaceflight Mechanics I
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU 2015 SESSION 7784: MAGNETOSPHERES IN THE INNER SOLAR SYSTEM
+
+We encourage abstract submissions to session SM017, "Magnetospheres in 
+the Inner Solar System," at the fall AGU meeting in San Francisco, 
+December 14-18, 2015. The abstract submission deadline is Wednesday, 
+August 5. Further details are given below. 
+
+Conveners: Gina A. DiBraccio, Daniel J. Gershman, Marissa F. Vogt
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/Session7784
+
+The structure and dynamics of each planetary magnetosphere (intrinsic
+nd induced) in the inner solar system are driven by a unique set of 
+factors including the nature of its magnetization, atmosphere-
+ionosphere coupling, and local solar wind parameters. To provide a 
+forum for discussion of recent data analysis and modeling efforts 
+concerning the inner planet magnetospheres, this session welcomes 
+submissions on the intrinsic magnetospheres of Mercury and Earth, 
+as well as the induced magnetospheres of Venus and Mars. It will 
+focus on general magnetospheric processes including, but not limited 
+to: solar wind-magnetosphere interaction, magnetosphere-ionosphere 
+coupling, plasma acceleration and transport, magnetic reconnection, 
+wave instabilities, magnetotail dynamics, and bow shock physics. We 
+strongly encourage comparative studies of these inner solar system 
+magnetospheres with each other or with other planetary magnetospheres 
+throughout the solar system.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU 2015 SESSION 7905 -  A DECADE'S OBSERVANCE OF A HABITABLE WORLD
+
+This year marks the 10th anniversary of the discovery of the geysering 
+south polar terrain of Saturn's small icy moon, Enceladus, and ten 
+years of routine observing and studying its activity from the Cassini 
+spacecraft. Over the course of the last decade, it has become 
+increasingly clear that Enceladus' geysers erupt from a large, 
+long-lived, sub-ice-shell liquid water reservoir, chemically suitable 
+for the sustenance of biological processes and directly accessible to 
+sampling and analysis. And by the time this session is convened, two 
+of the last 3 close, targeted flybys that Cassini will make of 
+Enceladus will have been completed and the data available for 
+presentation. In this session, we will focus on the most recent 
+observational, theoretical and modeling results on the chemistry, state 
+and dynamics of Enceladus' geysers, the moon's thermal and interior 
+state, geologic activity, as well as its astrobiological potential.
+
+Come celebrate 10 phenomenal years with us in San Francisco!
+
+Deadline to submit an abstract: 5 August 2015, 11:59 P.M. EDT
+
+To submit abstracts to this session (ID#7905), visit:
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/Session7905
+
+Chris McKay, Ames Research Center
+Carolyn Porco, Space Science Institute and UC Berkeley
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU 2015 SESSION 7990: RADAR INVESTIGATIONS OF PLANETARY SURFACES AND 
+SUBSURFACES
+
+Proposed and existing radar instruments are enabling an unprecedented 
+range of radio geophysical observations of the surfaces and subsurfaces 
+of solar system bodies. This has spurred the development and 
+application of new instrumentation, processing, modeling, analysis, and 
+interpretation approaches to planetary radar science and engineering.  
+We invite abstracts on any topic involving the use of radar data to 
+understand planetary bodies. These may describe (but are not limited 
+to) new results from existing radar observations, the development and 
+application of new observation or data processing techniques, numerical 
+modeling of existing or future observations, and/or the analysis of 
+airborne or orbital radar data from terrestrial analog studies for 
+solar system observation.
+
+Invited presentations will be given by Donald Blankenship, Lorenzo 
+Bruzzone, Alexander Hayes, and Jennifer Whitten.
+
+Please consider submitting an abstract for this session. For more 
+information, visit: 
+
+https://agu.confex.com/agu/fm15/preliminaryview.cgi/Session7990
+
+The submission deadline is August 5, 2015.
+
+Conveners:
+
+Wes Patterson (Johns Hopkins University Applied Physics Laboratory)
+Dustin Schroeder (Jet Propulsion Laboratory)
+Lynn Carter (Goddard Space Flight Center)
+Cyril Grima (University of Texas at Austin)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU 2015 SESSION 8936: MAGMA CHANNELIZATION ACROSS THE SOLAR SYSTEM
+
+Please consider proposing to this session at the fall AGU Meeting.
+
+Convenors:  David A. Williams (Arizona State University), Christopher 
+Hamilton (University of Arizona), C. Michael Lesher (Laurentian 
+University)
+
+Summary: Understanding magma emplacement mechanisms are important in 
+volcanology, planetary science, and economic geology. On Earth, much 
+work is being done to understand better how magma emplacement is 
+focused in channels, tubes, and conduits, and the relative roles of 
+construction vs. thermo-mechanical erosion in their formation. On 
+Earth, it is clear that most magmatic Ni-Cu-PGE deposits and some Cr 
+deposits occur in lava channels and magma conduits, so they also have
+important economic implications. And across the Solar System, new 
+data from NASA missions continues to reveal more detailed morphological 
+and compositional information about extraterrestrial lava flows. We 
+propose this session to bring together terrestrial and planetary 
+volcanologists and economic geologists to review the latest results 
+from our various studies, and to identify topics that would benefit 
+from future collaboration and joint research.
+
+The abstract submission site is now open. Please submit your abstracts 
+by Wednesday, 5 August 23:59 EDT/03:59 +1 GMT. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in Earth science, heliophysics, astrophysics, planetary science, 
+astrobiology, space bioscience, aeronautics and engineering, human 
+exploration and operations, and space technology.
+
+An example of one of the research opportunities in planetary science 
+is:
+
+https://www3.orau.gov/NPDoc/Catalog/18715
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: http://bit.ly/1UA7aHs
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] RELEASE OF THE NASA ASTEROID REDIRECT MISSION FORMULATION 
+ASSESSMENT AND SUPPORT TEAM (FAST) CHARTER
+
+The NASA Asteroid Redirect Mission team has posted a Formulation 
+Assessment and Support Team (FAST) charter to supplement the FAST 
+Membership Call that was issued earlier this month.
+
+The Membership Call and the Charter are available at: 
+
+http://nspires.nasaprs.com/external/solicitations/summary.do?method
+=init&solId={A680142F-8F79-93C8-CED4-644C30C5F31A}&path=open
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NRC CUBESATS SYMPOSIUM
+
+The NRC Committee on Achieving Science Goals with CubeSats is hosting 
+a community symposium on September 2-3 at the Beckman Center in 
+Irvine, CA, to explore the feasibility of obtaining high-priority 
+science data using CubeSats. The symposium will feature a series of 
+panel discussions among scientists and technologists in the areas of 
+Earth science, solar and space physics (heliophysics), planetary 
+science, astronomy and astrophysics, as well as technology that 
+enables CubeSats, technology development enabled by CubeSats, and 
+industry capabilities. The panels will explore science goals, how these 
+goals could be achieved using CubeSats, and the potential for new 
+science that is enabled by CubeSats. These discussions will be framed 
+by current CubeSat technological capabilities and those anticipated in 
+the near future.
+
+The Committee is also soliciting posters as critical inputs to the 
+symposium that will be displayed at a poster session. Posters should be 
+targeted to one or more of the following: current CubeSat missions and 
+science results, CubeSat mission concepts, or technology that enables 
+CubeSat science missions. Of particular interest are posters concerning 
+CubeSat-enabled microgravity science.
+
+More information, registration instructions, and poster title 
+submission are available here: 
+
+http://sites.nationalacademies.org/SSB/SSB_167274
+ 
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+VEXAG MEETING #13
+
+Venus Exploration Analysis Group (VEXAG) meeting #13 will be held on 
+Tuesday-Thursday, October 27-29, 2015, at James Webb Auditorium, NASA 
+Headquarters, Washington DC. A preliminary agenda is available at the 
+VEXAG Web-Site:
+
+http://www.lpi.usra.edu/vexag/
+
+Tuesday - 27 October 2015 - NASA and mission reports
+Wednesday - 28 October 2015 - Venus science and technology reports
+Thursday - 29 October 2015 - VEXAG activities (adjourn at mid-day)
+
+Presentations on Venus science and technologies for Venus missions are 
+invited. If interested, contact Lori Glaze and Patricia Beauchamp 
+(lori.s.glaze@nasa.gov, and Patricia.M.Beauchamp@jpl.nasa.gov).
+
+If you'll be attending in person and haven't done so already, please 
+enter your name on the Meeting Registration /Intent to Attend Form on 
+the VEXAG Web-Site: 
+
+https://www.hou.usra.edu/meeting_portal/registration
+/index.cfm?mtg=vexag2015_fall
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+OPAG ANNOUNCEMENT
+
+The next OPAG meeting will be 24-26 August at JHU/APL. The agenda is 
+posted on the OPAG homepage. Registration is now open - the link is on 
+the OPAG homepage: 
+
+http://www.lpi.usra.edu/opag/   
+
+All logistical instructions are posted at this registration link.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PHD STUDENT AT THE UNIVERSITY OF HELSINKI
+
+A 4-year PhD position in impact modeling is open at the Department of 
+Physics, University of Helsinki, Finland as a part of the Academy of 
+Finland funded project entitled: "Composition of dark asteroids - are 
+asteroid collisions responsible for observed compositional mismatch in 
+main asteroid belt?"¨
+
+Requirements:
+
+- MSc or equivalent in geology, (geo)physics, or planetary science no 
+  later than September 1, 2015.
+- Fluent English.
+- Previous numerical modeling experience.
+- Experience with impact modeling and knowledge of iSALE code is an 
+  advantage.
+
+Benefits:
+
+- Work in a young enthusiastic team at one of the leading Nordic 
+  universities.
+- Opportunity to conduct state-of-art research in planetary science.
+- Full social benefits according to the Finnish social care system.
+- Salary in the range of EUR 2500-2900.
+
+How to apply:
+
+Send the following items to PI Tomas Kohout (tomas.kohout@helsinki.fi) 
+no later than August 2, 2015:
+- Motivation letter describing your research interests and previous 
+  study/research history.
+- CV and publication list.
+- Copy of MSc thesis and MSc diploma.
+
+Successful candidate will be informed latest August 6. The appointment 
+will start on September 1, 2015.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+August 10-12, 2015
+International Conference on Space Science and Communication (IconSpace)
+http://www.globaleventslist.elsevier.com/events/2015/08
+/international-conference-on-space-science-and-communication-iconspace/
+Langkawi, Malaysia
+
+September 2-3, 2015
+NRC CubeSats Symposium
+http://sites.nationalacademies.org/SSB/SSB_167274
+Irvine, CA
+
+September 21-25, 2015
+3rd International Workshop on Microbial Life Under Extreme Energy 
+Limitation
+http://microenergy2015.org
+Sonderborg, Denmark
+
+September 28 - October 2, 2015
+Astrobiology and Planetary Atmospheres
+http://www.eso.org/sci/meetings/2015/AstroBio2015.html
+Santiago, Chile
+
+October 5, 2015
+Astrobiology Graduates in Europe (AbGradE) Mission Design Workshop
+http://www.eana-net.eu/AbGradE/abgrade2015.html
+Noordwijk, The Netherlands
+
+October 6-9, 2015
+15th EANA Astrobiology Conference
+http://www.eana-net.eu/Conferences/EANA2015.html
+Noordwijk, The Netherlands
+
+November 5-6, 2015
+Second Off-Earth Mining Forum
+http://www.futuremining2015.ausimm.com.au
+Sydney, Australia
+
+November 9-13, 2015
+Reconceptualizing the Origin of Life: Experimental, 
+Interdisciplinary, and Computational Windows on the Core Concepts
+https://carnegiescience.edu/events/lectures
+/re-conceptualizing-origin-life
+Washington, DC
+
+January 12-15, 2016
+4th ELSI Symposium - Three Experiments in Biological Origins:
+Early Earth, Venus and Mars
+http://www.elsi.jp/en/research/activities/symposium/2016/01
+/sympo-04.html
+Tokyo, Japan
+
+January 17-22, 2016
+2016 Gordon Research Conference & Seminar "Origins of Life"
+http://www.grc.org/programs.aspx?id=14007
+Galveston, TX
+
+July 10-12, 2016
+Astrobiology Australasia Meeting 2016
+http://www.aa-meeting2016.com
+Perth, Australia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+SPACEFLIGHT MECHANICS I
+
+For those wanting to include basic space mission design in their 
+teaching courses, the interactive volume "Spaceflight Mechanics I" is 
+available as an interactive e-Book on the iBook store. This book on 
+spaceflight mechanics has been compiled for interested students of the 
+engineering, mechanics, physics, and computer science fields. To follow 
+its contents students will need basic understanding of differential 
+analysis and vector algebra. The book can be used alongside lectures on 
+the astrodynamics, as a tutorial on the matter, as well as a reference 
+to often needed equations and methods.
+
+The link can be found on:
+
+https://itunes.apple.com/us/book/spaceflight-mechanics-i
+/id1001301795?ls=1&mt=11
+
+"Spaceflight Mechanics I" has 176 pages, many illustrations, 
+interactive 3D graphics, and exercises. It features many links to 
+publicly available information on the internet.
+
+Markus Landgraf
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,769 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 11 (March 10, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Jay T. Bergstralh (1943-2019)
+2. Deadline Extended for Amazonian Mars: Climate and Processes 
+3. Call for Abstracts: GeoMuenster 2019 Conference
+4. Planetary Science Engagement Institute
+5. MEPAG Facilitation of Community Communication About Proposals for
+   The New Pre-Decadal Mission Concept Studies NRA
+6. Building the NASA Citizen Science Community
+7. Update to USGS Astrogeology Science Center (ASC) Software Portfolio
+8. ESA Voyage 2050: Call for White Papers and Membership of Topical 
+   Teams 
+9. JMars Showcase at LPSC
+10. [LPSC] Women in Planetary Science Networking Event 2019
+11. Titan Workshop Announcement
+12. Asteroid Science in the Age of Hayabusa2 and OSIRIS-REx Workshop
+13. 3 Postdoctoral Positions in Mars Science
+14. OPAG Meeting
+15. 2019 NASA Planetary Science Summer Seminar Applications Open
+16. Workshop on Polarization in Protoplanetary Disks and Jets
+17. Final Announcement for Early Registration: New Horizons in
+    Planetary Systems
+18. Two New Positions of Assistant Professor at Universidad De Atacama
+19. [NASA] GSFC Civil Servant Job Announcement
+20. Europlanet Travel Grants Available for the 8th Interplanetary 
+    CubeSat Workshop (iCubeSat 2019)
+21. Call for Papers: Planetary and Space Science Special Issue on 
+    Cosmic Dust
+22. Terrestrial Analog Survey Reminder
+23. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: JAY T. BERGSTRALH (1944-2019)
+
+It is with great sadness that we report the death of our colleague, Dr.
+Jay T. Bergstralh on February 16, 2019, at age 75 after a long battle
+with progressive aphasia and dementia. At JPL he conducted original
+research on the atmospheres of Venus, Jupiter, Saturn and Uranus and on
+Jupiter's satellite, Io, primarily from ground-based astronomy; he also
+worked on the Voyager mission Photopolarimeter System team. He took on
+the role of Science Organizing Chair for the first American
+Astronomical Society's Division for Planetary Sciences meeting in
+Pasadena, California, in 1978. While at JPL he also became the first
+Chair of the DPS from a NASA field center in 1986-1987. Following the
+Voyager flyby, he organized a conference on the Uranus system and was
+the lead editor of the comprehensive book Uranus, published in 1991 by
+the University of Arizona Press. During his tenure at NASA
+Headquarters, Jay managed the Planetary Atmospheres research grants
+program, became the Associate Director for Solar System Exploration and
+Program Scientist for the Galileo, Cassini, Europa Orbiter and
+Messenger missions, and for the Discovery Program. 
+
+For the full Memoriam and additional links, please go to:
+
+http://planetarynews.org/memoriam/jay_t_bergstralh.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+DEADLINE EXTENDED FOR AMAZONIAN MARS: CLIMATE AND PROCESSES 
+
+Deadline for Submissions Extended to April 15, 2019
+Acceptances anticipated: September 30, 2019 
+Publication expected: November 1, 2019 
+
+A special issue of Planetary and Space Science seeks to assemble papers 
+describing our current understanding of the climate and planetary 
+processes occurring on Mars during the Amazonian period, the most recent 
+3 Ga of Martian history, which includes the present-day. The papers 
+presented in this special issue will outline recent results that advance 
+our understanding of the Amazonian Climate, as well as reviews of our 
+current understanding of key cycles and trends through the Amazonian 
+that have left geologic and atmospheric records. If you are currently 
+working on a paper relevant to the Amazonian period of Mars, including 
+present-day results from spacecraft currently or recently operating on 
+Mars, we invite you to submit to the special issue.
+
+For more information, please contact John Moores at: jmoores@yorku.ca 
+
+Manuscripts and any supplementary material should be submitted through
+the Elsevier EVISE system. The website for this special issue can be
+found at:
+
+https://www.journals.elsevier.com/planetary-and-space-science/call-for-
+papers/special-issue-on-amazonian-mars-climate-processes
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CALL FOR ABSTRACTS: GEOMUENSTER 2019 CONFERENCE
+
+22-25 September
+Muenster, Germany
+
+This conference covers multiple geoscientific topics including one
+planetary theme: "Structure and evolution of planetary bodies".
+
+We look forward to receiving your abstracts for this theme and the
+following session in particular: "High-spatial resolution studies of
+small-scale and complex extraterrestrial and terrestrial samples".
+
+Investigations of heterogeneous samples like meteorites, interplanetary
+dust particles, or returned mission samples require the application of
+high-spatial resolution analytical techniques to minimize sample
+destruction and maximize contextual information. This also applies to a
+wide variety of terrestrial rocks and experimental analogues that
+document the evolution of planetary bodies (e.g., impact-generated
+lithologies, shocked minerals, fluid/mineral inclusions, high-pressure/
+high-temperature experiments, synthetic nanomaterials). In this
+session, we welcome contributions from geo-cosmochemistry-material
+sciences disciplines that make use of high-spatial resolution methods
+(e.g., electron microscopy, laser-ablation and secondary ion mass
+spectrometry, atom probe tomography, Raman spectroscopy, and
+synchrotron radiation techniques) that improve our understanding of
+small-scale chemical, isotopic and structural properties and processes.
+Cross-disciplinary contributions giving possible new insights into old
+problems are particularly encouraged.
+
+For more information and to register, please visit: 
+
+http://www.geomuenster2019.de/themessessions.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY SCIENCE ENGAGEMENT INSTITUTE
+
+The Johns Hopkins University Applied Physics Laboratory's VORTICES
+program and the Lunar and Planetary Institute are conducting a
+Planetary Science Engagement Institute for planetary scientists
+interested in engaging public audiences in planetary science and solar
+system exploration. Hear from a variety of experts on public
+engagement. Content will include common Solar System misconceptions,
+techniques for addressing controversial topics, simple activities and
+demonstrations for engaging audiences, connecting with local museums
+and astronomy clubs, and more.
+
+This free event will be held at LPI following the Lunar and Planetary
+Science Conference. It starts at 2 pm on Friday, March 22, includes
+dinner, and continues until 8pm. (Free transportation may be provided
+from the Woodlands to LPI if needed.) It will resume at 9am on
+Saturday, March 23, and conclude at 3 pm. For more information or to
+apply, please go to this link:
+
+https://www.lpi.usra.edu/education/planet-sci-institute/.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MEPAG FACILITATION OF COMMUNITY COMMUNICATION ABOUT PROPOSALS FOR THE
+NEW PRE-DECADAL MISSION CONCEPT STUDIES NRA
+
+MEPAG has set up a Google doc to facilitate communication within the
+Mars community about mission concepts that may be submitted to the new
+NASA Research Announcement, ROSES-18 Amendment 64: New Opportunity in
+C.30 Planetary Mission Concept Studies.
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId=%7B5F9A00FC-0359-E588-D345-287621C7D607%7D&path=open
+
+The google doc can be found here:
+
+https://docs.google.com/spreadsheets/d/
+1Y2kgSExZWPZpqMkIns8wdaAlAxWlNvQzNwOkK23ewi0/edit?usp=sharing
+
+This google doc is intended to help people with complementary interests
+and expertise connect with each other. Also included is a list of
+potentially useful reports that describe Mars science objectives and
+past studies of mission concepts (and additions are welcome). This doc
+will be open for entries from Mar 1 to the NOI deadline (Mar 22), and
+will remain viewable through the proposal deadline (May 21). As noted
+in the google doc, please send any questions or comments about this
+google doc to mepagmeetingqs@jpl.nasa.gov.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+BUILDING THE NASA CITIZEN SCIENCE COMMUNITY
+
+June 20-22, 2019
+Hacienda del Sol, Tucson, AZ
+
+Scientists, educators, students, and people interested in learning
+about, and joining, citizen science projects are invited to attend this
+3-day workshop. There are two primary areas of focus: 1) to bring
+together citizen science practitioners from NASA and the broader global
+citizen science community to discuss best practices from successful
+citizen science projects, to brainstorm ideas for new citizen science
+projects, and to devise ways to grow NASA's citizen science community,
+and 2) to gather students, educators, and citizen scientists to explore
+current citizen science projects, learn about the type of work
+occurring in different projects, and explore ways to get involved.
+Representatives from NASA, iNaturalist, GLOBE, Zooniverse, CosmoQuest,
+and other citizen science programs will be present. 
+
+Registration is free but limited; registration is on a first-come,
+first-served basis. Breakfast and lunch are provided all three days. 
+
+Contact Paul Hardersen at phardersen@psi.edu or at 520-820-8662 with
+questions. Register for the workshop at: https://meeting.psi.edu.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+UPDATE TO USGS ASTROGEOLOGY SCIENCE CENTER (ASC) SOFTWARE PORTFOLIO
+
+Changes include:
+
+- The Redmine issue tracker is now deprecated. All existing
+software-related issues have been migrated to our GitHub organization,
+e.g.:
+
+http://github.com/USGS-Astrogeology/isis3
+
+- New ASC discussion forums are live:
+
+http://astrodiscuss.usgs.gov
+
+We are excited to engage with the community to cover a variety of
+software and mapping topics. Anyone can read the forums. To post, we
+are using GitHub logins. To sign up for an account, first visit
+
+http://github.com 
+
+- ASC Software development is using a Request for Comment (RFC) model
+to solicit community input on potential changes to our software. We
+have three open RFCs: 
+
+https://github.com/USGS-Astrogeology/isis3/wiki
+
+- ISIS3 binaries are available via Anaconda and the build system has
+been retooled to allow external building or contribution.
+
+- ASC web services or tools (e.g. POW, MAP2) will continue to be listed
+at:
+
+https://astrogeology.usgs.gov/tools
+
+- Lastly, we will have a booth at LPSC. Please drop by to discuss any
+of these changes. See Robin Fergason, Jay Laura, Jesse Mapel, and/or
+Kristin Berry.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ESA VOYAGE 2050: CALL FOR WHITE PAPERS AND MEMBERSHIP OF TOPICAL TEAMS
+
+The ESA Science Programme relies on long-term planning of its
+scientific priorities. The next planning cycle, Voyage 2050, is now
+underway. As was the case for the previous plans - Horizon 2000,
+Horizon 2000 Plus, and Cosmic Vision - the Voyage
+2050 plan relies on open community input and on broad peer review. The
+community input will be gathered through a Call for White Papers, while
+the peer review of this input will take place through a two-tiered
+committee structure, with a Senior Committee of 13 European scientists
+supported by a number of Topical Teams. 
+
+Scientists interested in participating in the peer review process are
+invited to respond to the Call for Membership of the Topical Teams,
+which invites applications from scientists working in ESA Member States
+
+Application Deadline: 6 May 2019, 12:00 (noon) CEST
+
+The Call for White Papers solicits ideas from the scientific community
+for the science themes that should be covered during the Voyage 2050
+planning cycle. Any scientist or science team can submit a White Paper. 
+
+White Paper Deadline: 5 August 2019, 12:00 (noon) CEST
+
+Details:
+
+https://cosmos.esa.int/voyage-2050 
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+JMARS SHOWCASE AT LPSC
+
+Thursday, March 21, 12:00 to 1:00 PM, Shenandoah meeting room
+
+The JMARS team will present a series of short presentations on how
+specific science analysis can be done on planets, moons, and small
+bodies. The goal of these presentations will be to showcase how to use
+JMARS to discover available data sets, filter them to refine relevance,
+and fuse them with one another in order to evaluate research hypotheses
+and produce publication quality results. JMARS (Java Mission-planning
+and Analysis for Remote Sensing) is a free, open-source, Java-based
+geospatial information system developed by the Mars Space Flight
+Facility at Arizona State University. It is currently used for search
+and analysis of scientific data collected for multiple bodies (Mars,
+Earth, Moon, Vesta, Ceres, and many more) across various planetary
+missions.
+
+https://www.hou.usra.edu/meetings/lpsc2019/events/?date=2019-03-21
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[LPSC] WOMEN IN PLANETARY SCIENCE NETWORKING EVENT 2019
+
+This year, in honor of the 50th anniversary of the Lunar and Planetary
+Science Conference, eminent women who worked at NASA and/or
+participated in LPSCs since the beginning (or near to it) will share
+their experiences. Join us for what's sure to be an exciting panel
+discussion.
+
+When: Wednesday, March 20, 2019; 5:30 to ~7:30 pm
+
+Where: Waterway 1-3 (in the Conference Venue - Woodlands Waterway
+Marriott, The Woodlands, TX) 
+
+Light snacks/appetizers will be served (sponsored by The Division
+for Planetary Sciences)
+
+This event is open to all!
+
+Please forward this invitation/sign-up to your colleagues and friends
+who might be interested! Registration is not required but we would like
+to get some idea of numbers. Anyone is welcome to come late or leave
+early if they need. 
+
+http://bit.ly/WIPS_2019
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TITAN WORKSHOP ANNOUNCEMENT
+
+This is a reminder of the "Titan after Cassini-Huygens" 3-day workshop
+to be held at the European Space Agency (European Space Astronomy
+Centre) in Madrid on 23-25 September 2019.
+
+The registration (free) and the abstract submission are now open. The
+registration tool and abstract submission page in addition to further
+information regarding the workshop can be found here:
+
+https://www.cosmos.esa.int/web/titan-after-cassini-huygens/home
+
+The workshop will include past and new science focusing on the fields
+and studies of magnetospheric & atmospheric science, geology,
+geophysics, astrobiology, Earth-based observations, future missions and
+more. 
+
+Important:
+
+We are now aware that the APL Cassini meeting has been canceled due to
+the Cassini funds being cut. For that reason the organizing committee
+has decided to welcome papers that were intended to be presented at the
+APL meeting for which (pending participation) we will dedicate an
+afternoon session focused on other aspects of the Saturnian system.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ASTEROID SCIENCE IN THE AGE OF HAYABUSA2 AND OSIRIS-REX WORKSHOP
+
+Nov 5-7, 2019
+Tucson, AZ
+
+We are happy to announce the Asteroid Science in the Age of Hayabusa2
+and OSIRIS-REx Workshop scheduled for November 5-7, 2019 at the
+University of Arizona in Tucson, AZ.
+
+The workshop provides an opportunity to summarize our understanding of
+near-Earth asteroids, following the Hayabusa2 and OSIRIS-REx encounters
+with Ryugu and Bennu. The organizers invite contributions spanning all
+relevant research on small bodies in the Solar System, including
+comets, asteroids, meteors, meteorites, and returned samples.
+Presentations discussing observations, laboratory work, theoretical
+investigations, and future mission concepts are welcome. We plan
+special sessions on International Collaboration in Solar System
+Exploration and Sample Analysis Techniques. Participants are invited to
+suggest additional special topics.
+
+Details and an Indication of Interest form are available here:
+
+https://corex.lpl.arizona.edu/international-workshop
+
+Please help spread the word!
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+3 POSTDOCTORAL POSITIONS IN MARS SCIENCE
+
+The Department of Planetology and Habitability at the Centro de
+Astrobiologia (CAB) invites applications for three postdoctoral
+positions to support investigations on the nature of the early Mars
+environments. We are seeking enthusiastic and excellent candidates to
+join a planetary science team funded by the European Research Council
+(ERC), working with Dr. Alberto Fairen in the Project "MarsFirstWater"
+(ERC Consolidator Grant) broadening the efforts of the Project
+"icyMARS" (ERC Starting Grant).
+
+Applicants should have a recent Ph.D. in the field of Planetary Science
+or related discipline, and a background in Mars research. Expertise in
+Geomorphology/Sedimentology, Geochemistry, and Microbiology,
+respectively for each of the positions, is required.
+
+The 3 positions, placed in Madrid, would be for two years, with
+possible extension to a third year contingent upon satisfactory
+performance. Applicants should send a letter of interest, a curriculum
+with a list of publications, a brief (maximum two pages) statement of
+research interests, and a list of three references, no later than March
+15 2019, to Alberto Fairen (agfairen@cab.inta-csic.es).
+
+The starting date is negotiable, but should be no later than Sep 1,
+2019.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+OPAG MEETING
+ 
+The next Outer Planets Assessment Group (OPAG) meeting will be held 
+April 23-24, 2019 at NASA Headquarters in Washington DC.
+ 
+https://www.lpi.usra.edu/opag/meetings/upcoming/
+ 
+Early Career participant support:
+ 
+NASA will provide travel grants for a limited number of interested
+Early Career participants to attend the OPAG meeting April 23-24, 2019
+in Washington DC. OPAG plays a key role in sculpting the planetary
+science community's input into NASA activities for outer planets
+science and exploration. Thus it is critical for Early Career
+scientists to attend these meetings both to learn how NASA and
+Planetary Science programs operate and to represent the community that
+will work on OPAG-relevant projects in the coming decade. Selection
+preference will be given to U.S. citizens or lawful permanent residents
+(green card holders), or those in residence at U.S. institutions.
+Selected individuals will present a poster at the meeting on a topic of
+their choosing. Interested graduate students, postdocs, and other Early
+Career scientists (within 5 years of PhD/MS/BS) should submit a short
+letter of interest and a CV to Morgan.L.Cable@jpl.nasa.gov by March 20,
+2019. Recipients will be notified by March 29. For more information,
+email Morgan Cable.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+2019 NASA PLANETARY SCIENCE SUMMER SEMINAR APPLICATIONS OPEN
+
+NASA is accepting applications from science and engineering post-docs,
+recent PhDs, doctoral students, junior faculty, and engineering
+students within 6-9 months of completion of their master's degree but
+not planning to pursue a PhD degree, and junior faculty for its 31st
+Annual Planetary Science Summer Seminar. PSSS is a 12-week long career
+development experience from May 20 - August 9, 2019, with an onsite
+culminating week August 5-9, 2019 at the Jet Propulsion Laboratory in
+Pasadena, Calif.
+
+During the 11 weeks of virtual webinar sessions and the onsite
+culminating week at JPL, student teams will carry out the equivalent of
+an early mission concept study, prepare a proposal authorization
+presentation, present it to a review board, and receive feedback. By
+the end of the experience, students will have a clearer understanding
+of the life cycle of a space mission; relationships between mission
+design, cost, and schedule; and the tradeoffs necessary to stay within
+cost and schedule while preserving the quality of science.
+
+Applications are due April 1, 2019. Partial financial support is
+available for a limited number of individuals. Further information:
+
+http://psss.jpl.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+WORKSHOP ON POLARIZATION IN PROTOPLANETARY DISKS AND JETS
+
+May 20-24, 2019
+Sant Cugat del Valles, Catalonia Spain
+
+https://sites.google.com/view/sant-cugat-forum-astrophysics/
+next-session
+
+The study of the formation and evolution of protoplanetary disks around
+young stars saw a tremendous boost by the advent of ALMA and the
+development of new capabilities in the infrared and radio telescopes,
+thanks to the huge combined improvement in sensitivity, angular
+resolution, and image fidelity. However, the role of magnetic fields in
+the formation and evolution of disks around young stars is still a
+poorly understood topic. Are protoplanetary disks and protostellar jets
+magnetized? Polarimetric observations are the primary means to obtain
+information regarding the magnetic fields. However, this technique can
+be hampered by other polarization mechanisms such as dust self
+scattering, radiation alignment of aspherical grains or anisotropic
+resonant scattering of linear polarization of molecular lines. The main
+goal of this focused meeting is to bring together observers and
+theoreticians interested in the study of magnetic fields in
+protoplanetary disks and protostellar jets as well as polarization
+mechanisms to review the current state of the research and explore
+effective means to probe magnetic fields.
+
+Abstract submission (oral contributions): March 15, 2019
+Early Registration/Payment: April 30, 2019
+Participants limited to about 70
+
+[Edited for length]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+FINAL ANNOUNCEMENT FOR EARLY REGISTRATION: NEW HORIZONS IN PLANETARY
+SYSTEMS
+
+Early Registration Deadline: Friday, 8 March
+ 
+Registration will increase from $450 USD to $700 USD for non-student
+participants. Students can continue to register for $225 USD until 12
+April (final registration/late poster abstract submission deadline).
+  
+13-17 May 2019
+Victoria, British Columbia, Canada
+ 
+Web:
+
+http://go.nrao.edu/NewHorizons
+
+Facebook: 
+
+https://www.facebook.com/vicplanetsys
+
+Twitter: #VicPlanetSys
+Email: Dr. Brenda Matthews, LOC Chair (newhorizons@nrao.edu)
+ 
+Registration and abstract submission are now open for the science
+conference New Horizons in Planetary Systems. The meeting is jointly
+organized by NRC Herzberg and NRAO - as part of their roles within the
+North American ALMA Science Center (NAASC) and will have a broad scope,
+including planetary systems in formation within protoplanetary disks,
+minor objects in the Solar System, debris disks and exoplanets.
+Although it is organized by the NAASC, the meeting is not ALMA-centric,
+with a strong focus on the impact of the New Horizons mission flyby of
+a Kuiper Belt Object in January 2019, as well as experts from the
+Transiting Exoplanet Survey Satellite and other facilities, who will be
+asked to provide a multi-chromatic picture of the current understanding
+in their fields.
+  
+[Edited for length]
+ 
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+TWO NEW POSITIONS OF ASSISTANT PROFESSOR AT UNIVERSIDAD DE ATACAMA
+
+Two new positions at assistant professor level are open at the
+Instituto de Astronomia y Ciencias Planetarias of the Universidad de
+Atacama.
+ 
+The full announcement can be found here: http://inct.uda.cl/ad2.html
+ 
+For further information please do not hesitate to contact me at
+giovanni.leone@uda.cl or feel free to meet me at the LPSC in Houston.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] GSFC CIVIL SERVANT JOB ANNOUNCEMENT
+
+The Science & Exploration Directorate, Solar System Exploration
+Division, Astrochemistry Laboratory (Code 691) at NASA's Goddard Space
+Flight Center (GSFC) is seeking a research scientist to study the
+origin, composition, structure and evolution of the bodies of the solar
+system, including planets and their satellites, the Earth and Moon,
+Venus, and also exoplanets. This is GS-13 level position located at
+NASA-Goddard in Greenbelt, Maryland near Washington, DC. The call for
+this position will run from Wednesday, March 13 through Thursday, March
+28, 2019.
+
+To apply, please submit your application through the USAJobs website;
+the direct link is provided below.
+
+http://www.usajobs.gov/GetJob/ViewDetails/526481000
+
+For additional information contact: Dr. Jason Dworkin, mailto:
+Jason.P.Dworkin@nasa.gov; or Dr. Natasha Johnson, mailto:
+Natasha.M.Johnson@nasa.gov
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+EUROPLANET TRAVEL GRANTS AVAILABLE FOR THE 8TH INTERPLANETARY CUBESAT
+WORKSHOP (ICUBESAT 2019)
+
+iCubeSat 2019 - 8th Interplanetary CubeSat Workshop
+28-29 May 2018
+Milan, Italy
+
+We are excited to announce that thanks to the generous support of
+Europlanet, at least twelve travel grants of up to EUR 250 each will
+be available to help early career researchers of any nationality
+attend iCubeSat 2019.
+
+To apply for a grant, please register for the workshop at:
+
+https://www.iCubeSat.org/registration/
+
+Indicate that you would like to be considered for one of the grants
+and an application form will be sent to you. Grants will be awarded
+competitively with priority given to applicants submitting abstracts
+to the meeting.
+
+For more details about the workshop and grant scheme please visit:
+
+https://www.iCubeSat.org 
+
+or contact the organising committee at committee@iCubeSat.org.
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+CALL FOR PAPERS: PLANETARY AND SPACE SCIENCE SPECIAL ISSUE ON COSMIC
+DUST
+
+You are cordially invited to submit a paper to a special issue of
+Planetary and Space Science (PSS) dedicated to cosmic dust and related
+topics. All kinds of cosmic dust can be a subject of publication,
+including dust in disks, interplanetary and cometary dust, meteors,
+regolith and aerosol particles.
+
+Although the special issue is dedicated to the results of Cosmic Dust
+XI meeting, you do not need to be a participant of the meeting to
+submit your paper.
+
+The deadline for submission is May 15, 2019.
+
+All manuscripts should be submitted through Elsevier's system EVISE
+
+https://www.evise.com/profile/api/navigate/PSS
+
+The authors must select "VSI:Cosmic Dust XI" on the "Enter Manuscript
+Information" step in the submission process.
+
+For additional information, please contact the guest editors at
+dust-inquiries@cps-jp.org
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+TERRESTRIAL ANALOG SURVEY REMINDER
+
+Please take a few minutes to fill out this short anonymous survey about
+Terrestrial Analog Studies!  The USGS Astrogeology Science Center is
+developing a terrestrial analog program, and we are working hard to
+ensure that the products and services we create meet the needs of the
+scientific community. Your responses will help identify areas of
+future development. The survey will close on March 29th. 
+
+https://www.surveymonkey.com/r/X5QD8X3
+
+Please forward the above link as needed to interested community
+members. If you have further questions or comments, please feel free to
+contact Lauren Edgar (ledgar@usgs.gov). Thank you in advance for your
+time.
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 4-6, 2019
+2nd International Conference On Astronomy, Astrophysics & Astrobiology
+https://astronomy.conferenceseries.com
+Auckland, New Zealand
+
+May 13-17, 2019
+Applied Space Environments Conference (ASEC) 
+https://sti.usra.edu/ASEC2019/
+Los Angeles, CA
+
+May 20-24, 2019
+Workshop on Polarization in Protoplanetary Disks and Jets
+https://sites.google.com/view/sant-cugat-forum-astrophysics/
+next-session
+Sant Cugat, Spain
+
+June 12-14, 2019
+2019 Annual Meeting of Planetary Geologic Mappers
+https://www.hou.usra.edu/meetings/pgm2019/
+Flagstaff, AZ
+
+June 17-21, 2019
+Meteoroids
+https://fmph.uniba.sk/en/microsites/daa/division-of-astronomy-and-
+astrophysics/meteoroids-2019/
+Bratislava, Slovakia
+
+July 7-12, 2019
+MetsSoc 2019
+https://www.metsoc19-sapporo.com
+Sapporo, Japan
+
+July 15-17, 2019
+Lunar ISRU 2019
+https://www.hou.usra.edu/meetings/lunarisru2019
+Columbia, MD
+
+September 23-25, 2019
+Titan after Cassini-Huygens
+https://www.cosmos.esa.int/web/titan-after-cassini-huygens/home
+Madrid, Spain
+
+October 28-30, 2019
+2nd RPI Space Imaging Workshop
+http://seal.rpi.edu/workshop/2019
+Saratoga Springs, NY
+
+November 5-7, 2019
+Asteroid Science in the Age of Hayabusa2 and OSIRIS-REx
+https://corex.lpl.arizona.edu/international-workshop
+Tucson, AZ
+
+November 5-8, 2019
+Mars Extant Life: What’s Next
+https://www.hou.usra.edu/meetings/lifeonmars2019/
+Carlsbad, NM
+
+December 9-13, 2019
+AGU Fall Meeting
+https://meetings.agu.org/fall-meeting-2019/
+San Francisco, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

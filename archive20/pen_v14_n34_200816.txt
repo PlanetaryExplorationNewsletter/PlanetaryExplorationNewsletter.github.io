@@ -1,0 +1,339 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 34 (August 16, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: OSIRIS-REx Bennu Release 5c
+2. [NASA] ROSES-20: Revised Text and Delay of Due Date for Planetary
+   Science Early Career Award Program
+3. Submissions Open for The Art of Planetary Science 2020: A Virtual
+   Odyssey
+4. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 22
+5. Invitation to Webinar Featuring Lennard Fisk: Voyagers 1 and 2 -
+   Where Are We Now?
+6. AAS Videos on Teaching On-Line 
+7. [NASA] Due Date Reminder & Final FAQs for SMD's Augmentations and
+   Funded Extensions - Expression of Interest
+8. [NASA] Planetary Data Ecosystem Volunteer Opportunity: Self
+   Nominations Welcome
+9. [NASA] PAC Meeting Next Week
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: OSIRIS-REX BENNU RELEASE 5C
+
+This release of OSIRIS-REx data includes raw Radio Science data through
+Nov. 17, 2019.
+
+These data are now available at:
+
+https://sbn.psi.edu/pds/resource/orex/rs.html
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+  
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-20: REVISED TEXT AND DELAY OF DUE DATE FOR PLANETARY
+SCIENCE EARLY CAREER AWARD PROGRAM
+
+Program Element C.19 of ROSES-2020, the Planetary Science Early Career
+Award (ECA) Program supports the professional development of
+outstanding early-career scientists in areas relevant to the Planetary
+Science Division.
+
+The text of this program element has been revised in many ways, so
+please read the text carefully. The due date for proposals has been
+delayed to December 8, 2020.
+
+This Amendment will be posted on the NASA research opportunity homepage
+at:
+
+https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bABEB3467-5FFB-D481-4DEE-1FB5B9B87B7E%7d&path=&method=init
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+Questions concerning the Planetary Science Early Career Award Program
+may be directed to Melissa Morris at melissa.a.morris@nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+SUBMISSIONS OPEN FOR THE ART OF PLANETARY SCIENCE 2020: A VIRTUAL
+ODYSSEY
+
+Currently in the 7th annual exhibition, The Art of Planetary Science
+brings together Data Art and Fine Art from space and planetary themed
+ideas. This year's show, due to the novel coronavirus (COVID-19), will
+be held in an entirely online format. We present to you, The Art of
+Planetary Science 2020: A Virtual Odyssey.
+
+Submissions are now open for The Art of Planetary Science 2020: A
+Virtual Odyssey. This year, we are partnered with International Observe
+the Moon Night and will be hosting a special sub-gallery of moon-themed
+art as a result.
+
+The submission form, as well as detailed information is located on our
+website. Submissions are open until August 31, 2020. 
+
+https://www.lpl.arizona.edu/art/2020
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 22
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 22, nominally with data to May 2020:
+
+  ACCEL (Accelerometer)
+  ANC (ancillary)
+  EUV (Extreme Ultraviolet Monitor)
+  IUVS (Imaging Ultraviolet Spectrometer)
+  KP (Insitu Key Parameters)
+  LPW (Langmuir Probe and Waves)
+  MAG (Magnetometer)
+  NGIMS (Neutral Gas and Ion Mass Spectrometer)
+  ROSE (Radio Occultation Science Experiment)
+  SEP (Solar Energetic Particle)
+  SPICE
+  STATIC (Supra-Thermal and Thermal Ion Composition)
+  SWIA (Solar Wind Ion Analyzer)
+
+New data available soon: SWEA
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200814.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INVITATION TO WEBINAR FEATURING LENNARD FISK: VOYAGERS 1 AND 2 - WHERE
+ARE WE NOW?
+
+Please join the Interstellar Probe Study Team for another installment
+of the Interstellar Probe Study Webinar series on Thursday August 20 at
+noon EDT via Zoom.
+ 
+Title:
+Voyagers 1 and 2: Where are we now?
+ 
+Panelists:
+Lennard Fisk: Thomas M. Donahue Distinguished University Professor of
+Space Science
+Michael Paul: Program Manager, Interstellar Probe Study, JHUAPL
+ 
+The current interpretations of the Voyager data on the heliosheath and
+the interface with the local interstellar medium are reviewed, and
+serious omissions in these interpretations are pointed out. Current
+conclusions on the global structure of the heliosheath, whether from
+models or observations, are found to be wanting, resulting in a need
+for better models and further observations, such as by Interstellar
+Probe.
+
+Following the presentations there will be a question and answer
+session.
+
+To watch this webinar please visit the following event page, which has
+the zoom link.
+
+http://interstellarprobe.jhuapl.edu/Resources/Meetings/agenda.php?id=86
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AAS VIDEOS ON TEACHING ON-LINE 
+
+The American Astronomical Society has put together a series of short
+YouTube videos on aspects of "Teaching On-Line," with Frank Timmes as
+the genial host. Chris Impey did the first 12 programs, on a wide range
+of practical topics illuminating the process of moving your class
+on-line. The most recent two videos were by Andrew Fraknoi: one on the
+non-profit OpenStax project to create free, on-line introductory
+textbooks, and the other on interdisciplinary approaches to astronomy
+teaching (using astronomy-inspired music, science fiction, plays, and
+products in your classes.) 
+
+The series is at:
+
+https://www.youtube.com/playlist?list=PLFhVT3VzlwKozPrbWlcSLnoO0VJHOvOSt 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] DUE DATE REMINDER & FINAL FAQS FOR SMD'S AUGMENTATIONS AND 
+FUNDED EXTENSIONS - EXPRESSION OF INTEREST
+
+Solicitation Number: NNH20ZDA010L
+Additional FAQ Release Date: August 13, 2020
+Response Date: August 21, 2020
+ 
+The Science Mission Directorate (SMD) has added 6 new Frequently Asked
+Questions and Answers (FAQS) for Expression of Interest (EOI) SMD
+call for Augmentations and Funded Extensions on the NASA Solicitation
+and Proposal Integrated Review and Evaluation System (NSPIRES). EOIs
+are due by 11:59 p.m. Eastern on August 21, 2020 via NSPIRES:
+
+https://bit.ly/31UTfW7
+ 
+SMD will not provide any feedback on EOI submissions. NASA SMD will
+keep EOI contents confidential and will use responses to improve
+management of the augmentation and extension processes. NSPIRES will
+post no additional EOI questions and answers. An EOI submission is not
+required nor will it limit the submission of a future proposal, for a
+grant, contract, cooperative agreement, or inter-agency transfer
+agreement, whether inside or outside NASA.
+
+A forthcoming amendment adding a new program element to ROSES-2020 is
+expected to be entitled "SMD Post-COVID Recovery". SMD expects all its
+science divisions, including the Biological and Physical Sciences, to
+participate in this cross-divisional program within ROSES.
+
+Email questions concerning general ROSES-2020 policies and procedures,
+including this Expression of Interest, to sara@nasa.gov.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PLANETARY DATA ECOSYSTEM VOLUNTEER OPPORTUNITY: SELF NOMINATIONS 
+WELCOME
+
+NASA defines the Planetary Data Ecosystem (PDE) "as the ad hoc
+connected framework of activities and products that are built upon and
+support the data collected by planetary space missions and research
+programs, primarily those funded by NASA." The PDE includes but is not
+limited to archives, tools, programs, projects, pipelines, and
+stakeholder groups.
+
+The PDE Independent Review Board (IRB) will conduct a review of the
+Planetary Science Division's (PSD) PDE with the goal of defining the
+full environment, identifying missing or overly redundant elements, and
+providing findings and prioritized, actionable recommendations for
+PSD's long-term planning in support of the PDE.
+
+The IRB will be comprised of members from academia, industry,
+Government, and the public. Member expertise will span the areas of
+project management, science, engineering, and the user base. The PDE
+IRB will be convened virtually over the course of three months in fall
+2020 (estimate). To submit a self-nomination:
+
+https://science.nasa.gov/researchers/volunteer-review-panels/planetary-data-ecosystem-pde-independent-review-board-irb
+
+Signing up does not commit you to serve and does not prevent you from
+submitting responses to any NASA Request for Information.
+
+Questions/comments: Rebecca McCauley Rench (becky.mccauley@nasa.gov)
+using subject line: "PDE Self Nomination"
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PAC MEETING NEXT WEEK
+
+As a reminder, there is a (virtual) meeting of the Planetary Science
+Advisory Committee (PAC) next week, August 17-18, 2020. The meeting
+will be via phone and WebEx.
+ 
+Dial in: 1-800-779-9966 or 1-517-645-6359, Passcode 5255996.
+The WebEx link is 
+
+https://nasaenterprise.webex.com/
+
+Meeting number is 901 917 366 
+Password (case sensitive) on both days: PAC@Aug17+18
+
+The Agenda has been posted at 
+
+https://science.nasa.gov/researchers/nac/science-advisory-committees/pac 
+
+(scroll down to where it days "PAC Meeting Documents")
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+138175 (2000 EE104) and the Source of Interplanetary Field Enhancements
+David Jewitt 2020 PSJ 1:33
+http://doi.org/10.3847/PSJ/aba68f
+
+Citlalmitl: A Laser-based Device for Meteoritical Sample Fabrication
+with Arbitrary Thermal Histories
+Patricia Hernandez-Resendiz et al. 2020 PSJ 1:34
+http://doi.org/10.3847/PSJ/aba3c5
+
+Tidal Currents Detected in Kraken Mare Straits from Cassini VIMS Sun
+Glitter Observations
+Michael F. Heslar et al. 2020 PSJ 1:35
+http://doi.org/10.3847/PSJ/aba191
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,543 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 24 (June 6, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Stuart Ross Taylor (1925-2021)
+2. This Week's Open Meetings of Decadal Survey Panels
+3. [NASA] PDS: MRO CRISM MTRDR and TER Release 17
+4. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 57
+5. [NASA] PDS: Aperiodic PDS Data Releases in 2021.05
+6. [NASA] PDS: OSIRIS-REx Bennu Release 9
+7. [NASA] PDS: JUNO Data Release 15
+8. [NASA] Minority Serving Institutions (MSIs) and Non-MSIs Fellowships
+9. [NASA] Lunar Surface Science Workshop
+10. Survey on CLT/SPHERE Data
+11. Post-Doc Announcement at INAF-IAPS, Italy
+12. A Resource Guide for Dealing with UFO Stories
+13. Planetary Geomorphology Image of the Month
+14. Rescheduled Titan Through Time Workshop
+15. 12th Virtual MEPAG Meeting (VM12) - 1st Information Circular
+16. DPS June Virtual Professional Development Workshop
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: STUART ROSS TAYLOR (1925-2021)
+
+Stuart Ross Taylor, one of the founding fathers of planetary science,
+passed away on May 23, 2021, in Canberra, Australia.
+
+Taylor was involved in the study of lunar samples from the first sample
+return in July 1969. He was a member of the Preliminary Examination
+Team at NASA's Johnson Space Center in Houston, Texas, and carried out
+the first analysis of the first lunar sample returned to Earth.
+
+Taylor lectured at the Universities of Oxford and Cape Town before
+moving to the Research School of Earth Sciences at the Australian
+National University, where he was an emeritus professor.
+
+Taylor's research included the composition and evolution of the Moon,
+the continental crust, tektites and impact glasses, island arc rocks,
+and many other topics involving trace element geochemistry. He
+published 240 papers in scientific journals and nine books.
+
+Taylor was awarded the Goldschmidt Medal of the Geochemical Society,
+the Leonard Medal of the Meteoritical Society, the Bucher Medal and the
+Bowen Award of the American Geophysical Union, the Gilbert Award of the
+Geological Society of America, and the Shoemaker Distinguished Lunar
+Scientist Award. Asteroid 5670 is named Rosstaylor.
+
+For the full memoriam:
+
+https://tinyurl.com/3ukj2pv6
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+There are no open meetings during the week of June 7-11.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: MRO CRISM MTRDR AND TER RELEASE 17
+
+PDS announces Release 17 of Mars Reconnaissance Orbiter CRISM Targeted 
+Empirical Data Record (TER) and Map-projected Targeted Reduced Data 
+Record (MTRDR) products, at:
+
+https://pds-geosciences.wustl.edu/missions/mro/crism.htm
+
+This release fills in data from August 9, 2008, through April 26, 
+2009. TER products are image cubes derived from CRISM hyperspectral 
+targeted observations, post-processed to standardize the illumination 
+and observation geometry and remove atmospheric gas absorptions and 
+instrument artifacts. MTRDRs are the same products map-projected using 
+terrain models of the Martian surface.
+
+To access all PDS Data Releases, please visit: 
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at: 
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page: 
+
+https://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 57
+
+The NASA Planetary Data System announces Release 57 of data from the 
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period August 9, 2020, through November 8, 2020. Some instrument teams 
+are delivering more recent data. The data are archived at various PDS 
+nodes.
+
+CRISM, SHARAD, Radio Science: Geosciences Node
+HiRISE, CTX, MARCI: Cartography and Imaging Sciences Node
+MCS: Atmospheres Node
+SPICE: NAIF Node
+
+No new Radio Science data will be produced.
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210601.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+MRO data releases occur every three months. The next release is 
+scheduled for September 1, 2021.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2021.05
+
+In May 2021, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2021.05.07 Mars Express: MRS Raw Radio Science Extended Mission 3
+2021.05.11 Radio Science Documentation Version 3.0
+2021.05.14 Mars Express: MRS Raw Radio Science Extended Mission 3,4
+2021.05.27 Mars Express: MRS Raw Radio Science Extended Mission 4
+2021.05.28 Polarimetry of Asteroid Itokawa
+2021.05.28 Gaskell Itokawa Shape Model V1.1
+2021.05.28 Gaskell Eros Shape Model V1.1
+2021.05.28 Roberts Eros Ponds Catalog V1.1
+2021.05.28 Asteroid (101955) Bennu Radar Shape Model V1.1
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210531.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: OSIRIS-REX BENNU RELEASE 9
+
+This release of OSIRIS-REx data includes the following data, through 
+November 17, 2020:
+
+TAGCAMS raw
+OTES raw and calibrated
+(OVIRS took no data in this time range)
+
+OCAMS Bennu 9 release has been delayed to July 15, 2021.
+
+These data are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210601b.shtml
+
+or more directly from:
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.tagcams
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.otes
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: JUNO DATA RELEASE 15
+
+The Planetary Data System announces the 15th release of data from 
+the JUNO mission. The release includes EDR and RDR level data acquired 
+between 2020-07-25 and 2020-11-08, which covers Juno Orbits 29 and 30.
+
+Data sets from the following experiments are now available:
+
+FGM (magnetometer)
+Gravity
+JADE (plasma)
+JEDI (energetic particle detector)
+JIRAM (infrared auroral mapper)
+JunoCam (camera)
+MWR (microwave radiometer)
+SPICE
+UVS (ultraviolet imaging spectrometer)
+Waves (radio and plasma wave science)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210604.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG), 
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be 
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] MINORITY SERVING INSTITUTIONS (MSIS) AND NON-MSIS FELLOWSHIPS
+
+NASA intends to award multiple research training grants in FY 2021 to 
+assist faculty and students in research and to provide authentic STEM 
+engagement related to NASA missions. Program Elements Two and Three 
+are open for both Minority Serving Institutions (MSIs) and Non-MSIs.
+ 
+Program Element Two: proposals due June 30, 2021
+Program Element Three: proposals due July 19, 2021
+
+To be eligible, candidates must be U.S. citizens or a national who 
+hold a bachelor's degree earned before August 31, 2021; be enrolled in 
+a master's or doctoral degree program no later than September 1, 2021; 
+and intend to pursue a research-based Masters or Ph.D. program in a 
+NASA-relevant field. Each fellow's institution receives up to a 
+$55,000 annual award ($50,000 for Master's student and $55,000 for 
+Doctoral student), pending available Congressional funding.
+
+Pre-registration for the second informational webinar on Tuesday, June 
+8, 2021 at 1:00 pm ET is mandatory. Visit solicitation website and 
+click on the link under Notices.
+  
+To submit a question to be addressed during the webinar please contact 
+NASA.Fellowships@nasaprs.com. You are expected to familiarize yourself 
+with the solicitation document prior to asking a question.
+ 
+For full program details, visit:
+
+https://bit.ly/3cjvhtG
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] LUNAR SURFACE SCIENCE WORKSHOP
+ 
+The NASA Biological and Physical Sciences Division is hosting a 
+workshop on fundamental and applied research on the Moon on August 
+18-19, 2021.
+
+This workshop will bring together the science community, commercial 
+companies, and NASA Divisions and Programs with the goals of 
+discussing investigations on reduced gravity and lunar environmental 
+effects in physical sciences research for sustained lunar human 
+habitation and in preparation for human exploration to Mars and to 
+inform and inspire the science community to contribute white papers 
+for the Biological and Physical Sciences Decadal Survey.
+
+Abstract submission deadline: June 18, 2021, 5:00 p.m. U.S. Central 
+Daylight Time (GMT -5)
+
+https://www.hou.usra.edu/meetings/lunarsurface2020/abstracts/
+
+Abstracts are solicited for presentations concerning reduced gravity 
+and environmental effects of the Moon on physical systems:
+
+-Lunar dust and its properties, behavior, and mitigation
+-Life support and thermal management
+-Materials flammability and habitat fire safety
+-Extraction of water-ice from regolith research, including separation, 
+purification, electrolysis, and liquefaction
+-Lunar environment and its effects on materials
+-Lunar research in extraction, processing, and handling
+-Lunar research for advanced manufacturing
+-Fundamental physics research on the lunar surface
+
+Registration fees are not being collected, but registration is 
+required.
+
+Registration Deadline: August 13, 2021
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SURVEY ON VLT/SPHERE DATA
+
+We have implemented a survey to get feedback from any researcher who 
+might be interested in VLT/SPHERE data and other high contrast imaging 
+survey data, so that we can improve our services and implement new 
+functionalities based on your real needs.
+
+This survey is aimed both at researchers who already know these 
+services and at researchers who do not know them yet.
+
+The main mission of the SPHERE Data Center is to process all SPHERE 
+public data and make available the reduced products. We also perform 
+data processing on request. The reduction and analysis is based on the 
+official ESO pipeline, as well as many dedicated improvements and 
+additional routines (reduction, frame sorting, analysis, 
+characterisation). In addition to reduced SPHERE data, through the 
+DIVA+ database, we also distribute reduced high contrast imaging data 
+from several published exoplanet surveys (acquired VLT/Naco, HST, 
+Keck, etc.).
+
+If you are interested by this kind of data, please fill the survey 
+before June 17 of June:
+
+https://spheredc.limesurvey.net/497529?lang=en
+
+It should take between 5-15 minutes and will be of considerable help 
+for us to improve our service to the astronomical community.
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POST-DOC ANNOUNCEMENT AT INAF-IAPS, ITALY
+
+One post doc position at INAF-IAPS Italy, entitled: "Modeling of 
+surfaces of solid bodies of the Solar System and comparison with data 
+from space probes and terrestrial analogues in the laboratory" based 
+on projects "EXOMARS / Ma_MISS, DAWN, ROSETTA/VIRTIS".
+
+More information at:
+
+https://bit.ly/2TBhzMg
+
+Mail: mariacristina.desanctis@inaf.it
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+A RESOURCE GUIDE FOR DEALING WITH UFO STORIES
+
+There has been a recent increase in stories regarding UFO's as 
+mysteries related to extra-terrestrials. Working with the UFO 
+subcommittee of the Committee for Skeptical Inquiry (and such 
+astronomers as David Morrison and Seth Shostak), Andrew Fraknoi has 
+assembled a one-page guide for colleagues who are getting questions on 
+this topic. This resource can familiarize scientists, educators, 
+students, and journalists with more of the backstory and what proper 
+analyses can show.
+
+The page is available free at:
+
+http://bit.ly/ufoskeptic
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Martian Spiders Recreated in the Laboratory", 
+contributed by Dr. Lauren McKeown (The Open University, UK).
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+RESCHEDULED TITAN THROUGH TIME WORKSHOP
+
+The previously postponed Titan Through Time 5 Workshop has been 
+rescheduled and will be held as an in-person meeting with a virtual 
+attendance option August 10-12, 2021 at the University of Colorado 
+Laboratory for Atmospheric and Space Physics (CU-LASP).
+
+Please see
+
+https://titanthroughtime.org/
+
+for more information.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+12TH VIRTUAL MEPAG MEETING (VM12) - 1ST INFORMATION CIRCULAR
+
+Members of the Mars community,
+
+I cordially invite you to participate in the next virtual meeting 
+(VM12) of the Mars Exploration Program Analysis Group (MEPAG), 
+scheduled on Monday, June 21, 2021, from 1:00 - 5:00 p.m. EDT, 
+10:00 a.m. - 2:00 p.m. PDT.
+
+Agenda items are expected to include updates about the following: 
+MEPAG, Mars Exploration Program, and Mars Sample Return Program
+Mars Ice Mapper
+MEP Strategic Planning
+Recent Mars Mission Activity
+
+The VM12 agenda and 2nd Information Circular will be shared in early 
+June on the MEPAG meeting website:
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+WebEx connectivity information will be included in the 2nd Information 
+Circular.
+
+This meeting is open to all members of the Mars science community 
+including our international colleagues, and I look forward to your 
+participation.
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+If you have a comment or question about the meeting, please email 
+mepagmeetingqs@jpl.nasa.gov.
+
+Additional meeting information, including the agenda, will be posted to:
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+DPS JUNE VIRTUAL PROFESSIONAL DEVELOPMENT WORKSHOP
+
+Postdoctoral Opportunities in National Labs, Research Institutes & 
+Universities: A Community Conversation - DPS June Virtual Professional 
+Development Workshop
+
+Date: Tuesday, June 22, 2021
+Time: 2 pm Eastern, 1 pm Central, 12 pm Mountain, 11 am Pacific, 
+8 am Hawaii, 8 pm CEST (Central European)
+Duration: ~1 hr
+Place: Virtual
+
+Join us for an interactive question and answer session all about 
+postdoc positions. All are welcome! The professional development 
+subcommittee of the DPS has assembled a panel of experts from various 
+institutions and fields and also student moderators for the event. We 
+will cover as many topics as are of interest to the audience, and plan 
+to have a slack channel for asynchronous questions and answers as well.
+
+Please note this event is, free, open to all, and you do not need to 
+be a DPS member or registered for the fall DPS meeting to attend. More 
+information and the signup page can be found here:
+
+http://bit.ly/DPS_Postdocs.
+
+We hope to see you there!
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 3-8, 2021
+53rd Meeting of the AAS Division for Planetary Sciences
+https://aas.org/meetings/dps53
+Online
+
+July 17-23, 2022
+International Conference on Aeolian Research
+https://www.geog.ox.ac.uk/events/icar2022/index.html
+Swakopmund, Namibia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

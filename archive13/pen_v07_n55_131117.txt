@@ -1,0 +1,331 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 55 (November 17, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Important Changes in the NASA Planetary Science Division's
+   (PSD) Radioisotope Program
+2. [NASA] Astrophysics Explorer AO Announcement
+3. Postdoc Advertisement
+4. Graduate and Postdoctoral Fellowships in Exploration
+5. International Space Station (ISS) Research and Development 
+   Conference
+6. Message Regarding ESA's ExoMars Landing Site Selection Working 
+   Group
+7. Position at the University of Pittsburgh
+8. Request for Instrument Posters, VEXAG Technology Forum
+9. New Abstract Deadline - Workshop on the Habitability of Icy Worlds
+10. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] IMPORTANT CHANGES IN THE NASA PLANETARY SCIENCE DIVISION’S (PSD) 
+RADIOISOTOPE PROGRAM
+
+James Green, Director, Planetary Science Division NASA
+
+For the last several years PSD has been investing in Advanced Stirling 
+Radioisotope Generator (ASRG) technology with the intent to fabricate 
+flight units for deep space missions. The advanced Stirling technology 
+was selected to take advantage of its increased efficiency over the 
+Multi-Mission Radioisotope Thermal Generator (MMRTG), since the supply 
+of Plutonium-238 (Pu-238) was limited at the time. Now, with the 
+restart of the Pu-238 production project this year, we expect to have 
+a sufficient supply of Pu-238 for radioisotope power well into the 
+future.
+ 
+With an adequate supply of Pu-238, and considering the current budget-
+constrained environment, NASA has decided to discontinue procurement 
+of ASRG flight hardware. We have given direction to the Department of 
+Energy, which manages the flight procurement, to end work on the 
+flight units. The hardware procured under this activity will be 
+transferred to the Glenn Research Center to continue development and 
+testing of the Stirling technology.
+ 
+For future planetary missions that require radioisotope power systems 
+the flight-proven MMRTG will be made available. It is important to 
+note that the MMRTG and the ASRG were designed to provide 
+approximately the same electrical power output.    
+ 
+I am happy to discuss this decision at all the upcoming Assessment 
+Group meetings and at the American Geophysical Union meeting next 
+month where I will address any questions that you may have. 
+
+[Length exemption]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ASTROPHYSICS EXPLORER AO ANNOUNCEMENT
+
+Community Announcement on Astrophysics Explorer AO – NNH14ZDA002J
+ 
+The NASA Science Mission Directorate (SMD) is releasing this Community 
+Announcement concerning its intention to solicit investigations for 
+the Astrophysics Explorer Program. The Astrophysics Explorer Program 
+conducts Principal Investigator (PI)-led space science investigations 
+to advance NASA's strategic goals in astrophysics, which are to 
+discover the origin, structure, evolution, and destiny of the Universe 
+and search for Earth-like planets. Additional information concerning 
+these areas of investigation is provided through appropriate links 
+found on the SMD homepage at: 
+
+http://science.nasa.gov/
+  
+Further information as it becomes available will be posted on the 
+Explorer Program Acquisition website at: 
+
+http://explorers.larc.nasa.gov/APSMEX 
+
+Questions or comments about this intention to release an Astrophysics 
+SMEX AO may be addressed in writing or by E-mail to the Astrophysics 
+Explorer Program Scientist (NOTE: subject line to read "Astrophysics 
+SMEX AO"): 
+
+Dr. Wilton T. Sanders
+SMD, NASA
+wilton.t.sanders@nasa.gov
+
+Responses to all inquiries will be answered by E-mail and also posted 
+weekly at the Frequently Asked Questions (FAQ) location of the Explorer 
+Program Acquisition website; anonymity of persons/institutions who 
+submit questions will be preserved.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOC ADVERTISEMENT
+
+The Caltech Postdoctoral Scholars Program at the Jet Propulsion 
+Laboratory (JPL) invites applications for a postdoctoral research 
+position in JPL's Planetary Science Section.
+
+The research will involve selection of landing sites for the 2016 
+InSight Discovery and 2020 Mars Rover Missions. Dr. Matt Golombek will 
+serve as JPL postdoctoral advisor to the selected candidate who will 
+carry out research in collaboration with the advisor, resulting in 
+publications. 
+
+Candidates should have a recent PhD in Planetary Geology or related 
+field with a strong background using and analyzing Mars remote sensing 
+data. Experience in ArcGIS is highly desirable as well as experience 
+working with and/or generating digital elevation models. Candidates 
+who received their PhD within the past five years prior to the date of 
+their application are eligible. The annual starting salary for recent
+PhD is US$52,000 and can vary somewhat according to the applicant's 
+qualifications. Postdoctoral Scholar positions are awarded for a 
+minimum of one-year period and may be renewed to a maximum of three 
+years.
+
+Please send a letter describing your research interests, a curriculum 
+vitae, a list of three references (with telephone numbers, postal and 
+email address) to: Matt Golombek, mgolombek@jpl.nasa.gov.  Further 
+information is available at:
+
+http://postdocs.jpl.nasa.gov/researchapplicants/jobpostings/index.cfm?
+FuseAction=ShowJobPosting&JobPostingID=474
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+GRADUATE AND POSTDOCTORAL FELLOWSHIPS IN EXPLORATION
+
+Invitations are now being accepted for Undergraduate Student, Graduate 
+Student (MSc and PhD) and Postdoctoral Fellowships in Exploration. 
+These positions are funded through a 6-year NSERC CREATE project 
+entitled "Technologies and Techniques for Earth and Space Exploration", 
+led by the Centre for Planetary Science and Exploration at The 
+University of Western Ontario, Canada. Collaborating institutions are 
+the University of British Columbia, Memorial University of 
+Newfoundland, Queen’s University, University of Toronto, and York 
+University. Positions may be tenable at any of these 6 universities.
+
+This program provides interdisciplinary training and opportunities
+in 4 key areas of research:
+
+1) Earth and Planetary Materials Research
+2) Mechatronic Tools
+3) Imaging and Analysis Instrumentation
+4) Exploration Surface Systems
+
+Fellows will benefit from participation in cutting-edge short courses,
+research, and internships with industry and government.
+
+A full description of this program and details in the application 
+process can be found at: 
+
+http://create.uwo.ca 
+
+Applications are due by January 17, 2012 via email to cpsx@uwo.ca.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INTERNATIONAL SPACE STATION (ISS) RESEARCH AND DEVELOPMENT CONFERENCE
+
+The 3rd Annual International Space Station (ISS) Research and 
+Development Conference will be held June 17-19, 2014, at the Hyatt 
+Regency McCormick Place in Chicago, Illinois.
+ 
+A Call for Papers is available from AAS at:
+
+http://www.astronautical.org
+
+Abstract categories are Discoveries in Microgravity Science; 
+Discoveries in Space Science, Earth Science, Engineering and Education; 
+Applications Benefiting Earth; Applications Enabling Exploration; 
+Applications in Technology; Commercial Applications; and Opportunities. 
+Topics should relate to science, exploration and technology activities 
+(past, present, planned or under development) on the International 
+Space Station. The deadline for submitting abstracts is February 14, 
+2014.
+ 
+The conference will focus on ISS discoveries, applications and 
+opportunities in physical sciences, life sciences, Earth and space 
+sciences, STEM education and spacecraft technology and exploration 
+development. Plenary sessions will highlight major results and pathways 
+to future opportunities. Parallel technical sessions will provide 
+tracks for scientists to be updated on significant accomplishments to 
+date within their disciplines. Organizations managing and funding 
+research on ISS will provide overviews of upcoming opportunities.
+ 
+Please join us for this conference offering perspectives on the full 
+breadth of research and technology development on ISS. Details and 
+registration information will be posted at:
+
+http://astronautical.org/node/251
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MESSAGE REGARDING ESA'S EXOMARS LANDING SITE SELECTION WORKING GROUP
+
+To Members of the Mars Exploration Community:
+ 
+On Nov. 4, an announcement was circulated to the MEPAG mailing list 
+regarding the call for letters of application for membership in ESA’s 
+ExoMars Landing Site Selection Working Group (LSSWG). NASA has received 
+a number of questions from members of the U.S. community regarding 
+whether they could expect support if they were to apply and be 
+selected. Dr. Michael Meyer, NASA’s Mars Lead Scientist, has indicated 
+that NASA intends to support the ExoMars landing site process, 
+including by means of travel support for a few selected U.S. members of 
+the steering committee.
+ 
+As a reminder, the deadline for these application letters is Monday, 
+25 November 2013 (12:00 CET).
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POSITION AT THE UNIVERSITY OF PITTSBURGH
+
+I would like to call everyone's attention to a new T/TS position in
+"Geoscience Sustainability" in the Department of Geology and Planetary
+Science at the University of Pittsburgh. More information can be found 
+at the Department's website:
+
+http://www.geology.pitt.edu/about/news/Sustainability_Position.html
+
+We are interested in a wide range of skills, but of particular interest
+would be researchers involved large-scale global geospatial analysis of 
+data focused on natural disasters (particularly volcano and volcano-
+climate studies), climate change and/or glacial processes, all of which 
+could also include planetary analog studies/research.
+
+Review of applicants will begin on January 1, 2014 and proceed until 
+theposition is filled.  A Ph.D. is required at the time of appointment, 
+and the position begins in the fall term of 2014, subject to budgetary 
+approval.
+
+Michael Ramsey (Professor & Associate Department Chair)
+University of Pittsburgh
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+REQUEST FOR INSTRUMENT POSTERS, VEXAG TECHNOLOGY FORUM
+
+November 19, 2013
+ 
+If you are planning on exhibiting an instrument poster in the evening 
+session, please send the title to Renee Atkins (ratkins@nasaprs.com).
+ 
+We are trying to estimate the number of posters and how to arrange 
+them.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NEW ABSTRACT DEADLINE - WORKSHOP ON THE HABITABILITY OF ICY WORLDS
+ 
+Abstract Deadline extended to 26 November 2013
+ 
+February 5–7, 2014, Pasadena, Calif.
+ 
+http://www.hou.usra.edu/meetings/icyworlds2014
+ 
+The primary objective of this workshop will be to focus on the 
+astrobiological potential of icy worlds in the outer solar system–
+including Europa, Ganymede, Enceladus, Titan and beyond–with 
+discussion on future research directions and spacecraft missions that 
+can best assess that potential. The agenda for the workshop will be 
+organized around thematic sessions that address the potential 
+habitability of the unique planetary environments of the outer solar 
+system. Presentations on research involving terrestrial analogs for icy 
+world environments are also encouraged. The workshop will be divided 
+into thematic sessions on: water and exotic solvents; chemical energy 
+for life; organics and their detection; ocean physics and chemistry; 
+icy world activity and habitability over time; continuing and future 
+outer solar system exploration.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 8-13, 2014
+Goldschmidt 2014
+http://goldschmidt.info/2014/index
+Sacramento, CA
+
+September 18-21, 2014
+International Meteor Conference 2014
+http://www.imo.net/
+Giron, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

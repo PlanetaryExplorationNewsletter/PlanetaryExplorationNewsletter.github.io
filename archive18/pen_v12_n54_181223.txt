@@ -1,0 +1,568 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 54 (December 23, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postdoctoral Researcher Position at JPL
+2. AbSciCon 2019 Session: Exploring the Planetary System of Alpha 
+   Centauri
+3. AbSciCon 2019 Session: Biosignatures, Sandstones, Mars2020
+4. AbSciCon 2019 Session: Alive or Not?
+5. AbSciCon 2019 Session: Have Comet, Will Travel!
+6. EGU 2019 Session: Planetary Space Weather
+7. EGU 2019 Session: Earth Analogs for Planetary Exploration
+8. EGU 2019 Session: Exploring the Primordial Solar System
+9. Graduate Assistantships in Planetary Science at the University of
+   Maryland
+10. Gemini 2019 Large and Long Programs Call for Proposals Released
+11. First Announcement IPPW 2019
+12. [NASA] PDS Lunar Reconnaissance Orbiter Data Release 36
+13. [NASA] Next OPAG Meeting
+14. [NASA] ROSES-18 Amendment 49: Planetary Early Career Program Draft 
+    Text
+15. Minor Planet Center User Group Feedback Form
+16. Request for Community Comments on VEXAG Venus Exploration 
+    Documents
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL RESEARCHER POSITION AT JPL
+
+We seek a postdoctoral researcher to conduct kinetics and
+spectroscopic studies on chemical processes relevant to atmospheric
+compositions of Mars and Titan. The research focus will be on
+gas-phase and gas-surface reactions involving organic molecules to
+enhance the scientific return of NASA missions to Mars, Titan and
+other planetary bodies.
+
+Applicants should have a Ph.D. in chemistry or related discipline with
+expertise in one or more of the following: physical organic chemistry,
+kinetics, optical and mass spectroscopy, and instrument development.
+Documented publication record in internationally circulated,
+peer-reviewed journals is essential. Initial appointment is full-time
+for one year with possible extensions based upon satisfactory progress
+and available funding. Position is available immediately; applications
+will be considered until position is filled.
+
+The California Institute of Technology is an Equal
+Opportunity/Affirmative Action Employer. All qualified applicants will
+receive consideration for employment without regard to race, color,
+religion, sex, sexual orientation, gender identity, national origin,
+disability, age, or protected veteran status.
+
+Please email a cover letter stating your research accomplishments and
+interests, a curriculum vitae, representative publications, and
+contact information for three references to:
+
+Dr. Xu Zhang (xu.zhang@jpl.nasa.gov) 
+Dr. Stanley Sander (ssander@jpl.nasa.gov) 
+Jet Propulsion Laboratory California Institute of Technology
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABSCICON 2019 SESSION: EXPLORING THE PLANETARY SYSTEM OF ALPHA CENTAURI
+
+We invite you to submit an abstract to the 2019 Astrobiology Science
+Conference, which will be held on 24-28 June 2019 in Bellevue,
+Washington, to the session entitled "Exploring the planetary system of
+Alpha Centauri: current knowledge, opportunities, and techniques". The
+Alpha Centauri system (AB and Proxima) presents a unique opportunity
+to detect and characterize a habitable planet in the next decade.
+
+This session aims to survey the current knowledge about the system as
+well as the opportunities, challenges, instruments, and instrument
+concepts to detect and characterize the planetary systems of Alpha
+Centauri, and determine the potential habitability of exoplanets
+there. This includes studies of binary planet formation, dynamical
+stability of planetary orbits in the system, limits from current
+non-detections, as well as expected planet occurrence rates.
+Techniques and instruments include indirect planet detection with
+astrometric and RV measurements; direct imaging in optical bands as
+well as thermal infrared, with current ground-based telescopes,
+upcoming ELTs, as well as space telescope missions.
+
+Conveners: R. Belikov (NASA Ames), E. Bendek (NASA Ames), F. Marchis
+(SETI Institute), O. Guyon (U. of Arizona)
+
+Submission deadline: 23 January 2019 23:59 EST
+
+https://connect.agu.org/abscicon/program/format-schedule
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ABSCICON 2019 SESSION: BIOSIGNATURES, SANDSTONES, MARS2020
+
+Dear all,
+
+The AbSciCon 2019 session "Biosignatures in sandstones: ancient to
+modern, Earth to Mars" is now receiving abstract submissions:
+
+https://agu.confex.com/agu/abscicon19/prelim.cgi/Session/65841
+
+Abstract on biosignatures production, preservation, alteration, or
+detection, in sandy environments that are modern, ancient or
+planetary, are welcome. Contributions related to biosignatures in
+sandstones as potentially detectable by the Mars2020 rover payload
+(e.g. Raman, XRF, LIBS, multispectral analyses and imagery), and to
+prepare Mars sample return, are particularly encouraged.
+
+Submission deadline: 23 January 2019 23:59 EST
+
+Please feel free to circulate to whom might be interest, and to
+contact us for any questions. 
+
+Best regards,
+
+The session conveners: Marion Nachon, Ryan Ewing, Michael Tice, David
+Flannery, Rohit Bhartia
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ABSCICON 2019 SESSION: ALIVE OR NOT?
+ 
+"Alive or not? New strategies and techniques for recognizing 
+biological signatures from the abiotic noise"
+
+https://agu.confex.com/agu/abscicon19/prelim.cgi/Session/67151
+
+Submission deadline: 23 January 2019 23:59 EST
+
+We would like to invite colleagues to submit abstracts to our session
+that concentrates on the search for life and the abiotic conditions
+that may favor its evolution (habitability). Despite significant
+scientific and technological progress in sampling and characterizing
+extreme environments remotely and in situ, a significant obstacle in
+our search for life beyond Earth is that we still lack a clear
+understanding of how to recognize its presence beyond the terrestrial
+evolution context, nor do we fully know how to disentangle its
+signatures from the myriad of abiotic geochemical processes at play.
+
+This session would address constraining the formation of biosignatures
+across space and time, and would explore new strategies, techniques,
+and instruments for recognizing them from abiotic environmental noise.
+Contributions on experiments where abiotic and biotic factors are
+considered, field studies in analogue environments and early Earth
+deposits, as well as flight technologies/instruments for detecting
+biosignatures from "life as we know it" as well as "life as we don't
+know it" are welcome to this session.
+ 
+See you in Seattle!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ABSCICON 2019 SESSION: HAVE COMET, WILL TRAVEL!
+
+We are pleased to announce that AbSciCon 2019 (June 24-28, 2019,
+Bellevue, WA) will feature a session focused on the role small bodies
+play in promoting habitability.
+
+https://agu.confex.com/agu/abscicon19/prelim.cgi/Session/66054
+
+Topic Area: Star-planet-planetary system interactions and habitability
+Session Title: Have Comet, Will Travel - How small bodies promote
+habitable conditions across the solar system? 
+Session ID: 66054
+Submission deadline: 23 January 2019 23:59 EST
+
+Small bodies in the solar system (and other planetary systems) may
+play a significant role in the promotion, proliferation, dissemination
+and the cessation of life and its related building blocks.
+
+This session will combine recent insights from experimental,
+observational and theoretical studies of ice and organic-rich
+environments of comets and carbonaceous asteroids. We invite
+contributions aimed at revealing how the physics and chemistry of
+small bodies help catalyze and distribute life's building blocks,
+across the planetary system, from early to late stages of planetary
+formation.
+
+For more details and abstract submission go to:
+
+https://agu.confex.com/agu/abscicon19/prelim.cgi/Session/66054
+
+Please feel free to forward this email to your colleagues who might be
+interested in this session.
+
+Sincerely,
+Gal Sarid & Chris Bennett
+University of Central Florida, FSI & Physics
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EGU 2019 SESSION: PLANETARY SPACE WEATHER
+
+PS4.1 "Planetary Space Weather: Fundamental plasma interactions in 
+space environments"
+
+Convener: Zhonghua Yao 
+Co-conveners: Philippe Garnier, Valeria Mangano 
+ 
+The emphasis of the session is on crucial processes of planetary space
+weather, that is, plasma physics and interactions of the
+interplanetary medium with the Solar System bodies, including:
+(a) magnetosphere-ionosphere coupling dynamics and auroras: from the 
+    Earth to other planets
+(b) the solar wind interaction with planets, moons, asteroids and 
+    comets
+(c) plasma interactions with exospheres, dust and surfaces
+(d) surface space weathering
+(e) potential impact of planetary environment on technological space 
+    systems
+(f) inter-comparisons of planetary environments
+
+Contributions are welcome that address previous, present, forthcoming
+and planned observations from space. Analyses of ground-based
+observations of neutral and ionized environments and laboratory
+studies simulating the interactions on planetary analogues are
+welcome. Theoretical modeling and simulations are also strongly
+encouraged, both in themselves and as a basis for inter-comparisons
+and interpretation of measurements. Major breakthroughs on terrestrial
+space weather have been made with measurements from THEMIS, Cluster,
+AMPERE, MMS and Van Allen Probes, so we welcome relevant terrestrial
+topics as comparative study has proven to be a powerful tool in
+understanding planetary space weather.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EGU 2019 SESSION: Earth Analogs for Planetary Exploration
+
+BG7.1 "Earth Analogs for Planetary Exploration: Field, Lab and
+Simulations"
+
+Dear colleagues,
+
+Please consider submitting an abstract to our EGU 2019 session. A lot
+of great field, laboratory and simulations studies will be featured!
+
+More information is available at: 
+
+https://meetingorganizer.copernicus.org/EGU2019/session/32087
+
+Abstract deadline: January 10th 2019, 13h CET.
+
+Terrestrial analog studies provide invaluable insights into geological
+and biological processes that may have occurred on other planets. The
+understanding and knowledge of terrestrial analog sites is key to the
+interpretation of data acquired remotely on other planets, but also to
+the preparation, testing and optimization of future missions.
+Conditions representative of other, rather inaccessible,
+extra-terrestrial environments can be investigated on Earth or through
+laboratory and numerical experiments. Authors are in particular
+encouraged to submit contributions on:
+- Field and remote sensing studies on Earth and other planets
+- Field testing of future exploration missions
+- Laboratory experiments in planetary conditions 
+- Numerical simulations in planetary conditions
+
+We look forward to your contributions and to seeing you in Vienna.
+Happy holidays!
+
+The conveners: Jessica Flahaut, Janice Bishop, Barbara Cavalazzi,
+Monica Pondrelli, Angelo Pio Rossi 
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EGU 2019 Session: Exploring the Primordial Solar System
+
+PS2.2 "Exploring the primordial Solar System: First Results from
+Hayabusa 2 and Osiris Rex"
+
+Dear Colleagues,
+
+We would like to invite you to attend our session at the next EGU
+General Assembly 2019, Vienna, Austria, 7 - 12 April 2019.
+
+To present your research at this session, please submit your abstract
+at:
+
+https://meetingorganizer.copernicus.org/EGU2019/session/31972
+
+Abstract deadline: 10 January 2019, 13:00 CET
+
+JAXA and NASA space missions Hayabusa 2 and Osiris-Rex have the
+ambitious objective to orbit around two primitive carbonaceous Near
+Earth Asteroids (162173 Ryugu and 101955 Bennu) to understand the
+origin and evolution of the Solar System. The two missions will
+collect samples of the two bodies and return back them to the Earth
+for further and more accurate analysis in laboratory. This session is
+open to all the scientists directly involved in the two missions to
+show the first results obtained so far, and to discuss possible links
+between the two objects. Nevertheless, we invite all other scientists
+to present their scientific discussions, modelling, laboratory
+simulations about these two primitive NEAs.
+
+Convener: 
+Ernesto Palomba (INAF/IAPS, Italy)
+
+Co-conveners:
+Fabrizio Dirri (INAF/IAPS, Italy)
+Stephan Ulamec (DLR, Germany)
+Makoto Yoshikawa (JAXA, Japan)
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GRADUATE ASSISTANTSHIPS IN PLANETARY SCIENCE AT THE UNIVERSITY OF
+MARYLAND
+
+The Department of Geology at the University of Maryland (College Park,
+MD) has multiple open positions for incoming graduate students
+(beginning Fall 2019) to develop cutting-edge instrumentation and
+conduct chemical analyses on planetary analog samples representative
+of the Moon, Mars, and/or ocean worlds. Research topics include:
+identification of spectral signals diagnostic of Mars minerals
+collected via ion trap mass spectrometry; development of an ultrahigh
+resolution mass analyzer for lunar and ocean world exploration
+(inorganic and organic materials); and, advancement of an in situ
+geochronology instrument suite targeting lunar and/or martian surface
+characterization.
+
+For more information about the available positions, please contact
+Prof. Ricardo Arevalo Jr. at rarevalo@umd.edu. Although applications
+are accepted on a continuously rolling basis, priority will be given
+to applications received by January 4th, 2019. Applications can be
+submitted through the UMD portal below:
+
+https://app.applyyourself.com/AYApplicantLogin/
+fl_ApplicantConnectLogin.asp?id=umdgrad 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GEMINI 2019 LARGE AND LONG PROGRAMS CALL FOR PROPOSALS RELEASED
+
+Gemini Observatory announces the opportunity for new Large and Long
+Programs, with observations beginning in the 2019B semester. Letters
+of Intent to propose a new Large and Long Program are due February 4,
+2019. Completed Proposals are due April 1, 2019. See the current Call
+for Proposals for further information:
+
+http://www.gemini.edu/sciops/observing-gemini/proposal-routes-and-
+observing-modes/large-and-long-programs/2019-llp-call
+
+Large and long programs (hereafter "large programs" or LLPs) are
+Principal Investigator defined and driven programs that, as a
+guideline, either require significantly more time than a partner
+typically approves for a single program or extend over two to six
+semesters, or both. Large programs are expected to promote
+collaborations across the partnership's communities, to have
+significant scientific impact, and normally to provide a homogeneous
+data set, potentially for more general use. Proposals for Large and
+Long programs are accepted annually.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+FIRST ANNOUNCEMENT IPPW 2019
+
+16th International Planetary Probe Workshop
+8-12 July 2019 
+Dept. of Physics, University Of Oxford
+ 
+The University of Oxford's Physics Department and Vorticity Ltd invite
+you to attend the 16th International Planetary Probe Workshop, to be
+held in Oxford on 8-12 July 2019. We are delighted to convene the
+world's foremost engineers, scientists, technologists, mission
+designers, and policy makers involved in interplanetary exploration to
+advance understanding of our Solar System.
+
+The accompanying Short Course on Ice Giants will take place
+immediately preceding the workshop on the weekend of 6-7 July.
+
+The website has information about key dates, travel & accommodation
+and local information.
+
+http://www.ippw2019.uk
+
+Abstraction submission deadline is 15 March 2019.
+
+Accommodation at selected Oxford hotels and University Halls of
+Residence, with negotiated rates for IPPW delegates, is now available
+to book. Oxford is a popular destination during July so do please make
+your reservation as soon as possible.
+ 
+Yours sincerely
+LOC Co-Chairs:
+Dr. Colin Wilson, University of Oxford, Department of Physics
+Dr. Steve Lingard, Founder and Technical Director, Vorticity
+
+If you have any questions about the event, please send them to
+ippw2019@maillist.ox.ac.uk
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] PDS LUNAR RECONNAISSANCE ORBITER DATA RELEASE 36
+
+The NASA Planetary Data System is pleased to announce a new delivery
+of Lunar Reconnaissance Orbiter (LRO) data for the following
+instruments:  CRaTER, DLRE, LAMP, LEND, LOLA, LROC, MiniRF and RS. In
+general, LRO Release 36 includes data collected between June 15, 2018
+and September 14, 2018. To access the above data, please visit the
+following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181215.shtml
+
+PDS offers two services for searching the LRO archives: The Planetary
+Image Atlas at the Imaging Node allows selection of LRO data by
+specific search criteria. 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows
+searching and downloading of LRO data and other lunar orbital data
+sets (Clementine and Lunar Prospector).   
+
+http://ode.rsl.wustl.edu/moon/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] NEXT OPAG MEETING
+
+The next OPAG meeting is scheduled for February 5-6, 2019, in
+Washington, DC. Additional details will be provided on the website as
+they become available.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] ROSES-18 AMENDMENT 49: PLANETARY EARLY CAREER PROGRAM DRAFT TEXT
+ 
+The NASA Planetary Science Early Career Award supports the research
+and professional development of outstanding early-career scientists,
+and serves to stimulate research careers in areas supported by the
+Planetary Sciences Division. The support of this program will allow
+key individuals to play an increasing role in the community - to
+achieve high-impact science and to help lead the field through
+development of new concepts, technologies, and methods.
+
+This program consists of a two-tiered nomination and selection
+process. The first tier is to check a box when a regular ROSES
+research proposal is submitted. Early-career Principal Investigators,
+whose proposals are selected via normal review processes, will be
+invited to enter the second tier of the application. Invitees will be
+asked to submit an application package to be considered for the NASA
+Planetary Science Early Career Award. The Planetary Science Division
+intends to select approximately five (5) Early Career Awards per year.
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId=%7bAA37E3E1-C25A-54CD-34E7-E24BCEE8E04C%7d&path=open
+
+Questions concerning this program element may be directed to Shoshana
+Weider at shoshana.z.weider@nasa.gov.
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MINOR PLANET CENTER USER GROUP FEEDBACK FORM
+
+The PDS Small Bodies Node has convened a Minor Planet Center User
+Group (MUG) to represent the interests of the Minor Planet Center user
+community. The MUG welcomes comments about the Minor Planet Center via
+this form: 
+
+https://goo.gl/forms/SgbbZds3GVep12xp2
+
+Sincerely,
+
+C.R. Nugent, Olin College
+(on behalf of the MUG)
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+REQUEST FOR COMMUNITY COMMENTS ON VEXAG VENUS EXPLORATION DOCUMENTS
+ 
+The VEXAG Venus Exploration Documents, which were last updated in
+2014, are being revised in anticipation of the next Planetary Science
+Decadal Survey. Drafts of each our updated draft Venus Exploration
+Documents will be made available for community assessment and comment
+via the VEXAG webpages at: 
+
+https://www.lpi.usra.edu/vexag/
+
+VEXAG strongly encourages of the planetary science community
+interested in Venus exploration to read the draft documents and
+provide feedback, comments, or suggestions for the revisions. Draft
+documents will all be available in December 2018 and January 2019.
+Also, VEXAG will host Virtual and Face-to-Face Townhalls in February
+and March of 2019 for community comments.
+
+The first document released for public review comments is the Draft
+Venus Technology Plan at:
+ 
+https://www.lpi.usra.edu/vexag/reports/Venus-Technology-Plan-DRAFT-V1.
+pdf 
+
+Please send comments, suggestions, and feedback to
+noam.izenberg@jhuapl.edu including [VENUS TECH PLAN] in the email
+subject line.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 16-20, 2019
+Physics of Stars and Planets: Atmospheres, Activity, Magnetic Fields
+http://www.shao.az/en/news/239
+Shamakhy, Azerbaijan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

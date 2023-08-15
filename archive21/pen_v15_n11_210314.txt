@@ -1,0 +1,469 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 11 (March 14, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Apply for Open ExMAG Positions
+2. New Space: Special Issue on Space Resources
+3. Lectureship in Planetary Science at the Open University, UK
+4. Software Developer for Auroral Research
+5. [NASA] PDS - Catalina Sky Survey Data Review
+6. 2021 NASA Planetary Science Summer School Applications Due April 1
+7. Ph.D. and Postdoc Position in Cosmic Dust / Heliosphere Science 
+8. [NASA] ROSES-21: What's New Slides/Recording Available
+9. SBAG Early Career Opportunities
+10. Date Change: Joint 2021 NESF & ELS Meeting  
+11. SSERVI Award Nominations
+12. Influence of a Global Magnetic Field on Ion and Atmospheric Loss
+    and Planetary Habitability
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+Happy PI Day from PsI!
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+APPLY FOR OPEN EXMAG POSITIONS
+ 
+The Extraterrestrial Materials Analysis Group (ExMAG, formerly CAPTEM)
+is seeking applications for open positions starting in April 2021.
+ExMAG is a community-based, interdisciplinary group providing a forum
+for discussion and analysis of matters concerning the collection,
+curation, and analysis of extraterrestrial samples, including planning
+future sample return missions. Applications for open positions are due
+March 31, 2021. 
+
+Details and application instructions can be found at:
+ 
+https://www.lpi.usra.edu/captem/meetings/captemspring2021/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NEW SPACE: SPECIAL ISSUE ON SPACE RESOURCES
+
+The deadline for the Special Issue on Space Resources in the journal
+New Space is approaching, and we would like to invite you to contribute
+to this comprehensive collection of articles. This issue will cover all
+aspects of the rapidly growing space resources field, including
+science, engineering, economics, policy, and law. These are set in the
+context of expanding humanity into space, as well as derivative
+technologies and advances that can be used to improve life on Earth.
+
+The Special Issue will focus on the following areas of interest, which
+include, but are not limited to:
+
+Lunar resource potential such as ice and oxygen
+Mars and asteroid resources
+Space-based solar power
+Off-Earth excavation and construction
+Systems engineering for space resources
+Commodities exchanges
+Sustainability and life cycle analysis
+Resource law
+Space Resource business plans
+
+Please note the following submission deadlines:
+Manuscript: May 31, 2021
+
+Please direct Editorial questions to our Editor-in-Chief, Ken Davidian
+and Guest Editor, Kevin Cannon (cannon@mines.edu).
+
+More Information: 
+
+https://home.liebertpub.com/cfp/special-issue-on-space-resources/307/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LECTURESHIP IN PLANETARY SCIENCE AT THE OPEN UNIVERSITY, UK
+
+I would like to draw your attention to a permanent academic position
+(Lecturer in Planetary Science) that is currently being advertised in
+the School of Physical Sciences at the Open University, UK.
+
+The post-holder will join enthusiastic teams in presenting and
+producing innovative learning resources across our curriculum in
+physics, astronomy and planetary science, and in interdisciplinary
+science.
+
+In addition, the post-holder will undertake research in analytical
+laboratory-based planetary science that aligns with the strategic
+research priorities of the School of Physical Sciences. They will be
+expected to obtain external funding to support a programme of
+internationally competitive research (commensurate with the level of
+appointment) and to contribute to future UK Research Excellence
+Framework (REF) assessments.
+
+The full summary of duties and person specification can be found within
+the Job Description that can be found here:
+
+http://www.open.ac.uk/about/employment/vacancies/lecturer-planetary-science-18106
+
+The closing date for application is Apr 19, 2021 noon (UK time).
+
+If you would like to discuss this role before applying, please email
+Mahesh.Anand@open.ac.uk
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SOFTWARE DEVELOPER FOR AURORAL RESEARCH
+
+The Swedish Institute of Space Physics is looking for a person
+interested in developing advanced tools for analysing data from a
+unique scientific auroral imaging system.
+
+Job description ALIS_4D is a state-of-the-art ground-based optical
+system for the measurement of the aurora, high-altitude clouds, and
+other optical atmospheric signatures at high latitude. ALIS_4D is
+composed of a grid of remote stations in regular unmanned operation.
+
+You will work in the ALIS_4D project upgrading existing software and
+developing advanced tools for scientific image analysis such as modern
+image processing and tomography algorithms.
+
+Qualifications A university degree in computer science, physics or
+other competence that the employer considers equivalent.
+
+The position, placed in Kiruna, is limited to 2 years with possibility
+of extension.
+ 
+Contact: Dr Tima Sergienko, +46-980-790 71, tima@irf.se
+ 
+Closing date: 30 April 2021
+ 
+Information:
+
+https://www.irf.se/en/news/2021/03/10/software-developer-for-auroral-research-dnr-2-2-1-73-21/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS: CATALINA SKY SURVEY DATA REVIEW
+
+The PDS Small Bodies Node invites communuty review of a sample of the
+Catalina Sky Survey (CSS) archive, as part of the PDS peer review of
+this data set. The PDS peer review process is intended to ensure the
+quality, correctness, and useability of the archived data. The sample
+represents one night of survey data from four telescopes, plus
+documentation. Once the CSS archive pipeline has been accredited by
+review, it will begin nightly deliveries into the PDS archive of the
+CSS survey data.
+
+Anyone with an interest in contributing inputs to the archiving of the
+CSS data is invited to participate in the review at the link below. 
+Review comments must be received by Mar. 28, 2021 to make it into the
+final archive.
+
+https://sbn.psi.edu/cssreview/communityreview.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+2021 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS DUE APRIL 1
+
+Offered by the Jet Propulsion Laboratory in Pasadena, CA, PSSS is a
+3-month long career development experience to learn the development of
+a hypothesis-driven robotic space mission in a concurrent engineering
+environment while getting an in-depth, first-hand look at mission
+design, life cycle, costs, schedule & the trade-offs inherent in each.
+
+Science & engineering doctoral candidates, recent Ph.D.s, postdocs,
+certain engineering MS students, & junior faculty who are U.S. Citizens
+or legal permanent residents (and a very limited number of Foreign
+Nationals from non-designated counties) are eligible. Applicants from
+diverse backgrounds are particularly encouraged to apply.
+
+Session 1: May 24-Aug 6
+Session 2: May 24-Aug 20
+
+With workload of a rigorous 3-hour graduate-level course, participants
+spend the first 10 weeks in preparatory webinars acting as a science
+mission team, & spend the final culminating week mentored by JPL's
+Advance Project Design Team to refine their planetary science mission
+concept design & present it to a mock expert review board. The
+culminating week is typically at JPL, however in 2021 it is likely to
+be virtual due to Covid-19 pandemic conditions.
+
+For more information and to apply, visit:
+
+http://go.nasa.gov/missiondesignschools
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PHD AND POSTDOC POSITION IN COSMIC DUST / HELIOSPHERE SCIENCE 
+
+Location: Zurich, Switzerland
+Application deadline: 31 March 2021
+
+Job description: 
+
+https://tinyurl.com/49vtn6by
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] ROSES-21: "WHAT'S NEW" SLIDES/RECORDING AVAILABLE
+
+Both the slides for and a recording of the What's New in ROSES-21
+presentation may be found under the "Links" in the SARA "library" at:
+
+https://science.nasa.gov/researchers/sara/library-and-useful-links
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SBAG EARLY CAREER OPPORTUNITIES
+
+The 25th Small Bodies Assessment Group (SBAG) meeting will be virtual
+on June 7-8, 2021. We have two opportunities specifically for the
+early career small body community:
+
+Invited early-career speakers: We plan to select up to two early-career
+researchers to give invited 15-minute talks (including Q&A). Interested
+undergraduate students, graduate students, postdocs, and other early
+career scientists (within 5 years of terminal degree) should submit an
+application to the SBAG Early-Career Secretary, Terik Daly
+(Terik.Daly@jhuapl.edu), via email by COB (5 pm Eastern time) on 9
+April 2021. 
+  
+Lightning Talks: We will provide time on the agenda for early-career
+scientists and engineers attending the meeting to introduce themselves
+and their research to the community. If you are interested in giving a
+lightning talk, please email the Early-Career Secretary, Terik Daly
+(terik.daly@jhuapl.edu) by COB (5 pm Eastern time) on May, 7 2021. 
+
+For application details see:
+
+https://www.lpi.usra.edu/sbag/meetings/ 
+
+We encourage applicants from a diverse range of backgrounds and
+experiences.
+ 
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+DATE CHANGE: JOINT 2021 NESF & ELS MEETING  
+
+Please note that due to the rescheduling of the DART mission launch, we
+have decided to move the virtual Joint 2021 NESF & ELS meeting to July
+20-23, 2021. 
+
+NESF & ELS Abstract Submission Open: Due Date is April 8, 2021
+
+We are now accepting abstracts for the 2021 Joint NASA Exploration
+Science Forum & European Lunar Symposium. Continuing with the same
+focus, this joint exploration science conference will focus on basic
+and applied scientific questions fundamental to understanding the Moon,
+Near Earth Asteroids, the moons of Mars, and the environments of these
+bodies. We have also added a couple new abstract topics including
+Equity, Diversity, Accessibility and Inclusion and Sustainable
+Exploration.
+
+Abstracts can be submitted at:
+
+https://lunarscience.arc.nasa.gov/nesfels2021/ 
+
+Abstract submission will be open through 11:59 p.m. PDT April 8, 2021.
+When you complete your abstract submission, please also register for
+the conference at the same time. 
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SSERVI AWARD NOMINATIONS
+
+SSERVI is soliciting nominations by April 8, 2021 for the following
+SSERVI Awards: 
+
+Shoemaker Award (lifetime career achievement award in lunar and
+planetary sciences)
+
+Wargo Award (scientist or engineer who has focused on integrating
+science and exploration throughout their career)
+
+Angioletta Coradini Mid-Career Award (researcher for significant,
+lasting accomplishments related to exploration science)
+
+Niebur Award (early career award for significant contributions to
+exploration science)
+
+Nominees from previous years will automatically be carried forward to
+the upcoming year. Further descriptions of each award and the
+nomination form may be found at:
+
+http://lunarscience.arc.nasa.gov/awards  
+
+Thank you in advance for your nominations and recognition of those who
+have contributed so substantially to our field!  
+
+Please contact Mahesh Anand (mahesh.anand@open.ac.uk), Greg Schmidt
+(gregory.k.schmidt@nasa.gov) and/or Kristina Gibbs
+(Kristina.gibbs@nasa.gov) if you have any questions regarding the Joint
+NESF and ELS and award nominations. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+INFLUENCE OF A GLOBAL MAGNETIC FIELD ON ION AND ATMOSPHERIC LOSS AND
+PLANETARY HABITABILITY
+
+This 3-day workshop will be held virtually on June 15-17. Sessions
+will be hosted from 9am to 1:30pm ET.
+
+Topics of discussion will focus on atmospheric escape (including ion
+outflow) from planets and moons, and the influence of planetary
+magnetic fields and stellar inputs on atmospheric retention. There will
+be interactions between scientists representing diverse scientific
+disciplines (Heliophysics, Astrophysics, Astrobiology, and Planetary
+Science) and approaches (e.g. observations, modeling, theory).
+Abstracts related to the following concepts are encouraged:
+
+   * Atmospheric escape from planets
+   * Ion outflow from planets
+   * Influence of magnetic fields on atmospheric escape
+   * Atmospheric / ionospheric chemistry related to atmospheric escape
+   * Influence of stellar outputs and their variability on atmospheric
+     escape
+   * Influence of atmospheric escape on planetary evolution
+   * Influence of Ionosphere-Thermosphere coupling on atmospheric 
+     escape
+   * Exoplanet atmospheric loss and star-planet interactions
+   * Future challenges and connections to other scientific fields
+
+   Note: the term atmospheric escape includes neutral and ion escape
+   processes and rates
+
+Abstracts will be accepted starting March 15th at:
+
+https://mach-center.org/workshop/
+
+Abstracts are due April 21.
+
+This workshop is hosted by the MACH Center, sponsored by NASA's
+Heliophysics DRIVE program.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 7-8, 2021
+ExMAG Spring 2021 Meeting
+https://www.lpi.usra.edu/captem/meetings/exmagspring2021/
+Online
+
+April 29, 2021
+Progress and Challenges: Updates from NASA HQ and Artemis
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+Online
+
+June 16-18, 2021
+Workshop on Terrestrial Analogs for Planetary Exploration
+https://www.hou.usra.edu/meetings/terrestrialanalogs2021/
+Online
+
+July 20-23, 2021
+NASA Exploration Science Forum & European Lunar Symposium
+https://lunarscience.arc.nasa.gov/nesfels2021/
+Online
+
+March 6-11, 2022
+Cloud Academy II
+https://leap2010.wp.st-andrews.ac.uk/the-project/cloud-academy-ii/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Near-infrared Reflectance of Rocks at High Temperature: Preliminary
+Results and Implications for Near-infrared Emissivity of Venus's 
+Surface
+Allan H. Treiman et al. 2021 PSJ 2:43
+http://doi.org/10.3847/PSJ/abd546
+
+Low Radio Frequency Observations from the Moon Enabled by NASA Landed
+Payload Missions
+Jack O. Burns et al. 2021 PSJ 2:44
+http://doi.org/10.3847/PSJ/abdfc3
+
+First Comet Observations with NIRSPEC-2 at Keck: Outgassing Sources of
+Parent Volatiles and Abundances Based on Alternative Taxonomic
+Compositional Baselines in 46P/Wirtanen
+Boncho P. Bonev et al. 2021 PSJ 2:45
+http://doi.org/10.3847/PSJ/abd03c
+
+Will the Mars Helicopter Induce Local Martian Atmospheric Breakdown?
+W. M. Farrell et al. 2021 PSJ 2:46
+http://doi.org/10.3847/PSJ/abe1c3
+
+Midsummer Atmospheric Changes in Saturn's Northern Hemisphere from the
+Hubble OPAL Program
+Amy A. Simon et al. 2021 PSJ 2:47
+http://doi.org/10.3847/PSJ/abe40f
+
+Contemporaneous Multiwavelength and Precovery Observations of the
+Active Centaur P/2019 LD2 (ATLAS)
+Theodore Kareta et al. 2021 PSJ 2:48
+http://doi.org/10.3847/PSJ/abe23d
+
+Lithologic Controls on Silicate Weathering Regimes of Temperate Planets
+Kaustubh Hakim et al. 2021 PSJ 2:49
+http://doi.org/10.3847/PSJ/abe1b8
+
+Formation Conditions of Titan's and Enceladus's Building Blocks in
+Saturn's Circumplanetary Disk
+Sarah E. Anderson et al. 2021 PSJ 2:50
+http://doi.org/10.3847/PSJ/abe0ba
+
+A Noachian Proglacial Paleolake on Mars: Fluvial Activity and Lake
+Formation within a Closed-source Drainage Basin Crater and Implications
+for Early Mars Climate
+Benjamin D. Boatwright and James W. Head 2021 PSJ 2:52
+http://doi.org/10.3847/PSJ/abe773
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,472 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 48 (November 21, 2021)
+PEN Website: https://planetarynews.org
+
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Update Letter from Decadal Co-Chairs
+2. 2022 Pierazzo International Student Travel Award
+3. 2022 Planetary Science Informatics and Data Analytics Conference
+4. [NASA] ROSES-21: Discovery Data Analysis Due Date Delayed
+5. Permanent Supervisory Branch Chief Hire in Planetary Studies 
+   Research, NASA Ames Research Center
+6. [NASA] ROSES-21: Martian Moons eXploration PSP Deferred to 2022
+7. MExAG Steering Committee Position Opening
+8. New Planetary Graduate Degree Program at UCLA
+9. Workshop on In Situ Exploration of the Giant Planets
+10. GSA NE Section Meeting: Latest Science Results and Updates in 
+    Planetary Science Research, Programs, and Flight Projects
+11. [NASA] Request for Information: Science Information Policy
+12. SBAG Early Career Invited Speaker Application Deadline Extended
+13. Planetary Meeting Calendar Additions 
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+ 
+UPDATE LETTER FROM DECADAL CO-CHAIRS
+
+Dear colleagues,
+
+We are pleased to report that this past week the full text of the
+Planetary Science and Astrobiology Decadal Survey report was assembled
+and it will be distributed to reviewers in the near future.  We are
+committed to ensuring on-time delivery of our report in March 2022 so
+that its recommendations can be incorporated into FY24 budgetary 
+planning.
+
+If you are asked to serve as a report reviewer, we ask that you please
+give your full consideration to this request.  While of course we would
+prefer that every reviewer comment on the entire report, reviews of
+portions of the document that address topics with which you are most
+familiar would be extremely valuable too.
+
+At this time of year especially, we want to express the tremendous
+gratitude we feel for the efforts and commitment of our colleagues that
+have contributed and will contribute to this important effort to 
+sustain and further the success of our field. We wish you and yours a 
+wonderful Thanksgiving holiday.
+
+Best regards,
+
+Robin Canup and Phil Christensen, co-chairs
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+2022 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD
+
+After monitoring the COVID pandemic and seeing upcoming conferences
+increasingly scheduled in-person, the Planetary Science Institute is
+pleased to announce the 2022 Pierazzo International Student Travel
+Award.
+
+Application deadline: 9 PM PST, November 26, 2021
+
+Awards will be announced on or before December 6, 2021.
+
+This award is established by the Planetary Science Institute in memory
+of Senior Scientist Betty Pierazzo to support and encourage graduate
+students to build international collaborations and relationships in
+planetary science. Two awards will be made each year, contingent upon
+there being meritorious applications. One will be awarded to a
+graduate student working on his or her Ph.D. at an institution within
+the U.S. to support travel to a planetary science related meeting
+(conferences and workshops) outside of the U.S. The second award will
+be to a graduate student working on his or her Ph.D. at an institution
+outside of the U.S. to support travel to a planetary science related
+meeting within the U.S. These include general meetings that have
+planetary-focused sessions such as the AGU, GSA, EGU and IAG.
+
+The award consists of a certificate and up to $2000.
+
+Additional information and application materials are available at:
+
+https://www.psi.edu/pista
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+2022 PLANETARY SCIENCE INFORMATICS AND DATA ANALYTICS CONFERENCE
+
+PSIDA 2022
+European Space Astronomy Centre, Madrid, Spain
+June 21-23, 2022
+
+Please note in your agenda the dates for the upcoming PSIDA 2022 Conference!
+
+Conference topics include, but are not limited to:
+
+- Data Architecture, Management and Technologies
+- Data Archiving
+- Data Interoperability
+- Data Exploitation and Collaboration Platforms
+- Visualisation and Analysis Applications
+- Artificial Intelligence and Machine Learning
+- Data Processing and Algorithm
+- Data Fusion/Data Integration
+- Big data, cloud computing, and scalable computing
+
+At this stage, we are hoping to hold a face-to-face meeting on site at
+the European Space Astronomy Centre (ESAC), in Villanueva de la Canada,
+Madrid, Spain. We will carefully monitor the situation and will adapt
+our plans towards a hybrid or fully virtual conference, should the
+situation require it.
+
+All information can be found on the web page at:
+
+https://www.cosmos.esa.int/web/psida-2022/home
+
+Feel free to contact the Local Organising Committee by email at 
+psida2022@sciops.esa.int if you have any questions.
+
+Abstracts submission will open soon, and you can check the important
+dates at:
+
+https://www.cosmos.esa.int/web/psida-2022/important-dates.
+
+Looking forward to seeing you at the conference!
+
+PSIDA 2022 Local Organising Committee
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-21: DISCOVERY DATA ANALYSIS DUE DATE DELAYED
+
+ROSES Program element C.11 Discovery Data Analysis Program (DDAP) 
+solicits research based on select missions of NASA's Discovery 
+Program, and ESA's Rosetta and BepiColombo missions. DDAP's objectives 
+are to enhance the scientific return of these missions by supporting 
+new analyses, approaches and interpretations of data and samples.
+
+ROSES-2021 Amendment 44 delays the proposal due date for DDAP. 
+Proposals are now due December 9, 2021.
+
+This year, neither NSPIRES cover page budgets nor detailed budgets are 
+requested at the time of proposal submission for DDAP; proposers must 
+merely identify the project duration and cost category: small 
+(<$75K/year), medium (<$175K/year), or large (<$300K per year). The 
+budget cost caps of submitted proposals need not match those chosen at 
+the time NOIs were submitted. However, for those with proposals deemed 
+selectable, who are invited to submit detailed budgets, those budgets 
+may not exceed the budget cost cap category that was chosen when the 
+proposal was submitted.
+
+DDAP proposals will be evaluated using Dual-Anonymous Peer Review and 
+must be prepared following the guidelines provided.
+
+Questions concerning C.11 DDAP may be directed to Doris Daou at 
+Doris.Daou@nasa.gov.
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PERMANENT SUPERVISORY BRANCH CHIEF HIRE IN PLANETARY STUDIES RESEARCH, 
+NASA AMES RESEARCH CENTER
+
+NASA Ames Research Center is seeking a permanent supervisory Branch 
+Chief hire in Planetary Studies Research. Any interested applicants can 
+apply on USA Jobs following the job posting in late November: 
+
+https://www.usajobs.gov
+
+The position is engaged in professional scientific and engineering 
+work involving systematic, critical investigations directed toward 
+discovering, disseminating, and applying new or expanded knowledge in 
+a professional discipline. The position provides technical, 
+administrative, and managerial supervision to a highly technical, 
+scientific workforce engaged in both basic and applied research, 
+technology and instrument concept development leading to flight 
+mission concepts.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] ROSES-21: MARTIAN MOONS EXPLORATION PSP DEFERRED TO 2022
+
+The Japan Aerospace Exploration Agency (JAXA) is developing the 
+Martian Moons eXploration (MMX) mission for launch in 2024. MMX will 
+orbit Mars, visit the Martian moons Phobos and Deimos, make close-up 
+remote-sensing and in situ observations, and return a sample from 
+Phobos. The Martian Moons eXploration Participating Scientist Program 
+(MMX PSP) will support NASA-funded scientists on the MMX mission team 
+in a variety of capacities, including but not necessarily limited to 
+remote-sensing science and sample science.
+
+C.24 MMX PSP, which had previously been listed as TBD, will not be 
+solicited in ROSES this year. Instead, the Planetary Science Division 
+intends to solicit it as part of ROSES-2022.
+
+On or about November 17, 2021, this Amendment to the NASA Research 
+Announcement "Research Opportunities in Space and Earth Sciences 
+(ROSES) 2021" (NNH21ZDA001N) will be posted on the NASA research 
+opportunity homepage at:
+
+https://solicitation.nasaprs.com/ROSES2021
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2021/
+
+Questions regarding the C.24 MMX PSP may be directed to Thomas S. 
+Statler at thomas.s.statler@nasa.gov.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEXAG STEERING COMMITTEE POSITION OPENING
+
+The Mercury Exploration Assessment Group (MExAG) is seeking 
+applications for an open position on the Steering Committee with a 
+nominal term of three years. MExAG is a community-based, 
+interdisciplinary body that was established by NASA to provide science 
+input and analysis needed to plan and prioritize Mercury research and 
+exploration activities. The Steering Committee serves the MExAG 
+community through the organization of community meetings, documents 
+outlining scientific and exploration goals of the community, and 
+community findings to be presented to NASA.
+
+The Steering Committee is seeking an individual with expertise in the 
+broad area of geochemistry, as it relates to Mercury, to serve as a 
+Geochemistry Discipline Member. Interested community members are 
+encouraged to apply via this form, which includes uploading a 1-page 
+CV and providing a brief (500-word max) statement describing why you 
+are interested in serving the Mercury community on the Steering 
+Committee and the qualities and qualifications that you would bring to 
+the committee by December 15, 2021:
+
+https://tinyurl.com/MExAGSteering
+
+See more at:
+
+https://www.lpi.usra.edu/mexag/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NEW PLANETARY GRADUATE DEGREE PROGRAM AT UCLA
+
+The UCLA Department of Earth, Planetary, and Space Sciences is happy 
+to announce the initiation of a new graduate degree program in 
+Planetary Science to add to its three existing graduate degree 
+programs in Geology, Geochemistry, and Geophysics and Space Physics. 
+UCLA has had a world-class research program in the field of Planetary 
+Science for many years, and the department currently has eighteen 
+faculty members who are actively engaged in planetary research on a 
+full-time or part-time basis. The new degree program will focus on 
+training the next generation of planetary scientists by providing a 
+curriculum of graduate-level courses as well as opportunities to 
+conduct research at the forefront of knowledge in the field. 
+Applications are now being accepted for new M.S. and Ph.D. students 
+for the 2022-2023 academic year. Financial support is available 
+through merit-based and competitive fellowship awards, research 
+assistantships, and teaching assistantships that provide stipends in 
+varying amounts and may include tuition, fees and nonresident 
+supplemental tuition.
+
+For more details, see:
+
+https://epss.ucla.edu/graduate/programs/planetary-science
+
+The application deadline for UCLA graduate admissions is January 1, 
+2022. See here for more information:
+
+https://grad.ucla.edu/admissions/steps-to-apply/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+WORKSHOP ON IN SITU EXPLORATION OF THE GIANT PLANETS
+
+The Conveners are pleased to announce a three-day workshop dedicated 
+to In Situ Exploration of the Giant Planets to be held at JHU/APL on 
+July 12-14, 2022.
+
+The in-person workshop focus includes the science, instrumentation and 
+technologies, and mission concepts important for future in situ 
+explorations of giant planet atmospheres, and entry probes as an 
+element of future international giant planet missions.
+
+Information regarding workshop registration, costs, abstract 
+submission will be provided in the First Announcement in January.
+
+Workshop sponsors: Johns Hopkins University Applied Physics Laboratory 
+(JHU/APL), the Laboratory for Astrophysics in Marseille (LAM), and the 
+Lunar and Planetary Institute (LPI).
+
+Conveners: Dr. David H. Atkinson (dhatkinson@gmail.com), Dr. Kathleen 
+Mandt (Kathleen.Mandt@jhuapl.edu), and Dr. Olivier Mousis 
+(olivier.mousis@lam.fr)
+
+For more information and to submit an indication of interest, please 
+visit:
+
+https://www.hou.usra.edu/meetings/giantplanets2022/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GSA NE SECTION MEETING: LATEST SCIENCE RESULTS AND UPDATES IN 
+PLANETARY SCIENCE RESEARCH, PROGRAMS, AND FLIGHT PROJECTS
+
+We invite you, your colleagues and students to join us for the 
+upcoming Planetary Science symposium that we are chairing at the 
+Northeast Section Meeting of the Geological Society of America (GSA) 
+next spring. The meeting will be held on March 20-22, 2022 in 
+beautiful Lancaster, Pennsylvania. Our plan is to showcase the wide 
+range of excellent planetary science that is carried out in the 
+northeastern U.S. and nearby Canada. We plan to include a mix of field 
+and laboratory research results, spacecraft mission data analysis, and 
+updates on missions still being developed.
+
+The deadline for abstract submission is December 14, 2021 at 
+11:59 PM Pacific time (Yes, that's Pacific time). We encourage you to 
+submit your abstracts as soon as possible to avoid any last minute 
+delays or technical problems.Please let us know if we can answer 
+questions you haveor help in any way.
+
+Information about the 2022 NE GSA meeting can be found at:
+
+https://tinyurl.com/GSA2022NE
+
+To submit abstracts to technical sessions:
+
+https://tinyurl.com/GSA2022NESubmit
+
+We look forward to welcoming you to Lancaster!
+Mike Kelley and Mitch Schulte
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] REQUEST FOR INFORMATION: SCIENCE INFORMATION POLICY
+
+The information produced as part of NASA's scientific research 
+activities represents a significant public investment. It is the 
+Science Mission Directorate's policy, consistent with NASA and Federal 
+policy, that information produced from SMD-funded scientific research 
+activities be made publicly available.
+
+The NASA Science Mission Directorate (SMD) is requesting information 
+on the impact of the proposed changes to SMD Policy Document SPD-41: 
+The Scientific Information Policy and about what support, services, 
+training, funding, or further guidance is needed to support the 
+successful implementation of the existing or proposed information policy.
+
+The full text of the RFI can be found at short URL:
+
+https://go.nasa.gov/RFISPD41
+
+RFI responses must be submitted via NSPIRES and are due on February 
+11, 2022. Please email questions and comments concerning this RFI to 
+HQ-SMD-SPD41@mail.nasa.gov, no later than February 2, 2022 at 11:59 
+Eastern time, with the subject line: "NASA SPD-41 RFI 
+Question/Clarification." Depending on the nature of received 
+questions, NASA may respond on an individual basis by email or may 
+post responses to inquiries in a "Questions and Answers" document.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+SBAG EARLY CAREER INVITED SPEAKER APPLICATION DEADLINE EXTENDED
+
+The upcoming NASA Small Bodies Assessment Group meeting will be held 
+virtually on January 24-25, 2022. There will be multiple opportunities 
+at this meeting specifically for the early career small body community 
+including invited early-career speakers and lightning talks. 
+Applications for invited talks are due via email by COB (5 PM Eastern 
+Time) by November 29, 2021 (deadlined extended from November 19). 
+Please refer to the meeting webpage for further details:
+
+https://www.lpi.usra.edu/sbag/meetings/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS 
+
+Posted at https://planetarynews.org/meetings.html
+
+March 20-22, 2022
+Geological Society of America 2022 Northeastern Section Meeting
+https://tinyurl.com/GSA2022NE
+Lancaster, PA
+
+May 22-27, 2022
+Japan Geoscience Union Meeting 2022
+https://tinyurl.com/jpgumeeting
+Chiba, Japan
+
+June 21-23 2022
+PSIDA 2022
+https://www.cosmos.esa.int/web/psida-2022/home
+Madrid, Spain
+
+July 12-14, 2022
+Workshop on In Situ Exploration of the Giant Planets II
+https://www.hou.usra.edu/meetings/giantplanets2022/
+Laurel, MD
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Atomic Iron and Nickel in the Coma of C/1996 B2 (Hyakutake): 
+Production Rates, Emission Mechanisms, and Possible Parents
+S. J. Bromley et al. 2021 PSJ 2:228
+https://doi.org/10.3847/PSJ/ac2dff
+
+Analysis of Cohesion in Fast-spinning Small Bodies
+Xiangyu Li and Daniel J. Scheeres 2021 PSJ 2:229
+https://doi.org/10.3847/PSJ/ac2df5
+
+Evolution of Mercury's Earliest Atmosphere
+Noah Jaggi et al. 2021 PSJ 2:230
+https://doi.org/10.3847/PSJ/ac2dfb
+
+Barrel Instability in Binary Asteroids
+Matija Cuk et al. 2021 PSJ 2:231
+https://doi.org/10.3847/PSJ/ac3093
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

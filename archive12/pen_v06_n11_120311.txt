@@ -1,0 +1,493 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 11 (March 11, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NRC's Committee on Astrobiology and Planetary Science
+2. [NASA] Change to CDAPS Proposal Submission Process
+3. NASA Postdoctoral Fellowships
+4. [NASA] PDS Releases Stardust-NExT Mission Data
+5. Mars Exploration Science Monthly Newsletter Available
+6. [NASA] Planetary Science Summer School Applications 
+7. Women in Planetary Science Symposium at Lunar and Planetary 
+   Science Conference 2012
+8. [NASA] PDS MESSENGER Release 7
+9. Venus Lunch-Time Town-Hall Meeting at LPSC
+10. Job Opportunity: Postdoctoral Research Associate at Rensselaer
+    Polytechnic Institute
+11. [NASA] Due Dates Changed for the Planetary Protection Research 
+    Program
+12. [NASA] Interested in Serving on a Review Panel?
+13. First Announcement - LunGradCon 2012
+14. Call for Proposals for the NASA Infrared Telescope Facility (IRTF)
+15. Ultraviolet Astronomy: HST and Beyond
+16. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NRC'S COMMITTEE ON ASTROBIOLOGY AND PLANETARY SCIENCE
+
+The National Research Council's Space Studies Board has merged the 
+Committee on Planetary and Lunar Exploration (COMPLEX) and the 
+Committee on the Origins and Evolution of Life (COEL) to create the 
+new Committee on Astrobiology and Planetary Sciences (CAPS). The prime 
+functions of CAPS will be to monitor the implementation of the 
+recommendations contained in the Vision and Voyages planetary science 
+decadal survey and in the reports drafted under the aegis of COEL and 
+COMPLEX, and  to act as the organizing committee for future studies in 
+the areas of astrobiology and planetary science (e.g., the mid-term 
+assessment of  the decadal survey). Philip Christensen (Arizona State 
+University) and J. Gregory Ferry (Pennsylvania State University) have 
+agreed to serve as the co-chairs of CAPS. Seventeen additional 
+individuals have been identified and have agreed to serve on the 
+committee,  pending approval by the NRC's Executive Office. CAPS will 
+hold its first face-to-face meeting on 23-25 May in the National 
+Academies' Keck Center, 500 Fifth St. NW, Washington, D.C., 20001.  
+Additional details about CAPS will be posted on its website at:  
+
+http://sites.nationalacademies.org/SSB/SSB_067577
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] CHANGE TO CDAPS PROPOSAL SUBMISSION PROCESS
+
+We wanted to draw your attention to a change in the way that proposals 
+to NASA's Cassini Data Analysis and Participating Scientist program 
+(CDAPS) will be submitted this year. We will be testing out a new 
+two-step proposal submission process for this program. This means that 
+a Step-1 proposal (a glorified notice of intent) is required to later 
+submit a normal (i.e., full, 15-page) proposal, which is now called 
+the Step-2 proposal. The Step-1 proposals are due March 23, 2012. The 
+full Step-2 proposals are due May 4, 2012.
+
+For more details please see the 2012 CDAPS Call for Proposals at:  
+
+http://tinyurl.com/7hycfrd  
+
+If the main NSPIRES page comes up, please login to NSPIRES, then click 
+the link again. A FAQ is posted on that page which includes more 
+information about this change. If you have questions, please contact
+hq-cdap@mail.nasa.gov
+
+Henry Throop and Max Bernstein
+Program Officers, CDAPS
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS RELEASES STARDUST-NEXT MISSION DATA
+
+The NASA Planetary Data System is pleased to announce release of the
+Stardust-NExT mission data acquired during the comet 9P/Tempel 1 flyby 
+in February 2011. The delivery includes raw and calibrated images from 
+the Navigation Camera (NavCam). Certified (although in lien resolution) 
+data from Dust Flux Monitor Instrument (DFMI) are also available.
+
+The data can be accessed through the PDS Small Bodies Node. To see and
+download the data as well as mission and instrument information, go to:
+
+http://pdssbn.astro.umd.edu/data_sb/missions/stardustnext/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER AVAILABLE
+
+On behalf of Dave Des Marais, the MEPAG Chair, Dave Beaty, Rich Zurek, 
+and Charles Budney of the Mars Program Science Office, the March 2012 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at:
+
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Joyce Pulliam
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS
+
+NASA is accepting applications from science and engineering post-docs,
+recent PhDs, and doctoral students for its 24th  Annual Planetary 
+Science Summer School, which will hold two separate sessions this 
+summer (18-22 June and 16-20 July) at the Jet Propulsion Laboratory in 
+Pasadena, Calif. During the program and pre-session webinars, student 
+teams will carry out the equivalent of an early mission concept study, 
+prepare a proposal authorization review presentation, present it to a 
+review board, and receive feedback. By the end of the session, students 
+will have a clearer understanding of the life cycle of a space mission; 
+relationships between mission design, cost, and schedule; and the 
+tradeoffs necessary to stay within cost and schedule while preserving 
+the quality of science. Applications are due March 28, 2012. Partial 
+financial support is available for a limited number of individuals. 
+Further information is available at:  
+
+http://pscischool.jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+WOMEN IN PLANETARY SCIENCE SYMPOSIUM AT LUNAR AND PLANETARY SCIENCE 
+CONFERENCE 2012
+
+The 4th Annual Women in Planetary Science Symposium, sponsored by 
+LPSC and NASA Headquarters, will be a buffet dinner on Wednesday 
+evening, 6:30 - 8:30 PM, in the Montgomery Ballroom at the Woodlands 
+Waterway Marriott Hotel.  This year, we will feature a panel on Women 
+on Planetary Missions with Victoria Hamilton, Sarah Milkovich, 
+Louise Prockter, and Jessica Sunshine.  Please register at:
+
+http://icpi.nasaprs.com/womeninscience
+
+Everyone is welcome to attend. The deadline for registration is 
+Wednesday, March 15.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS MESSENGER RELEASE 7
+
+The Planetary Data System is pleased to announce Release 7 of data
+collected by the MErcury Surface, Space ENvironment, GEochemistry, and
+Ranging (MESSENGER) mission. After a 6.6-year cruise phase, during 
+which the spacecraft flew by Earth once, Venus twice, and Mercury three 
+times, MESSENGER entered orbit about the innermost planet on 18 March 
+2011, becoming the first spacecraft ever to do so, and initiating a 
+one-year phase of orbital operations.  NASA recently extended 
+MESSENGER's orbital operations for a second year.
+
+This delivery includes formatted raw and calibrated data for all seven
+MESSENGER science instruments and the radio science investigation for
+months three through six of orbital operations (18 May 2011 through 17
+September 2011).  SPICE data from launch through the period of this
+release are also included. With this release, data are now available to
+the public for the first full Mercury solar day of MESSENGER orbital
+operations.
+
+All data sets in this MESSENGER release can be accessed from:
+
+http://pds.nasa.gov/subscription_service/SS-20120308.html
+
+To access all data archived in the PDS, go to:
+
+http://pds.nasa.gov
+
+The ACT-REACT QuickMap interactive Web interface to MESSENGER data is
+available through links at:
+
+http://messenger.jhuapl.edu/
+http://www.nasa.gov/messenger
+
+The MDIS mosaics can be downloaded from:
+
+http://messenger.jhuapl.edu/the_mission/mosaics.html
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VENUS LUNCH-TIME TOWN-HALL MEETING AT LPSC
+
+You're invited to participate in a lunchtime Venus Town-Hall Meeting at 
+LPSC on Wednesday, March 21, 2012, Noon - 1:15 PM, Woodlands Waterway 
+Marriott Hotel and Convention Center, Woodlands, Texas. This Town-Hall 
+Meeting will provide an update on Venus related topics such as 
+VEXAG sponsored conferences and plans to update the Venus Goals and 
+Objectives document.
+
+This follows a Tuesday morning session on "Venus Volcanism Viewpoints: 
+Vague or Viable?", chaired by Virgil Sharpton (LPI) and Mark Bullock 
+(SWRI).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+JOB OPPORTUNITY: POSTDOCTORAL RESEARCH ASSOCIATE AT RENSSELAER 
+POLYTECHNIC INSTITUTE
+
+The Department of Physics, Applied Physics, and Astronomy at the 
+Rensselaer Polytechnic Institute (RPI) invites applications for a 
+Postdoctoral Research Associate in the area of exoplanet exploration, 
+including observational investigations and/or instrumentation 
+development. The successful applicant will carry out independent 
+research on the detection of exoplanets and characterization of 
+exoplanetary systems and their parent stars, with emphasis on 
+exploring the conditions for habitability.
+
+Applicants must send a current CV with list of publications, contact 
+information for 3 professional references, and a 1-2 page statement 
+of research interests to Professor Jon A. Morse (jmorse@rpi.edu).
+
+Potential applicants may wish to review the current research activities 
+of the NY Center for Astrobiology at: 
+
+http://www.origins.rpi.edu/origin.html 
+
+and consider how she/he could complement and enhance its portfolio, 
+then include such ideas in the research statement.
+
+Applicants must have a PhD (or foreign degree equivalent) in astronomy, 
+astrophysics, physics, planetary science, or related field. The initial 
+appointment is for 1 year beginning as early as July 2012, renewable 
+for up to 2 additional years pending satisfactory review and 
+availability of funding.
+
+Rensselaer Polytechnic Institute has a strong institutional commitment 
+to diversity and is an Equal Opportunity/Affirmative Action employer.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] DUE DATES CHANGED FOR THE PLANETARY PROTECTION RESEARCH PROGRAM
+
+Planetary protection involves preventing biological contamination on 
+both outbound and sample return missions to other planetary bodies. 
+Numerous areas of research in astrobiology/exobiology are improving 
+our understanding of the potential for survival of Earth microbes in 
+extraterrestrial environments, relevant to preventing contamination of 
+other bodies by organisms carried on spacecraft. Research is required 
+to improve NASA's understanding of the potential for both forward and 
+backward contamination, how to minimize it, and to set standards in 
+these areas for spacecraft preparation and operating procedures. 
+Improvements in technologies and methods for evaluating the potential 
+for life in returned samples are also of interest.
+
+Notices of Intent are now due on June 29, 2012. 
+
+Proposals are now due September 5, 2012. 
+
+This change is being made so that the due dates occur on work days. 
+Go to:
+
+http://nspires.nasaprs.com/
+
+Questions concerning the Planetary Protection Research Program, 
+may be addressed to 
+
+Cassie Conley
+cassie.conley@nasa.gov
+202-358-3912
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] INTERESTED IN SERVING ON A REVIEW PANEL?
+
+Postdocs and early-career professionals, would you like to get some 
+experience on a review panel?  Serving on a review panel is one of the 
+best ways to improve your proposal-writing skills.  We are recruiting 
+reviewers for the NESSF (NASA Earth and Space Science Fellowship) 
+program. These are graduate student fellowship proposals that cover a 
+wide range of planetary topics. The review panels will be held 
+virtually via Webex (no travel required) in mid to late April. If you 
+are interested in serving on this panel, please send a CV or short 
+description of your expertise to 
+
+Dr. Sarah Noble
+sarah.k.noble@nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+FIRST ANNOUNCEMENT - LUNGRADCON 2012
+
+Registration is now open for the 3nd Annual Lunar Graduate Conference
+(LunGradCon 2012) to be held on Saturday and Sunday, July 14-15, 2012
+at the NASA Ames Research Center (ARC), preceding the NASA Lunar
+Science Forum. LunGradCon provides an opportunity for grad students
+and early-career postdocs to present their research on lunar science
+in a low-stress, friendly environment, being critiqued only by their
+peers. In addition to oral presentations, the conference presents
+opportunities for professional development and networking with fellow
+grad students and postdocs, as well as senior members of the NASA
+Lunar Science Institute. A limited amount of funding will be provided
+for travel and lodging costs.
+
+For more details, please visit:
+
+http://lasp.colorado.edu/ccldas/lgc2012
+
+or email any questions to: lungradcon@gmail.com
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+CALL FOR PROPOSALS FOR THE NASA INFRARED TELESCOPE FACILITY (IRTF)
+
+Deadline: Monday 02 April 2012
+
+NASA Infrared Telescope Facility Observing Proposals, Due date for the 
+2012B semester (August 1, 2012 to January 31, 2013) is Monday, April 2, 
+2012. See our online submission form. Available instruments include: 
+
+(1) SpeX, a 1-5 micron cross-dispersed medium-resolution spectrograph 
+(up to R=2,500) and imager; 
+
+(2) CSHELL, a 1-5 micron high-resolution spectrograph (up to R=40,000); 
+
+(3) NSFCAM2, a 2048x2048 pixel, 1-5 micron camera with a 0.04"/pixel 
+scale (82"x82" field-of-view) and a circular variable filter; 
+
+(4) MORIS, a 512x512 pixel Andor CCD camera mounted at the side-facing, 
+dichroic-fed window of the SpeX cryostat (60"x60" field-of-view); MORIS 
+can be used simultaneously with SpeX, and 
+
+(5) PI-instruments including a low-resolution 3-14 micron spectrograph 
+and high-resolution spectrographs for 8-25 microns. 
+
+Information on available instruments can be found at: 
+
+http://irtfweb.ifa.hawaii.edu/Facility
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ULTRAVIOLET ASTRONOMY: HST AND BEYOND
+
+This is the second announcement for the upcoming conference: UV 
+Astronomy: HST and Beyond to be held June 18-21 on the island of Kauai.
+Ultraviolet Astronomy: HST and Beyond will review the current forefront 
+in UV astronomy, and look to the future, identifying the science cases 
+and instrumentation needs for the next generation of instruments, 
+small, medium and large. We have a series of invited review talks on 
+scientific and observational topics, and invite contributions on the 
+latest results in ultraviolet astrophysics, technological developments, 
+and future mission concepts. 
+
+The deadline for submitting contributions is March 31, 2012. If you 
+planning on attend the meeting, I would like to encourage you to 
+register at: 
+
+http://uvastro2012.colorado.edu/ 
+
+The preliminary schedule of invited talks is now available online. 
+
+See you in Hawaii.
+
+Aloha
+
+James Green and the Scientific Organizing Committee
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] OPAG MEETING 29-30 MARCH, ST. LOUIS
+
+The NASA Outer Planets Assessment Group (OPAG) will meet 29-30 March at 
+the Renaissance Grand St. Louis Hotel, in downtown St. Louis, Missouri.  
+
+The room block is still open and will remain so through Monday, 
+March 12.  
+
+Further Information regarding hotel and other logistics can be found 
+at: 
+
+http://icpi.nasaprs.com/opag 
+
+Potential attendees are kindly asked to go to this website, and click 
+on the invitation link and RSVP for attendance (this will assist our 
+meeting planners). 
+
+This OPAG meeting will be critical for the future of Outer Planet 
+exploration. An updated agenda can be found at: 
+
+http://www.lpi.usra.edu/opag
+
+Bill McKinnon, OPAG Chair
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+May 23-25, 2012
+NRC Committee on Astrobiology and Planetary Science
+http://sites.nationalacademies.org/SSB/SSB_067577
+Washington, DC
+
+June 18-21, 2012
+Ultraviolet Astronomy: HST and Beyond
+http://uvastro2012.colorado.edu/ 
+Kauai, HI
+
+July 14-15, 2012
+LunGradCon 2012
+http://lasp.colorado.edu/ccldas/lgc2012
+Moffett Field, CA
+
+July 16-20, 2012
+Characterizing & Modeling Extrasolar Planetary Atmospheres 
+- Theory & Observation
+http://www.mpia-hd.mpg.de/exoplanets2012
+Heidelberg, Germany 
+
+November 14-16, 2012
+Bridging Communities: Unifying the Canadian Space Sector
+http://cpsx.uwo.ca/2012-canadian-space-summit
+London, Canada
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

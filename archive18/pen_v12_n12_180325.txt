@@ -1,0 +1,240 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 12 (March 25, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Mark V. Sykes, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mars Exploration Science Monthly Newsletter for March 2018
+2. [NASA] Science Mission Directorate Seeks Volunteer Reviewers
+3. [NASA] Mars Exploration Rovers Data Release 55
+4. 2018 NASA Planetary Science Summer Seminar Applications Open
+5. NASA FDL 2018 Summer Program: Applications Closing Soon
+6. Planetary Meetings Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MARCH 2018
+
+To the Mars Community,
+ 
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the March 2018
+edition of the Mars Exploration Science Monthly Newsletter can be found
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SCIENCE MISSION DIRECTORATE SEEKS VOLUNTEER REVIEWERS
+
+The Science Mission Directorate (SMD) has posted some new volunteer
+reviewer forms on the SARA web page at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels 
+
+SMD is currently seeking reviewers for:
+
+Earth Science Applications: Water Resources
+Emerging Worlds
+Solar System Observations
+MatISSE and DALI (high-TRL planetary instrument programs)
+Astrophysics Research and Analysis
+Exoplanet Research Program
+Earth Surface and Interior and Space Geodesy Programs
+Astrophysics Data Analysis Program
+ 
+If you would like to volunteer for a review that is not listed above
+(like Step-1 proposals for B.10 the Heliophysics - Early Career
+Investigator Program) you may write directly to the Program Officer at:
+
+https://science.nasa.gov/researchers/sara/program-officers-list/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] MARS EXPLORATION ROVERS DATA RELEASE 55
+
+The Planetary Data System (PDS) is pleased to announce Release 55
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 4771 through 4860, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+MI
+NAVCAM
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There is no Radio Science data in this release, and no more
+Mini-TES or Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20180323.shtml
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas: 
+
+https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+Thank you for subscribing to the PDS Notification Service,
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone: (818)393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+2018 NASA PLANETARY SCIENCE SUMMER SEMINAR APPLICATIONS OPEN
+ 
+NASA is accepting applications - from science and engineering
+post-docs, recent PhDs, doctoral students, engineering students within
+6-9 months of completion of their master's degree but not planning to
+pursue a PhD degree, and junior faculty - for its 30th Annual Planetary
+Science Summer Seminar, which will be held August 6-10, 2018 at the Jet
+Propulsion Laboratory in Pasadena, Calif.
+
+During the program and pre-session webinars, student teams will carry
+out the equivalent of an early mission concept study, prepare a
+proposal authorization presentation, present it to a review board, and
+receive feedback. By the end of the session, students will have a
+clearer understanding of the life cycle of a space mission;
+relationships between mission design, cost, and schedule; and the
+tradeoffs necessary to stay within cost and schedule while preserving
+the quality of science.
+
+Applications are due April 2, 2018. Partial financial support is
+available for a limited number of individuals. Further information is
+available at: 
+
+http://psss.jpl.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA FDL 2018 SUMMER PROGRAM: APPLICATIONS CLOSING SOON
+
+NASA Frontier Development Lab (FDL) is an applied Artificial
+Intelligence research accelerator that pairs researchers from the space
+sciences with data scientists for an intense 8-week concentrat-ed study
+to apply AI to challenges important to space exploration and humankind.
+FDL runs between June 25th - August 17, 2018.
+
+We are looking for doctorate or post-doc researchers interested in the
+following challenge areas:
+
+Space Weather 
+Astrobiology 
+Space Resources
+
+Additional challenges looking at orbital debris and exoplanets may be
+added, pending partner interest.
+
+This year we are also running a challenge in partnership with the
+European Space Agency, which will run in parallel. FDL Europe’s focus
+will be on Earth Observation.
+
+FDL is hosted by the SETI Institute and NASA Ames in Mountain View, CA;
+and ESA Esrin in Europe. Compute and AI advisory is provided by IBM,
+Intel, Nvidia, Lockheed Martin and Google.
+
+Researchers will receive a stipend and are provided with accommodation
+for the duration.
+
+Applications will be accepted until the closing date of the 3rd of
+April.
+
+Apply now at: 
+
+http://www.frontierdevelopmentlab.org/#!/apply
+
+For further details on the program, please visit our website:
+
+http://frontierdevelopmentlab.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 11-14, 2018
+International Symposium on Lunar and Planetary Science
+http://www.ssi.must.edu.mo/ISLPS2018/
+Macau, China
+
+June 25-28, 2018
+"Origin of the Earth-Moon System" TRR 170 Summer School
+https://www.trr170-lateaccretion.de/trr-170-summer-school-2018
+Trechtingshausen, Germany
+
+August 8-10, 2018
+9th Planetary Crater Consortium Meeting
+http://www.planetarycraterconsortium.nau.edu/PCCMeeting2018.html
+Boulder, CO
+
+June 10-14, 2019
+Zooming in on Star Formation
+https://indico.nbi.ku.dk/event/1055/
+Nafplio, Greece
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

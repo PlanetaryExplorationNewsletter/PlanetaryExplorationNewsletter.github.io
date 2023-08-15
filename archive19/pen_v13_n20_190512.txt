@@ -1,0 +1,331 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 20 (May 12, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Interdisciplinary Consortia for Astrobiology Research (ICAR)
+2. Mars Exploration Science Monthly Newsletter for May 2019
+3. [NASA] Resources for Those Who Are New to Proposing to ROSES
+4. [NASA] PDS: Cassini Rings Data Release 101
+5. Icarus News: Twitter Feed, Letters, Invited Reviews, Special Issues
+6. JWST Master Class Call for Applications Now Open
+7. Space Generation Congress 2019 Applications Open
+8. Guest Scientist or Postdoctoral Position in Space Physics
+9. Arecibo Has a Staff Scientist Position Open
+10. An Update on NASA Participation on Envision Venus Mission Study
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] INTERDISCIPLINARY CONSORTIA FOR ASTROBIOLOGY RESEARCH (ICAR)
+
+The Planetary Science Division intends to solicit Interdisciplinary
+Consortia for Astrobiology Research (ICAR) to support the goal of the
+NASA's Astrobiology program in the study of the origins, evolution, and
+distribution of life in the universe. It is anticipated that research
+areas in this cycle will include: prebiotic chemistry and early Earth
+environments, early life and increasing complexity, and the
+habitability and biosignatures on exoplanets. PIs selected as a result
+of proposals to this program element will become members of the newly
+established Astrobiology Program Research Coordination Networks that
+are relevant to their selected research.
+ 
+The Planetary Science Division intends to solicit ICAR proposals every
+other year, either as a program element in ROSES-2019 or as a separate
+Cooperative Agreement Notice. Either way, it is expected that the final
+text will be released in NSPIRES no fewer than 90 days prior to the
+full or Step-2 proposal due date.
+ 
+http://solicitation.nasaprs.com/ROSES2019
+
+The point of contact for this program element is Mary Voytek, who may
+be reached at mary.voytek-1@nasa.gov.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR MAY 2019
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and
+Serina Diniega of the Mars Program Science Office, the May 2019 edition
+of the Mars Exploration Science Monthly Newsletter can be found on the
+web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] RESOURCES FOR THOSE WHO ARE NEW TO PROPOSING TO ROSES
+
+Please note that we have added a new resource to the SARA web page that
+may be useful to those who are new to proposing to ROSES: Presentations
+by Max Bernstein (NASA HQ) and Christina Richey (JPL) about ROSES and
+advice how to write a proposal are now available. Both the video
+(thanks to the SETI Institute) and PDF and PPT versions of Max's slides
+may be found in the SARA Library at:
+
+https://science.nasa.gov/researchers/sara/library-and-useful-links
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: CASSINI RINGS DATA RELEASE 101
+
+The Planetary Data System (PDS) is pleased to announce a special
+release on May 3, 2019, of Cassini data: radial profiles of Saturn's
+ring system generated during stellar occultation observations.
+Instruments available:
+
+  UVIS
+  VIMS
+
+To access the above data, please visit the following links:
+
+https://pds-rings.seti.org/ringocc/
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190503.shtml
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+  
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ICARUS NEWS: TWITTER FEED, LETTERS, INVITED REVIEWS, SPECIAL ISSUES
+ 
+Icarus now has a Twitter feed: 
+@IcarusJournal
+
+https://twitter.com/IcarusJournal
+
+The feed is set up show papers published (updated daily) but, as we
+build a following, we will be able to add a curator and some more
+content.
+
+We are now pleased to announce the introduction of a Letter article
+type for Icarus, allowing the rapid publication of concise articles
+that deal with all aspects of Solar System studies. The aim is to offer
+an effective method of bringing new results quickly to the public.
+Manuscript size is limited to 3000 words, with a maximum of 4 figures
+and/or tables, and no more than 4 pages of supplementary materials.
+Authors should select the article type "Letter" when submitting their
+contribution. The Letters are short research papers and do not replace
+Icarus Notes (for which Supplementary materials are not allowed).
+
+We are also pleased to announce the introduction of Invited Reviews for
+Icarus. From time to time the Editors may invite specific authors or
+groups to contribute a review article to Icarus on a key topic, area,
+or event. Invited Review authors should select the article type
+"Invited Review" when submitting their contribution. Only reviews that
+have been specifically invited by the Editors will be considered.
+
+Special issues: We welcome proposals for special issues. Our Tunguska
+special issue is being published this month. Special issues on Mars
+Express to ExoMars and Late Mars Workshop are in progress, as are
+special issues on Cassini and TNOs. 
+ 
+Rosaly Lopes
+Editor-in-Chief
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JWST MASTER CLASS CALL FOR APPLICATIONS NOW OPEN
+  
+Space Telescope Science Institute (STScI) will host approximately 25
+participants for a 4.5-day, in-depth Master Class in Baltimore, MD on
+November 18-22, 2019. The Master Class will include topics related to
+James Webb Space Telescope (JWST) proposal planning, including user
+tools, instrument modes, example science cases, documentation, and help
+resources, as well as guidance with teaching these topics to others.
+Graduates of the Master Class are expected to give back to the JWST
+user community in two ways: by hosting proposal-preparation training
+activities at their home institution(s) and by serving as a local
+expert for colleagues in the months before the JWST Cycle 1 General
+Observer (GO1) proposal deadline in Spring 2020.
+
+This call is open to all potential JWST observers, regardless of career
+stage or research interests. Advanced graduate students/postdocs and
+those from geographically-remote areas are especially encouraged to
+apply. Although not required, we encourage partnered or team
+applications from geographically-concentrated institutions.
+
+Submit an online application by 5 p.m. (ET) on June 3, 2019.
+
+To learn more about the Master Class:
+
+http://www.stsci.edu/contents/events/jwst/2019/november/jwst-master-
+class-workshop 
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SPACE GENERATION CONGRESS 2019 APPLICATIONS OPEN
+
+The Space Generation Advisory Council is working hard to plan the 18th
+Space Generation Congress (SGC) in Washington DC this October and the
+application window for delegate attendees is now open.
+
+Applications will close May 15th, and may be found here:
+
+http://spacegeneration.org/sgc2019/apply
+
+Scholarships are available.
+
+The Space Generation Congress (SGC) is an annual event to develop space
+policy recommendations for the United Nations Committee on the Peaceful
+Uses of Outer Space (COPUOS). SGC 2019 will be held in Washington,
+D.C., from October 17th to 19th, 2019 just prior to the 70th
+International Astronautical Congress (IAC). SGC hosts 180 students and
+young professionals (35 and under) from around the world (45 countries
+represented last year) that are competitively selected to attend.
+Current and former partners include many of the world's space agencies,
+major aerospace industry players, non-profit organisations, and
+academic institutions. 
+
+http://spacegeneration.org/sgc2019
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+GUEST SCIENTIST OR POSTDOCTORAL POSITION IN SPACE PHYSICS
+
+The Solar System Physics and Space Technology research programme at the
+Swedish Institute of Space Physics in Kiruna, IRF, invites applications
+for a postdoctoral position in Space Physics, related to the ESA
+Rosetta mission to comet 67P Churyumov-Gerasimenko.
+
+The mission is now in an intensive data analysis phase. Applications
+are invited both for a guest scientist or postdoc position up to the
+end of 2020, with some possibility to two years in total.
+
+The position is a research position for studies of the cometary plasma
+environment and its interaction with the solar wind primarily using ion
+data from the Ion Composition Analyzer on board Rosetta.
+
+The position is funded by the Swedish Research Council.
+
+Contact: Dr. Hans Nilsson, hans.nilsson@irf.se, +46-980-79 127
+
+Applications: registrator@irf.se
+
+Closing date: 16 June 2019
+
+Reference number: 2.2.1-154/19 
+
+https://www.irf.se/jobb
+
+IRF is a governmental research institute that conducts postgraduate
+education and research in space physics, atmospheric physics and space
+technology. Many projects are run as international projects in
+collaboration with other research institutes and space agencies. IRF
+has 100 employees and offices in Kiruna (headquarters), Umea, Uppsala
+and Lund.
+
+http://www.irf.se
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ARECIBO HAS A STAFF SCIENTIST POSITION OPEN
+
+AO is seeking application for a staff scientist position preferably
+with VLBI experience:
+ 
+https://jobs.ucf.edu/en-us/job/497173/observatory-scientist-or-senior-
+observatory-scientist-interferometry-radioastronomy
+ 
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+AN UPDATE ON NASA PARTICIPATION ON ENVISION VENUS MISSION STUDY
+
+As has been announced previously (most recently at the LPSC Venus
+Townhall in March), NASA has been invited by ESA to participate in the
+EnVision mission study, part of the M5 competition. The EnVision
+mission concept would conduct high resolution radar mapping and
+atmospheric studies, with a launch readiness date of 2032.
+
+NASA has responded to ESA's invitation by providing two US Venus
+scientists to the EnVision Science Study Team and a systems engineer to
+the System Engineering Working Group. This partnership has been quite
+successful.
+
+In March 2019, as part of the mission study process, NASA invited
+responses of interest and technical capabilities related to a potential
+instrument and other flight subsystem contributions from three
+organizations: GSFC, JPL and APL. In late April, NASA received the
+responses from these institutions and is in the process of assessing
+them for technical and cost feasibility. The assessment process will
+take about two months, after which time NASA will determine how to
+proceed. As presented at the LPSC Venus Town Hall, should ESA choose
+EnVision as the M5 mission, the science team for any potential
+contributed facility instrument will be openly competed.
+
+At this time, NASA has not committed to providing a contribution to the
+mission. For questions or comments, please contact Dr. Adriana Ocampo
+at aco@nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 14-18, 2019
+Planet2/RESCEU Symposium: From Protoplanetary Disks through Planetary
+System Architecture to Planetary Atmospheres and Habitability
+http://www.resceu.s.u-tokyo.ac.jp/symposium/resceu_sympo2019/
+Okinawa, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,583 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 42 (October 8, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Elisabeth Adams, Karen Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Environments of Terrestrial Planets Under the Young Sun: Seeds of 
+   Biomolecules
+2. [NASA] PDS - Odyssey Data Release 61
+3. [NASA] PDS - Cassini Data Release 51
+4. EUCOP 2018 Session: The Furthest Frontier - Planetary Permafrost
+5. PhD Position in Geology/Planetary Science at UCLA 
+6. DPS Event: LSST and the Solar System Workshop 
+7. DPS Event: Future Pluto and Kuiper Belt Missions Workshop
+8. DPS Event: The Next Steps in Ice Giant Exploration
+9. DPS Event: Carbonaceous Asteroids - Connections Between Surfaces 
+   and Interiors
+10. Postdoc Positions in Cometary Science at MPS, Germany
+11. SSERVI AGU Special Paper Collection
+12. Potential Concepts for the Next Discovery AO
+13. MEPAG Meeting 35 Summary and Presentations now available
+14. Assistant Professor, Exoplanetary Atmospheric Theorist, UCF
+15. Assistant or Associate Professor, Planetary Science 
+    Instrumentalist, UCF
+16. PhD Position in Space Physics, Uppsala, Sweden
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ENVIRONMENTS OF TERRESTRIAL PLANETS UNDER THE YOUNG SUN: SEEDS OF 
+BIOMOLECULES
+
+Symposium will be held on April 9-13, 2017, hosted by the Sellers 
+Exoplanet Environments Collaboration at NASA Goddard Space Flight 
+Center, Greenbelt, MD, USA. This symposium is a major international 
+interdisciplinary conference in the emerging area of astrobiology 
+covering astrophysical, physico-chemical, atmospheric and geological 
+aspects of environments of early terrestrial planets with a focus on 
+the impacts of the young Sun's space weather on the precursors of life.
+
+The understanding of impacts of external factors on prebiotic chemistry 
+including UV and particle fluxes from the young Sun (and other active 
+stars) along with the physio-chemical evolution of planetary 
+atmospheres under the influence of their volcanic and tectonic activity 
+will sharpen our definition of habitability on early terrestrial and 
+terrestrial-type exoplanets. It will also help to specify environmental 
+constraints for prebiotic atmospheric chemistry experiments that will 
+better specify the most plausible pathways to the origin of life. This 
+is only possible by forming a key linkage between astrophysics, 
+heliophysics, planetary scientists, Earth science and the prebiotic 
+chemistry/origin of life community. 
+
+Please contact Dr. Vladimir Airapetian at vladimir.airapetian@nasa.gov 
+for further details.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - ODYSSEY DATA RELEASE 61
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 61, for the following instruments:
+
+GRS
+THEMIS
+RADIO SCIENCE (Releases 180-182)
+SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue to 
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20171002.shtml
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - CASSINI DATA RELEASE 51
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 51, October to December 2016, for instruments:
+
+CDA
+CIRS
+INMS
+ISS
+MAG
+MIMI
+RADAR
+RPWS
+RSS
+SPICE
+UVIS
+VIMS
+
+HRD's previous release covers this time period.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the Planetary 
+Image Data Atlas. Large data sets may take as long as a few days 
+beyond the formal release date to be incorporated into these services.  
+Check each service's web site to see the status of the latest release.
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20171005.shtml
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EUCOP 2018 SESSION: THE FURTHEST FRONTIER - PLANETARY PERMAFROST
+
+We would like to advertise our planetary session #5 "The Furthest 
+Frontier - Planetary Permafrost" at EUCOP 2018: 5th European Conference 
+on Permafrost in Chamonix, France, 22 Jun-1 Jul 2018.
+
+This session aims to give up-to-date insights into the study of ice, 
+permafrost and resulting landforms on planetary surfaces. A special 
+emphasis will be given to studies involving analogous cold-climate 
+environments on Earth.
+
+Deadline for abstract submission is on 15th November 2017 and the 
+template plus instructions can be found at:
+
+https://eucop2018.sciencesconf.org/resource/page/id/12
+
+Conveners:
+
+Antoine Sejourne, Universite Paris Sud, GEOPS, France 
+antoine.sejourne@u-psud.fr
+
+Susan Conway, Universite Nantes, LPGN, France 
+susan.conway@univ-nantes.fr
+
+Ernst Hauber, Institute of Planetary Research, DLR, Berlin, Germany 
+ernst.hauber@dlr.de
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PHD POSITION IN GEOLOGY/PLANETARY SCIENCE AT UCLA
+
+PhD positions in sedimentology and planetary science at UCLA 
+- Fall 2018
+
+Multiple funded PhD positions are available in the Department of Earth, 
+Planetary, and Space Sciences at UCLA working with Mackenzie Day on 
+topics related to aeolian geomorphology, sedimentology, and planetary 
+surface processes. Project opportunities are widely ranging and include 
+involvement in wind tunnel experiments, field work, and remote sensing 
+of Mars and other planetary bodies.
+
+The expected start date is Fall 2018. Students will engage in highly 
+collaborative research with institutions around the country. Applicants 
+are expected to have a strong background in geology and general 
+sciences. Those with a strong background in physics or computer science 
+are particularly encouraged.
+
+Interested candidates should contact Mackenzie Day at daym@uw.edu for 
+more information and to discuss potential research projects. 
+Applications should ultimately be submitted at: 
+
+http://epss.ucla.edu/graduate/admissions/  
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+DPS EVENT: LSST AND THE SOLAR SYSTEM WORKSHOP
+
+Thursday October 19 2017, 4:30-6:30 pm, 49th DPS meeting, Cascade E 
+(Utah Valley Convention Center)
+
+This workshop serves as the annual meeting of the Large Synoptic Sky 
+Survey Telescope (LSST) Solar System Science Collaboration (SSSC) and 
+is open to all DPS attendees. We will provide a brief status of LSST 
+with respect to Solar System science and provide updates on current 
+and future activities within the SSSC.
+
+The presentation schedule is as follows:
+
+- LSST & Solar System Science Collaboration (SSSC) Update: Where is 
+  the SSSC Headed in 2018? - Meg Schwamb (Gemini Observatory) & David 
+  Trilling (NAU)
+- The LSST Observing Strategy: Upcoming Opsim Simulations, Small Body 
+  Metrics, and White Papers - Lynne Jones (University of 
+  Washington/LSST)
+- LSST Solar System Data Products and Moving Object Processing System 
+  (MOPS) Status - Mario Juric (University of Washington/LSST)
+- The Minor Planet Center: Status and Plans - Matt Holman (Harvard 
+  CfA/MPC)
+- Community Feedback on the Planned LSST Solar System Database Schema
+
+Contact organizers Meg Schwamb (mschwamb.astro@gmail.com) and David 
+Trilling (David.Trilling@nau.edu) with any questions.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DPS EVENT: FUTURE PLUTO AND KUIPER BELT MISSIONS WORKSHOP
+
+Sunday, 3:30 pm at DPS Provo, Battle Creek Room
+
+Interested DPS members please join us Sunday, October 15th, from 
+3:30-5:30 pm for a focused workshop on future missions to the Kuiper 
+Belt. The workshop will take place in the Battle Creek room of the 
+Utah Valley Convention Center (DPS conference venue). No 
+pre-registration required. 
+
+The Kuiper Belt (KB) is a scientific treasure trove consisting of 
+comets, planetesimals, and small planets like Pluto. Since its 
+discovery in the early 1990s, the KB has yielded fundamental insights 
+into planetary accretion, the migration of planets, and the population 
+structure of our solar system-including the discovery that dwarf 
+planets like Pluto are common there.
+
+In this workshop we will review the scientific case to return to 
+Pluto with an orbiter, as well as the scientific case to explore other 
+small KB planets and smaller bodies with flybys or orbiters. We will 
+go beyond this to discuss possible mission payloads. Finally, we will 
+solicit community and individual scientist interest in future studies 
+leading to the next Decadal Survey.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+DPS EVENT: THE NEXT STEPS IN ICE GIANT EXPLORATION
+
+Time: Monday, 16 October 2017, 12:00 - 13:15
+Location: "Cascade C" room of the Convention Center
+Organizers: Mark Hofstadter, Amy Simon, and Zibi Turtle
+
+This workshop is an opportunity for interested members of the community 
+to discuss the future of ice giant exploration. The discussion, 
+moderated by members of the science team for the recently completed Ice 
+Giant mission study:
+
+https://www.lpi.usra.edu/icegiants/mission_study 
+
+will address the following topics:  
+
+* Research within the R&A programs,
+* Juno and Cassini results that inform ice giant science and missions,
+* The role of Flagship, New Frontiers, and Discovery missions in ice 
+  giant exploration,
+* Atmospheric probes,
+* Instrumentation and technology development for ice giant exploration.
+
+For more information, contact Mark.Hofstadter@jpl.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+DPS EVENT: CARBONACEOUS ASTEROIDS - CONNECTIONS BETWEEN SURFACES AND 
+INTERIORS
+
+Time: 10/18/2017 from 12pm to 1pm.
+Location: Battle Creek - Provo Utah Convention Center
+
+Planetary Resources, the asteroid mining company, is developing 
+methodology to quantify water abundance on volatile-rich C-complex NEAs 
+in order to perform resource assessment. While spectral measurements in 
+the visible to near-infrared regions can reveal a NEA's hydration 
+state, these reflectance measurements are only sensitive to the optical 
+surface. Additionally, spectral measurements of surface hydration (and 
+spectral measurements in general) can be affected by poorly understood 
+processes that may hinder accurate resource assessment. As such, a 
+deeper understanding of the underlying mechanisms affecting asteroid 
+surfaces is required. The goal of this workshop is to bring together 
+experts from across multiple disciplines to facilitate a broad 
+technical discussion around this complex challenge. Topics of interest 
+for discussion include but are not limited to space weathering, thermal 
+processing of asteroid surface material, carbonaceous chondrite 
+mineralogy, regolith formation and sorting, solar wind implantation of 
+H, and any other processes that may affect the quantification of water 
+on asteroids.
+
+Please direct questions to the organizer:
+
+Akbar Whizin 
+Planetary Resources, Inc.
+awhizin@planetaryresources.com
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOC POSITIONS IN COMETARY SCIENCE AT MPS, GERMANY
+
+The Max Planck Institute for Solar System Research in Gottingen, 
+Germany, invites applications for postdoc positions in the field of
+cometary science.
+
+Two positions will be in the working group on the role of comets in
+the formation of the planetary system. The following research topics 
+- in order of their priority - are identified for collaboration in the
+working group:
+
+- The growth of cometary nuclei
+- The size and mass distribution of cometary dust and solids
+- The Carbon-chain material in cometary nuclei
+- The elemental composition of cometary material
+
+Details of the positions and the application are found at:
+
+http://www.mps.mpg.de/5074883/job_full_offer_11530192?c=2169
+
+One position will be in a newly forming group on activity in comets
+and asteroids, funded by an ERC Starting Grant. The position will
+focus on one of the following topics:
+
+- Physical, thermal, and optical properties of cometary material
+- Activity in comet 67P/Churyumov-Gerasimenko from a Rosetta
+  multi-instrument perspective
+- Activity in asteroids
+
+Details of the position and the application are found at:
+
+http://www.mps.mpg.de/5066843/job_full_offer_11485198?c=2169
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+SSERVI AGU SPECIAL PAPER COLLECTION
+
+The AGU family of journals is accepting papers for a special collection 
+inspired by the goals of NASA's Solar System Exploration Research 
+Virtual Institute (SSERVI).  Please consider submitting a paper. The 
+submission deadline is January 31, 2018.
+
+This special collection, sponsored by SSERVI, invites papers focusing 
+on the science and exploration of the Moon, near-Earth asteroids, and 
+the moons of Mars. We invite contributions covering topics including, 
+but not limited to, geologic investigations, dust/exosphere/plasma 
+environments, surface remote sensing studies, field analog studies, 
+laboratory analyses, and geophysical modeling relevant to the bodies 
+of interest. In addition, we invite contributions focusing on efforts 
+to prepare for future human exploration of these bodies.
+
+Special collection submissions can be submitted to JGR-Planets, 
+JGR-Space Physics, Earth and Space Science, or GeoHealth. Potential 
+authors do not need to be members of a SSERVI team to submit a paper to 
+this special collection.
+
+For additional information, please contact: jgr-planets@agu.org.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POTENTIAL CONCEPTS FOR THE NEXT DISCOVERY AO
+
+NASA Goddard Space Flight Center ( GSFC) is interested in hearing from 
+potential principal investigators and science teams with ideas for the 
+next Discovery opportunity and to explore potential collaboration with 
+GSFC. The AO is expected in towards the end of 2018.
+
+Please contact Michael Amato, in person or via email, 
+Michael.Amato@nasa.gov.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MEPAG MEETING 35 SUMMARY AND PRESENTATIONS NOW AVAILABLE
+
+The virtual 35th meeting of the Mars Exploration Program Analysis 
+Group (MEPAG) was held on Monday, September 25th, 2017, 
+10:00am-1:00pm. Thank you to all who participated, especially the 
+speakers who shared their NASA-selected PSDS3 SmallSat Study concepts 
+with the community. The summary report and presentations from MEPAG 
+Meeting 35 are now available at the meeting website: 
+
+https://mepag.jpl.nasa.gov/meetings.cfm?expand=m35
+
+Please also note the request for community feedback regarding the 
+proposal for a 1-day workshop associated with the next face-to-face 
+MEPAG meeting, to be sent to mepagmeetingqs@jpl.nasa.gov by 
+November 15, 2017.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ASSISTANT PROFESSOR, EXOPLANETARY ATMOSPHERIC THEORIST, UCF
+
+The Planetary Sciences Group in the University of Central Florida's 
+Department of Physics invites applications for a tenure-track assistant 
+professorship, anticipated to start in August 2018.
+
+We seek candidates in exoplanet atmospheric theory who can add to or 
+complement ongoing research in exoplanet characterization. The 
+successful applicant is expected to establish an independent, 
+internationally competitive, externally funded research program and 
+demonstrate excellence and innovation in graduate and undergraduate 
+education.
+
+Information about the UCF planetary group: 
+
+http://planets.ucf.edu 
+
+which is housed in Physics and the Florida Space Institute:
+
+http://fsi.ucf.edu 
+
+This group is over 40 researchers, including 8 (soon to be 10) 
+professors, 2 lecturers, 8 soft-money researchers, 15 PhD students, 
+postdocs, and undergraduate researchers. Research ranges from 
+exoplanets to surfaces to space medicine.
+
+See details and application procedures at:
+
+https://www.jobswithucf.com/postings/51176
+
+Application review will begin November 15, 2017. New application 
+review will continue until the position is filled. Please upload all 
+materials simultaneously; one submission is allowed. Updates to 
+complete applications may be emailed.
+
+Contact: 
+Joseph Harrington 
+atmos-queries@physics.ucf.edu
+
+As an equal opportunity/affirmative action employer, UCF encourages 
+all qualified applicants to apply, including women, veterans, 
+individuals with disabilities, and members of traditionally 
+underrepresented populations.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ASSISTANT OR ASSOCIATE PROFESSOR, PLANETARY SCIENCE INSTRUMENTALIST,
+UCF
+
+The Department of Physics at the University of Central Florida invites 
+applications for a tenure-track assistant or tenured associate 
+professorship, anticipated to start in August 2018.
+
+We seek candidates with expertise in space instrumentation for 
+planetary missions that would complement current research. The 
+successful applicant is expected to establish an independent, 
+internationally competitive, externally funded research program and 
+have a strong commitment to excellence and innovation in graduate and 
+undergraduate education.
+
+Information about the UCF planetary group: 
+
+http://planets.ucf.edu 
+
+which is housed in Physics and the Florida Space Institute: 
+
+http://fsi.ucf.edu 
+
+This group has over 40 researchers, including 8 (soon to be 10) 
+professors, 2 lecturers, 8 soft-money researchers, 15 PhD students, 
+postdocs, and undergraduate researchers. Research ranges from 
+planetesimal formation to icy satellites to in-situ resource 
+utilization.
+
+See details and application procedures at:
+
+https://www.jobswithucf.com/postings/51177
+
+Application review will begin November 15, 2017. New application 
+review will continue until the position is filled. Please upload all 
+materials simultaneously; one submission is allowed. Updates to 
+complete applications may be emailed.
+
+Contact: Joshua Colwell <josh@ucf.edu>
+
+As an equal opportunity/affirmative action employer, UCF encourages 
+all qualified applicants to apply, including women, veterans, 
+individuals with disabilities, and members of traditionally 
+underrepresented populations.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PHD POSITION IN SPACE PHYSICS, UPPSALS, SWEDEN
+
+Applications are invited for a PhD student position to study the plasma 
+environment of Mars. Big questions remain regarding the topic - did 
+ancient Mars lose most of its primordial atmosphere in to space, and 
+how can we address this using current day measurements? Specifically, 
+the aim of the project is to develop detailed understanding of 
+electrodynamic processes at the day-night boundary, where steep 
+gradients in plasma density and temperature are found. Intense, varied 
+crustal magnetic fields, along with dynamic fields induced by the solar 
+wind flowing past the planet are also significant here. The new PhD 
+student will work directly with experimental data from both the ESA 
+Mars Express and NASA MAVEN missions.
+
+The position is available at the Uppsala office at the Swedish 
+Institute of Space Physics (IRF), located at the Angstrom Laboratory in 
+Uppsala, Sweden, starting in 2018 for a total duration of four years.  
+Information on research at IRF Uppsala can be found at: 
+
+http://www.irfu.se
+
+For further details, please see: 
+
+http://www.irf.se/Topical/Vacancies/?group=P4&vacid=58
+
+Reference number: 2.2.1-253/17
+Closing date: 31 October 2017
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 16-18, 2017
+Conference Exobiologie Jeunes Chercheurs
+http://www.exobiologie.fr/index.php/actualites/evenements/conference
+-exobiologie-jeunes-chercheurs-octobre-2017/
+Paris, France
+
+January 9-11, 2018
+Building Bridges from Earth to Life: From Chemical Mechanism to Ancient 
+Biology
+https://elsi6sympo.com/
+Tokyo, Japan
+
+January 14-19, 2018
+The Prebiotic Milieu Building the Evolution of Early Life
+https://www.grc.org/origins-of-life-conference/2018/
+Galveston, TX
+
+March 11-14, 2018
+Science with the Atacama Pathfinder Experiment (APEX2018)
+https://events.mpifr-bonn.mpg.de/indico/event/58/
+Tegernsee, Germany
+
+June 12-15, 2018
+Geobiology
+http://web.gps.caltech.edu/GBcourse/
+Pasadena,CA
+
+June 22-July 1, 2018
+EUCOP 2018: 5th European Conference on Permafrost
+https://eucop2018.sciencesconf.org/
+Chamonix, France
+
+August 13-17, 2018
+The 11th Meeting on Cosmic Dust
+https://www.cps-jp.org/~dust/Welcome.html
+Sagamihara, Japan
+
+July 15-19, 2019
+Ninth International Conference on Mars
+https://www.hou.usra.edu/meetings/ninthmars2019/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

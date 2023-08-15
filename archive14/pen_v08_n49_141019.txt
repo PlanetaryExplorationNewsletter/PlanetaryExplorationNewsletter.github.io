@@ -1,0 +1,310 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 8, Number 49 (October 19, 2014)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Three-Day Training Course on Planetary Protection
+2. First Announcement: 11th IAA Low-Cost Planetary Mission Conference 
+   (LCPM-11)
+3. NASA Postdoctoral Fellowships
+4. Tenure Track Faculty Position in Chemistry of Planetary Atmospheres, 
+   University of Leeds
+5. [NASA] PDS - Odyssey Data Release 49 - GRS
+6. 2nd Announcement: Workshop on Ground & Space Observatories: 
+   A Joint Venture to Planetary Science
+7. [NASA] ROSES-14 Release of a new call: K2 Guest Observer - Cycle 2
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] THREE-DAY TRAINING COURSE ON PLANETARY PROTECTION
+
+Course: "Planetary Protection: Policies and Practices"
+Dates: February 24-26, 2015
+Location: Kennedy Space Center, Florida
+
+We cordially invite all interested parties to participate in the 
+upcoming course on Planetary Protection Policies and Practices, which 
+is designed to familiarize current and future practitioners with 
+NASA, ESA, and COSPAR planetary protection programs. The course 
+provides an overview of applicable policies, practices and procedures 
+necessary to implement a successful planetary protection program, 
+emphasizing integration of managerial, administrative, and laboratory 
+activities. It is supported by the NASA Planetary Protection Officer.
+
+http://planetaryprotection.nasa.gov/course
+
+Enrollment: 14 participants
+Application: contact tasalb@msn.com
+
+Amy Baker (owner)
+Technical Administrative Services
+303-972-4849
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FIRST ANNOUNCEMENT: 11TH IAA LOW-COST PLANETARY MISSION CONFERENCE 
+(LCPM-11)
+
+The International Academy of Astronautics (IAA) LCPM-11 will be held 
+on 9-11 June 2015, in Berlin, Germany, at the Archenhold Sternwarte 
+located in one of the largest parks in the city. The meeting web site:
+
+http://www.dlr.de/LCPM11 
+
+has just gone live and will be updated regularly. We will convene in 
+the Einstein Saal, the venue where Albert Einstein gave his first 
+public lecture on the theory of relativity. The co-chairs, Tilman 
+Spohn, German Aerospace Center (DLR) Institute of Planetary Research, 
+and Gregg Vane, NASA Jet Propulsion Laboratory (JPL) Solar System 
+Exploration Directorate, will work with the program committee
+and soon announce the preliminary program. Please mark your 
+calendars now for this important meeting.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample research opportunities is:
+
+https://www3.orau.gov/NPDoc/Catalog/18818
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and 
+foreign nationals eligible for J-1 status as a Research Scholar 
+may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter:  
+
+http://bit.ly/1u0LcSj
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+TENURE TRACK FACULTY POSITION IN CHEMISTRY OF PLANETARY ATMOSPHERES, 
+UNIVERSITY OF LEEDS
+
+University Academic Fellow in Chemistry of Planetary Atmospheres
+School of Chemistry, Faculty of Mathematics and Physical Sciences
+University of Leeds, UK
+
+This University Academic Fellowship (UAF) is a tenure track equivalent 
+post for future academic leaders which provides an excellent 
+opportunity to establish an academic career at a research intensive 
+University and play a key role in our ambitious plans for the future. 
+You will embark on a structured five year development programme, 
+successful completion of which will lead to your appointment as a 
+grade 9 Associate Professor. The School of Chemistry has an 
+international reputation in observing, modelling and performing 
+laboratory experiments to understand the Earth’s atmosphere. We are 
+seeking to expand our research and teaching expertise in chemical 
+studies related to the atmospheres of other solar-system bodies and 
+the atmospheres of extra-solar planets. Our current work in this area 
+includes a laboratory and modelling study of Titan's organic photo-
+chemistry and the impacts of cosmic dust in the upper atmospheres of 
+several planets.
+
+https://jobs.leeds.ac.uk/vacancy.aspx?ref=MAPCH1003
+
+Closing Date: Sunday 16 November 2014
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] PDS - ODYSSEY DATA RELEASE 49 - GRS
+
+Mars Odyssey GRS/HEND data sets covering the data acquisition period 
+January 1 to March 31, 2014, have now been released, two weeks after 
+the scheduled release date of October 1. The Neutron Spectrometer data 
+for this time period have not yet been received at PDS; they will be 
+included in the next release, on January 2, 2015.  
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20141016.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+Thank you for subscribing to the PDS Notification Service,
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+2ND ANNOUNCEMENT: WORKSHOP ON GROUND & SPACE OBSERVATORIES: 
+A JOINT VENTURE TO PLANETARY SCIENCE
+
+Registration has now opened for the ESO/ESA/ALMA/NRAO-NAASC 
+workshop on: "Ground and Space Observatories: A Joint Venture to
+Planetary Science" 
+
+March 2-5, 2015 
+Santiago, Chile 
+
+http://www.eso.org/sci/meetings/2015/Planets2015.html 
+
+The goal of this workshop is to explore synergies between ground and
+space-based observatories with planetary missions for exploring the
+Solar System and planets, and to foster collaborations between the
+different communities by sharing scientific and technical knowledge,
+needs, requirements, and techniques.
+
+We are also pleased to announce that Michael Mumma (NASA/GSFC) will 
+be giving a keynote at the beginning of the workshop. The remaining 
+list of invited speakers will be announced soon on the website of 
+the workshop.
+
+The meeting will be held at the ESO office in Santiago, and will be
+limited to around 100 participants. The registration fee is 250 euros,
+which will cover coffee breaks, lunches at ESO, and a winery tour and
+conference dinner on Wednesday, March 4. For students, the registration
+fee is 150 euros. We have financial support for a limited number of
+students.
+
+Abstract submission deadline: November 24, 2014.
+
+We hope to see you in Santiago!
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ROSES-14 RELEASE OF A NEW CALL: K2 GUEST OBSERVER - CYCLE 2
+
+This program element solicits proposals for the acquisition and 
+analysis of new scientific data from the K2 mission: 
+
+http://keplerscience.arc.nasa.gov/K2
+
+K2 repurposes the space-borne hardware and ground-based operations of 
+the Kepler mission for a pointed survey of pre-determined locations 
+along the ecliptic plane. The single, visible-wavelength instrument 
+onboard K2 provides high-precision photometry capability, with short 
+cadence and long cadence modes (1 minute and 30 minute exposures), and 
+provides a powerful tool for broadband variability analyses of 
+planetary, stellar, extragalactic, and solar system sources.
+
+Only proposers who submit a Step-1 proposal will be eligible to submit 
+a Step-2 (full) proposal. Potential proposers are strongly encouraged 
+to carefully read the information about the 2-step proposal process 
+provided in Section IV(b)(vii) of the ROSES-2014 Summary of 
+Solicitation and Section 4 of D.13.
+
+Step-1 proposals due: January 16, 2015
+Proposals due: February 27, 2015
+
+Announcement: NNH14ZDA001N
+Posted at:
+
+http://nspires.nasaprs.com/ 
+
+RSS feed at: 
+
+http://nasascience.nasa.gov/researchers/sara/grant-solicitations
+/roses-2014
+
+Technical questions:
+Dr. Thomas Barclay
+Kepler Guest Observer Office
+(650) 604-3560
+keplergo@mail.arc.nasa.gov
+
+Programmatic questions:
+Dr. Douglas Hudgins
+Astrophysics Division, SMD
+(202) 358-0988
+douglas.m.hudgins@nasa.gov
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 24-26, 2015
+Planetary Protection Course: Policies and Practices
+http://planetaryprotection.nasa.gov/course
+NASA Kennedy Space Center, FL
+
+June 9-11, 2015
+11th IAA Low-Cost Planetary Mission Conference (LCPM-11)
+http://www.dlr.de/LCPM11
+Berlin, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

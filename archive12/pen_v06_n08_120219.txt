@@ -1,0 +1,425 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 8 (February 19, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Susan Niebur, 1978-2012
+2. Lunar Swirls Lunchtime Meeting at LPSC
+3. CRISM Data User Workshop
+4. 1st Interplanetary CubeSat Workshop
+5. [NASA] Supplemental Education and Public Outreach Programs Cancelled
+6. Radar in Planetary Exploration - Final Reminder
+7. NASA Postdoctoral Fellowships
+8. 9th International Planetary Probe Workshop
+9. ISS and Mars Conference
+10. Planetary Geophysics Postdoctoral Fellowship
+11. MEPAG Agenda for Upcoming Meeting Posted
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SUSAN NIEBUR, 1978-2012
+
+Susan Niebur, former NASA Program Scientist and founder of the Women 
+in Planetary Science project, passed away on February 6, 2012. For
+five years she battled with inflammatory breast cancer while engaging 
+relentlessly in space science policy, the history and future of space 
+science missions and how they are managed, and encouraging and putting
+a spotlight on the role of women in planetary exploration. Throughout,
+her greatest passion was for her family.
+
+Susan's blog may be read at:
+
+http://toddlerplanet.wordpress.com/
+
+Susan's death has sparked numerous online memorials and commentary.
+A memorial describing more of Susan's career and impact may be found
+at:
+
+http://dps.aas.org/news/susan-niebur-1978-2012
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+LUNAR SWIRLS LUNCHTIME MEETING AT LPSC
+
+We will be having a meeting during the Tuesday lunch hour at LPSC.
+Currently, the only agenda item is discussion of the time, venue, and 
+goals of the next lunar swirls workshop. If anyone has something they 
+would like added to this meeting's agenda, please contact the organizer 
+below.
+
+Please note that lunch will not be provided. Attendees can bring their
+individually procured lunch to enjoy during the meeting. The meeting
+start time will be held off until 12:15 PM to allow some time to obtain 
+a lunch.
+
+Date: Tue 03/20/2012
+Start Time: Noon
+End Time: 1:15 PM
+Room: Panther Creek
+
+For more information contact:
+Georgiana Kramer
+kramer@lpi.usra.edu
+281-486-2141
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CRISM DATA USER WORKSHOP
+
+The 2012 MRO/CRISM Data Users' Workshop will be held in association 
+with the 43rd Lunar and Planetary Science Conference at The Woodlands 
+Waterway Marriott Hotel and Convention Center, The Woodlands, Texas.  
+The workshop will be held in the Shenandoah Room, at 1:00 PM - 5:00 PM, 
+on Sunday March 18, 2012 (the Sunday afternoon of LPSC week).
+
+The Mars Reconnaissance Orbiter (MRO) Compact Reconnaissance Imaging 
+Spectrometer for Mars (CRISM) has been in operation since late 2006 
+and has acquired over 20,000 high spatial and spectral resolution 
+targeted observations of the Martian surface. The 2009 CRISM Data 
+Users' Workshop described data products in detail, and trained 
+attendees on using CRISM-specific software to analyze the data. 
+
+At this second workshop, CRISM team members will review significant 
+updates to PDS-delivered CRISM data products including updated 
+radiometric calibrations, and implementation of a data filtering 
+procedure that addresses systematic and stochastic instrument noise. 
+In addition, new highly derived CRISM data products will be described 
+in detail.
+
+All attendees are requested to register for this event, and due to 
+available space, attendance will be limited to the first 50 
+registrants. To register, please visit the workshop registration site 
+at:
+
+https://secwww.jhuapl.edu/CRISM_Workshop/registration.aspx
+
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+1ST INTERPLANETARY CUBESAT WORKSHOP
+
+29-30 May 2012
+Cambridge, Massachusetts, USA
+http://www.iCubeSat.org
+
+iCubeSat, the Interplanetary CubeSat Workshop, will address the
+technical challenges, opportunities, and practicalities of space
+exploration with CubeSats. The workshop will provide a unique
+environment for open practical collaboration between academic
+researchers, industry professionals, policy makers, and students
+developing this new and rapidly growing field.
+
+Talks and round tables will focus on three themes: technology,
+science, and open collaboration.
+
+Technology: Mason Peck, NASA, Chief Technologist
+Science: Sara Seager, MIT, Professor of Physics and Planetary Science
+
+Talks on astrodynamics, attitude control and determination systems,
+citizen science, communications, landers, launch opportunities, open
+source approaches, outreach, payloads, policy, power systems,
+propulsion, reentry systems, ride-shares, science missions, software,
+standardization, structures, systems engineering, and other related
+topics are all welcome.
+
+1st April 2012  Abstract submission deadline
+15th April 2012 Notification of abstract acceptance
+28th May 2012   Presentation (and optional paper) upload deadline
+
+Please indicate your interest in presenting or attending as soon as
+possible by completing the registration form at:
+
+http://www.iCubeSat.org 
+
+or emailing the organizing committee at
+committee@icubesat.org for more information as places are strictly
+limited. See you in Boston!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SUPPLEMENTAL EDUCATION AND PUBLIC OUTREACH PROGRAMS CANCELLED
+
+The Supplemental Education and Public Outreach (EPO) Programs were 
+designed to allow SMD-funded researchers to design efforts that 
+capitalize upon their own talents, interests, and scientific expertise. 
+By adding an Education or Outreach component to their research 
+investigation, they could engage the public in the excitement of 
+NASA's scientific exploration of our home planet, the solar system, and
+the rest of the universe through stimulating and informative activities 
+that reach a broad and varied audience.
+ 
+The proposed budget for the SMD Education and Public Outreach program 
+is fully subscribed with selected activities; additional EPO supplement 
+selections cannot be accommodated within the proposed budget. This 
+amendment cancels the second (i.e., March 2012) due date for proposals.
+
+[Edited for length.]
+[Editor Note: These programs do not appear in the recently released 
+2012 ROSES and the larger Opportunities in Education and Public 
+Outreach for Earth and Space Sciences program is "Not solicited this
+year."]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+RADAR IN PLANETARY EXPLORATION - FINAL REMINDER
+
+This is a final reminder for your contribution to Symposium 20.3 "Radar 
+in Planetary Exploration" in Theme 20 "Planetary Sciences" at the 
+upcoming IGC (International Geological Congress) in Brisbane, 
+Australia, August 5-10, 2012. See:
+
+http://www.34igc.org/
+
+GPR and SAR radars contribute to our knowledge of the distribution of 
+ice on Earth and Mars, and of the geology of outer solar system 
+planetary bodies, such as Titan. This Symposium welcomes contributions 
+in all areas of radar technology applied to the remote observation of 
+solar system objects.
+
+Keynote Speakers: Stephen WALL (USA) and Roberto SEU (Italy)
+
+The abstract deadline is Friday 17 February 2012. See: 
+
+http://www.34igc.org/submit-abstracts.php
+
+Other planetary sessions include: 
+
+20.1 Surface processes on Mars, 
+20.2 Bio-geomarkers and models in astrobiology, 
+20.4 Lunar research and exploration in the 21st century, 
+20.5 Planets and satellites of the solar system
+
+We look forward to seeing you in Brisbane in August!
+
+Roberto Orosei (roberto.orosei@ifsi-roma.inaf.it) and Jani Radebaugh
+
+[Edited for form.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+space operations, exploration systems, lunar science, or astrobiology.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+9TH INTERNATIONAL PLANETARY PROBE WORKSHOP
+
+The 9th International Planetary Probe Workshop (IPPW-9) will be held 
+at the Institut Superieur de l'Aeronautique et de l'Espace (ISAE) in 
+Toulouse, France on June 18-22, 2012. The workshop will be preceded by 
+a separate two-day short course on "Probe Science Instrumentation 
+Technologies", June 16-17, 2012. The goal of the International 
+Planetary Probe Workshops is to bring together scientists, 
+technologists, engineers, mission designers, and policy makers 
+interested in the technological challenges and scientific 
+opportunities in the exploration of Solar System atmospheres and 
+surfaces using atmospheric entry, descent probes, and aerial vehicles. 
+Topics discussed at the workshop include the political, scientific, and 
+economic outlook for entry probe missions, the science and technology 
+of probes, landers, and penetrators, extreme environment technologies, 
+science instrumentation, entry, descent and landing technologies, site 
+selection, entry and descent trajectory reconstructions, sample return 
+capsules, aerial mobility, and drag, aerobraking and aerocapture 
+techniques. A limited number of student travel grants are available. 
+The deadline for abstract submission is Thursday, March 1, 2012. 
+IPPW-9 is sponsored by NASA, CNES, and ISAE in Toulouse.
+
+For more information about the IPPW-9 conference, the short course, 
+abstract submission, and application for student travel grants, please 
+visit: 
+
+http://www.planetaryprobe.eu/IPPW9/ 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ISS AND MARS CONFERENCE
+
+Explore Mars and International Space University are presenting the 
+International Space Station and Mars Conference in Strasbourg, France 
+on April 12-13, 2012.  Explore Mars is happy to offer members of the 
+PEN list a special discount on registration by visiting the 
+registration page at:
+
+http://www.issmars-europe.eventbrite.com  
+
+To get the special discount, enter the discount code: issmarspen
+
+The ISS and Mars Conference will advance the the discussion started in 
+2011 of how ISS can help advance the goal sending humans beyond LEO and 
+on to Mars.  The conference will feature some of the top names of space 
+exploration in Europe and around the world. Confirmed and tentative 
+speakers include, 
+
+Reinhold Ewald (ESA; astronaut)
+James Garvin (NASA) 
+Diego Urbina (Mars500)
+Ulrich Kuebler (Astrium)
+Franklin Chang Diaz (Ad Astra Rocket; former NASA astronaut) 
+Michael Raftery (Boeing)  
+Sam Scimemi (NASA) 
+
+and many others.
+
+Attendees to the conference will also be able to attend the ISU 25th 
+Anniversary/Yuri's Night Reception on April 12th at ISU. This will be 
+an exciting and inspiring party on the anniversary of Yuri Gagarin's 
+flight and ESA Director General, Jean-Jacques Dordain has tentatively 
+agreed to speak at this reception.
+
+Chris Carberry
+Executive Director
+Explore Mars, Inc
+617-909-4425
+carberry@exploremars.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a 
+NASA-funded project studying the nature of mantle convection on Mars 
+and its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct 
+research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics with 
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in a 
+Linux environment will be an asset. The position will be offered for 
+an initial period of two years with a possible extension to a maximum 
+of three years.
+
+Applicants should send a letter of interest, a curriculum vita listing 
+relevant publications, a brief (maximum three pages) statement of 
+research interests, and a list of three references to 
+resume@lpi.usra.edu.  
+
+Review of candidates will begin on March 15, 2012, with a hiring 
+decision as soon as possible thereafter. Further information about LPI 
+can be found at:
+
+http://www.lpi.usra.edu
+
+USRA is an Equal Opportunity Employer.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MEPAG AGENDA FOR UPCOMING MEETING POSTED
+
+http://mepag.jpl.nasa.gov/meeting/feb-12/index.html
+
+The updated agenda for the MEPAG meeting in Washington, DC, on February
+27-28, 2012 reflects activities set in motion by the President's budget 
+release on February 13. We will hear from key Headquarters personnel; 
+we are pleased that Associate Administrator John Grunsfeld is presently 
+planning to attend. Please join us for the meeting or watch via WebEx.
+
+Joyce N. Pulliam
+
+[Edited for content.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 12-13, 2012
+ISS and Mars Conference
+http://www.issmars-europe.eventbrite.com
+Strasbourg, France
+
+May 29-30, 2012
+1st Interplantary CubSat Workshop
+http://www.iCubeSat.org
+Cambridge, MA
+
+May 29 - June 2, 2012
+The Warm Universe: Astrochemistry at Intermediate and Elevated 
+Temperatures
+http://www.physto.se/~wgeppert/Tallinn2012/
+Tallinn, Estonia
+
+August 6-10, 2012
+Cosmic Dust
+https://www.cps-jp.org/~dust/Welcome.html
+Kobe, Japan
+
+September 20-23, 2012
+International Meteor Conference 2012
+http://www.imo.net/imc2012/
+La Palma Island, Spain
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

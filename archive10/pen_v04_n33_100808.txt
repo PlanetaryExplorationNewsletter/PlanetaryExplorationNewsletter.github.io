@@ -1,0 +1,366 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 4, Number 33 (August 8, 2010)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Mark V. Sykes, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Change in NSPIRES Treatment of NASA CS Salaries
+2. Fall AGU Session:  P03.  Evolution of Planetary Atmospheres
+3. Fall  AGU Session:  P17.  Icy Ocean Worlds
+4. Fall AGU Session on Planetary Science From Multiple-Spacecraft
+   Observations
+5. Outer Planets Colloquium Series
+6. MEPAG Meeting Announcement
+7. [NASA] Announcement of Opportunity (AO) Discovery 2010 Amendment 2
+8. USGS Research Position Announcement
+9. [NASA] PDS Releases LCROSS Data
+10. [NASA] PDS Small Bodies Node and ESA Planetary Science Archive 
+    Announce Release of Rosetta Orbiter Data
+11. OPAG September Meeting -- Europa Jupiter System Mission
+12. Planetary Calendar Meeting Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] CHANGE IN NSPIRES TREATMENT OF NASA CS SALARIES
+
+There is a change in how NASA Civil Servant (CS) salaries should be 
+put into NSPIRES. This applies not only to proposals from NASA Centers, 
+but also to all proposals that have NASA CS Co-Investigators, 
+regardless of who is submitting the proposal.
+
+Starting with C.24 Moon and Mars Analog Missions Activities and for all 
+ROSES proposals due after mid August 2010, the NSPIRES web cover page 
+budgets should no longer include the cost of NASA CS salaries. 
+However, for the purpose of peer review, the proposal's detailed budget 
+should continue show the total funding required, including CS salaries. 
+In addition, the proposal's narrative must clearly indicate the NASA CS 
+FTEs that are being applied to the proposed investigation. Please note 
+that this does not apply to JPL scientist nor does it apply to civil 
+servants from other government agencies, such as USGS.
+
+A guide for proposers can be found at:
+
+http://science.nasa.gov/researchers/sara/how-to-guide/nspires-CSlabor/
+
+where it can also be downloaded as a PDF file.  This is one of a few 
+NSPIRES guides that can be found in the Max's NSPIRES helpful hints 
+section of the web site.
+
+Max Bernstein
+SARA@nasa.gov
+
+(Editor note: Edited for length)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+FALL AGU SESSION:  P03. EVOLUTION OF PLANETARY ATMOSPHERES
+
+Understanding the evolution of planetary atmospheres is one of the most 
+challenging topics in planetary sciences. The competing influences of 
+planetary geology, geochemistry, climate, atmospheric chemistry, and 
+biology (on the Earth) need to be weighed. While geochemical and 
+geological data provide constraints for the Earth, data from planetary 
+mission and astronomical observations are necessary for other planets. 
+Extrasolar planets have heightened interest in planetary atmospheres, 
+for it is by analysis of their atmospheres that we will assess the 
+characteristics and habitability of these objects. This session 
+welcomes both observational and theoretical studies relevant to 
+evolution of planetary atmospheres in and out of our solar system. 
+
+For more information about the session, please contact:
+ 
+feng.tian@colorado.edu
+
+For more information about the meeting or to submit an abstract, see:
+
+http://www.agu.org/meetings/fm10/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+FALL AGU SESSION P17: ICY OCEAN WORLDS
+
+Strong evidence exists for liquid water oceans in several of the Solar 
+System's icy worlds. These include the icy Galilean satellites Europa, 
+Ganymede, and Callisto, as well as Saturn's moons Titan and Enceladus. 
+Some medium-sized icy bodies, including Triton and the icy dwarf 
+planets, may also contain (or have once contained) oceans. This session 
+encourages presentations related to oceans within icy bodies, including 
+their geological and geophysical signatures, composition, material 
+exchange processes, and potential habitability.
+
+Conveners:  Robert Pappalardo and Steve Vance, JPL/Caltech
+
+For more information about the session, please contact:
+
+robert.pappalardo@jpl.nasa.gov 
+
+or 
+
+svance@jpl.nasa.gov 
+
+For more information about the meeting or to submit an abstract, see:
+
+http://www.agu.org/meetings/fm10/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FALL AGU SESSION ON PLANETARY SCIENCE FROM MULTIPLE-SPACECRAFT 
+OBSERVATIONS
+ 
+Science From Multi-Spacecraft Observations: The Moon, Mars, and 
+Jupiter
+ 
+Recently, the Japanese Kaguya (SELENE) three-satellite mission 
+demonstrated a new multi-spacecraft capability to explore the Moon. 
+Currently, there are several missions orbiting Mars that can perform 
+coordinated and synergistic observations to enhance the global science 
+return beyond that achievable independently by each spacecraft. The 
+Europa Jupiter System Mission (EJSM) planned by NASA and ESA includes 
+two spacecraft, one to orbit Europa and one to orbit Ganymede, and JAXA 
+is studying a companion magnetospheric orbiter.  This session invites 
+contributions that address the unique science opportunities for 
+synergistic and complementary observations made possible by 
+multi-spacecraft exploration of solar system objects.
+ 
+For more information about the session, please contact:
+
+jean-pierre.lebreton@esa.int
+david.a.senske@jpl.nasa.gov
+krupp@mps.mpg.de
+or sho@miz.nao.ac.jp
+
+For more information about the meeting or to submit an abstract, see:
+ 
+http://www.agu.org/meetings/fm10/
+
+ 
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OUTER PLANETS COLLOQUIUM SERIES
+
+Would your institution like a colloquium presentation from an 
+expert in outer solar system science, at no expense?  Would you 
+like travel support to share your outer solar system research?  
+Presenters and host institutions are sought for the Outer Planets 
+Colloquium Series, a program that matches planetary scientists with 
+university campuses and research institutions.  
+
+Participation is open to two- and four-year undergraduate colleges, 
+and to research institutions throughout the United States. Host 
+institutions commit to making the necessary local arrangements. 
+Presenters are encouraged to address the needs of graduate students, 
+interns, and undergraduates and to give an additional presentation 
+that is free to the public. Other interactions that increase 
+awareness of outer solar system science may also be considered as part 
+of the visit.
+
+A range of topics is anticipated on the basis of speaker participation.  
+A current list of presenters and their prospective talks is provided on 
+the Series website.  Those interested in becoming speakers are 
+encouraged to apply using the online application form.
+
+The Colloquium Series will cover the presenter's travel expenses.  
+There will be no honorarium for the speaker.
+
+Application details and further information may be found at:
+
+http://outerplanets.jpl.nasa.gov/
+
+(Editor note: Edited for length)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MEPAG MEETING ANNOUNCEMENT
+
+You are invited to attend the next MEPAG meeting, which will be held 
+Thursday-Friday, September 30-October 1, in Monrovia, CA.
+
+http://mepag.jpl.nasa.gov/meeting/sep-10/
+MEPAG_23_1st_circular-logistics.pdf
+
+This MEPAG meeting will be held the two days immediately following the 
+4th MSL Landing Site Workshop (September 27-29, 2010), and at the same 
+location, and all members of the community are welcome to attend both.
+
+We will adjourn the meeting by noon on Friday so that travelers can 
+catch the afternoon flights home.  Although this meeting has no 
+registration fee, we do request RSVPs to Joyce Pulliam so that we can 
+plan the logistics properly.
+
+joyce.n.pulliam@jpl.nasa.gov
+ 
+Dave Des Marais
+MEPAG Chair
+
+(Editor note: Edited for length)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] ANNOUNCEMENT OF OPPORTUNITY (AO) DISCOVERY 2010 AMENDMENT 2
+
+With this amendment, the NASA Announcement of Opportunity (AO) 
+NNH10ZDA007O "Discovery 2010" has been amended to clarify two AO 
+requirements regarding technology infusion planning to explicitly 
+include the Advanced Stirling Radioisotope Generator (ASRG).
+
+Requirement 89 and Requirement 90 have been amended to explicitly 
+apply to proposals that use ASRGs (this was implied but not explicit).
+
+This amendment is posted on the NASA research opportunity homepage at:
+
+http://nspires.nasaprs.com/ 
+(select "Solicitations" then "Open Solicitations" then "NNH10ZDA007O")
+
+Questions concerning the Discovery 2010 AO may be addressed to:
+
+Dr. Michael H. New, Discovery Program Scientist
+Planetary Science Division
+Science Mission Directorate
+NASA Headquarters, Washington, DC 20546
+
+(202) 358-1766
+Michael.H.New@nasa.gov 
+(subject line to read "DISCOVERY AO")
+
+(Editor note: Edited for length)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+USGS RESEARCH POSITION ANNOUNCEMENT
+
+The U.S. Geological Survey Astrogeology Science Center in Flagstaff, 
+Arizona, has a two-year full-time research position now posted online. 
+The position is at the GS-12 grade level (comparable to a post-doctoral 
+researcher in academia). Funded by the NASA Planetary Geology and 
+Geophysics (PGG) Program, this position is generally known as the NASA 
+"Shoemaker Fellow", in honor of Dr. Eugene Shoemaker. The selected 
+Fellow will work at the Astrogeology Science Center in Flagstaff on a 
+variety of research projects in planetary science. The position is 
+managed and supervised by the Astrogeology Science Center
+
+http://astrogeology.usgs.gov/
+
+The application opportunity will be open from 7/29/10 to 8/18/10. 
+
+To apply, go to USAJOBS: 
+
+http://www.usajobs.gov 
+
+and view Vacancy Announcement Number WR-2010-0471 for a position as 
+Geologist, Geophysicist, or Physical Scientist. Applicants must apply 
+online by the closing date of the announcement (midnight Eastern Time 
+on 8/18/2010). If you are already an existing registered user you do 
+not need to create a new account in USAJOBS. If however, this is your 
+first time using USAJOBS please visit:
+
+http://www.usajobs.com/FIRSTTIMERS.ASP
+
+for tutorials and additional information for creating a user account 
+on USAJOBS and applying for Federal employment. Please note the new 
+requirement for college transcripts.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS RELEASES LCROSS DATA
+ 
+PDS is pleased to announce the release of Lunar Crater Observation and 
+Sensing Satellite (LCROSS) data from the following instruments:
+
+Mid Infrared Cameras 1 and 2 (MIR1 and MIR2)
+Near Infrared Cameras 1 and 2 (NIR1 and NIR2)
+Near Infrared Spectrometers 1 and 2 (NSP1 and NSP2)  
+Total Luminance Photometer (TLP)
+Visible Camera (VIS)
+Visible Spectrometer (VSP)
+ 
+LCROSS was launched on June 18, 2009, and impacted the moon on 
+October 9, 2009. Data were collected from shortly after launch, 
+through the impact of the spent Centaur fuel container that served as 
+the primary observation target, to the impact of the LCROSS spacecraft 
+itself minutes later.
+ 
+This release also contains data of the LCROSS impact from earth-based 
+observatories:
+
+The Agile instrument on the Apache Point Observatory 3.5m telescope
+The CCD47 camera and CLIO imager and spectograph on the MMT 
+     Observatory 6.5m telescope
+The Portable High-speed Occultation Telescope Doc (PHOTDOC) and GJON 
+     (PHOTGJON) cameras on the Magdalena Ridge Observatory 2.4m 
+     telescope
+
+Several more earth-based data sets will be released at a later date.
+ 
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20100805.html
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] PDS SMALL BODIES NODE AND ESA PLANETARY SCIENCE ARCHIVE 
+ANNOUNCE RELEASE OF ROSETTA ORBITER DATA
+
+Small Bodies Node (SBN) of the NASA Planetary Data System and ESA 
+Planetary Science Archive (PSA) are pleased to announce release of the
+data of Rosetta mission (orbiter instruments). The release contains 
+the data acquired before the asteroid Steins flyby, i.e. calibration, 
+commissioning, Earth swingby, and cruise (including some observations 
+of comet 9P/Tempel 1) data.
+
+The data can be seen at and downloaded from the PDS SBN website:
+ 
+http://pdssbn.astro.umd.edu/missions/rosetta/ 
+
+and from the PSA ftp site:
+
+ftp://psa.esac.esa.int/pub/mirror/INTERNATIONAL-gy plans, and the 
+opportunities this presents for outer planets science and exploration.  
+Additional logistical details are forthcoming - please mark your 
+calendars and plan on attending this meeting.
+
+Contact:  mckinnon@wustl.edu
+
+
+12-12-12-12-12-12-1212-12-12-12-12-12-1212-12-12-12-12-12-1212-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+October 4-6, 2010
+GMT2010: Opening New Frontiers with the Giant Magellan Telescope
+http://astro1.snu.ac.kr/gmt2010/
+Seoul, Korea 
+
+October 18-22, 2010
+Graduate School in Astronomy XV Special Advanced Courses
+http://www.on.br, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************

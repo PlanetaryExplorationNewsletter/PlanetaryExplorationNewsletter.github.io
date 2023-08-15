@@ -1,0 +1,490 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 4 (January 27, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Support Furloughed NASA Post-docs
+2. [NASA] Delay of Due Date for Solar System Workings 
+3. [NASA] FINESST: Delay of Proposal Due Date
+4. Lunar ISRU Workshop Delayed 
+5. International Meeting on Paleoclimate: Change and Adaptation
+6. Swedish Institute of Space Physics is Looking for Three PhD Students
+7. Cassini Science Symposium, May 20-24
+8. AOGS Session PS02: Plasma - Surface Interactions with Airless Bodies
+   in the Solar System
+9. AOGS Session ST08: Magnetic Flux Rope Throughout the Solar System
+10. Fully-Funded PhD on Surface Wind Modelling on Mars
+11. Pellas-Ryder Award Nominations for Best Student Paper in Planetary
+    Sciences
+12. Button Art Competition Submissions Due by February 1
+13. Call for Abstracts: Pluto System After New Horizons Conference
+14. Europlanet Cometary Plasma Science Workshop
+15. European Lunar Symposium
+16. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+SUPPORT FURLOUGHED NASA POST-DOCS
+
+https://www.gofundme.com/funding-furloughed-nasa-postdocs
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] DELAY OF DUE DATE FOR SOLAR SYSTEM WORKINGS
+
+Because of the Government shutdown, the proposal due date for C.3 Solar
+System Workings has been changed from January 31, 2019 to TBD. A new
+due date will be set for this program, and announced later.
+
+It is expected that some additional time will be provided because there
+are proposers who have been unable to work because of the shutdown.
+Please note that the due date shown in NSPIRES is NOT a  proposal due
+date; the system requires a specific date be used rather than "TBD".
+
+Go to:
+
+http://nspires.nasaprs.com/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] FINESST: DELAY OF PROPOSAL DUE DATE
+
+Because of the government shutdown, the proposal due date for Future
+Investigators in NASA Earth and Space Science and Technology(FINESST)
+has been changed from February 1, 2019 to TBD. A new due date will be
+set for this program after the government returns. It is expected that
+some additional time will be provided because there are  proposers who
+have been unable to work because of the shutdown. Please note that the
+due date shown in NSPIRES is NOT a proposal due date; the system
+requires a specific date be used rather than "TBD".
+
+Go to:
+
+http://nspires.nasaprs.com/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LUNAR ISRU WORKSHOP DELAYED 
+
+Despite the recent announcement of a temporary funding measure to open
+the government, there is no guarantee that this will become permanent.
+This situation has had a debilitating effect on our Lunar ISRU
+Workshop, not only in terms of getting NASA participation, but also
+support from USRA. At this time, we have no choice but to postpone the
+workshop. If your presentation has been accepted, it will remain so.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+INTERNATIONAL MEETING ON PALEOCLIMATE: CHANGE AND ADAPTATION
+
+Coimbra, Portugal
+18-19 July, 2019
+ 
+The Directors of the Geosciences Centre (CGEO) and of the Centre for
+Earth and Space Research (CITEUC) of the University of Coimbra
+(Portugal) invite members of your institution to participate in the
+International Meeting on "Paleoclimate: Change and Adaptation", at the
+University of Coimbra (Portugal), on the 18th-19th June, 2019. The goal
+is to promote an open discussion on paleoclimatic signals in order to
+improve our look at the present and to ground future perspectives.
+Research topics covers, without being limited to, the following areas:
+
+T1 - Paleoclimates in the Solar System: external forcing and divergent
+evolutions
+
+T2 - Climate changes in geological time: lessons to learn
+
+T3 - Climate memory in the geological record
+
+T4 - Climate changes and human adaptations throughout the Quaternary
+
+T5 - Climatic events and human-environment interactions in the Holocene
+ 
+A Special Issue of papers for the "International Meeting on
+Paleoclimate" meeting will be launched by Geosciences (ISSN 2076-3263;
+CODEN: GBSEDA), an interdisciplinary, international peer-reviewed open
+access journal of geoscience, future earth and planetary science
+published monthly online by MDPI.
+ 
+Registration and additional information:
+
+https://paleoclimate2019.wixsite.com/paleoclimate2019
+ 
+Maria Helena Henriques (CGEO) and Joao Fernandes (CITEUC)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+SWEDISH INSTITUTE OF SPACE PHYSICS IS LOOKING FOR THREE PHD STUDENTS
+
+The positions are related to studies of space plasmas.
+
+Applications are invited for PhD students to study space plasma regions
+of fundamental importance, such as magnetic reconnection sites, shocks,
+turbulence regions, ionospheres and kinetic processes there. We are
+looking for students in each of the following science topics:
+
+1. Characterization of energy conversion and identification of the
+mechanisms of particle acceleration operating in turbulent layers
+formed at fronts of plasma jets, based on experimental data from the
+NASA multi-spacecraft MMS mission. 
+
+2. Understanding of electron heating and energetic electron generation
+at collisionless shocks, in particular resolving the mechanisms of the
+non-adiabatic processes using MMS data. 
+
+3. Understanding Saturn's ionosphere and the influence of the rings on
+the ionization balance using models and data acquired during the Grand
+Finale of the NASA Cassini mission.
+
+Last Application Date: 2019-02-28
+
+http://www2.irf.se/Topical/Vacancies/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CASSINI SCIENCE SYMPOSIUM, MAY 20-24
+ 
+The Cassini Project will host a five-day Cassini Science Symposium May
+20 -24, 2019 to review the latest findings on the Saturn system and
+Jupiter-Saturn synergies, including the interpretation and synthesis of
+results. The meeting will be hosted by the Applied Physics Laboratory
+(APL) in Laurel, Maryland.
+
+Abstracts will be due March 1, 2019. Early registration ends April 15.
+Symposium information can be found at:
+
+http://civspace.jhuapl.edu/News-and-Events/events/cassini/
+
+Sessions will include review talks as well as invited and contributed
+talks on the latest Cassini findings on the Saturn system. Sessions
+will include interdisciplinary talks that will cover the following
+disciplines: Rings, Titan, Icy Satellites, Magnetospheres and Planets.
+Talks emphasizing Saturn-Jupiter synergies are encouraged. 
+Discipline-focused workshops will also be held during the late
+afternoons. This Symposium will serve as a springboard for future
+studies and space missions. Future mission posters are welcome.
+
+We hope to see you there.
+ 
+Linda J. Spilker
+Chair, Symposium Organizing Committee
+ 
+Organizing Committee:
+Bonnie Buratti
+Josh Colwell
+Jeff Cuzzi 
+Scott Edgington
+Tamas Gombosi
+Amanda Hendrix
+Norbert Krupp
+Andy Ingersoll
+Jonathan Lunine
+Don Mitchell (LOC)
+Mark Perry (LOC)
+Abi Rymer (LOC)
+Darrell Strobel
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AOGS SESSION PS02: PLASMA - SURFACE INTERACTIONS WITH AIRLESS BODIES IN
+THE SOLAR SYSTEM
+
+We would kindly like to bring to your attention our session entitled
+"Plasma - Surface Interactions with Airless Bodies in the Solar
+System", organized at the 2019 Asia Oceania Geosciences Society (AOGS)
+meeting, held from 28 July to 2 August in Singapore.
+
+In this session we invite contributions that will move forward our
+understanding of fundamental plasma-surface interaction mechanisms with
+airless bodies in our Solar System. Investigations that explore key
+challenges by exploiting the synergies between in-situ observations,
+simulations models and laboratory experiments to characterize the
+fundamental physical processes determining the global and local
+near-surface plasma environments are especially welcomed. 
+
+Full session details here:
+
+https://www.meetmatt-svr.net/Public/SessionDetailsPartial?id=13
+
+With many successful missions to airless bodies recently completed,
+currently active, and in preparation, and with both simulation models
+and laboratory experiments resolving the finer details of plasma
+interactions better each year, this will surely be an exciting session!
+
+Feel free to spread this announcement. Before February 12, submit your 
+abstract here:
+
+http://www.asiaoceania.org/aogs2019/public.asp?page=abstract.htm
+
+Thank you, we look forward to seeing you in Singapore!
+
+Jan Deca, Li Hsia Yeo, Charles Lue
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AOGS SESSION ST08: MAGNETIC FLUX ROPE THROUGHOUT THE SOLAR SYSTEM
+ 
+At the AOGS 2019 conference held in Singapore 28 July - 2 August 2019,
+we will convene a session titled: "ST-08 Magnetic Flux Rope Throughout
+the Solar System".
+
+We invite abstracts that address a wide range of topics on the
+fundamental physics of magnetic flux ropes from the solar atmosphere to
+the magnetospheres of Earth and planets (inner and outer planets,
+including Venus and Mars) using spacecraft observations, theoretical
+analysis, and numerical simulations. Magnetic flux rope is one of the
+most fundamental magnetic structures in space plasma physics and are
+ubiquitous in the solar system. They can exist in a wide range of
+spatial scales, from tens-of-million km coronal mass ejection in
+interplanetary space, to tens-of-thousands km flux transfer events and
+plasmoid-type flux ropes in global/induced planetary magnetospheres,
+down to the electron inertial scale length magnetic islands forming
+during the early stages of reconnection in thin current sheets. Despite
+having been extensively studied using classical plasma theory,
+numerical simulations and observations, many aspects of magnetic flux
+ropes remain unexplored, primarily their origins, dynamics (e.g.
+plasmoid instability) and their effects on field-aligned current
+generation, energetic particle acceleration and thermal plasma
+transport. 
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+FULLY-FUNDED PHD ON SURFACE WIND MODELLING ON MARS
+
+Research team based in UK and co-supervised by researchers in CalTech
+and SETI. Mars has widespread deposits of sand-sized sediments forming
+significant wind-blown dune fields of various typologies and scales.
+Understanding the dynamics of surface atmospheric boundary layers is
+therefore paramount in examining Mars' landform dynamics.
+
+Most research efforts have focussed on Mars atmospheric circulation at
+very large scales using Global Climate Models (GCMs). Temporal and
+spatial scales of these models are good first principles in
+understanding atmospheric-surface interactions, but are much too coarse
+when trying to understand surface landform dynamics. 
+
+Recent efforts have employed
+microscale computational fluid dynamics modelling to investigate
+atmospheric surface interactions and dune surface changes. Several
+state-of-the-art numerical atmospheric modelling tools will be used,
+including a Mars GCM, a regional Mars mesoscale climate model, and a
+computational fluid dynamics model (OpenFOAM). Geospatial and
+geomorphic analysis of relevant spacecraft imagery and other
+observational data will be used to constrain and validate the modelling
+results. 
+
+Overall objective: to combine macro- to meso- to micro-scale
+airflow modelling for a more realistic modelling of meter-scale airflow
+involved in the time-evolution of aeolian features on Mars.
+Full info and deadlines: 
+
+https://www.ulster.ac.uk/doctoralcollege/find-a-phd/342205   
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PELLAS-RYDER AWARD NOMINATIONS FOR BEST STUDENT PAPER IN PLANETARY
+SCIENCES DUE JANUARY 31
+ 
+This award, which is jointly sponsored by the Meteoritical Society and
+the Planetary Geology Division of the Geological Society of America, is
+awarded to an undergraduate or graduate student who is first author of
+the best planetary science paper published in a peer-reviewed
+scientific journal during the year prior to the award. Potential topics
+include: Asteroids, Comets, Craters, Interplanetary Dust, Interstellar
+Medium, Lunar Samples, Meteors, Meteorites, Natural Satellites,
+Planets, Tektites, Origin and History of the Solar System.
+
+The first author must have been a registered student at a degree
+awarding institution at the time the paper was submitted to the
+publishing journal. Two letters of certification are required: (1) From
+the student's department head attesting that the individual was a
+student at the time of paper submission to the publishing journal; (2)
+From the student's advisor detailing the portion of the work done by
+the student and contributed by others including the advisor.
+
+The deadline for nominations of 2018 papers is January 31. Submissions
+(PDF) for consideration should be emailed to the Chair of the Selection
+Committee, Prof. Jon Friedich (friedrich@fordham.edu). Further
+information here:
+
+https://community.geosociety.org/pgd/awards/pellas-ryder
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+BUTTON ART COMPETITION SUBMISSIONS DUE BY FEBRUARY 1
+
+Attention planetary artists! The Planetary Geology Division (PGD) of
+the Geological Society of America (GSA) is holding a Button Art
+Competition to determine the design of buttons to be distributed at the
+2019 Lunar and Planetary Science Conference (LPSC). Those wishing to
+submit artwork must follow these guidelines: (1) the design must be
+completed within a 6 cm diameter circle, (2) the letters "PGD" and year
+"2019" must be included as a central feature in the artwork, (3) the
+scanned or saved image sent to the PGD must be clear. Group submissions
+are allowed. 
+
+Send submissions to mallory.kinczyk@ncsu.edu by February 1, 2019. 
+
+Contact mallory.kinczyk@ncsu.edu or Kelsey.crane@uga.edu with questions
+about the competition.
+
+ 
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+CALL FOR ABSTRACTS: PLUTO SYSTEM AFTER NEW HORIZONS CONFERENCE
+
+The Pluto System After New Horizons (PSANH) conference will provide
+an opportunity to summarize our understanding of the Pluto system and
+the Kuiper belt following the New Horizons encounters with Pluto and
+2014 MU69 (Ultima Thule). Contributions spanning all relevant research
+on the Kuiper belt, including both observations and theory, are being
+solicited.
+
+The conference will take place July 14-18, 2019 at the Johns Hopkins
+Applied Physics Laboratory in Laurel, Maryland, USA. Abstracts can now
+be submitted at the PSANH website:
+
+https://www.hou.usra.edu/meetings/plutosystem2019/
+
+The abstract deadline is May 2, 2019 at 5:00 pm Central Daylight
+Savings Time (GMT-5). Registration details will be announced at this
+website on March 15, 2019.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+EUROPLANET COMETARY PLASMA SCIENCE WORKSHOP
+
+Helsinki,Finland
+March 28-29, 2019
+
+We welcome contributions to the Europlanet sponsored cometary plasma 
+science workshop hosted by the Rosetta Plasma Consortium (RPC).
+
+The scope of the workshop covers all cometary plasma physics related
+topics, including the comet 67P/Churyumov-Gerasimenko and the Rosetta
+mission, other comets and missions as well as remote sensing, theory
+and laboratory studies.
+
+The organizer of the workshop is the Aalto University (Espoo, Finland) 
+and it will be held at the Finnish Meteorological Institute at the 
+Kumpula Campus in Helsinki.
+
+For further information and registration please follow this link:
+
+http://space.aalto.fi/cometplasma2019/
+
+Deadline for the registrations is March 1, 2019.
+
+Sincerely,
+
+Local Organizing Committee:
+
+Esa Kallio, Aalto University
+Riku Jarvinen, Aalto University
+Markku Alho, Aalto University
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+EUROPEAN LUNAR SYMPOSIUM
+
+We are pleased to announce that the abstract submission is now open for
+the 7th European Lunar Symposium (ELS), which will be held in
+Manchester, UK on 21-23 May 2019.
+
+Please note that because of the continuing shutdown of the US
+Government, the primary website for ELS 2019 is currently unavailable.
+For now we have thus put together a temporary page where you can
+download the abstract template and submit your abstract, and which
+should provide sufficient information about registration processes and
+deadlines. Please bookmark this page as we will provide further updates
+as and when necessary. For any query, please e-mail:
+romain.tartese@manchester.ac.uk and/or
+europeanlunarsymposium@gmail.com
+
+To submit your abstract please visit: 
+
+http://sservi.nasa.gov/els2019
+
+Please make a note of the following important dates: 
+
+Registration opens: 1 January 2019
+Abstract submission closes: 12 February 2019
+Early-bird registration closes: 7 April 2019
+
+To register for ELS, please visit: 
+
+https://estore.manchester.ac.uk/conferences-and-events/faculty-of-
+science-engineering/school-of-electrical-and-electronic-engineering/
+european-lunar-symposium-2019/european-lunar-symposium-2019
+
+The number of attendees is limited by room capacity, and we will take
+registration on a 1st come, 1st served basis.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 28-29, 2019
+Europlanet Cometary Plasma Science Workshop
+http://space.aalto.fi/cometplasma2019
+Helsinki, Finland
+
+May 20-24, 2019
+Cassini Science Sympoium
+http://civspace.jhuapl.edu/News-and-Events/events/cassini
+Laurel, MD
+
+July 18-19, 2019
+International Meeting on Paleoclimate: Change and Adaption
+https://paleoclimate2019.wixsite.com/paleoclimate2019
+Coimbra, Portugal
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,575 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 11, Number 2 (January 8, 2017)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. TEPS Graduate Fellowships in Planetary/Exo-Planetary Science
+2. [NASA] PDS - New Horizons, BOPPS, And Rosetta Data Releases by the 
+   Small Bodies Node
+3. [NASA] PDS - Odyssey Data Release 58
+4. 2017 Exoplanet Summer Program
+5. Astrobiology Science Conference Session: Assessing Ceres' Past and 
+   Present Habitability and Relevance to Ocean Worlds
+6. Astrobiology Science Conference Session: Biosignature Detection on 
+   Mars - Where, What, When, Why and How?
+7. AOGS 2017, Session PS15: Volcanism and Tectonism Across the Solar 
+   System
+8. Early Career Participant Support Available for NASA Outer Planets 
+   Assessment Group Meeting in Atlanta
+9. EGU 2017, Session PS8.2: Hyperspectral Data Measurements and 
+   Analysis to Support Planetary Exploration
+10. Mars Exploration Science Monthly Newsletter for January 2017
+11. NextProf Science - Future Faculty Workshop
+12. NASA Pre-Proposal Conference for the New Frontiers 4 AO
+13. Next-Generation Suborbital Researchers Conference
+14. Rock-Hosted Life Webinar Information
+15. [NASA] PDS - Cassini Data Release 48
+16. European Geosciences Union (EGU) Conference
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+TEPS GRADUATE FELLOWSHIPS IN PLANETARY/EXO-PLANETARY SCIENCE
+
+The Technologies for Exo/Planetary Science (TEPS) NSERC CREATE program 
+is seeking graduate student applicants for funding. TEPS is an 
+interdisciplinary program that brings together researchers in 
+planetary science, exoplanetary astronomy and those involved in 
+instrument development across academia, industry and government. The 
+term length of funding is 2 years for MSc and 4 years for PhD. 
+Eligible MSc and PhD candidates are students that will be accepted 
+for graduate studies at one of the participating universities 
+between January 2017 and December 2017. In this cycle, TEPS has 
+funding for 4 MSc and 2 PhD trainees.  
+
+The application package should include:  
+- Names of confirmed supervisor and co-supervisor. Potential 
+  applicants are required to have their supervisors confirmed before 
+  submitting their application.
+- one-page (max) description of the research project
+- Transcript of academic records
+- CV, including a publication list
+- One Letter of reference  
+
+The applications and letters of reference should be sent 
+electronically in pdf format to teps@yorku.ca no later than 
+3 February 2017. Results will be released towards the end of 
+February 2017. For more information about the TEPS program and 
+for a complete list of participating institutions and potential 
+supervisors, please visit:
+
+http://teps.science.yorku.ca 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS - NEW HORIZONS, BOPPS, AND ROSETTA DATA RELEASES BY THE 
+SMALL BODIES NODE
+
+Small Bodies Node of the NASA Planetary Data System is pleased to 
+announce that the following data for the New Horizons mission 
+instruments have been released:
+
+* Pluto Encounter (including P2 delivery) and Cruise raw and 
+  calibrated data, version 2: Alice, LEISA, LORRI, MVIC
+* Post-Launch and Jupiter Flyby raw and calibrated data, 
+  version 3: LORRI
+
+The datasets are released as PDS certified, in lien resolution; 
+the data, as well as mission and instrument information, are 
+available at:
+
+http://pdssbn.astro.umd.edu/
+
+At this website you can also find the link to the recently archived 
+data from Balloon Observation Platform for Planetary Science 
+(BOPPS), 2014 observations.
+
+We have also released the following Rosetta-Orbiter datasets for 
+comet 67P/Churyumov-Gerasimenko:
+
+* GIADA Escort 4 Raw and Calibrated Data
+* ROSINA Escort 4 Raw Data
+* MIDAS Escort 3 Calibrated Data
+* RPCLAP Escort 2 Edited Data
+* OSIRIS Escort 2 MTP014-MTP016 Raw and Calibrated Data
+
+The datasets are ESA PSA certified. To see and download the data 
+as well as mission and instrument information, go to: 
+
+http://pdssbn.astro.umd.edu/
+
+The data can be also accessed through the ESA PSA website:
+
+http://www.sciops.esa.int/index.php?project=PSA&page=rosetta
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS - ODYSSEY DATA RELEASE 58
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Odyssey Data, Release 58, for the following instruments:
+
+* GRS
+* THEMIS
+* RADIO SCIENCE (Releases 171-173)
+* SPICE
+
+The gamma sensor component of the GRS instrument suite no longer 
+returns data. The HEND and neutron spectrometer components continue 
+to operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170104.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+2017 EXOPLANET SUMMER PROGRAM
+
+June 26 - July 21, 2017
+
+http://owl.ucsc.edu/visitors/
+
+The Other Worlds Laboratory (OWL) at the University of California, 
+Santa Cruz (UCSC) announces the 2017 Exoplanet Summer Program (ESP). 
+Within the program we wish to foster new and existing research 
+collaborations by outstanding visitors, with stays of 1 to 4 weeks.
+
+Program: The purpose of the program is to allow visitors to generate 
+new ideas, nurture existing research projects and collaborations, 
+and foster new ones. There is no theme or focus area - in this 
+fast-moving exoplanets field we want the participants to drive the 
+discussion and work on areas they feel is most pressing and exciting.
+We imagine an ESP program that is modest in terms of planned 
+activities, besides a daily coffee and seminar with active 
+discussion. Participants can expect access to shared offices on 
+campus, discussion common areas, and of course immersion in Santa 
+Cruz's natural beauty.
+
+Eligibility: Faculty, researchers, postdocs, and graduate students 
+at any level are invited to apply. Funding is limited, so 
+participant travel support will range from partial to full.
+
+Deadlines: Applications that are received by January 15th, 
+February 15th, and March 15th, 2017, will be reviewed on a rolling 
+basis.
+
+[Edited for length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+ASTROBIOLOGY SCIENCE CONFERENCE SESSION: ASSESSING CERES' PAST AND 
+PRESENT HABITABILITY AND RELEVANCE TO OCEAN WORLDS
+
+Abstracts are welcome for the following session planned during the 
+Astrobiology Science Conference (AbSciCon 2017) that will take 
+place during the week of April 24-28 in Mesa, Arizona. 
+
+Abstracts are due by January 18.
+
+http://www.hou.usra.edu/meetings/abscicon2017/program-abstracts/
+
+Topic: Assessing Ceres' Past and Present Habitability and Relevance 
+to Ocean Worlds
+
+Session Summary: Long before Dawn's rendezvous in 2015 it was 
+suspected that Ceres, a dwarf planet and the largest body between 
+Mars and Jupiter, may once have harbored liquid water in its deep 
+interior and may have been aqueously altered. Observations from 
+the Dawn mission have confirmed aqueous alteration on Ceres and 
+revealed ocean-derived material on its surface. This session will 
+explore Ceres' astrobiological relevance in the light of Dawn's 
+observations, new models for Ceres' chemical and physical 
+evolution, its present state, and possible exploration strategies.
+
+The Organizers: Julie Castillo-Rogez and Marc Neveu
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ASTROBIOLOGY SCIENCE CONFERENCE SESSION: BIOSIGNATURE DETECTION ON 
+MARS - WHERE, WHAT, WHEN, WHY and HOW?
+
+http://www.hou.usra.edu/meetings/abscicon2017
+
+Abstracts due January 18, 2017
+Meeting April 24-28, Mesa AZ 
+
+Finding evidence of extant life on Mars would be a watershed event. 
+We have evidence on Mars for many environments that may have been 
+habitable in the past, but the range of possible biogeochemistries 
+those environments allow, the co-evolution of those environments 
+with life, the specific niches that are most likely to host 
+detectable biosignatures, and the path forward to explore those 
+environments are still key unknowns. We invite contributions that:
+
+(1) explore the succession of physical and environmental processes 
+    and their combination on Early Mars, 
+(2) evaluate (ideally quantitatively!) the geo/environmental 
+    context of potential sites for biological exploration of Mars, 
+(3) detail the most promising locations, instrument concepts, and 
+    strategies for investigating these ecosystems, 
+(4) define the relevant objects, substances or patterns that could 
+    serve as definitive biosignatures for martian life, and 
+(5) investigate metabolisms, survival strategies, and energy sources 
+    that may be relevant to the search for biosignatures on Mars.
+
+Organizers: Nathalie Cabrol (SETI/NASA Ames), Alberto Fairen 
+(CdeA, Cornell), Caroline Freissinet (NASA GSFC), Leslie Bebout
+(NASA Ames), Jorge Vago (ESA), Dirk Schulze-Makuch (WSU).
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AOGS 2017, SESSION PS15: VOLCANISM AND TECTONISM ACROSS THE SOLAR 
+SYSTEM
+
+Singapore in August 6-11, 2017
+Abstract submission deadline: 15 February 2017
+
+http://www.asiaoceania.org/aogs2017/public.asp?page=home.htm
+
+The surfaces of the terrestrial planets and their satellites have 
+been largely shaped through volcanic and tectonic processes. 
+Extreme conditions on outer solar system bodies, such as the 
+Jovian and Saturnian satellites, result in different types of 
+volcanism and tectonism. Fracturing and faulting processes 
+mainly affect minor bodies such as asteroids and small moons, 
+where volcanism and tectonism have not played an important role. 
+We invite contributions that cover a wide range of topics 
+including geomorphology and composition of volcanic deposits, 
+edifices, and plumes, volcano-induced deformation and edifice 
+growth and collapse to tectonic structures, faulting and 
+fracturing processes, crustal stress and strain analysis, 
+cryovolcanism, and any study related to planetary endogenic 
+processes. Furthermore, studies that relay interactions between 
+planetary interiors, surfaces, and atmospheres are welcomed. 
+Comparative studies of volcanic or tectonic systems on Earth 
+with a strong remote sensing component are encouraged. 
+
+Hope to see you there!
+
+The Conveners:
+
+Dr. Anezina Solomonidou (Jet Propulsion Laboratory, Caltech, 
+United States)
+Dr. Thomas Platz (Max-Planck Institute for Solar System 
+Research, Germany)
+Dr. Florian M. Schwandner (Jet Propulsion Laboratory, 
+Caltech, United States)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+EARLY CAREER PARTICIPANT SUPPORT AVAILABLE FOR NASA OUTER PLANETS 
+ASSESSMENT GROUP MEETING IN ATLANTA
+
+NASA's Outer Planets Assessment Group will provide travel grants for 
+a limited number of interested Early Career participants to attend 
+the OPAG meeting February 22-23 in Atlanta, GA. OPAG plays a key role 
+in sculpting the planetary science community's input into NASA 
+activities for outer planets science and exploration. Thus it is 
+critical for Early Career scientists to attend these meetings both 
+to learn how NASA and Planetary Science programs operate and to 
+represent the community that will work on OPAG-relevant projects 
+in the coming decade. Selected individuals will present a poster 
+at the meeting on a topic of their choosing. Interested graduate 
+students, postdocs, and other Early Career scientists (within 5 
+years of PhD/MS/BS) should submit a one page letter of interest and 
+a CV to britneys@eas.gatech.edu by Jan 18, 2017. Recipients will 
+be notified by Jan 23.  
+
+For more information, email Britney Schmidt at the address above.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EGU 2017, Session PS8.2: HYPERSPECTRAL DATA MEASUREMENTS AND ANALYSIS 
+TO SUPPORT PLANETARY EXPLORATION
+
+Final reminder as the abstract deadline is approaching:
+
+Dear all,
+
+We are convening a session at EGU2017, PS8.2 "Hyperspectral data 
+measurements and analysis to support planetary exploration". This 
+session is focused on laboratory spectroscopy in support of 
+planetary missions or Earth's based planetary observations, and 
+we thought that you might be interested in submitting an abstract. 
+The deadline for general abstract submission is 11th January 2017.
+
+Please find more details on the session here:
+
+http://meetingorganizer.copernicus.org/EGU2017/session/24533
+
+Please note that each abstract submitted will incur an 'Abstract 
+Processing Charge'. Details on how to submit an abstract are here:
+
+http://egu2017.eu/abstract_management/how_to_submit_an_abstract.html
+
+Best Regards,
+Giovanna, Kerri, Alessandro, Pierre and Cristian Carli
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JANUARY 2017
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the January 2017
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at: 
+ 
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items 
+for inclusion in the newsletter to Barbara at 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NEXTPROF SCIENCE - FUTURE FACULTY WORKSHOP
+
+The University of Michigan will host NextProf Science, May 2-5, 2017, 
+to encourage talented scientists (including planetary scientists) and 
+mathematicians with a demonstrated commitment to diversity to consider 
+academia as a career. The workshop is aimed at helping participants 
+develop strategies that will strengthen their ability to pursue 
+academic careers. The workshop is targeted at scholars ready to make 
+take the next step - postdoctoral fellows and very advanced doctoral
+students. People from groups underrepresented in STEM are especially 
+encouraged to apply. Travel, lodging, and meals will be provided for 
+those selected to participate. Deadline for submission of all 
+application materials is February 15, 2017. Learn more at:
+
+http://sites.lsa.umich.edu/nextprof-science 
+
+or email um-nextprof-science@umich.edu with any questions.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NASA PRE-PROPOSAL CONFERENCE FOR THE NEW FRONTIERS 4 AO
+ 
+Potential proposers to the New Frontiers 4 AO soliciting Principal 
+Investigator (PI)-led science investigations utilizing a complete 
+spaceflight mission are encouraged to attend the pre-proposal 
+conference on Friday, January 20, 2017, from 11:00 am to 
+approximately 3:30 pm eastern time (Washington, DC). Information 
+will be presented by NASA officials, and participants will have the 
+opportunity to pose questions regarding the opportunity. The 
+conference will be virtual and participation will be facilitated 
+via Webex and teleconference phone line. Travel to the pre-proposal 
+conference is not necessary and attendance in person is not 
+supported. The agenda and instructions will be posted at the NF4 
+acquisition website (https://newfrontiers.larc.nasa.gov/) under 
+the Pre-Proposal tab. Attendance is open to all and no registration 
+is required.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NEXT-GENERATION SUBORBITAL RESEARCHERS CONFERENCE
+
+Hello friends of the suborbital frontier!
+
+I hope you all had a happy holidays and a Happy New Year! We have 
+big news - next year's NSRC (Next-generation Suborbital Researchers 
+Conference) will be a holiday themed suborbital conference and will 
+take place on December 18-20 at the Omni Interlocken Hotel and 
+Resort in Broomfield, Colorado!
+
+https://www.omnihotels.com/hotels/denver-interlocken
+
+So mark your calendars, and look for more information regarding 
+registration and abstracts in the coming months at:
+
+http://nsrc.swri.org
+
+You can also follow us on Facebook at: 
+
+https://www.facebook.com/groups/105578186396/
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ROCK-HOSTED LIFE WEBINAR INFORMATION
+
+The final two community webinars are:
+
+Telecon 3: Paleo Rock-Hosted Life Biosignature Detection and 
+Characterization
+
+How do we detect signs of paleo (non-extant) rock-hosted life? 
+Where/how do we find evidence on Earth?
+January 13, 8:30AM PST 
+Facilitated by Barbara Sherwood-Lollar, Haley Sapers
+ 
+Telecon 4: Advanced Instrumentation Techniques for Finding 
+Biosignatures
+
+What are the latest techniques in biosignature detection, including 
+new capabilities expected in the next decades? 
+January 23, 9:30AM PST 
+Facilitated by Max Coleman, Paul Niles
+
+For dial in information (and the recordings from telecons 1 and 2), 
+please see:
+
+http://web.gps.caltech.edu/~rocklife2017/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] PDS - CASSINI DATA RELEASE 48
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Cassini data, Release 48, January to March 2016, for instruments:
+
+* CDA
+* CIRS
+* INMS
+* ISS
+* MAG
+* MIMI
+* RADAR
+* RPWS
+* RSS
+* SPICE
+* UVIS
+* VIMS
+
+HRD data will soon be available.
+
+Please note that while the data products from this release are 
+available online now through the links below, they may not be 
+immediately accessible through PDS web services such as the 
+Planetary Image Data Atlas. Large data sets may take as long as 
+a few days beyond the formal release date to be incorporated 
+into these services.  Check each service's web site to see the
+status of the latest release.
+
+To access the above data, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20170106.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+EUROPEAN GEOSCIENCES UNION (EGU) CONFERENCE
+
+This is a reminder that the next European Geosciences Union (EGU) 
+conference will be held in Vienna on 23-28 April, 2017, with an 
+impending abstract deadline of January 11, 2017. There are several 
+planetary-science sessions in categories that include "Solar System 
+Exploration and Techniques", "Small Bodies and Dust", 
+"Terrestrial Planets", plus "Outer Planets, Icy Satellites and Rings".  
+The latter will include both Cassini and Earth-based results.
+
+The conveners wish to call your particular attention to a special 
+session this year, PS3.2, covering results from the Juno mission and 
+supporting observations of Jupiter from space-based and ground-based 
+facilities.
+
+PS3.2: Initial Results from Juno's Exploration of Jupiter and the 
+Earth-based Collaborative Campaign
+
+Convener: Scott Bolton; Co-Conveners: Paul Hartogh, Tristan Guillot, 
+Glenn Orton, John Connerney, Jean-Claude Gerard 
+
+Abstract submission is made through the following site: 
+
+http://meetingorganizer.copernicus.org/EGU2017/abstract
+submission/24838
+
+Abstract submission deadline: January 11, 2017
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 26-30, 2017
+Exoplanet Science in the Coming Decade: The Bright and Nearby Future
+http://eas.unige.ch/EWASS2017/session.jsp?id=S1
+Prague, Czech Republic
+
+December 18-20, 2017
+Next-Generation Suborbital Researchers Conference
+http://nsrc.swri.org
+Broomfield, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,349 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 17 (April 15, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Call to Action! Contact Congress to Restore the NASA Planetary 
+   Budget!
+1. [NASA] Planning Group Takes Key Steps for Future Mars Exploration
+3. National Planetary Exploration Car Wash & Bake Sale
+4. Last Call for Abstracts - Planetary Data: A Workshop for Users and 
+   Software Developers
+5. Postdoctoral Researcher: Secondary Ion Mass Spectrometry (SIMS) 
+   Microprobe Analysis
+6. Postdoctoral Position in Planetary Science
+7. NASA Postdoctoral Fellowships
+8. Mars Exploration Program Proposals
+9. Astronomer Job at STScI
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CALL TO ACTION! CONTACT CONGRESS TO RESTORE THE NASA PLANETARY BUDGET!
+
+Over the next two weeks, House and Senate subcommittees will be marking
+up the NASA budget. We need to engage Congress to restore the 
+devastating cuts to the NASA planetary budget  proposed by the 
+Administration for FY13 and beyond. Go to:
+
+http://dps.aas.org/news/time-action
+
+for contact information and detailed talking points. Talking points 
+are also available at:
+
+http://planetarypolicy.org/talking_points.pdf
+http://www.psi.edu/position/mars_restoration.html
+
+If the NASA planetary budget can be restored to its FY12 level and 
+kept flat at that level, NASA should be able to implement most of the
+highest priority recommendations of the recent NRC Planetary Decadal 
+Survey (i.e., R&A and Technology Development support, support for 
+continuing missions, putting Discovery on a 24 month call), begin a 
+restoration of the Mars exploration program (excluding multi-decade 
+surface sample return), and allow for starting a possible Outer Planets
+flagship mission in several years if the economy improves. 
+For details, go to:
+
+http://planetarypolicy.org/NASA_PSD_Budget_Report.pdf
+
+Mark V. Sykes
+sykes@psi.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANNING GROUP TAKES KEY STEPS FOR FUTURE MARS EXPLORATION
+
+NASA's Mars Program Planning Group (MPPG), established
+to assist the agency in developing a new strategy for the exploration
+of the Red Planet, has begun analyzing options for future robotic
+missions and enlisting the assistance of scientists and engineers
+worldwide.
+
+NASA is reformulating the Mars Exploration Program to be responsive to
+high-priority science goals and the President's challenge of sending
+humans to Mars in the 2030s.
+
+Ideas and abstracts may be submitted online as part of NASA's effort
+to seek out the best and the brightest ideas from researchers and
+engineers in planetary science. Selected abstracts will be presented
+during a workshop in June hosted by the Lunar and Planetary Institute
+in Houston.
+
+These ideas will inform a strategy for exploration within available 
+resources, beginning as early as 2018 and stretching into the next 
+decade and beyond.
+
+The new strategy also will be designed to maintain America's critical
+technical skills, developed over decades, to achieve the highest
+priority science and exploration objectives.
+
+The call for abstracts and workshop information, are at:
+
+http://www.lpi.usra.edu/meetings/marsconcepts2012
+
+For more information about NASA's Mars programs, visit:
+
+http://www.nasa.gov/mars 
+
+[Edited for length. The full text is at:
+http://www.nasa.gov/home/hqnews/2012/apr/12-112_MPPG_Update.html]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+National Planetary Exploration Car Wash & Bake Sale
+
+To attract media and Congressional attention to the perilous NASA 
+planetary exploration cuts proposed to take place 1 October, and the 
+need to restore the planetary budget to FY12 or higher levels, a
+National Planetary Exploration Car Wash and Bake Sale is being planned 
+for June 9th. 
+
+Planetary groups and institutions are invited to join, sponsoring 
+their own event locally and inviting media coverage to their event.
+
+Those already involved include planetary groups at: LPL, LPI, Moon 
+Express (Google Lunar X Prize), Notre Dame, PSI, SwRI, UCF, UCLA, 
+and the University of Maryland.
+
+More about the National Planetary Exploration Car Wash and Bake
+Sale on June 9th can be found at:
+
+http://www.boulder.swri.edu/~con/June9/PlanetaryCarWash.html
+
+and at our Facebook page at:
+
+https://www.facebook.com/NationalPlanetaryExplorationCarWashBakeSaleDay
+
+Please consider organizing a local event of your own for June 9th, and
+registering it at the URL above. 
+
+For more information, contact the Alan Stern, astern@swri.edu, 
+nationwide coordinator for the National Planetary Exploration Car Wash 
+and Bake Sale.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+LAST CALL FOR ABSTRACTS - PLANETARY DATA: A WORKSHOP FOR USERS AND 
+SOFTWARE DEVELOPERS
+
+Flagstaff, AZ (USA)
+June 25-29, 2012
+
+http://astrogeology.usgs.gov/groups/Planetary-Data-Workshop
+
+We are pleased to announce Planetary Data: A Workshop for Users and 
+Software Developers to be held June 25-29, 2012, at Northern Arizona 
+University (NAU) in Flagstaff, Arizona.  The meeting facility is at 
+the du Bois Conference Center on the NAU campus. The two content 
+tracks will share a common day on Wednesday to hold talks of 
+overlapping interest. One or both tracks can be attended and there is 
+no registration fee for either. 
+
+Abstract submissions are due by April 30, 2012.
+
+Planetary Data Users Track
+* Share information on digital planetary data, including 
+  availability, access and analysis methods.
+* Present how-to guides for locating, acquiring, processing and 
+  working with digital planetary data.
+
+Planetary Software Developers Track
+* Bring researchers and technology experts together to discuss and 
+  exchange ideas to identify difficult planetary research issues that 
+  can be addressed by software development.
+* Present planetary data processing and software development methods 
+  and techniques.
+* If you cannot attend, we would like to invite you to share your 
+  thoughts on needed software technologies for the planetary community 
+  (5-10min survey).
+
+[Edited for Length.]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOCTORAL RESEARCHER: SECONDARY ION MASS SPECTROMETRY (SIMS) 
+MICROPROBE ANALYSIS
+
+The Lunar and Planetary Institute (LPI), part of the Universities 
+Space Research Association, invites applications for a postdoctoral 
+fellowship in the area of SIMS isotopic and elemental analysis of 
+Martian meteorites.
+
+The successful candidate will work with an international team at NASA 
+Johnson Space Center in Houston.  Candidate should be self-motivated, 
+and must have a Ph.D. in geochemistry, cosmochemistry, or related. 
+Strong background in ion microprobe analysis essential.  Experience 
+in analysis/interpretation of Pb isotopes is advantageous. 
+Experience with a Cameca 1270/80 is also advantageous.  Knowledge 
+of Martian geochemistry and petrology is beneficial, but not essential.
+Travel is required.  Candidates should also present an independent
+research plan that complements the Martian meteorite study. 
+
+Position is for one year, with possible extension to a second year. 
+Applicants should send a letter of interest, a curriculum vita with 
+list of publications, a brief statement of research interests, and 
+three references to resume@lpi.usra.edu. Further details contact: 
+Justin Simon (justin.i.simon@nasa.gov) or 
+John Jones (john.h.jones@nasa.gov). 
+
+Information on research and facilities at the LPI can be found at:
+
+www.lpi.usra.edu  
+
+Information on JSC facilities can be found at:
+
+http://ares.jsc.nasa.gov/ares/index.cfm
+
+The Universities Space Research Association is an Equal Opportunity
+Employer. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL POSITION IN PLANETARY SCIENCE
+
+The Department of Geography at the University of Winnipeg
+
+http://www.uwinnipeg.ca 
+
+invites applications for a postdoctoral position in the field of 
+planetary science. The postdoc will be supervised by Professor Ed 
+Cloutis and focus on the acquisition of laboratory spectra using a 
+variety of planetary environment chambers, analysis of existing 
+laboratory spectra relevant to a number of planetary missions, field 
+work at a number of Mars analogue sites, and supervision of 
+undergraduate and graduate students. Applicants with a strong 
+background and interest in planetary spectroscopy are encouraged to 
+apply.
+
+The appointment could begin as soon as possible and will be funded 
+full-time for up to 3 years. Continuation beyond the first year will 
+depend on progress and availability of funding. Applicants should 
+send their CV, brief summary of research, list of publications, and
+the contact information of at least 3 references to Ed Cloutis 
+(e.cloutis@uwinnipeg.ca). Further details concerning the position are 
+available from Ed Cloutis.
+
+[Edited for Length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a
+specific project related to space science, earth science, aeronautics,
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $50,000 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARS EXPLORATION PROGRAM PROPOSALS
+
+The Mars Exploration Program has issued a Request for Proposals 
+for the Critical Data Products VII on April 2, 2012.  This RFP seeks 
+proposals supporting the development of a number of scientifically 
+high-priority landing sites on Mars that would be added to a list for 
+future landed missions.  Details of the RFP are posted at:
+
+http://acquisition.jpl.nasa.gov/rfp/NKB-2691-042012
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ASTRONOMER JOB AT STSCI
+
+The Space Telescope Science Institute (STScI) welcomes applications 
+from outstanding astronomers for one or more openings in the coming 
+year. We are seeking enthusiastic candidates with an exceptional 
+research record in observational or theoretical astronomy, including 
+those with a focus on instrumentation. Appointments can be made on 
+either the tenure-track or the scientist-track, and at junior or 
+senior levels. We particularly encourage applications from researchers
+with a background in solar system science or optics, and/or researchers
+with a strong technical background. Tenure-track astronomers spend 
+50% of their time on personal research and 50% in support of the 
+science operations mission of the Institute. Scientist-track 
+astronomers spend up to 80% of their time in support of science 
+operations and 20% on independent research. Scientist track 
+astronomers have the option of buying back up to an additional 30% 
+of their time for independent research using external funding.
+
+Candidates must have a Ph.D. or equivalent degree in astronomy,
+physics, or planetary science, and have postdoctoral and/or other 
+experience demonstrating a distinguished record of independent 
+research or technical innovation. Applications received by 
+May 15, 2012 will receive primary consideration. 
+
+For the full posting see:
+
+https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID=
+*3780EA0670AE4E99
+
+[Edited for length.]
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new calendar items.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

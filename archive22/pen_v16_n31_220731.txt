@@ -1,0 +1,450 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 31 (July 31, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Community Workshop on Future Planetary Observations with the New 
+   Horizons Spacecraft
+2. Research Scientist at NASA GSFC
+3. [NASA] ROSES-22 Amendment 35: C.23 Analog Activities to Support 
+   Artemis Lunar Operations New Due Date and Major Text Revision
+4. AGU Session DI004: Exploring Planetary Interiors - Observations, 
+   Models, and Experiments
+5. AGU Session P008: (Exo)Planetary Atmospheres and Evolution
+6. AGU Session P018: Mercury at the Dawn of Bepi-Colombo's Era - 
+   Interdisciplinary Exploration Inside and Out
+7. AGU Session P035: The New Mars Underground - Nexus Of Decadal 
+   Planetary Science Objectives
+8. Assistant Researcher Position at UCLA
+9. Ice Giant Systems Seminar Series: August 9, Dr. Naomi Rowe-Gurney
+10. NASA Planetary Science Division Townhall - Decadal Survey Initial 
+    Response
+11. Planetary Meeting Calendar Additions
+12. Planetary Science Journal - New Papers
+
+Commercial Announcements:
+
+C1. Book - Planetary Exploration with Ingenuity and Dragonfly: 
+    Rotary-wing Flight on Mars and Titan
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COMMUNITY WORKSHOP ON FUTURE PLANETARY OBSERVATIONS WITH THE NEW 
+HORIZONS SPACECRAFT
+
+Oct 2, 2022, 3-5 pm Eastern
+
+The New Horizons team is hosting a community workshop for creative 
+discussion of future planetary science that may be conducted with the 
+New Horizons spacecraft. Please join us and bring your 
+ideas/expertise for potential planetary applications and observations! 
+We will give an overview of the instruments and resources available, 
+and use the remainder of the time for active brainstorming. The 2-hr 
+workshop will be hybrid; both in-person (at the DPS conference venue 
+in London Ontario) and virtual attendance will be supported. The 
+workshop will be on Sunday Oct 2, 2022, 3-5 pm Eastern (the day before 
+the DPS meeting). The workshop is free to attend. You do not need to 
+be registered for the DPS meeting to attend virtually, but all 
+participants, both in person and virtual, should fill out the separate 
+registration form specific to this workshop at the following link:
+
+https://bit.ly/DPS_NH_22
+
+Please contact Kelsi Singer (ksinger@boulder.swri.edu) with questions.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+RESEARCH SCIENTIST AT NASA GSFC
+
+The Science & Exploration Directorate, Solar System Exploration 
+Division, Planetary Magnetospheres Laboratory (Code 695) at NASA's 
+Goddard Space Flight Center (GSFC) is seeking a planetary scientist 
+with a focus on magnetic field observations. The successful candidate 
+will join the Goddard Mag Group to lead data analysis from space 
+flight missions using data from magnetometers and associated 
+instruments. Expertise is required in either space plasma physics 
+and/or solid body geophysics using magnetic field observations from 
+any body in the Solar System ("If it has a magnetic field, we want to 
+measure it."). The successful candidate will also lead teams to 
+develop new missions, define their measurement requirements, and work 
+with Mag Group engineers to develop and build the appropriate magnetic 
+field instruments.
+
+A full vacancy announcement that will open around Aug 23, 2022 and 
+remain open for five business days will be posted at:
+
+https://www.usajobs.gov/
+
+The short period that the announcement is open is due to the type of 
+hiring authority, and is not a reflection of the openness of the 
+position. This is a GS-13/14 level position (US citizens only) located 
+at NASA-Goddard in Greenbelt, Maryland near Washington, DC.
+
+For additional information contact: Dr. Jared Espley, 
+Jared.R.Espley@nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-22 AMENDMENT 35: C.23 ANALOG ACTIVITIES TO SUPPORT ARTEMIS 
+LUNAR OPERATIONS NEW DUE DATE AND MAJOR TEXT REVISION
+
+C.23 supports participation in one or more of NASA's Human 
+Exploration-sponsored analog activities. The intent of these analog 
+exercises is to provide feedback and inputs to the design of hardware, 
+software, and operational procedures being developed for lunar 
+exploration with crew that is supported by a science team in Mission 
+Control. The focus of this program is on supporting high-fidelity 
+science operations and operations constraints through analog mission 
+campaigns, including, but not limited to, Joint Extravehicular 
+Activity Test Team and Desert Research and Technology Studies. Funding 
+provided in this year's program element is intended to enable 
+researchers to participate as science team members in the planning, 
+execution, and analysis of one or more of these analog mission 
+activities. These awards are capped at $30,000 and are for one person, 
+for one year in duration. Awards are contingent upon occurrence of 
+the analog field campaign activities.
+
+ROSES-2022 Amendment 35 releases a major revision to the text and the 
+due date for proposals is now December 6, 2022.
+
+Questions concerning C.23 may be directed to Sarah Noble, 
+sarah.k.noble@nasa.gov.
+
+(edited for length)
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION DI004: EXPLORING PLANETARY INTERIORS: OBSERVATIONS, 
+MODELS, AND EXPERIMENTS
+
+Geophysical observations interpreted using quantitative models and 
+experiments are the key to advancing our knowledge of the dynamics and 
+interior structure of planetary bodies, including variations of 
+density, fluid content, and temperature. The intent of the session is 
+to promote discussions on the relationship between recent geophysical 
+measurements from various planetary missions, new constraints on 
+numerical and experimental studies, and the implication for interior 
+structures and dynamic processes that involve interactions between 
+materials from the crust to largely unexplored core-mantle boundary 
+regions in deep planetary interiors. We welcome contributions of 
+recent advances in planetary studies that incorporate various mission 
+data and constraints, while providing a roadmap for future exploration 
+of the Moon, Mars, and other extraterrestrial bodies.
+
+Session link:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/160596
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P008: (EXO)PLANETARY ATMOSPHERES AND EVOLUTION
+
+Understanding the nature and variability of (exo)planetary 
+atmospheres, their chemical evolution and the physical mechanisms 
+governing atmospheric dynamics are strong driving forces of 
+(exo)planetary science and Solar System exploration mission planning. 
+We are on the eve of being able to characterize exoplanetary 
+atmospheres, thanks to the JWST and its future successors. At the same 
+time, better understanding of the Solar System terrestrial planets is 
+at hand with incoming missions to Venus. Models of planetary 
+atmospheres use these observations to illuminate physical processes 
+operating, from the Earth to planets in our Solar System and beyond. 
+Processes that govern the interactions of atmospheres with planetary 
+surfaces and interiors are an important aspect of planetary evolution, 
+for both atmosphere composition and thermal state (including surface 
+conditions). The rapidly increasing number of discovered exoplanets 
+provides an exciting opportunity for interdisciplinary collaborations, 
+between heliophysicists, astrophysicists, planetary and climate 
+scientists. This session welcomes observational, theoretical, 
+experimental, and field studies relevant to physical and chemical 
+evolution of (exo)planetary atmospheres and planetary habitability in 
+and outside of our Solar System.
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/159356
+
+(Edited for length)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P018: MERCURY AT THE DAWN OF BEPI-COLOMBO'S ERA - 
+INTERDISCIPLINARY EXPLORATION INSIDE AND OUT
+
+NASA's MESSENGER mission revolutionized our understanding of Mercury's 
+surface, interior, exosphere, magnetosphere, and heliospheric 
+environment. That understanding will soon take a major step forward 
+with data from the first flyby of Mercury by the ESA-JAXA BepiColombo 
+dual spacecraft mission, subsequent flybys, and eventual orbit. In 
+this session, we welcome all contributions on data analysis, 
+laboratory measurements, ground-based observations, analog studies and 
+theoretical developments that build on the current state of knowledge 
+of Mercury, as well as papers that focus on how BepiColombo 
+measurements collected during the recent Earth and Venus flybys can be 
+used to support investigations at Mercury. The topics of interest for 
+this session include Mercury's geology, geochemistry, geophysics, 
+plasma dynamics occurring in Mercury's exosphere and 
+surface-exosphere-magnetosphere coupling. We also welcome papers 
+discussing how outstanding questions about Mercury can be addressed by 
+future observations expected from BepiColombo.
+
+Details for the session and submission information can be found at:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/157263
+
+The deadline for submitting an AGU abstract is August 3rd, 2022. 
+
+Conveners: Gangkai Poh, Ariel Deutsch, Georgia Peterson
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P035: THE NEW MARS UNDERGROUND: NEXUS OF DECADAL PLANETARY 
+SCIENCE OBJECTIVES
+
+According to the National Academies, the highest scientific priority 
+of NASA's robotic exploration efforts in the coming decade should be 
+the completion of Mars Sample Return and subsequently the 
+prioritization of the Mars Life Explorer. Intimately tied to these 
+decadal objectives is the ongoing characterization of the Martian 
+subsurface, particularly regarding 1) the distribution and stability 
+of modern liquid water and water ice inventories; 2) the provenance 
+and isotopic signatures of organics and trace gases that may serve as 
+potential biosignatures; and 3) the identification of habitable 
+"refugia environments" which may support extant microbial Martian 
+life, should it exist. Our session champions the intrinsic relevance 
+the Martian subsurface for the next decade of planetary science. We 
+welcome diverse contributions informed by remote observation, 
+theoretical modelling, technological development, and laboratory/field 
+experimentation of relevant terrestrial analog sites and materials. 
+
+Abstract deadline: August 3rd, 2022 
+
+Abstract submission link:
+
+https://agu.confex.com/agu/fm22/prelim.cgi/Session/158934 
+
+Sincerely, the Conveners: 
+Rachel Lee Harris (Harvard University) 
+Ana-Catalina Plesa (German Aerospace Center, DLR)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ASSISTANT RESEARCHER POSITION AT UCLA
+
+The Department of Earth, Planetary, and Space Sciences (EPSS) at the 
+University of California, Los Angeles (UCLA) seeks applicants for an 
+Assistant Researcher in planetary space physics and geophysics. The 
+incumbent will work on the magnetic environment of the Galilean 
+satellites and/or the ice shell/ocean dynamics of Europa/Ganymede. 
+Therefore, the incumbent is expected to demonstrate experiences with 
+analysis of space mission data or analytical/numerical investigations 
+of gravitational sounding, tidal interactions, or rotating 
+(magneto)hydrodynamics. 
+
+Ph.D. in space physics, planetary science, geophysics, or a related 
+field is required. Work is to be carried out in collaboration with 
+Prof. Hao Cao. 
+
+Candidates must provide a (a) curriculum vitae including a complete 
+list of publications, (b) cover letter (one page max), (c) statement 
+of research (two pages max), (d) statement on contributions to equity, 
+diversity, and inclusion, and (e) the contact information of at least 
+two references including names and email addresses. 
+
+Applications will be accepted via the UC Recruit website at:
+
+https://recruit.apo.ucla.edu/JPF07692.
+
+The next review date is Aug 19, 2022. This position will start on or 
+after September 1, 2022. 
+
+Inquiries may be directed to Prof. Hao Cao (haocao@ucla.edu).
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ICE GIANT SYSTEMS SEMINAR SERIES: AUGUST 9, DR. NAOMI ROWE-GURNEY
+
+The Ice Giant Systems Seminar Series showcases recent developments in 
+scientific topics covering all aspects of the ice giant systems, 
+including atmospheres, satellites, rings, magnetic fields, interior 
+structures, and science related to formation and evolution. 
+Registration is free but required, and Zoom connection info will be 
+sent out automatically upon registering. View the seminar schedule, 
+register for seminars, and "Stay Informed" by signing up for the 
+listserv to receive registration reminders at:
+
+https://neptuneodyssey.jhuapl.edu/Events/
+
+This upcoming seminar (August 9, 11am ET) will feature Dr. Naomi 
+Rowe-Gurney (NASA Goddard), who will be speaking on Neptune's 
+Atmospheric Structure from the Spitzer Infrared Spectrometer.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA PLANETARY SCIENCE DIVISION TOWNHALL - DECADAL SURVEY INITIAL 
+RESPONSE
+
+NASA's Planetary Science Division (PSD) is hosting a virtual community 
+townhall Thursday, August 18th, 2022, from 2 to 4 p.m. (Eastern). This 
+townhall is a forum for Dr. Lori Glaze, PSD Director, to provide the 
+agency's initial public response to the NASEM Planetary Science and 
+Astrobiology Decadal Survey 2023-2032. Public questions will be 
+addressed at the end of the presentation. Questions can be submitted 
+before, or during, the event at this link:
+
+https://nasa.cnf.io/sessions/y2xm/#!/dashboard
+
+The townhall will be recorded and posted online following the event at:
+
+https://science.nasa.gov/solar-system/documents
+
+Townhall Connection details:
+
+Join link:
+
+https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m3b4aefc164c2332859e3e66fe21afe7d
+
+Webinar number: 2761 431 7417
+Webinar password: MUf3AygJ$48 (68332945 from phones)
+
+Join by phone:
++1-929-251-9612 USA Toll 2
++1-415-527-5035 US Toll
+Access code: 276 143 17417
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+October 12-14, 2022
+Alive Universe - From Planets to Galaxies
+https://shao.az
+Pirkuli, Azerbaijan
+
+March 19-24, 2023
+Exoplanet Systems and Stellar Life Cycles: Late-Stage and Post-MS 
+Systems
+https://sites.google.com/view/late-stage-exoplanets-2023
+Aspen, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Atmospheric Overturning Circulation on Dry, Tidally Locked Rocky
+Planets Is Mainly Driven by Radiative Cooling
+Shuang Wang and Jun Yang 2022 PSJ 3:171
+https://doi.org/10.3847/PSJ/ac6d65
+
+Identifying Interstellar Object Impact Craters
+Samuel H. C. Cabot and Gregory Laughlin 2022 PSJ 3:172
+https://doi.org/10.3847/PSJ/ac77e9
+
+The LCO Outbursting Objects Key Project: Overview and Year 1 Status
+Tim Lister et al. 2022 PSJ 3:173
+https://doi.org/10.3847/PSJ/ac7a31
+
+High Heat Flux near Miranda's Inverness Corona Consistent with a
+Geologically Recent Heating Event
+Chloe B. Beddingfield et al. 2022 PSJ 3:174
+https://doi.org/10.3847/PSJ/ac7be5
+
+Photometric Observations of the Binary Near-Earth Asteroid (65803)
+Didymos in 2015-2021 Prior to DART Impact
+P. Pravec et al. 2022 PSJ 3:175
+https://doi.org/10.3847/PSJ/ac7be1
+
+Low-speed Impacts into Ice-Dust Granular Mixtures
+Julie Brisset et al. 2022 PSJ 3:176
+https://doi.org/10.3847/PSJ/ac779a
+
+Ejecta Formation, Early Collisional Processes, and Dynamical Evolution
+after the DART Impact on Dimorphos
+Fabio Ferrari et al. 2022 PSJ 3:177
+https://doi.org/10.3847/PSJ/ac7cf0
+
+Lightcurves and Rotations of Trans-Neptunian Objects in the 2:1 Mean
+Motion Resonance with Neptune
+Audrey Thirouin and Scott S. Sheppard 2022 PSJ 3:178
+https://doi.org/10.3847/PSJ/ac7ab8
+
+Modeling Thermal Emission under Lunar Surface Environmental Conditions
+Parvathy Prem et al. 2022 PSJ 3:180
+https://doi.org/10.3847/PSJ/ac7ced
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+BOOK: PLANETARY EXPLORATION WITH INGENUITY AND DRAGONFLY - ROTARY-WING 
+FLIGHT ON MARS AND TITAN
+
+A new book, published by the American Institute of Aeronautics and 
+Astronautics, describes the programmatic origins, operating 
+environments, and technical design of two very different planetary 
+aircraft. "Planetary Exploration with Ingenuity and Dragonfly: 
+Rotary-Wing Flight on Mars and Titan" by Ralph Lorenz lays out what 
+'space people' need to know about helicopters, and what 'aviation' 
+people need to understand about flight through space and operations on 
+other planetary bodies. The book reviews Ingenuity's flights on Mars, 
+the science and mission design of Dragonfly, and the prospects for 
+future planetary aviation.
+
+https://www.amazon.com/Planetary-Exploration-Ingenuity-Dragonfly-Rotary-Wing/dp/1624106366
+
+AIAA members can get the book at a discount at:
+
+https://arc.aiaa.org/doi/book/10.2514/4.106378
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

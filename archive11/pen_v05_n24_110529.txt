@@ -1,0 +1,298 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 5, Number 24 (May 29, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Abstracts Soon Due:  EPSC-DPS Meeting
+2. DPS Childcare Survey
+3. [NASA] PDS Release 28 of Mars Exploration Rover Data
+4. Final Announcement for Abstract Submission:  MOP2011 SOC and LOC
+5. [NASA] NSPIRES Release of Process Enhancement for Preparation, 
+   Submittal and Review of Proposals
+6. GSA Planetary Geology Division Logo Design Contest
+7. The "Universe at Your Fingertips 2.0" DVD is Available
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+ 
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+ABSTRACTS SOON DUE:  EPSC-DPS MEETING
+
+Dear Colleagues,
+
+We would like to invite you to submit abstracts to the laboratory 
+studies session at the joint EPSC-DPS meeting in Nantes, France 
+(02-07 October 2011). 
+
+Abstracts Deadline: May 31, 2011
+
+We invite experimentalists, modelers, and observers to submit 
+abstracts focusing on "laboratory data, facilities, and needs to 
+enhance our understanding of planetary sciences".  This session (LF3)
+builds its strength on the tradition of Oxnard, AOGS, AGU, and DPS, 
+where we consciously put our efforts to bring the community together 
+focusing on Laboratory Studies.
+
+Colleagues who focus on experimental studies that are aimed at 
+understanding primitive bodies (asteroids, comets, dust, IDPs), KBOs, 
+giant planetary systems, Mars, Moon, and Earth-like exoplanets are 
+welcome to submit their abstract to this session. Colleagues who are 
+modelers and do observational studies with focused need for new 
+experimental data are strongly encouraged to submit their abstract to 
+this session as well.
+
+Please do not hesitate to contact us if you have further questions. 
+
+Best Regards
+Murthy Gudipati (Convener)
+Christophe Cloquet (Co-Convener)
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+DPS CHILDCARE SURVEY
+
+Please follow the following link and fill out a childcare survey for 
+DPS.  It will take 5 minutes, at most.  If you have ever, will ever, 
+need now, or don't care at all about childcare, please fill out the 
+survey!  This is especially important for those of you who have had 
+childcare issues impact your ability to travel.  We will use the 
+results of this survey to assess the type of support that the DPS can 
+provide.  
+
+http://www.surveymonkey.com/s/SZ9FJDP
+
+Thank you for your time!
+Rachel Mastrapa, Majd Mayyasi
+Professional Development Subcommittee
+Questions?  Rachel.M.Mastrapa@nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS RELEASE 28 OF MARS EXPLORATION ROVER DATA
+
+The Planetary Data System (PDS) is pleased to announce Release 28 of 
+Mars Exploration Rover data.  This release includes primarily data 
+from Sols 2341 through 2430 and includes data only from Opportunity, 
+MER1/B.  It includes data from the following instruments:  APXS, 
+HAZCAM, NAVCAM, MI, Moessbauer, PANCAM, Rover Motion Counter, and 
+SPICE.  There are no Mini-TES or RAT data in this release.  
+
+To access the latest PDS Data Releases, see:
+
+http://pds.nasa.gov/subscription_service/SS-20110524.html
+
+
+The following special services are provided for accessing MER data--
+ 
+MER Analyst's Notebook:  
+
+http://an.rsl.wustl.edu/mer/
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer/
+
+
+To access the latest PDS Data Releases, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FINAL ANNOUNCEMENT FOR ABSTRACT SUBMISSION:  MOP2011 SOC AND LOC
+
+Originally planned for Sendai, Japan, this year's Magnetospheres of the
+Outer Planets meeting has moved to Boston University (original dates of
+July 11-15, 2011), courtesy of John Clarke stepping in at short notice.
+
+To view the MOP2011 SOC & LOC semi-final annoucement and submit an 
+abstract, see:
+
+http://www.bu.edu/csp/mop2011/
+
+and
+
+http://pat.gp.tohoku.ac.jp/MOP/abstract.html
+
+The Scientific Organizing Committee will do a quick turn-around 
+to produce a program for June 10th.
+
+Come talk about the exciting new Cassini data at Saturn!
+Predict what Juno will see at Jupiter!
+Additional workshops on modeling and tackling the mysterious puzzle 
+of Saturn's varying periodicity!
+
+Yasumasa KASABA @ original LOC  (Current LOC is Boston Univ.)
+Dep. Geophysics, Graduate School of Science, Tohoku Univ.
+kasaba@pat.gp.tohoku.ac.jp
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] NSPIRES RELEASE OF PROCESS ENHANCEMENT FOR PREPARATION, 
+SUBMITTAL AND REVIEW OF PROPOSALS
+
+Release 5.3 of NSPIRES is available at:
+
+http://nspires.nasaprs.com
+
+This new release provides enhancements to existing processes involving 
+the preparation, submittal and review of proposals.   
+
+Proposal Preparation and Submittal:
+The system will automatically block submittal to NASA, e.g. create an 
+'error', of a proposal containing unanswered required questions for 
+the Program Specific Data element (PSD).
+
+Work-in-progress can be saved on PSD questionnaires, even if there are 
+required questions not yet answered.   This section of proposal 
+preparation will no longer have to be completed in one session. 
+
+Increased error checking will notify the user if non-required PSD 
+questions are unanswered.
+
+The system will issue a warning if an uploaded proposal attachment has
+a file size of greater than 17 megabytes.     
+ 
+Peer Review:    
+Individual and panel evaluations can be 'Saved as Draft' without 
+addressing any required evaluation criteria. 
+
+The system will prevent individual and panel evaluations from being 
+'Saved as Final' if required evaluation criteria are not addressed.
+
+A link to the Release 5.3 User Guide for these enhancements is 
+available on the NSPIRES website.
+
+If you have questions regarding this NSPIRES release, or any other 
+NSPIRES business, please contact the NSPIRES Help Desk:
+ 
+http://NSPIRES-HELP@nasaprs.com
+
+(202)479-9376
+Monday through Friday, 8:00 AM to 6:00 PM EST/EDT
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+GSA PLANETARY GEOLOGY DIVISION LOGO DESIGN CONTEST
+
+Dear Planetary Colleagues:
+
+Recent changes in logo guidelines at GSA Headquarters requires the 
+Planetary Geology Division to replace it's current logo with a new 
+one consistent with the new guidelines.  Thus, the PGD is holding a 
+logo design contest to make the new logo.  The winner of the contest 
+will receive a $100 cash prize and get to see their emblem on the 
+Division's shirts, website, and other items.
+
+If you wish to participate in the contest, please email Division 
+Chair David Williams (David.Williams@asu.edu) and he will send you 
+the new guidelines for Division logos, and the Adobe Illustrator CS5 
+template for you to work with.  The winning logo will be chosen by 
+vote of the PGD Management Board and will premire at the 2011 Annual 
+Meeting in Minneapolis.
+
+Please submit your entries to David Williams by Monday, July 11, 2011.
+
+Sincerely,
+David A. Williams
+2011 Chair
+Planetary Geology Division
+Geological Society of America
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+THE "UNIVERSE AT YOUR FINGERTIPS 2.0" DVD IS AVAILABLE
+
+The "Universe at Your Fingertips 2.0" is a DVD with 133 Activities and 
+Many Resources about Basic Ideas in Space (and Earth) Science. 
+
+The nonprofit Astronomical Society of the Pacific announces this 
+publication of an educational DVD-ROM that contains:
+
+133 field-tested hands-on activities, from programs and projects around 
+the US 
+17 topical guides to the best sources of information in print and on 
+the web
+52 background articles on astronomy and education 
+55 of the best introductory astronomy images with detailed captions 
+(and a guide to finding hundreds more)
+12 short videos with instructions for doing some of the most often-used 
+activities. 
+
+A special introductory offer takes $3 off the price of the disk if you 
+order before the end of May.  The DVD-ROM is available exclusively 
+through the Society's on-line AstroShop. 
+
+To  see the full table of contents and to order the disk, please go to:
+
+http://astrosociety.org/uayf/ 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 26-29, 2011
+Rozhen National Astronomical Observatory:
+Thirty Years Eyes on the Sky
+http://30years.nao-rozhen.org/index.html
+Smolyan, Bulgaria
+
+September 27-28, 2011
+The History and Philosophy of Astrobiology
+http://www.pi.lu.se/o.o.i.s/28416
+Ven, Sweden
+
+October 12-14, 2011
+The Chemical Cosmos
+http://www.isa.au.dk/meetings/ChemCos2011/index.asp
+Valletta, Malta
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html     
+*                                                                     
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

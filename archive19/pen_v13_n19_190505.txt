@@ -1,0 +1,397 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 19 (May 5, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Citizen Science Partnership Offered by CosmoQuest at PSI
+2. EPSC-DPS Special Session: Interstellar Probe
+3. EPSC-DPS Session SB6: Imaging, Photometry, Polarimetry, and 
+   Spectroscopy of Small Bodies and Dust
+4. Postdoctoral Research Fellowship in Studies of Solar System Minor 
+   Planets
+5. Planetary Geomorphology Image of the Month
+6. JPL Job Ad
+7. Yingst to be Next MEPAC Chair1
+8. 5th MEPAG Virtual Meeting
+9. Second Announcement for the Europlanet Workshop: Solar System 
+   Atmospheres' Investigation and ExopLanets (S-SAIL)
+10. Pluto System After New Horizons, Abstract Deadline Extended
+11. Mars Science and Exploration: The 4th International Conference on 
+    Lunar and Deep Space Exploration
+12. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CITIZEN SCIENCE PARTNERSHIP OFFERED BY COSMOQUEST AT PSI
+
+The CosmoQuest team (cosmoquest.org) is available to partner on ROSES 
+and NSF proposals with citizen science components. Our platform was 
+the first to achieve surface science results from the general public 
+that are comparable to those of professionals (Robbins, et al. 2014), 
+and today we are working with the OSIRIS-REx team to provide internal 
+mapping solutions that will grow into public citizen science projects 
+in later mission stages. Our software has a python backbone that 
+allows your custom code to be integrated to create a seamless data 
+reduction pipeline where people are part of the process.
+
+CosmoQuest works with a tight-knit community of adults who are 
+long-term participants that you can come to know (or leave community 
+engagement to us). In addition to our citizen science tools, we also 
+provide our community online seminars, news shows, and other content 
+through new media platforms like Twitch.tv, YouTube, and Discord. 
+Your volunteers will both learn and do science! In January 2019, 
+CosmoQuest became part of the Planetary Science Institute. Our admin 
+team is ready to help professionally and accurately process grants. 
+Contact project director Pamela Gay, plg@psi.edu, to learn more.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC-DPS SPECIAL SESSION: INTERSTELLAR PROBE 
+
+An Interstellar Probe mission has been discussed since 1960 and studied 
+by multiple groups since then. A new NASA-funded trade study is under 
+way to design a mission concept using available or near-term 
+technology. Cross-disciplinary science targets include exploration of 
+the Very Local Interstellar Medium and its interaction with the 
+heliosphere, characterization of the circum-solar dust disk, 
+exploration of previously unexplored Kuiper Belt Objects, and 
+observation of the extragalactic background light beyond the zodiacal 
+cloud. A vantage point far away from the Solar System, naturally 
+enables these observations to be put in the context of other 
+exoplanetary systems and astrospheres. At the same time, Chinese 
+scientists are studying with their space agency CNSA a scenario in 
+which two "Heliospheric Boundary Explorers". Not only will the 
+synergies between these two missions be particularly valuable, but 
+also both of them will offer unique opportunities for broad 
+international collaborations, including European contributions. This 
+session will welcome reports on the unique science discoveries enabled 
+by missions to the Interstellar Medium beyond heliospheric boundaries.
+
+Abstract Deadline: May 8
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34097
+
+Convener: Michel Blanc 
+Co-conveners: Pontus Brandt, Pascale Ehrenfreund, Kathleen Mandt, 
+Merav Opher, Olivier Witasse
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC-DPS SESSION SB6: IMAGING, PHOTOMETRY, POLARIMETRY, AND 
+SPECTROSCOPY OF SMALL BODIES AND DUST
+
+Please consider submitting an abstract to session SB6 of the EPSC-DPS 
+meeting in Geneva, Switzerland, on September 15-20, 2019. The session
+promotes studies on the general advancement and discussion of future
+perspectives in the utilization of observational and experimental
+techniques to characterize small bodies and the dust in the Solar 
+System and beyond. The session also celebrates the 200 year anniversary 
+of the first use of polarimetry in astronomy by F. Arago by overviewing 
+the progress in polarimetry of the Solar-System and exosolar objects.
+
+Abstract submission deadline: May 8, 2019, 13:00 CEST
+
+Conveners: F. Schmidt, S. Erard, M. Gritsevich, O. Ivanova, 
+L. Kolokolova, H. Kruger, A.-Ch. Levasseur-Regourd, K. Muinonen, 
+A. Penttilä, J. Plane, A. Poppe , V. Rozenbush
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL RESEARCH FELLOWSHIP IN STUDIES OF SOLAR SYSTEM MINOR 
+PLANETS
+
+Applications are invited for a Postdoctoral Research Fellowship 
+position in the study of the Solar System minor planets, funded by the 
+UK Science and Technology Facilities Council (STFC). The post, 
+available up to 31st March 2021 in the first instance with the 
+possibility of renewal depending on performance and  availability of 
+funding, is located in the Astrophysics Research Centre (ARC) of the 
+School of Mathematics and Physics at Queen's University Belfast. The 
+nominal starting date is October 1, 2019 or as soon thereafter as 
+possible. The Postdoctoral Research Fellow will work with Dr. Meg 
+Schwamb to develop and exploit next-generation tools for analysing and 
+interpreting future observations and Solar System moving object 
+detections from the Large Synoptic Survey Telescope (LSST).
+To read the full details and to apply, visit:  
+
+https://jobregister.aas.org/ad/0f3262c3
+
+Application Deadline: Monday, June 3, 2019
+
+Informal enquiries may be directed to Dr Meg Schwamb, email: 
+mschwamb.astro@gmail.com
+        
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The May image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Degradation of Titan's impact craters". 
+Contributed by Joshua E. Hedgepeth, Centre for Planetary Science and 
+Exploration, University of Western Ontario, Canada.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JPL JOB AD
+
+The Jet Propulsion Laboratory, California Institute of Technology
+invites applications for a Scientist in areas relevant to
+understanding small bodies of the Solar System, including comets,
+asteroids, Kuiper Belt objects, and Centaurs. The Scientist will be
+responsible for maintaining a research portfolio focused on conducting
+cutting-edge scientific research within the small bodies field,
+including using ground-based observatories, space-based mission data,
+and/or theoretical modeling. The Scientist will develop an
+independently-funded research program, publish findings in the
+peer-reviewed literature, and collaboratively pursue new mission
+and/or instrument opportunities focusing on the exploration of small
+bodies.
+
+Complete applications will include a cover letter describing the
+applicant's vision for their role at JPL as a leader and contributor
+in the field of small body research, a curriculum vita including a
+bibliography of refereed and other work, a statement on research
+experience and research objectives, and contact information for at
+least three professional references. Applications received by June 15,
+2019 will receive full consideration.
+
+Go to:
+
+https://jpl.jobs/jobs
+/2019-10610-Scientist-Small-Bodies-of-the-Solar-System-2019-10610
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+YINGST TO BE NEXT MEPAG CHAIR
+
+Dr. R. Aileen Yingst (PSI) has agreed to serve as the next MEPAG Chair. 
+Dr. Yingst is a planetary geologist whose research focuses on the 
+texture and morphology of rock outcrops and clasts. She was involved 
+in the Mars Pathfinder and Mars Polar Lander missions, and served as 
+Associate PI for the Mars Exploration Rover Opportunity. She is 
+currently the Deputy Principal Investigator for the Mars Hand Lens 
+Imager instrument (MAHLI) and is a science team member for the Mars 
+Science Laboratory (MSL) imaging science team. She is also a 
+Co-Investigator on the SHERLOC/WATSON instrument on the Mars 2020 
+rover.
+
+Dr. Yingst will be formally welcomed as the new MEPAG Chair at the next 
+MEPAG virtual meeting, taking the reins from Dr. Jeffrey R. Johnson, 
+who stepped in as MEPAG Chair in March, 2016 (at MEPAG meeting 31) 
+- many thanks for his 3 years of service and extensive work for this 
+community and Committee! Dr. Johnson will remain a member of the MEPAG 
+Executive Committee as "Past Chair." A full listing of MEPAG Committee 
+members can be found here: 
+
+https://mepag.jpl.nasa.gov/about.cfm
+
+Sent on behalf of Dr. Jeffrey R. Johnson, MEPAG Chair
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+5TH MEPAG VIRTUAL MEETING
+  
+The 1st Informational Circular for the 5th MEPAG Virtual Meeting (VM5) 
+is posted at: 
+
+https://mepag.jpl.nasa.gov/meetings.cfm 
+
+This meeting will be held Thursday, June 6th, 2019, at 11:00 am-1:00 pm
+EDT. Agenda items are expected to include an update from NASA HQ, a 
+final report from the Ice and Climate Evolution Science Analysis Group 
+(ICE-SAG), information about the upcoming Ninth International 
+Conference on Mars and subsequent MEPAG Meeting 37 (July 22-25 and 
+July 26, respectively), and reports about other Mars-relevant meetings.
+Additionally, we will formally welcome in the incoming MEPAG Chair, 
+Dr. R. Aileen Yingst (PSI). The current agenda and WebEx connectivity 
+information are included in the 1st Informational Circular. Updates to 
+the agenda and presentations will be posted to the MEPAG meeting 
+website above.
+
+All members of the Mars science community including our international 
+colleagues are welcomed to attend.
+
+Sent on behalf of Dr. Jeffrey R. Johnson, MEPAG Chair
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SECOND ANNOUNCEMENT FOR THE EUROPLANET WORKSHOP: SOLAR SYSTEM
+ATMOSPHERES' INVESTIGATION AND EXOPLANETS (S-SAIL)
+
+June 27-28, 2019
+Lisbon, Portugal
+
+The main goal of this 2-days workshop is to gather  researchers,
+post-docs and students from all Europe, working on Planetary Science
+studies to discuss about several topics related with Planetary
+Atmospheres (including exoplanets), and promote collaborations on the
+basis of a interdisciplinary approach.
+
+- Atmosphere characterization I: chemical composition (Solar System
+  planets)
+- Clouds and Dynamics
+- Atmospheric Waves
+- Atmosphere Modeling
+- Atmosphere characterization II: exoplanets
+- Current and Future mission
+
+Financial support deadline: 29 April 2019  (extended to 10 May 2019)
+Abstract submission (one page included figures): 15 May 2019
+Registration and payment deadline (regular ): 27 May 2019
+Registration and payment deadline (late registration): 7 June 2019
+
+Science Organizing Commitee:
+Pedro Machado (co-chair)
+Gabriella Gilli (co-chair)
+Thomas Widemann (co-chair)
+Santiago Perez-Hoyos (co-chair)
+Jorge Martins
+Arianna Piccialli
+
+More info on the workshop webpage:
+
+http://www.iastro.pt/research/conferences/s-sail/
+
+Organizing commitee email: S-SAIL@oal.ul.pt
+
+Organizers:
+Europlanet 2020 RI NA1 - Innovation through Science Networking
+Instituto de Astrofisica e Ciencias do Espaco (IA), Portugal
+Sciencias.ID, Faculdade de Ciencias da Universidade de Lisboa, Portugal
+Fundacao para a Ciencias e Tecnologia (FCT), Portugal
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLUTO SYSTEM AFTER NEW HORIZONS, ABSTRACT DEADLINE EXTENDED
+
+The abstract submission deadline for the "Pluto System After 
+New Horizons" conference has been extended to 5 pm CDT on May 8.
+
+The link for abstract submission is here:
+
+https://www.hou.usra.edu/meetings/plutosystem2019/abstracts/
+
+Please also note that the early registration deadline is June 14.
+
+Alan Stern (SOC Chair)
+Hal Weaver (LOC Chair)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+MARS SCIENCE AND EXPLORATION: THE 4TH INTERNATIONAL CONFERENCE ON LUNAR 
+AND DEEP SPACE EXPLORATION
+
+July 22-24, 2019
+Zhuhai, China
+
+Abstract deadline: June 7, 2019
+
+http://ldse2019.csp.escience.cn/
+
+The International Conference on Lunar and Deep Space Exploration 
+(LDSE)  is a bi-annual event jointly organized by China National 
+Space Administration (CNSA) and Chinese Academy of Sciences. With the 
+rapid development of lunar and deep space exploration in China in the 
+recent decades, this conference is becoming a major forum in China to 
+discuss ideas and scientific results in planetary exploration. The 
+topics cover all areas in planetary research and road maps, with the 
+focus on exploration missions and related data analysis, ground 
+observations, laboratory experiments, and theoretical work.
+
+The Mars Science and Exploration Sessions include the following 
+themes:
+
+- Geology and Geophysics
+- Atmospheres
+- Martian Meteorites
+- Mars Analog Studies
+- Mars Exploration: Past, Present and Future
+
+Updates on the status of China's Mars Global Remote Sensing Orbiter, 
+Lander and Rover to be launched in 2020, together carrying 12 
+scientific instruments, will be presented.
+
+Convenor: Prof. Long Xiao
+
+Your suggestions are welcomed!
+
+Long
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+5th MEPAG Virtual Meeting
+June 6, 2019
+https://mepag.jpl.nasa.gov/meetings.cfm
+Online
+
+January 14-16, 2020
+Atmospheric Remote-Sensing Exoplanet Large-Survey Open Meeting
+https://arielmission.space
+Noordwijk, The Netherlands
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

@@ -1,0 +1,755 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 41 (October 4, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] COVID Salary Flexibility Extension for NASA SMD Grants
+2. [NASA] Community Announcement: New Frontiers 5 (NF5) Announcement of 
+   Opportunity (AO)
+3. Planetary Geomorphology Image of the Month
+4. Farinella Prize 2020 Awarded to Jonathan Fortney and Heather Knutson
+5. GRAM Suite Version 1.1 Released
+6. New Portals for Bennu and Ryugu
+7. Mars: HRSC DTM and Orthoimages of the Syrtis Major Quadrangle
+8. Virtual Proposers' Conference for the Use of the NASA Physical 
+   Sciences Informatics System
+9. Expanded Agreement Provides Planet Data to All NASA-Funded 
+   Researchers
+10. Postdoctoral Research Position at Washington University in St. 
+    Louis
+11. Call for Papers: Advances in Astronomy, Special Issue on "Mars 
+    Climate Evolution, Habitability, Astrobiology, and Resources"
+12. Research Fellowships in Space Sciences & Exploration
+13. MEPAG Meeting
+14. MEPAG Steering Committee Opening for an Equity, Diversity, 
+    Inclusion & Accessibility (EDIA) Representative
+15. MEPAG Newsletter
+16. SBAG Early Career Opportunities
+17. [PDS] Aperiodic PDS Data Releases in 2020.09
+18. [PDS] Mars InSight Data Release 6
+19. [PDS] Odyssey Data Release 73
+20. DPS Professional Climate and Culture Subcommittee (PCCS) Seeking 
+    New Members
+21. The Lunar Surface Innovation Consortium - Virtual Fall Meeting
+22. #DPS2020 Career Center: Advertise Your Job Openings!
+23. Planetary Meeting Calendar Additions
+24. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] COVID SALARY FLEXIBILITY EXTENSION FOR NASA SMD GRANTS
+
+Until recently, government-wide rules (e.g., in OMB memo M-20-26)
+allowed recipients of grants and cooperative agreements the flexibility
+to pay salaries and benefits of participants who could not work because
+of COVID-19 (e.g., because they could not get into a necessary facility
+closed due to COVID-19). Because the government-wide flexibility in OMB
+memo M-20-26 ended on 9/30/20, NASA has issued Grant Notice 20-02
+allowing us, on a case-by-case basis, to extend this flexibility so
+grantees may continue to pay salaries. NASA's Science Mission
+Directorate has created a web page to host Grant Notice 20-02, provide
+information about COVID and grants and, at the bottom of that page, an
+easy way for grantees to request an extension of the now expired
+flexibility so PIs may (with approval from their organization) continue
+to pay salaries of participants who cannot work because of COVID-19.
+
+https://science.nasa.gov/researchers/covid-and-awards
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] COMMUNITY ANNOUNCEMENT: NEW FRONTIERS 5 (NF5) ANNOUNCEMENT OF 
+OPPORTUNITY (AO)
+
+The NASA Science Mission Directorate (SMD) has released a Community
+Announcement on 
+
+https://beta.sam.gov/ 
+
+as Special Notice under Notice ID NNH20ZDA016L concerning its intention
+to solicit investigations for the New Frontiers 5 (NF5) Announcement of
+Opportunity. NASA has not approved the issuance of the NF5 Announcement
+of Opportunity(AO); however, it is time to begin thinking ahead to the
+release of the draft AO through the NASA Solicitation and Proposal
+Integrated Review and Evaluation System (NSPIRES) at:
+
+https://nspires.nasaprs.com/
+
+Release of the complete draft AO for comment in October 2021
+(estimate). I encourage the assessment groups to put the draft NF5 AO
+on their agendas and to invite the NF5 team to discuss and receive
+feedback publicly again. 
+
+The NF5 AO point of contact is Curt Niebur, Email:
+curt.niebur@nasa.gov.
+
+Sincerely,
+Lori S. Glaze, Ph.D. 
+Director, Planetary Science Division
+National Aeronautics and Space Administration
+Washington, DC 20546-0001.
+
+A copy of the complete email and status updates, e.g., draft major
+requirements, will be available on NSPIRES posted under Solicitation
+Number: NNH20ZDA016L.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The October image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Polygonal Impact Craters on Miranda, Charon, and
+Dione", contributed by Dr Chloe Beddingfield (The SETI Institute and
+NASA Ames Research Center).
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter: @PlanetGeomorpho 
+
+or Facebook: http://www.facebook.com/PlanetaryGeomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FARINELLA PRIZE 2020 AWARDED TO JONATHAN FORTNEY AND HEATHER KNUTSON
+
+Prof Jonathan Fortney, an American astrophysicists working at the
+Department of Astronomy and Astrophysics of the University of
+California, Santa Cruz, and Prof Heather Knutson, an American
+astronomer working at the Division of Geological and Planetary Sciences
+of the California Institute of Technology, have been awarded jointly
+the 2020 Paolo Farinella Prize for their significant contributions in
+our understanding of the structure, evolution and atmospheric dynamics
+of giant planets. The award ceremony took place during the Europlanet
+Science Congress (EPSC) 2020 virtual meeting
+(https://www.epsc2020.eu/). 
+
+More details can be found at:
+
+https://www.europlanet-society.org/epsc2020-farinella-prize-2020-awarded-to-jonathan-fortney-and-heather-knutson/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GRAM SUITE VERSION 1.1 RELEASED
+
+The Global Reference Atmospheric Model (GRAM) Suite is an
+engineering-oriented atmospheric model that estimates mean values and
+statistical variations of atmospheric properties for planetary
+destinations. GRAM outputs include atmospheric density, temperature,
+pressure, winds, and chemical composition along a user-defined path. 
+The GRAMs have been rearchitected from Fortran to a common
+object-oriented C++ framework. This new architecture creates a common
+GRAM library of data models and utilities. Version 1.1 of the GRAM
+Suite contains the rearchitected Neptune-GRAM and Titan-GRAM. GRAM
+Suite Version 1.1 is now available upon request through the NASA
+Software Catalog at: 
+
+https://software.nasa.gov/software/MFS-33888-1
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEW PORTALS FOR BENNU AND RYUGU
+
+NASA's Solar System Treks Project
+
+https://trek.nasa.gov
+
+is pleased to announce the release of two additions to its family of 
+online planetary data visualization and analysis portals.
+
+Bennu Trek
+
+https://trek.nasa.gov/bennu
+
+provides visualization and dissemination of mission data from the
+near-Earth asteroid Bennu. This initial release features the PolyCam
+5cm Global Mosaic as basemap and uses the PolyCam DEM for representing
+elevation data. Additional data products include rock abundance and
+slope maps. In addition to standard global, polar, and 3D projection
+views, Bennu Trek features a 3D Model view providing optimized
+visualization of features exhibiting topological overhangs. Two guided
+tours provide detailed views and descriptions of areas of special
+interest.
+
+Ryugu Trek
+
+https://trek.nasa.gov/ryugu
+
+provides visualization and dissemination of data from the Hayabusa2
+mission. The initial release features the Optical Navigation Camera
+Telescopic Camera (ONC-T) Global Mosaic as basemap and utilizes the
+ONC-T DEM for elevation data. Users can access, visualize, analyze, and
+download numerous individual I/F (or radiance factor) ONC-T frames
+taken during the 2018-08-01 orbit, during which Hayabusa2 was about 5
+km above the surface of Ryugu.
+
+[Editerd for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MARS: HRSC DTM AND ORTHOIMAGES OF THE SYRTIS MAJOR QUADRANGLE
+
+The Global Topography and Mosaics Group of the ESA Mars Express HRSC
+(High- Resolution Stereo Camera) science team has generated the HRSC
+Mars Chart (HMC-30) products for the MC-13E quadrangle of Mars (Syrtis
+Major, East). This includes a Digital Terrain Model (DTM, 50 m grid)
+and ortho-rectified image mosaics (up to 12.5 m/pixel) from
+bundle-block adjusted HRSC images. The products provide regional
+context and basemaps for the Mars2020 Perseverance landing site. They
+are adjusted to the global MOLA dataset and therefore can also be
+applied as reference data for co-registering other high-resolution
+datasets. HMC products for other Mars quadrangles are currently
+available for MC-11E, MC-11W (Oxia Palus), and MC-20E (Sinus Sabaeus).
+
+The products are available to the scientific community and the Mars
+2020 team to support scientific investigations. Release of the data
+products through PSA is currently in preparation. The products have
+been generated by the DLR Institute of Planetary Research, Freie
+Universitat Berlin, and Leibniz Universitat Hannover and can be
+visualized using a mapserver:
+
+https://maps.planet.fu-berlin.de
+
+Downloads are possible through this mapserver or directly from the
+HMC-30 website at DLR:
+
+http://hrscteam.dlr.de/HMC30
+
+For additional information or questions, please contact Klaus Gwinner:
+klaus.gwinner@dlr.de
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+VIRTUAL PROPOSERS' CONFERENCE FOR THE USE OF THE NASA PHYSICAL SCIENCES 
+INFORMATICS SYSTEM
+
+NASA will hold a virtual proposers' conference to provide an overview
+of the "Use of the NASA Physical Sciences Informatics System - Appendix
+G" solicitation released on September 15, to give a tutorial of the
+Physical Sciences Informatics (PSI) system, and to answer questions
+about the proposal process and use the of the PSI.
+
+Date: Wednesday, October 7, 2020, at 2 pm Eastern Time
+WebEx Meeting Website: http://nasaenterprise.webex.com/
+Meeting Number: 199 428 6598
+Meeting Password: JejT3MSN@37
+Teleconference Number to Hear Audio of the Conference: 1-844-467-4685
+Teleconference Passcode: 544479#
+
+If you want to submit questions about the PSI or the solicitation
+before the conference, please send your questions to
+msfc-dl-psi-support@mail.nasa.gov. During the conference, you may send
+questions to the Conference Host using WebEx Chat (non-voice, similar
+to sending a text message). There also will be limited time reserved
+during the conference to ask questions over the teleconference line.
+
+For more details, visit the PSI website, or the NSPIRES webpage for
+Appendix G: 
+
+https://go.nasa.gov/3hwnN6i
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EXPANDED AGREEMENT PROVIDES PLANET DATA TO ALL NASA-FUNDED RESEARCHERS
+
+NASA has expanded their subscription with Planet to provide access to
+Planet imagery to all researchers receiving funding from NASA for their
+work. Planet acquires near-daily coverage of the entire landmass of the
+Earth at 3-5 m through its constellation of ~150 Dove satellites,
+totalling ~15 TB of imagery downlinked every day. Through the agreement
+with NASA, all NASA-funded researchers can access imagery from the
+PlanetScope constellation, as well as the RapidEye 6.5 m archive.
+
+For more information on this program and instructions on how to gain
+access, please visit the NASA Commercial SmallSat Data Acquisition
+Program (CSDAP) website:
+
+https://earthdata.nasa.gov/esds/csdap/faq-commercial-data#planet
+
+For any university-based researchers interested in Planet data access
+but not funded by NASA, data access is available through the Planet
+Education and Research Program. The Basic program provides free access
+to 5,000 sq km of PlanetScope and RapidEye imagery per month per user.
+For larger scale access, departmental and campus licenses are also
+available.
+
+If you have any questions about data access through Planet's NASA or
+Education and Research Programs, contact Dr. Tanya Harrison at
+tanya.harrison@federal.planet.com.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+POSTDOCTORAL RESEARCH POSITION AT WASHINGTON UNIVERSITY IN ST. LOUIS
+
+Come join the NASA SSERVI ICE Five-O team at WashU. We are looking to
+hire a postdoc to research space-weathering effects in extreme
+conditions on the Moon and volatile-silicate interactions within the
+regolith. The successful candidate will work closely with scientists in
+the Physics and Earth and Planetary Sciences Departments at WashU to
+study Space weathering and volatile-regolith interactions through
+experiments and electron microscopy. They will also collaborate with
+the ICE Five-O team to investigate topics related to volatile evolution
+and regolith development.
+
+https://jobs.wustl.edu/
+
+Job Title: Postdoctoral Research Associate - Physics - 49129
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+CALL FOR PAPERS: ADVANCES IN ASTRONOMY, SPECIAL ISSUE ON "MARS CLIMATE
+EVOLUTION, HABITABILITY, ASTROBIOLOGY, AND RESOURCES"
+
+This Special Issue aims to collate original research and review
+articles with a focus on advancing our global knowledge of the red
+planet. We particularly welcome submissions that increase our
+understanding of Mars' atmospheric and morphologic evolution, and water
+and habitability potential, as well as review articles discussing the
+current state of the art in these fields.
+
+Potential topics include but are not limited to the following:
+
+Evidence for climatic change from space missions
+Challenges of sample return from Mars
+The action of water in Martian rocks as determined from rovers,
+   orbiters, and meteorites
+Evidence for Martian vulcanism
+Martian environments and habitability in the past and present
+Preparation for human Mars exploration and the search for Martian
+   resources
+
+Deadline for submission: Jan 29, 2021
+
+https://www.hindawi.com/journals/aa/si/187512/
+
+Series Editor: Javier Martin-Torres
+Guest Editors: Eriita Jones, Conor Nixon, Josep Trigo-Rodriguez, Sanjay
+Vijendran
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+RESEARCH FELLOWSHIPS IN SPACE SCIENCES & EXPLORATION
+
+https://www.cosmos.esa.int/web/science-faculty/research-fellowship
+
+ESA's postdoctoral Research Fellowship programme offers young
+scientists and engineers the possibility to carry out research in a
+variety of disciplines related to space science, space applications or
+space technology. Research Fellowships in Space Science & Exploration
+specifically offer the opportunity to contribute to ESA's endeavour to
+explore our Solar System and the Universe in the fields of human and
+robotic exploration, heliophysics, planetary science, astrophysics and
+fundamental physics.
+
+This year, the Directorate for Human and Robotic Exploration is
+interested in Research Fellows working on various specific projects
+with brief descriptions under
+
+https://www.cosmos.esa.int/web/science-faculty/hre
+
+Within the Directorate of Science, we are welcoming all proposals for
+innovative research associated with one or more of our missions. To
+learn more about the research conducted by the Directorate's
+scientists, please visit the Science Faculty site
+
+https://www.cosmos.esa.int/web/science-faculty/home.
+
+The appointments are initially for two years, with a third year
+extension frequently granted. Only citizens of ESA Member States or
+countries associated with ESA are eligible.
+
+Deadline for applications is 29 October 2020.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MEPAG MEETING
+
+Members of the Mars community, I cordially invite you to participate in
+the next virtual meeting (VM10) of the Mars Exploration Program
+Analysis Group (MEPAG), scheduled on Tuesday, October 20th, 2020, at
+1:00 pm-4:00 pm EDT. Agenda items are expected to include updates about
+recent MEPAG, Mars Exploration Program, and Decadal Survey activities,
+with an extended discussion on Planetary Protection (PP) developments.
+Scott Hubbard will provide an overview of recent NASEM Reviews (e.g.,
+Assessment of the Report of NASA's Planetary Protection Independent
+Review Board) and Lisa Pratt will discuss the formation of the NASEM
+Committee on Planetary Protection (CoPP) and other responses to various
+external reviews. The VM10 agenda and 2nd Information Circular will be
+shared within the next two weeks on the MEPAG meeting website:
+
+http://mepag.nasa.gov/meetings.cfm
+
+WebEx connectivity information is below. Join Meeting:
+
+https://jpl.webex.com/jpl/j.php?MTID=m6f4753d3f4adbd18317e0cf100f1f941
+
+Meeting number (access code): 198 453 6352 
+Meeting password: MEPAG
+
+This meeting is open to all members of the Mars science community
+including our international colleagues, and I look forward to your
+participation.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MEPAG STEERING COMMITTEE OPENING FOR AN EQUITY, DIVERSITY, INCLUSION &
+ACCESSIBILITY (EDIA) REPRESENTATIVE
+
+The Mars Exploration Program Analysis Group (MEPAG) is committed to
+working towards building a more diverse, inclusive, and welcoming
+community. To this end, MEPAG is soliciting an Equity, Diversity,
+Inclusion and Accessibility (EDIA) representative to serve on the MEPAG
+Steering Committee. This is a full Steering Committee position.
+Roles and responsibilities include providing expertise and input to the
+Committee on its activities; working with the rest of the MEPAG
+Steering Committee to determine measurable actions the Mars community
+will take to increase its equity, diversity, inclusion and
+accessibility; tracking progress on EDIA initiatives; and serving as
+one of two MEPAG representatives on the EDIA Working Group Steering
+Committee. This member would fully support the purposes and initiatives
+of MEPAG on the MEPAG website.
+
+Like all MEPAG positions, this is a volunteer role. It is expected the
+time commitment will be ~5 hours per month and the term is expected to
+last at least 3 years.
+
+Interested applicants should send a 1-page CV and a short statement
+describing commitment to, and experience with, both Mars exploration
+and EDIA issues, and how you would work towards inclusion and equity
+within the Mars community to mepag_edia@jpl.nasa.gov by October 14,
+2020.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+MEPAG NEWSLETTER
+
+The October 2020 edition of the Mars Exploration Science Monthly
+Newsletter can be found attached and on the web at:
+http://mepag.jpl.nasa.gov. In this newsletter, we continue to update
+the upcoming conference schedule with postponements, cancellations, and
+conversions to virtual meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+The newsletter meeting calendar has been updated to include:
+
+Black Physicists (NSBP) Annual Virtual Meeting, Nov. 5-8, 2020, with
+deadlines before the next newsletter:
+
+https://www.nsbp.org/2020-conference/2020-conference-home
+
+IEEE Int'l Instrumentation & Measurement Technology, March 6-13, 2021-
+Has been changed to a Virtual Meeting
+
+https://www.aeroconf.org/
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+SBAG EARLY CAREER OPPORTUNITIES
+
+The 24th Small Bodies Assessment Group (SBAG) meeting will be virtual
+on 26-27 January 2021. We have two opportunities at this upcoming
+SBAG meeting specifically for the early career small body community:
+
+Invited early-career speakers: We are planning to select up to two
+early-career researchers to give invited 15-minute talks (including
+Q&A). Interested undergraduate students, graduate students, postdocs,
+and other early career scientists (within 5 years of terminal degree)
+should submit a letter and a CV to the SBAG Early Career Secretary,
+Terik Daly (Terik.Daly@jhuapl.edu), via email by COB (5 pm Eastern
+time) on 20 November 2020. Further application information can be found
+on the SBAG website (https://www.lpi.usra.edu/sbag/meeetings).
+
+Lightning Talks: We will provide time on the agenda for early-career
+scientists and engineers attending the meeting to introduce themselves
+and their research to the community. The talks will be 3 minutes each.
+If you are interested in giving a lightning talk, please email the
+early-career secretary, Terik Daly (terik.daly@jhuapl.edu), two weeks 
+before the meeting. Attach a single slide, in PDF format, with your 
+name, affiliation, and a figure or two that highlight your research.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[PDS] APERIODIC PDS DATA RELEASES IN 2020.09
+
+In September 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+  2020.09.01 Mars Global Surveyor: TES Atmospheric Recalibration
+  2020.09.18 Rosetta: CONSERT Data
+  2020.09.21 Magellan: Venus Stereo-Derived Topography
+  2020.09.21 IUE Asteroid Reflectance Spectra
+  2020.09.21 OSIRIS-REx Mt. Bigelow Ground Based Bennu Observations
+  2020.09.29 Rosetta: ROMAP Data
+  2020.09.29 MER: Pancam IOF Data
+
+To access those data:
+  https://pds.nasa.gov/datasearch/subscription-service/SS-20200930.shtml
+
+To access all data archived in PDS:
+  https://pds.nasa.gov
+
+The PDS Team
+Mailto: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[PDS] MARS INSIGHT DATA RELEASE 6
+
+The NASA Planetary Data System announces Release 6 of data from the
+InSight Lander mission to Mars. This release contains raw and
+calibrated data products covering the time period from April 1, 2020,
+through June 30, 2020 (sols 478-566). The data are archived at various
+PDS nodes.
+
+SEIS (Seismometer) at the Geosciences Node
+RAD (Radiometer) at the Geosciences Node
+RISE (Radio Science) at the Geosciences Node
+IDA (Instrument Deployment Arm) at the Geosciences Node
+APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+IFG (Insight Fluxgate Magnetometer) at the PPI Node
+ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at
+   the Cartography and Imaging Sciences Node
+SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/insight/
+
+InSight releases occur every three months. The next release is
+scheduled for January 4, 2021.
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[PDS] ODYSSEY DATA RELEASE 73
+
+The NASA Planetary Data System announces Release 73 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period January 1,
+2020, through March 31, 2020 for the GRS/HEND/NS suite, and December 2,
+2019, through March 3, 2020, for THEMIS.
+
+GRS/HEND/NS data are archived at the PDS Geosciences Node, THEMIS data
+at the THEMIS Data Node, and SPICE data at the PDS NAIF Node. The data
+may be accessed from
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201001.shtml
+
+Odyssey releases occur every three months. The next release is 
+scheduled for January 4, 2021.
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone:  (818) 393-7165
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+DPS PROFESSIONAL CLIMATE AND CULTURE SUBCOMMITTEE (PCCS) SEEKING NEW
+MEMBERS
+
+Are you interested in making the planetary science community more
+diverse and inclusive? If so, please contact dpspccs@gmail.com by Oct
+30 to volunteer to be part of the DPS Professional Culture and Climate
+subcommittee (PCCS). A list of our charge, duties, and expectations can
+be found at: 
+
+https://dps.aas.org/leadership/climate
+
+You also can speak with any current PCCS members (listed at above site)
+and, in particular, you are welcome to contact Co-Chair Serina Diniega
+(serina.diniega@jpl.nasa.gov). At the DPS meeting, PCCS efforts will be
+described a bit at the DPS Members meeting (Oct 28, 1-2pm EDT) and with
+the PCCS Plenary speaker (Oct 30, 12:45-1:40pm EDT).
+
+To express interest in becoming a PCCS member, please send an email to
+dpspccs@gmail.com by the end of the DPS meeting (Oct 30), including (1)
+why you are interested, (2) a brief description of any EDIA work you've
+already done, and (3) a brief statement on what you might hope to
+accomplish with the PCCS. Comments about past or potential future work
+by PCCS are also welcomed, as always.
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+THE LUNAR SURFACE INNOVATION CONSORTIUM - VIRTUAL FALL MEETING
+
+The Lunar Surface Innovation Consortium (LSIC) Fall Meeting will be
+held virtually on October 14-15 2020. The keynote speaker will be NASA
+Administrator, Jim Bridenstine. It will feature additional keynote
+addresses, working sessions, and technical poster presentations (a
+preliminary agenda is posted at:
+
+http://lsic.jhuapl.edu/Events/docs/agenda.pdf 
+
+The event will center on the interrelationships between the six LSIC 
+focus areas, especially in the context of surface power. The six LSIC 
+technical focus areas are:
+
+Dust Mitigation
+Excavation & Construction
+Extreme Access
+Extreme Environments
+In Situ Resource Utilization
+Surface Power
+
+Registration is required for participation in breakout sessions:
+
+http://lsic.jhuapl.edu/Events/102.php?id=102
+
+The registration deadline Oct 12, 2020, at 11:59 PM EDT. For the poster
+session, we are taking a two-fold approach: providing posters for
+asynchronous viewing and comments through our website, and then during
+the meeting, hosting a virtual poster session through the Gather Town
+software. Gather runs in a browser, and allows regional mingling, much
+like a real meeting would. To try to mitigate member stress, we will
+offer demo sessions and a user guide in advance of the meeting.
+
+[Edited for length]
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+#DPS2020 CAREER CENTER: ADVERTISE YOUR JOB OPENINGS!
+
+At the upcoming DPS meeting (Oct 26-30), we will be hosting a virtual
+career center with job resources and opportunities to connect job
+seekers with job listers.
+
+Employers, this is a fantastic opportunity to advertise your job
+openings to lots of job-seeking astronomers, geologists, and space
+scientists! Please consider listing (for free!) your job openings in
+the DPS jobs register here: 
+
+https://dps.aas.org/jobs
+
+Questions: contact dps.chair@aas.org
+
+https://aas.org/meetings/dps52
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+Oct. 14, 2020
+Mapping and Planetary Spatial Data Infrastructure Team (MAPSIT) 
+Community Meeting
+https://www.lpi.usra.edu/mapsit/meetings/mapsitfall2020/
+Virtual
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Stellar Occultation by the Resonant Trans-Neptunian Object (523764) 
+2014 WC510 Reveals a Close Binary TNO
+Rodrigo Leiva et al. 2020 PSJ 1:48
+http://doi.org/10.3847/PSJ/abb23d
+
+Evaporation from the Lunar Magma Ocean Was Not the Mechanism for 
+Fractionation of the Moon's Moderately Volatile Elements
+H. Tang and E. D. Young 2020 PSJ 1:49
+http://doi.org/10.3847/PSJ/abb23c
+
+Spatial Variations of Low-mass Negative Ions in Titan's Upper 
+Atmosphere
+Teodora Mihailescu et al. 2020 PSJ 1:50
+http://doi.org/10.3847/PSJ/abb1ba
+
+Haze Formation in Warm H2-rich Exoplanet Atmospheres
+Chao He et al. 2020 PSJ 1:51
+http://doi.org/10.3847/PSJ/abb1a4
+
+The Population of Kilometer-scale Retrograde Jovian Irregular Moons
+Edward Ashton et al. 2020 PSJ 1:52
+http://doi.org/10.3847/PSJ/abad95
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

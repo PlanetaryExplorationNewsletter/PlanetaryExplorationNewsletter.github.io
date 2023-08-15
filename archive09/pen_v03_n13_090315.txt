@@ -1,0 +1,153 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 3, Number 13 (March 15, 2009)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Planetary Science Summer School Applications 
+2. [NASA PDS] Release 8 of Mars Reconnaissance Orbiter (MRO) Data
+3. Invitation to Contribute to a Special Issue of Icarus Devoted to 
+   the Planet Mercury
+4. Call for Abstracts
+5. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS
+
+NASA is accepting applications from science and engineering post-docs,
+recent PhDs, and doctoral students for its 21st Annual Planetary 
+Science Summer School, which will hold two separate sessions this 
+summer (20-24 July and 3-7 August) at the Jet Propulsion Laboratory 
+in Pasadena, Calif. During the program, student teams will carry out 
+the equivalent of an early mission concept study, prepare a proposal 
+authorization review presentation, present it to a review board, and 
+receive feedback. At the end of the week, students will have a clearer 
+understanding of the life cycle of a space mission; relationships 
+between mission design, cost, and schedule; and the tradeoffs necessary
+to stay within cost and schedule while preserving the quality of 
+science. Applications are due 1 May 2009. Partial financial support 
+is available for a limited number of individuals. Further information 
+is available at: 
+
+http://pscischool.jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA PDS] RELEASE 8 OF MARS RECONNAISSANCE ORBITER (MRO) DATA
+
+The Planetary Data System (PDS) is pleased to announce Release 8
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments: CRISM, CTX, HiRISE, MARCI, MCS, RSS, SHARAD and SPICE.  
+In general, MRO Release 8 includes data collected May 9, 2008 through 
+August 8, 2008.
+
+The HiRISE Operations Center has released HiRISE image data acquired
+over the time period spanning October 14, 2008 to January 16, 2009
+in the MRO orbit range of 10,400 to 11,599.  This release contains
+1.8 Terabytes of image products derived from 642 observations made
+by the HiRISE camera during this period.
+
+In addition, nearly 500 stereo anaglyph products have been released,
+bringing HIRISE analglyph production up to date with the currently
+released set of stereo pairs.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20090309.html
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+INVITATION TO CONTRIBUTE TO A SPECIAL ISSUE OF ICARUS DEVOTED TO THE 
+PLANET MERCURY
+
+The Editors of Icarus and the MESSENGER Science Team invite 
+contributions to a special issue devoted to the planet Mercury.  The 
+MESSENGER team will be contributing a set of papers reporting results 
+from the spacecraft's first two flybys of Mercury in January and 
+October 2008, as well as on models that account for those observations.
+The special issue is also open to other papers reporting new results on
+Mercury science.  These could be papers analyzing observations from the
+Mariner 10 or MESSENGER flybys, reporting on new models, or presenting 
+appropriate ground-based or laboratory measurements.  The submission 
+deadline for all papers in the special issue is 31 May 2009.
+
+To assist in planning for the editorial review of papers for the 
+special issue, contributors from outside the MESSENGER team are asked 
+to send a brief letter of intent by the end of April to the Icarus 
+editorial office: icarus@astro.cornell.edu.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+CALL FOR ABSTRACTS
+
+On behalf of the Lunar Reconnaissance Orbiter Project, the Arizona 
+State University School of Earth of Space Exploration is hosting the 
+Lunar Reconnaissance Orbiter Science Targeting Meeting on June 9 to 11,
+2009.  A goal of this meeting is to foster understanding of LRO 
+capabilities and the mission planning processes necessary for 
+high-resolution targeting of lunar features by the LRO Narrow Angle 
+Cameras, the Mini-RF synthetic aperture radar, and Diviner Lunar 
+Radiometer Experiment. Another goal is to solicit ideas from the lunar 
+science community for LRO targeting of specific types of features and 
+focused science themes. The meeting will feature presentations and 
+discussion of 6 lunar research themes that have application to the 
+capabilities of LRO. The primary product of this meeting will be a 
+prioritized list of targets including rationale and LRO acquisition 
+parameters.
+
+Meeting information can be found here:
+
+http://ser.sese.asu.edu/LSM/index.php
+
+Abstracts are welcome for 6 science themes related to the exploration
+of the Moon by the Lunar Reconnaissance Orbiter mission, including 
+lunar regolith, volcanism, crustal composition, impact cratering, 
+volatiles, and habitation and resources.
+
+Abstracts should be submitted electronically by April 17, 2009 at 
+5:00 p.m. U.S. CDT. Templates and instructions can be found here:
+
+http://ser.sese.asu.edu/LSM/abstract.php
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

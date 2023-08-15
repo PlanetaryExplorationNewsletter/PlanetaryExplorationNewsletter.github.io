@@ -1,0 +1,435 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 56 (December 23, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] OPAG Update
+2. [NASA/PDS] Lunar Reconnaissance Orbiter Data Release 12
+3. [NASA/PDS] Grail Release 1
+4. Postdoctoral Positions: Smithsonian Institution, National Air and 
+   Space Museum
+5. NASA Postdoctoral Fellowships
+6. [NASA] 2020 Mars Science Rover Science Definition Team
+7. Job Announcement: Research Associate at LASP
+8. Microsymposium 54, Lunar Farside and Poles: New Destinations for 
+   Exploration
+9. Would you Like to See a Volcanology Session at LPSC 2013?
+10. ATLAS software and postdoc positions
+11. [NASA] Undergraduate Student Instrument Project
+12. [NASA] LADEE Guest Investigator Program
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] OPAG UPDATE
+
+The next Outer Planets Assessment Group Meeting is just around the 
+corner. We will meet 10-11 January, 2013, at the Georgia Tech Global 
+Learning Center in Atlanta, adjacent to the GT campus. Logistical 
+details and an updated agenda can be found at the OPAG website: 
+
+http://www.lpi.usra.edu/opag
+
+Student travel funds are available. Please send Curt Niebur at NASA 
+HQ a CV and a brief statement as to why you want to go 
+(curt.niebur@nasa.gov).  
+
+The meeting promises to be rich, productive, and rather important, 
+as we chart the path forward for Outer Planet Exploration in an era 
+of constrained budgets.
+
+Sincerely, Bill McKinnon, OPAG Chair (mckinnon@wustl.edu)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA/PDS] LUNAR RECONNAISSANCE ORBITER DATA RELEASE 12
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA, LROC, Mini-RF, and RSS.
+
+In general, LRO Release 12 includes data collected between 
+June 15, 2012 and September 14, 2012.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20121215.html
+
+PDS offers two services for searching the LRO archives:
+
+The Planetary Image Atlas at the Imaging Node allows selection of LRO 
+data by specific search criteria. 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector). 
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data may be obtained here: 
+
+http://naif.jpl.nasa.gov/naif/data_archived.html
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA/PDS] GRAIL RELEASE 1
+
+The Planetary Data System (PDS) announces the release of the following 
+Gravity Recovery and Interior Laboratory (GRAIL) data:
+
+- LGRS EDR: Raw science data originating from the Lunar Gravity 
+  Ranging System (LGRS) on each of the two spacecraft comprising the 
+  GRAIL mission.
+- RSS EDR: Raw radio science data and ancillary files from the GRAIL 
+  mission.
+- LGRS CDR: Calibrated and resampled data from the LGRS on each of 
+  the two spacecraft comprising the GRAIL mission.
+- NAIF SPICE: Complete set of SPICE kernels created by GRAIL 
+  Navigation and archived by NAIF.
+ 
+The GRAIL mission placed two spacecraft into orbit around the Moon to 
+study its internal structure. By measuring the distance of one orbiter 
+relative to the other, the orbital perturbations caused by the Moon 
+could be observed. Combining this with the orbiter position as 
+determined from Earth-based observations, the mass distribution on 
+the Moon could be determined.
+
+Derived and ancillary data products will be released in October, 2013.
+
+To access the above data, please visit the following link:
+
+http://pds-geosciences.wustl.edu/missions/grail/
+ 
+To access the latest PDS Data Releases, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+ 
+All available PDS data may be downloaded from:
+
+http://starbrite.jpl.nasa.gov/pds/index.jsp
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOCTORAL POSITIONS: SMITHSONIAN INSTITUTION, NATIONAL AIR AND 
+SPACE MUSEUM
+
+Applications are invited for two postdoctoral positions at the National
+Air and Space Museum's Center for Earth and Planetary Studies. 
+
+Research areas for the first position include analysis of:
+(1) radar data for Venus and integration with geologic mapping, 
+(2) lunar radar images for studies of impact melt and other deposits, 
+(3) SHARAD sounding data for Mars with an emphasis on polar deposits. 
+Skills in quantitative remote sensing analysis, planetary mapping and 
+tectonics, GIS integration of remote sensing data, and electromagnetic 
+modeling are potentially relevant.
+
+Research areas for the second position include: 
+(1) landscape evolution modeling of cratered highlands on Mars, 
+(2) estimation of the volume of material eroded, 
+(3) analysis of stratigraphy exposed on crater floors, and 
+(4) field study of terrestrial analogs to Martian fluvial landforms. 
+A background in quantitative terrestrial or planetary geomorphology 
+and experience with GIS analysis of imaging and topography are desired.
+
+Please apply by January 15, 2013 through the Smithsonian SOLAA site, 
+SOLAA.si.edu, and select the Earth and Planetary Sciences Fellowship 
+program under the National Air and Space Museum.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+ 
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] 2020 MARS SCIENCE ROVER SCIENCE DEFINITION TEAM
+
+The National Aeronautics and Space Administration (NASA) invites 
+scientists, technologists, and other qualified and interested 
+individuals at U.S. institutions and elsewhere to apply for membership 
+on the Science Definition Team (SDT) for the 2020 Mars science rover 
+mission (hereafter Mars-2020). Responses to this invitation should 
+email mars2020-sdt@lists.hq.nasa.gov no later than January 10, 2013. 
+
+For more information see the full text of the call:
+
+http://science.nasa.gov/media/medialibrary/2012/12/20/Call_for
+_2020_Mars_Science_Rover-G.doc
+
+Dr. Mitch Schulte
+202-358-2127
+mars2020-sdt@lists.hq.nasa.gov
+
+[Edited for Length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: RESEARCH ASSOCIATE AT LASP
+
+The space physics and planetary groups at the Laboratory for 
+Atmospheric and Space Physics (LASP) at the University of Colorado (CU) 
+are involved in several current and near-term space flight missions. 
+There is funding to support up to three research positions at levels I 
+(post-doc), II, and III in support of current missions such as THEMIS, 
+RBSP, and JUNO, as well as the near-term MAVEN and MMS missions.
+
+The focus of the positions is on data analysis from the missions listed 
+above. Theoretical and numerical modeling studies are also welcome as 
+long as the proposed work promises to use supporting data from one or 
+more of these missions.
+
+The candidate will be working closely together with Dr. Andersson, 
+Prof. Bagenal, Prof. Ergun and Dr. Eriksson. 
+
+Each position will initially be a one year contract with possible 
+extension. We will accept applications until May 1, 2013.
+
+Please submit your resume/vitae, list of three references, proof of 
+highest degree earned, and a cover letter describing your proposed 
+work plan in support of one or more of the listed missions at:
+
+https://www.jobsatcu.com/applicants/Central?quickFind=71623
+
+Contacts:
+Stefan Eriksson (eriksson@lasp.colorado.edu)  
+Molly Hand (molly.hand@lasp.colorado.edu) 
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MICROSYMPOSIUM 54, LUNAR FARSIDE AND POLES: NEW DESTINATIONS FOR 
+EXPLORATION
+
+March 16-17th, 2013 (just prior to LPSC 44)
+Woodlands Waterway Marriot
+Woodlands, Texas
+
+The Moon provides a fundamental frame of reference for understanding 
+the formation, early history, and evolution of terrestrial planetary 
+bodies. An international Renaissance in lunar exploration is is 
+changing our perception of the nature of the Moon, its origin, and 
+its evolution. Missions have provided new global coverage, with 
+particular insights for the Lunar Farside and Poles. What is this 
+Renaissance teaching us about traditional lunar compositional, 
+interior, and historical paradigms? What ideas has it challenged?
+How do these evolving concepts lead us to new questions and a new 
+strategy for future exploration of the Moon? Microsymposium 54 will 
+present a summary of new discoveries, and ponder their implications 
+for the next generation of significant scientific problems and future 
+goals and destinations for robotic and human lunar exploration. For 
+more information, visit Microsymposium 54 and the online registration 
+form. 
+
+Co-conveners: Carle Pieters, Maria Zuber, James Head, Igor Mitrofanov, 
+Alexander Basilevsky, Amy Barr, Ben Weiss, and Harald Hiesinger
+
+Co-Sponsored by Brown University, the Vernadsky Institute, and the 
+Brown-MIT NASA Lunar Science Institute.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+WOULD YOU LIKE TO SEE A VOLCANOLOGY SESSION AT LPSC 2013?
+
+We were denied a special session, but are hoping for an informal 
+session focused on planetary volcanology at the next LPSC. Towards 
+that end, we encourage the submission of abstracts focusing on 
+planetary volcanology, especially the topics of lava emplacement and 
+resultant geomorphology. Please help us achieve critical mass so that 
+this topic will warrant an informal oral/poster session. 
+
+Thank you,
+Serina Diniega & Suzanne Smrekar (JPL)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ATLAS SOFTWARE AND POSTDOC POSITIONS
+
+Dear Friends,
+
+The Asteroid Terrestrial-impact Last Alert System (ATLAS -
+http://fallingstar.com/) is expecting funding to begin on 2013 Jan 1
+and is seeking people for the following positions:
+
+Senior Software Engineer (closes Jan 31)
+
+http://tinyurl.com/RCUH-ATLAS-SrSoftwareEngineer
+
+Software Engineer (closes Mar 31)
+
+http://tinyurl.com/RCUH-ATLAS-SoftwareEngineer
+
+Postdoc (closes Mar 31)
+
+http://tinyurl.com/RCUH-ATLAS-PostDoc
+
+Please forward this information to anybody you know who might be 
+interested in applying for these positions.
+
+Thanks!
+Robert
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] UNDERGRADUATE STUDENT INSTRUMENT PROJECT
+
+NSPIRES Release Date: December 21, 2012
+Question and Answer Telecon: January 17, 2013                               
+Proposals Due: April 5, 2013, 5 pm EDT
+
+SMD is releasing this Undergraduate Student Instrument Project 
+Educational Flight Opportunity to solicit U.S. university proposals 
+to develop an Earth or space science payload that will fly on a NASA 
+suborbital vehicle, such as a sounding rocket, balloon, aircraft, or 
+commercial suborbital reusable launch vehicle. The maximum funding per 
+project is $50K. The cost of payload integration with the suborbital 
+vehicle and the launch/flight is provided by NASA at no cost to the 
+university team. The selected projects must be launched or flight-ready
+within 13-16 months from the project initiation date. SMD expects to 
+select approximately 15-20 projects, subject to available funding.
+
+This solicitation is available at:
+
+http://nspires.nasaprs.com/ 
+
+then "Solicitations" to "Open Solicitations" to "NNH13ZDA004N"
+
+For further information and inquiries contact:
+David Pierce at david.l.pierce@nasa.gov or (202) 358-3808. 
+
+[Edited for length.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] LADEE GUEST INVESTIGATOR PROGRAM
+
+This solicitation is for investigations in the LADEE Guest Investigator 
+Program (GIP). The goals of the program are to: 
+a) enhance the scientific return from the LADEE mission by broadening 
+participation in the mission and 
+b) augment the existing LADEE science team to include new members 
+conducting investigations that broaden and/or complement the funded 
+Principal Investigator (PI) and Co-Investigator (Co-I)-led 
+investigations, thus maximizing the contribution of LADEE to the 
+future exploration and scientific understanding of the Moon. Because 
+the intention is to enhance and broaden the scientific return, 
+investigations submitted by LADEE PIs and Co-Is will not be considered.
+
+NOIs due: February 22, 2013
+Proposals due: March 29, 2013
+
+For more details see:
+http://science.nasa.gov/researchers/sara/grant-solicitations/
+roses-2012/2012/12/21/amendment-31-new-opportunity-roses-12-appendix-
+c27-ladee-guest-investigator-program/
+
+Point of Contact:
+Sarah Noble
+Sarah.K.Noble@nasa.gov
+(202) 358-5862
+
+Proposer Information Package Questions, contact:
+Richard Elphic, LADEE Project Scientist
+Richard.C.Elphic@nasa.gov
+(650) 604-4164
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 10-11, 2013
+[NASA] Outer Planets Assessment Group Meeting 
+http://www.lpi.usra.edu/opag
+Atlanta, GA
+
+March 16-17, 2013
+Microsymposium 54, Lunar Farside and Poles: New Destinations for 
+Exploration
+http://lunarscience.nasa.gov/articles/microsymposium-54-lunar-farside
+-and-poles-new-destinations-for-exploration/
+The Woodlands, TX 
+
+March 17-21, 2014
+Search for Life Beyond the Solar System
+http://www.paignion.info/Tucson2014_placeholder_1.html
+Tucson, AZ
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

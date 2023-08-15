@@ -1,0 +1,441 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 11 (March 6, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Workshop: Dust, Atmosphere and Plasma Environment of the Moon and 
+   Small Bodies (DAP-2017)
+2. Open Planetary Astronomy Position
+3. Linking Exoplanet and Disk Compositions
+4. [NASA] PDS - GRAIL Release 6
+5. Planetary Geomorphology 'Image of the Month'
+6. LPSC - RPS Peripheral Session
+7. Travel Grant Announcement
+8. [NASA] PDS - Mars Reconnaissance Orbiter Data Release 36
+9. Observation Campaign of KBO Target for Proposed New Horizons Flyby
+10. Mars Exploration Science Monthly Newsletter: March 2016
+11. [NASA] ROSES-2016 Planetary Science Program Overview Clarified
+12. Comets 2016 - First Announcement
+13. LPSC: MarsSI User Workshop
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+WORKSHOP: DUST, ATMOSPHERE AND PLASMA ENVIRONMENT OF THE MOON AND 
+SMALL BODIES (DAP-2017)
+
+The Dust, Atmosphere and Plasma environment of the Moon and Small 
+Bodies (DAP-2017) workshop will be held Jan 11-13, 2017 in Boulder, 
+Colorado, to discuss our current understanding of the surface 
+environment of the Moon, the moons of Mars: Phobos and Deimos, and 
+asteroids, to share new results from past and ongoing missions, and 
+to describe expectations for planned upcoming missions. The workshop 
+will be focused on the open science questions, the status and future 
+of our supporting modeling and laboratory experimental capabilities, 
+the definition of the required measurements and instrument 
+capabilities for future investigations from orbit, or to be 
+deployed on the surface.
+
+More information is available at:
+
+http://impact.colorado.edu/dap_meeting.html 
+
+as is a form to express your interest and to join the workshop 
+mailing list.    
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+OPEN PLANETARY ASTRONOMY POSITION
+
+The Chester F. Carlson Center for Imaging Science at the Rochester 
+Institute of Technology invites applicants for a tenure track assistant 
+professor position in the Digital Imaging and Remote Sensing Laboratory 
+(DIRS). We are seeking candidates whose research expertise and 
+knowledge in the remote sensing field will complement the existing 
+and well-established expertise within DIRS in passive and active 
+electro-optical systems, data exploitation, modeling and simulation, 
+and environmental applications. Areas of complementary expertise of 
+interest include, but are not limited to, unmanned aerial systems, 
+synthetic aperture radar, and deep learning. Individuals working in 
+the field of planetary remote sensing will be considered. The 
+successful candidate will be expected to advise graduate students, 
+teach graduate level remote sensing courses and undergraduate courses 
+relevant to imaging science, and develop an externally funded research 
+program. More information on the activities of the DIRS group can be 
+found at:
+
+http://www.cis.rit.edu/remote-sensing/about
+
+Apply online at:
+
+http://careers.rit.edu/faculty
+
+Go to Search openings link then use Keyword 2245BR. Contact the search 
+committee with questions on the position at vodacek@cis.rit.edu. 
+Review of applications will begin immediately and continue until a 
+suitable candidate is found. RIT does not discriminate. 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LINKING EXOPLANET AND DISK COMPOSITIONS
+
+Workshop at the Space Telescope Science Institute, Baltimore MD, USA
+
+Dates: September 12-14, 2016
+
+This workshop will gather scientists working on the compositional 
+characterization of planets and planet-forming regions in 
+protoplanetary disks. Recent and upcoming advancements make it 
+timely to have a round-table conversation among the communities 
+involved, to join forces in tackling our most compelling questions 
+on the origins of exoplanet diversity. Do exoplanet compositions 
+retain the imprint of large-scale disk processes? Do disks include 
+compositional trends that imprint planets? What do we learn in 
+this context from observations of Solar System bodies? And what 
+can we test with observations of disks and exoplanets in the near 
+future? We intend to identify long-lasting and observable links 
+between exoplanet and disk compositions, to help the community in 
+shaping ongoing modeling efforts as well as the essential parameter 
+space to cover with existing and upcoming observatories for exoplanet 
+and disk characterization.
+
+Abstract submission will begin on March 26, 2016 through the link 
+provided below:
+
+http://www.cvent.com/d/ffqwn1
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - GRAIL RELEASE 6
+
+The Planetary Data System announces the release of a new degree and 
+order 1500 lunar spherical harmonic gravitational field model, 
+GL1500E, which includes data from the GRAIL primary and extended 
+missions. The data may be accessed here:
+
+http://pds-geosciences.wustl.edu/missions/grail/
+
+For information about this release, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160229.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be downloaded from:
+
+http://pds.nasa.gov 
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818)393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The March 'Image of the Month' is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "An esker still physically associated with its 
+parent glacier in Phlegra Montes, Mars". Contributed by Colman 
+Gallagher, University College Dublin.
+
+Remember you can now follow IAG Planetary Geomorphology Image of the 
+Month on Facebook
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter @PlanetGeomorpho
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+LPSC - RPS PERIPHERAL SESSION
+
+LPSC Community Dialogue: Usage of Multi-Mission Radioisotope 
+Thermoelectric Generators (MMRTGs) for Future Potential Missions
+Wednesday, March 23, 12:00 to 1:15 p.m., LPSC, Grogan's Mill
+
+This Radioisotope Power System (RPS) peripheral session will provide 
+an overview of the Multi-Mission Radioisotope Thermoelectric Generator 
+(MMRTG) system being offered within the New Frontiers-4 Announcement 
+of Opportunity, as well as discuss how to obtain additional information 
+necessary for detailed mission planning. Both DOE and NASA RPS 
+representatives will share information and engage in dialog. 
+
+For more information, visit:
+
+http://RPS.nasa.gov 
+
+or the RPS booth at LPSC.  
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+TRAVEL GRANT ANNOUNCEMENT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the first 
+2016 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering.  
+
+The Travel Grants, in the amount of $500, enable student recipients 
+to attend professional meetings to present their research. The Spring 
+2016 Travel Grant application deadline is April 1, 2016. Jerry Soffen, 
+a biologist by training, led a distinguished career in NASA, including 
+serving as the Project Scientist for Viking and as an architect for 
+the NASA Astrobiology Institute. The Travel Grant continues Jerry's 
+dedication to educating and involving future generations in space 
+science and engineering pursuits. The electronic application materials 
+and instructions are located on the Soffen Fund website: 
+
+http://SoffenFund.org
+
+Questions regarding the application or application process may be 
+sent to: info@SoffenFund.org
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PDS - MARS RECONNAISSANCE ORBITER DATA RELEASE 36
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SHARAD*
+SPICE
+
+*SHARAD data in this release includes only derived data.
+
+In general, MRO Release 36 includes data collected from
+May 9, 2015, through August 8, 2015. The release includes
+HiRISE data from November 02, 2015 to January 25, 2016.
+
+To access the above data:
+
+http://pds.nasa.gov/tools/subscription_service/SS-20160301.shtml
+
+To access the latest PDS Data Releases:
+
+http://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+OBSERVATION CAMPAIGN OF KBO TARGET FOR PROPOSED NEW HORIZONS FLYBY
+
+Having completed its successful flyby of the Pluto system, the New 
+Horizons spacecraft is on a trajectory to encounter Kuiper Belt 
+Object 2014 MU69. Pending NASA approval for an extended mission, 
+New Horizons will also take advantage of being an observing platform 
+in the outer solar system to observe a select number of other KBOs 
+having favorable geometries for resolved or high signal-to-noise 
+measurements.
+
+Earth-based observations can support these pending New Horizons 
+measurements through calibrated photometry at low phase angle (Earth), 
+which will be complementary to the higher phase angle data from the 
+spacecraft. In particular for objects having the potential for 
+resolved imaging from the spacecraft, knowledge of the rotational 
+phase at the time of the New Horizons observations can help constrain 
+the overall shape of these distant objects.
+
+An Earth-based campaign website in support of the pending science 
+from the New Horizons extended mission is under construction at: 
+
+http://www.boulder.swri.edu/nh-support-obs/kbo
+
+Available there now is a table listing the pending targets having 
+the highest priority for supporting observations. Register on that 
+page to indicate interest.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER: MARCH 2016
+
+To the Mars Community,
+
+On behalf of Jeff Johnson (MEPAG Chair), Lisa Pratt (past MEPAG Chair), 
+Dave Beaty, Rich Zurek, and Serina Diniega of the Mars Program 
+Science Office, the March 2016 edition of the Mars Exploration Science 
+Monthly Newsletter can be found on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Meredith at 
+Meredith.A.Cosby@jpl.nasa.gov.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] ROSES-2016 PLANETARY SCIENCE PROGRAM OVERVIEW CLARIFIED
+
+In C.1 the Planetary Science Research Program Overview Section 3.5.2 
+on Data Archiving in the Planetary Data System (PDS) contained 
+contradictory language, in one place indicating that proposers 
+"should" and in another case that proposers "must" communicate with 
+and obtain a letter from a PDS Discipline Node. The text has 
+been clarified to indicate that "Proposals must demonstrate an 
+understanding of the work involved in preparing data for the PDS" 
+but that inclusion of a letter from Planetary Data System Discipline 
+Nodes is not mandatory. New text is bold and deleted text is struck 
+through. 
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+COMETS 2016 - FIRST ANNOUNCEMENT
+
+An international conference on cometary science entitled "Comets: A 
+new vision after Rosetta/Philae" will be held November 14-18, 2016, 
+at the Abattoirs Museum in Toulouse, France. The conference is 
+principally organized by the teams involved in the Rosetta mission, 
+the European Space Agency (ESA), the French Space Agency (CNES) and 
+the Institute of Research in Astrophysics and Planetology (IRAP). 
+Toulouse is famous for its aeronautics and space industry, its 
+gastronomy and its history dating back to the Roman empire.  
+
+A general press conference on the Rosetta mission will be organized 
+at CNES on Monday morning. The 46th Rosetta Science Working Team 
+technical session will be held on Wednesday. A convivial dinner is 
+scheduled on Tuesday night. Optional mid-conference visits will be 
+organized on Wednesday and Thursday. Additional details about the 
+program, will be included in the second and third announcements.
+
+One goal of this meeting is to generate a comprehensive global 
+understanding of comets that will serve as an important resource 
+for future studies. Reports on the discussions of the conference 
+will be published at a later time.
+
+Send us your indication of interest and sign up to receive updates 
+from the SOC and LOC at:
+
+http://www.comets2016toulouse.com
+
+[Edited for length.]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+LPSC: MARSSI USER WORKSHOP
+
+When: Wednesday 03/23/2016 12:00-13:15
+Where: Room Shenandoah
+
+MarsSI (Acronym of MARS System of information) is a web Geographic 
+Information System application which allows the managing and 
+processing of Martian orbital data. From this application, the 
+users are able to easily and rapidly select observations, to process 
+raw data via proposed automatic pipelines and to get back final 
+products which can be visualized under Geographic Information Systems 
+like ARCGIS and QGIS. Also, MarsSI proposes automatic stereo-
+restitution pipelines to produce Digital Terrain Models (DTM) 
+from CTX and HIRISE stereo pairs. This application is part of 
+the ERC project e-Mars founding from the European Union's Seventh 
+Framework Program (FP7/2007-2013) (ERC Grant Agreement No. 280168). 
+This tool is also part of Portail of Planetary Surfaces (PSUP) 
+founded by the french national research agency (CNRS).
+
+Important information:
+- The contact is Cathy Quantin-Nataf (cathy.quantin@univ-lyon1.fr)
+
+- MarsSI website can be found at:   
+
+https://emars.univ-lyon1.fr
+
+- To get an account, please send an email to loic.lozach@univ-lyon1.fr
+
+- Tutorials (e.g., available observations, proposed processing 
+pipelines) can be found at:
+
+https://www.youtube.com/channel/UCAn2ZPUPJ6g-ZaJkiOhue7A
+
+[Edited for length.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 12-14, 2016
+Linking Exoplanet and Disk Compositions
+http://www.cvent.com/d/ffqwn1
+Baltimore, MD
+
+November 14-18, 2016
+Comets 2016
+http://www.comets2016toulouse.com
+Toulouse, France
+
+January 11-13, 2017
+Dust, Atmosphere and Plasma environment of the Moon and Small
+Bodies (DAP-2017)
+http://impact.colorado.edu/dap_meeting.html
+Boulder, CO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

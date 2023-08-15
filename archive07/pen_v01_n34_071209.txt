@@ -1,0 +1,301 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 34 (December 9, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  [NASA] Informational Briefing in Support of ISS Payloads for the 
+    SMEX AO
+2.  [NASA] Hubble Space Telescope Cycle 17 Call for Proposals
+3.  AAAS Policy Alert
+4.  Possible One-Day Extension of the IPEWG Meeting Schedule
+5.  Second Workshop on Mars Valley Networks
+6.  11th Conference on Electromagnetic and Light Scattering
+7.  International Geomorphology Conference and Planetary Geomorphology
+    Working Group Field Trip, Melbourne, Australia, July 2009
+8.  Planetary Dunes Workshop, New Mexico, April 29th-May 2nd 2008
+9.  AGU Webcast: The Importance of a Program of Mars Exploration
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] INFORMATIONAL BRIEFING IN SUPPORT OF ISS PAYLOADS FOR THE SMEX 
+AO
+
+On Wednesday, December 19, 2007, NASA will provide an informational 
+telecon briefing on the International Space Station (ISS) external 
+payload accommodation and integration capabilities.  The capabilities 
+for installing and operating payloads on the Express Logistics 
+Carriers (ELC) mounted on the ISS truss structure, the Japanese 
+Experiment Module ("Kibo") Exposed Facility (EF), the European Space 
+Agency (ESA) Columbus External Payload Facility (EPF), the U.S. 
+Laboratory's Window Research Observation Facility (WORF), and the 
+Japanese HII Transfer Vehicle (HTV) (launch vehicle) will be described.
+
+For the full announcement, go to
+
+http://explorers.larc.nasa.gov/smexacq.html
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] HUBBLE SPACE TELESCOPE CYCLE 17 CALL FOR PROPOSALS
+
+Proposal Deadline: March 07, 2008
+
+NASA and The Space Telescope Science Institute (STScI) are pleased to 
+announce the Cycle 17 Call for Proposals for Hubble Space Telescope 
+(HST) Observations and funding for Archival Research and Theoretical 
+Research programs. Participation in this program is open to all 
+categories of organizations, both domestic and foreign, including 
+educational institutions, profit and nonprofit organizations, NASA 
+Centers, and other Government agencies.
+
+This solicitation for proposals will be open through March 07, 2008, 
+8:00pm EST. The Astronomer's Proposal Tools (APT), which is required 
+for Phase I Proposal Submission will be made available/released for 
+Cycle 17 Phase I use during the 2nd week of January 2008. Results of 
+the selection will be announced in early June 2008.
+
+All programmatic and technical information, as well as specific 
+guidelines for proposal preparation, are available electronically 
+from the STScI World-Wide Web site at the Announcement Web Page with 
+URL: http://www.stsci.edu/hst/proposing/docs/cycle17announce
+
+In Cycle 17, proposers should assume that HST will operate in 
+three-gyro mode. HST has been operating in two-gyro mode since 29
+August 2005.
+
+For further details, see 
+
+http://www.stsci.edu/hst/proposing/docs/cp17-newopps
+
+Questions can be addressed to the STScI Help Desk
+(email: help@stsci.edu; phone: 410-338-1082).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AAAS POLICY ALERT
+
+US Federal Budget News
+
+[Editor note: NASA and other programs are operating on reduced funding
+as a consequence of government failure to pass a budget for FY08, which 
+began October 1. The following is an update from AAAS.]
+
+Congress remained out of session last week, and there was no progress 
+on FY 2008 appropriations. (The Senate has technically been in session
+and has been meeting in pro forma session for a few seconds every
+three days, a parliamentary tactic to keep the President from making
+recess appointments).
+  
+The current continuing resolution (CR) providing temporary funding at
+last year's funding levels for all domestic programs runs out next
+Friday (Dec. 14). Both House and Senate resume regular business this
+week.
+
+Within the next two weeks, Congress hopes to assemble an omnibus
+appropriations bill with $11 billion more for domestic programs than
+the President's request, down from the $23 billion extra that
+Congress had been hoping to add.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSSIBLE ONE-DAY EXTENSION OF THE IPEWG MEETING SCHEDULE
+
+Dear colleagues,
+
+Following up the final announcement of the first meeting of the
+International Primitive Body Exploration Working Group, we are already
+receiving many responses by now.  Thus, we are now investigating a
+possibility if we could extend the meeting for one more day, i.e., to
+continue until January 16th.
+
+So please plan your travel schedule carefully and let your colleagues
+know about this, too.  Even if we eventually need to pack everything
+in the original two days, Okinawa still offers great tourist spots
+that you can visit and quite easily spend more than one day!
+
+We will update our homepage as soon as such an schedule extension is
+decided and we will send emails to all those who have registered by
+then. The homepage is as follows:
+
+http://www.jspec.jaxa.jp/okinawa_index.html
+
+In case that your presentation/participation must be done before
+January 16th, please kindly let us know upon your registration or
+email me.
+
+Thank you very much for your kind attention.  I look forward to meeting
+you all in Okinawa.
+
+Sincerely yours,
+
+Hajime YANO
+
+E-MAIL: yano(at)isas.jaxa.jp
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SECOND WORKSHOP ON MARS VALLEY NETWORKS
+
+October 20-24, 2008
+Moab, Utah
+
+Focus discussions will include extraction of watershed information
+from digital elevation models of the martian surface, age-dating
+valley network systems, and other quantitative measurements of valley
+networks. A fieldtrip to look at sapping features in the Colorado
+Plateau is also planned.
+
+Contact "workshops@si.edu" to receive updates and to pre-register, or
+Bob Craddock at the Smithsonian Institution (craddockb@si.edu) for
+more information.
+
+Bob Craddock
+
+Center for Earth and Planetary Studies
+National Air and Space Museum
+Smithsonian Institution
+Washington, DC 20560
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+11TH CONFERENCE ON ELECTROMAGNETIC AND LIGHT SCATTERING
+
+The meeting will address theoretical developments and simulations, 
+laboratory and field experiments, measurements and applications in
+light scattering by particles with emphasis on cosmic dust and
+planetary aerosols.
+
+The conference will be held on September 7-12, 2008 at the University 
+de Havilland Campus in Hatfield, just 20 miles north of London.
+
+See details at
+
+http://www.els-xi-08.org/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+INTERNATIONAL GEOMORPHOLOGY CONFERENCE AND PLANETARY GEOMORPHOLOGY
+WORKING GROUP FIELD TRIP, MELBOURNE, AUSTRALIA, JULY 2009
+
+International Geomorphology Conference,
+Melbourne, Australia, 7 - 12 July 2009.
+Preliminary information is available on the web at:
+
+http://www.geomorphology2009.com
+
+A special session and a field trip will be organized by the Planetary
+Geomorphology Working Group
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY DUNES WORKSHOP, NEW MEXICO, APRIL 29th-MAY 2nd 2008
+
+Where: Alamogordo, New Mexico.
+When:  April 29th - May 2nd 2008.
+
+1st announcement is now available online:
+
+http://www.lpi.usra.edu/meetings/dunes2008/
+
+Sign up to receive information on the workshop.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU WEBCAST: THE IMPORTANCE OF A PROGRAM OF MARS EXPLORATION
+
+The AGU Meetings Committee invites you to listen to the following
+lectures that will be presented at the 2007 AGU Fall Meeting in San
+Francisco. The following presentations will be made available to you in
+real-time (live!) presentation mode. To view a lecture, go to the Fall
+Meeting page at:
+
+http://www.agu.org/meetings/fm07/ 
+
+and click on the appropriate lecture.
+
+Note: Scheduled presentation times are in the Pacific Time Zone.
+
+Tuesday, December 11, 1130h - 1230h
+H22A Langbein Lecture
+Benchmarks in Hydrogeology in the 20th Century-Unexpected Payoffs
+Presented by Mary P. Anderson, University of Wisconsin-Madison
+
+Wednesday, December 12, 1440h – 1540h
+P33E Whipple Lecture
+The Importance of a Program of Mars Exploration
+Presented by Raymond E. Arvidson, Washington University
+
+Wednesday, December 12, 1815h - 1915h
+U35A Frontiers of Geophysics Lecture
+Abrupt Climate Change and Our Future
+Presented by Lonnie Thompson, Ohio State University
+
+This is our first attempt with a real-time webcast project.  We look
+forward to your feedback after you have viewed the lecture(s).
+Suggestions for future enhancements, any difficulties you experience,
+what was good, and how long you watched the lecture are welcomed. 
+These comments can be sent to fmviews@agu.org.
+
+Sincerely,
+Brenda Weaver
+AGU,  Director of Meetings
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 27, 2008
+The 50th Anniversary of the International Geophysical Year and the 
+Space Studies Board International Polar Year: Understanding the 
+Poles of the Earth, Moon and Mars
+http://www7.nationalacademies.org/ssb/IGY_Paris_event.html
+Paris, France
+
+April 20-23, 2008
+AAPG 2008: Astrogeology - A Far-Sighted Look at Unconventional 
+Resources
+http://www.aapg.org/sanantonio/
+San Antonio, Texas
+
+April 21-23, 2008
+Mars Water Cycle Workshop
+http://www.aero.jussieu.fr/info-pratique/seminaire/MarsWC-Site
+Paris, France
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

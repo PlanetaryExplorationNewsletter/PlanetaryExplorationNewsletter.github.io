@@ -1,0 +1,384 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 13 (March 28, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Comets Postdoc Position at the University of Edinburgh
+2. NEOWISE 2021 Data Release
+3. Nominations Now Open for Membership on the Planetary Science 
+   Advisory Committee
+4. Accepting Applications for Icarus Editor-in-Chief Position
+5. Spring 2021 Soffen Student Travel Grant
+6. Planetary Science and Astrobiology Decadal Survey Calendar of Events
+7. Call for Proposals - NASA Fellowship Activity 2021
+8. NASA SMD Seeks Volunteer Reviewers for Research Proposals
+9. Ph.D. Student Position in Space Physics at Umea University, Sweden
+10. [PDS] MRO SHARAD Delayed Data Release
+11. Tenure-Track Assostant Professor in Planetary Science, University 
+    of Washington, Seattle
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COMETS POSTDOC POSITION AT THE UNIVERSITY OF EDINBURGH
+
+We are hiring a Postdoctoral Research Associate in the field of 
+cometary science. The successful candidate will join the research group 
+led by Dr. Colin Snodgrass and Dr. Cyrielle Opitom at the University of 
+Edinburgh.
+
+The research goal of this position is to advance our understanding of 
+the formation, evolution, and composition of comets. The successful 
+candidate will work on a variety of projects in this area, depending on 
+their experience and research interests. Potential areas of interest 
+include (but are not restricted to):
+
+- The study of comet composition at infrared wavelengths
+- Cometary science with the Rubin Observatory LSST
+- The analysis of archival data from the ESA Rosetta mission
+- Theoretical modelling of any aspect of comet formation or activity 
+  processes
+- Studies relevant to the development of the ESA Comet Interceptor 
+  mission
+
+This position is initially for a fixed term of two years, but may be 
+extended, subject to available funding.
+
+We welcome applications from all qualified candidates, regardless of 
+nationality.
+
+Please include your CV, a research proposal (2 pages) and the names 
+of two referees.
+
+For more information contact Cyrielle.Opitom@ed.ac.uk and/or 
+Colin.Snodgrass@ed.ac.uk and go to:
+
+http://bit.ly/comet_postdoc
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NEOWISE 2021 DATA RELEASE
+
+The Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE) and 
+IPAC at Caltech announce the NEOWISE 2021 Data Release.
+
+The 2021 Release includes all data acquired during the seventh year of 
+the NEOWISE Reactivation mission (Mainzer et al. 2014, ApJ, 792, 30), 
+December 13, 2019, to December 13, 2020. These data are combined with 
+those from Years 1-6 NEOWISE into a single archive that contains 
+approximately 17.8 million sets of 3.4 and 4.6 micron images and a 
+database of ~133 billion source detections. 
+
+NEOWISE scanned the sky ~fourteen complete times during the first seven 
+survey years, with approximately six months between survey passes. 
+With twelve or more independent 3.4 and 4.6 micron exposures made on 
+each sky position during each epoch, the NEOWISE archive is a 
+time-domain resource for extracting multiple, independent thermal flux 
+and position measurements of Solar System small bodies, as well as 
+background galactic and extragalactic sources.
+
+A guide to the NEOWISE data release, data access instructions and 
+supporting documentation is available at: 
+
+http://wise2.ipac.caltech.edu/docs/release/neowise/
+
+NEOWISE is a joint project of the Jet Propulsion Laboratory/
+California Institute of Technology and the University of Arizona, 
+funded by the National Aeronautics and Space Administration Planetary 
+Science Division.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NOMINATIONS NOW OPEN FOR MEMBERSHIP ON THE PLANETARY SCIENCE ADVISORY 
+COMMITTEE
+
+The Planetary Science Advisory Committee (PAC) supports the advisory 
+needs of the Planetary Science Division (PSD), the Science Mission 
+Directorate (SMD), and other mission directorates as required, as well 
+as the NASA Administrator. The advisory scope of the PAC includes all 
+aspects of NASA's planetary science program, including scientific 
+research; considerations of the development of near-term enabling 
+technologies, systems, and computing and information management 
+capabilities; and developments with the potential to provide long-term 
+improvements in future mission operational systems.
+
+Responsibility for biological planetary protection is outside the 
+purview of the PAC. NASA's PSD is extending an invitation for 
+nominations for service on the PAC. Interested members of the community 
+are invited to review the charter and to submit nominations (including 
+self-nominations) for consideration to fill vacancies on the Committee. 
+Additional details can be found at:  
+
+https://bit.ly/nasas-psd-is-accepting-nominations-for-the-pac
+
+More information on the PAC may be found at:
+
+https://science.nasa.gov/nac/science-advisory-committees/pac
+
+Stephen Rinehart
+Director, Planetary Research Programs
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ACCEPTING APPLICATIONS FOR ICARUS EDITOR-IN-CHIEF POSITION
+
+The DPS Committee is accepting applications for the position of Icarus 
+Editor-in-Chief (EiC). We will use these applications to make a 
+recommendation to representatives of Elsevier. The application, 
+consisting of a cover letter with a 5-year vision statement and a list 
+of skills brought to the position, and a Curriculum Vita and 
+publications list, should be submitted to the Chair of the DPS 
+Publications Subcommittee, Dr. Catherine Neish (cneish@uwo.ca). Review 
+of the applications will begin on April 1, 2021; the anticipated start 
+date is May 1, 2021.
+
+The EiC of Icarus is responsible for overseeing the peer review process 
+alongside a team of Editors. The role includes working with the 
+Publisher and the DPS to shape the direction of the journal as well as 
+commissioning review articles and special issues. We are looking for a 
+person who is committed to publication excellence and who has broad 
+knowledge of planetary science. Ideally, the candidate will have a 
+track record of contributing to Icarus either as an author, reviewer, 
+guest Editor, Editor, or Advisory Board Member and should have a strong 
+publication record. Elsevier will pay the Editor-in-Chief an honorarium 
+and expenses to cover journal-related travel.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SPRING 2021 SOFFEN STUDENT TRAVEL GRANT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Spring 
+2021 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering. 
+
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant 
+for either virtual or in-person conferences. The Soffen Fund will 
+award up to $1000 in total, with no individual award greater than $500,
+to cover expenses related to presenting research at either a virtual 
+or in-person conference. The number of awards will depend on 
+applicants' needs.
+
+The Spring 2021 Travel Grant application deadline is April 5, 2021.  
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+http://SoffenFund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+help@SoffenFund.org
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY SCIENCE AND ASTROBIOLOGY DECADAL SURVEY CALENDAR OF EVENTS
+
+Upcoming meetings of panels/writing groups of the ongoing Planetary 
+Science and Astrobiology Decadal Survey are listed at: 
+
+https://www.nationalacademies.org/ssb/events
+
+The URL above links to a listing of all National Academies' Space 
+Studies Board meetings, but filtering by the keyword 'Decadal' allows 
+one to view only Decadal Survey-related meetings. Meeting agendas are 
+posted, when available, on the respective webpages.
+
+In addition to the Decadal Survey, members of the planetary science 
+community may also be interested in the work of the study committee on 
+Increasing Diversity and Inclusion in the Leadership of Competed Space 
+Missions, and the Committee on Planetary Protection. Go to:
+
+http://bit.ly/decadal-survey-2023-2032
+
+http://bit.ly/increasing-diversity-mission-leadership
+
+http://bit.ly/planetary_protection
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+CALL FOR PROPOSALS - NASA FELLOWSHIP ACTIVITY 2021
+
+This National Aeronautics and Space Administration (NASA) Notice of 
+Funding Opportunity (NOFO), titled NASA Fellowship Activity 2021 is 
+seeking student-authored and independently conceived graduate research 
+proposals responding to a NASA Research Opportunity listed in the 
+solicitation. The 2021 NASA Fellowship Activity is designed to support 
+OSTEM objectives and provide academic institutions the ability to 
+enhance graduate-level learning and development. NASA Fellowship 
+Activity 2021 is an omnibus announcement that can include various NASA 
+science, technology, engineering, and mathematics (STEM) fellowship 
+opportunities for graduate students. Specific Program Elements will be 
+issued periodically throughout the year as Appendices to this 
+solicitation with individual requirements and milestones.
+
+The following Appendix has been released: Minority Serving Institutions 
+(MSIs). Go to: 
+
+http://bit.ly/MSI_fellowship_2021
+
+Proposals are due May 24, 2021.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+NASA SMD SEEKS VOLUNTEER REVIEWERS FOR RESEARCH PROPOSALS
+
+NASA's Science Mission Directorate is seeking subject matter experts 
+to serve as external (email) and/or virtual panel reviewers of 
+proposals to the "ROSES" research solicitation. All of the reviewer 
+volunteer forms may be accessed on the main landing page at: 
+
+https://science.nasa.gov/researchers/volunteer-review-panels 
+
+If your skills match our needs for that review and there are not too 
+many organizational conflicts of interest, we will contact you to 
+discuss scheduling.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PH.D. STUDENT POSITION IN SPACE PHYSICS AT UMEA UNIVERSITY, SWEDEN
+
+In the project we will investigate properties of magnetosheath jets
+(localized kinetic energy enhancements) upstream Earth and their 
+effects on the magnetosphere. In our investigations will use data from 
+several spacecraft ASA and ESA missions and ground-based observatories. 
+The Ph.D. project will be conducted in close collaboration with 
+scientists from the University Centre in Svalbard, Charles University 
+in Prague, and the Royal Institute of Technology in Stockholm, Sweden.
+
+Last day to apply is May 15, 2021. Starting date is September 1, 2021, 
+or by appointment.
+
+The entire advertisement can be found on:
+
+http://bit.ly/phd-position-in-space-physics
+
+For further information, contact Maria Hamrin, 
+maria.hamrin@space.umu.se.
+
+Best regards,
+Maria Hamrin
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[PDS] MRO SHARAD DELAYED DATA RELEASE
+
+Delayed MRO SHARAD derived data from the ASI (Italian Space Agency) 
+SHARAD Ground Operations Center have been released covering the period 
+May 10 through August 15, 2020. This time period covers the recent MRO 
+release 56. Delayed SHARAD raw data were released on March 12, 2021.
+
+Data are available here:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+TENURE-TRACK ASSISTANT PROFESSOR IN PLANETARY SCIENCE, UNIVERSITY OF 
+WASHINGTON, SEATTLE
+
+The University of Washington Department of Earth and Space Sciences 
+seeks an outstanding scientist working at the forefront of research in 
+one of more of the following areas: planetary geology, geomorphology, 
+geochemistry, glaciology, or geophysics. They may focus on 
+observations, experiments, and/or modeling of surfaces, atmospheres, 
+or interiors of planets, exoplanets, or moons. We seek a colleague who 
+can provide high quality teaching and contribute collaboratively 
+within the department, college, and across campus - for example, the 
+university's Astrobiology Program.
+
+Preference will be given to applications received before May 7, 2021.
+
+For full details, please see:  
+
+http://apply.interfolio.com/85329
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 6-12, 2021
+Planetary Science: The Young Solar System
+https://www.icisequynhon.com/conferences/2020/planetary_science/
+Quy Nhon, Vietnam
+
+December 13-17, 2021
+AGU 2021 Fall Meeting (Hybrid)
+https://www.agu.org/Fall-Meeting
+New Orleans, LA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+The Reactivation of Main-belt Comet 259P/Garradd (P/2008 R1)
+Henry H. Hsieh et al. 2021 PSJ 2:62
+http://doi.org/10.3847/PSJ/abe59d
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************
+

@@ -1,0 +1,430 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 47 (November 15, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Science Mission Directorate Town Hall Meeting November 17, 
+   2020
+2. [NASA] Seeking Volunteer Reviewers in Earth and Space Science
+3. [NASA] Payloads and Research Investigations on the Surface of the 
+   Moon (PRISM) Step-2 Due Date Delay
+4. [PDS] Mars Atmosphere and Volatile Evolution Data Release 23
+5. New Tool for Small-Bodies Search
+6. HiRISE Digital Terrain Models by Request and at No-Cost for Funded
+   Mars Data Analysis Program Awards
+7. Exoplanet Solar System Synergies Tutorial Talks
+8. Upcoming Planetary Advisory Committee (PAC) Meeting
+9. Application Deadline Approaching for SBAG 24 Early Career Invited
+   Speaker
+10. EGU Session PS5.1: Ice Giant System Exploration
+11. NASA Job Announcement: MSR Deputy Program Director
+12. Bridge to Faculty Program at the University of Illinois at Chicago
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] SCIENCE MISSION DIRECTORATE TOWN HALL MEETING NOVEMBER 17, 2020
+
+NASA Science will host a community will hold a community town hall
+meeting with Associate Administrator for Science Thomas H. Zurbuchen
+and his leadership team at 3 p.m. Eastern Time Tuesday, November 17, to
+discuss updates to NASA's science program, share current status of NASA
+activities, and roll-out the 2021 NASA Science Planning Guide.
+
+Members of the science community, academia, the media, and the public
+are invited to participate by joining at the link below.
+
+https://nasaevents.webex.com/nasaevents/onstage/g.php?MTID=e5a57f78267bb9bde7ef4c96995b92463
+
+If prompted, please use event number 199 344 4841, followed by event
+password saPpAZ3aA34.
+
+To ask a question, participants can go to: 
+
+https://arc.cnf.io/sessions/zeg7/#!/dashboard
+
+Users must provide their first and last name and organization and can
+submit their own questions or vote up questions submitted by others.
+The meeting leaders will try to answer as many of the submitted
+questions as possible.
+
+Presentation materials for the meeting will be available for download
+and a recording will be available later that day at:
+
+https://science.nasa.gov/researchers/virtual-townhall-2020
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SEEKING VOLUNTEER REVIEWERS IN EARTH AND SPACE SCIENCE
+
+NASA's Science Mission Directorate is seeking subject matter experts to
+serve as external and/or (virtual) panel reviewers of proposals to
+ROSES. Start at the landing page at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels 
+
+If your skills match our needs for that review and there are not too
+many organizational conflicts of interest, we will contact you.
+
+The following new volunteer reviewer forms have been (re)posted
+recently:
+
+Astrophysics Research and Analysis (ROSES program element D.3)
+Carbon Monitoring System (ROSES A.6) and
+Carbon Cycle Science - Terrestrial (ROSES A.5)
+Future Investigators in NASA Earth Science and Technology (FINESST
+Earth)
+Future Investigators in Space Science and Technology (FINESST Space)
+Habitable Worlds (ROSES E.4)
+Heliophysics Living With a Star Science (ROSES B.6)
+Lunar Data Analysis (ROSES C.8)
+Solar System Workings (ROSES C.3)
+
+In addition to these previously posted volunteer forms that are still
+available:
+
+Astrophysics Data Analysis Program (Appendix D.2 of the annual ROSES
+NRA)
+Discovery Data Analysis (ROSES C.11)
+Heliophysics Supporting Research (ROSES B.2)
+Mars Data Analysis Program (ROSES C.9)
+Physical Oceanography Program (PO)
+Planetary Instrument Concepts for the Advancement of Solar System
+Observations (PICASSO)
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PAYLOADS AND RESEARCH INVESTIGATIONS ON THE SURFACE OF THE MOON
+(PRISM) STEP-2 DUE DATE DELAY
+
+The Payloads and Research Investigations on the Surface of the Moon
+(PRISM) program element solicits proposals for investigations that
+include development and flight of science-driven suites of instruments
+and technology demonstration payloads that will be delivered to the
+lunar surface on Commercial Lunar Payload Services (CLPS). This PRISM
+solicitation calls for science investigations that will be delivered to
+the lunar surface in late Calendar Year (CY) 2023 and early CY2024 to
+predetermined lunar landing sites: Reiner Gamma in Quarter 4 2023, and
+a Schrodinger Basin impact melt in Q2 2024. Proposals must identify one
+of these lunar landing sites and propose an investigation uniquely
+achieved at that location.
+
+This amendment delays the Step-2 due date for E.11 Payloads and
+Research Investigations on the Surface of the Moon (PRISM). The Step-2
+proposal due date for PRISM is now February 3, 2021.
+
+This Amendment will be posted at: 
+
+http://solicitation.nasaprs.com/ROSES2020 
+
+and will appear on SARA's ROSES blog at:
+
+https://science.nasa.gov/researchers/sara/grant-solicitations/roses-2020/
+
+Questions: Brad Bailey, HQ-PRISM@mail.nasa.gov
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[PDS] MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 23
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 23, nominally with data to August 2020:
+- ACCEL (Accelerometer)
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWIA (Solar Wind Ion Analyzer)
+
+New data available soon:
+- LPW (Langmuir Probe and Waves)
+- SEP (Solar Energetic Particle)
+- SWEA (Solar Wind Electron Analyzer)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201113.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+Mail to: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NEW TOOL FOR SMALL-BODIES SEARCH
+
+The NASA Planetary Data System's Small Bodies Node (SBN) announces the
+beta release of the Comet Asteroid Telescopic Catalog Hub (CATCH), a
+graphical user interface service for searching SBN, and other survey,
+archives for small bodies. CATCH also has an API interface to
+facilitate automated searches by object name. Find out more at: 
+
+https://catch.astro.umd.edu/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+HIRISE DIGITAL TERRAIN MODELS BY REQUEST AND AT NO-COST FOR FUNDED MARS
+DATA ANALYSIS PROGRAM AWARDS 
+
+To support the needs of the Mars science community, the USGS
+Astrogeology Science Center is providing HiRISE DTMs by request and at
+no charge for funded ROSES 2020 Mars Data Analysis Program proposals.
+Investigators are responsible for identification and selection of
+appropriate HiRISE stereopairs, and must coordinate with USGS personnel
+before proposal submission to obtain a Confirmation of Technical
+Specification Letter. DTMs will only be generated for funded proposals.
+Technical requirements can be found at the USGS Astrogeology Planetary
+Photogrammetry site: 
+
+https://www.usgs.gov/centers/astrogeology-science-center/science/usgs-astrogeology-planetary-photogrammetry-lab?qt-science_center_objects=0#qt-science_center_objects
+
+Additional details are available in section 4.3.7 of the NASA ROSES
+2020.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EXOPLANET SOLAR SYSTEM SYNERGIES TUTORIAL TALKS
+
+The ExoPAG Science Interest Group 3 on Exoplanet Solar System Synergies
+is organizing Tutorial Talks aimed at introducing field newcomers to
+important topics planetary and exoplanetary science. The talks include
+a 30-minute tutorial from an expert to introduce the topic, followed by
+a 30-minute group discussion of a recent paper in which the
+topic/method features. They are held by Zoom the 2nd Thursday of each
+month 11 AM PST/ 2 PM EST. All talks are recorded and posted at: 
+
+https://nexss.info/community/exoss-synergy
+
+We have hosted four talks so far:
+
+- "Solutions and Solubilities" by Laura Schaeffer
+- "How to leverage NASA's Planetary Data System Atmospheres Node for
+  exoplanet science" by Nancy Chanover
+- "The advantages and challenges of M dwarfs as planet hosts" by
+  Elisabeth Newton
+- "Spectra of Solar System Planets for Exoplanet Scientists" by Mark
+  Marley (NASA Ames) and Victoria Meadows
+
+All are welcome, so feel free to share this announcement and the link
+to the recording of the first tutorial. Also feel free to suggest
+topics you'd like to hear on future tutorials to: Vikki Meadows 
+(meadows@uw.edu), Mark Marley (mark.s.marley@nasa.gov), and Laura 
+Schaefer (lkschaef@stanford.edu).
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+UPCOMING PLANETARY ADVISORY COMMITTEE (PAC) MEETING
+
+The next Planetary Advisory Committee (PAC) meeting will be held, via
+WebEx, on November 30, 2020 (10 am to 6pm Eastern time). See here for
+connection information: 
+
+https://science.nasa.gov/science-red/s3fs-public/atoms/files/FRN-PAC-2020-24365.pdf
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+APPLICATION DEADLINE APPROACHING FOR SBAG 24 EARLY CAREER INVITED
+SPEAKER
+
+The 24th Small Bodies Assessment Group (SBAG) meeting will be virtual
+on 26-27 January 2021. We have two opportunities at this upcoming
+SBAG meeting specifically for the early career small body community:
+
+Invited early-career speakers: 
+We intend to select up to two early-career researchers for invited
+15-minute talks (including Q&A). Interested undergraduate students,
+graduate students, postdocs, and other early career scientists (within
+5 years of terminal degree) should submit a letter and a CV to the SBAG
+Early Career Secretary, Terik Daly (Terik.Daly@jhuapl.edu), via email
+by COB (5 pm Eastern time) on 20 November 2020. Further application
+information can be found on the SBAG website:
+
+https://www.lpi.usra.edu/sbag/meeetings
+
+Lightning Talks:
+Early-career scientists and engineers attending the meeting will each
+be given 3 minutes to introduce themselves and their research to the
+community. If you are interested in giving a lightning talk, please
+email the early-career secretary, Terik Daly (terik.daly@jhuapl.edu),
+at least two weeks before the meeting. Attach a single slide, in PDF
+format, with your name, affiliation, and a figure or two that highlight
+your research.
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EGU SESSION PS5.1: ICE GIANT SYSTEM EXPLORATION
+
+In 2021, EGU will be hosting vEGU21: Gather Online (#vEGU21), a fully
+virtual meeting that will be held in place of the General Assembly in
+Vienna. The dates of vEGU21 will be 19-30 April 2021.
+
+PS5.1 Ice Giant System Exploration Session Description: This session
+welcomes papers addressing the exploration of the ice giant systems,
+including the composition, structure, and processes of ice giant
+atmospheres, internal structure, and ice giant systems including
+magnetospheres, satellites, and rings. Potential concepts for future
+ice giant system exploration, instrumentation, mission concepts,
+technology developments, and international cooperation are also topics
+of high interest. We especially would like to encourage authors of
+Decadal Survey White Papers focused on ice giant system science,
+exploration, mission concepts, and instruments and instrument
+technologies to contribute to this session.
+
+You are invited to submit an abstract at:
+
+https://meetingorganizer.copernicus.org/EGU21/abstractsubmission/39948
+
+The deadline for abstract submission 13 Jan 2021, 13:00 CET. Please
+note that EGU has a One-Abstract Rule.
+
+Conveners: David H. Atkinson, Sushil K. Atreya, Mark Hofstadter,
+Patrick Irwin, Olivier Mousis
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA JOB ANNOUNCEMENT: MSR DEPUTY PROGRAM DIRECTOR
+
+NASA Headquarters seeks an accomplished engineer to fill a key
+leadership position as the Mars Sample Return (MSR) Deputy Program
+Director-Technical for the Mars Sample Return Program Office in the
+Science Mission Directorate (SMD) in Washington, DC. You will work with
+the Program Director to ensure the MSR Program is organized and managed
+from formulation and development to operations.
+
+The job announcement for the MSR Deputy Program Director-Technical is
+now live on USAJOBS. It is only open until 11/18/2020.
+
+DHA:
+
+http://www.usajobs.gov/GetJob/ViewDetails/583636800
+
+NASA-Wide:
+
+http://www.usajobs.gov/GetJob/ViewDetails/583637000
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+BRIDGE TO FACULTY PROGRAM AT THE UNIVERSITY OF ILLINOIS AT CHICAGO
+
+The B2F program is a University-level initiative to increase the
+pipeline toward faculty diversity at UIC by attracting and retaining
+promising scholars from different backgrounds, with an emphasis on
+individuals from groups who are underrepresented in their discipline.
+Outstanding candidates will be mentored and supported to further their
+research and scholarship during their postdoctoral appointments with
+the goal that they will transition to a research-active, tenure-track
+faculty position in the Department of Earth and Environmental Sciences.
+The position is open to all disciplines in the Geosciences.
+
+https://eaes.uic.edu/people/open-positions/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 21-27, 2022
+Protostars and Planets VII
+http://ppvii.org
+Kyoto, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Vis-NIR Reflectance Microspectroscopy of IDPs
+Romain Maupin et al 2020 Planet. Sci. J. 1 62
+https://doi.org/10.3847/PSJ/abbb98
+
+The Effects of Waves on the Meridional Thermal Structure of Jupiter's
+Stratosphere
+Richard G. Cosentino et al 2020 Planet. Sci. J. 1 63
+https://doi.org/10.3847/PSJ/abbda3
+
+Global Temporal and Geographic Stability of Brines on Present-day Mars
+Vincent F. Chevrier et al 2020 Planet. Sci. J. 1 64
+https://doi.org/10.3847/PSJ/abbc14
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

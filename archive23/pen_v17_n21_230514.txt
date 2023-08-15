@@ -1,0 +1,405 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 17, Number 21 (May 14, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. NEO WARP 2 Registration Now Open
+2. Open MExAG Steering Committee Positions
+3. Lunar SDI Solicits Standards Input
+4. Planetary Science Lead at Ball Aerospace
+5. Postdoc Opportunities Working on Lunar Missions at University of
+   Central Florida 
+6. Job Announcement: Life Detection Scientist at NASA Goddard
+7. NASA Funding Webinar on May 24, 1 PM EDT
+8. [NASA] Support for Planetary Sample Science Cooperative Agreement
+   Notice and Questions and Answers Released
+9. [NASA] Request for Information: Space Weather and Science Agile
+   Platforms
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEO WARP 2 REGISTRATION NOW OPEN
+
+Registration is now open for the NEO WARP 2 Workshop, to be held at the
+JHU Applied Physics Laboratory in Laurel, Maryland, on June 28-29,
+2023.
+
+The registration webpage is available here: 
+
+https://secwww.jhuapl.edu/EventLink/Event/293
+
+Registration will close on June 16, 11:59 PM ET. Registration is free
+but required for participation. The NEO WARP 2 Workshop will focus on
+the theme "identify technology gaps and potential concepts for NEO
+flyby reconnaissance performance." Full group discussions will be
+hybrid; breakout sessions will be either in-person or virtual (NOT
+hybrid for breakout sessions).
+ 
+Sincerely,
+ 
+The NEO WARP Organizers
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+OPEN MEXAG STEERING COMMITTEE POSITIONS
+
+The Mercury Exploration Assessment Group (MExAG) solicits applications
+for several steering committee members. We organize our annual meeting,
+write goals and official findings, and take a leadership role in other
+activities where input from the Mercury community is needed.
+
+We are searching for:
+- the MExAG Vice Chair (2 year term, with transition to become chair
+  for another 2 years),
+- a Geology Discipline Member (3 year nominal term),
+- a Magnetosphere Discipline Member (3 year nominal term),
+- an Early Career Member (3 year nominal term), and
+- an International Early Career Member (3 year nominal term).
+ 
+A detailed description for these positions, a list of the requested
+application materials, and the application form are found here:
+
+https://tinyurl.com/mr48u3te
+
+Please submit your applications by May 19, 2023.
+
+We are looking forward to receiving all your applications! Many thanks
+in advance,
+
+The MExAG Steering Committee
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+LUNAR SDI SOLICITS STANDARDS INPUT
+
+The Lunar Spatial Data Infrastructure Working Group (Lunar SDI)
+requests input on a draft set of community standards for Lunar Analysis
+Ready Data. These standards are aimed at data producers, data
+providers, and users. 
+
+Lunar SDI Website:
+
+https://bit.ly/lunarsdi
+
+The draft standards can be found at:
+
+https://bit.ly/lunarstandards
+
+One of the objectives of the Lunar SDI Working Group is to facilitate
+the common use of a set of standards for Lunar Analysis Ready Data.
+Derived data products that are GIS-ready, using common standards, for
+scientific and engineering use in off-the-shelf tools as a GIS means
+that data can be efficiently utilized. Common standards also maximize
+consistency in use regardless of the data source. The draft standards
+we propose describe spatial, cartographic, data, and metadata
+standards. We are seeking input on these standards before requesting
+their common adoption by data producers and providers. 
+
+If you are a data producer, provider, or user that generates, serves,
+or uses higher level data, please consider providing feedback by
+commenting on the standards page(s) directly or emailing a member of
+the Lunar SDI:
+
+https://tinyurl.com/2p9btcz9
+
+Please provide feedback by May 31, 2023.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY SCIENCE LEAD AT BALL AEROSPACE
+
+Ball Aerospace is seeking a scientist to manage a portfolio of advanced
+technologies, instruments, spacecraft and mission concepts for
+Planetary Science. The successful applicant will have a strong mission
+design and technology development background, experience working at the
+intersection of science and engineering, and familiarity with key
+research and technology gaps across the planetary sciences. This
+position is a leadership role within Ball Aerospace's Civil Space New
+Business Unit, which develops many of the world's pioneering space
+missions. Applications are now open and will remain open until the
+position is filled.
+
+Ball is committed to Diversity, Equity and Inclusion and strives to
+foster a vibrant and inclusive culture where everyone can thrive.
+Applicants who are unsure if their credentials are adequate for the
+position are encouraged to contact us and learn more.
+
+Please visit the Ball Aerospace careers page:
+
+https://tinyurl.com/d5hcbvdc
+
+or contact Nicole Duncan (nicole.duncan at ballaerospace.com) for more
+information about the position.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOC OPPORTUNITIES WORKING ON LUNAR MISSIONS AT UNIVERSITY OF
+CENTRAL FLORIDA
+
+Applications are solicited for two postdocs to join the Department of
+Physics at UCF.  
+ 
+Position 1: The successful applicant will help in the development and
+calibration of visible and thermal infrared cameras including the
+analyses of data and aiding in the development of software algorithms.
+Additionally, the applicant will work in Dr. Donaldson Hanna's lab in
+making laboratory measurements that will be used to help interpret
+observations from Diviner, Lunar Trailblazer, and Lunar-VISE.
+Experience with spectroscopy, image analysis, and MATLAB/Python/IDL are
+desirable. 
+ 
+Position 2: The successful applicant will work on the development and
+testing of data processing and analysis techniques for descent camera
+and lunar surface camera images. This may include lab work to test
+imaging of regolith plumes. Additionally, the applicant will work in
+Dr. Dove's lab on a range of projects related to dust dynamics and
+plasma interactions experiments, and flight project development.
+Experience with camera systems, image analysis and processing,
+laboratory systems, and IDL/Python/MATLAB are desirable.  
+ 
+CV and research statement should be submitted by email to
+Kerri.DonaldsonHanna@ucf.edu or ADove@ucf.edu by Monday, 12 June 2023. 
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JOB ANNOUNCEMENT: LIFE DETECTION SCIENTIST AT NASA GODDARD
+
+The Astrochemistry Laboratory of the Solar System Exploration Division
+at NASA Goddard Space Flight Center (GSFC) is seeking a full-time
+research scientist specializing in life detection science who would
+work to connect theories of life and biological search patterns to
+measurable parameters and contribute to future mission concepts. The
+successful candidate will work closely with life detection instrument
+technology developers to conceive of measurement approaches that are
+well connected to fundamental, robust theories or models of biology and
+life signatures. This research position entails developing productive
+collaborative relationships, leading ground-breaking research, and
+providing input into future mission/instrument design. This is a
+GS-13/14 level civil servant position located at NASA-Goddard in
+Greenbelt, Maryland near Washington, DC. As a government position,
+individuals must have US citizenship at time of application.
+ 
+A full vacancy announcement, which contains further information
+including qualification requirements and application instructions, is
+located at the following link and closes on Thursday, May 18, 2023.
+
+https://www.usajobs.gov/GetJob/ViewDetails/723456600
+ 
+For additional information contact: Dr. Natasha Johnson,
+natasha.m.johnson@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+NASA FUNDING WEBINAR ON MAY 24, 1 PM EDT
+
+Attention faculty and researchers at under-resourced institutions!
+Don't miss the joint informational webinar on May 24 from 1-2:30 p.m.
+EDT to learn about two exciting funding opportunities from our Science
+Mission Directorate: the Bridge Seed Funding Program and the Research
+Initiation Awards (RIA). 
+
+This webinar will provide an overview of both programs, describe the
+proposal process and requirements, and allow for attendees to submit
+questions. 
+
+Register at:
+
+https://lnkd.in/g9ijYxH8
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] SUPPORT FOR PLANETARY SAMPLE SCIENCE COOPERATIVE AGREEMENT
+NOTICE AND QUESTIONS AND ANSWERS RELEASED
+
+Step-1 Proposals Due: June 12, 2023
+Step-2 Proposals Due: July 24, 2023
+ 
+The National Aeronautics and Space Administration (NASA) Science
+Mission Directorate (SMD) has released a Cooperative Agreement Notice
+(CAN) entitled "Support for Planetary Sample Science (SPSS)". 
+
+https://tinyurl.com/mw699juw
+
+The final SPSS CAN invites the submission of proposals to support
+members of the planetary science community to conduct science
+activities that use NASA's extraterrestrial samples for a public
+purpose. Scientific studies of such samples have proven valuable for
+informing our understanding of the Solar System. NASA's Planetary
+Science Division (PSD) has long provided support for community research
+with these samples. Through this CAN, NASA seeks to continue to provide
+this support to enable community research.
+ 
+Any additional questions or requests for clarification regarding the
+SPSS CAN should be emailed to Stephen.A.Rinehart@nasa.gov.
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] REQUEST FOR INFORMATION: SPACE WEATHER AND SCIENCE AGILE
+PLATFORMS
+
+Response Date: June 12, 2023, 11:59pm Eastern time
+Direct Short URL:
+
+https://go.nasa.gov/SWAPSRFI
+ 
+NASA's Science Mission Directorate (SMD) seeks information to assess
+commercial interest in and opportunities for the in-space hosting of
+science instruments that will directly address science and/or
+applications needs for space weather and other NASA science
+disciplines, e.g., astrophysics, Earth science, heliophysics, and
+planetary science. NASA is interested in increasing its use of
+commercial platforms to reduce the cost and schedule of space weather
+and science missions. Specifically, NASA is seeking to learn about
+possible opportunities to host instruments on existing commercial and
+Other Government Agency (OGA) missions (non-NASA driven) and understand
+accommodations available on those opportunities. Information collected
+through this RFI will support programmatic decisions regarding
+approaches for hosted payload opportunities.
+     
+Points of Contact
+
+Primary:
+Brad Williams, Program Executive, Heliophysics Division,
+bradley.d.williams@nasa.gov
+ 
+Secondaries:
+Jamie Favors, Program Executive, Heliophysics Division,
+james.e.favors@nasa.gov
+
+Jim Spann, Program Scientist, Heliophysics Division,
+jim.spann@nasa.gov
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+May 23-26, 2023
+4th Advanced School on Exoplanetary Science: Astrophysics of Transiting
+Exoplanets
+https://ases4.web.roma2.infn.it
+Vietri sul Mare, Italy
+
+July 3-7, 2023
+Towards Other Earths III: The Planet-Star Connection
+http://www.iastro.pt/research/conferences/toe3-2023/
+Porto, Portugal
+
+August 20-September 1
+20th International Planetary Probe Workshop
+https://ippw2023.org
+Marseille, France
+
+September 20-22, 2023
+2023 Annual Meeting of the Lunar Exploration Analysis Group
+https://www.hou.usra.edu/meetings/leag2023/
+Laurel, MD
+
+September 25-29, 2023
+LSST@Europe5: Towards LSST Science, Together!
+https://www.lssteu5.eu
+Porec, Croatia
+
+April 4-8, 2024
+2024 Waco Eclipse International Astrophysics Conference
+https://www.baylor.edu/physics/index.php?id=987944
+Waco, TX
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Experimental Validation of Cryobot Thermal Models for the Exploration
+of Ocean Worlds
+Paula do Vale Pereira et al. 2023 PSJ 4:81
+https://doi.org/10.3847/PSJ/acc2b7
+
+Observation of Vertically Ejected Plumes Generated by the Impact of
+Hollow Projectiles at Various Velocities
+Toshihiko Kadono et al. 2023 PSJ 4:82
+https://doi.org/10.3847/PSJ/accbbb
+
+There's More to Life than O2: Simulating the Detectability of a Range
+of Molecules for Ground-based, High-resolution Spectroscopy of
+Transiting Terrestrial Exoplanets
+Miles H. Currie et al. 2023 PSJ 4:83
+https://doi.org/10.3847/PSJ/accf86
+
+Lorenz Energy Cycle: Another Way to Understand the Atmospheric
+Circulation on Tidally Locked Terrestrial Planets
+Shuang Wang and Jun Yang 2023 PSJ 4:84
+https://doi.org/10.3847/PSJ/accf11
+
+Ice, Ice, Maybe? Investigating 46P/Wirtanen's Inner Coma for Icy
+Grains
+Theodore Kareta et al. 2023 PSJ 4:85
+https://doi.org/10.3847/PSJ/accc28
+
+New Compound and Hybrid Binding Energy Sputter Model for Modeling
+Purposes in Agreement with Experimental Data
+Noah Jaggi et al. 2023 PSJ 4:86
+https://doi.org/10.3847/PSJ/acd056
+
+Constraints on Europa's Water Group Torus from HST/COS Observations
+Lorenz Roth et al. 2023 PSJ 4:87
+https://doi.org/10.3847/PSJ/accddd
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

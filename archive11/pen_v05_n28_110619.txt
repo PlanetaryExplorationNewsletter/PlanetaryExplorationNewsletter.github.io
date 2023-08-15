@@ -1,0 +1,321 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 5, Number 28 (June 19, 2011)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes 
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Application Deadline for the NASA Postdoctoral Program
+2. [NASA] Comment Period for Draft of Solicitation (Astrophysics 
+   Technology Fellowships for Early Career Researchers)
+3. [NASA] PDS Release 6 of Lunar Reconnaissance Orbiter Data
+4. Planetary Science Workforce Survey
+5. 9th Meeting of the Venus Exploration and Analysis Group (VEXAG)
+   and Venus Science Conference
+6. Mars Express Movie:  Phobos Slips Past Jupiter
+7. Job Announcement in ESA's Directorate of Science and Robotic 
+   Exploration
+8. Fall AGU Session P34:  Using the Earth as a Guide to 
+   Extraterrestrial Planetary Surfaces 
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+APPLICATION DEADLINE FOR THE NASA POSTDOCTORAL PROGRAM
+
+The next deadline to apply for a NASA Postdoctoral Program fellowship 
+is July 1, 2011.  These competitive one- to three-year fellowship 
+appointments advance NASA's missions in space science, Earth science, 
+aeronautics, space operations, exploration systems and astrobiology.
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the 
+dissertation. U. S. citizens and foreign nationals who hold Lawful 
+Permanent Resident status or who are eligible for J-1 status as a 
+Research Scholar may apply.  An H-1B Visa status is not acceptable 
+because the NPP is not an employment program.
+ 
+Stipend rates for Postdoctoral Fellows start at $50,000 per year, 
+with small supplements added for high cost-of-living areas.  Funds 
+are available for relocation expenses, up to a specified limit.  
+Fellows also receive $8,000 per appointment year to support travel 
+to conferences, meetings, and other activities that directly support 
+their research projects.
+ 
+Applications for the NASA Postdoctoral Program are accepted three 
+times each year: March 1, July 1, and November 1.
+ 
+For further information about this opportunity and to apply online, 
+visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions regarding this opportunity may be submitted by e-mail to 
+nasapostdoc@orau.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] COMMENT PERIOD FOR DRAFT OF SOLICITATION (ASTROPHYSICS 
+TECHNOLOGY FELLOWSHIPS FOR EARLY CAREER RESEARCHERS)
+
+The National Aeronautics and Space Administration (NASA) Science 
+Mission Directorate (SMD) is releasing a draft solicitation for 
+community review and comment: Astrophysics Technology Fellowships for 
+Early Career Researchers (ATF). This solicitation will be a program 
+element appendix to the NASA Research Announcement "Research 
+Opportunities in Space and Earth Sciences (ROSES) 2011" (NNH10ZDA001N).  
+Upon the release date, the full text of the draft solicitation will be 
+available at:
+ 
+http://nspires.nasaprs.com/
+
+The objective of this solicitation is to give early career researchers 
+the opportunity to develop the skills necessary to lead astrophysics 
+flight instruments/projects and become principal investigators (PIs) of 
+future astrophysics missions; to develop innovative technologies that 
+have the potential to enable major scientific breakthroughs; and to 
+foster new talent by putting early-career instrument builders on a 
+trajectory towards long-term positions.
+
+The comment period for the draft ATF program element ends on July 8, 
+2011. 
+
+Comments may be addressed in writing or by e-mail to the ATF Program 
+Officer: 
+
+Dr. Stephen Merkowitz
+Astrophysics Division, Science Mission Directorate
+NASA Headquarters
+Washington, DC 20546-0001
+
+(202) 358-1364
+Stephen.M.Merkowitz@nasa.gov (subject line to read 
+"Draft ATF Program Element")
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS RELEASE 6 OF LUNAR RECONNAISSANCE ORBITER DATA
+
+The NASA Planetary Data System is pleased to announce a new delivery 
+of Lunar Reconnaissance Orbiter (LRO) data for the following 
+instruments: CRaTER, DLRE, LAMP, LEND, LOLA, LROC and  Mini-RF.  Radio 
+Science Tracking data will be released shortly.   SPICE data will be 
+released later this summer.
+
+In general, LRO Release 6 includes data collected between December 15, 
+2010 and March 14, 2011.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20110615.html
+
+PDS offers two services for searching the LRO archives:
+
+1.  The Planetary Image Atlas at the Imaging Node allows selection of 
+LRO data by specific search criteria: 
+
+http://pds-imaging.jpl.nasa.gov/search/lro/
+
+2.  The Lunar Orbital Data Explorer at the Geosciences Node allows 
+searching and downloading of LRO data and other lunar orbital data 
+sets (Clementine and Lunar Prospector): 
+
+http://ode.rsl.wustl.edu/moon/
+
+LRO SPICE ancillary data may be obtained at: 
+
+http://naif.jpl.nasa.gov/naif/data_archived.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY SCIENCE WORKFORCE SURVEY
+
+Just how many planetary scientists are there working in the US?  
+And how did they get to their current positions?
+
+The American Institute of Physics is conducting a NASA-sponsored
+survey of the workforce in planetary sciences.  If you are a member of
+AGU, DPS/AAS, the Meteoritical Society or attend LPSC then you 
+will likely receive an email request to fill in an online survey.
+
+In the meantime, a survey of 48 US academic departments that include
+planetary science was completed this spring.
+
+Description of the project and results of the department survey are 
+posted at:
+
+http://lasp.colorado.edu/mop/resources/links/
+PlanetaryScienceWorkForceSurvey2011/
+
+Fran Bagenal
+University of Colorado
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+9TH MEETING OF THE VENUS EXPLORATION AND ANALYSIS GROUP (VEXAG) AND
+VENUS SCIENCE CONFERENCE
+
+Tuesday, August 30 - Thursday, September 1, 2011
+
+VEXAG Meeting #9  (Tuesday-Wednesday) and a Venus Science Conference 
+will be held on (Wednesday-Thursday) during August 30-September 1, 2001 
+at the Smithsonian Steven F. Udvar-Hazy Center (just outside Dulles 
+Airport, Washington DC).  Topics for the Science Symposium would be New 
+Results from Venus Express, Ground-based Observations, and Future Venus 
+Missions.   There are no registration fees for the Science Symposium.  
+Please register at:
+
+http://venus.wisc.edu/workshop 
+
+or 
+
+http://www.lpi.usra.edu/vexag
+
+Abstracts for the Science Conference may be submitted through August 
+10, 2011 at the same URL.
+
+A block of sleeping rooms is on hold at the Courtyard Dulles Airport 
+Chantilly Hotel, 3935 Centerview Drive, Chantilly, VA, 20151 (Group 
+Code:  "NRENREA") for Monday, August 29, 2011 through Thursday, 
+September 1, 2011.   To make reservations, dial 1 (800) 321-2211 or 
+visit:
+
+http://www.marriott.com/hotels/travel/iadca-courtyard-dulles-airport
+-chantilly/?toDate=9/1/11&groupCode=NRENREA&fromDate=8/29/
+11&app=resvlink
+
+Students interested in Venus are encouraged to attend as VEXAG 
+anticipates supporting travel for about 10 students.  By the abstract 
+deadline of August 10, 2011, interested students should submit an 
+abstract and an application for travel support with a letter from 
+their research advisor at:
+
+http://www.lpi.usra.edu/vexag
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPRESS MOVIE:  PHOBOS SLIPS PAST JUPITER
+
+ESA's Mars Express HRSC camera observed on 1st June 2011 an unusual 
+alignment of Jupiter and the Martian moon Phobos. More at:
+
+http://www.esa.int/esaCP/SEMJ53E1XOG_index_0.html
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT IN ESA'S DIRECTORATE OF SCIENCE AND ROBOTIC 
+EXPLORATION
+
+Vacancy in the Directorate of Science and Robotic Exploration, 
+European Space Agency
+Job title: Head of the Robotic Exploration Coordination Office
+Location: ESTEC, Noordwijk (The Netherlands)
+
+QUALIFICATIONS
+Applicants for this post should have a university degree in physics or 
+cognate scientific discipline at PhD level or equivalent qualification,
+as well as substantial experience of programmatic and management work. 
+An established record of dealing with high-level scientific
+interest groups at international level and national institutions, as 
+well as with international administrations and agencies, will be an 
+advantage.
+
+Applicants will be required to have strong decision making and problem 
+solving skills, a result oriented approach as well as a strong
+ability for relationship management. Good negotiation skills and a 
+proven capability of establishing personal contacts at all levels are
+furthermore essential. Work experience in elaboration of policy and 
+strategic matters at national level would be an important asset.
+
+More at:
+
+http://www.esa.int/hr/PDF/ESA-VN-ESTEC-2011-048,REV.1.pdf
+
+Deadline 14 July 2011
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+FALL AGU SESSION P34: USING THE EARTH AS A GUIDE TO EXTRATERRESTRIAL  
+PLANETARY SURFACES
+
+We hope you will consider submitting an abstract to session P34:
+Using the Earth as a Guide to Extraterrestrial Planetary Surfaces at  
+the AGU Fall Meeting 2011.
+
+This session will focus on work that examines planetary surface  
+processes and properties through the use of terrestrial analogs. Of  
+particular interest will be projects that include terrestrial field  
+observations that directly aid in the interpretation of planetary data  
+sets. The session will encompass a wide range of topics that are  
+expected to include both morphological and compositional studies,  
+including both ground-based and orbital data sets; however, all  
+studies will be unified by a strong basis in terrestrial geology. The  
+goal of this session is to encourage workers to utilize terrestrial  
+geological techniques to directly inform interpretations of  
+extraterrestrial features, using site-specific examples.
+
+Further details on this session are available at:
+
+http://sites.agu.org/fallmeeting/scientific-program/session-search/668
+
+Conveners:
+Craig Hardgrove, Stony Brook University
+Nina Lanza, University of New Mexico
+
+The meeting is December 5-9, 2011 in San Francisco. The abstract
+deadline is August 4, 2011.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+September 25 - October 1, 2011
+The Field Training and Research Program at Meteor Crater
+http://www.lpi.usra.edu/nlsi/mcFieldCamp/?view=program
+Winslow, AZ
+
+October 10 - 13, 2011
+Large Optical Telescopes
+http://agora.guru.ru/display.php?conf=lot&l=1
+Nizhnii Arkhyz, Russia
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

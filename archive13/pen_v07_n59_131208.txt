@@ -1,0 +1,619 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 59 (December 8, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Planetary Geomorphology Image of the Month
+2. MEPAG Community Responses Regarding R&A Reorganization
+3. Mars Reconnaissance Orbiter Data Release 27
+4. December 2013 MEPAG Newsletter Available
+5. Habitable Worlds Across Space and Time
+6. [NASA] NASA Astrobiology Institute (NAI) Step-2 Proposal Date 
+   Changed
+7. Two Faculty Positions at the Florida Institute of Technology
+8. Staff Scientist Position, Carnegie Institution, Washington, DC
+9. Visiting Assistant Professor Position at the University of 
+   Pittsburgh
+10. Special Issue of Advances in Space Research on ISRU Field 
+    Campaigns
+11. [NASA] Mars 2020 AO Amendment 3
+12. NASA Postdoctoral Fellowships
+13. Research Scientist Position – Mars Science
+14. Lloyd V. Berkner Space Policy Internships, Summer 2014
+15. 6th Alfven Conference on Plasma Interaction
+16. Updated Venus Town Hall Agenda, Fall AGU
+17. [NASA] PDS - Mars Exploration Rovers Data Release 38
+18. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The December 'Image of the Month' is now available at the IAG's 
+Planetary Geomorphology web page: 
+
+http://wp.me/p3HIca-7F
+ 
+This Month's topic is on "Gullies on the Moon formed by dry-granular 
+flows."
+
+Image and caption contributed by Dr. P. Senthil Kumar, National 
+Geophysical Research Institute, Council of Scientific & Industrial 
+Research, Hyderabad 500007, India.
+ 
+Mary Bourke
+IAG Working Group on Planetary Geomorphology
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MEPAG COMMUNITY RESPONSES REGARDING R&A REORGANIZATION
+
+At the November 5 telecon of the Planetary Science Subcommittee, 
+Jonathan Rall presented plans for a large reorganization of NASA's R&A 
+program. His presentation, included in Jim Green's presentation, 
+starting with slide 41, is posted at: 
+
+http://www.lpi.usra.edu/pss/nov2013/
+
+Additional discussion occurred at the virtual town hall on December 3. 
+
+MEPAG compiled questions, comments, and concerns from the science 
+community and sent a compilation report to the PSS and Jim Green, 
+found at: 
+
+http://www.lpi.usra.edu/PSD-RandA/
+
+The MEPAG leadership strongly recommended that the NASA Planetary 
+Science Division seek and consider more community input, and provide 
+the information needed to answer the many questions raised by the 
+community. Most concerns reflected the lack of information regarding 
+key aspects of the reorganization, such as mapping of the present 
+research areas into the new ones, the fate of theme cross-cutting 
+activities, budgets, and the transition plan with its possible impacts 
+on the continuity of funding.
+ 
+As we learn more, we will update the MEPAG community. If you have 
+further comments or questions on this topic or about the compilation 
+report, please direct them to Dr. Serina Diniega, who has been asked 
+to collect information on the behalf of MEPAG.
+
+serina.diniega@jpl.nasa.gov 
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MARS RECONNAISSANCE ORBITER DATA RELEASE 27
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 27 includes data collected from February 9, 
+2013, through May 8, 2013. The release includes HiRISE data for 
+August 2, 2013, to November 4, 2013.
+
+To access the above data:
+
+http://pds.nasa.gov/subscription_service/SS-20131202.html
+
+To access the latest PDS Data Releases:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+DECEMBER 2013 MEPAG NEWSLETTER AVAILABLE
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, 
+and Amy Hale of the Mars Program Science Office, the December 
+2013 edition of the Mars Exploration Science Monthly Newsletter can 
+be found at:
+
+http://mepag.jpl.nasa.gov
+ 
+Regards,
+Carla de la Paz
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+HABITABLE WORLDS ACROSS SPACE AND TIME
+
+First Announcement: The 2014 STScI Spring Symposium
+April 28 - May 1, 2014
+
+Abstract submission deadline: February 28, 2014
+On-line registration deadline: March 28, 2014
+
+Within a matter of years, humanity will know for the first time the 
+frequency of terrestrial planets in orbit around other stars. This 
+knowledge will pave the way for joining research from astronomy, Earth 
+science, and biology to understand the past, present, and future of the 
+Earth within its larger context as one of many habitable worlds. Such 
+work seeks to understand the formation and fate of the Earth as well 
+as predict where and when different bodies will be suitable for life.
+
+In this four-day symposium, scientists from diverse fields will discuss 
+the formation and long-term evolution of terrestrial bodies throughout 
+the various phases of stellar and Galactic evolution. This symposium 
+will include discussions about sites for Galactic habitability that 
+have not yet been given much attention, such as around post-main 
+sequence stars. The existence of these overlooked environments may 
+provide motivation for novel astronomical observations with existing 
+and next generation ground and space-based observatories.
+
+For more information on the Symposium, please check the website:
+
+http://www.stsci.edu/institute/conference/habitable-worlds
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] NASA ASTROBIOLOGY INSTITUTE (NAI) STEP-2 PROPOSAL DATE CHANGED
+
+The NASA Astrobiology Institute (NAI) Cycle 7 Cooperative Agreement 
+Notice (CAN) provides an opportunity for the submission of team-based 
+proposals for membership in the NAI. The goal of CAN Cycle 7 is to 
+maintain a multidisciplinary institute by selecting focused, 
+interdisciplinary teams that complement without replicating the 
+strengths of the continuing teams. 
+
+This Amendment to the NAI Cycle 7 CAN is posted on the NASA research 
+opportunity homepage at: 
+
+http://nspires.nasaprs.com
+ 
+In order to include the new director of the NAI in the CAN Cycle 7 
+process and to make selection with full knowledge of FY14 budgets, 
+the Step-2 proposal due date is changed to April 30, 2014. NASA 
+expects that decisions for the Step 1 proposals will be made on or 
+before Dec 18, 2013. In addition, a number of links to NAI websites
+have been corrected. The full text of the CAN is available 
+electronically at the link above. 
+
+Questions specifically regarding this solicitation should be directed 
+to: 
+
+Dr. Mary Voytek, Senior Scientist for Astrobiology, NASA Headquarters
+(202) 358-1577
+mary.voytek-1@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+TWO FACULTY POSITIONS AT THE FLORIDA INSTITUTE OF TECHNOLOGY
+
+The Department of Physics and Space Sciences at the Florida Institute 
+of Technology invites applications for two faculty positions. These 
+positions may be at any rank, assistant through full professor. While 
+outstanding applicants from all fields of research will be considered, 
+we are interested in candidates who are committed to teaching at the 
+undergraduate level and can develop leading research programs in space 
+sciences. We are interested particularly in candidates working in 
+the fields of star and/or planetary system formation, taking advantage 
+of the exciting new vistas being opened in the radio, sub-mm and 
+infrared, and candidates whose specialties include solar, 
+magnetospheric, heliospheric, ionospheric physics or plasma physics. 
+The successful candidates will have access to the Ortega telescope in 
+Florida and the SARA facilities at Kitt Peak, Cerro Tololo and La 
+Palma. Information about the Department and current research activity 
+can be found at:
+
+http://cos.fit.edu/pss/ 
+
+and
+
+http://astro.fit.edu
+
+Interested candidates may also contact Dr. Joseph Dwyer, PSS 
+Department Head, at jdwyer@fit.edu. To apply, please send in a 
+single PDF a cover letter, CV, statement of research and teaching 
+experience and interests, and contact information for at least three 
+references tosearchpss@fit.edu. The review of applications will begin 
+on January 1, 2014.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+STAFF SCIENTIST POSITION, CARNEGIE INSTITUTION, WASHINGTON, DC
+
+The Department of Terrestrial Magnetism (DTM) of the Carnegie 
+Institution of Washington seeks applications for a staff scientist 
+position in the broad field of geophysics, including but not limited to 
+seismology, geodynamics, volcano geophysics, tectonophysics, and 
+geodesy. Applicants who integrate across traditional boundaries, 
+especially those with planetary sciences and with geo- and cosmo-
+chemistry, are particularly encouraged to apply. We seek candidates who 
+pursue innovative scientific programs, who will find active 
+collaborations with our current staff, perhaps involving development of 
+new instrumentation, and who are interested in origin and evolution of 
+Earth and other planets.
+
+The Carnegie Institution is a pure research organization. DTM does not 
+have teaching duties, but we place considerable emphasis on mentoring
+postdoctoral scholars. Applications should be submitted through this 
+site:
+
+https://jobs.carnegiescience.edu/jobs/staff-scientist-geophysics/
+
+and should include a curriculum vitae, brief statement of research 
+plans, and abstracts from the applicant’s three most important papers. 
+Please also provide the names, email addresses, and phone numbers of 
+three professional referees, whose letters may be requested by DTM. 
+Questions may be sent tostaffposition@dtm.ciw.edu. 
+
+Review of applications will begin January 15, 2014, and will continue 
+until the position is filled.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VISITING ASSISTANT PROFESSOR POSITION AT THE UNIVERSITY OF PITTSBURGH
+
+I would like to call your attention to a new position available at the
+University of Pittsburgh:
+
+The Department of Geology and Planetary Science at the University of 
+Pittsburgh invites applications for a full-time visiting assistant 
+professor position beginning in the fall of 2014. The position is 
+outside of the tenure stream and renewable for up to two years, 
+pending budgetary approval. The successful candidate will be expected 
+to teach both undergraduate core curriculum courses including 
+Petrology and Geomorphology, as well as graduate courses such as 
+Volcanology and Planetary Geology that fall within the candidate's 
+area of expertise.
+
+The full ad can be found at:
+
+http://www.geology.pitt.edu/about/news/Visiting_Assistant_
+Professor.html
+
+Please note, this is a different position than the one advertised 
+several weeks ago. Any questions about this ad can be directed to:
+
+Michael Ramsey (Professor & Associate Department Chair)
+mramsey@pitt.edu 
+
+Application materials should be sent to this address:
+visitsrc@pitt.edu
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SPECIAL ISSUE OF ADVANCES IN SPACE RESEARCH ON ISRU FIELD CAMPAIGNS
+
+Papers are invited for a special topical issue of Advances in Space 
+Research (ASR) entitled "In-Situ Resource Utilization (ISRU) Field 
+Campaigns".
+  
+This special issue is open to all researchers who may have an 
+appropriate scientific and/or technical paper related to the main 
+questions about the search for, characterization, and use of in situ 
+resources in space. This topic is timely and relevant, particularly in 
+the context of enabling future sustainable space exploration with 
+robots and/or humans. There have been many advances in recent years in 
+understanding the possibilities for ISRU (in situ resource utilization) 
+and the potential for enabling more capable long-term solar system 
+missions. Papers are encouraged related to prospecting for resources, 
+the rationale of using ISRU, recent technology advances, 
+instrumentation and payloads, and/or concepts of operations in the 
+context of ISRU field campaigns.
+
+Papers must be submitted electronically to: 
+
+http://ees.elsevier.com/asr
+
+Authors must select "Special Issue: ISRU Field Campaigns" when they 
+reach the "Article Type" step in the submission process. The deadline 
+for submissions is 31 January 2014.
+
+Contact Jennifer.Heldmann@nasa.gov for more information.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] MARS 2020 AO AMENDMENT 3
+ 
+The Mars 2020 Investigations AO solicits flight investigations for 
+which each Principal Investigator is responsible for a complete space 
+flight investigation, including instrument hardware, mission 
+operations, and data analysis. Investigations comprised of individual 
+instruments or multiple instruments (suites) may respond to the overall 
+Mars 2020 objectives to explore and quantitatively assess Mars as a 
+potential habitat for life, to search for signs of past life, to 
+collect carefully selected samples for possible future return to Earth, 
+and to prepare for future human exploration of Mars.
+ 
+This amendment makes a number of changes, additions, corrections and 
+clarifications, which are identified in the Foreword and detailed in 
+bold in the text, to the Announcement of Opportunity. The proposal due 
+date is unchanged; proposals are due January 15, 2014.
+ 
+This Amendment to the NASA Announcement of Opportunity "Mars 2020 
+Investigations" (NNH13ZDA018O) is posted on the NASA research 
+opportunity homepage at:
+
+http://solicitation.nasaprs.com/Mars2020
+ 
+Questions concerning this amendment and the Mars 2020 AO, may be 
+directed to:
+
+Mitchell Schulte, NASA Headquarters
+(202) 358-2127
+mars2020-ao@lists.nasa.gov
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+NASA POSTDOCTORAL FELLOWSHIPS
+ 
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+ 
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA’s missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+ 
+An example of one of the research opportunities in planetary science 
+is:
+ 
+https://www3.orau.gov/NPDoc/Catalog/17605       
+ 
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+ 
+Stipends start at $53,500 per year, with supplements for high cost-of-
+living areas and for certain academic specialties. Financial assistance 
+is available for relocation and health insurance, and $8,000 per year 
+is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+ 
+The latest NPP Newsletter: 
+
+http://bit.ly/18GSlHK
+ 
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+ 
+Questions: nasapostdoc@orau.org 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+RESEARCH SCIENTIST POSITION – MARS SCIENCE
+ 
+The Jet Propulsion Laboratory (JPL), a Federally-Funded Research and 
+Development Center operated by the California Institute of Technology 
+for NASA has an opening for a Scientist to participate in future Mars 
+exploration missions.
+ 
+We are seeking to build upon JPL’s existing strengths in Mars science 
+in the areas of astrobiology, geology, inorganic geochemistry, 
+specifically including isotope geochemistry, and Mars atmospheric 
+science, especially as related to interactions with geologic processes. 
+The researcher will identify scientific questions and concepts to 
+further our understanding of the origin, history, and/or habitability 
+of Mars.
+ 
+It is expected that the candidate will pursue new mission and/or 
+instrument opportunities for Martian exploration through advocacy and 
+outreach within the scientific and stakeholder community.
+ 
+To view the full job description and apply to this position, please 
+visit: 
+
+http://careerlaunch.jpl.nasa.gov
+
+(Requisition #12541) 
+
+JPL/Caltech is an equal opportunity/affirmative action employer.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+LLOYD V. BERKNER SPACE POLICY INTERNSHIPS, SUMMER 2014
+
+The goal of the Lloyd V. Berkner Space Policy Internship is to provide 
+promising students with the opportunity to work in the area of civil 
+space research policy in the nation's capital, under the aegis of the 
+National Research Council's Space Science Board. The summer 2014 
+program is only open to undergraduates. The deadline for applications 
+is February 7. Candidate(s) selected for will be contacted no later 
+than March 7. Additional information about the program, including 
+application procedure, can be found at:
+
+http://sites.nationalacademies.org/SSB/ssb_052239
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+6TH ALFVEN CONFERENCE ON PLASMA INTERACTION
+
+Plasma interaction with solar system objects: Anticipating Rosetta, 
+Maven and Mars Orbiter Mission 
+
+7-11 July 2014
+University College London, UK
+
+Main topics: Comets, Mars, Venus, outer planet moons and Earth's moon 
+- especially common processes with comets, and reviewing current 
+knowledge prior to the arrival of the new missions.
+
+https://www.ucl.ac.uk/mssl/planetary-science/alfven-conference
+
+Meeting theme: Within our solar system, the planets, moons, comets 
+and asteroids all have plasma interactions. The interaction depends 
+on the nature of the object, particularly the presence of an 
+atmosphere and a magnetic field. Even the size of the object matters 
+through the finite gyroradius effect and the scale height of cold ions 
+of exospheric origin. It also depends on the upstream conditions, 
+including position within the solar wind or the presence within a 
+planetary magnetosphere. 
+
+This conference will explore our understanding of plasma interactions 
+with comets, Mars, Venus, and inner and outer solar system moons. We 
+will explore the processes which characterize the interactions such as 
+ion pickup and field draping, and their effects such as plasma escape. 
+Data from current and recent space missions, modeling and theory are 
+all encouraged, as we explore our local part of the 'plasma universe'.
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+UPDATED VENUS TOWN HALL AGENDA, FALL AGU
+
+Tuesday, 10 December 2013, San Francisco
+ 
+12:30 PM –1:30 PM PST, Moscone West Room 2004 (Only registered Fall AGU 
+attendees may attend in person)
+12:30 PM - Welcome & Status of VEXAG activities  – Lori Glaze (VEXAG 
+Chair)
+12:40 PM - VEXAG’s Venus Exploration Targets Workshop - Buck Sharpton 
+12:50 PM - Venus Spectral Rocket Experiment (VeSPR) Flight Results - 
+John Clarke
+1:00 PM - Discussion of Restructuring of the Planetary Science Division 
+R&A Program with Jim Green
+1:20 PM - Wrap up – Lori Glaze (VEXAG Chair)
+1:30 PM - ADJOURN
+ 
+For those attending via phone:
+ 
+JPL Meet-Me Line - 818-354-3434 / Toll-Free - 866-328-8761 / Meeting ID 
+0037
+ 
+1:30-2:30 PM Mountain / 2:30-3:30 PM Central / 3:30-4:30 PM Eastern
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] PDS - MARS EXPLORATION ROVERS DATA RELEASE 38
+
+The Planetary Data System (PDS) is pleased to announce Release 38
+of Mars Exploration Rover data. This release includes primarily data 
+from Sols 3241 through 3330 and includes data only from Opportunity,
+MER1/B. It includes data from the following instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+NAVCAM
+MI
+PANCAM
+RAT
+Rover Motion Counter
+SPICE
+
+There are no Mini-TES, Moessbauer, or Radio Science data in this release.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20131206.html
+
+The following special services are provided for accessing MER data:
+
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas:  
+
+http://pds-imaging.jpl.nasa.gov/search/mer
+
+To access the latest PDS Data Releases, please visit:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.jpl.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+April 28 - May 1, 2014
+Habitable Worlds Across Time and Space
+http://www.stsci.edu/institute/conference/habitable-worlds
+Baltimore, MD
+
+May 13-15, 2014
+The Formation of the Solar System Conference
+https://indico.mpifr-bonn.mpg.de/theFormationOfTheSolarSystem
+Bonn, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,582 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 2 (January 12, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AOGS 2020 Session PS03: To the Moon to Stay - The Artemis Era
+2. AOGS 2020 Session PS09: Planetary Data in the Big Data Era 
+   - Archives, Tools, and International Collaborations
+3. AOGS 2020 Session PS12: From the Solar System Origin to the 
+   Planetary System Bodies
+4. AOGS 2020 Session PS13: Polarization in the Solar System and Beyond
+5. EGU 2020 Session PS4.2: Mars Science and Exploration
+6. COSPAR 2020 Session 20-B4.1: Mars Science Results
+7. Lloyd V. Berkner Space Policy Internships 2020
+8. [NASA] Pre-Proposal Webinar for the Space Grant Artemis Student 
+   Challenges Opportunity
+9. 2020 CIDER Summer Program
+10. National Academies' Planetary Science and Astrobiology Decadal 
+    Survey: Statement of Task
+11. [NASA] Pre-Proposal Teleconference: NASA Fellowship Activity 2020
+12. MEPAG Meeting 38: April 15-17, 2020
+13. [NASA] PDS: Mars InSight Data Release 3 Correction
+14. AbGradEPEC 2020 Announcement and Abstract Deadline
+15. Pellas-Ryder Award Nominations for Best Student Paper in 
+    Planetary Sciences Due January 31
+16. [NASA] Announcement for Planetary Science Advisory Committee 
+    Nominations
+17. Mars Exploration Science Monthly Newsletter for January 2020
+18. Summer Exploration Internship Program
+19. The Small Bodies Node Users Group (the SmUG) 
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AOGS 2020 SESSION PS03: TO THE MOON TO STAY - THE ARTEMIS ERA
+
+At the upcoming AOGS 2020 conference in South Korea from June 28 to 
+July 4 we will have the opportunity to discuss future activities on the 
+Moon by the international community. This series of talks will discuss 
+how we can develop a sustained, ongoing human presence on the Moon, 
+eventually leading to human missions to Mars. In this session, 
+contributed presentations will focus on four major themes: new lunar 
+science, human exploration, in-situ resource utilization, and 
+sustainability. Such a long-term presence on the Moon will require new 
+types of infrastructure and methods for constructing it. These new ways 
+to live and work on another planetary body are the cornerstone of 
+future exploration of the Solar System. So let's get this discussion 
+going.
+
+Presentations covering any aspect in this thematic chain are 
+encouraged. Please note that the abstract submission deadline is 
+January 21, 2020.
+
+Go to: http://www.asiaoceania.org/aogs2020/public.asp?page=abstract.asp
+
+Jim Green, David Draper, and Greg Schmidt 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AOGS 2020 SESSION PS09: PLANETARY DATA IN THE BIG DATA ERA - ARCHIVES,
+TOOLS, AND INTERNATIONAL COLLABORATIONS
+
+June 28-July 4, Sono Belle Vivaldi Park, Hongcheon, Korea
+Abstract deadline: January 21, 2020
+
+Conference website: 
+
+http://www.asiaoceania.org/aogs2020/public.asp?page=home.html
+
+This session is about all aspects of planetary science data science, 
+including but not limited to, archiving standards, archive 
+organizations, data services and accessibility, indexing and searching, 
+data mining and manipulation, and applications of big data technology 
+and artificial intelligence in data analysis. Enormous volumes of 
+planetary data are being generated every day, playing more and more 
+important roles in planetary research. Long-term preservation and 
+unrestricted sharing of all planetary data have been recognized to be 
+essential. A number of data archiving organizations are currently 
+running and providing archiving services for data covering all areas 
+of planetary research. This session provides us with a forum to present 
+and discuss the new developments in the related activities, 
+technologies, and concepts related to planetary science data to 
+facilitate effective and efficient planetary data archiving and sharing 
+around the globe in the future.
+
+Conveners:  
+Jian-Yang Li (Planetary Science Institute, USA) 
+Sebastien Besse (ESA) 
+Ludmilla Kolokolova (University of Maryland, USA) 
+Yukio Yamamoto (JAXA) 
+Young-Jun Choi (KASI) 
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AOGS 2020 SESSION PS12: FROM THE SOLAR SYSTEM ORIGIN TO THE PLANETARY
+SYSTEM BODIES
+
+During the last 25 years the ALMA and exoplanets observations and 
+missions in the inner and outer Solar System have already brought 
+planetary science to a new level. It is now time to fully exploit these 
+observational and instrumental efforts, boosting the synergy between 
+the solar system and planet formation community. The interpretation of 
+the acquired data have raised many questions on the processes involved 
+in the formation of planetary bodies and their dynamical evolution. 
+This session aims to gather the scientific community interested in 
+various aspects of planetary body science together with experts in 
+planetary formation system. The main focus will be to discuss the 
+state-of-the-art of planet/small bodies and solar system formation 
+taking into account the recent information coming from observation, 
+laboratory investigations and modelling results.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AOGS 2020 SESSION PS13: POLARIZATION IN THE SOLAR SYSTEM AND BEYOND
+
+Please consider submitting an abstract to session PS13 of the AOGS 17th
+Annual Meeting that will be held on June 28 - July 4, 2020 in 
+Hongcheon, South Korea. See: 
+
+http://www.asiaoceania.org/aogs2020/
+
+The session considers polarization studies of planetary and 
+small-bodies atmospheres and surfaces; magnetic fields in Sun and 
+space; detection and characterization of exoplanets, brown dwarfs, star
+ and planet forming regions; and search for habitability elsewhere. We 
+invite contributions from observers, modelers, laboratory measurements, 
+instrument designers and missions.
+
+Abstract submission deadline is January 21, 2020.
+
+Conveners: 
+P. Yanamandra-Fisher (USA) 
+M. Ishiguro (S. Korea) 
+S. Kim (S. Korea) 
+L. Kolokolova (USA)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EGU 2020 SESSION PS4.2: MARS SCIENCE AND EXPLORATION 
+
+We would like you to invite to submit an abstract to the session PS4.2: 
+"Mars Science and Exploration" of the EGU2020 to be held in Vienna on 
+May 3-8, 2020.
+
+The deadline for the abstract submission is 15 January 2020, 13:00 CET.
+
+With three rover launches scheduled in 2020, another giant leap in Mars 
+exploration is expected in the next decade. In this session, we welcome 
+contributions about lessons learned from past/current missions, 
+terrestrial analog studies, as well as future exploration and 
+prospects.
+
+If you consider submitting an abstract in this session, you can use the 
+following link:
+
+https://meetingorganizer.copernicus.org/EGU2020/session/36513
+     
+Hope to see you in Vienna!
+
+Best regards,
+
+The conveners
+Jessica Flahaut, Benjamin Bultel, Long Xiao and Arianna Piccialli 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+COSPAR 2020 SESSION 20-B4.1: MARS SCIENCE RESULTS
+
+Please consider submitting an abstract to the session on Mars science 
+results at the 43rd COSPAR Scientific Assembly on August 15-22 in 
+Sydney, Australia. There are expected to be three half-day sessions.
+
+Mars has been extensively studied using spacecraft data, theoretical 
+modeling, laboratory studies, and comparative planetology over several 
+decades. As of the conference, there are expected to be six operating 
+orbiters (ODY, MEx, MRO, MAVEN, MOM, and TGO), one operating rover 
+(Curiosity), one operating lander (InSight), and more spacecraft on the 
+way. These spacecraft are exploring Mars' atmosphere, surface, and 
+subsurface to understand the planet's history and habitability. This 
+session will address new science resulting from these missions, as well 
+as studies reliant on theory, modeling, laboratory studies, and 
+comparative planetology. We are very pleased to feature the following 
+solicited speakers: Caroline Freissinet, Justin Deighan, Abigail 
+Fraeman, Claire Newman, and Katarina Miljkovic.
+
+Abstract deadline: February 14, 2020
+
+https://www.cospar-assembly.org/
+
+On behalf of conveners 
+Leslie Tamppari, Oleg Korablev, Bruce Banerdt, Frank Daerden, Serina 
+Diniega, David Flannery, Janet Luhmann, Aymeric Spiga, Ashwin Vasavada
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+LLOYD V. BERNNER SPACE POLICY INTERNSHIPS 2020
+
+The goal of the Lloyd V. Berkner Space Policy Internship is to provide 
+promising undergraduate and graduate students with the opportunity to 
+work in the area of civil space research policy in the nation's 
+capital, under the aegis of the National Academies of Sciences, 
+Engineering, and Medicine's Space Science Board. The summer program is 
+open to undergraduate only (application deadline February 3). The 
+autumn program is open to undergraduate and graduate students 
+(application deadline June 1). Additional information about the 
+program, including application procedure, can be found at: 
+
+http://sites.nationalacademies.org/SSB/SSB_052239  
+
+Enquiries: dhsmith@nas.edu
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+[NASA] PRE-PROPOSAL WEBINAR FOR THE SPACE GRANT ARTEMIS STUDENT 
+CHALLENGES OPPORTUNITY
+
+Mark your calendar: A Pre-Proposal Webinar will be held on Friday, 
+January 17, 2020, at 2:00 pm Eastern Daylight Time for the Space Grant 
+Artemis Student Challenges solicitation. This webinar will give an 
+in-depth overview of the National Space Grant College and Fellowship 
+Program - Artemis Student Challenge Opportunities FY2020-FY2021.
+
+Information regarding proposal preparation, guidelines and requirements 
+will be provided. Please visit the Space Grant Artemis Student 
+Challenges Solicitation Page in NSPIRES for information regarding this 
+NASA opportunity, and be sure to check back for dial-in information.
+
+There will be an opportunity to ask a few questions at the end of the 
+webinar, depending on time, but the best way to have your questions 
+address is to email the questions in advance by January 13, 2020, to 
+SGCFP@nasaprs.com. All questions and answers will be posted on the 
+Space Grant Artemis Student Challenges Solicitation Page:
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId=%7bAAC29829-9136-FBAA-E531-4EB12008B2A9%7d&path=open
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+2020 CIDER SUMMER PROGRAM
+
+June 28 - July 24, 2020
+
+Earth's Evolution as an Inhabited World
+
+CIDER announces their annual summer program on behalf of the 
+geosciences community. This summer program focuses on the evolution of 
+physical and chemical conditions that allowed life to gain a foothold. 
+This broad program will cover the details of planetary formation and 
+the subsequent evolution of this initial state through the early Earth 
+and through the onset of plate tectonics. At each stage, we explore 
+the interplay between Earth's surface environment and the evolution of 
+the interior. The organizers and program committee can be found at: 
+
+https://deep-earth.org/summer20
+
+The program features a 4 week tutorial and research program for about 
+40 advanced graduate students and postdocs. We also welcome scientists 
+at assistant professor/researcher level (and higher) to participate in 
+any part of the program, with a minimum commitment of 2 weeks.
+
+The summer program will be held on the campus of University of 
+California, Santa Barbara. It is supported by the NSF/CSEDI program. 
+Applications are invited for both senior and junior participate at:
+
+https://www.deep-earth.org/summer20
+
+Follow the link to the application page. 
+
+Application deadline: Feb. 28, 2020
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NATIONAL ACADEMIES' PLANETARY SCIENCE AND ASTROBIOLOGY DECADAL SURVEY: 
+STATEMENT OF TASK 
+
+The National Academies of Science, Engineering, and Medicine and 
+NASA's Science Mission Directorate have reached consensus on the 
+statement of task for the next decadal survey in planetary science and 
+astrobiology. The National Academies' Space Studies Board is currently 
+preparing a proposal to execute the agreed-upon tasks and the survey 
+will be formally initiated as soon as funding has been received from 
+NASA. Details can be found at: 
+
+https://sites.nationalacademies.org/SSB/ssb_197330
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PRE-PROPOSAL TELECONFERENCE: NASA FELLOWSHIP ACTIVITY 2020
+
+The NASA Research Announcement (NRA) NNH20ZHA001N: NASA Fellowship 
+Activity 2020 is seeking student-authored and independently conceived 
+graduate research proposals responding to a NASA Research Opportunity 
+listed in the solicitation. The 2020 NASA Fellowship Activity is 
+designed to support OSE objectives and provide academic institutions 
+the ability to enhance graduate-level learning and development. The 
+program details and requirements are outlined in the solicitation 
+document:
+
+https://nspires.nasaprs.com/external/solicitations/summary!init.do?
+solId=%7bFE34FF68-88DA-AE12-9C18-A309B190C3F5%7d&path=open
+
+Proposals are due February 21, 2020.
+
+A first informational webinar about this fellowship research activity 
+will be presented on Wednesday, January 8 at 5:00 pm ET (2:00 pm PT).
+
+Telecom number: 1-844-467-6272
+Passcode: 549325 
+
+The information to join the meeting via Webex is posted on the 
+solicitation webpage. Please pre-read the solicitation document and 
+submit your questions to NASA.Fellowships@nasaprs.com. Questions will 
+not be taken during the call.
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MEPAG MEETING 38: APRIL 15-17, 2020
+
+Members of the Mars community,
+
+I cordially invite you to participate in the next face-to-face Mars 
+Exploration Program Analysis Group (MEPAG) meeting scheduled for 
+Wednesday-Friday, April 15-17, 2020 (#38). This meeting will be held at 
+the Residence Inn Arlington Capital View (Arlington, VA).
+
+The main foci of this MEPAG meeting are preparation for the next 
+Planetary Science Decadal Survey and the current state of Mars 
+exploration plans within NASA and other space agencies. Agenda items 
+are expected to include updates about:
+
+* Recent MEPAG activities, including Decadal Survey preparations
+* The Mars Exploration Program, including plans for Mars Sample Return
+* Ongoing and planned Mars missions, domestic and international
+* Human Exploration and Commercial Space future access to Mars
+* The status of the ongoing Mars Architecture Strategy Working Group
+
+For additional information, go to:
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+Sincerely,
+
+Dr. R. Aileen Yingst
+MEPAG Chair 
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] PDS: MARS INSIGHT DATA RELEASE 3 CORRECTION
+
+The NASA Planetary Data System would like to call the attention of the 
+community to a new online resource for InSight seismometer data, the 
+Mars SEIS Data Service (MSDS), developed at IPGP, at: 
+
+https://www.seis-insight.eu/en/science/
+
+This service joins two other locations where SEIS data may be obtained. 
+The others are the InSight page at the Incorporated Research 
+Institutions for Seismology (IRIS): 
+
+https://www.iris.edu/hq/sis/insight 
+
+and the PDS InSight page at: 
+
+https://pds-geosciences.wustl.edu/missions/insight 
+
+All SEIS data released to the public are available at these sites.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ABGRADEPEC 2020 ANNOUNCEMENT AND ABSTRACT DEADLINE
+
+In April 2020, AbGradE (Astrobiology Graduates in Europe) will have a
+joint symposium/workshop with the Europlanet Early Career (EPEC)
+Network. The event will take place on April 16-19, immediately before
+the first BEACON conference, and will offer young scientists a smooth
+entry into the new European Astrobiology Institute (EAI). Both the
+AbGradEPEC event and BEACON itself will take place at the La Palma &
+Teneguia Princess Hotel on La Palma Island (Canary Islands, Spain).
+For the scientific sessions on Saturday we welcome contributed talks
+(and/or posters) by our attendees about their current projects (any
+topic related to Astrobiology is valid). All - undergraduates, PhD
+students, and Post-Docs - are allowed to submit. This is an opportunity
+to give your talk in front of other young scientists in a stress-free
+environment. The abstract submission deadline is on January, 15th.
+We are happy to announce that we will be able to offer some
+accommodation grants.
+
+All the above-mentioned information are also available on our homepage:
+
+http://www.eana-net.eu/index.php?page=Abgrade/abgradepec2020
+
+Looking forward to meeting you on La Palma,
+
+Your AbGradEPEC Committee
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PELLAS-RYDER AWARD NOMINATIONS FOR BEST STUDENT PAPER IN PLANETARY 
+SCIENCES DUE JANUARY 31
+
+The Pellas-Ryder Award is jointly sponsored by the Meteoritical Society 
+and the Planetary Geology Division of the Geological Society of 
+America, is awarded to an undergraduate or graduate student who is 
+first author of the best planetary science paper published in a 
+peer-reviewed scientific journal during the year prior to the award. 
+
+The deadline for nominations of 2019 papers is January 31. Submissions 
+(PDF) for consideration should be emailed to the Chair of the Selection 
+Committee, Dr. Emily Martin (martines@si.edu). Further information 
+here: 
+
+https://community.geosociety.org/pgd/awards/pellas-ryder
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] ANNOUNCEMENT FOR PLANETARY SCIENCE ADVISORY COMMITTEE 
+NOMINATIONS
+
+The Planetary Science Advisory Committee (PAC) supports the advisory 
+needs of the Planetary Science Division (PSD), the Science Mission 
+Directorate (SMD) and other mission directorates as required, and the 
+NASA Administrator. The advisory scope of the PAC includes all aspects 
+of NASA's planetary science program, including scientific research;
+considerations of the development of near-term enabling technologies, 
+systems, and computing and information management capabilities; and 
+developments with the potential to provide long-term improvements in 
+future mission operational systems.
+
+Responsibility for biological planetary protection is outside the 
+purview of the PAC. NASA's PSD is extending the invitation for 
+nominations for service on the PAC. Interested members of the community 
+are invited to review the charter and to submit nominations (including 
+self-nominations) for consideration to fill vacancies on the Committee.
+
+For details, go to:
+
+http://planetarynews.org/nasa/20200109-PACnominations.pdf
+
+For more information about PAC, go to:
+
+https://science.nasa.gov/nac/science-advisory-committees/pac
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR JANUARY 2020
+
+On behalf of Aileen Yingst (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Serina Diniega of the Mars Program Science Office, the January 2020 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+SUMMER EXPLORATION INTERNSHIP PROGRAM
+
+The Summer Exploration Internship Program is a new initiative of the 
+Institute for Earth and Space Exploration at the University of Western 
+Ontario, Canada: 
+
+http://space.uwo.ca 
+
+This program will provide undergraduate students with an opportunity 
+to perform cutting-edge, hands-on research on a range of topics in an 
+interdisciplinary environment. Students will work on a combination of 
+interdisciplinary team-based research projects and focused individual 
+research projects with faculty mentors, with their time divided 
+approximately equally between the two. For more information and to 
+apply, visit: 
+
+https://space.uwo.ca/training/scholarships_and_awards
+/summer_internship.html
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+THE SMALL BODIES NODE USERS GROUP (THE SMUG)
+
+The Small Bodies Node of the NASA Planetary Data System is constituting 
+a users group to represent the interests of the SBN user community, 
+test new products, and provide input for the SBN's future development. 
+The user group will replace the SBN Advisory Council as its primary 
+deliberative user body, and will be comprised of a small number of 
+sitting members who will rotate on for staggered, three-year terms, 
+with the intention of maintaining a balance of diversity that crosses 
+small body related disciplines and levels of career development. The 
+group will meet half-days twice per year on the margins of major 
+meetings, such as the AAS-DPS and LPSC meetings. Individuals who are 
+interested in joining are encouraged to contact gerbsb@umd.edu. 
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 23-24, 2020
+Apophis T-9 Years: Knowledge Opportunities for the Science of 
+Planetary Defense
+https://www.hou.usra.edu/meetings/apophis2020/
+Nice, France
+
+May 12-14, 2020
+8th European Lunar Symposium 
+https://els2020.arc.nasa.gov
+Padua, Italy
+
+August 17-21, 2020
+Cosmic Dust
+https://www.cps-jp.org/~dust/
+Kitakyushu, Japan
+
+June 21-25, 2021
+Gordon Conference on Origins of Solar Systems
+https://www.grc.org/origins-of-solar-systems-conference/2021
+South Hadley, MA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

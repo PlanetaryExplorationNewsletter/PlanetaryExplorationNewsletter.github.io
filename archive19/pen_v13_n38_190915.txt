@@ -1,0 +1,490 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 38 (September 15, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [ESA] PSA: ExoMars 2016 Spice Kernels Archive Release
+2. Ice Giant Notifications
+3. EPSC/DPS Workshop: Solar System Geometry with SPICE
+4. Registration is Open for the Voyage 2050 Workshop
+5. Joint Center for Planetary Astronomy Postdoc Position at Caltech
+6. Job Announcement: Photogrammetrist
+7. [NASA] Opportunity to Host Citizen Science Workshop
+8. Symposium Announcement: Astrochemical Complexity in Planetary 
+   Systems
+9. [NASA] PDS: JUNO Data Release 9
+10. Getting Ready for LSST: 5+ Million Small Bodies, 1+ Billion
+    Observations - Workshop at EPSC-DPS 2019
+11. PDS Booth at DPS - Individual Tutorials (and Group Classes) 
+    Available
+12. International Observe the Moon Night - October 5, 2019
+13. Academic Position in Exoplanet Characterisation at Cardiff 
+    University
+14. Shared Folder and Spreadsheet for Pre-Decadal Mercury White Papers
+15. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[ESA] PSA: EXOMARS 2016 SPICE KERNELS ARCHIVE RELEASE
+
+The ESA SPICE Service (ESS) and the Planetary Science Archive (PSA)
+with NAIF are pleased to announce the first release of the ExoMars2016
+SPICE bundle, em16_spice.
+
+To access the above data, please visit:
+
+https://doi.org/10.5270/esa-kfjsoi9
+
+The data can be accessed directly via FTP at the PSA and at NAIF:
+
+ftp://psa.esac.esa.int/pub/mirror/ExoMars2016/em16_spice/
+
+https://naif.jpl.nasa.gov/pub/naif/pds/pds4/em16/em16_spice/
+
+The bundle's readme file in ASCII text format is located at
+
+ftp://psa.esac.esa.int/pub/mirror/ExoMars2016/em16_spice/readme.txt
+
+All available ESA SPICE data may be found at:
+
+https://www.cosmos.esa.int/web/spice/data
+
+For further information, see the ESA SPICE Service Home Page:
+
+https://spice.esac.esa.int
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ICE GIANT NOTIFICATIONS
+
+(1) Ice Giants at EPSC-DPS2019
+
+An Ice Giants session will be held at EPSC-DPS2019 (Geneva) on Monday
+September 16, from 08:30-10:00 and 13:30-15:00 (Venus room). 
+
+The Ice Giants session will be followed by 
+
+- Poster session (Tuesday September 17, 17:15-18:45) 
+- Splinter meeting (Wednesday September 18, 17:15-18:30) in the
+  Pluto room. The splinter meeting provides an opportunity for
+  discussion of mission proposals and the strategies for
+  international coordination. All are welcome.
+
+(2) Royal Society Ice Giant Systems Meeting
+
+Registration and abstract submission are open for the international
+meeting in London, January 20-22, 2020. For full details please see:
+
+https://ice-giants.github.io/
+
+Note that registration is mandatory and limited in numbers. The closing
+deadline will be during the AGU meeting in December, so please plan
+ahead. Please contact ice-giants@le.ac.uk if you have any questions.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC/DPS WORKSHOP: SOLAR SYSTEM GEOMETRY WITH SPICE
+
+Please join us for a SPICE Training session on Wednesday, Sept 18,
+13:30-17:00 Pluto (room 13) 
+
+SPICE is an information system that uses ancillary data to provide
+Solar System geometry information to scientists and engineers in order
+to plan and analyze sientific observations. The ESA SPICE Service
+offers a training session on SPICE aimed to those who want to be
+introduced to SPICE or who might be considering attending a complete
+SPICE Training.
+
+During this course a brief introduction to SPICE will be provided and
+it will be followed by a practical hands-on lesson of a SPICE
+application based on a remote sensing observation scenario. We will
+also go through WebGeocalc, SPICE-Enhanced Cosmographia 3D
+Visualization Software and some Python packages.
+
+Training material will be provided with GitHub, using the ESS account: 
+
+https://github.com/esaSPICEservice/ 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REGISTRATION IS OPEN FOR THE VOYAGE 2050 WORKSHOP
+
+October 29-31, 2019 
+
+Voyage 2050 Workshop - Shaping the European Space Agency's space
+science plan for 2035-2050 
+
+Consejo Superior de Investigaciones Cientificas (CSIC), Madrid, Spain 
+
+https://www.cosmos.esa.int/web/voyage-2050-workshop 
+
+Registration is open (until September 30) for this workshop. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JOINT CENTER FOR PLANETARY ASTRONOMY POSTDOC POSITION AT CALTECH
+
+The Joint Center for Planetary Astronomy (JCPA) at the California
+Institute of Technology solicits applications for a postdoctoral prize
+fellowship associated with the center. This fellowship will be awarded
+to an outstanding applicant pursuing research in any area related to
+planetary astronomy either within the Solar System or beyond either
+observationally, theoretically, or computationally. The JCPA provides a
+collaborative and interdisciplinary environment for researchers at
+Caltech with common interests spanning both astronomy and planetary
+science. Fellows will also have full access to Caltech's extensive
+resources, including the Keck and Palomar Observatories and
+computational facilities.
+
+Applicants for the position must have a Ph.D. in planetary science,
+astronomy, astrophysics, geology, or an equivalent field by the date of
+their appointment. Applicants must also be within four years of
+receiving their Ph.D. (Ph.D. awarded after January 1, 2016). Applicants
+should submit a CV, list of publications, a statement describing their
+current and proposed research (4 page single spaced, 12 pt. font, not
+including figures and references), and three letters of recommendation
+by January 1, 2020. Offers will be made by Feb. 1, 2020. Questions
+regarding the fellowship should be directed to Professor Mike Brown
+(mbrown@caltech.edu).
+
+https://applications.caltech.edu/jobs/jcpa
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JOB ANNOUNCEMENT: PHOTOGRAMMETRIST
+
+The USGS Astrogeology Science Center is looking for a Photogrammetrist
+(GS-11/12 Physical Scientist). We work in coordination with NASA and
+other agencies to support missions to planetary objects across the
+Solar System. If you are looking for a rewarding position in the
+Federal workforce and have expertise in photogrammetry and software
+development, we need your help! Job duties include developing software,
+algorithms, and/or guidelines for mapping planetary data; developing
+planetary sensor models that define the transformation between image
+space and object space; producing improved geospatial knowledge of
+extraterrestrial bodies and planetary datasets (e.g., spacecraft
+ephemerides, digital elevation models, orthorectified images and
+mosaics, metadata, and control networks); and providing guidance to
+technical staff working on photogrammetric and geodetic production
+tasks. Applicants must have a bachelors or higher degree in physical
+science, engineering, or mathematics, expertise in the concepts,
+theories, and principles of photogrammetry, cartography, geodesy,
+and/or computer vision, and experience developing and modifying
+software to apply these principles to highly varied datasets.
+Applicants must be US citizens, and a background check is required.
+This position is located in Flagstaff, AZ. Apply starting September 2,
+2019 through USAjobs.gov announcement DEN-2019-0254:
+ 
+https://www.usajobs.gov/GetJob/ViewDetails/543559200
+
+Contact Brent Archinal with questions: (barchinal@usgs.gov; (928)
+556-7083).
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+OPPORTUNITY TO HOST CITIZEN SCIENCE WORKSHOP
+ 
+Following last year's "Building the NASA Citizen Science Community"
+workshop, where scientists, students, outside experts, and thought
+leaders explored how NASA can help build a Nation of citizen
+scientists, NASA's Science Mission Directorate (SMD) has received
+inquiries about proposals to host a summer 2020 workshop. SMD will
+consider proposals for a summer 2020 citizen science workshop via the
+ROSES-19 TWSC program element if they are received by October 25, 2019.
+
+Note, this is earlier than the posted TWSC deadline listed on NSPIRES.
+Proposals must identify Marc Kuchner (Marc.Kuchner@nasa.gov) as the
+point of contact. One grant of approximately $90K - 125K to one U.S.
+led team is expected in early 2020.
+
+For more information on SMD citizen science projects, see:
+
+https://science.nasa.gov/citizenscience
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+SYMPOSIUM ANNOUNCEMENT: ASTROCHEMICAL COMPLEXITY IN PLANETARY SYSTEMS
+
+This interdisciplinary symposium will be held at the 259th ACS National
+Meeting, Philadelphia, PA, 22-26 March 2020.
+
+The aim is to bring together laboratory, theoretical and observational
+astrochemists with planetary scientists to generate insights into the
+origins of chemical complexity in planetary systems.
+
+Session Topics:
+1. Chemical Complexity from the ISM to Disks: Observations and Models.
+2. Experimental and Theoretical Techniques for Interstellar/Planetary
+   Chemistry.
+3. The Outer Solar System, Comets, Icy Rings, and Satellites.
+4. Inner Solar System, Asteroids and Giant Planets.
+5. Organics in Meteorites.
+6. Organics on the Primordial Earth.
+7. Emerging Techniques for Sample Analysis.
+
+Confirmed Invited Speakers: 
+Brett McGuire, Jennifer Bergner, Susanna Widicus Weaver, Herve Cottin,
+Chao He, Kathrin Altwegg, Hunter Waite, Yoko Kebukawa, Jay Forsythe,
+Mehmet Yesiltas, Amanda Hendrix, Jamie Elsila, Ryan Fortenberry, Reggie
+Hudson, Mike McCarthy, Steven Charnley, Scott Sandford.
+
+To submit a talk or poster abstract (deadline is October 14, 2019),
+visit:
+
+https://callforpapers.acs.org/philadelphia2020/PHYS 
+
+For additional details see:
+
+http://astro.phys-acs.org/symposia/Spring2020.html
+
+Dr M. Cordiner and Dr. C. Bennett,
+Symposium organizers
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] PDS: JUNO DATA RELEASE 9
+
+The Planetary Data System announces the ninth release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2018-10-30 and 2019-02-12, which covers Juno Orbits 17 and 18.
+
+Data sets from the following experiments are now available:
+
+  FGM (magnetometer)
+  Gravity
+  JIRAM (infrared auroral mapper)
+  JunoCam (camera)
+  MWR (microwave radiometer)
+  SPICE
+  UVS (ultraviolet imaging spectrometer)
+  Waves (radio and plasma wave science)
+
+JADE and JEDI data for this release will be available soon.
+
+To access the above data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190911.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+  
+  
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GETTING READY FOR LSST: 5+ MILLION SMALL BODIES, 1+ BILLION 
+OBSERVATIONS - WORKSHOP AT EPSC-DPS 2019
+
+Thursday September 19, 2019 1:30-3:15pm, Geneva, Switzerland - Open to 
+all EPSC-DPS attendees
+
+The LSST is slated to make a significant contribution to the study of
+the Solar System, delivering over a billion highly precise observations
+of millions of Solar System objects (5mmag photometry and 10mas
+astrometry, per observation, at the bright end). This dataset presents
+tremendous opportunities for Solar System science. This town
+hall/workshop will overview the science possibilities, report on
+project status and expected data products, and discuss how to get
+involved in preparations for science with LSST. 
+
+Talks include:
+- LSST Overview and Current Status (Ranpal Gill)
+- LSST Solar System Data Products & LSST Commissioning Update (Mario
+  Juric)
+- Update from the LSST SSSC (Meg Schwamb)
+- Euclid and Comet Interceptor Synergies with LSST (Colin Snodgrass)
+
+Workshop Contact: Mario Juric (mjuric@astro.washington.edu) and Ranpal 
+Gill (rgill@lsst.org)
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PDS BOOTH AT DPS - INDIVIDUAL TUTORIALS (AND GROUP CLASSES) AVAILABLE
+
+The PDS will have a booth at the DPS meeting to provide PDS support to
+the scientific community. There will be both scheduled classes in
+selected topics as well as signup for individual support sessions. 
+Topics will cover all stages of the archive process, from developing
+and costing a Data Management Plan through getting data through PDS
+peer review. Finding and using PDS data will also be covered.
+
+Sign up for an individual session to get your specific questions
+answered, or come to one of the scheduled group sessions: 
+
+http://pds-training.psi.edu
+
+Available topics:
+
+- Finding PDS Data
+- General training on PDS4 (either for missions or R&A archives)
+- Data Management Plans for Proposers
+- Designing Mission or Project PDS4 Dictionaries
+- Archiving your data: Bring your data and we will get you started.
+- Using PDS4 data: How is it different and tools to read the PDS4
+  labels
+
+Contact: Eric Palmer, epalmer@psi.edu or Mitchell Gordon,
+mgordon@seti.org
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+INTERNATIONAL OBSERVE THE MOON NIGHT - OCTOBER 5, 2019
+ 
+International Observe the Moon Night is a worldwide celebration of
+lunar science and exploration, celestial observation, and the cultural
+and personal connections we have to the Moon. Everyone, everywhere can
+participate. You can join by hosting or attending an event, or
+registering as a lunar observer.
+
+In 2019, a year of important lunar anniversaries, International Observe
+the Moon Night celebrates 10 years of lunar science engagement. With
+the 50th anniversary of the Apollo 11 Moon landing, an international
+fleet of robotic lunar explorers, and as we look forward towards
+Artemis, it's a great time to celebrate past, present, and future lunar
+exploration.
+
+Learn more about International Observe the Moon Night, find program
+resources and event materials, and register your participation on
+moon.nasa.gov/observe.
+
+Connect with lunar enthusiasts worldwide and share your view of the
+Moon through #observethemoon and the International Observe the Moon
+Night Flickr group.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ACADEMIC POSITION IN EXOPLANET CHARACTERISATION AT CARDIFF UNIVERSITY
+
+Closing date: Thursday 7 November 2019
+
+Cardiff University job reference: 9049BR
+
+The School of Physics and Astronomy at Cardiff University has
+one of the largest astronomy groups in the UK with 26 academic
+staff in astronomy-related activities including galactic
+and extragalactic astrophysics, ground-based and space-borne
+instrumentation development, and gravitational waves. We have
+an immediate vacancy for an open-ended academic position, at
+Lecturer, Senior Lecturer, or Reader level, in the field of
+exoplanet science. The appointment will be made at a level
+commensurate with experience.
+
+This position is part of a long-term strategic plan for astronomy
+at Cardiff to broaden current research to exoplanet science using
+space and ground based facilities. We are part of the international
+consortium that will provide the science payload for the European
+Space Agency's ARIEL satellite, dedicated to the systematic
+characterisation of exoplanet atmospheres and scheduled for launch
+in 2028. It is expected that the new appointee will become a key
+member of the Cardiff ARIEL team and of the international ARIEL
+consortium.
+
+For details and applicatoin process see:
+
+https://www.cardiff.ac.uk/jobs
+
+(under Academic Vacancies; School of Physics and Astronomy)
+
+Contact: Professor Matt Griffin; matt.griffin@astro.cf.ac.uk
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+SHARED FOLDER AND SPREADSHEET FOR PRE-DECADAL MERCURY WHITE PAPERS
+
+Dear Mercury community,
+
+With the Decadal Survey scheduled to begin next year, efforts are now
+underway to draft white papers to support the Survey and identify key
+issues for consideration.
+
+To support the writing of, and collaboration on, Mercury-focused white
+papers we have prepared a spreadsheet for use by the community where
+the details of these papers can be collated. This spreadsheet is within
+a shared Google Drive folder where the paper drafts themselves can be
+shared for community feedback.
+
+The folder and spreadsheet can be accessed via:
+
+https://drive.google.com/open?id=1-cLXg9sPfKbWl1sg08G3c0RBArekDnrw
+
+Please direct any queries or problems with accessing the
+folder/spreadsheet to Paul Byrne (paul.byrne@ncsu.edu).
+
+With thanks,
+
+Dave Blewett
+Paul Byrne
+Nancy Chabot
+Steven Hauck
+Erwan Mazarico
+Kathleen Vander Kaaden
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 20-24, 2020
+The Sharpest Eyes on the Sky
+http://sites.exeter.ac.uk/sharpesteyes2020/
+Exeter, United Kingdom
+
+July 27-31, 2020
+Exoplanets III
+https://exoplanets3.mpia.de/heidelberg.php
+Heldelberg, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 260 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

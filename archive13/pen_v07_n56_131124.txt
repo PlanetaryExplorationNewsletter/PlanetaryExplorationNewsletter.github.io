@@ -1,0 +1,313 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 56 (November 24, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Job Announcement USRA
+2. EGU2014 Session GM2.1 - Digital Landscapes: Insights into 
+   Geomorphological Processes
+3. Planetary Geomorphology EGU 2014 - Student Travel Support Deadline: 
+   29 November
+4. Post-Doctoral Positions at the University of Arizona
+5. VEXAG Executive Committee Members Solicited
+6. NASA Postdoctoral Fellowships
+7. Photogrammetric Processing of Planetary Stereo Imagery Using ISIS 
+   and SOCET SET
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+JOB ANNOUNCEMENT USRA
+
+USRA is seeking one or more scientific staff positions in the 
+Planetary Radar Astronomy department studying near-Earth asteroids and 
+other bodies with the Arecibo Observatory Planetary Radar system.
+
+This position would involve observations, data processing, archiving,
+and modeling of near-Earth asteroids and other bodies with the
+Arecibo Planetary radar system. Experience with radar observations and
+techniques is *not* a prerequisite. Experience and interest in 
+astronomical observations of Solar System objects, small-bodies 
+geophysics, and/or numerical inverse modeling are desirable. 
+Applications can be accepted at the technical staff (M.S. or 
+equivalent experience), post-doc (Ph.D.), or research scientist 
+(Ph.D + relevant experience) levels.
+
+The incumbent would be resident in Arecibo, Puerto Rico and be an
+employee of Universities Space Research Association. Ph.D. level
+researchers (post-doc or research scientist) would be expected to
+maintain an independent research program and encouraged to apply for
+partial funding support.
+
+For technical information, please contact Mike Nolan <nolan@naic.edu>.
+
+USRA is an Equal Opportunity Employer.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EGU2014 SESSION GM2.1 - DIGITAL LANDSCAPES: INSIGHTS INTO 
+GEOMORPHOLOGICAL PROCESSES
+
+Dear Colleagues,
+
+After a vibrant session in 2013 with exciting planetary presentations 
+we would value your contribution to our session on extracting insights 
+into processes from digital landscapes.
+
+Session GM2.1 Digital Landscapes: Insights into geomorphological 
+processes from quantitative interrogation and use at EGU2014 (Vienna, 
+Austria 27 April - 2 May 2014)
+
+We encourage abstracts which concern the exploitation of elevation 
+data for geomorphological analysis. This inter-disciplinary session 
+will highlight developments driving innovation in the exciting uses 
+of digital landscapes (DEM, DTM, or DSM) of the Earth, seafloor or 
+planetary terrains. Much interest is expected in high-resolution DEMs 
+on Earth, but any data source (e.g. laser scanning, SAR, 
+photogrammetry, structure from motion, satellite-derived) is welcome.
+ 
+A full description of the session can be found at: 
+
+http://meetingorganizer.copernicus.org/EGU2014/session/14779
+ 
+Deadline for receipt of abstracts: 16 January 2014 at 13:00 CET
+
+All the best,
+
+John Hillier (convener)
+Paolo Tarolli, Susan Conway (co-conveners)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY EGU 2014 - STUDENT TRAVEL SUPPORT DEADLINE: 
+29 NOVEMBER
+
+Students - the deadline for financial support applications is fast 
+approaching - 29th November! To qualify you must submit your abstract 
+by this date! 
+
+http://www.egu2014.eu/support_and_distinction.html
+
+Planetary Geomorphology at EGU 2014 (Vienna Austria 27 April-2 May) 
+GM10.1: The Planetary Geomorphology session welcomes abstracts 
+concerning landforms and the processes that shape them on all solar 
+system bodies. Earth analogue studies, flume/simulation work and 
+novel approaches using remote sensing data are especially encouraged. 
+This session has always provided a stimulating forum for cross-
+disciplinary discussion and we hope you'll join us once again to bring 
+geomorphology and planetary science closer together. The final 
+deadline for abstracts is 16th January 2013.
+
+Session details and link to abstract submission:  
+
+http://meetingorganizer.copernicus.org/EGU2014/session/14256
+
+Abstract instructions: 
+
+http://www.egu2014.eu/abstract_management/how_to_submit_
+an_abstract.html
+
+Regards, Planetary Geomorphology Conveners: Susan Conway, 
+Matt Balme, Colman Gallagher and Andreas Johnsson
+ 
+The Open University is incorporated by Royal Charter (RC 000391), 
+an exempt charity in England & Wales and a charity registered in 
+Scotland (SC 038302). 
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POST-DOCTORAL POSITIONS AT THE UNIVERSITY OF ARIZONA
+
+As part of a new terrestrial analogs initiative for planetary sciences 
+research within the Lunar and Planetary Laboratory (LPL), talented 
+scientists and engineers with backgrounds in geology, geophysics, 
+applied mathematics, mechanical/electrical engineering, informatics, 
+and/or computer sciences are encouraged to apply. Successful 
+applicants will work as part of a multi-disciplinary research team, 
+with opportunities for field-based and experimental research, 
+geologic remote sensing of planetary surfaces, and geophysical 
+modeling.
+
+Research topics in Earth and Planetary Sciences will include: 
+(1) development and deployment of Unmanned Aerial Vehicles (UAVs); 
+(2) fluid dynamic modeling of magma, lava, aqueous floods, and/or 
+debris flows; 
+(3) thermal-infrared imaging and thermodynamic modeling of volcanic 
+processes; and 
+(4) informatics and machine learning applications to geologic pattern 
+recognition and data analysis.
+
+The appointment will be full-time (1.0 FTE) for one year, with the 
+possibility of renewal for up to three years, contingent upon 
+satisfactory performance and funding. Salary is commensurate with 
+experience, but will be competitive and in keeping with other leading 
+institutions in the United States. For full position details and to 
+apply online, see:
+
+http://www.hr.arizona.edu 
+
+and reference job #53859. 
+The University of Arizona is an EEO/AA employer - M/W/D/V.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VEXAG EXECUTIVE COMMITTEE MEMBERS SOLICITED
+
+The Venus Exploration Analysis Group will have two openings on the 
+Executive Committee in the coming months. Terms for these positions 
+will be two years beginning approximately in the spring of 2014.  
+Anyone interested in serving on the Executive Committee should submit 
+a Curriculum Vitae along with a statement of interest to the VEXAG 
+Chair (Lori.S.Glaze@nasa.gov) with a copy to 
+Thomas.W.Thompson@jpl.nasa.gov. More information on the VEXAG charter 
+and activities is available on the VEXAG web site:
+
+http://www.lpi.usra.edu/vexag/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on the 
+NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's
+missions in earth science, heliophysics, planetary science, 
+astrophysics, space bioscience, aeronautics and engineering, human 
+exploration and space operations, and astrobiology.
+
+A sample research opportunity in planetary science is:
+
+https://www3.orau.gov/NPDoc/Catalog/18624      
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+The latest NPP Newsletter: 
+
+http://bit.ly/18GSlHK
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+ 
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+ 
+PHOTOGRAMMETRIC PROCESSING OF PLANETARY STEREO IMAGERY USING ISIS AND 
+SOCET SET
+
+December 17-19, 2013
+
+The Planetary Photogrammetry Guest Facility at the Astrogeology 
+Science Center of the U.S. Geological Survey would like to announce 
+a new Call for Participation for a training opportunity on 
+Photogrammetric Processing of Planetary Stereo Imagery using ISIS 
+and SOCET SET. The training is free to participants, and will cover 
+end-to-end, hands-on photogrammetric procedures for surface extraction 
+from Mars Reconnaissance Orbiter HiRISE image pairs. The topics 
+include:
+
+- An introduction to photogrammetric procedures and surface generation 
+  techniques;
+- Overview of HiRISE imagery; and
+- Workflow and data exchange between ISIS and SOCET SET.
+
+The hands-on training will include ISIS preprocessing, SOCET SET 
+import of image and reference data, orientation procedures, 
+triangulation and bundle adjustment, manual and automated surface 
+extraction of digital terrain models (DTM), editing, and data export.
+
+Please send an email to: 
+
+Dr. Raad Saleh 
+PlanetaryPhotogrammetry@usgs.gov
+
+with the following specific information: 
+
+your name, 
+title, 
+affiliation, 
+address, 
+full contact information, 
+a short statement describing your interest in the training. 
+
+Seating for this session is very limited, so please express your 
+interest as soon as possible.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 17-18, 2014
+1st FISICA Workshop - Science Goals of a Sub-Arcsecond Far-Infrared 
+Space Observatory
+http://fisica.iaps.inaf.it/wp/
+Rome, Italy
+
+September 1-5, 2014
+21st General Meeting of the International Mineralogical 
+Association (IMA)
+http://ima2014.co.za/index.php/programme/11-accepted-session
+-proposals/80
+Johannesburg, South Africa
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

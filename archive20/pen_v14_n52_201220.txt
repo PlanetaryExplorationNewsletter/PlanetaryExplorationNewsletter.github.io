@@ -1,0 +1,369 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 52 (December 20, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Georgiana Kramer, Mark V. Sykes  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EGU GA Meeting Sessions
+2. Postdoctoral Associate at Lowell Observatory
+3. Graduate Student and Postdoctoral Positions in Comet / Asteroid
+   Science
+4. [NASA] Graduate Student Research: Future Investigators in NASA Earth
+   and Space Science and Technology (FINESST) Update & Reminders 
+5. Ocean Worlds at LPSC
+6. 2021 NASA Planetary Science Summer School Applications 
+7. [NASA] Planetary R&A Virtual Townhall
+8. MRO SHARAD Delayed RDR Data Release 55
+9. GAC-MAC 2021 Hybrid Meeting
+10. Planetary Meeting Calendar Additions
+11. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EGU GA MEETING SESSIONS
+
+Dear colleagues,
+
+Please join us for the next EGU general assembly meeting that will take
+place virtually between April 19 and April 30, 2021. We would like
+to draw your attention to the following sessions (see below).
+
+Abstract submissions will be accepted until 13 January 2021 at 13:00
+CET. We are looking forward to fruitful exchanges with you!
+
+PS3.4
+Mars Science and Exploration
+Convener: Arianna Piccialli
+Co-conveners: Benjamin Bultel, Jessica Flahaut, Agata Krzesinska, Xiao
+Long
+
+https://meetingorganizer.copernicus.org/EGU21/session/39970 
+
+PS3.5 
+Planetary Surfaces: Insights from spectroscopy
+Convener: Damien Loizeau
+Co-conveners: Jessica Flahaut, Jun Huang  
+
+https://meetingorganizer.copernicus.org/EGU21/session/39971 
+
+PS3.6
+Volcanism and tectonism across the Solar System
+Co-organized by GMPV4/TS13. 
+Convener: Petr Broz 
+Co-conveners: Sylvain Breton, Ernst Hauber 
+
+https://meetingorganizer.copernicus.org/EGU21/session/40044  
+
+PS6.2 
+Future missions and instrumentation
+Co-organized by GI3/ST2
+Convener: Gen Ito
+Co-conveners: Casey Honniball, Susanne Schroeder, Elliot Sefton-Nash
+
+https://meetingorganizer.copernicus.org/EGU21/session/40032   
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL ASSOCIATE AT LOWELL OBSERVATORY
+
+Lowell Observatory in Flagstaff, Arizona is currently seeking
+applications for a Postdoctoral Associate in Near-Earth Objects
+Studies.
+
+A complete job description and instructions on how to apply can be
+found on our employment page: 
+
+https://lowell.edu/about/employment/
+
+Inquiries may be sent to Catie Blazek at humanresources@lowell.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GRADUATE STUDENT AND POSTDOCTORAL POSITIONS IN COMET / ASTEROID SCIENCE
+
+The Technical University Braunschweig (Germany) is seeking
+applications for one graduate student and two postdoctoral positions
+in comet / asteroid science.
+
+Complete job descriptions and instructions on how to apply can be
+found under the following links:
+
+http://bit.ly/2Km5Pck_phd
+http://bit.ly/3asyMxZ_postdoc
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] GRADUATE STUDENT RESEARCH: FUTURE INVESTIGATORS IN NASA EARTH
+AND SPACE SCIENCE AND TECHNOLOGY (FINESST) UPDATE & REMINDERS
+
+1. A summary document from the optional, pre-proposal teleconference
+held November 17, 2020, is now available on NSPIRES under "Other
+Documents." NOTE: The teleconference summary is not a verbatim
+transcript. For the reader's convenience, images of the slides (charts)
+are added to make it unnecessary to open a separate file. Clarifying
+annotations have been added along with an appendix with questions and
+answers (Q&A) received during and in the days following the call
+through December 14, 2020.
+
+2. Reminder: Proposals to FINESST are due by February 4, 2021.
+
+3. Email questions/comments to HQ-FINESST@mail.nasa.gov. NASA
+expects to respond on an individual basis by email without posting
+anonymized versions as additional public Q&As.
+
+Through FINESST, the Science Mission Directorate (SMD) solicits
+proposals from accredited U.S. universities and other eligible
+organizations for graduate student-designed and performed research
+projects that contribute to SMD's science, technology, and exploration
+goals funded by the Astrophysics, Earth Science, Heliophysics and
+Planetary Science Divisions. Not all SMD Divisions participate in
+FINESST.
+
+The teleconference summary is posted at the FINESST research
+opportunity homepage at:
+
+https://go.nasa.gov/2TNvEmI
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+OCEAN WORLDS AT LPSC
+
+We are pleased to announce the LPSC Special Session on "The Next Two
+Decades of Ocean Worlds Exploration." LPSC abstracts are due January
+12, and can be submitted to the special session using the session
+selection dropdown menu. This session will focus on current and future
+science results, exploration technologies, instrument concepts, and
+mission concepts for Ocean Worlds exploration.
+
+Ocean Worlds have emerged as a priority class of targets in planetary
+science and astrobiology. The Galileo and Cassini missions provided the
+first observations indicating oceans beyond Earth. This perspective was
+broadened by the Dawn and New Horizons missions to Ceres and Pluto,
+respectively. Today, NASA is planning the Flagship-class Clipper
+mission to Europa and New Frontiers-class Dragonfly mission to Titan,
+while ESA is planning the L-class JUICE mission to Jupiter's Ocean
+Worlds. Future in situ exploration may target icy surfaces, planetary
+oceans, plume samples, and exotic traverses. This session will cover
+the next two decades of Ocean Worlds exploration, highlighting planned,
+proposed, and potential future science investigations, mission
+concepts, instruments, and technologies.
+
+https://www.hou.usra.edu/meetings/lpsc2021/special-sessions/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+2021 NASA PLANETARY SCIENCE SUMMER SCHOOL APPLICATIONS
+ 
+Now due April 1, 2021
+ 
+Offered by the Jet Propulsion Laboratory in Pasadena, CA, PSSS is a
+3-month long career development experience to learn the development of
+a hypothesis-driven robotic space mission in a concurrent engineering
+environment while getting an in-depth, first-hand look at mission
+design, life cycle, costs, schedule & the trade-offs inherent in each.
+
+Science & engineering doctoral candidates, recent PhDs, postdocs, &
+junior faculty who are U.S. citizens or legal permanent residents (and
+a very limited number of foreign nationals from non-designated
+counties) are eligible. Applicants from diverse backgrounds are
+particularly encouraged to apply.
+ 
+Session 1: May 24-Aug 6
+Session 2: May 24-Aug 20
+ 
+With workload of a rigorous 3-hour graduate-level course, participants
+spend the first 10 weeks in preparatory webinars acting as a science
+mission team, & spend the final culminating week mentored by JPL's
+Advance Project Design Team to refine their planetary science mission
+concept design & present it to a mock expert review board.  The
+culminating week is typically at JPL, however in 2021 it is likely to
+be virtual due to Covid-19 pandemic conditions.
+ 
+http://go.nasa.gov/missiondesignschools
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PLANETARY R&A VIRTUAL TOWNHALL 
+
+The Planetary Science Division (PSD) will be holding a virtual townhall
+for Research and Analysis (R&A) on Thursday, January 21 at 1 PM Eastern
+Time (see below for connect information). In particular, NASA will
+present the rollout plan for the elimination of due dates for seven R&A
+programs (SSO, SSW, EW, PICASSO, PDART, LARS, and Exobiology). These
+programs will be run under a new No Due Date (NoDD) model, which has
+been successfully demonstrated by multiple groups at the National
+Science Foundation.
+
+ https://science.nasa.gov/researchers/NoDD 
+ 
+WebEx Information for PSD R&A Townhall
+Thursday, January 21, 2021
+1:00 pm (UTC-05:00) Eastern Time (US & Canada) 
+1 hr 
+Join meeting:
+
+https://nasaenterprise.webex.com/nasaenterprise/j.php?MTID=m7b38428f5d8cbba9877dd28055ec460c
+
+More ways to join:
+ 
+Join by meeting number
+Meeting number (access code): 199 108 1963
+Meeting password: N0DD-roses2021
+ 
+Join by phone
++1-929-251-9612 USA Toll 2
++1-415-527-5035 US Toll
+Global call-in numbers
+ 
+Join from a video system or application. Dial 
+
+1991081963@nasaenterprise.webex.com
+
+You can also dial 207.182.190.20 and enter your meeting number.
+ 
+Join using Microsoft Lync or Microsoft Skype for Business. Dial 
+
+1991081963.nasaenterprise@lync.webex.com
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MRO SHARAD DELAYED RDR DATA RELEASE 55
+
+Delayed MRO SHARAD derived data from the ASI (Italian Space Agency)
+SHARAD Ground Operations Center have been released covering the period
+February 9 through May 8, 2020. This time period covers the recent MRO
+release 55.
+
+Data are available here:
+
+http://pds-geosciences.wustl.edu/missions/mro/sharad.htm
+
+For overall information regarding PDS:
+
+https://pds.nasa.gov/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GAC-MAC 2021 HYBRID MEETING 
+
+GAC-MAC 2021 hybrid meeting
+London Ontario, Canada, May 17-19, 2021
+"Exploring Geosciences Through Time and Space"
+
+Dear Planetary Scientists and all-comers,
+
+Are you tired of attending virtual meetings? Come to the Geological
+Association of Canada and Mineralogical Association of Canada Joint
+Annual Meeting GAC-MAC 2021 this spring in London, Ontario, Canada (May
+17-19, 2021) where we will hold a hybrid virtual and onsite meeting -
+outdoors in tents, on the beautiful campus at Western University!
+
+We are hosting 40 Sessions (Abstract deadline January 18, 2021),
+including several Planetary Science theme sessions, as well as 5 Field
+Trips and 8 Workshops / Short Courses. Much of our on-site activities
+(posters, exhibits, socials) will be held outdoors in tents, with
+plenty of fresh air - and social distancing and masks as required.
+
+Talks and posters will be available online and onsite - so whatever
+your preference, consider taking part in GAC-MAC London 2021 next May! 
+
+http://www.gacmac2021.ca
+
+Phil McCausland 
+GAC-MAC 2021 Science Program Chair
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+February 3-5, 2021
+Science with UV-efficient ground-based spectrographs
+https://chrisevans170.wixsite.com/cubes
+Online
+
+May 17-19, 2021
+GAC-MAC 2021: Exploring Geosciences Through Time and Space
+http://www.gacmac2021.ca
+London, Ontario, Canada and Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Experimental Investigation of the Acetylene-Benzene Cocrystal on Titan
+Ellen Czaplinski et al. 2020 PSJ 1:76
+http://doi.org/10.3847/PSJ/abbf57
+
+Outbursting Quasi-Hilda Asteroid P/2010 H2 (Vales)
+David Jewitt and Yoonyoung Kim 2020 PSJ 1:77
+http://doi.org/10.3847/PSJ/abbef6
+
+Recovery and Validation of Venus Ionospheric Electron Density Profiles
+from Pioneer Venus Orbiter Radio Occultation Observations
+Paul Withers et al. 2020 PSJ 1:78
+http://doi.org/10.3847/PSJ/abcaf9
+
+Recovery and Validation of Venus Neutral Atmospheric Profiles from
+Pioneer Venus Orbiter Radio Occultation Observations
+Paul Withers et al. 2020 PSJ 1:79
+http://doi.org/10.3847/PSJ/abc476
+
+On the Occurrence of Clathrate Hydrates in Extreme Conditions:
+Dissociation Pressures and Occupancies at Cryogenic Temperatures with
+Application to Planetary Systems
+Hideki Tanaka et al. 2020 PSJ 1:80
+http://doi.org/10.3847/PSJ/abc3c0
+
+
+**********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to http://planetarynews.org/submission.html 
+* for complete submission directions. 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

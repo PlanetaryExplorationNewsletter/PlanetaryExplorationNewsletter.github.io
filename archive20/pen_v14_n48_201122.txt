@@ -1,0 +1,375 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 48 (November 22, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Roger Jay Phillips (1940-2020)
+2. Pierazzo International Student Travel Award Suspended for 2021
+3. [NASA] Planetary Advisory Committee Meeting November 30
+4. [NASA] Independent Review Board for PDE Seeks Input
+5. [NASA] EXOPAG Calling for Nominations to the Executive Committee
+6. EXOPAG Science Interest Group 3 Organizing Tutorial Talks
+7. Planetary Geomorphology at EGU
+8. P/2019 LD2 Observing Campaign Coordination
+9. FIB-SEM Lab Manager Position at the University of Arizona
+10. [NASA] Call for VEXAG Steering Committee Members
+11. Report of the Independent Review Board for Mars Sample Return
+12. Planetary Meeting Calendar Additions
+13. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: ROGER JAY PHILLIPS (1940-2020)
+  
+Roger Jay Phillips, American geophysicist, planetary scientist and 
+professor emeritus at the Washington University in St. Louis, passed 
+away on November 19, 2020. Phillips contributed broadly to our 
+understanding of the geophysical structure and evolution of the Moon, 
+Mars, Venus, and Mercury. He was the team leader for the Apollo 17 
+Lunar Sounder Experiment, producing the first radar imaging of the 
+lunar subsurface. He was team co-leader for the Shallow Radar (SHARAD) 
+experiment on the Mars Reconnaissance Orbiter that imaged the internal 
+stratigraphy of martian polar layered deposits. He played key roles on 
+the science teams for the Magellan mission to Venus, the Mars Global 
+Surveyor mission, the MESSENGER mission to Mercury, and the GRAIL 
+mission to the Moon. Phillips is well known for contributions to 
+understanding the impact crater distribution and resurfacing history 
+of Venus. He demonstrated that growth of the huge Tharsis volcanic 
+province on Mars shaped the entire planet and influenced the 
+distribution and direction of martian valley networks. Phillips was a 
+Fellow of the American Geophysical Union, received the 2003 G.K. 
+Gilbert Award from the Geological Society of America, and honored with 
+the Whipple Award from the AGU in 2008.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD SUSPENDED FOR 2021
+
+Because of the interruption of meeting travel by COVID, the Pierazzo 
+International Student Travel Award for 2021 has been suspended. We will
+be seeing how meetings evolve to see how best to promote the goals of 
+this award, starting in 2022.
+
+For more information about the Pierazzo International Student Travel
+Award, go to:
+
+https://www.psi.edu/pista
+
+Mark V. Sykes,
+Director,
+Planetary Science Institute
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PLANETARY ADVISORY COMMITTEE MEETING NOVEMBER 30
+
+The next Planetary Advisory Committee (PAC) meeting will be held, via 
+WebEx, on November 30, 2020 (10AM to 6PM Eastern time). Connection 
+information: 
+
+https://science.nasa.gov/science-red/s3fs-public/atoms/files/FRN-PAC-2020-24365.pdf  
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] INDEPENDENT REVIEW BOARD FOR PDE SEEKS INPUT
+
+The NASA Planetary Science Division is conducting an independent review 
+of the Planetary Data Ecosystem (PDE), defined as the ad hoc connected 
+framework of activities and products that are built upon and support 
+the data collected by planetary space missions and research programs 
+which are primarily NASA funded. Many familiar tools and databases are 
+part of the PDE, including (but not limited to): ADS, AstroMat, DAPs, 
+data policies & standards, JMars, JPL Horizons, MAPSIT, NASA Github, 
+PDS, Planetary Geologic Mapping, Planetary Photojournal, Quickmap, 
+RPIFs, and USGS Astrogeology ISIS3. The PDE Independent Review Board 
+will review the current state of the PDE and provide findings and 
+prioritized, actionable recommendations that will be used to develop 
+an optimal PDE long-term strategy.  To this end, NASA is seeking 
+information and gathering community feedback on the PDE via a Request 
+for Information (RFI), with responses due November 9, 2020. We 
+encourage the planetary sciences community to provide input via this 
+RFI. The full text of the RFI and response instructions can be found 
+at:  
+
+https://bit.ly/3813VYa
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] EXOPAG CALLING FOR NOMINATIONS TO THE EXECUTIVE COMMITTEE
+
+The SMD Astrophysics Division is pleased to issue this open call for 
+nominations to serve on the Executive Committee (EC) of NASA's 
+Exoplanet Exploration Program Analysis Group (ExoPAG). In the coming 
+months, NASA anticipates making three new three-year appointments to 
+the ExoPAG EC. New appointments will start in the Spring of 2021. The 
+ExoPAG is an open, interdisciplinary forum that provides a conduit for 
+community input into NASA's Exoplanet Exploration Program (ExEP), and 
+for conducting analyses in support of ExEP science objectives and 
+their implications for planning and prioritization of Program 
+activities. Together, the ExoPAG Chair and Executive Committee are 
+responsible for capturing and organizing community input, overseeing 
+ExoPAG analyses, reporting ExoPAG findings and inputs to the 
+Astrophysics Division Director, and keeping the scientific community 
+apprised of ongoing activities and opportunities within NASA's ExEP. 
+Detailed information about the structure and function of the ExoPAG, 
+including the current and past membership of the EC, can be found at:
+
+http://exoplanets.nasa.gov/exopag
+
+Send a nomination cover letter and one-page CV summarizing relevant 
+background to: douglas.m.hudgins@nasa.gov
+
+Deadline: January 22, 2021
+
+To recieve the selection announcement, go to:
+
+http://exoplanets.nasa.gov/exep/exopag/announcementList
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EXOPAG SCIENCE INTEREST GROUP 3 ORGANIZING TUTORIAL TALKS
+
+The ExoPAG Science Interest Group 3 on Exoplanet Solar System Synergies 
+is organizing Tutorial Talks aimed at introducing field newcomers to 
+important topics or methods in planetary and exoplanetary science. The 
+talks include a 30-minute tutorial from an expert to introduce the 
+topic, followed by a 30-minute group discussion of a recent paper in 
+which the topic/method features. They are held by zoom the 2nd Thursday 
+of each month 11 AM PST/ 2 PM EST and recorded so that anyone who can't 
+make it can watch them later (or rewatch them since they are so 
+informative). We have hosted three talks so far. These talks are hosted 
+at our new informational space on the NExSS website:
+
+https://nexss.info/community/exoss-synergy
+
+All are welcome, so feel free to share this announcement and the link 
+to the recording of the first tutorial. Also feel free to suggest 
+topics you'd like to hear future tutorials on. Vikki Meadows 
+(meadows@uw.edu), Mark Marley (mark.s.marley@nasa.gov) and Laura
+Schaefer (lkschaef@stanford.edu) are collecting suggestions for future 
+tutorials.
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY AT EGU
+
+Please consider submitting an abstract to the session on Planetary 
+Geomorphology (GM11.1/PS7) at vEGU21: Gather Online. vEGU21 is a fully 
+virtual replacement for the EGU General Assembly, and will take place 
+April 19-30, 2021.
+
+The Planetary Geomorphology session aims to bring together 
+geomorphologists who study the Earth with those who work on other 
+bodies such as Mars, Venus, Mercury, the Moon, icy satellites of the 
+outer solar system, comets, and/or asteroids. Studies applicable to 
+landscapes on any scale on any solid body are welcome. We particularly 
+encourage those who use Earth analogues or laboratory/numerical 
+simulation to submit their work. Considered processes could include 
+aeolian, volcanic, tectonic, fluvial, glacial, periglacial, or 
+"undetermined" ones. We especially welcome contributions from 
+early-career scientists and geomorphologists who are new to planetary 
+science.
+
+Session details: 
+
+https://meetingorganizer.copernicus.org/EGU21/session/40278
+
+Abstract instructions: 
+
+https://egu21.eu/abstracts_and_programme/how_to_submit_an_abstract.html
+
+The abstract deadline is January 13, 2021 (13:00 CET).
+
+Best wishes,
+
+Planetary Geomorphology convenors: 
+
+Susan Conway, Stephen Brough, Frances Butcher, Tjalling de Haas,
+and Nikolaus J. Kuhn
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+P/2019 LD2 OBSERVING CAMPAIGN COORDINATION
+
+P/2019 LD2 (ATLAS) is a recently discovered active centaur, on an 
+unstable orbit that is evolving towards the inner solar system and a 
+potential future as a Jupiter Family Comet. This object presents a 
+unique opportunity, which enables us to monitor a Centaur as its 
+activity evolves and it transitions to an inner solar system object 
+for what is likely the first time. LD2 is currently (and starting 
+April/May 2021) observable as a northern hemisphere nighttime object at 
+~18th visual magnitude. It is a high priority target for 
+characterization of composition, continuous activity and outbursts. 
+
+We encourage the community - those with planned, scheduled or completed 
+observations - to participate in a observing campaign coordination, 
+through the following webpage:
+
+https://observe-ld2.blogspot.com
+
+The webpage includes a short observing record form. Note that signing 
+up here does not commit anyone to sharing their data, but we hope this 
+will become a natural gathering place for researchers to see who else 
+will be at the telescope and when, and perhaps initiate some new 
+collaborations.
+
+Sincerely, 
+
+G. Sarid, L. Woodney, M. Womack
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FIB-SEM LAB MANAGER POSITION AT THE UNIVERSITY OF ARIZONA
+
+The Kuiper Materials Imaging and Characterization Facility (KMICF) at 
+the University of Arizona invites applications for the position of 
+Researcher/Scientist III. They will work with the instrument scientist 
+and will be responsible for managing daily operations of the 
+focused-ion-beam and scanning electron microscope laboratories. The 
+Researcher/Scientist III will have access to world-class electron- and 
+ion-beam instrumentation and the opportunity to work in a dynamic 
+research environment. The successful candidate will be a highly 
+organized individual with knowledge of electron and ion-beam 
+instrumentation and laboratory practices. A professional demeanor and 
+demonstrated interpersonal skills are required for working with all 
+levels of users including: students, postdoctoral fellows, faculty, 
+other staff scientists, their guests and visitors, as well as the 
+general public. Additional information about the position and 
+application can be found at: 
+
+https://arizona.csod.com/ux/ats/careersite/4/home/requisition/3156?c=arizona
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] CALL FOR VEXAG STEERING COMMITTEE MEMBERS
+
+VEXAG (NASA's Venus Exploration Analysis Group) is seeking four new 
+volunteers for the VEXAG Steering Committee to replace Members at 
+Large, who have successfully completed their service to the Venus 
+community. New Steering Committee members will start in January and 
+July 2021 for terms that will run for three years.
+
+Nominations and self-nominations are welcome, and will need a short 
+statement of interest and vision for Venus, and a CV no  later than 
+Friday, December 4, 2020. Please submit these to Darby Dyar and Noam 
+Izenberg, VEXAG Chair and Deputy Chair, at mdyar@mtholyoke.edu, 
+Noam.Izenberg@jhuapl.edu
+
+In addition to sponsoring regular and topical meetings, VEXAG 
+activities for the next three years are expected to focus on supporting 
+the 2023-2032 Planetary Decadal Survey and fostering the next 
+generation of Venus researchers. Volunteers for VEXAG’s Early Career 
+Venus Scholars Focus Group are particularly welcome.
+
+VEXAG is a community-based forum established in July 2005 to assess 
+scientific priorities and strategies for NASA's exploration of Venus. 
+For more information, go to:
+
+http://www.lpi.usra.edu/vexag/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+REPORT OF THE INDEPENDENT REVIEW BOARD FOR MARS SAMPLE RETURN
+
+NASA, ESA and the worldwide science community are about to embark on 
+one of the most complex and challenging robotic science campaigns ever 
+attempted, Mars Sample Return (MSR). MSR was the highest priority for 
+flagship missions of the 2011 Planetary Decadal Survey (Visions and 
+Voyages, 2011). MSR requires samples to be carefully selected and 
+cached by NASA's Perseverance rover, now on its way to Mars, and 
+returned to Earth for intensive analyses.
+
+To assess whether the next phase of MSR is ready to go forward, NASA 
+initiated a series of reviews. A Standing Review Board (SRB) conducted 
+a Mission Concept Review in October 2020 as part of the process to 
+determine whether to move the next MSR flight projects into Phase A. 
+That report is expected sometime this month. In an unusual step, NASA 
+also convened an Independent Review Board (IRB) in this pre-Phase A 
+period to evaluate the technical, programmatic, and scientific readiness 
+of what is not a single project, but rather a campaign consisting of 
+multiple discrete and tightly coupled major space projects. That report 
+and NASA's response is at:
+
+https://www.nasa.gov/sites/default/files/atoms/files/nasa_esa_mars_sample_return_irb_report.pdf
+
+[Edited for length]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+December 1-3, 2020
+Refining Planetary Protection Requirements for Human Missions to Mars
+https://bit.ly/338EFvF
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+How Good is "Good Enough?" Major Element Chemical Analyses of Planetary 
+Basalts by Spacecraft Instruments
+Allan H. Treiman et al. 2020 PSJ 1:65
+http://doi.org/10.3847/PSJ/abbc05
+
+Lunar Exploration as a Probe of Ancient Venus
+Samuel H. C. Cabot and Gregory Laughlin 2020 PSJ 1:66
+http://doi.org/10.3847/PSJ/abbc18
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

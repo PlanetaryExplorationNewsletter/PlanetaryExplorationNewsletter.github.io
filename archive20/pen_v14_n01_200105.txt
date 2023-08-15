@@ -1,0 +1,250 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 1 (January 5, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Odyssey Data Release 70
+2. [NASA] PDS: Mars InSight Data Release 3
+3. NSRC-2020 Suborbital Researchers Meeting Announcement and Abstract 
+   Deadline
+4. Postdoc Fellowship Position in Beijing, China
+5. Postdoc in Modeling Plasma Environment of Exoplanets
+6. Planetary Geomorphology Image of the Month
+7. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: ODYSSEY DATA RELEASE 70
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of Odyssey Data, Release 70, for the following instruments:
+
+- GRS 
+- THEMIS 
+- RADIO SCIENCE (releases 199,200) 
+- SPICE
+
+The gamma sensor component of the GRS instrument suite no longer
+returns data. The HEND and neutron spectrometer components continue to
+operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20191231.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team Mail to: pds_operator@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PDS: MARS INSIGHT DATA RELEASE 3
+
+The NASA Planetary Data System announces Release 3 of data from the
+InSight Lander mission to Mars. This release contains raw and
+calibrated data products covering the time period from July 1 through
+September 30, 2019. The data are archived at various PDS nodes.
+
+- SEIS (Seismometer) at the Geosciences Node
+- RAD (Radiometer) at the Geosciences Node
+- RISE (Radio Science) at the Geosciences Node
+- TWINS (Temperature and Wind) and Pressure Sensor at the Atmospheres
+  Node
+- IFG (InSight Fluxgate Magnetometer) at the PPI Node
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at
+  the Cartography and Imaging Sciences Node
+- IDA (Instrument Deployment Arm) at the Geosciences Node
+- SPICE at the NAIF Node
+
+Data from the HP3 (Heat Flow and Physical Properties Probe) will be
+included in a future release.
+
+To receive future email announcements for Mars InSight data:
+
+https://pds.nasa.gov/datasearch/subscription-service/top.cfm
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/insight/index.htm
+
+SEIS data are also available through the Incorporated Research
+Institutions for Seismology (IRIS) at:
+
+https://www.iris.edu/hq/sis/insight
+
+The next release of InSight data, Release 4, is scheduled for April 1,
+2020, and will include both raw and calibrated data. Subsequent
+releases will occur every three months.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NSRC-2020 SUBORBITAL RESEARCHERS MEETING ANNOUNCEMENT AND ABSTRACT
+DEADLINE
+
+The 2020 Next-Generation Suborbital Researchers Conference (NSRC-
+2020) will be held in Colorado, March 2-4. This conference has become
+the leading professional forum for researchers and educators interested
+in using suborbital rockets and balloons, and features heavy
+participation by NASA, flight provider companies like Blue Origin,
+World View, and Virgin Galactic. Approximately 300 participants are 
+expected. The conference web site and registration information can be 
+found at:
+
+http://nsrc.swri.org
+
+NSRC-2020 will take place at the Omni Interlocken Hotel and Resort in
+Broomfield, Colorado, with an opening reception Sunday night, March 1
+and sessions March 2-4. Abstracts are due January 10 th at:
+
+https://www.boulder.swri.edu/NSRC2020/Site5/Abstracts.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOC FELLOWSHIP POSITION IN BEIJING, CHINA
+
+One postdoctoral fellowship position is available in the planetary
+science research group at the National Space Science Center in Beijing
+China. We seek candidates who are interested in studying the geology,
+morphology, and mineralogy of Mars, the Moon, and other planetary
+bodies using remote sensing data sets to understand their surface
+processes and evolution. The potential research projects include but
+not limited to: (1) investigating water-rich paleo-environments and
+implications for habitability of Mars; (2) study composition and
+physical properties of lunar surface materials and evolution of the
+Moon; (3) spectroscopy study of small bodies in the solar system.
+Successful candidates will have opportunities to be involved in the
+ongoing China's Chang'E 4 mission and China's upcoming Mars 2020 and
+Chang'E 5 missions.
+
+This is a two-year postdoc position with possibility to extend to 3
+years. The successful candidate will receive up to CNY 250,000
+(pre-tax) per year with additional subsidy for apartment renting. The
+deadline for this application is March 1, 2020. The starting time is
+negotiable. For those who are interested in this position, please send
+your CV to Prof. Steve Yang Liu via email: yangliu@nssc.ac.cn
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+POSTDOC IN MODELING PLASMA ENVIRONMENT OF EXOPLANETS
+
+Applications are invited for a postdoctoral position at the University
+of Massachusetts Lowell with Dr. Ofer Cohen. The successful applicant
+will develop MHD codes to simulate modulation of stellar radio emission
+by transiting exoplanets, star-planet interaction, and will perform
+coupled simulations of the plasma environment around short-orbit
+exoplanets.
+
+Minimum qualifications for the position include: 
+1. Ph.D. in Space Physics, Astrophysics, computational physics or 
+   related field. 
+2. Model development experience, plasma physics modeling experience, 
+   strong background in space plasma physics or astrophysical plasmas.
+
+Other qualifications: 
+1. Experience with parallel coding (MPI), Fortran 90 (preferred, but 
+   not required). 
+2. Good communication and writing skills.
+
+The postdoc will be expected to demonstrate ability to do science work
+and submit research proposals independently, and work with
+undergraduate/graduate students.  Opportunities to gain teaching
+experience may also be available.
+
+To apply, go to:
+
+https://explorejobs.uml.edu/lowell/en-us/job/503644/postdoctoral-
+research-associate-modeling-exoplanets-plasmas
+
+or:
+
+https://explorejobs.uml.edu/lowell/en-us/listing/
+
+and search for position number 503644.
+
+Include CV, cover letter, and research summary with application. Names
+and contact information of three references will be required during the
+application process.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The January image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Titan's dune fields scanned in the microwave:
+revealing their true nature". Contributed by Dr. A Lucas, CNRS Research
+Scientist, Universite de Paris, Institut de physique du globe de Paris.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

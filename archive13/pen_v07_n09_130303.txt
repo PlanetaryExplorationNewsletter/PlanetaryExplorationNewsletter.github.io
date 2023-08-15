@@ -1,0 +1,395 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 9 (March 3, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Melissa Lane, Susan Benecchi
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] FameLab: Exploring Earth and Beyond
+2. [NASA] Statement of Intent to Release a Draft Cooperative Agreement 
+   Notice for the NASA Astrobiology Institute
+3. [NASA] ROSES Amendments
+4. NASA Postdoctoral Fellowships
+5. Upcoming Deadline for Hayabusa Sample Request Proposals
+6. [NASA] PDS MSL Data Release
+7. 10th IAA Low-Cost Planetary Missions Conference (LCPM-10) 
+8. March Mars Exploration Science Monthly Newsletter Available
+9. SFO - Solar System Formation and Observation - Conference
+10. [NASA] Mars Reconnaissance Orbiter Data Release 24
+
+Commercial Announcements
+
+C1. Uwingu Invites the Public to Nominate Names for Planets Around Far 
+    Away Stars
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] FAMELAB: EXPLORING EARTH AND BEYOND
+
+From: Jim Green, Director, Planetary Science NASA HQ
+
+Dear Colleagues,
+
+Communicating our science is a fundamental responsibility we have to 
+those on whose behalf we do our work. FameLab is an exciting 
+initiative in my organization that helps our young investigators learn 
+the value of and best practices in communication at a critical point 
+in their careers.  
+
+We are hosting a FameLab event at the LPSC meeting later this month, 
+and I encourage all early career scientists in our community to 
+participate on Sunday, March 17th. I will personally be hosting the 
+final competition round on Wednesday, March 20th. I hope to see all our 
+young investigators there, as well as their mentors, showing their 
+support!
+
+More information and registration for FameLab is here: 
+
+http://famelab-eeb.arc.nasa.gov/ 
+
+For further information, contact: daniella.m.scalice@nasa.gov
+
+Thanks,
+
+Jim 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] STATEMENT OF INTENT TO RELEASE A DRAFT COOPERATIVE AGREEMENT 
+NOTICE FOR THE NASA ASTROBIOLOGY INSTITUTE
+
+The NASA Science Mission Directorate Planetary Science Division intends 
+to release a Draft Cooperative Agreement Notice (CAN) soliciting 
+team-based proposals for membership in the NASA Astrobiology Institute 
+(NAI) in June 2013.  Comments will be due three weeks after the release 
+of the draft and the final CAN will be released early fall 2013. 
+Proposals will be due early calendar year 2014.
+
+Go to: 
+
+http://astrobiology2.arc.nasa.gov/articles/statement-of-intent-to
+-release-a-draft-cooperative-agreement-notice-for-the-nasa-astrobiology
+-institute/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+ 
+[NASA] ROSES AMENDMENTS
+
+The recently released ROSES has been amended for 
+
+The Origins of Solar System Program
+Delay of Step-1 Due Date for the Cassini Data Analysis Program
+The Planetary Geology and Geophysics Program
+
+For details, go to:
+
+http://science.nasa.gov/researchers/sara/grant-solicitations
+/roses-2013/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+ 
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+UPCOMING DEADLINE FOR HAYABUSA SAMPLE REQUEST PROPOSALS
+
+The International AO for HAYABUSA Sample Analysis has been issued by 
+JAXA and the sample request proposal deadline has been extended to 
+March 9, 2013. Since these Hayabusa sample requests to JAXA are only 
+issued once every year, please take this opportunity to propose. 
+Persons who register at the following website can upload a proposal on 
+the site until the deadline. Go to:
+
+http://hayabusaao.isas.jaxa.jp/
+
+The registration deadline is 5 March. Note that this is before the 
+proposal deadline of March 9!
+
+Sincerely,
+
+Second International AO Committee for Hayabusa-Returned Samples
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS MSL DATA RELEASE
+
+The NASA Planetary Data System announces Release 1 from the Mars 
+Science Laboratory (MSL) mission, covering data from Sols 0-89, 
+August 6 - November 5, 2012.
+
+This release takes place in two parts. Part 1, February 27, 2013, 
+includes raw data sets from the following instruments: APXS, ChemCam, 
+DAN, Hazcam, Navcam, REMS and SPICE. Part 2, March 20, 2013, includes 
+derived data sets for the above instruments, along with CheMin and RAD 
+raw and derived data, and SAM derived data. Release 1 does not include 
+data from the MAHLI, MARDI, or Mastcam instruments.
+
+Links to MSL data sets are on the PDS Geosciences Node web site: 
+
+http://pds-geosciences.wustl.edu/missions/msl/ 
+
+and on the PDS home page:
+
+http://pds.nasa.gov/ 
+
+MSL data are archived at the PDS Atmospheres, Planetary Plasma 
+Interactions (PPI), Geosciences, Imaging, and Navigation and Ancillary 
+Information Facility (NAIF) Nodes.
+
+PDS offers two services for searching the MSL archives: The Planetary 
+Image Atlas at the Imaging Node allows selection of MSL image data by 
+specific search criteria: 
+
+http://pds-imaging.jpl.nasa.gov/search
+
+The MSL Analyst's Notebook at the Geosciences Node allows access to 
+all MSL data in the context of mission events: 
+
+http://an.rsl.wustl.edu/msl
+
+To receive future announcements of MSL releases, subscribe at:
+ 
+http://pds.jpl.nasa.gov/tools/subscription_service/top.cfm
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+10TH IAA LOW-COST PLANETARY MISSIONS CONFERENCE (LCPM-10)
+
+The 10th International Academy of Astronautics Low-Cost Planetary 
+Missions Conference (LCPM-10) will be held on the campus of the 
+California Institute of Technology in Pasadena, California, on 
+June 18-20, 2013.
+
+The focus of the 10th Low-Cost Planetary Missions Conference is on 
+missions characterized by those of NASA's Discovery program and ESA's 
+Cosmic Visions Medium-Class program. These missions of scientific 
+exploration are conducted at a fixed cost that includes spacecraft and 
+science payload development, launch, operations, science data analysis, 
+and all relevant mission-specific technology development. 
+
+The conference is a forum for planetary scientists, technologists, 
+engineers, project managers and agency officials to gather for the 
+exchange of information and ideas for making this class of robotic 
+mission richer scientifically while remaining affordably low-cost. 
+
+LCPM-10 will be followed on June 21, 2013, by an IAA-sponsored 
+symposium celebrating the life and many accomplishments of Theodore 
+von Karman. The von Karman symposium will also to be held on the 
+Caltech Campus in Pasadena.
+
+Please see: 
+
+http://lcpm10.caltech.edu/ 
+
+for further information or contact the organizing committee at 
+lcpm@caltech.edu. 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+MARCH MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER AVAILABLE
+
+Go to:
+
+http://mepag.jpl.nasa.gov
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SFO - SOLAR SYSTEM FORMATION AND OBSERVATION - CONFERENCE
+
+From 21 - 23 October 2013, the SFO - Solar System Formation and 
+Observation - Conference will be held in Bern/Switzerland for the first 
+time. Registration fee is 200 CHF and is now available.
+
+For complete information, please visit:
+
+http://www.sfo.unibe.ch
+
+Thankyou very much!
+
+On behalf of the SFO organizing committee,
+
+Maike Neuland
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] MARS RECONNAISSANCE ORBITER DATA RELEASE 24
+
+The Planetary Data System (PDS) is pleased to announce a new delivery 
+of Mars Reconnaissance Orbiter (MRO) data for the following 
+instruments:
+
+CRISM
+CTX
+HiRISE
+MARCI
+MCS
+RSS
+SPICE
+
+There will be no SHARAD data and no derived gravity data for this 
+release.
+
+In general, MRO Release 24 includes data collected from May 9, 2012 
+through August 8, 2012. The release includes HiRISE data for 
+November 3, 2012 to February 4, 2013.
+
+To access the above data, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20130301.html
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+http://pds.nasa.gov/subscription_service/SS-Release.html
+
+All available PDS data may be found at:
+
+http://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+http://pds.nasa.gov/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 19-22, 2013
+11th CoRoT Week
+http://www.iac.es/congreso/cw11/
+Tenerife, Spain
+
+May 13-15, 2013
+Planet Validation Workshop
+http://lam.oamp.fr/recherche-14/exoplanetes-et-etoiles-pasi
+/workshop-planet-validation/article/presentation-455?lang=fr
+Marseille, France
+
+May 20-21, 2013
+Exoplanets in the Post-Kepler Era
+http://www.cfa.harvard.edu/events/2013/postkepler
+/Exoplanets_in_the_Post_Kepler_Era/Main.html
+Cambridge, MA
+
+June 30 - July 2, 2013
+3rd Workshop on Binaries in the Solar System
+http://www.boulder.swri.edu/binaries3-mtg/
+Kohala Coast, HI
+
+July 1-3, 2013
+Exoplanet Characterisation Observatory (EChO) Open Science Workshop
+http://www.echo2013.net/
+Noordwijk, The Netherlands
+
+October 21-23, 2013
+SFO - Solar System Formation and Observation - Conference
+http://www.sfo.unibe.ch
+Bern, Switzerland
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+
+COMMERCIAL ANNOUNCEMENTS
+
+***********************************************************************
+
+C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1-C1
+
+UWINGU INVITES THE PUBLIC TO NOMINATE NAMES FOR PLANETS AROUND FAR AWAY 
+STARS
+
+Space start-up Uwingu announces the launch of its fully commercial
+website at:
+
+http://www.uwingu.com
+
+The worldwide public can enter names for planets around other stars 
+into a database that astronomers and others can use to name far away 
+planets. Much of the proceeds from these name nominations will be
+contributed to The Uwingu Fund to support space exploration, research, 
+and education.
+
+"Astronomers estimate our galaxy harbors 160 billion or more planets. 
+That's more than 20 planets for every living person on Earth," says 
+astronomer and Uwingu CEO Dr. Alan Stern. He added, "This is a first
+step in democratizing planet naming. It's a new way for the people of
+Earth, of every age, nation, and walk of life to personally
+connect to space discoveries."
+
+People can nominate "exoplanet" names for their favorite town, or 
+country, their favorite sports team, music artist, or hero, their 
+favorite author, their company, loved ones and friends, or even 
+themselves.
+
+Individual Uwingu planet name nominations cost $4.99; there is no limit
+on the number of nominations a person or entity can sponsor. Uwingu 
+makes volume discounts available to purchasers of blocks of names.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

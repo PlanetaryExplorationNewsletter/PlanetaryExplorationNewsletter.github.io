@@ -1,0 +1,719 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 13, Number 15 (April 7, 2019)
+
+PEN Website: http://planetarynews.org
+Editor: Georgiana Kramer
+Co-Editors: Mark V. Sykes, Elisabeth Adams  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. EPSC-DPS Session OPS2: Saturn System and the Cassini-Huyens Mission
+2. EPSC-DPS Session EXO10/TP11: Advances in Developing Quantitative 
+   and Realistic Models of Terrestrial Planet Formation and Their 
+   Chemical Compositions 
+3. EPSC-DPS Session SB5: Trans-Neptunian Objects and Their Dust 
+   Environment, Pluto, 2014 MU69, and Centaurs
+4. EPSC-DPS Session MIT10: Machine Learning and Deep Learning for
+   Planetary Sciences
+5. EPSC-DPS Session OPS/TP18: Planetary Aeronomy - Near and Afar
+6. Dawn Data Release: Ceres Raw Gravity
+7. Potential Landing Sites and Cloud Layer Habitability on Venus 
+   Workshop
+8. Planetary Geomorphology Image of the Month 
+9. SBAG Early Career Opportunities
+10. NASA FDL 2019 Summer Research Sprint: Call for Applicants
+11. GeoPlaNet Analogue Field School - Fluid-Rock Interactions in the 
+    Solar System
+12. [NASA] Release of the NASA Discovery Program 2019 Announcement of 
+    Opportunity
+13. Mars National is Launched
+14. Europlanet Workshop: S-SAIL - Solar System Atmospheres 
+    Investigation and exopLanets
+15. Postdoctoral and Guest Researcher Positions in Space Physics in 
+    Uppsala, Sweden
+16. NASA Postdoctoral Fellowship - Application Deadline July 1, 2019
+17. [NASA] Seeking Volunteer Reviewers in Earth and Space Science
+18. Postdoc Opportunity in Planetary Science at University of Central 
+    Florida
+19. Meeting Abstract Deadline Approaching: The Pluto System After New 
+    Horizons
+20. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+EPSC-DPS SESSION OPS2: SATURN SYSTEM AND THE CASSINI-HUYENS MISSION
+
+Please consider submitting an abstract to session OPS2 of the EPSC-DPS 
+Joint meeting 2019 which will take place at the Centre International de 
+Conferences de Geneve (CICG) in Geneva, Switzerland on 15-20 September 
+2019.
+
+https://www.epsc-dps2019.eu/home.html
+
+Results related to the Saturnian system from ground-based and 
+Cassini-Huygens mission observations are welcome in OPS2. All aspects 
+of the system (planet, satellites and rings) will be presented, with 
+emphasis on recent findings. 
+
+For more information see: 
+ 
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/
+abstractsubmission/34116
+
+Abstract submission deadline : May 8, 2019, 13:00 CEST
+
+Early registration deadline : July 31, 2019
+
+Conveners: A. Coustenis, S. Edgington, F. Michael Flasar, A. Masters, 
+C. Plainaki, L. Spilker 
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+EPSC-DPS SESSION EXO10/TP11: ADVANCES IN DEVELOPING QUANTITATIVE AND 
+REALISTIC MODELS OF TERRESTRIAL PLANET FORMATION AND THEIR CHEMICAL 
+COMPOSITIONS 
+
+Abstracts are welcome to the EPSC-DPS 2019 session EXO10/TP11 on the 
+formation of terrestrial planets in our Solar System and extrasolar 
+planets. The past few years have witnessed great advances in the 
+theories of planet formation and computational simulations of impacts 
+in planetary systems. These advances have played fundamental roles in 
+reshaping models of terrestrial planet formation and have placed them 
+on the path to becoming quantitative (and, therefore, predictive). 
+They have also paved the way for more realistic extension of these 
+models to other planetary systems. We invite abstracts for oral and 
+poster contributions from all areas related to theoretical, 
+observational and experimental studies of terrestrial planet formation 
+in our Solar System and extrasolar planets. 
+
+Abstract deadline: May 8, 2019
+
+Session website: https://meetingorganizer.copernicus.org/EPSC-DPS2019/
+session/34023
+
+Nader Haghighipour
+Thomas Maindl
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+EPSC-DPS SESSION SB5: TRANS-NEPTUNIAN OBJECTS AND THEIR DUST 
+ENVIRONMENT, PLUTO, 2014 MU69, AND CENTAURS 
+
+This session welcomes papers about the trans-Neptunian objects and 
+their environment, including investigations of space weathering. We 
+encourage scientific investigations based on both space and Earth-based 
+observations as well as theoretical and laboratory investigations. 
+Papers based on observations and measurements obtained from within the 
+Kuiper Belt are particularly encouraged including those focusing on 
+2014 MU69 (a target of the New Horizons mission). We also welcome 
+papers about the Pluto system including investigations of the geology, 
+composition, atmosphere, climate and environment. Papers on processes 
+that may be active in the Pluto system are particularly encouraged and 
+include topics such as formation of organics in Pluto's atmosphere and 
+surface, or seasonal/climatic models of volatile transports.
+
+This session will also welcome abstracts devoted to studies of the 
+Centaurs, in particular on their structure, composition, dynamics and 
+activity patterns. We invite studies that describe observations, 
+theory, experimental work, and future spacecraft encounters.
+
+The abstract submission deadline is May 8, 2019, 13:00 CEST. 
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34462 
+
+Please join us in Geneva, Sept. 15-20 2019, for what is sure to be a 
+great meeting.
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EPSC-DPS SESSION MIT10: MACHINE LEARNING AND DEEP LEARNING FOR
+PLANETARY SCIENCES
+
+EPSC-DPS, Geneva, Switzerland, September 15-20, 2019
+
+Abstracts are welcome to the EPSC-DPS 2019 session MIT10 on Machine
+Learning and Deep Learning for planetary sciences. Machine Learning is
+the subfield of computer science that gives "computers the ability to
+learn without being explicitly programmed." As tactical and strategic
+planning timelines compress and increasingly large nonlinear datasets
+are acquired, autonomy and machine intelligence has to play a more
+critical role in the interpretation of data from planetary exploration
+missions and laboratory measurements. There is a need for capable
+systems that can rapidly and intelligently extract information from
+these datasets in a manner useful for scientific analysis. This session
+will explore research that leverages machine learning methods to
+enhance our scientific understanding of planetary data, from
+astronomical observations, planetary exploration missions, as well as
+numerical simulations. Science objectives as diverse as image
+recognition, atmospheric retrieval, analysis of observed time series
+and of numerical simulation addressed through a variety of machine and
+deep learning tools will be considered. We invite contributions from 
+all areas related to machine learning and deep learning applied to 
+planetary sciences.
+
+Abstract deadline: May 8, 2019
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34102
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+EPSC-DPS SESSION: PLANETARY AERONOMY - NEAR AND AFAR
+
+Dear colleagues,
+
+We are organizing the session "Planetary Aeronomy: Near and Afar" as 
+part of the EPSC-DPS Joint Meeting that will take place in Geneva, 
+Switzerland, on 15-20 September 2019. This session brings together 
+experts studying planetary upper atmospheres of both exo- and Solar 
+System planets. You can find further information about the meeting and 
+the session through the links:
+
+https://www.epsc-dps2019.eu/home.html
+
+https://meetingorganizer.copernicus.org/EPSC-DPS2019/session/34017
+
+Invited Speakers will be announced in due course.
+
+Deadline for abstract submission is: May 8.
+
+Looking forward to seeing you there,
+
+Antonio Garcia Munoz
+Tommi Koskinen
+Panayotis Lavvas
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+DAWN DATA RELEASE: CERES RAW GRAVITY
+
+Raw data and ancillary files from the Dawn mission during the Gravity
+Science observations at Ceres are now available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20190331.shtml
+
+or more directly from
+
+https://sbn.psi.edu/pds/resource/dawn/dwncgravL0.html
+
+This version (2.0) of this dataset contains observations from all Ceres
+phases of the mission, including the XM2 mission phase.
+
+To access all data archived in the PDS:
+
+https://pds.nasa.gov
+
+Thank you for subscribing to the PDS Notification Service,
+
+The PDS Team
+Email: pds_operator@jpl.nasa.gov
+Phone: (818) 393-7165
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POTENTIAL LANDING SITES AND CLOUD LAYER HABITABILITY ON VENUS WORKSHOP
+
+On October 2-5, 2019 the Space Research Institute (IKI) and the 
+Vernadsky Institute (GEOKHI) of the Russian Academy of Sciences and the 
+Venera-D Joint Science Definition Team are hosting the "Potential 
+Landing Sites and Cloud Layer Habitability" Workshop. The goal of the 
+workshop is to refine observation concepts for the study of the Venus 
+planet system (atmosphere, surface and interior), including its 
+astrobiology. Abstracts related to one or more of these four 
+categories: i) landing sites targets, ii) habitability and bio species 
+survival (current research and theory), iii) surface/atmosphere/bio 
+species instrumentation and sampling systems, and iv) laboratory 
+studies are solicited, the abstract deadline is August 10, 2019. 
+Please see the VEXAG URL:
+
+www.lpi.usra.edu/vexag
+
+for conference details and abstract formatting instructions. Mid to 
+early career scientists are strongly encouraged to attend and some 
+NASA travel support for US citizens may be possible. 
+
+Please email notifications of interest by June 3, 2019 to 
+venera-d@cosmos.ru, subject: JSDT 2019 Workshop (category of 
+interest). Include your name and abstract title in the body of the 
+message.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The April image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Evidence against vast glaciation in Mars' 
+grandest canyons". Contributed by Lucy Kissick, Department of Earth 
+Sciences, University of Oxford.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+SBAG EARLY CAREER OPPORTUNITIES
+
+As a reminder, the next SBAG meeting will be June 24-25 in the greater 
+Washington D.C. area.
+
+We have two opportunities at the upcoming SBAG meeting in June 
+specifically aimed at the early career small body community:
+
+Early career travel support: With funding from NASA, we are planning to 
+offer limited U.S. travel support for early career scientists to 
+participate in the SBAG 21 meeting.  Interested undergraduate students, 
+graduate students, postdocs, and other early career scientists (within 5 
+years of PhD/MS/BS) should submit a letter and a CV to SBAG Early Career 
+Secretary Hannah Susorney (hsusorney@eoas.ubc.ca) by COB (5 pm Eastern 
+time) April 19, 2019. Further application information can be found on 
+the SBAG website:
+
+https://www.lpi.usra.edu/sbag/
+
+Lightning Talks: We are providing time on the agenda for early-career 
+scientists and engineers present at the meeting to introduce themselves 
+and their research to the community. The talks will be 3 minutes each. 
+If you are interested in giving a lightning talk, please contact the 
+early-career secretary Hannah Susorney (hsusorney@eoas.ubc.ca) two 
+weeks before the meeting.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+NASA FDL 2019 SUMMER RESEARCH SPRINT: CALL FOR APPLICANTS
+
+NASA Frontier Development Lab (FDL) is an applied Artificial 
+Intelligence (AI) research sprint that pairs researchers from the space 
+sciences with data scientists for an intense 8-week concentrated study 
+to apply AI to challenges important to space exploration, and to 
+humankind. FDL will run between June 24-August 16, 2019 in Silicon 
+Valley, CA. 
+
+We are looking for doctorate or post-doc researchers interested in the 
+following confirmed challenge areas for 2019: 
+
+   - Disaster Prevention, Progress and Response
+   - Expanding the Capabilities of NASA's Solar Dynamics Observatory
+   - Lunar Resource Mapping / Super Resolution 
+   - Fireball Detection and Classification
+   - Generation of Simulated Biosensor Data
+   - Small-Sat Swarms and Distributed AI  
+
+We welcome applications for the 2019 program. Researchers are requested 
+to specify an interest in  a specific challenge area. Applications will 
+be accepted until the closing date of the 12th of April, although we 
+encourage you to apply sooner to ensure a place. All researchers will 
+receive a stipend and are provided with accommodation for the duration.
+
+To learn more about FDL's 2019 challenges and submit your application, 
+please visit the FDL website at 
+
+frontierdevelopmentlab.org
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+GEOPLANET ANALOGUE FIELD SCHOOL - FLUID-ROCK INTERACTIONS IN THE SOLAR 
+SYSTEM
+
+The Laboratoire de Planetologie et Geodynamique (Nantes, France) 
+organises the GeoPlaNet Analogue Field school on Fluid-Rock 
+Interactions in the Solar System from September 23 to October 1, 2019. 
+
+The field school will be a traveling excursion on selected geological 
+sites of planetary interest in the Pyrenees mountain range and at its 
+borders, associated with analyses of satellite imagery and digital 
+topography.
+
+Processes: Magmatism, Metamorphism, Metasomatism, Hydrothermalism, 
+Weathering, Deformation, Erosion, Sedimentation
+
+Disciplines: Mineralogy, Petrology, Structural Geology, Sedimentology, 
+Geomorphology, Pedology, Hydrogeology
+
+This high-level training program in Planetary Geosciences is open to 
+30 international Master students, PhD students and young researchers 
+with a background in geosciences and/or in planetary science. 
+
+For more information: 
+
+https://LPG-UMR6112.FR/FS-GEOPLANET.
+
+To register, please fill in the following form before 8 July 2019:
+
+https://forms.gle/bm7LRdctxW19eZoe8
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] RELEASE OF THE NASA DISCOVERY PROGRAM 2019 ANNOUNCEMENT OF 
+OPPORTUNITY
+
+Solicitation Number: NNH19ZDA010O
+
+NASA's Science Mission Directorate (SMD) is releasing the 2019 
+Announcement of Opportunity (AO) for Discovery Program mission 
+investigations. The Discovery Program conducts Principal Investigator 
+(PI)-led space science investigations in SMD's planetary programs under 
+a not-to-exceed cost cap for the PI-Managed Mission Cost (PMMC). 
+Discovery Program investigations must address NASA's planetary science 
+objectives as described in the 2018 NASA Strategic Plan and the 2014 
+NASA Science Plan. Both documents are available at:
+
+http://science.nasa.gov/about-us/science-strategy/
+
+The full text can be found at 
+
+https://nspires.nasaprs.com
+
+The time frame for the solicitation is intended to be:
+
+Release of final AO: April 1, 2019
+Preproposal Conference (target): April 26, 2019
+Electronic Proposal Submittal Deadline: July 1, 2019, 11:59 p.m. EDT
+Step-1 Selections Announced (target): January 2020
+Phase A Concept Study Reports due (target): November 2020
+Downselection of Investigation for Flight (target): April 2021
+
+Launch Readiness Date: July 1, 2025 through Dec. 31, 2026 
+                       and/or July 1, 2028 through Dec. 31, 2029
+
+Questions/comments to Dr. Thomas Wagner (thomas.wagner@nasa.gov)
+Indicate in the email's subject line: "Discovery AO 2019".
+
+Visit the 2019 Discovery Program Acquisition Website at: 
+
+http://discovery.larc.nasa.gov/
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS NATIONAL IS LAUNCHED
+
+Mars Nation is a global democratic movement to accelerate the 
+colonization of Mars and to give everyone equal access to the planet's 
+resources. We strive to bring a new collaboration framework to the space 
+sector with an integrated funding model.
+
+For more information visit:
+
+www.marsnation.io
+
+As a first step, we plan to build a global Mars mosaic from NASA CTX 
+images to build the most accurate Mars map available that we want to 
+open source for the scientific community. We achieve this by aligning 
+and stitching single images with automated machine learning algorithms 
+developed by one of our team members who was a main contributor to the 
+i-Mars project funded by ESA.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+EUROPLANET WORKSHOP: S-SAIL - SOLAR SYSTEM ATMOSPHERES INVESTIGATION 
+AND EXOPLANETS
+
+Lisbon, Portugal, 27-28 June 2019.
+
+Aims and Topics:
+The main goal of this 2-days workshop is to gather  researchers, 
+post-docs and students from all Europe, working on Planetary Science 
+studies to discuss about several topics related with Planetary 
+Atmospheres (including exoplanets), and promote collaborations on the 
+basis of an interdisciplinary approach.
+
+Main Topics:
+- Atmosphere characterization I: chemical composition (Solar System 
+planets)
+- Clouds and Dynamics
+- Atmospheric Waves
+- Atmosphere Modeling
+- Atmosphere characterization II: exoplanets
+- Current and Future mission
+
+Important Dates:
+Financial support deadline: April 29, 2019
+Abstract submission (one page included figures): May 15, 2019
+Registration and payment deadline (regular): May 27, 2019
+Registration and payment deadline (late registration): June 7, 2019
+
+SOC:
+Pedro Machado (co-chair)
+Gabriella Gilli (co-chair)
+Thomas Widemann (co-chair)
+Santiago Perez-Hoyos (co-chair)
+Jorge Martins
+Arianna Piccialli
+
+More info on the workshop webpage:
+
+http://www.iastro.pt/research/conferences/s-sail/
+
+Organizing commitee email: S-SAIL@oal.ul.pt
+
+Organizers:
+Europlanet 2020 RI NA1 - Innovation through Science Networking
+Instituto de Astrofisica e Ciancias do Espaco (IA), Portugal
+Fciencias.ID, Faculdade de Ciencias da Universidade de Lisboa, Portugal
+Fundacao para a Ciencias e Tecnologia (FCT), Portugal
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+POSTDOCTORAL AND GUEST RESEARCHER POSITIONS IN SPACE PHYSICS IN 
+UPPSALA, SWEDEN
+ 
+The positions are related to studies of space plasmas.
+ 
+Applications are invited for post-doctoral positions in the field of 
+fundamental space plasma physics. The studies are based on data 
+analysis from single and multi-spacecraft observations in various 
+plasmas from macro- to micro-scales in the Earth's environment.
+
+Our team performs observations, data analysis, and modeling of space 
+plasma processes
+
+http://www.irfu.se
+
+We are searching for a total of three persons to work on the following 
+projects:
+
+1) Direct observation of anomalous resistivity in collisionless 
+plasmas, and its importance for magnetic reconnection, based on 
+measurements of electric and magnetic fields and charged particles by 
+the four NASA MMS satellites.
+
+2) Energy budget of the topside ionosphere and upper thermosphere, 
+based on observations by the three ESA Swarm satellites.
+
+3) Investigation of the dynamics of the terrestrial magnetosheath 
+during disturbed solar wind conditions based on multi-spacecraft 
+observations (solar wind monitors, MMS, Themis, Cluster, Geotail), 
+and the resulting geomagnetic responses measured by ground 
+magnetometers (IMAGE, MIRACLE) at high latitudes.
+
+Applications should be sent, preferably by email, to: 
+registrator@irf.se
+
+Please quote reference number: 2.2.1-111/19
+Last Application Date 2019-05-15
+Read the full description:
+
+https://www2.irf.se/Topical/Vacancies/?group=P4&vacid=67&chosen=topical
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+NASA POSTDOCTORAL FELLOWSHIP - APPLICATION DEADLINE JULY 1, 2019
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's missions 
+in earth science, heliophysics, planetary science, astrophysics, space 
+bioscience, aeronautics and engineering, human exploration and space 
+operations, and astrobiology.
+
+Current NPP research opportunities in planetary science can be viewed 
+here: 
+
+https://npp.usra.edu/opportunities/?filter_keywords=&filter_fields=145
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $60,000 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$10,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+https://npp.usra.edu/
+
+Questions: npphelp@usra.edu
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+[NASA] SEEKING VOLUNTEER REVIEWERS IN EARTH AND SPACE SCIENCE
+
+NASA's Science Mission Directorate is seeking subject matter experts to 
+serve as mail-in and/or panel reviewers of proposals to ROSES. Please 
+go to:
+
+https://science.nasa.gov/researchers/volunteer-review-panels/
+
+to find the volunteer review forms for specific programs, and click the 
+boxes to indicate the topics in which you consider yourself to be a 
+subject matter expert. If your skills match our needs for that review 
+and there are not too many organizational conflicts of interest, we 
+will contact you to discuss scheduling. 
+
+The following new volunteer reviewer forms have been (re)posted 
+recently:
+
+ - Korea Pathfinder Lunar Orbiter Participating Scientists program
+ - Heliophysics Phase I DRIVE Science Centers
+ - ECOSTRESS Science Team (ROSES-18 A.7)
+ - Heliophysics Living With a Star Science (ROSES B.6)
+ - ROSES C.3 Solar System Workings
+ - ROSES C.4 Habitable Worlds
+ - ROSES C.8 Lunar Data Analysis
+ - Astrophysics Research and Analysis (ROSES program element D.3)
+ - ROSES E.3 Exoplanet Research Program
+
+In addition to the two volunteer forms that are always posted:
+
+ - Earth Surface and Interior and Space Geodesy Programs
+ - Astrophysics Data Analysis Program (Appendix D.2 of the annual 
+ ROSES NRA)
+ 
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+POSTDOC OPPORTUNITY IN PLANETARY SCIENCE AT UNIVERSITY OF CENTRAL 
+FLORIDA
+
+Applications are solicited for a highly motivated postdoctoral research 
+fellow to join Dr. Kerri Donaldson Hanna in the Planetary Sciences 
+Group in the Department of Physics at the University of Central Florida 
+(UCF).
+
+The successful applicant will combine remote sensing investigations 
+with laboratory measurements to constrain compositions of airless 
+bodies, particularly the Moon and asteroids.  Particularly, the 
+applicant will work within a team to better understand the formation 
+and evolution of the Moon's anorthositic crust.  In addition, the 
+applicant will help Dr Donaldson Hanna set-up her laboratory facility 
+at UCF and make lab measurements of lunar and asteroid analogs under 
+simulated airless body conditions.  Experience with remote sensing 
+datasets, ENVI, ArcGIS, MATLAB, and laboratory measurements are 
+desirable.
+
+The applicant will be expected to carry out their own independent 
+research project, give presentations at professional meetings, prepare 
+publications on their work and participate in weekly group meetings.
+
+Interested individuals must have a Ph.D. in Planetary Science, Geology, 
+Physics/Astronomy, Engineering, or a related field.
+
+Application materials (CV and research statement) should be submitted 
+by email to Kerri.DonaldsonHanna@ucf.edu by Friday April 26, 2019.
+
+[Edited for length]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+MEETING ABSTRACT DEADLINE APPROACHING: THE PLUTO SYSTEM AFTER NEW 
+HORIZONS
+
+The Pluto System After New Horizons (PSANH) meeting will be held July 
+14-18 at the Johns Hopkins Applied Physics Laboratory in Laurel, 
+Maryland. The meeting will cover all aspects of the Pluto system, 
+including geology, atmosphere, origins, and satellites. Contributed 
+presentations are solicited for presentations both involving and not 
+involving New Horizons results; see
+
+https://www.hou.usra.edu/meetings/plutosystem2019/abstracts/
+
+The deadline for abstracts is 5 pm Central Daylight Savings Time on 
+Thursday, May 2, 2019.
+
+Alan Stern
+PSANH SOC Chair
+
+Hal Weaver
+PSANH LOC Chair
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+June 27-28, 2019
+S-SAIL: Solar System Atmospheres' Investigation and exopLanets
+http://www.iastro.pt/research/conferences/s-sail/
+Lisboa, Portugal
+
+August 5-9, 2019 
+NBIA Summer School on Protoplanetary Disks and Planet Formation
+http://nbia.nbi.ku.dk/nbia-school-2019
+Copenhagen, Denmark
+
+September 23-October 1, 2019
+GeoPlaNet Analogue Field School - Fluid-Rock Interactions in the Solar 
+System
+https://lpg-umr6112.fr/fs-geoplanet
+Pyrenees, France/Spain
+
+October 2-5, 2019
+Potential Landing Sites and Cloud Layer Habitability on Venus Workshop
+https://www.lpi.usra.edu/vexag/meetings/meetings-of-interest/JSDT-Workshop.pdf
+Moscow, Russia
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Title plus text is limited to 200 words. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

@@ -1,0 +1,418 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 1, Number 30 (November 11, 2007)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1.  [SPECIAL NASA MESSAGE] From Alan Stern and James Green: 
+    Mars Science Laboratory Mission Update 
+2.  [NASA] October 2007 Discovery and New Frontiers Newsletter Released
+3.  Administrator Griffin to Speak at Upcoming 39th LPSC
+4.  Planetary Community Input on SOFIA Science Goals Requested
+5.  Workshop on Martian Gullies - Call for Abstracts
+6.  155th Meeting of the Acoustical Society of America, Paris 2008:
+    First Announcement
+7.  Planetary Geomorphology Session at EGU 2008: Call for Papers
+8.  Community Meetings on Student Collaborations: AGU and AAS
+9.  USGS Job Announcements
+10. Faculty Position Available at the University of Washington
+11. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[SPECIAL NASA MESSAGE] FROM ALAN STERN AND JAMES GREEN: 
+MARS SCIENCE LABORATORY MISSION UPDATE
+
+Dear Colleagues:
+
+We are very happy to announce that MARDI and ChemCam's cost issues 
+have been solved and both instruments are going forward to launch on 
+MSL.
+
+Malin Space Science Systems has agreed that there will be no 
+additional costs to NASA for the completion of the Mars Descent 
+Imager (MARDI).  Furthermore, funds returned to the Mars Exploration 
+Program from the unfortunate elimination of MARDI operations on 
+Phoenix will be used to support MARDI integration on MSL.
+
+In the case of ChemCam, LANL, the French Space Agency (CNES), and 
+even other MSL instrument team members have developed a series of 
+descopes and support arrangements to allow instrument completion, 
+reducing the development cost-to-go by a little over  80%--i.e., from 
+$2.5M to about $400K. As a result, ChemCam will be funded another 
+$400K by the Mars exploration Program, allowing them to complete 
+development.
+
+This outcome is even better than we had imagined possible in 
+September, when MARDI was descoped and ChemCam was cost capped to 
+save money so that MSL itself could complete development without 
+raiding other missions or R&A.
+
+We thank MSSS, LANL, and JPL for their diligence and hard work in 
+finding solutions to these payload issues.  We also thank the 
+community for their support of the Mars Exploration Program, the MSL 
+mission, and for the concept of containing costs on one mission so as 
+not to jeopardize others.  The support of the NAC in commending our 
+cost control efforts in SMD is also very much appreciated.
+
+MSL's launch is now just 21 months away! Though there remain many 
+challenges ahead, the mission remains as exciting as ever, and we can 
+celebrate that that highly anticipated return will not come at the 
+expense of other SMD projects or R&A grants.
+
+Sincerely,
+Alan Stern and Jim Green
+NASA Headquarters
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] OCTOBER 2007 DISCOVERY AND NEW FRONTIERS NEWSLETTER RELEASED
+
+Table of Contents:
+
+Dawn Begins Journey to Asteroid Belt
+Discovery@15 Conference Draws 170 to Huntsville
+NExT & EPOXI - New Roles for Stardust and Deep Impact Spacecraft
+MESSENGER On Track for First Flyby of Mercury 
+New Horizons Continues to Cruise
+Kepler Sets New Launch Date
+Juno Planning and Testing Continue
+ASPERA-3 Gets Green Light for 2nd Extension
+M3 Arrives in India
+
+Go to:
+
+http://discoverynewfrontiers.nasa.gov/news/newsletters
+
+to view and subscribe.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA ADMINISTRATOR GRIFFIN TO SPEAK AT UPCOMING 39TH LPSC
+
+The Lunar and Planetary Institute (LPI) is pleased to announce the
+upcoming 39th Lunar and Planetary Science Conference (LPSC). This
+year's meeting will highlight NASA's renewed emphasis on lunar
+activities.
+
+Special sessions will focus on the current state of lunar knowledge,
+new and current missions to the Moon, and lunar network science.
+
+LPSC will also feature Dr. Michael Griffin, NASA's current 
+Administrator, as the Monday evening keynote speaker.
+
+The lunar focus for the 39th LPSC is especially timely in light of
+its coincidence with the LPI's 40th anniversary. The Institute was
+established in 1968 during the Apollo missions to create a new lunar
+and planetary science community, and over the past four decades has
+served as an international leader and focal point for what is now a
+diverse and thriving community. We are pleased to celebrate this
+important milestone with the community as we look forward to NASA's
+return to the Moon.
+
+LPSC will be held March 10-14, 2008, at the South Shore Harbor Resort
+and Conference Center, League City, Texas. This conference brings
+together international specialists in petrology, geochemistry,
+geophysics, geology, and astronomy research in lunar and planetary
+science.
+
+For information, contact:
+Mary Cloud
+LPI Meeting Planner
+281-486-2143
+cloud@lpi.usra.edu
+
+[Editor's note: This post has been slightly edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY COMMUNITY INPUT ON SOFIA SCIENCE GOALS REQUESTED
+
+The Stratospheric Observatory for Infrared Astronomy (SOFIA) is a 
+2.5-meter telescope aboard a Boeing 747-SP aircraft with instruments 
+designed to make sensitive, high-angular resolution measurements over 
+0.3 microns to 1.6 mm. It is scheduled to begin science operation in 
+2009. The SOFIA Science Advisory Committee is requesting input from 
+the planetary science community to articulate major science themes and
+how SOFIA can uniquely address any of them. In your opinion, what are
+the five or six most important questions that may be addressed by this 
+facility?
+
+Information about the initial instruments can be seen at:
+
+http://www.sofia.usra.edu/Science/instruments/sci_instruments.html
+
+Please send your responses to sykes@psi.edu.
+
+Your input is much appreciated. Thank you!
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+WORKSHOP ON MARTIAN GULLIES - CALL FOR ABSTRACTS
+
+ABSTRACT DEADLINE: Tuesday, November 13
+
+Workshop on Martian Gullies: Theories and Tests
+February 4 -5, 2008
+Lunar and Planetary Institute, Houston, Texas
+ 
+Reminder: The abstract deadline for the Workshop on Martian Gullies:
+Theories and Tests, to be held February 4-5, 2008, at the LPI in 
+Houston, Texas is TUESDAY, NOVEMBER 13.
+ 
+For more information about the workshop, visit the workshop website at:
+
+http://www.lpi.usra.edu/meetings/gullies2008/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+155TH MEETING OF THE ACOUSTICAL SOCIETY OF AMERICA, PARIS 2008: FIRST 
+ANNOUNCEMENT
+
+Of interest to the planetary community is the session ACOUSTIC PROBES
+OF PLANETARY ENVIRONMENTS, which is intended to bring together the 
+terrestrial acoustics and the planetary science communities. 
+
+Topics of discussion in previous sessions included, for example,
+acoustic modelling in planetary atmospheres, results from previous
+missions, current and planned instrumentation, and terrestrial
+techniques that would be applicable on other planets. The planetary 
+acoustic environment includes study of the atmospheres, liquids and
+also the solid surface.
+
+A formal call for papers will be issued in late 2007.
+
+For more information see:
+
+www.acoustics08-paris.org
+
+Dr. M. Towner
+Planetary and Space Sciences Research Institute,
+Open University, United Kingdom
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY SESSION AT EGU 2008: CALL FOR PAPERS
+
+Contributed abstract submissions are solicited for the Planetary 
+Geomorphology session at the European Geosciences Union (EGU) General
+Assembly to be held in Vienna, Austria, 13-18th April 2008.
+
+Session ID: IS14 - GM1.1/PS3.8
+
+Research themes for this session include:
+- Remote sensing studies of the landforms of planetary solid bodies 
+  and the processes that shaped them.
+- In-situ studies of planetary landforms from analysis of landing
+  craft data.
+- Terrestrial field and laboratory studies of landforms and processes
+  that have clear application to other planetary bodies.
+- Geomorphological/geological mapping of solid planetary bodies.
+- Techniques and advances in fields such as remote sensing, GIS, and
+  computing specifically relevant to planetary geomorphology.
+- Studies of planetary surfaces that can tell us more about 
+  geomorphological processes on our own planet.
+
+Presentations discussing landforms and processes on Mars, Titan,
+Venus, Mercury, the Moon, asteroids and other solid bodies will all
+be most welcome. 
+
+For general information see:
+
+http://meetings.copernicus.org/egu2008/
+or email egu2008@copernicus.org
+
+For abstract submission see:
+
+http://meetings.copernicus.org/egu2008/how_to_submit_an_abstract.html
+
+For session information see:
+
+http://meetings.copernicus.org/egu2008/
+
+Click 'Call for papers', and again 'Call for papers,' then 
+'Geomorphology'. Then click 'Information' or 'Organizer' under the
+session 'public links'.
+
+Convenors: Matt Balme, Sanjeev Gupta, Stephan van Gasselt
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+COMMUNITY MEETINGS ON STUDENT COLLABORATIONS: AGU AND AAS
+
+You are invited to attend community workshops at the upcoming AGU and 
+AAS Meetings on Student Collaboration opportunities within NASA's
+Science Mission Directorate
+
+AGU: Sunday, December 9th, 2007, 1:00-6:00 p.m., Yerba Buena Salons 1-2
+Marriott Hotel, San Francisco, CA.
+
+AAS: Monday, January 7th, 2008 1:00-6:00 p.m., Hilton Hotel, Austin, TX
+
+A Student Collaboration Definition Team (SCDT) was initiated by NASA
+in February 2007 to provide community perspectives to NASA's Science
+Mission Directorate (SMD) on participation of undergraduates in SMD
+programs. These community workshops offer the opportunity for
+scientists and educators to learn about SMD Student Collaborations
+and provide further input to the SCDT. The specific emphasis during
+these workshops is to discuss the draft white paper of the SCDT.
+
+1:00-2:30: Discussion of the Science Definition Team
+Progress and White Paper (Dr. Emily CoBabe-Ammann, University of
+Colorado and Dr. David Klumpar, Montana State University, chairs)
+
+2:30-3:30: Short community-member presentations that highlight the
+wide variety of Student Collaborations.
+
+3:30-6:00: Open discussion.
+
+Anyone interested in presenting a 5-10 minute overview on a specific
+Student Collaboration should contact:
+Emily CoBabe-Ammann (ecobabe@lasp.colorado.edu) or 
+David Klumpar (klump@physics.montana.edu).
+
+The NASA/SMD Student Collaborations Definition Team White Paper will be
+released on November 16th and available at
+
+http://lasp.colorado.edu.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+USGS JOB ANNOUNCEMENTS
+
+The Astrogeology Team of the U.S. Geological Survey in Flagstaff,
+Arizona has two openings for full-time, permanent research scientists
+in Geology, Geophysics, and/or Physical Science at the GS-13 to GS-15
+grade levels (comparable to Asst Prof/Assoc Prof/Full Professor).  
+The salary range is $75,414 to $136,273. 
+
+Please see our Web site
+
+http://astrogeology.usgs.gov/
+
+For more information on the breadth of our research program. Also see
+
+http://astrogeology.usgs.gov/About/Careers 
+
+to learn more about the Astrogeology Team and living and working in
+Flagstaff, AZ. 
+
+In addition to meeting basic qualification requirements (including
+U.S. citizenship), the selectee is expected to have an externally
+funded research program in planetary science and will be responsible
+for leading and managing their research projects, from initiation to
+delivery of final products. 
+
+To learn more or to apply go to either
+
+http://www.usgs.gov/ohr/oars 
+
+click on "Browse Vacancies" to view the Vacancy Announcement Numbers: 
+
+WR-2008-0077 (Research Geologist) 
+WR-2008-0064 (Research Geophysicist)
+WR-2008-0077 (Research Physical Scientist) 
+
+or go to
+
+http://www.usajobs.opm.gov 
+
+and search on the above Vacancy announcement Numbers. 
+
+Applicants must apply online at the OARS site by midnight eastern time
+on 11/23/07.
+Please direction questions to Rose Wheeler (rwheeler@usgs.gov).
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+FACULTY POSITION AVAILABLE AT THE UNIVERSITY OF WASHINGTON
+
+The Department of Earth and Space Sciences at the University of 
+Washington invites applications for a full-time tenure-track faculty 
+member whose research focus is within space science. We are especially 
+interested in scholars with experimental expertise in the design and 
+conduct of in-situ orbital, sub-orbital or ground-based observations 
+associated with solar, planetary atmospheric, magnetospheric, 
+ionospheric or aeronomic physics.
+
+Full information regarding this tenure-track faculty position is 
+available at:
+
+http://www.washington.edu/admin/acadpers/communications/ad/aa1951.html
+
+Applications should be sent to: 
+
+Space Sciences Search Committee 
+c/o Dept. of Earth and Space Sciences 
+University of Washington 
+Box 351310 
+Seattle, WA 98195-1310 
+
+and must include a curriculum vitae and list of publications, a
+statement of research and teaching experience and interests, and three 
+letters of reference (sent directly to the search committee by the 
+referees).
+
+Priority will be given to applications, including recommendations, 
+received by January 7, 2008.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+January 7-10, 2008
+46th American Institute of Aeronautics and Astronautics (AIAA) 
+Aerospace Science s Meeting and Exhibit
+http://www.aiaa.org/content.cfm?pageid=230&lumeetingid=1065
+Reno, NV
+
+June 1-6, 2008
+Solar Variability, Earth's Climate and the Space Environment
+http://solar.physics.montana.edu/SVECSE2008/
+Bozeman, MT
+
+July 6-11, 2008
+Astronomical Polarimetry 2008 - Science from Small to Large Telescopes
+http://www.astro.umontreal.ca/astropol2008/
+La Malbaie, Quebec, Canada
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

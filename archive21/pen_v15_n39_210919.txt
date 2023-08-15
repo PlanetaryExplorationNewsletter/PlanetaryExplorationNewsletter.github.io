@@ -1,0 +1,580 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 39 (September 19, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Fall 2021 Soffen Student Travel Grant
+2. Call For Papers: Frontiers in Astronomy and Space Sciences - 
+   Applications of Statistical Methods and Machine Learning in the 
+   Space Sciences
+3. Postdoctoral Research Fellow in the Study of Solar System Small 
+   Bodies
+4. Planet Formation: From Dust Coagulation to Final Orbit Assembly
+5. Call for Sessions: International Mineralogical Association Meeting 
+   2022
+6. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 47
+7. Webinar for Early Career Scientists
+8. Postdoctoral Researcher Position at Stony Brook University
+9. Tenure-track Assistant Professor at Washington University in St. 
+   Louis
+10. Ph.D. Position in Aeolian Geoscience at UCLA
+11. ASLO Ocean Sciences Meeting Session: Ocean Science for Ocean Worlds
+12. Research Associate Position in Space Plasmas at the University of 
+    Colorado Boulder
+13. Abstract Deadline for Venera-D: Venus Cloud Habitability System 
+    Workshop
+14. Open Rank Faculty Position in Space Physics at UCLA
+15. 13th Virtual MEPAG Meeting (VM13)
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+FALL 2021 SOFFEN STUDENT TRAVEL GRANT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Fall 
+2021 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering.
+
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant 
+for either virtual or in-person conferences. The Soffen Fund will 
+award up to $1000 in total, with no individual award greater than 
+$500, to cover expenses related to presenting research at either a 
+virtual or in-person conference. The number of awards will depend on 
+applicants' needs.
+
+The Fall 2021 Travel Grant application deadline is October 11, 2021. 
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+https://SoffenFund.org
+
+Questions regarding the application or application process may be sent 
+to: help@SoffenFund.org
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+CALL FOR PAPERS: FRONTIERS IN ASTRONOMY AND SPACE SCIENCES - 
+APPLICATIONS OF STATISTICAL METHODS AND MACHINE LEARNING IN THE SPACE 
+SCIENCES
+
+A special issue on "Applications of Statistical Methods and Machine 
+Learning in the Space Sciences" is opening. We are inviting 
+contributions from presenters at the virtual conference of the same 
+name held during May 17-21, 2021:
+
+https://spacescience.org/workshops/mlconference2021.php
+
+We also invite the broader scientific community to contribute original 
+research articles, reviews/mini-reviews, brief reports and 
+commentaries on the present scenario and scope of statistical methods, 
+machine learning, and data science in the space sciences and relevant 
+to the topics covered in the virtual conference: solar physics, 
+magnetospheric studies and aeronomy, planetary sciences, exoplanets, 
+galaxies. 
+
+Please visit the website for more information:
+
+https://bit.ly/3nNHDRi
+
+Please submit abstracts by October 1, 2021. Manuscripts for the 
+special issue are due by December 17, 2021.
+
+We look forward to seeing your manuscripts,
+Bala Poduval, Karly Pitman, Olga Verkhoglyadova (Associate Guest 
+Editors)
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL RESEARCH FELLOW IN THE STUDY OF SOLAR SYSTEM SMALL BODIES
+
+Applications are invited for a 2-year Postdoctoral Research Fellow in 
+the Astrophysics Research Centre (ARC) at Queen's University Belfast. 
+The successful applicant will work with Dr. Meg Schwamb to develop and 
+exploit next-generation tools for analysing and interpreting future 
+Solar System moving object detections from the Vera C. Rubin 
+Observatory Legacy Survey of Space and Time (LSST). Rubin Observatory 
+science operations are planned to begin around mid-2024, with the 
+survey expected to discover millions of asteroids and tens of 
+thousands of distant Solar System planetesimals. This post will focus 
+on developing software pipelines and utilities for LSST Solar System 
+science and applying these techniques to present-day LSST-precursor 
+datasets, including the development of a pipeline to discover distant 
+Solar System bodies beyond ~100 au that are not expected to be 
+discoverable by the main Rubin Observatory Solar System Processing 
+pipeline.
+
+To read the full details and to apply, visit:
+
+https://bit.ly/3tQJLJf
+
+Application Deadline: October 13, 2021
+
+ARC website:
+
+https://www.qub.ac.uk/research-centres/astrophysics-research-centre/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANET FORMATION: FROM DUST COAGULATION TO FINAL ORBIT ASSEMBLY
+
+Dear Colleagues,
+
+It gives us great pleasure to announce the 2022 Planet Formation
+program at the Munich Institute for Astro- and Particle Physics 
+(MIAPP). This program aims to bring together experts in observation 
+and theory in planetary astronomy to assess the current status of 
+planet formation theories, highlight problems, and explore the 
+possibility of developing comprehensive models. Please see the program 
+website for more details:
+
+https://www.munich-iapp.de/final-orbit-assembly22
+
+The structure of the program is informal. The main goal is to create 
+an environment that will facilitate collaborations and new 
+initiatives. There will be daily gathering for discussing specific 
+topics, new results, and brainstorming.
+
+The meeting will be held:
+June 7 - July 1, 2022
+MIAPP, Garching, Germany
+ 
+To attend, please apply using the following link:
+
+https://www.munich-iapp.de/2022-registration-planet-formation
+
+Please also note that MIAPP requires attendance for at least two weeks.
+ 
+Financial support is available at the rate of EUR 80 per day for
+accommodation and local expenses. Additional financial support for
+attendees with family and children and for graduate students are also 
+available. Please see the details at:
+
+https://www.munich-iapp.de/for-visitors/financial-support
+
+Looking forward to receiving your applications.
+
+Man Hoi Lee, Nader Haghighipour, and Soko Matsumura
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+CALL FOR SESSIONS: INTERNATIONAL MINERALOGICAL ASSOCIATION MEETING 2022
+
+The 23rd International Mineralogical Association (IMA) General Meeting 
+will be held in Lyon, France, July 18-22 2022. The aim of this meeting 
+is to paint mineralogy with the colors of space exploration at the 
+light of recent results of missions such as Hayabusa or Mars 2020.
+
+IMA2022 welcomes session proposals within but not limited to the main 
+themes of the conference:
+
+- Mineral systematics: new minerals and classification of minerals
+- Physics and chemistry of minerals: physical and chemical properties 
+  of minerals and of rocks, various spectroscopies, and methods of 
+  investigation
+- Ores and ore mineralogy: mineral or ore deposits of economic interest
+- Mineralogy and petrology: mineralogy and its relation to 
+  petrological studies
+- Planetary mineralogy: minerals on other bodies of the Solar System 
+  and beyond, planetary exploration, and space missions
+- Planetary interiors: the constituents of planets, and behaviour of 
+  minerals at extreme conditions of pressures and temperature
+- The dynamical world of minerals: mineral reactions, and mineral 
+  evolution.
+
+Each session proposal must include a concise description of the 
+scientific topic that presents enough arguments to show its 
+timeliness and relevance to the field of mineralogy.
+
+Submit the session no later than October 31, 2021:
+
+https://www.ima2022.fr//add-a-submission
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 47
+
+The NASA Planetary Data System announces Release 47 of data from the 
+Lunar Reconnaissance Orbiter mission. This release contains raw and 
+calibrated data products covering the nominal time period from March 
+15, 2021, through June 14, 2021. Some instrument teams are delivering 
+more recent data. The data are archived at various PDS nodes.
+
+- CRaTER at the PPI Node
+- Diviner at the Geosciences Node
+- LAMP at the Cartography and Imaging Sciences Node
+- LEND at the Geosciences Node
+- LOLA at the Geosciences Node
+- LROC at the LROC Data Node
+- Mini-RF at the Geosciences Node
+- Radio Science at the Geosciences Node
+- SPICE at the NAIF Node
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+To access the data by dataset:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20210915.shtml
+
+LRO releases occur every three months. The next release is scheduled 
+for December 15, 2021.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+WEBINAR FOR EARLY CAREER SCIENTISTS
+
+Early Career Scientists (ECS) of the International Association of 
+Meteorology and Atmospheric Sciences (IAMAS) hold a monthly webinar 
+across various research fields of atmospheric sciences. The topic of 
+this month is planetary atmospheres.
+
+Tuesday September 21 at 15:00-16:00 UTC
+Speaker: Dr. Xi Zhang, UCSC, USA
+Title: Diverse Clouds and Hazes in Planetary Atmospheres
+
+We welcome your attendance. Details can be found in the link below:
+
+https://bit.ly/3Cr3277
+
+We would like to also inform you that the International Commission on 
+Planetary Atmospheres and Evolution (ICPAE), which is one of 10 
+commissions of IAMAS. You can find more information about ICPAE from 
+this link:
+
+https://www.iamas.org/icpae/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL RESEARCHER POSITION AT STONY BROOK UNIVERSITY
+
+There is an open postdoctoral researcher position in the Stony Brook 
+University Department of Geosciences to work with Prof. Tim Glotch on 
+two projects funded by NASA and DOE. The work involves fundamental 
+infrared spectroscopy and modeling of minerals and mineral mixtures. 
+The job posting can be found at:
+
+https://bit.ly/3nKjyLd
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+TENURE-TRACK ASSISTANT PROFESSOR AT WASHINGTON UNIVERSITY IN ST. LOUIS
+
+The Department of Physics at Washington University in St. Louis 
+invites applications for a tenure-track assistant professor 
+faculty position specializing in the study of the formation and 
+evolution of planetary systems. Areas of interest include observation 
+and analysis of planetary systems from ground and space-based 
+observatories or the investigation of astromaterials to study the 
+formation and evolution of planetary systems. The appointment is 
+supported by the McDonnell Center for the Space Sciences (MCSS) and 
+will begin in Fall 2022. Information about our department is at:
+
+https://physics.wustl.edu/
+
+and information about the MCSS is at:
+
+https://mcss.wustl.edu/.
+
+To see full details and to apply online go to:
+
+https://apply.interfolio.com/94448
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PH.D. POSITION IN AEOLIAN GEOSCIENCE AT UCLA
+
+A graduate student (Ph.D.) position in aeolian geoscience is available 
+in the Earth, Planetary, and Space Sciences department at UCLA for 
+students starting Fall 2022. The selected student will work on 
+projects related to aeolian geoscience, including, but not limited to, 
+a field-heavy study of modern dunes in the American Southwest. The 
+selected student may also pursue projects related to aeolian geology 
+and geomorphology on other planets (Mars, Venus, etc), projects 
+involving numerical modeling of dunes, or experimental projects using 
+UCLA's sediment transport wind tunnel. Demonstrated field 
+experience/competence is a strict requirement. Students interested in 
+completing a Ph.D. in either Geology or Planetary Science are welcome 
+to apply. 
+
+This project is supported by a funded NSF grant and graduate students 
+in EPSS at UCLA are generally guaranteed funding support for the 5 
+years of their academic degree. 
+
+Interested prospective students should send a resume/CV to Professor 
+Mackenzie Day at: daym@epss.ucla.edu 
+
+More information about Professor Day and the Geomorphology and Aeolian 
+Landscape Evolution (GALE) lab can be found here:
+
+https://faculty.epss.ucla.edu/~mday/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ASLO OCEAN SCIENCES MEETING SESSION: OCEAN SCIENCE FOR OCEAN WORLDS
+ 
+Over the last two decades, discoveries have revealed that ice-covered 
+oceans exist as extreme environments in not only Earth's polar 
+regions, but also in icy worlds in the outer Solar System. At 
+Jupiter's moon Europa and Saturn's moon Enceladus, those oceans are 
+composed of salty water tens to ~100 kilometers deep, underlain by 
+rocky seafloors with potential hydrothermal activity. These conditions 
+may give rise to habitable environments and, perhaps, life. This 
+session will bring together ocean scientists, planetary scientists, 
+and engineers who study extreme environments, ranging from ice-covered 
+polar oceans to the deep sea, with the overall goal of communicating 
+what we should expect and prepare for in the future exploration of 
+oceans beyond Earth, including any life they might host. We welcome 
+abstract contributions including observational, experimental, model-
+based and technology-based approaches that study the oceans and the 
+ice-ocean or seafloor-ocean interfaces in Earth and ocean worlds to 
+explore structure, circulation, biogeochemical processes, requirements 
+for habitability, and life.
+
+https://www.aslo.org/osm2022/
+
+Abstract deadline: September 29, 2021
+
+Early career scientists (within 10 yrs of Ph.D.), are encouraged to 
+present in this session - those interested in attending in person, 
+contact Kathryn Pietro at kpietro@whoi.edu ASAP!
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+RESEARCH ASSOCIATE POSITION IN SPACE PLASMAS AT THE UNIVERSITY OF 
+COLORADO BOULDER
+
+The Space Plasma Group at the Laboratory for Atmospheric and Space 
+Physics (LASP), University of Colorado, Boulder (CU) invites 
+applications for research scientists in Space Physics at a ranking of 
+research scientist I or II (RS-I, RS-2).
+
+The research project is focused on Mars data analysis with a primary 
+focus on Langmuir Probe and Waves electron density and temperature 
+data from the MAVEN mission. Responsibilities will also include 
+instrument operations, data processing, and verification of data 
+products. The candidate will work with MAVEN mission/instrument 
+software written in IDL.
+
+The candidate must hold Ph.D. in Physics or similar Scientific or 
+Engineering discipline. The candidate should indicate their research 
+interests, and how they could enhance and benefit the research project 
+above. Demonstration of skills in in-situ data analysis of space 
+plasmas is highly desirable.
+
+Application Materials Required: Cover Letter, Resume/CV, Contact 
+information for professional references, Unofficial transcript (if 
+graduated within the last 3 years) via the link:
+
+https://jobs.colorado.edu/jobs/JobDetail/MAVEN-Research-Scientist/33165
+ 
+For more information, please contact: 
+marcin.pilinski at lasp.colorado.edu
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ABSTRACT DEADLINE FOR VENERA-D: VENUS CLOUD HABITABILITY SYSTEM 
+WORKSHOP
+
+Abstracts for the Venera-D: Venus Cloud Habitability System Workshop 
+are due September 30 at 5 PM CDT! 
+
+The workshop's purpose is to discuss the formation and stability of 
+Venus clouds over time and their role in potential habitability. This 
+workshop will discuss what is understood about past and present 
+habitability, the best measurements and methods needed to address 
+these questions, and how future missions will contribute to 
+understanding the cloud habitability system.
+
+We welcome all abstracts with a focus on any one of these four topics:
+
+1. cloud layer habitability
+2. inputs (interior, surface, exogenous) to and outputs from the cloud 
+   layer over time
+3. measurements and instruments necessary to investigate the Venus 
+   cloud region
+4. open questions or any additional investigations pertaining to the 
+   habitability of Venus clouds.
+
+More details, including submission instructions, can be found at:
+
+https://www.hou.usra.edu/meetings/venera_d2021/abstracts/
+
+In addition, following the workshop and the normal review process, the 
+journal Astrobiology will consider papers with potentially high impact 
+for publication in a special collection (like the one being released 
+in the October 2021 issue). Jim Garvin, Oleg Kotsyurbenko, and Sanjay 
+Limaye will be guest co-editors for the collection.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+OPEN RANK FACULTY POSITION IN SPACE PHYSICS AT UCLA
+
+The UCLA Department of Earth, Planetary, and Space Sciences (EPSS) 
+invites applications for a tenure-track/tenured faculty position in 
+Space Physics at any rank/level. We encourage applicants from all 
+sub-disciplines of space physics to apply, but we are particularly 
+interested in candidates in the area of experimental space physics 
+pertaining to the interaction of small Solar System bodies, moons, or 
+planets with solar winds or flowing plasmas (e.g., at asteroids, Mars, 
+Uranus, or Galilean satellites). We welcome applicants whose 
+experience in research, teaching, and community/collegial service has 
+prepared them to contribute to our commitment to excellence and 
+equity, diversity, and inclusion. Candidates are expected to hold a 
+Ph.D. in Physics or a related field by the date of hire, July 1, 2022.
+
+More information on the position can be obtained at:
+
+https://recruit.apo.ucla.edu/JPF06572
+
+Applications are now being accepted. Reviews will commence on November 
+1, 2021 and will continue until the position is filled. Target start 
+date is July 1, 2022. The University of California is an Equal 
+Opportunity/Affirmative Action Employer.
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+13TH VIRTUAL MEPAG MEETING (VM13)
+
+Members of the Mars community,
+
+I cordially invite you to participate in the next virtual meeting 
+(VM13) of the Mars Exploration Program Analysis Group (MEPAG), 
+scheduled on Monday, September 27, 2021, from 1 - 5 PM EDT, 
+10 AM - 2 PM PDT.
+
+Agenda items are expected to include updates about the following:
+
+- MEPAG
+- MEP Status, including update on Ice Mapper study
+- MSR Science Planning Group 2 reports regarding analysis of returned 
+  MSR samples
+- Updates from Perseverance, Curiosity and InSight
+- Future activities
+
+The VM13 agenda and 2nd Information Circular will be shared next week 
+through this mailing list and on the MEPAG meeting website:
+
+https://mepag.jpl.nasa.gov/meetings.cfm
+
+Sincerely,
+Dr. R. Aileen Yingst
+MEPAG Chair
+
+WebEx connectivity information:
+
+https://jpl.webex.com/jpl/j.php?MTID=m3f32ec5c7d2946753ad79a13e3e7c48f
+ 
+- Meeting number (access code): 199 833 1441
+- Meeting password: mepag
+
+This meeting is open to all members of the Mars science community 
+including our international colleagues, and I look forward to your 
+participation.
+
+If you have a comment or question about the meeting, please email 
+mepagmeetingqs@jpl.nasa.gov.
+
+[Edited for length]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online 
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+February 27 - March 4, 2022
+ASLO Ocean Sciences Meeting
+https://www.aslo.org/osm2022/
+Honolulu, HI
+
+May 17-21, 2022
+Applications of Statistical Methods and Machine Learning in the Space 
+Sciences
+https://spacescience.org/workshops/mlconference2021.php
+Online
+
+June 7 - July 1, 2022
+Planet Formation: From Dust Coagulation to Final Orbit Assembly
+https://www.munich-iapp.de/final-orbit-assembly22
+Garching, Germany
+
+July 18-22, 2022
+22nd International Mineralogical Association Meeting
+https://www.ima2022.fr/
+Lyon, France
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+No new papers.
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively,
+* the editorial staff will create one for you. Go to
+* https://planetarynews.org/submission.html for complete submission
+* directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

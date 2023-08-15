@@ -1,0 +1,928 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 49 (December 4, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R. Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Farewell Georgiana Kramer, Hello Matthew R. Perry
+2. 2023 Pierazzo International Student Travel Award Winners to be 
+   Announced Wednesday, December 7
+3. Registrations Open for Astrobiology Introductory Course 2023
+4. News For Planetary Students and Early Career Scientists
+5. NAIF Releases New WebGeocalc Version 2.5.4
+6. Planetary Geomorphology Image of the Month
+7. EGU 2023 Session PS5.3/GI3.6: Lunar Science, Exploration & 
+   Utilisation
+8. Introduction to Planetary Image Analysis with ArcGIS: February 4, 
+   2023, Cornell University
+9. ICPAE Monthly Webinar
+10. Mars Reconnaissance Orbiter: Sixteen Years Observing a Changing 
+    Mars
+11. DART Boarder Program Indication of Interest for February 
+    Investigation Team Meeting
+12. Post-doctoral Fellowship, Mcdonnell Center for the Space Sciences, 
+    Washington University in St. Louis
+13. Planetary Data Officer Position at NASA Ames Research Center
+14. MEPAG VM15 Findings: Request for Community Feedback
+15. Open positions at The Swedish Institute of Space Physics
+16. Dusty Visions: May 24-26, 2023 in Berlin
+17. Tenure-Track Faculty Openings in Origins of Life at Purdue 
+    University
+18. [NASA] SMD: ROSES-22 Amendment 68 - C.25 Artemis III Geology Team 
+    Draft Text Released for Community Comment
+19. [NASA] SMD: ROSES-22 Amendment 70 - F.5 FINESST Graduate Student 
+     Research Proposals due February 7, 2023
+20. [NASA] SMD: ROSES-22 Amendment 72 - F.16 Supplement for Scientific 
+    Software Platforms Deferred to ROSES-2023
+21. [NASA] SMD: ROSES-22 Amendment 73 - F.15 High Priority Open-Source 
+    Science Final Text
+22. [NASA] EONS23 MUREP Precollege Summer Institute Telecon
+23. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 63
+24. [NASA] PDS: Aperiodic PDS Data Releases in 2022.11
+25. Replacing the USGS ISIS rsync Server 
+26. Postdoctoral Position in Cosmic Ice Astrochemistry
+27. Workshop: Quantum Sensors for Science Exploration
+28. Planetary Meeting Calendar Additions
+29. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+FAREWELL GEORGIANA KRAMER, HELLO MATTHEW R. PERRY
+
+PSI Senior Scientist Georgiana Kramer has been a Planetary 
+Exploration Newsletter editor since January 20, 2019. Over her more 
+than three and a half years with PEN, she has volunteered her weekend
+hours to edit and co-edit 208 issues in service to our planetary 
+community. She is retiring from her editorship; it has been a 
+pleasure working with her.
+
+We would also like to welcome PSI Senior Research Associate Matthew R. 
+Perry as a new PEN editor!
+
+Alex Morgan
+Mark Sykes
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+2023 PIERAZZO INTERNATIONAL STUDENT TRAVEL AWARD WINNERS TO BE 
+ANNOUNCED WEDNESDAY, DECEMBER 7
+
+The notification to awardees for the 2023 Pierazzo International 
+Student Travel Awards has been delayed from Sunday, December 4, to 
+Wednesday, December 7.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+REGISTRATIONS OPEN FOR ASTROBIOLOGY INTRODUCTORY COURSE 2023
+
+The 2023 session of the Rencontres Exobiologiques pour Doctorants 
+(RED'23 / Astrobiology Introductory Course) will take place, from 
+March 12 to 18, 2023 at the Reserve Ornithologique du Teich (France).
+
+These meetings are organized for:
+- Any student preparing a thesis or being a post-doc in Earth and 
+  Universe Sciences, Chemical Sciences, Life Sciences, Bioinformatics 
+  or History / Philosophy of Sciences.The school is also open to any 
+  young researchers interested in astrobiology
+- Students wishing to acquire an interdisciplinary training in 
+  astrobiology to complete their initial training and to be able to 
+  address questions related to the origins of life on Earth and 
+  beyond, its evolution and its distribution in the Universe.
+
+The RED'23 / Astrobiology Introductory Course program is complementary 
+to the RED'22 program, however it is not necessary to have attended in 
+2022 to participate in this new school.
+
+Registrations are open until January 31, 2023. Some grants to 
+participate are available, more about it on the website.
+
+Discover the program and the speakers of this session online:
+
+https://www.exobiologie.fr/red/index.php/en/
+
+Muriel Gargaud, Vassilissa Vinogradoff & Herve Cottin
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+NEWS FOR PLANETARY STUDENTS AND EARLY CAREER SCIENTISTS
+
+https://www.lpi.usra.edu/education/resources/news/for-students/
+
+The Lunar and Planetary Institute has launched an online newsletter 
+that strives to serve the planetary science community by providing 
+regularly-updated, curated information about opportunities and 
+resources for students and early career scientists. Announcements 
+include descriptions and links addressing relevant Workshops and 
+Events, Internships and Fellowships, Scholarships and Awards, and 
+more. If you have questions or suggestions for the newsletter, please 
+contact Grace Beaudoin (gbeaudoin@lpi.usra.edu).
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NAIF RELEASES NEW WEBGEOCALC VERSION 2.5.4
+
+NAIF announces the deployment of the new WebGeocalc (WGC) version 
+2.5.4 on both NAIF's WGC servers:
+
+https://wgc.jpl.nasa.gov:8443/ (GUI only)
+
+https://wgc2.jpl.nasa.gov:8443/ (GUI and Web API)
+
+This new version adds a new Pointing Direction calculation both in WGC 
+GUI and in the WGC Web API. This calculation computes the pointing 
+direction of a user specified vector - position, velocity, instrument 
+boresight, instrument FOV boundary vector, reference frame axis, or an 
+arbitrary vector - in a user specified reference frame and outputs it 
+as a unit or full magnitude vector represented in a user specified 
+coordinate system.
+
+More information about WGC, including tutorials and usage examples, is
+available at:
+
+https://naif.jpl.nasa.gov/naif/webgeocalc.html
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The December image of the month is now available at the IAG's 
+Planetary Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is "New Images of Europa from Juno's JunoCam" 
+contributed by Dr Candice Hansen, Planetary Science Institute, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter (@PlanetGeomorpho) or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EGU 2023 SESSION PS5.3/GI3.6: LUNAR SCIENCE, EXPLORATION & UTILISATION
+
+Dear colleagues,
+
+We would like to draw your attention to the Lunar Science, Exploration 
+& Utilisation Session at EGU2023 (Hybrid conference), where we will 
+address the latest results gravitating around lunar space missions. 
+The session is intended as an open forum and discussion between 
+diverse experts and explorers at large coming from around the globe. 
+Contributions are welcome on observations of the surface physical, 
+chemical and morphological characteristics; lunar meteorites research; 
+analyses of the atmospheric composition and dynamics; the interaction 
+with the solar wind, theoretical models of the interior; ongoing and 
+future missions activities, and exploration for future habitability of 
+the Moon. Early career researchers and engineers, who represent the 
+future lunar workforce, are especially encouraged to contribute to 
+this session.
+
+Please, consider submitting an abstract to EGU assembly 23-28 April 
+2023 in Vienna, Austria & Online.
+
+Submission deadline: 10 January 2023.
+
+https://meetingorganizer.copernicus.org/EGU23/session/46444
+
+Convener: Ottaviano Ruesch
+
+Co-conveners: Joana S. Oliveira, Rachael Marshal (ECS), Chrysa 
+Avdellidou, Bernard Foing
+
+Supporting scientists: Wenzhe Fa, David Heather
+
+We hope to see many of you (in person and/or virtually) at EGU next 
+year!
+
+Best lunatic regards,
+the lunar science session conveners.
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+INTRODUCTION TO PLANETARY IMAGE ANALYSIS WITH ARCGIS: FEBRUARY 4, 
+2023, CORNELL UNIVERSITY
+
+The Spacecraft Planetary Imaging Facility (SPIF) of Cornell University 
+is offering this free workshop at on Saturday, February 4, as part of 
+the Planetary Data Training Workshops funded by NASA's TWSC program. 
+This will be an introductory level course accessible to participants 
+with no prior GIS experience. It will provide instruction in ArcMap, 
+as well as an introduction to ArcGIS Pro for both new and experienced 
+users. The workshop will run from 9:00am to 5:00pm EST at Cornell 
+University's main campus in Ithaca, NY. There are two $1,800 travel 
+grants available to promote attendance of groups underrepresented in 
+planetary science and STEM. Space is limited and registration is 
+required:
+
+https://forms.gle/KgDozWvkVBG9gUcw5
+
+The deadline for in-person registration is January 13, and grant 
+applications are due December 31. Please contact Zoe Learner Ponterio, 
+SPIF Manager, for more information at zap9@cornell.edu.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ICPAE MONTHLY WEBINAR
+
+Title: The Atmosphere of Mars as Observed by the ExoMars Trace Gas 
+Orbiter
+
+Speaker: Juan Alday (The Open University, United Kingdom)
+
+December 7 Wednesday 14:00 UTC (12 PM in London, 10 PM in Beijing, 9 
+AM in New York)
+
+Webinar link:
+
+https://us02web.zoom.us/j/83041527993?pwd=OGtEOWp6eE51U0FHSWh3a3hUZitOdz09
+
+Details can be found in the link below:
+
+https://tinyurl.com/342mzmt8
+
+The International Commission on Planetary Atmospheres and Evolution 
+(ICPAE), which is one of the commissions of the International 
+Association of Meteorology and Atmospheric Sciences (IAMAS), organizes 
+a monthly webinar. The primary objective of our webinar series is to 
+provide researchers with updates on new findings and techniques on 
+planetary atmospheres from across the world.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS RECONNAISSANCE ORBITER: SIXTEEN YEARS OBSERVING A CHANGING MARS
+
+For 16 years, the Mars Reconnaissance Orbiter (MRO) has used its three 
+cameras, multi-spectral imaging spectrometer, shallow radar, and 
+atmospheric sounder to observe the surface, subsurface and atmosphere 
+of Mars at unprecedented spatial resolution and with expanded coverage 
+in space and time. Although designed to "follow the water" of an 
+ancient Mars climate, the very high spatial resolution imaging and 
+growing timeline of observations has enabled MRO to reveal 
+unprecedented changes occurring on the planet today (e.g., recurring 
+slope lineae; annual patterns of regional dust storms). This special 
+issue gives an overview of the evolving capabilities of MRO and its 
+investigations, its key findings and evolving strategies. It will also 
+include papers on the latest findings, together with plans for the 
+ongoing exploration of Mars by MRO.
+
+Submission deadline: March 1, 2023
+
+Editorial Acceptance: July 1, 2023
+
+https://www.sciencedirect.com/journal/icarus/about/call-for-papers
+
+Please select: Article Type = SI: MRO: 16 Years at Mars
+
+Guest editors: Rich Zurek (richard.w.zurek@jpl.nasa.gov) and Leslie 
+Tamppari (leslie.tamppari@jpl.nasa.gov)
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+DART BOARDER PROGRAM INDICATION OF INTEREST FOR FEBRUARY INVESTIGATION 
+TEAM MEETING
+
+https://forms.gle/H3JZedB7FkRfH5Rv7
+
+The Double Asteroid Redirection Test (DART) Investigation Team is 
+reopening the "DART Boarders" program, intended to introduce advanced 
+graduate students and early career scientists (less than 7 years since 
+a terminal degree) regardless of nationality to the experience of 
+working on a mission team via an invitation to observe the DART 
+Investigation Team meeting 6-10 February, 2023.
+
+Unfortunately, we cannot offer support for time spent in the program, 
+but we anticipate a commitment of roughly 20-24 hours spread over the 
+week prior to and week of the team meeting.
+
+Respondents will be selected based upon anticipated impact to their 
+career path and alignment of research interests with mission 
+objectives, giving preference to candidates without existing 
+connections to the team via current advisor-student relationships. 
+DART recognizes and supports the benefits of having diverse and 
+inclusive communities and expects such values to be reflected in this 
+opportunity.
+
+Questions can be sent to andy.rivkin@jhuapl.edu with subject line 
+"DART Boarders". The indication of interest must be filled out by 
+Wednesday, 21 December, 2022. Applicants will be notified of the 
+outcome early in January 2023.
+
+For more information about the DART mission:
+
+https://dart.jhuapl.edu
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POST-DOCTORAL FELLOWSHIP, MCDONNELL CENTER FOR THE SPACE SCIENCES, 
+WASHINGTON UNIVERSITY IN ST. LOUIS
+
+Washington University in St. Louis invites applicants to conduct 
+independent research as a postdoctoral fellow of the McDonnell Center 
+for the Space Sciences. Areas of interest include astromaterials, 
+cosmochemistry, astrophysics, planetary science, particle and nuclear 
+physics, cosmology, and Earth as a planet. Candidates must have a PhD 
+or be a May 2023 degree candidate. 
+
+The initial appointment is for one year, renewable for a second year. 
+Washington University is committed to equal employment opportunity and 
+encourages applications by those underrepresented in their academic 
+fields. The University's policy is to recruit, hire, train, and 
+promote persons in all job titles regardless of race, color, age, 
+religion, sexual orientation, gender identity, national origin, 
+protected veteran status, or disability. 
+
+Applications should include a CV, brief statement of their three 
+most significant publications, 2-page research proposal, and 
+names/contact info for three professional references. Referees will 
+need to upload letters to the link provided by the application site. 
+Applications and letters are due January 15, 2023.
+
+https://apply.interfolio.com/117533
+
+Direct questions related to the application process to Jan Foster 
+(spacesciences@wustl.edu). The full advertisement can be found at:
+
+https://mcss.wustl.edu/news/postdoctoral-fellowship-opening
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY DATA OFFICER POSITION AT NASA AMES RESEARCH CENTER
+
+Ames Research Center seeks a Planetary Data Officer to assist NASA's 
+Planetary Science Division (PSD) in advancing the Planetary Data 
+Ecosystem (PDE) and various data initiatives within the Agency and 
+planetary science community. The PDE is the ad hoc connected framework 
+of activities and products built upon and supporting data collected by 
+planetary space missions and research programs, which are primarily 
+NASA funded. The Planetary Data Officer will play a significant role 
+in restructuring and improving the PDE.
+
+This vacancy will be open December 5 - 16, 2022 in USAJobs under 
+Announcement Number ARC-23-DE-11744861-LC:
+
+https://www.usajobs.gov
+
+Full details of the position are given in the vacancy announcement.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+MEPAG VM15 FINDINGS: REQUEST FOR COMMUNITY FEEDBACK
+
+Mars Science Community,
+
+On October 26-27 MEPAG held a virtual meeting to discuss the outcomes 
+of the Decadal Survey, and to be presented with reports regarding the 
+development of the Mars strategy, the I-MIM Measurement Definition 
+Team, the Mars 2020 mission, MSR, and the Mars Concurrent 
+Exploration-SAG. The draft findings represent the consensus of the 
+MEPAG community with respect to the presentations delivered at this 
+meeting.
+
+We are asking for community feedback on these draft findings. Please 
+submit your feedback using the Google form at:
+
+https://forms.gle/DjwnTjij9g3X1P11A
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+OPEN POSITIONS AT THE SWEDISH INSTITUTE OF SPACE PHYSICS
+
+The Swedish Institute of Space Physics (IRF) invites applications for
+Scientist (permanent) and PostDoc (up to 3 years) positions for
+processing and analysis of data collected by IRF's particle instruments
+onboard ESA's BepiColombo and Mars Express missions.
+
+Closing date for applications is January 9 2023.
+
+https://tinyurl.com/ycx8933m
+
+https://tinyurl.com/aujmznck
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+DUSTY VISIONS: MAY 24-26, 2023 IN BERLIN
+
+An international workshop on Cosmic Dust inside and outside the Solar 
+System to be held at the the Freie Universitat Berlin, Germany. The 
+workshop will be hosted by the Planetary Science group.
+
+Local Organizers: Frank Postberg & Juergen Schmidt
+
+For further information please see the webpage of the workshop:
+
+https://tinyurl.com/55s8kz9r
+
+Abstract submission will be open until March 1, 2023. To register 
+please send an e-mail to dustyvisions2023@geo.fu-berlin.de, with the 
+title and abstract (approx 500 words max) of your presentation. Please 
+indicate if you need an invitation letter from us for approval of your 
+travel by your employer.
+
+Major topics of the workshop will include interstellar dust, 
+circumplanetary dust including dusty rings and space debris, presolar 
+and cometary dust, plumes, dust in interplanetary space, dusty 
+plasmas, dust in extrasolar systems as well as laboratory 
+measurements, instrumentation and space missions.
+
+Of special emphasis is cosmochemistry and compositional analysis of 
+dust in view of the Cassini and Rosetta results and the upcoming 
+Europa Clipper, Destiny+, IMAP and Comet Interceptor missions as well 
+as potential future missions to Uranus and Enceladus.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+TENURE-TRACK FACULTY OPENINGS IN ORIGINS OF LIFE AT PURDUE UNIVERSITY
+
+Purdue University's College of Science invites applicants for up to 
+three tenure-track faculty positions at the rank of Assistant or 
+Associate Professor in all areas with relevance to the Origins of 
+Life. Broadly speaking, the Origins of Life search will consider 
+fields of research and processes related to how life first evolved on 
+Earth, how life continues to evolve, and whether and where life exists 
+elsewhere in the universe. These positions are a cluster hire between 
+Purdue's Departments of Biological Sciences, Chemistry, and Earth, 
+Atmospheric, and Planetary Sciences. Applications will be reviewed 
+beginning January 3, 2023 and will continue until the position is 
+filled. Questions about this position can be directed to Ali Bramson 
+(bramsona@purdue.edu). For more information, including the process for 
+applying, please see the job ad here:
+
+https://careers.purdue.edu/job-invite/23266/
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+[NASA] SMD: ROSES-22 AMENDMENT 68 - C.25 ARTEMIS III GEOLOGY TEAM 
+DRAFT TEXT RELEASED FOR COMMUNITY COMMENT
+
+C.25 Artemis III Geology Team (A3GT) will seek proposals for the 
+complete Artemis III Geology Team, which will support Artemis III 
+mission operations and will function as part of the Science Evaluation 
+Room for the mission. Each proposal must include an entire team. A 
+single team will be selected from this call.
+
+The A3GT will participate in the definition of Artemis III scientific 
+objectives, the design and execution of the surface campaign, and the 
+evaluation of the returned data, including preliminary examination of 
+returned samples. The A3GT will contribute to support of real-time 
+mission operations, the collection and assessment of scientific data 
+and mission-relevant information. Members of the A3GT will help 
+produce AIII preliminary geology mission and science reports. Members 
+of the A3GT with relevant experience will participate in the 
+preliminary examination of samples at the direction of Astromaterials 
+Curation at JSC.
+
+A Townhall Meeting to Discuss A3GT will occur Friday, December 9, 
+2022, at 3:00 pm Eastern Time via WebEx. Connection information is 
+provided on the NSPIRES page under "Other documents".
+
+https://solicitation.nasaprs.com/ROSES2022.
+
+Questions may be directed to HQ-ARTEMISGEOLOGY@mail.nasa.gov.
+
+[Edited for length]
+
+
+19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19-19
+
+[NASA] SMD: ROSES-22 AMENDMENT 70 - F.5 FINESST GRADUATE STUDENT 
+RESEARCH PROPOSALS DUE FEBRUARY 7, 2023
+
+Future Investigators in NASA Earth and Space Science and Technology 
+(FINESST F.5) solicits proposals from accredited U.S. universities and 
+other eligible organizations for graduate student-designed and 
+performed research projects that contribute to the Science Mission 
+Directorate's (SMD) science, technology, and exploration goals. The 
+graduate student shall have the primary initiative to define the 
+proposed FINESST research project and must be the primary author, with 
+input or supervision from the proposal's Principal Investigator (PI) 
+or mentor, as appropriate. The proposal must present a well-defined 
+research problem/activity and a justification of its scientific 
+significance to NASA. FINESST awards are research grants for up to 
+three years and up to $50K per year.
+
+https://go.nasa.gov/FINESST22
+
+Notices of Intent are not requested. Proposals are due February 7, 
+2023.
+
+An optional pre-proposal teleconference is scheduled January 13, 2023, 
+from 2-3 p.m. Eastern Time. No earlier than 15 minutes prior to the 
+start time, call 1-256-715-9946. If prompted for a Passcode or a Phone 
+Conference ID input: 360 678 47270.
+
+Questions concerning F.5 FINESST should be directed to 
+hq-finesst@mail.nasa.gov.
+
+[Edited for length]
+
+
+20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20-20
+
+[NASA] SMD: ROSES-22 AMENDMENT 72 - F.16 SUPPLEMENT FOR SCIENTIFIC 
+SOFTWARE PLATFORMS DEFERRED TO ROSES-2023
+
+F.16 Supplement for Scientific Software Platforms (S4SSP) solicits 
+proposals for supplemental support of existing awards for use of 
+scientific analysis platforms. For the purposes of this program 
+element, scientific analysis platforms are defined as interactive 
+environments accessible through a web browser that provide access 
+to data and computing resources to support scientific analysis and 
+processing. The platforms can provide the computing resources and 
+tools that are co-located with the scientific data to allow for 
+processing, analysis, visualization, or other services that would not 
+be typically available via desktop computing or small computer 
+clusters. This includes services running in a cloud environment or 
+providing access to resources for artificial intelligence and machine 
+learning. SMD seeks proposals for supplemental support to existing 
+awards for usage of such platforms for science. When released in 
+ROSES-2023 proposals may be submitted at any time.
+
+F.16 S4SSP which had been listed as "TBD" will not be solicited in 
+ROSES-2022. Instead, it will be solicited in ROSES-2023, to be 
+released in February 2023.
+
+https://solicitation.nasaprs.com/ROSES2022
+
+Questions concerning F.16 S4SSP may be directed to Steven Crawford at 
+steven.m.crawford@nasa.gov.
+
+[Edited for length]
+
+
+21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21-21
+
+[NASA] SMD: ROSES-22 AMENDMENT 73 - F.15 HIGH PRIORITY OPEN-SOURCE 
+SCIENCE FINAL TEXT
+
+F.15 High Priority Open-Source Science solicits proposals to support 
+NASA's Open-Source Science Initiative (OSSI) and that will advance the 
+goals of increasing transparency, accessibility, inclusion, and 
+reproducibility of research in the SMD scientific community. 
+Specifically, this program element supports innovative open-source 
+tools, software, frameworks, data formats, and libraries that will 
+have a significant impact on the SMD science community. Proposals for 
+work to support the OSSI may include increasing the accessibility and 
+usability of new technology as defined by the Strategy for Data 
+Management and Computing for Groundbreaking Science 2019-2024 and/or 
+supporting the development of technology in alignment with the goals 
+of NASA's Transform to OPen Science (TOPS) project.
+
+This program element will have a rolling deadline; Proposals may be 
+submitted at any time until March 29, 2023. A virtual meeting for 
+prospective proposers will occur January 19, 2023, 1-2 pm ET. Connect 
+information will be posted under other documents on the NSPIRES page 
+no later than December 19, 2023.
+
+Proposals will be evaluated using a dual-anonymous review process.
+
+https://solicitation.nasaprs.com/ROSES2022
+
+Questions may be 
+directed to Rachel Paseka at rachel.e.paseka@nasa.gov and Steven 
+Crawford at steven.e.crawford@nasa.gov.
+
+[Edited for length]
+
+
+
+22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22-22
+
+[NASA] EONS23 MUREP PSI TELECON
+
+This NASA Notice of Funding Opportunity entitled Engagement 
+Opportunities in NASA STEM (EONS) - 2023, solicits proposals for 
+competitive funding opportunities in support of the programs 
+administered by NASA's Office of STEM Engagement (OSTEM). Specific 
+opportunities will be issued periodically throughout the year as 
+Appendices to this solicitation with individual requirements and 
+milestones.
+
+The following Appendix to EONS-2023 has been released: Appendix 9:
+MUREP Precollege Summer Institute (MUREP PSI)
+
+https://tinyurl.com/bdamc9up
+
+NASA OSTEM's MUREP solicits proposals from Predominately Black 
+Institutions (PBIs) and Historically Black Colleges and Universities 
+(HBCUs) to establish a Precollege Summer Institute (PSI) that will 
+increase participation and retention of historically underserved and 
+underrepresented high school students and prepare them for success in 
+college STEM degree programs and STEM careers.
+
+The NASA MUREP Precollege Summer Institute Pre-Proposal Teleconference 
+will provide an in-depth overview of the opportunity. During the 
+session, information regarding proposal preparation, guidelines and 
+requirements will be provided.
+
+Link to participate in event:
+
+https://meet.google.com/yjo-xchz-qye
+
+Any changes to this session will be posted on the MUREP PSI landing 
+page in NSPIRES and you are strongly advised to check for updates 
+before joining.
+
+Please email questions concerning MUREP PSI to MUREP-PSI@nasaprs.com.
+
+[Edited for length]
+
+
+23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23-23
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 63
+
+The NASA Planetary Data System announces Release 63 of data from the 
+Mars Reconnaissance Orbiter (MRO). This release contains raw, 
+calibrated, and derived data products nominally covering the time 
+period February 9 through May 8, 2022. Some instrument teams are 
+delivering more recent data. The data are archived at various PDS 
+nodes:
+
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences 
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20221201.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/ 
+
+MRO data releases occur every three months. The next release is 
+scheduled for March 1, 2023.
+
+
+24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24-24
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2022.11
+
+In November 2022, PDS ingested and made available the following data, 
+none of which were regularly released with an ongoing mission:
+
+- 2022.11.30 Lab Study of Hydrocarbon IR Spectra
+- 2022.11.01 Galileo MAG High Res Calibrated Data at Jupiter
+- 2022.11.01 mission-independent DSN files
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20221130.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25-25
+
+REPLACING THE USGS ISIS RSYNC SERVER 
+
+The USGS Astrogeology Science Center (ASC) stewards, maintains, and 
+develops the Integrated Software for Imagers and Spectrometers (ISIS) 
+suite of software applications, which includes the distribution of 
+mission kernels and additional data used by ISIS applications. The 
+rsync server that the ASC has maintained to distribute these data for 
+use with the ISIS software applications will be disabled on November 
+30, 2022. This ISIS data area is now available for download from 
+Amazon Web Services. See the following instructions for downloading 
+the ISIS data area using the downloadIsisData script:
+
+https://tinyurl.com/yc5c3fcu
+
+Also see an issue on GitHub for additional information:
+
+https://github.com/USGS-Astrogeology/ISIS3/issues/5084
+
+Please submit questions or issues with downloading the ISIS data area, 
+or questions related to ISIS software applications generally, on the 
+ISIS GitHub repository and to be addressed by the ASC software 
+development team and broader software community:
+
+https://github.com/USGS-Astrogeology/ISIS3/issues/new/choose
+
+For further questions or concerns, contact Dr. Robin Fergason 
+(rfergason@usgs.gov).
+
+
+26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26-26
+
+POSTDOCTORAL POSITION IN COSMIC ICE ASTROCHEMISTRY
+
+Applications are now being accepted for a Postdoctoral Research 
+Associate to join The Cosmic Ice Laboratory at NASA/GSFC in Greenbelt, 
+MD. The position consists of a postdoctoral appointment at the 
+University of Maryland, Baltimore County and funded by NASA through 
+CRESST II.
+
+The successful applicant will focus on investigating the radiolytic 
+stability of organic compounds under conditions relevant to dense 
+clouds or icy Solar System bodies. The successful candidate will 
+perform radiation chemistry experiments on ices at low temperatures in 
+vacuum, using a proton accelerator as the radiation source. Candidates 
+for the position must have a Ph.D. in chemistry, physics, or related 
+field by the date of the appointment and should be within five years 
+of the receipt of their doctoral degree.
+
+Ideally, candidates will have experience with cryo-vacuum apparatuses, 
+radiation chemistry, and infrared spectroscopy.
+
+Complete applications received by December 31, 2022, will receive full 
+consideration. Candidates should send a cover letter, CV (including 
+publication list), a 3-page statement of research interests, and 
+contact information for three references via email to Ms. Katherine 
+McKee (katherine.s.mckee@nasa.gov). The position will remain available 
+until filled.
+
+Full Job Link:
+
+https://tinyurl.com/cjswfp6x
+
+Cosmic Ice Laboratory:
+
+https://science.gsfc.nasa.gov/691/cosmicice/
+
+
+27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27-27
+
+WORKSHOP: QUANTUM SENSORS FOR SCIENCE EXPLORATION
+
+We are pleased to announce a workshop on quantum sensors for science 
+exploration that will take place on 25-26 May 2023. at the European 
+Space Technology Centre (ESTEC) in Noordwijk, The Netherlands.
+
+Quantum sensors are based on technologies whose performance is not 
+limited by the boundaries of classical physics. Such instruments allow 
+for ultrasensitive measurements in the area of gravity, accelerations, 
+electric and magnetic fields, and communications. A major advantage of 
+such sensor types is the lack of drifts and need for calibration. The 
+objective of the workshop is to gather different communities to 
+exchange on how quantum sensors can help advance Solar System science 
+in the future, with various quantum sensing techniques.
+
+https://www.cosmos.esa.int/web/quantum-workshop-2023
+
+For more information, see the meeting website, or contact Olivier 
+Carraz (olivier.carraz@ext.esa.int), Aaron Strangfeld 
+(Aaron.Strangfeld@esa.int) or Olivier Witasse (Olivier.Witasse@esa.int)
+
+
+28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28-28
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+January 5-6, 2023
+JWST Cycle 2 Proposal Planning Workshop
+https://webbfellow.wixsite.com/prop-planning
+Hatfield, United Kingdom
+
+February 1-3, 2023
+Mercury Exploration Assessment Group (MExAG) Annual Meeting 2023
+https://www.lpi.usra.edu/mexag/meetings/feb2023/
+Online
+
+April 18-20, 2023
+4th Workshop on Thermal Models for Planetary Science
+https://www.cosmos.esa.int/web/thermops4
+Noordwijk, The Netherlands
+
+May 5-7, 2023
+Oxygen in Planetary Biospheres
+https://tinyurl.com/we2cxd2p
+Green Bank, WV
+
+May 24-26, 2023
+Dusty Visions
+https://tinyurl.com/55s8kz9r
+Berlin, Germany
+
+May 25-26, 2023
+Quantum Sensors for Science Exploration Workshop
+https://www.cosmos.esa.int/web/quantum-workshop-2023
+Noordwijk, The Netherlands
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29-29
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+New Views of the Internal Structure of Planum Boreum from Enhanced 3D
+Imaging of Mars Reconnaissance Orbiter Shallow Radar Data
+Nathaniel E. Putzig et al. 2022 PSJ 3:259
+https://doi.org/10.3847/PSJ/ac9d3b
+
+The Sparse Atmospheric Model Sampling Analysis (SAMOSA) 
+Intercomparison: Motivations and Protocol Version 1.0: A CUISINES
+Model Intercomparison Project
+Jacob Haqq-Misra et al. 2022 PSJ 3:260
+https://doi.org/10.3847/PSJ/ac9479
+
+CAMEMBERT: A Mini-Neptunes General Circulation Model Intercomparison,
+Protocol Version 1.0.A CUISINES Model Intercomparison Project
+Duncan A. Christie et al. 2022 PSJ 3:261
+https://doi.org/10.3847/PSJ/ac9dfe
+
+3D Radiative-transfer Simulations of the Ejecta Plume Anticipated from
+DART Impact
+Ludmilla Kolokolova et al. 2022 PSJ 3:262
+https://doi.org/10.3847/PSJ/ac9cde
+
+Erratum: "Thermophysical Investigation of Asteroid Surfaces. II. 
+Factors Influencing Grain Size"
+Eric M. MacLennan and Joshua P. Emery 2022 PSJ 3:263
+https://doi.org/10.3847/PSJ/aca099
+
+The "Snow Line" on Venus's Maxwell Montes: Varying Elevation Implies a
+Dynamic Atmosphere
+Andriana Strezoski and Allan H. Treiman 2022 PSJ 3:264
+https://doi.org/10.3847/PSJ/ac9f3a
+
+Building a High-resolution Digital Terrain Model of Bennu from Laser
+Altimetry Data
+Jeff A. Seabrook et al. 2022 PSJ 3:265
+https://doi.org/10.3847/PSJ/aca011
+
+Probing the Plasma Tail of Interstellar Comet 2I/Borisov
+P. K. Manoharan et al. 2022 PSJ 3:266
+https://doi.org/10.3847/PSJ/aca09f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

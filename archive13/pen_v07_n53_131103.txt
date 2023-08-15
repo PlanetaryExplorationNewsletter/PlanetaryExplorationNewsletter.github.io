@@ -1,0 +1,506 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 7, Number 53 (November 3, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Kepler GO 6 Cancelation
+2. International Cometary Workshop Rescheduled for April 1-3, 2014
+3. Annual Call for Nominations for NASA Science Advisory Subcommittees
+4. Job Opportunity: Postdoctoral Scholar at Caltech/JPL
+5. NASA Postdoctoral Fellowships
+6. Book - Asteroids IV: Final List of Chapters
+7. 2014 LPI Summer Intern Program in Planetary Science
+8. Update for "Dynamic Mars from Long-term Observations" Icarus 
+   Special Issue
+9. Mars Express HRSC Camera Video
+10. Mars Exploration Science Monthly Newsletter - November 2013
+11. [NASA] Earth and Space Science Fellowship (NESSF) Program
+12. International Conference "Cosmic Dust VII"
+13. Calling All Early Career Scientists! 
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] KEPLER GO 6 CANCELATION
+
+ROSES-13 Amendment 29: Appendix D.7, the Kepler Guest Observer 
+program, is being removed from ROSES 2013
+
+Between July 2012 and May 2013 the Kepler spacecraft lost two of its 
+four reaction wheels that keep the telescope in fine point during 
+weeks to months long observations, thus it can no longer deliver the 
+high precision photometry necessary for small exoplanet detection. 
+Ideas have been solicited for two-wheel science, but any future 
+Kepler Guest Observer (GO) solicitation must be very different from 
+that released when the spacecraft was operating with a complete set 
+of reaction wheels. The time frame for implementing a two-wheel GO 
+solicitation more naturally places it in the ROSES 2014 NRA. As a 
+result, the Kepler Guest Observer program is being removed from 
+ROSES 2013 but it may return in ROSES 2014, depending on the outcome 
+of the 2014 Senior Review and the availability of funds.
+
+Questions concerning this amendment and Appendix D.7, the Kepler 
+Guest Observer program, may be directed to:
+
+Douglas Hudgins
+Astrophysics Division, Science Mission Directorate
+(202) 358-0988
+douglas.m.hudgins@nasa.gov
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+INTERNATIONAL COMETARY WORKSHOP RESCHEDULED FOR APRIL 1-3, 2014
+
+The International Cometary Workshop, originally scheduled for July 
+2013 was postponed due to the US Budget sequester and the NASA travel 
+restrictions that were imposed in response to the sequester. We are 
+pleased to announce that we have rescheduled the Workshop for April 
+1-3, 2014. It will take in Toulouse France, and the updated abstract 
+deadline is January 31, 2014. The new registration deadline is 
+February 28, 2014. Pre-registration is now available. For more 
+information see our website at:
+
+icw.space.swri.edu
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ANNUAL CALL FOR NOMINATIONS FOR NASA SCIENCE ADVISORY SUBCOMMITTEES
+
+NASA invites nominations for service on NASA science advisory 
+subcommittees of the NASA Advisory Council. U.S. citizens may nominate 
+individuals and also submit self-nominations for consideration 
+as potential members of NASA's science advisory subcommittees. 
+NASA's science advisory subcommittees have member vacancies from 
+time to time throughout the year, and NASA will consider nominations 
+and self-nominations to fill such intermittent vacancies. NASA is 
+committed to selecting members to serve on its science advisory 
+subcommittees based on their individual expertise, knowledge, 
+experience, and current/past contributions to the relevant subject 
+area.
+
+These are not full-time positions. Successful nominees will be required 
+to attend meetings of the subcommittee approximately two or three times 
+a year, either in person (NASA covers travel-related expenses for this 
+non-compensated appointment) or via telecom and/or virtual meeting 
+medium. 
+
+DATES: The deadline for NASA receipt of all public nominations is 
+November 22, 2013.
+
+FOR FURTHER INFORMATION: To obtain further information on NASA's 
+science advisory subcommittees, please visit the NAC Science 
+Committee's subcommittee Web site at:
+
+http://science.nasa.gov/science-committee/subcommittees/
+ 
+[Edited for length.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+JOB OPPORTUNITY: POSTDOCTORAL SCHOLAR AT CALTECH/JPL
+
+Caltech's Keck Institute for Space Studies is accepting applications
+for a postdoctoral position in the field of planetary science in
+connection with an ongoing study entitled "New Approaches to Lunar Ice 
+Detection and Mapping": 
+
+http://kiss.caltech.edu/workshops/lunar-ice2013/
+
+The objective of the project will be to collect and compare available 
+spacecraft and telescope remote sensing data with the goal of forming 
+a coherent picture of the distribution and nature of lunar ice deposits 
+to help guide future exploration activities. Applicants should have a 
+Ph.D. in Planetary Science, Physics, Astronomy or related fields, and 
+have experience working with large multidimensional datasets. The 
+successful applicant will be based at either Caltech campus or the Jet 
+Propulsion Laboratory.
+
+For more information about the KISS postdoctoral program, see:
+
+http://kiss.caltech.edu/fellowships/
+
+To request information on the lunar ice study and postdoctoral
+opportunity, contact Paul Hayne (Paul.O.Hayne@jpl.nasa.gov)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) provides opportunities for 
+scientists and engineers to conduct research largely of their own 
+choosing, yet compatible with the research opportunities posted on 
+the NPP Web site.
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions.
+ 
+For a sample opportunity in planetary science see:
+
+https://www3.orau.gov/NPDoc/Catalog/18610    
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1. However, because many of the NPP advisors were not 
+available during the government shutdown, the next application 
+deadline has been extended to Friday, November 15, 2013.
+
+The latest NPP Newsletter: http://bit.ly/14cNpfH
+
+For further information and to apply, visit: 
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions: nasapostdoc@orau.org
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+BOOK - ASTEROIDS IV: FINAL LIST OF CHAPTERS
+
+We are pleased to announce the final list of chapters and lead authors 
+defined for the book ASTEROIDS IV, a new volume in the Space Science 
+Series. We want to thank the community for its enthusiastic response 
+to the call for chapters, resulting in the submission of over 150 
+proposals. Given that we are limited to only about 40 chapters, the 
+editors and scientific organizing committee were faced with the 
+challenge of defining a broad set of topics that most represents 
+the advances of the past decade. For a list of chapters see:
+
+http://www.oca.eu/michel/ASTEROIDSIV/AsteroidsIV_Chapters/
+AsteroidsIV_Chapters.html
+
+The community has grown significantly over the past decade and we 
+regret that a larger portion cannot directly participate in 
+the writing. Advances each of you have made will be included. 
+Some will be solicited as chapter referees later on in the process. 
+We thank the whole community for your input and support, as 
+well as the SOC, for helping to define a great chapter set. We thank 
+the lead authors and their co-authors for their expected efforts to 
+write chapters that will serve as references for at least the next 
+decade.
+
+On behalf of ASTEROIDS IV Editors
+(P. Michel, F. DeMeo, W.F. Bottke)
+
+[Edited for length.]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+2014 LPI SUMMER INTERN PROGRAM IN PLANETARY SCIENCE
+
+Application Deadline: January 17, 2014
+
+The Lunar and Planetary Institute (LPI) invites undergraduates with at 
+least 50 semester hours of credit to experience cutting-edge research 
+in the lunar and planetary sciences. As a Summer Intern, you will work 
+one-on-one with a scientist at the LPI or at the NASA Johnson Space 
+Center on a research project of current interest in lunar and 
+planetary science. Furthermore, you will participate in peer-reviewed 
+research, learn from top-notch planetary scientists, and preview 
+various careers in science.
+
+The 10-week program runs from June 2 through August 8, 2014. Interns 
+will receive a $5000.00 stipend plus $1000.00 U.S. travel stipend, or 
+$1500.00 foreign travel reimbursement for foreign interns.
+
+Please note that due to security issues, citizens of U.S. State
+Department Designated Countries (see link under "ECP Notices" at:
+ 
+http://oiir.hq.nasa.gov/nasaecp/
+
+are not eligible. Selection is based on (1) scholarship, curriculum, 
+and experience; (2) career objectives and scientific interest; and 
+(3) match of interest of applicant with available research projects.
+
+Applications are only accepted via the electronic application form 
+found at the LPI's Summer Intern Program website:
+
+http://www.lpi.usra.edu/lpiintern
+
+Contact:
+
+Claudia Quintana
+281-486-2159
+internprogram@lpi.usra.edu
+
+[Edited for length.]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+UPDATE FOR "DYNAMIC MARS FROM LONG-TERM OBSERVATIONS" ICARUS SPECIAL 
+ISSUE
+
+The deadline for manuscripts submitted to the Icarus special issue 
+"Dynamic Mars from long-term observations" is postponed from 
+November 15 to December 20, 2013, reflecting down time associated 
+with recent government shutdown that affected many authors. The focus 
+and guidelines associated with the special issue remain the same.
+
+This special issue is for for papers that:
+* Include surface, sub-surface, and atmosphere observations, or model 
+  results, that are new and a unique outcome of the long-term data 
+  acquisition provided by Mars spacecraft and telescopes
+* Highlight the long-term implications of processes that are observed 
+  and ongoing now
+* Are not reviews of previous work
+
+Submission Format:
+The submitted papers must be written in English and describe original 
+research which is not published nor currently under review by other 
+journals or conferences. Author guidelines for manuscript preparation
+can be found at:
+
+http://www.elsevier.com/wps/find/journaldescription.cws_home/505620/
+authorinstructions
+
+For more information, please contact the editorial office at 
+icarus@astro.cornell.edu
+
+Guest Editors:
+Nathan Bridges: nathan.bridges@jhuapl.edu
+Leslie Tamppari: leslie.tamppari@jpl.nasa.gov
+
+Internal Editor:
+Jeffrey Moersch: jmoersch@utk.edu
+
+Important Dates:
+Paper submission Deadline: December 20, 2013
+Acceptance notification: June 20, 2014
+Publication: 2014
+
+[Edited for length.]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPRESS HRSC CAMERA VIDEO
+
+The latest video release of Mars Express can be found at:
+
+http://spaceinvideos.esa.int/Videos/2013/10/Mars_showcase
+
+The images in this movie were taken by the High Resolution Stereo 
+Camera and the video was released by the DLR German Aerospace Center
+as part of the ten years of Mars Express celebrations in June 2013. 
+The music has been created by Stephan Elgner of DLR's Mars Express 
+planetary cartography team. DLR developed and is operating the stereo 
+camera.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER - NOVEMBER 2013
+
+Dear Members of the Mars Community,
+ 
+On behalf of Lisa Pratt (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Charles Budney of the Mars Program Science Office, the November 2013 
+edition of the Mars Exploration Science Monthly Newsletter can be 
+found on the web at:
+
+http://mepag.jpl.nasa.gov 
+
+Carla de la Paz
+Jet Propulsion Laboratory
+(818) 354-3160
+paz@jpl.nasa.gov
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] EARTH AND SPACE SCIENCE FELLOWSHIP (NESSF) PROGRAM
+
+NASA announces a call for graduate fellowship proposals to the NASA 
+Earth and Space Science Fellowship (NESSF) program for the 2014-2015 
+academic year. This call for fellowship proposals solicits applications 
+from accredited U.S. universities on behalf of individuals pursuing
+Master of Science (M.Sc.) or Doctoral (Ph.D.) degrees in Earth and 
+space sciences, or related disciplines. The purpose of NESSF is to 
+ensure continued training of a highly qualified workforce in 
+disciplines needed to achieve NASA's scientific goals. Awards 
+resulting from the competitive selection will be made in the form 
+of training grants to the respective universities.
+
+The deadline for NEW applications is February 3, 2014, and the 
+deadline for RENEWAL applications is March 17, 2014.
+
+The NESSF call for proposals and submission instructions are located 
+at the NESSF 14 solicitation index page at:
+
+http://nspires.nasaprs.com/ 
+
+click on "Solicitations" then click on "Open Solicitations" then 
+select the "NESSF 14" announcement. Also refer to "Proposal 
+Submission Instructions" and "Frequently Asked Questions" listed 
+under "Other Documents" on the NESSF 14 solicitation index page.
+
+For further information contact:
+Claire Macaulay
+(202) 358-0151
+claire.i.macaulay@nasa.gov 
+
+or 
+
+Dolores Holland
+(202) 358-0734
+hq-nessf-Space@nasa.gov
+
+[Edited for length.]
+
+ 
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+INTERNATIONAL CONFERENCE "COSMIC DUST VII"
+
+August 4 - 8, 2014
+
+Umeda Satellite Campus of Osaka Sangyo University, Osaka, JAPAN
+
+This series of Cosmic Dust meetings aims finding a consensus among 
+experts on the formation and evolution of cosmic dust: where it comes 
+from and where it goes. The primary objectives are to bring together 
+professionals who deal with cosmic dust and to provide an opportunity 
+for participants to develop human relations and interactions. The 
+meeting considers all kinds of cosmic dust: intergalactic, 
+interstellar, protoplanetary, debris disk, cometary, interplanetary 
+and circumplanetary dust, planetary aerosols, regolith, 
+micrometeorites, meteors and meteoroids, presolar grains and stellar 
+nebular condensates. The meeting is open for any aspects of dust 
+research by means of in-situ and laboratory measurements, astronomical 
+observations, laboratory and numerical analogue simulations, 
+theoretical modeling, data analysis, etc. Any dust-related topics, 
+(e.g., formation of molecules and their reactions on and desorption 
+from the surface of dust particles) are also welcome. Publishing the 
+proceedings of this meeting will be as a special issue of a peer-
+reviewed journal.
+
+Deadline for Admissions Application is May 13, 2014
+
+For online registration and more details go to the meeting website:
+
+https://www.cps-jp.org/~dust/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+CALLING ALL EARLY CAREER SCIENTISTS! 
+
+Passionate about science? Love to communicate or want to learn how?
+
+You are wholeheartedly invited to participate in FameLab: Exploring 
+Earth and Beyond - at the AGU Fall Meeting in San Francisco!
+
+FameLab is fun-filled day of competition, coaching, and camaraderie 
+that's all about communicating! It's something like American Idol for 
+scientists - you give a 3-minute powerpoint-free talk to a panel of 
+judges, but they only give constructive feedback. There's a 
+communication training workshop, too, so everyone wins.
+
+Join us on Sunday, December 8th from ~9am-5pm to hone your skills, 
+interact with like-minded scientists, and learn from communication 
+specialists.
+
+Space is limited, so sign up today at: 
+
+http://famelab-eeb.arc.nasa.gov/competitions/2013-agu-december/ 
+
+Video clips of prior FameLabbers are here: 
+
+http://famelab-eeb.arc.nasa.gov/competitions/ 
+
+There is no cost for any of the FameLab events, and you do NOT need 
+to be registered for AGU to participate.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 20, 2013
+Frontiers in Astronomy: From the Beginning of the Universe to the 
+Outer Reaches of the Solar System
+http://royalsociety.org/events/2013/frontiers-astronomy/
+London, United Kingdom
+
+May 26-31, 2014
+Accretion and Early Differentiation of the Earth and Terrestrial 
+Planets (ACCRETE)
+http://www.accrete.uni-bayreuth.de/?page=workshops
+Bayreuth, Germany
+
+August 4-8, 2014
+Cosmic Dust VII
+https://www.cps-jp.org/~dust/
+Osaka, Japan
+
+September 8-13, 2014
+77th Annual Meeting of the Meteoritical Society
+http://www.metsoc2014casablanca.org/
+Casablanca, Morocco
+
+November 4-7, 2014
+International Workshop on Instrumentation for Planetary Missions 
+(IPM-2014)
+http://ssed.gsfc.nasa.gov/IPM/
+Greenbelt, MD
+
+December 15-19, 2014
+2014 AGU Fall Meeting
+http://geocalendar.agu.org/meeting/2014-agu-fall-meeting/
+San Francisco, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

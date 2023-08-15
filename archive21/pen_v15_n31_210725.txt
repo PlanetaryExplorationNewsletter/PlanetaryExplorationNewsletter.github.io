@@ -1,0 +1,496 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 31 (July 25, 2021)
+
+PEN Website: https://planetarynews.org
+Editor: Georgiana Kramer 
+Co-Editors: Mark V. Sykes, Alex Morgan  
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. This Week's Open Meetings of Decadal Survey Panels
+2. [NASA] Lunar Surface Technology Research Opportunities Solicitation 
+   Released
+3. Opportunities for AGU Fall Meeting Conference Reimbursement
+4. AGU Session P006: Clay-Sulfate Transitions as Indicators of Climate
+   Change Across Mars
+5. AGU Session P003: Atmospheric Dynamics and Astro-/Geo-physical 
+   Modeling Studies of Habitable Ocean Worlds, Moons, and Atmospheres 
+   Near and Far
+6. AGU Session A032: Chemical Physics Insights Into Atmospheric and 
+   Planetary Chemistry
+7. AGU Session P008: Enceladus - Beacon of Ocean Worlds
+8. AGU Session P037: The New Mars Underground - Astrobiology and Space 
+   Resources at the Dawn of Mars Sample Return
+9. AGU Session P024: Paleohydrology and Fluvial Dynamics of Martian 
+   Channels
+10. European Solar System Plasma Community (ESSPC)
+11. Postdoctoral Scholar Positions at Northern Arizona University in
+    Planetary Science
+12. Job Announcement: Ph.D. Student to Develop a CHON+PS Chemical 
+    Scheme Validated at High Temperatures with Applications in 
+    Planetology
+13. Two Postdoctoral Positions, Planetary Radar Group, Arecibo 
+    Observatory
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+THIS WEEK'S OPEN MEETINGS OF DECADAL SURVEY PANELS
+
+Wed-Fri July 28-30, 11:00 AM-5:00 PM ET (includes both open and closed
+sessions, TBA) Steering Group Meeting #17
+
+https://bit.ly/377aeaF
+
+Please see link above for agenda, connection information, and detailed
+information on timing of open sessions.
+
+For more information on the Planetary Science and Astrobiology Decadal
+Survey 2023-2032, go to:
+
+https://bit.ly/PSADS_general
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] LUNAR SURFACE TECHNOLOGY RESEARCH OPPORTUNITIES SOLICITATION 
+RELEASED
+
+NASA's Space Technology Mission Directorate (STMD) has released "Lunar
+Surface Technology Research (LuSTR) Opportunities" as an appendix to
+the SpaceTech-REDDI-2021 solicitation, and is available at: 
+
+https://tinyurl.com/LuSTR21
+
+Only accredited U.S. universities are eligible to submit proposals.
+Teaming is permitted - see the LuSTR text for complete eligibility
+requirements, as well as teaming restrictions.
+
+The goal of LuSTR is to accelerate the development of groundbreaking
+technologies that support and enable lunar surface activities to be
+conducted under Artemis - the core of NASA's exploration and human
+spaceflight plans for the next decade. The starting Technology
+Readiness Level (TRL) will be TRL 2 - TRL 4; TRL advancement is 
+required.
+
+LuSTR solicits proposals that are responsive to two Lunar Surface
+Innovation Initiative focus areas: Excavation/Construction and Extreme
+Environments; proposals should respond to the following four topics:
+
+- Autonomous Systems for Excavation and Site Preparation
+- Lunar Regolith Mineral Beneficiation
+- Cold-Temperature Analog Integrated Circuits
+- Novel Heat Transfer Fluids
+
+Notices of Intent (strongly encouraged) are due by August 20, 2021,
+with proposals due on or before September 17, 2021, 5 PM Eastern Time.
+
+Comments and questions may be addressed to hq-LuSTR@mail.nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+OPPORTUNITIES FOR AGU FALL MEETING CONFERENCE REIMBURSEMENT
+
+To make the 2021 AGU Fall Meeting as widely accessible as possible, and
+to gauge community need, the Planetary Sciences Section of AGU wants to
+offer partial or full reimbursement of registration costs to those for
+whom registration expenses present a barrier to attendance. At this
+time, we cannot gauge the level of reimbursement we will be able to
+provide, or guarantee that all need will be met, and we are,
+unfortunately, unable to waive registration fees in advance.
+Applications are kindly requested by August 31, and can be completed 
+through this Google form:
+
+https://forms.gle/KGj5XD8GsLp4RMyo9
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P006: CLAY-SULFATE TRANSITIONS AS INDICATORS OF CLIMATE
+CHANGE ACROSS MARS
+
+Mapping of Mars' surface has revealed associations between
+phyllosilicate minerals and older terrains, and between sulfate
+minerals and younger terrains. This arrangement is hypothesized to be
+evidence for planetary-scale climate change, from conditions that
+favored the formation of phyllosilicates (e.g., higher water/rock
+ratio, moderate pH) to those that favored sulfates (e.g., lower
+water/rock ratio, lower pH). In early 2021, Curiosity began traversing
+through a region that orbital data suggest records such a mineralogical
+transition in a single stratigraphic sequence. Curiosity has
+investigated over 400 vertical meters of strata dominated by
+phyllosilicate-bearing, lacustrine mudstone. However, spectra from the
+CRISM and OMEGA instruments imply that the rover will soon reach strata
+with variable abundances of mono- and polyhydrated sulfates. We invite
+presentations on Curiosity results and those that provide context, such
+as what has been learned from orbit, in situ exploration of
+phyllosilicate- and sulfate-bearing strata, and laboratory or field
+analog studies.
+
+We welcome your submissions by August 4:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/121726
+
+Ashwin R. Vasavada, NASA Jet Propulsion Laboratory/Caltech
+Michael A. Meyer, NASA Headquarters
+Becky McCauley Rench, NASA Headquarters
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P003: ATMOSPHERIC DYNAMICS AND ASTRO-/GEO-PHYSICAL MODELING
+STUDIES OF HABITABLE OCEAN WORLDS, MOONS, AND ATMOSPHERES NEAR AND FAR
+
+The realm of Geophysical and Astrophysical Fluid Dynamics (GAFD) has
+significantly expanded in phase space to include a wide variety of
+physical regimes. Models originally developed for phenomena on Earth
+and the Solar System are now being applied to exoplanets. Atmospheric
+circulation models are being tested against new observational
+constraints, as from the Juno Mission. On the other Reynolds number
+extreme, modeling convection in ice shells offer explanations for
+geological features on the surfaces of ocean worlds across the Solar
+System. In addition, astrophysical tools are now being applied to
+planetary science problems. This session aims to bring together a wide
+cross-section of these diverse communities that use a variety of
+practices and methods. We expect an engaging session that focuses on
+new results in exoplanetary and Solar System science, as well as
+computational methodology.
+
+This session honors Adam Showman (1968-2020) by representing the broad
+research topics studied by during his career. 
+
+The abstract submission deadline is August 4:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/122739
+
+More information: Tad Komacek (tkomacek@uchicago.edu). 
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION A032: CHEMICAL PHYSICS INSIGHTS INTO ATMOSPHERIC AND 
+PLANETARY CHEMISTRY
+
+We would like to draw your attention to a chemical physics/physical
+chemistry session at American Geophysical Union (AGU) Fall meeting
+2021, entitled Chemical Physics Insights into Atmospheric and Planetary
+Chemistry. Tackling the most demanding, unresolved problems in
+atmospheric and planetary chemistry requires broad collaboration.
+Fundamental science results obtained from detailed, state-of-the-art
+experimental, theoretical, and computational studies complement and
+facilitate our understanding of the holistic, more complex chemical
+environments of simulation chamber studies and atmospheric observations
+(both in situ and remote sensing). Through this session, we hope to
+bring more theoretical and experimental scientists from physical
+chemistry and chemical physics to AGU. The session aims to foster new
+interdisciplinary discussions and collaborations, as well as to share
+fundamental insights into timely topics in atmospheric and planetary
+chemistry.
+
+The abstract submission deadline is August 4:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/117692
+
+We hope you will join us!
+
+Rebecca Caravan
+Stephen Klippenstein
+Marsha Lester
+Frank Winiberg
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P008: ENCELADUS - BEACON OF OCEAN WORLDS
+
+Saturn's moon Enceladus continues to captivate. Its diversity of ocean
+world processes offers a bounty of phenomena for fundamental science,
+including cryovolcanism and plume dynamics, surface geology and the
+tectonics of ice, tidal heating, interior structure, ocean circulation
+dynamics, water-rock geochemistry, hydrothermal systems, the origin and
+evolution of icy bodies, and much more. Enceladus is a gateway to alien
+oceans. Furthermore, Enceladus is one of the prime destinations for
+astrobiology, because of the easy access to ocean-derived materials,
+and because it appears to be tantalizingly habitable. Many of us are
+now asking how Enceladus can support life, and how might we search for
+evidence of life?
+
+This hybrid session (in person and virtual options) brings our diverse
+community together to discuss the current state of understanding of all
+things Enceladus. We also welcome contributions that contextualize
+Enceladus with other areas of Earth and Planetary Sciences, or provide
+perspectives on the future of Enceladus exploration.
+
+Please submit your abstract by August 4 at:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/124708
+
+Chris Glein (Southwest Research Institute)
+Emily Martin (Smithsonian Institution)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P037: THE NEW MARS UNDERGROUND - ASTROBIOLOGY AND SPACE 
+RESOURCES AT THE DAWN OF MARS SAMPLE RETURN
+
+The next era of Mars exploration has begun, with current and future
+missions highlighting the importance of subsurface science for sample
+return, astrobiology, and human exploration. Signs of recent
+groundwater and active gas emissions have been identified by the
+Curiosity rover. Martian subsurface structure is probed with
+unprecedented precision via seismic and ground-penetrating radar
+measurements by the InSight lander and Perseverance rover. Caches for
+Mars Sample Return will include past subsurface materials that are now
+exposed at the surface. Future subsurface-oriented Mars missions will
+revolutionize our understanding of martian habitability, climate, and
+geologic history. These missions will apply technologies for
+prospecting and accessing in situ resources on Mars, enabling human
+exploration, and testing technologies for subsurface exploration
+of other planetary bodies. We invite submissions describing
+investigations of the martian subsurface, analog terrestrial deep
+biosphere sites, and subsurface exploration of other planetary bodies.
+
+Abstract deadline is August 4:
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/119935
+
+Jesse Tarnas (Jet Propulsion Laboratory)
+Ana-Catalina Plesa (German Aerospace Center, DLR)
+Rachel Lee Harris (Harvard University)
+
+[Edited for length]
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P024: PALEOHYDROLOGY AND FLUVIAL DYNAMICS OF MARTIAN 
+CHANNELS
+
+Martian channels have been studied at increasing spatial resolution
+over the past two decades enabling compelling interpretations of
+extra-terrestrial fluvial processes. Paleodeltas that may follow
+gravitational equipotential surfaces have been uncovered, along with
+possible Noachian precipitation-driven fluvial activity. Exceptionally
+preserved fluvial morphologies on Mars display complexities that offer
+a window into the character and dynamics of the surface paleohydrology
+from when they were active. Evidence is building for the possibilities
+of periglacial fluvial systems and oceans. Additionally, comparative
+morphological studies between Earth and Mars may yield insights into
+flow characteristics. While paleochannels have been examined to
+interpret paleohydrology and paleoclimate in numerous works,
+quantitative analysis of channel dynamics, especially temporal
+evolution of the hydrology underlying positive relief channels, remains
+under-explored. Accordingly, we welcome abstracts on interpreting the
+temporal evolution of martian channels, including those associated with
+landforms (e.g., alluvial fans and deltas), as well as on underlying
+climatic variations.
+
+Abstract submission deadline is August 4: 
+
+https://agu.confex.com/agu/fm21/prelim.cgi/Session/121274
+
+Catherine Russell
+Frances Rivera-Hernandez
+Adam Forte, Kory Konsoer
+Suniti Karunatillake
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EUROPEAN SOLAR SYSTEM PLASMA COMMUNITY (ESSPC)
+
+Over the last few years the need for the organization of the European 
+Solar System Plasma Community (ESSPC) has been discussed throughout 
+the community.
+
+To continue coordination across the related fields that include
+ionospheric and magnetospheric physics, planetary magnetospheric
+environments, solar wind plasma, cometary plasmas, and solar plasmas,
+we would like to invite the members of the European community and those
+who are interested in collaborating with the European Solar System
+Plasma community, to join our mailing list.
+
+We are currently planning a meeting to discuss how to move forward with
+coordination across disciplines, countries, and agencies, as well as
+how to set up European priorities and objectives. Additionally, we will
+discuss the name of the group and how we can organize future meetings
+and other community events and activities. The details of the meeting
+will be announced through the mailing list. 
+
+To subscribe to the email list please send an email to
+esspc-on@gfz-potsdam.de. If at any time you wish to unsubscribe, simply
+send an email to esspc-off@gfz-potsdam.de.
+
+You can join our slack channel: 
+
+solarplasmacommunity.slack.com
+
+Further information can be found on the ESSPC website: 
+
+www.esspc.eu
+
+[Edited for length]
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+POSTDOCTORAL SCHOLAR POSITIONS AT NORTHERN ARIZONA UNIVERSITY IN
+PLANETARY SCIENCE
+
+The PIXEL research group in the department of Astronomy and Planetary
+Science at Northern Arizona University seeks two (2) postdoctoral
+scholars to join our vibrant research team. The successful candidates
+are expected to publish scientific papers and are encouraged to lead
+the submission of proposals for external funding. The successful
+candidates will work closely within the broader research group and may
+choose to mentor undergraduate and/or graduate students, though this is
+not explicitly required. We seek candidates to work in multiple areas,
+including field analog research and complementary laboratory studies,
+remote sensing of planetary surfaces, specifically Mars, and to carry
+out mission operation roles.
+
+Minimum Qualifications:
+- A Ph.D. in geoscience/remote sensing/planetary science or a related
+  field
+- Experience with thermal infrared/visible-near infrared/visible remote
+  sensing data of planetary surfaces, especially of Mars
+- Experience with commonly used planetary science software packages
+  (including, ISIS, IDL, Python, etc.)
+
+For more details related to the preferred qualifications for each
+position and to apply please visit:
+
+https://bit.ly/36WBbxY
+
+Application deadline: August 6, 2021
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+JOB ANNOUNCEMENT: PH.D. STUDENT TO DEVELOP A CHON+PS CHEMICAL SCHEME
+VALIDATED AT HIGH TEMPERATURES WITH APPLICATIONS IN PLANETOLOGY
+
+The broad wavelength coverage and high-sensitivity of the instruments
+on-board the JWST and Ariel telescopes will allow us to extract much
+more information from their data than what has been possible so far,
+leading to numerous breakthroughs. However, these breakthroughs will be
+possible only if the models used to interpret the observations are
+robust and reliable, in particular, photo-thermochemical models. While
+models taking into account Carbon, Hydrogen, Oxygen, and Nitrogen
+species (CHON) already exist, Sulfur- and Phosphorous-bearing molecules
+can affect the observations of exoplanets' atmospheres and thus need to
+be incorporated in models. The PhD candidate will develop a
+comprehensive CHON+PS scheme and will apply this scheme to the study of
+exoplanetary atmospheres, using a kinetic model.
+
+We are looking for an extremely motivated student who will be fully
+involved in a challenging interdisciplinary project linking the fields
+of combustion and astrophysics. The PhD candidate will have a double
+expertise, both in chemical schemes development and in atmospheric
+modeling.
+
+More information can be found here: 
+
+https://www.dropbox.com/s/tao2sfs68mnj2p5/PhD_EXACT_ANR2021_EN.pdf?dl=0
+
+[Edited for length]
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+TWO POSTDOCTORAL POSITIONS, PLANETARY RADAR GROUP, ARECIBO OBSERVATORY
+
+Two postdoctoral scientist positions are available in the planetary
+radar group at the Arecibo Observatory, Puerto Rico. The research
+emphasis of the group is the study and characterization of near-Earth
+objects and other Solar System bodies. The incumbents will be expected
+to participate in radar data processing, analysis, and modeling of
+near-Earth asteroids and other Solar System bodies observed using the
+Arecibo planetary radar system. We encourage applications from
+candidates with experience in any type of small bodies observations or
+research. Experience with radar observations and techniques,
+programming languages, and Linux systems is preferred but not required.
+
+For more information, visit: 
+
+https://bit.ly/3iEHawA
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Science Goals and Objectives for the Dragonfly Titan Rotorcraft
+Relocatable Lander
+Jason W. Barnes et al. 2021 PSJ 2:130
+https://doi.org/10.3847/PSJ/abfdcf
+
+Six Outbursts of Comet 46P/Wirtanen
+Michael S. P. Kelley et al. 2021 PSJ 2:131
+https://doi.org/10.3847/PSJ/abfe11
+
+The Science Case for a Return to Enceladus
+Morgan L. Cable et al. 2021 PSJ 2:132
+https://doi.org/10.3847/PSJ/abfb7a
+
+Hydroxide Salts in the Clouds of Venus: Their Effect on the Sulfur
+Cycle and Cloud Droplet pH
+Paul B. Rimmer et al. 2021 PSJ 2:133
+https://doi.org/10.3847/PSJ/ac0156
+
+Chandrayaan-2 Dual-frequency Synthetic Aperture Radar (DFSAR):
+Performance Characterization and Initial Results
+Sriram S. Bhiravarasu et al. 2021 PSJ 2:134
+https://doi.org/10.3847/PSJ/abfdbf
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.  
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

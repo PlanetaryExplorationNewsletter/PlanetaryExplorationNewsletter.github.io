@@ -1,0 +1,540 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 18 (April 30, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Registration Open for 2023 Hybrid PlanetInsitu Workshop, Within the 
+   Brines Conference
+2. [NASA] ROSES-23 Amendment 18: C.25 Hera Participating 
+   Scientist Program TBD Placeholder
+3. [NASA] ROSES-23 Amendment 19: B.5 Living with a Star Science Final 
+   Text and Due Dates
+4. Request for Feedback on Mars Sample Depot Workshop
+5. SBAG Steering Committee Positions
+6. Job Announcement: Life Detection Scientist at NASA Goddard
+7. Job Announcement: Instrument Development Civil Service Position 
+   at NASA Goddard
+8. Postdoctoral Assistant Researchers in the Planetary and Space 
+   Sciences at the University of Hawai'i
+9. NASA Postdoctoral Program
+10. ALMA Cycle 10 Call for Proposals
+11. Astrobiology SciComm Guild May 2023 Meeting: Broadening 
+    Participation in STEM by Focusing on Identity Development
+12. Early Career Travel Grants and Abstract Extension for the Uranus 
+    Flagship Workshop
+13. Gerald A. Soffen Memorial Fund Travel Grant Announcement
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+REGISTRATION OPEN FOR 2023 HYBRID PLANETINSITU WORKSHOP, WITHIN THE 
+BRINES CONFERENCE
+ 
+Folks are invited to participate in the first 2023 hybrid workshop on
+Optimizing Planetary In Situ Surface-Atmosphere Interaction
+Investigations (PlanetInsitu), held in conjunction with the Ancient &
+Future Brines Conference.
+ 
+This one-day workshop, held virtually and in Reno, NV on Thursday, May
+18 (within the Brines conference) will include lightning talks about
+instrument and operations concepts under-development, panel discussions
+about observation site selection considerations and avoiding
+spacecraft-induced perturbations. Folks registered with the Brines
+conference do not need to separately register for this workshop.
+ 
+Other community members interested in participating in the Thursday
+presentations/discussion can register (for free) at:
+ 
+https://tinyurl.com/yubxeh54
+ 
+As we can accommodate a limited number of virtual attendees, those that
+would observe only should wait for recordings of the workshop to be
+posted on the PlanetInsitu website:
+ 
+https://planetinsitu.space/planet-in-situ-at-brines/
+ 
+The Brines conference website is at:
+ 
+https://www.hou.usra.edu/meetings/ancientfuturebrines2023/
+ 
+If you are interested in attending in-person and able to demonstrate
+a relevant technology during the Brines fieldtrip on Friday, May 19,
+please indicate this on the registration and note the travel grants
+available for U.S. persons, with deadline May 3.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] ROSES-23 AMENDMENT 18: C.25 HERA PARTICIPATING SCIENTIST 
+PROGRAM TBD PLACEHOLDER
+
+The Hera mission is Europe's contribution to the international 
+planetary defense demonstration that was initiated by NASA's Double 
+Asteroid Redirection Test (DART). Hera is planned to launch in 2024 
+and arrive at the Didymos system in 2026 to perform a close-up survey 
+of both asteroids, measuring their masses and compositions, and 
+assessing the changes caused by DART. If solicited, C.25 Hera 
+Participating Scientist Program (PSP) will be the sole vehicle by 
+which NASA will support U.S. scientists participating on the Hera 
+Investigation Team as international members.
+
+ROSES-2023 Amendment 18 adds a TBD placeholder for the new program 
+element C.25 Hera Participating Scientist Program (PSP). If proposals 
+are solicited, it is anticipated that the final text for this program 
+element will be released no fewer than 90 days prior to the proposal 
+due date.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions concerning C.25 Hera PSP may be directed to Thomas Statler 
+at thomas.s.statler@nasa.gov.
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-23 AMENDMENT 19: B.5 LIVING WITH A STAR SCIENCE FINAL 
+TEXT AND DUE DATES
+
+The goal B.5 Living with a Star Science (LWS) is to provide advances 
+in scientific understanding of the coupled Sun-Earth system that can 
+lead to predictive capability of the space environment conditions at 
+Earth, other planetary systems, and in the interplanetary medium. 
+Every year the LWS Science program element solicits Focused Science 
+Topics that address some part of this goal.
+
+This year the Focused Science Topics are:
+1. Understanding Ionospheric Conductivity and its Variability;
+2. Synergistic View of the Global Magnetosphere; and
+3. Evolution of Coronal Mass Ejections in the Corona and Inner 
+   Heliosphere
+
+ROSES-2023 Amendment 19 releases final text and due dates for B.5 LWS. 
+Step-1 proposals are due by August 15, 2023, and Step-2 proposals are 
+due November 7, 2023.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions concerning B.5 LWS may be directed to John McCormack at 
+john.p.mccormack@nasa.gov.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REQUEST FOR FEEDBACK ON MARS SAMPLE DEPOT WORKSHOP
+
+The Planetary Science Advisory Committee (PAC) has, at several times, 
+expressed concerns about the level and nature of planetary community 
+involvement as NASA makes programmatic decisions. A recent example of 
+an interaction between NASA and the community regarding a major NASA 
+decision was the Mars 2020/MSR Sample Depot Science Community Workshop 
+held September 28 & 30, 2022. Although this was not a MEPAG-sponsored 
+meeting, the PAC has invited MEPAG to comment on the quality of the 
+interaction between NASA and the planetary science community and 
+whether there are lessons learned (good or bad) for similar 
+interactions in the future; another question is whether the approach 
+taken at that meeting could be used as an example for other community 
+engagement activities. If you attended the Sample Depot Workshop, it 
+would be very helpful to the planetary science community if you would 
+fill out the survey at the link below. All answers will remain 
+anonymous. Please note that we are not inquiring about the merits of 
+the workshop itself or the decisions made there.
+
+The deadline for responding is May 12, 2023.
+
+https://forms.gle/pAQtcEVwPDacdGxW6
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+SBAG STEERING COMMITTEE POSITIONS
+
+Small Bodies Assessment Group (SBAG) seeks applications for the SC 
+(3-year terms). The Steering Committee (SC) organizes SBAG meetings, w
+rites official findings, and takes a leadership role in other 
+activities where community input is needed.
+
+1. Human Exploration Lead: An individual actively involved in studying 
+   human exploration, aware of current challenges and advances in the 
+   field, to lead SBAG activities relevant to human exploration.
+
+2. Early Career Secretary (2.5-yr term): A person to support the SC in 
+   all aspects of its meetings and operation, with <3 years 
+   experience after a terminal degree.
+
+3. Three at-large members: Any small bodies community member from any 
+   career stage is welcome.
+
+The application requires: 1) a two-page CV, including a description of 
+participation in SBAG or other small bodies organizations, 2) a short 
+(300 words maximum) statement of interest. Criteria for selection 
+includes participation in small bodies community organizations, 
+leadership experience, and relevant research/mission experience.
+
+In support of diversity, applicants may specify gender, whether they 
+belong to an underrepresented group in STEM, or other relevant 
+information.
+
+E-mail applications to Lori Feaga (feaga@astro.umd.edu) by May 5, 
+2023, 8:00 PM EDT. New members will be announced at the 29th Meeting 
+of SBAG (July).
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+JOB ANNOUNCEMENT: LIFE DETECTION SCIENTIST at NASA GODDARD
+
+The Astrochemistry Laboratory of the Solar System Exploration Division 
+at NASA Goddard Space Flight Center (GSFC) is seeking a full-time 
+research scientist specializing in life detection science who would 
+work to connect theories of life and biological search patterns to 
+measurable parameters and contribute to future mission concepts. The 
+successful candidate will work closely with life detection instrument 
+technology developers to conceive of measurement approaches that are 
+well connected to fundamental, robust theories or models of biology 
+and life signatures. This research position entails developing 
+productive collaborative relationships, leading ground-breaking 
+research, and providing input into future mission/instrument design. 
+This is a GS-13/14 level civil servant position located at 
+NASA-Goddard in Greenbelt, Maryland near Washington, DC. As a 
+government position, individuals must have US citizenship at time of 
+application.
+
+A full vacancy announcement, which contains further information 
+including qualification requirements and application instructions, 
+will be posted on May 4 and remain open for two weeks. Go to:
+
+https://www.usajobs.gov
+
+The period that the announcement is open is due to the type of hiring 
+authority and not a reflection of the openness of the position.
+
+For additional information contact: Dr. Natasha Johnson, 
+natasha.m.johnson@nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+JOB ANNOUNCEMENT: INSTRUMENT DEVELOPMENT CIVIL SERVICE POSITION AT 
+NASA GODDARD
+
+The Science and Exploration Directorate, Heliophysics Division, 
+Geospace Physics Laboratory (Code 673) at NASA's Goddard Space Flight 
+Center (GSFC) is seeking a Research Astrophysicist with a focus on 
+instrument development. The successful candidate would join NASA as a 
+civil servant scientist to conceive, design and build instrumentation 
+to measure neutral and/or ionized particles or fields onboard NASA 
+strategic missions. Lab members are developing instruments for the 
+Lunar Gateway, the International Space Station, the Geospace Dynamics 
+Constellation mission, cubesats, sounding rockets, balloons, and 
+payloads for the Moon to Mars program.
+
+The full vacancy announcement will be posted on April 28, 2023, to:
+
+https://www.usajobs.gov/job/719067700
+
+It close on May 2 at 11:59pm EST. This is a GS-13 or GS-14 level 
+position (US citizens only) with annual salary in the range $112,015 - 
+$172,075, depending on experience and qualifications. Applicants must 
+describe experience that meets the qualifications section of the 
+announcement and demonstrates competencies in designing and building 
+instrumentation used for space flight.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOCTORAL ASSISTANT RESEARCHERS IN THE PLANETARY AND SPACE SCIENCES 
+AT THE UNIVERSITY OF HAWAI'I
+
+The School of Ocean and Earth Sciences and Technology and Institute 
+for Astronomy at the University of Hawai'i at Manoa are studying the 
+behavior of the light elements (CHNOPS) critical to habitability and 
+life during planet formation. We are recruiting outstanding 
+postdoctoral researchers to conduct interdisciplinary/synergistc 
+research related to high-pressure mineral physics and planetary 
+interiors, cosmochemistry and meteoritics, protoplanetary disks and 
+planet formation, and/or exoplanet astronomy. Successful applicants 
+will join a team of experts in astronomy and Earth/planetary sciences 
+as part of a NASA-funded multi-institutional Interdisciplinary 
+Consortium for Astrobiology Research (ICAR), and have access to Mauna 
+Kea telescopes and cutting-edge instruments for laboratory 
+investigation of planetary materials. Applications must have a PhD in 
+astronomy/astrophysics, or planetary/Earth sciences. Appointments are 
+initially for one year, with an additional two years contingent on 
+satisfactory performance.
+
+Benefits include a competitive salary commensurate with experience 
+plus full benefits, PI status with the ability to write grant 
+proposals, mentoring on proposal writing, research organization, 
+student supervision and instruction, and the opportunity to 
+participate in public engagement, education, and outreach events. 
+Inquiries: Eric Gaidos (gaidos@hawaii.edu).
+
+To apply (Job Posting ID#223279):
+
+https://www.rcuh.com
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL PROGRAM
+
+The NASA Postdoctoral Program offers US and international scientists 
+the opportunity to advance their research while contributing to NASA's 
+scientific goals. The NPP supports fundamental science; explores the 
+undiscovered; promotes intellectual growth; and encourages scientific 
+connections. 
+
+Selected by a competitive peer-review process, NPP Fellows complete 
+one- to three-year Fellowship appointments that advance NASA's 
+missions in Earth science, planetary science, heliophysics, 
+astrophysics, biological and physical science, aeronautics and 
+engineering, human exploration systems, space operations, space 
+technology, and astrobiology. 
+
+Search for NPP research opportunities in planetary science here:
+
+https://npp.orau.org/applicants/opportunities.html
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. Please see current eligibility requirements:
+ 
+https://npp.orau.org/applicants/eligibility.html
+
+Stipends start at $70,000 per year, with supplements for higher 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$10,000 per year is provided for travel and professional development.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1. 
+
+For further information and to apply, visit:
+
+https://npp.orau.org/applicants/index.html
+
+Questions:
+npp@orau.org
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+ALMA CYCLE 10 CALL FOR PROPOSALS
+
+The ALMA Director, on behalf of the Joint ALMA Observatory and the 
+partner organizations in East Asia, Europe, and North America, is 
+pleased to announce that the ALMA Cycle 10 Call for Proposals for 
+scientific observations is now OPEN
+
+https://almascience.nrao.edu/proposing/call-for-proposals
+
+ALMA Cycle 10 is currently scheduled for observations from October 
+2023 to September 2024. Users of any nationality or affiliation are 
+invited to submit proposals before the deadline of 15:00 UT on 
+Wednesday 10 May 2023.
+
+On the 12-m Array, antenna configurations C-1 to C-8 (with maximum 
+baselines between 0.16 and 8.5 km) will be offered. It is anticipated 
+that 4300 hours will be allocated on the 12-m Array and 4300 hours on 
+the Atacama Compact Array (ACA), also known as the Morita Array. 
+Projects with observations in the highest-frequency Bands 8, 9, and 10 
+are strongly encouraged. Proposers are also encouraged to submit ACA 
+stand-alone projects, especially in the LST range of 20h to 10h.
+
+For more information about the Call, to download the ALMA Observing 
+Tool, and to access all the Cycle 10 documentation, visit the ALMA 
+Science Portal at:
+
+https://www.almascience.org/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+ASTROBIOLOGY SCICOMM GUILD MAY 2023 MEETING: BROADENING PARTICIPATION 
+IN STEM BY FOCUSING ON IDENTITY DEVELOPMENT
+
+The Astrobiology SciComm Guild is an initiative of the NASA 
+Astrobiology Program office. Our mission is to support the 
+astrobiology community as evolving science communicators, by 
+leveraging SciComm and professional development opportunities for 
+members while serving DEIA ideals. For our next monthly meeting, we 
+invite you to attend NSF's STEM for All Multiplex Panel, "Broadening 
+Participation in STEM by Focusing on Identity Development" on Tuesday, 
+May 2 at 12 Pacific / 3 Eastern time. This NSF-hosted webinar will 
+focus on identity development and its importance and relationship to 
+persistence in STEM for underrepresented minorities. The projects 
+highlighted will address challenges and barriers to identity 
+development, illuminate best practices, and disseminate impacts to 
+advance the body of work in this area. To attend this meeting, please 
+first become a member (by contacting svetlana.shkolyar@nasa.gov) and 
+then register here to receive connection details, additional info 
+about the meeting, and to learn how you can join the live chat 
+discussion on our Slack page:
+
+https://tinyurl.com/52xr7fa8
+
+Visit our new Guild website to learn more and see recordings of 
+previous meetings:
+
+https://astrobiology.nasa.gov/resources/scicomm-guild/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+EARLY CAREER TRAVEL GRANTS AND ABSTRACT EXTENSION FOR THE URANUS 
+FLAGSHIP WORKSHOP
+
+The organizers of the "Uranus Flagship: Investigations and Instruments 
+for Cross-Discipline Science" workshop, to be held in Pasadena, 
+California, 25-27 July 2023, announce that:
+
+1) The abstract deadline has been extended to 4 May 2023.
+2) There is limited funding available to cover some of the expenses of 
+   early career attendees.
+
+Please see the meeting website for details:
+
+https://www.hou.usra.edu/meetings/uranusflagship2023/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+GERALD A. SOFFEN MEMORIAL FUND TRAVEL GRANT ANNOUNCEMENT
+
+The Gerald A. Soffen Memorial Fund is pleased to announce the Spring 
+2023 Travel Grant application opportunity for undergraduate and 
+graduate students pursuing studies in fields of space science and 
+engineering. 
+
+The Travel Grants enable student recipients to attend professional 
+conferences to present their research. Recipients may use the Grant 
+for either virtual or in-person conferences. The Soffen Fund will 
+award up to $1000 in total, with no individual award greater than 
+$500, to cover expenses related to presenting research at either a 
+virtual or in-person conference. The number of awards will depend on 
+applicants' needs.
+
+The Spring 2023 Travel Grant application deadline is May 8, 2023. 
+Jerry Soffen, a biologist by training, led a distinguished career in 
+NASA, including serving as the Project Scientist for Viking and as an 
+architect for the NASA Astrobiology Institute. The Travel Grant 
+continues Jerry's dedication to educating and involving future 
+generations in space science and engineering pursuits. The electronic 
+application materials and instructions are located on the Soffen Fund 
+website: 
+
+https://soffenfund.org
+
+Questions regarding the application or application process may be sent 
+to:
+
+ec@nasa-academy.org
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Traveling Planetary-scale Waves Cause Cloud Variability on Tidally
+Locked Aquaplanets
+Maureen Cohen et al. 2023 PSJ 4:68
+https://doi.org/10.3847/PSJ/acc9c4
+
+ASSIST: An Ephemeris-quality Test-particle Integrator
+Matthew J. Holman et al. 2023 PSJ 4:69
+https://doi.org/10.3847/PSJ/acc9a9
+
+Sodium Brightening of (3200) Phaethon near Perihelion
+Qicheng Zhang et al. 2023 PSJ 4:70
+https://doi.org/10.3847/PSJ/acc866
+
+Approaches for Retrieving Sulfur Species Abundances from Dual X-Ka-
+band Radio Occultations of Venus with EnVision and VERITAS
+Alex B. Akins et al. 2023 PSJ 4:71
+https://doi.org/10.3847/PSJ/accae3
+
+Simulation of Space Weathering on Asteroid Spectra through Hydrogen
+Ion Irradiation of Meteorites
+Lakshika Palamakumbure et al. 2023 PSJ 4:72
+https://doi.org/10.3847/PSJ/acc848
+
+The Evolution of Activity and Chemical Composition in Rosetta's Comet
+Targets across Multiple Apparitions: Complications for CS2
+as the CS Parent in Comet Nuclei
+John W. Noonan et al. 2023 PSJ 4:73
+https://doi.org/10.3847/PSJ/accb58
+
+Toward 3D Retrieval of Exoplanet Atmospheres: Assessing Thermochemical
+Equilibrium Estimation Methods
+Michael D. Himes et al. 2023 PSJ 4:74
+https://doi.org/10.3847/PSJ/acc939
+
+Phase Curves of Kuiper Belt Objects, Centaurs, and Jupiter-family
+Comets from the ATLAS Survey
+Matthew M. Dobson et al. 2023 PSJ 4:75
+https://doi.org/10.3847/PSJ/acc463
+
+A High Spatial and Spectral Resolution Study of Jupiter's Mid-infrared
+Auroral Emissions and Their Response to a Solar Wind Compression
+James A. Sinclair et al. 2023 PSJ 4:76
+https://doi.org/10.3847/PSJ/accb95
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+* 
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

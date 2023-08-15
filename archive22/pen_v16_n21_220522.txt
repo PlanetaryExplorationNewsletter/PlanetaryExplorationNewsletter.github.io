@@ -1,0 +1,514 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 16, Number 21 (May 22, 2022)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Alex Morgan, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Happy Birthday PEN!
+2. GSA Session T99: The Interplay of Volcanism, Tectonism, and Impacts 
+   Across the Solar System
+3. [NASA] ROSES-22 Amendment 18: Final Text and Due Dates for 
+   Interdisciplinary Consortia for Astrobiology Research
+4. [NASA] ROSES-22 Amendment 19: Martian Moons eXploration Mission 
+   Participating Scientist Program Final Text and Due Dates
+5. [NASA] ROSES-22 Amendment 20: Space Weather Centers of Excellence 
+   Final Text and Due Dates
+6. [NASA] Due Date for Science Mission Directorate Bridge Program 
+   Workshop Organizing Committee Nominations Extended to June 1
+7. [NASA] PDS: Mars Atmosphere and Volatile Evolution Data Release 29
+8. Research Space Scientist Position at NASA Goddard Space Flight 
+   Center
+9. Atmospheric Scientist Position at NASA Goddard Space Flight Center
+10. 2022 Post-Doctoral Fellow - Geophysical Techniques for Off-World 
+    Resource Surveys
+11. [NASA] Small Bodies Assessment Group Meeting #27
+12. Mars Exploration Science Program Newsletter for May 2022
+13. University of Chicago Postdoc 
+14. Planetary Meeting Calendar Additions
+15. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+HAPPY BIRTHDAY PEN!
+
+The first Planetary Exploration Newsletter was sent out on May 24, 
+2007 as a service to the community by the Planetary Science Institute.
+Since that day, we have published 852 issues covering planetary related
+meeting announcements, jobs, proposal solicitations, upcoming events,
+government policy announcements, memorials, and commercial 
+announcements.
+
+Thanks to our volunteer editors from over the years:
+
+2007-Present, Mark V. Sykes
+2019-Present, Georgiana Kramer 
+2021-Present, Alex Morgan 
+2017-2021, Elisabeth Adams
+2016-2019, Karen Stockstill-Cahill
+2010-2017, Susan Benecchi
+2009-2016, Melissa Lane
+2007-2010, Nic Richmond
+2007-2009, Matt Balme 
+
+It's been a lot of weekends!
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+GSA SESSION T99: THE INTERPLAY OF VOLCANISM, TECTONISM, AND IMPACTS 
+ACROSS THE SOLAR SYSTEM
+
+Volcanism and tectonism are two of the major processes responsible for 
+shaping the surfaces of terrestrial planets, main-belt asteroids, and 
+icy satellites alike. In addition to the interaction between these two 
+processes, large impacts can have a significant effect on how volcanism 
+and tectonism are expressed. We solicit a variety of contributed 
+presentations including those focused on observational, laboratory, 
+theoretical, or analog research into any aspect of planetary volcanic 
+and tectonic activity, including that moderated by the impact process 
+or its resultant landforms. 
+
+The deadline for abstract submission is July 19, 2022. The GSA 2022 
+hybrid meeting is scheduled for October 9-12 with the in-person 
+component hosted in Denver, CO.
+
+Additional information about the GSA Connects Annual Meeting and the 
+abstract submission portal can be found at:
+
+https://community.geosociety.org/gsa2022/home
+
+Please direct questions to the session conveners: Mallory Kinczyk 
+(mallory.kinczyk@jhuapl.edu) or Kelsey Crane 
+(kelseycrane@geosci.msstate.edu).
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] ROSES-22 AMENDMENT 18: FINAL TEXT AND DUE DATES FOR 
+INTERDISCIPLINARY CONSORTIA FOR ASTROBIOLOGY RESEARCH
+
+A wide array of NASA Science Mission Directorate flight missions 
+incorporate astrobiology goals and objectives. For this reason, with 
+C.20 Interdisciplinary Consortia for Astrobiology Research (ICAR) 
+solicits proposals responding to both the long-term goals and 
+objectives identified in the Astrobiology Strategy:
+
+https://tinyurl.com/4smbcses
+
+This is focused on ensuring that the NASA Astrobiology community is 
+prepared to respond to the challenge of planning and implementing these 
+missions. Accordingly, proposals that place emphasis on research that 
+will help prepare for current or future flight programs directed at 
+astrobiological targets are encouraged. Proposals must describe an 
+interdisciplinary approach to a single compelling question in 
+astrobiology, and address at least one aspect of the current Science 
+Strategy.
+
+Step-1 proposals are due September 15, 2022, and Step-2 proposals are 
+due January 10, 2023. Go to: 
+
+http://solicitation.nasaprs.com/ROSES2022
+
+Questions concerning C.20 ICAR may be directed to Mary Voytek at 
+Mary.A.Voytek@nasa.gov
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] ROSES-22 AMENDMENT 19: MARTIAN MOONS EXPLORATION MISSION 
+PARTICIPATING SCIENTIST PROGRAM FINAL TEXT AND DUE DATES
+
+The Martian Moons eXploration (MMX) mission Participating Scientist 
+Program (MMX-PSP) will support scientists at U.S. institutions to 
+participate on the MMX mission, which the Japan Aerospace Exploration 
+Agency (JAXA) is developing for launch in 2024. ROSES-2022 program 
+element C.24 MMX-PSP solicits proposals for science investigations to 
+be carried out during the primary flight and post-flight phases that 
+significantly enhance the overall knowledge obtained from the MMX 
+mission and that address outstanding questions directly related to 
+mission objectives. Two categories of investigations are solicited in 
+this call: Instrument Science and Sample Science.
+
+This amendment releases final text and due dates for MMX-PSP, which was 
+previously listed as TBD. Mandatory NOIs are due June 16, 2022, and 
+proposals are due August 16, 2022. Go to:
+
+http://solicitation.nasaprs.com/ROSES2022
+
+Questions concerning MMX-PSP may be directed to Thomas S. Statler at 
+thomas.s.statler@nasa.gov.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] ROSES-22 AMENDMENT 20: SPACE WEATHER CENTERS OF EXCELLENCE FINAL 
+TEXT AND DUE DATES
+
+This amendment releases final text and announces due dates for Space 
+Weather Centers of Excellence (SWxC), program element B.22 of ROSES-22, 
+which had been previously released as draft for community comment. The 
+changes between draft and final will be summarized in a FAQ downloadable 
+under "Other documents" on the NSPIRES page for this program element.
+
+B.22 Space Weather Centers of Excellence (SWxC) solicits proposals for 
+multi-institution, multi-/inter-/trans- disciplinary collaborations 
+(Centers) that address grand challenge goals of space weather that are 
+ambitious in scope and transformative in nature as part of an integrated 
+multi-agency initiative to advance the science and technology of space 
+weather. This program is intended to support research that cannot be 
+effectively done by individual investigators or small teams, instead 
+requiring the synergistic, coordinated efforts of a research center.
+
+Step-1 proposals are due June 21, 2022, and 25-page Step-2 proposals 
+are due August 25, 2022. Comments and questions concerning B.22 SWxC 
+may be to Jesse Woodroffe at jesse.r.woodroffe@nasa.gov. Go to: 
+
+http://solicitation.nasaprs.com/ROSES2022
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] DUE DATE FOR SCIENCE MISSION DIRECTORATE BRIDGE PROGRAM WORKSHOP 
+ORGANIZING COMMITTEE NOMINATIONS EXTENDED TO JUNE 1
+
+The SMD Bridge Program is a new initiative to improve diversity, 
+equity, inclusion and accessibility within the NASA workforce and 
+within the U.S. science and engineering community. SMD is soliciting 
+applications from interested individuals in the community for 
+participation as members of the SMD Bridge Program Workshop Organizing 
+Committee. Non-civil servant committee members will be compensated for 
+their time through an honorarium. The Committee will help set workshop 
+agenda(s), reach out to invited and contributed speakers, and provide 
+guidance on the effective recruitment and engagement from potential 
+stakeholders at all career levels, from student to institutional 
+administrators. 
+
+The due date for Applications for SMD Bridge Program Workshop 
+Organizing membership have been extended to 11:59 PM EDT June 1, 2022. 
+Only email applications of a single PDF file will be accepted. Please 
+submit your application via email to padi.boyd@nasa.gov.
+
+For further details, including the anticipated time commitment, and the 
+expected goals of the workshop, please visit: 
+
+https://science.nasa.gov/smd-bridge-program
+
+Questions about SMD Bridge Program Workshop Organizing Committee may be 
+addressed to Dr. Padi Boyd, SMD Bridge Program Director, at 
+padi.boyd@nasa.gov.  
+
+[Edited for length]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+[NASA] PDS: MARS ATMOSPHERE AND VOLATILE EVOLUTION DATA RELEASE 29
+
+The Planetary Data System (PDS) is pleased to announce the release of
+the following data from MAVEN (Mars Atmosphere and Volatile Evolution)
+Release 29, nominally with data to February 2022:
+
+- ANC (ancillary)
+- EUV (Extreme Ultraviolet Monitor)
+- IUVS (Imaging Ultraviolet Spectrograph)
+- KP (Insitu Key Parameters)
+- LPW (Langmuir Probe and Waves)
+- MAG (Magnetometer)
+- NGIMS (Neutral Gas and Ion Mass Spectrometer)
+- ROSE (Radio Occultation Science Experiment)
+- SEP (Solar Energetic Particle)
+- SPICE
+- STATIC (Supra-Thermal and Thermal Ion Composition)
+- SWEA (Solar Wind Electron Analyzer)
+- SWIA (Solar Wind Ion Analyzer)
+
+No more data is expected from: ACCEL (Accelerometer)
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20220515.shtml
+
+To access the latest PDS Data Releases, please visit the following 
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+RESEARCH SPACE SCIENTIST POSITION AT NASA GODDARD SPACE FLIGHT CENTER
+
+The Solar System Exploration Data Services Office at NASA Goddard 
+Space Flight Center is seeking a Research Space Scientist specializing 
+in Planetary Studies. Candidates would perform management duties for 
+actively accumulating scientific archives such as those within NASA's 
+Planetary Data System (PDS), with emphasis on developing and 
+utilizing Artificial Intelligence and Machine Learning techniques to 
+process and analyze large scientific datasets (e.g., PDS and other 
+SMD archives) and developing techniques and tools necessary for 
+enabling new scientific discoveries. Candidates would also study the 
+origin, composition, structure and evolution of our Solar System and 
+Extra-Solar System bodies using PDS and SMD-sponsored archives, 
+including regularly reporting the results of work to the community 
+through publications and other media. The job is open to all US 
+citizens.
+
+Applications are open between 5/20/2022 and 5/24/2022.
+
+https://www.usajobs.gov/GetJob/ViewDetails/655016900
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+ATMOSPHERIC SCIENTIST POSITION AT NASA GODDARD SPACE FLIGHT CENTER
+
+The Planetary Environments Lab at NASA Goddard Space Flight Center, 
+which studies the chemistry and astrobiology of the atmospheres and 
+surfaces of planetary bodies, is seeking a scientist who specializes 
+in planetary studies, with a strong emphasis on investigations of 
+upper atmospheres, ionospheres, and exospheres of our Solar System. 
+Candidates are expected to have experience in spacecraft mass 
+spectrometry techniques, including instrument ground and flight 
+calibrations, and data processing and interpretation. The job is open 
+to all US citizens.  
+
+Applications are open between 6/6/2022 and 6/20/2022.  
+
+https://www.usajobs.gov/job/652774100
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+2022 POST-DOCTORAL FELLOW - GEOPHYSICAL TECHNIQUES FOR OFF-WORLD 
+RESOURCE SURVEYS
+
+Join NASA, Defense Innovation Unit and USGS to explore new techniques 
+to find off-world resources. A new post-doctoral position will lead 
+teams from all three Agencies, testing techniques to detect 
+sub-surface resources off-world. You will use your expertise in 
+physics, engineering, geophysics or geology to design experiments in a 
+regolith testing lab, using assets from NASA Earth Exchange, NASA 
+Space Science Division laboratory facilities, SSERVI Lunar Lab, 
+USGS spectral libraries, and the USGS UAS Research/Engineering Lab.
+
+POCS: Jonathan Stock (USGS National Innovation Center), Jennifer 
+Heldmann (NASA Ames Research Center), Nirav Patel (Defense Innovation 
+Unit)
+
+Apply at the following website begin the journey: 
+
+https://tinyurl.com/2p8cp5db
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] SMALL BODIES ASSESSMENT GROUP MEETING #27
+
+Meeting #27 of the Small Bodies Assessment Group (SBAG) will take place 
+June 7-9, 2022 at the Residence Downtown Hotel in Washington DC, with a 
+virtual option. Registration is required, although there is no 
+registration fee. For full details including blocks for room 
+reservations and registration information, please visit:
+
+https://www.lpi.usra.edu/sbag/meetings/sbag-27/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR MAY 2022
+
+On behalf of R. Aileen Yingst (MEPAG Chair), Rich Zurek, Michael 
+Mischna, Brandi Carrier and Jonathan Bapst of the Mars Program Science 
+Office, the May, 2022 edition of the Mars Exploration Science Monthly 
+Newsletter can be found at: 
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference 
+schedule with postponements, cancellations, and conversions to virtual 
+meetings.
+
+We hope everyone remains safe and healthy within these stressful, 
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+UNIVERSITY OF CHICAGO POSTDOC
+
+The Department of Geophysical Sciences at The University of Chicago 
+seeks to hire a postdoctoral researcher to support investigations of 
+the habitability of exoplanets and/or Mars through modeling of 
+planetary atmosphere evolution and climate. The successful candidate 
+will work with Associate Professor Edwin Kite (sseh.uchicago.edu) to 
+construct new models for planetary atmosphere evolution and modify and 
+run existing models of planetary climate.
+
+Candidates should have experience working with models including 
+radiative transfer and/or planetary climate. An early start date is 
+preferred, however this is negotiable with the successful candidate.
+
+UChicago hosts a vibrant planets and exoplanets research program, with 
+particular emphasis on terrestrial and sub-Neptune exoplanets:
+
+https://tinyurl.com/4yfjfccy
+
+Application materials should be received by July 4 for full
+consideration. Applicants should send a CV, a brief description of
+research interests and experience, and a list of publications as a
+single PDF file to kite@uchicago.edu. Applicants should also arrange
+to have two letters of reference sent to this email address. Please 
+direct informal inquiries about this post to Edwin Kite
+(kite@uchicago.edu).
+
+This postdoctoral position will be for one year, with the possibility
+of renewal for a second year, and comes with a competitive salary and
+generous benefits.
+
+EoE/DV/Disability
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+July 4-8, 2022
+Hands-on Numerical Astrophysics School for Exoplanetary Sciences
+https://www.ita.uni-heidelberg.de/~dullemond/summerschool2022/index.html
+Heppenheim, Germany
+
+July 11-15, 2022
+Science with the Hubble and James Webb Space Telescopes VI: Entering 
+a Golden Age for UV - Optical - IR Space Astronomy
+https://tinyurl.com/mr2hbkps
+Stockholm, Sweden
+
+August 8-11, 2022
+Winds of Stars and Exoplanets
+https://tinyurl.com/mr69yzw3
+Busan, South Korea
+
+September 12-14, 2022
+(Exo)Planet Diversity, Formation and Evolution
+https://pfe-spp1992-joint-meeting.spp1992-exoplanetdiversity.de
+Berlin, Germany
+
+September 12-23, 2022
+Exo-Atmospheres
+https://tinyurl.com/2nrap948
+Les Houches, France
+
+November 2-4, 2022
+Lunar Polar Volatiles Conference 
+https://www.hou.usra.edu/meetings/lunarpolar2022/
+Houston, TX
+
+April 10-15, 2023
+Protostars and Planets VII
+http://ppvii.org
+Kyoto, Japan
+
+May 4-7, 2023
+4th International Planetary Caves Conference
+https://www.hou.usra.edu/meetings/4thcaves2023/
+Lanzarote, Spain
+
+August 7-11, 2023
+Asia-Pacific Regional IAU Meeting 2023
+https://www.aprim2023.org
+Koriyama, Japan
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+ 
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Discovery of the Closest Saturnian Irregular Moon, S/2019 S 1, and
+Implications for the Direct/Retrograde Satellite Ratio
+Edward Ashton et al. 2022 PSJ 3:107
+https://doi.org/10.3847/PSJ/ac64a2
+
+Resurfacing: An Approach to Planetary Protection for Geologically
+Active Ocean Worlds
+Michael DiNicola et al. 2022 PSJ 3:108
+https://doi.org/10.3847/PSJ/ac642d
+
+Detection of Radio Thermal Emission from the Kuiper Belt Object
+(486958) Arrokoth during the New Horizons Encounter
+M. K. Bird et al. 2022 PSJ 3:109
+https://doi.org/10.3847/PSJ/ac5d45
+
+A Near-surface Temperature Model of Arrokoth
+Orkan M. Umurhan et al. 2022 PSJ 3:110
+https://doi.org/10.3847/PSJ/ac5d3d
+
+Upper Limits on the Escape of Volatiles from (486958) Arrokoth Using
+New Horizons Alice Ultraviolet Spectrograph Observations
+G. Randall Gladstone et al. 2022 PSJ 3:111
+https://doi.org/10.3847/PSJ/ac6098
+
+A Predicted Dearth of Majority Hypervolatile Ices in Oort Cloud Comets
+C. M. Lisse et al. 2022 PSJ 3:112
+https://doi.org/10.3847/PSJ/ac6097
+
+OSSOS XXV: Large Populations and Scattering-Sticking in the Distant
+Trans-Neptunian Resonances
+B. L. Crompvoets et al. 2022 PSJ 3:113
+https://doi.org/10.3847/PSJ/ac67e0
+
+Reduced Atmospheres of Post-impact Worlds: The Early Earth
+Jonathan P. Itcovitz et al. 2022 PSJ 3:115
+https://doi.org/10.3847/PSJ/ac67a9
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, go to https://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*
+* To unsubscribe, send an email to pen_editor@psi.edu
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. For complete submission
+* directions, please go to https://planetarynews.org/submission.html 
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

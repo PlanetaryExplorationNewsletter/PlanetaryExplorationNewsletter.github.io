@@ -1,0 +1,229 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 14, Number 39 (September 20, 2020)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 43
+2. Machine Learning for Planetary Space Physics (ML4PSP) Series
+3. [NASA] Small Innovative Missions for Planetary Exploration (SIMPLEx) 
+   Opportunity Delayed
+4. The DPS Invites Applications to New Fund for Underrepresented 
+   Minority Communities in Planetary Science
+5. The Lunar Surface Innovation Consortium - Virtual Fall Meeting
+6. Planetary Meeting Calendar Additions
+7. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 43
+
+The NASA Planetary Data System announces Release 43 of data from the 
+Lunar Reconnaissance Orbiter mission. This release contains raw and 
+calibrated data products covering the nominal time period from 
+March 15, 2020, through June 14, 2020.
+
+Some instrument teams are delivering more recent data. The data are 
+archived at various PDS nodes:
+
+CRaTER at the PPI Node
+Diviner at the Geosciences Node
+LAMP at the Cartography and Imaging Sciences Node
+LEND at the Geosciences Node
+LOLA at the Geosciences Node
+LROC at the LROC Data Node
+Mini-RF at the Geosciences Node
+Radio Science at the Geosciences Node
+SPICE at the NAIF Node
+
+LROC RDRs will be available soon, though its EDRs and CDRs are ready.
+
+To access the above data by dataset, please visit:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20200915.shtml
+
+All data for LRO may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+LRO releases occur every three months. The next release is scheduled 
+for December 15, 2020.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MACHINE LEARNING FOR PLANETARY SPACE PHYSICS (ML4PSP) SERIES
+
+We want to extend an invitation to participate in a new seminar series 
+and community building effort in machine learning for planetary science 
+and space physics (ML4PSP). Our inaugural seminar will be on September 
+22, 2020 at 9 AM PST / 12 PM EST where we will have introductions to 
+the series by the seminar organizers (Abby Azari & Caitriona Jackman) 
+before hearing from Dr. Matthew James on a machine learning generated 
+3D model of Mercury's magnetosphere using the MESSENGER FIPS proton 
+moments.
+
+ML4PSP will meet monthly with two speakers per seminar. Topics will 
+primarily focus on intersections in machine learning, planetary 
+science, and space physics. We welcome presentations in adjacent 
+topics including Earth applied methods, data science education, and 
+basic machine learning research.
+
+To receive the Zoom link, ongoing invitations, and updates, please join 
+our listserv and community at: 
+
+http://ml4psp.github.io
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SMALL INNOVATIVE MISSIONS FOR PLANETARY EXPLORATION (SIMPLEX) 
+OPPORTUNITY DELAYED
+
+The next Small Innovative Missions for Planetary Exploration (SIMPLEx) 
+Opportunity is delayed with no new release date available at this time. 
+
+PSD remains committed to the goals of the SIMPLEx program, but several 
+factors require this delay. First, we have important existing 
+commitments that are of high priority based on the Decadal Survey that 
+we are working under. The inefficiencies related to COVID-19 only 
+enhance the pressure on our budget. Second, we are still learning from 
+this current round of selected SIMPLEx missions. Consistent with our 
+previous comments on these issues, we want to incorporate lessons from 
+these missions, including solicited feedback from the community, into 
+our approaches before starting the process for the next AO. In 
+particular, SMD needs to take stock of the procedures for selecting, 
+managing, and matching rideshare missions to primary missions so that 
+we maximize the opportunity for rideshare mission success. This delay 
+will allow NASA to communicate with various stakeholders to ensure 
+alignment going forward.
+
+PSD has asked the Decadal Survey for guidance on the future of the 
+SIMPLEx Program balanced with other priorities.
+
+Sincerely,
+
+Lori S. Glaze, Ph.D.
+Director, Planetary Science Division 
+NASA
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+THE DPS INVITES APPLICATIONS TO NEW FUND FOR UNDERREPRESENTED MINORITY 
+COMMUNITIES IN PLANETARY SCIENCE
+
+The DPS is offering funds to encourage and support participation of 
+students, scientists, and other space professionals who are members of 
+underrepresented racial and ethnic groups. In partnership with the 
+National Society of Black Physicists (NSBP), awards are available for 
+members of Black/African American, Indigenous, and/or Latinx 
+communities to support attendance at the annual DPS meeting and/or the 
+annual NSBP meeting. The fund is intended to support some travel (when 
+meetings are in person and not virtual) and meeting registration fees, 
+and applicants may also request coverage for society membership fees.
+
+Please see this link to apply; the application deadline is October 13, 
+2020:
+
+https://dps.aas.org/content/underrepresented-minority-communities-planetary-science-travel-grant-form
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+THE LUNAR SURFACE INNOVATION CONSORTIUM - VIRTUAL FALL MEETING
+
+The Lunar Surface Innovation Consortium (LSIC) Fall Meeting will be 
+held virtually on October 14-15, 2020. It will feature keynote 
+addresses, working sessions, and technical poster presentations. A 
+preliminary agenda is posted at: 
+
+http://lsic.jhuapl.edu/Events/102.php?id=102 
+
+It will be updated as additional detail are finalized. The event will 
+center on the interrelationships between the six LSIC focus areas, 
+especially in the context of surface power. The six LSIC technical 
+focus areas are:
+
+ Dust Mitigation
+ Excavation & Construction
+ Extreme Access
+ Extreme Environments
+ In Situ Resource Utilization
+ Surface Power
+
+Other topics of interest include defining the parameters and 
+constraints of the architecture required to support a sustained 
+presence on the lunar surface, as well as economic and policy 
+considerations. Early registration closes at 11:59PM EDT on 
+September 19, 2020 and will help the registration committee 
+determine which discussion groups participants get placed into. 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Colliding in the Shadows of Giants: Planetesimal Collisions during the 
+Growth and Migration of Gas Giants
+Philip J. Carter and Sarah T. Stewart 2020 PSJ 1:45
+http://doi.org/10.3847/PSJ/abaecc
+
+Detection Limits for Chiral Amino Acids Using a Polarization Camera
+Claire Cook et al. 2020 PSJ 1:46
+http://doi.org/10.3847/PSJ/abae57
+
+A Deep Search for Stable Venus Co-orbital Asteroids: Limits on the 
+Population
+Petr Pokorny et al. 2020 PSJ 1:47
+http://doi.org/10.3847/PSJ/abab9f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

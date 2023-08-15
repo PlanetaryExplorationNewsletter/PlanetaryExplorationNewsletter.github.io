@@ -1,0 +1,291 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 46 (October 5, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Postdoctoral Program (NPP)
+2. [NASA] New proposal opportunities for Education and Public Outreach
+3. [NASA PDS] Nasaview 3.2.0 Release
+4. Request for Proposals:  Lunar Crater Observation and Sensing 
+   Satellite (LCROSS) Observation Campaign
+5. Geomorphology Image of the Month
+6. Workshop on Observing with SOFIA
+7. Post-Doctoral Research Associate in Planetary Science
+8. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] POSTDOCTORAL PROGRAM (NPP)
+
+The NASA Postdoctoral Program (NPP) offers unique research
+opportunities to highly talented national and international
+scientists and engineers to engage in ongoing NASA research in
+Aeronautics, Astrobiology, Astrophysics, Earth Science, Exploration
+Systems, Heliophysics, Planetary Science, and Space Operations.
+
+* Approximately 60 Fellowships awarded annually
+* One-year appointments, renewable up to three years
+* Annual stipends start at $50,000, with supplements for certain
+degree fields and high cost-of-living areas
+* Annual travel budget of $8,000
+* Financial assistance for relocation
+* Financial supplement for health insurance purchased through the 
+program
+
+Apply at:
+
+http://nasa.orau.org/postdoc
+
+Three application deadlines each year: November 1, March 1, and 
+July 1.
+
+Eligibility:
+* U.S. Citizens
+* Foreign Nationals with a J-1 visa status as a research scholar,
+Lawful Permanent Resident (LPR) status, or Employment Authorization
+Document (EAD) with pending LPR status
+* Recent and senior-level Ph.D. recipients
+
+Locations of Fellowship Positions:
+
+http://nasa.orau.org/postdoc/description/centers.htm
+
+To obtain more information and to apply for this exciting
+opportunity, please visit the NPP Web site at:
+
+http://nasa.orau.org/postdoc
+
+[Editor Note: This announcement was edited slightly for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] NEW PROPOSAL OPPORTUNITIES FOR EDUCATION AND PUBLIC OUTREACH
+
+This amendment announces proposal opportunities for Education and
+Public Outreach supplemental awards. Principal Investigators (PIs) of
+selected Science Mission Directorate (SMD) research investigations
+may propose for Education or Outreach awards as supplements to their
+research award.
+
+Note: Two major changes have been made to the supplemental E/PO award
+opportunity compared to ROSES-2007 and earlier. (i) Two different
+pathways are offered: $15K education pathway proposals and $10K
+outreach pathway proposals. (ii) There is a specific proposal due
+date, and proposals are submitted through NSPIRES.
+
+Proposals for supplemental E/PO awards are due December 15, 2008.
+Notices of Intent (NOIs) to propose are not requested.
+
+On or about October 3, 2008, this Amendment to the NASA Research
+Announcement "Research Opportunities in Space and Earth Sciences
+(ROSES) 2008" (NNH08ZDA001N) will be posted on the NASA research
+opportunity homepage at: 
+
+http://nspires.nasaprs.com/ 
+
+(Select "Solicitations" then "Open Solicitations" then "NNH08ZDA001N").
+
+Questions concerning the Supplemental Education/Outreach Awards for
+ROSES Investigators may be addressed to Dr. Larry P. Cooper,
+Tel: 202-358-1531; E-mail: larry.p.cooper@nasa.gov.
+
+[Editor Note: This announcement was edited slightly for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA PDS] NASAVIEW 3.2.0 RELEASE
+
+The Planetary Data System (PDS) is pleased to announce a new delivery
+of NASAView, version 3.2.0.
+
+This maintenance release of NASAView includes support for 64-bit 
+Linux platforms as well as corrections for issues discovered in 
+previous releases. These corrections include a larger more readable 
+histogram window, fixes for displaying MGS MOLA and MOC images 
+properly and better recognition of TABLE-type objects when selecting 
+them from the hierarchy menu. Due to platform incompatibilities and 
+its general uselessness, the help menu feature has been replaced with 
+a general information pop-up window. All available documentation for 
+NASAView is supplied with each download package in PDF and HTML form.
+
+To access the Nasaview software, please visit the following link:
+
+http://pds.nasa.gov/subscription_service/SS-20081003.html
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+REQUEST FOR PROPOSALS:  LUNAR CRATER OBSERVATION AND SENSING SATELLITE
+(LCROSS) OBSERVATION CAMPAIGN
+
+The Universities Space Research Association (USRA) is issuing a 
+Request for Proposals (RFP) for participation in the USRA-NASA 
+sponsored Lunar CRater Observation and Sensing Satellite (LCROSS) 
+Observation Campaign.
+
+USRA is working with NASA's Ames Research Center (ARC) and George C. 
+Marshall Space Flight Center (MSFC) to coordinate the Observation 
+Campaign for LCROSS. The Observation Campaign is designed to provide 
+funding to qualified observers who have time on appropriate 
+observatories to take measurements that will validate and complement 
+measurements taken by the Shepherding Spacecraft and other assets. 
+The RFP being issued by USRA is open to all qualified observers and 
+is intended to fund a number of proposals that address LCROSS Science 
+Goals. 
+
+To download the RFP please visit: 
+
+http://www.usra.edu/ 
+or 
+http://lcross.arc.nasa.gov  
+
+Proposals are due 30 October 2008.
+
+Contact:  Jennifer Heldmann at NASA Ames Research Center 
+(Jennifer.heldmann@nasa.gov) or email LCROSS@usra.edu.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The October 'Image of the month' is now available at the IAG's 
+Planetary Geomorphology web page 
+
+http://www.psi.edu/pgwg/images/oct08image.html
+
+This month's topic is on deltaic sediments on Mars.
+
+The images and information are a free educational resource provided 
+to encourage the inclusion of planetary geomorphology topics in 
+curriculum. They are also intended to stimulate collaboration
+between geomorphologists studying Earth landforms and those who 
+focus primarily on other planetary surfaces.
+
+If you would like to contribute an image (Earth analogs are welcome)
+please contact mbourke@psi.edu
+
+Past images and captions are available at
+
+http://www.psi.edu/pgwg/images/index.html
+
+Mary Bourke
+Coordinator of the IAG Working Group on Planetary Geomorphology
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+WORKSHOP ON OBSERVING WITH SOFIA
+
+5:00 to 6:30 p.m., Monday, October 13, 2008
+During the Ithaca DPS meeting
+Location:  Taylor A/B
+
+A brief workshop will be offered to the planetary science community 
+regarding SOFIA, NASA's Stratospheric Observatory for Infrared 
+Astronomy, Monday October 13, 5:00 to 6:30 p.m. during the Ithaca DPS 
+meeting, in room Taylor A/B.
+
+SOFIA's first scientific observing flights are expected in mid-2009. 
+Presentations will be made during the workshop about status of the 
+SOFIA program, capabilities of the observatory and its 9 scientific 
+instruments spanning the wavelength range from UV to sub-mm, and the 
+mission's E&PO program.  Upcoming opportunities to apply for SOFIA 
+observing time will be described.  A draft "white paper" on planetary 
+science possibilities with SOFIA will be summarized, for discussion by 
+attendees.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+POST-DOCTORAL RESEARCH ASSOCIATE IN PLANETARY SCIENCE
+
+The Department of Astronomy of the University of Maryland, College 
+Park, seeks applications to fill an immediate post-doctoral position 
+in planetary science, in collaboration with NASA Goddard Space Flight
+Center (GSFC). The aim of the research project is to study the lower
+atmosphere and surface of Saturn's moon, Titan, using data collected 
+by the Composite Infrared Spectrometer (CIRS) on the Cassini Saturn 
+orbiter spacecraft.
+
+The position is a two-year appointment in the first instance, with 
+the possibility of extension depending on the success of future 
+grant proposals. For further information on this position, including
+qualifications required and application details see:
+
+http://www.astro.umd.edu/~nixon/postdoc_job.html
+
+or contact Dr C.A. Nixon (conor.a.nixon@nasa.gov)
+
+Applications received by November 12th will receive full 
+consideration.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+November 19-20, 2008 (RESCHEDULED)
+Workshop on the Early Solar System Impact Bombardment
+http://www.lpi.usra.edu/meetings/bombardment2008/
+Houston, TX
+
+January 19-23, 2009
+The Role of Astronomy in Society and Culture
+http://iaus260.obspm.fr
+Paris, France
+
+April 21-23, 2009
+Missions for Exoplanets: 2010-2020
+http://exep.jpl.nasa.gov
+Pasadena, CA
+
+April 27-May 2, 2009
+XVI Young Scientists' Conference on Astronomy and Space Physics
+http://ysc.kiev.ua
+Kiev, Ukraine
+
+September 14-18, 2009
+Pathways Towards Habitable Planets
+http://www.pathways2009.net/
+Barcelona, Spain
+
+October 19-23, 2009
+Towards Other Earths: Perspectives and Limitations in the ELT Era
+http://www.astro.up.pt/investigacao/conferencias/toe2009
+Porto, Portugal
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions. 
+************************************************************************
+

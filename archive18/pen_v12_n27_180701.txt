@@ -1,0 +1,587 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 27 (July 1, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Elisabeth Adams 
+Co-Editors: Karen R. Stockstill-Cahill, Mark V. Sykes  
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Session GP009: Planetary Magnetism and Core Processes
+2. AGU Session P005: Being Neighborly - Observing the Moon from
+   Cis-Lunar Space 
+3. AGU Session P008: Ceres and Vesta - Understanding the Protoplanets
+   of the Asteroid Belt 
+4. AGU Session P014: Defense Against Asteroid Impacts
+5. AGU Session P038: Results from the Investigation of Jupiter's
+   Atmosphere by Juno and a Supporting Campaign of Earth-Based 
+   Observations
+6. AGU Session P044: Super-Earth Detection, Characterization and
+   Modeling - How Habitable are They?
+7. AGU Session P046: The New Mars Underground - Science and Exploration
+   of a New Deep Frontier 
+8. AGU Session P049: The Interiors of Jupiter and Saturn in the Era of
+   Juno and Cassini
+9. AGU Session P055: Tidally Locked Systems in the Solar System and
+   Beyond
+10. AGU Session SH029: The Interstellar Probe Mission - NASA Study
+    Findings and Next Steps
+11. AGU Session SM03: Our Evolving Understanding of Auroral Processes 
+    and Magnetosphere Dynamics at Jupiter Through Juno and Earth-Based
+    Observations
+12. The 9th Planetary Crater Consortium Meeting
+13. Committee on Space Research (COSPAR) Awards 2018
+14. [NASA] PDS - Rosetta OSIRIS Final Data Release by the Small Bodies
+    Node
+15. ROSES-18 Amendment 17: New Opportunity in C.25 SESAME Technology
+    Development
+16. Mars Exploration Rovers Data Release 56
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU SESSION GP009: PLANETARY MAGNETISM AND CORE PROCESSES
+
+We're excited to invite you to submit abstracts to the session
+"Planetary Magnetism and Core Processes" for the upcoming fall AGU
+meeting.
+
+We seek contributions from a wide range of disciplines to foster
+discussions and research connecting the properties of planetary cores
+to the magnetic fields they produce.
+
+Planetary magnetism provides a window into the evolution of planets,
+moons, and early planetesimals from exosphere to core. At the same
+time, investigating the composition, dynamics, and thermal evolution of
+planetary cores is also critical for predicting the behavior and
+evolution of dynamo fields. In this session, we aim to foster
+interdisciplinary conversations between investigators studying
+magnetics and planetary interiors. As such, this session calls for
+contributions relating to observational, experimental, and
+theoretical/modeling work in the areas of: 1) core composition, 2) core
+dynamics, 3) planetary thermal evolution, 4) dynamos, 5) crustal
+magnetism, 6) paleomagnetism, 7) magnetospheres.
+
+To submit an abstract: 
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/48757
+
+Abstract submission deadline: 1 August 2018 at 23:59 EDT
+
+Sonia Tikoo (Rutgers)
+Douglas Hemingway (UC Berkeley and Carnegie Institution for Science)
+Rona Oran (MIT)
+Matthieu Laneuville (Tokyo Institute of Technology)
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P005: BEING NEIGHBORLY - OBSERVING THE MOON FROM CIS-LUNAR
+SPACE 
+
+Regular access to cis-lunar space is projected to be possible in the
+near future ushering in a new area of lunar exploration. Cis-lunar
+space expands the types of lunar observations possible, filling a gap
+in capability between ground-based observatories and lunar missions. 
+Small missions can readily access cis-lunar space, which is also the
+destination of the proposed Lunar Orbital Platform-Gateway. This
+potentially enables the deployment and operation of both low-resource
+instruments as well as highly capable instruments and experiments for
+observing and monitoring the Moon including the cis-lunar environment.
+This session solicits abstracts for lunar science and instrumentation
+possible from cis-lunar space including near-rectilinear halo orbits
+(NRHOs). 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P008: CERES AND VESTA - UNDERSTANDING THE PROTOPLANETS OF
+THE ASTEROID BELT
+ 
+Many of the outstanding questions about Vesta and Ceres have been
+addressed by analyzing data from the Dawn mission. A comprehensive
+mapping campaign was undertaken at both bodies, as well as studies of
+their compositions, geophysical properties, and interiors, which
+enabled new understanding of their place in the history of our Solar
+System. Although, prior to Dawn, thought to be currently geologically
+inactive, with surfaces modified primarily by impacts, there is
+evidence for magmatic activity on Vesta, cryovolcanism on Ceres, and
+tectonic processes on both. Dawn's second extended mission from the
+planned 35-km pericenter altitude orbit promises new observations by
+the time of the meeting that will enable characterization of Ceres at
+unprecedented resolution. We encourage abstract submissions related to
+geologic, geophysical, spectroscopic and compositional analyses of
+Ceres and Vesta. Possible topics include analyses of Dawn data,
+telescopic observations, modeling and laboratory experiments.
+Comparative analyses with other bodies are welcome. 
+
+Abstracts are due August 1st.
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/48891
+ 
+Thank you,
+Anton Ermakov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P014: DEFENSE AGAINST ASTEROID IMPACTS
+ 
+This session is listed under SWIRL Theme Extreme Events and Hazards.
+ 
+Session Description: Planetary defense against asteroid impacts is an
+active field of research, which involves ground-based observations of
+small bodies, numerical modeling of deflection techniques, laboratory
+experiments, and space mission projects and technology developments.
+The asteroid impact hazard is the only natural hazard that can be
+predicted and prevented with feasible means, and it is inherently an
+international issue. NASA has undertaken the first demonstration and
+test of asteroid deflection using a kinetic impactor, and ESA is
+studying an orbiter spacecraft. This work has triggered important
+planetary defense activities: (i) definition and coordination of
+technology needs and requirements for planetary defense, (ii) modelling
+and simulations of impact outcomes including benchmarking of available
+simulation tools, (iii) remote sensing observations, instrument payload
+developments for in situ characterization, and definition of
+close-proximity operations. This session will discuss the various
+elements and their current state.
+ 
+Session conveners:
+Andrew F. Cheng (JHU/APL)
+Patrick Michel (UNS-CNRS-Observatoire de la Cote d'Azur)
+ 
+Abstract submission:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/47188
+
+Abstracts are due: 1 August 2018, 11:59 PM EDT
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P038: RESULTS FROM THE INVESTIGATION OF JUPITER'S
+ATMOSPHERE BY JUNO AND A SUPPORTING CAMPAIGN OF EARTH-BASED 
+OBSERVATIONS
+
+You are invited to submit abstracts to Juno-related 2018 AGU Fall
+Sessions by the August 1 deadline.
+
+Primary convener: Glenn S. Orton; Conveners: Scott Bolton, Cheng Li,
+Gordon Bjoraker
+
+NASA's Juno mission operates a spacecraft in 53-day polar orbits around
+Jupiter, with the ultimate goals of understanding Jupiter's origin and
+evolution. One specific objective is to establish the structure,
+composition and dynamics of the deep atmosphere and its relationship
+with the upper atmosphere. Juno's polar orbit with close approaches
+near the terminator only a few thousand kilometers above the cloud tops
+provides the opportunity to characterize poorly explored polar regions
+and to study the characteristics of cloud dynamics and composition at
+spatial resolutions as fine as 6 km. An integral part of Juno's
+exploration is a campaign of Earth-based observations that extend and
+enhance spacecraft results by complementing Juno's spatial, temporal
+and spectral coverage. This session welcomes presentations involving
+all results obtained by and in support of the Juno mission, including
+not only results of Juno and Earth-supporting observations but also
+theoretical modeling of atmospheric structure, composition and
+dynamics. 
+ 
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P044: SUPER-EARTH DETECTION, CHARACTERIZATION AND MODELING
+- HOW HABITABLE ARE THEY?
+
+Abstract deadline: August 1, 2018
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/51966
+
+Transit detections and radial velocity measurements have shown the
+existence of numerous exoplanets larger than Earth, yet of bulk density
+comparable to a rocky world: super-Earths. Within the next two years,
+the Transiting Exoplanet Survey Satellite (TESS) mission is expected to
+significantly increase the number of super-Earth detections, which will
+need to be characterized, especially in terms of their habitability in
+our search for exo-life. This can be achieved via observations of
+multiple types but it also requires a deep knowledge of the physical
+processes at play in their interiors to build reliable models. This
+session seeks to improve our understanding of super-Earths and their
+habitability from an observational, experimental and theoretical
+perspective through a wide range of disciplines, including but not
+limited to planetary sciences, mineral physics, exobiology,
+geochemistry and geodynamics.
+
+Conveners
+Francois Soubiran (Ecole Normale Superieure Lyon)
+Natalia V Solomatova (Ecole Normale Superieure Lyon)
+Franck Marchis (SETI Institute)
+Anais Kobsch (Ecole Normale Superieure Lyon)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION P046: THE NEW MARS UNDERGROUND - SCIENCE AND EXPLORATION OF
+A NEW DEEP FRONTIER 
+  
+The Martian underground within a depth of a few miles is of enormous
+interest for planetary sciences. But so far, studies and exploration of
+Mars' subsurface have taken a back seat to exploration of its surface.
+This is now changing with the imminent Mars InSight (NASA) & ExoMars
+(ESA) missions, Mars Sample Return calling for a deeper understanding
+of the shallow Mars subsurface, plans for human exploration, and as
+better technical capabilities and scientific understanding finally
+enable accessing the Mars underground. We seek contributions that
+encompass the nature and diversity of Mars crustal subsurface
+environments (modeling, experiments, observations) or the tools for
+exploring them (sounding, drilling, cave explorer robotics, in situ
+analysis techniques). Broad themes are related to the
+distribution/cycling of subsurface water (ice/liquid), brines and other
+volatiles, the astrobiological (extinct or extant life) and ISRU
+potential of Mars' subsurface, and the technologies and mission
+concepts that enable such exploration.
+ 
+Submit here before August 1, 2018, 11:59 PM EDT:
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/51671
+ 
+Conveners: Vlada Stamenkovic (JPL), Penny Boston (NASA AMES), Bob Grimm
+(SwRI), and Kris Zacny (Honeybee Robotics)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P049: THE INTERIORS OF JUPITER AND SATURN IN THE ERA OF
+JUNO AND CASSINI
+
+You are invited to submit abstracts to Juno-related 2018 AGU Fall
+Sessions by the August 1 deadline.
+      
+Primary Convener: David Stevenson
+Conveners: Hao Cao, Scott Bolton, Luciano Iess
+     
+The ongoing Juno mission and the recently concluded Cassini mission
+have provided a wealth of new measurements (e.g. gravity field,
+magnetic field, composition, seismic waves) revealing key aspects of
+the interiors of Jupiter and Saturn for the first time. Examining these
+new measurements from both planets, separating common themes from
+specific expressions, is a critical step towards a coherent
+understanding of the formation, evolution, and interior dynamics of
+giant planets in the solar system and beyond. This session will bring
+together observation and interpretation of gravity field, magnetic
+field, composition, seismic waves at Jupiter and Saturn. Topics will
+include depth of strong differential rotation (zonal flows), helium and
+heavy element abundance, generation of intrinsic magnetic field,
+existence and properties of the central core, seismic, thermal, and
+magnetic consequences of stable stratification, as well as formation
+scenarios and evolution pathways.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P055: TIDALLY LOCKED SYSTEMS IN THE SOLAR SYSTEM AND BEYOND
+
+Section/Focus Group: Planetary Sciences 
+ 
+What can the planetary icy moons, exoplanets and dynamics of planetary
+systems communities learn from each other? Terrestrial planets around G
+stars within Earth's orbit may be tidally locked. Tidally locked icy
+moons within our solar system have tidal stresses believed to give rise
+to geologic activity and liquid water subsurface oceans in Europa &
+Enceladus, surface volcanism on Io, while Earth's moon took a
+different trajectory. We believe that most Earth-like planets around
+M-dwarf systems such as Trappist-1 are tidally locked and tidal
+stresses may play a role in their geothermal heat fluxes. We invite
+submissions that address key questions and ideas regarding tidally
+locked systems, particularly those that bridge communities and offer
+points of discussion. What are the geodynamic consequences of tidal
+locking?  What are the observable signatures of these processes in the
+solar system and exoplanets? What are the consequences for
+habitability? Can any challenges be overcome?
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/50091
+ 
+Abstract deadline: August 1, 2018
+ 
+Conveners Michael J. Way (NASA), Britney Schmidt (Georgia Tech), Rory
+Barnes (U Washington)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+SH029: THE INTERSTELLAR PROBE MISSION: NASA STUDY FINDINGS AND NEXT
+STEPS
+ 
+Abstract Submission: 
+
+https://agu.confex.com/agu/fm18/prelim.cgi/Session/48708
+ 
+The Interstellar Probe would be first dedicated mission to venture in
+to the unknown space between our star and other potentially habitable
+planetary systems. In 2016, congress recommended NASA to take the
+enabling steps for an Interstellar scientific probe. NASA has now
+directed a study of an Interstellar Probe targeting 1000 AU within 50
+years. The study objectives are to identify science targets, develop
+mission concepts and evaluate critical technologies. Science targets
+include exploration of the Very Local Interstellar Medium and its
+interaction with the heliosphere, characterization of the circum-solar
+dust, flybys of unexplored Kuiper Belt Objects, and putting these
+observations in the context of other exoplanetary systems and
+astrospheres. This session reports on the findings spanning the science
+discoveries enabled by an Interstellar Probe and its mission design,
+but also seeks contributions on other scientific targets, enabling
+technologies, mission concepts and programmatic challenges.
+ 
+Conveners: Pontus C. Brandt, Kathy Mandt, Dick Mewaldt, Bob Wimmer
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION SM03: OUR EVOLVING UNDERSTANDING OF AURORAL PROCESSES AND
+MAGNETOSPHERE DYNAMICS AT JUPITER THROUGH JUNO AND EARTH-BASED
+OBSERVATIONS
+
+You are invited to submit abstracts to Juno-related 2018 AGU Fall
+Sessions by the August 1 deadline.
+ 
+Primary convener: Robert Ebert; Conveners: Scott Bolton, George Clark,
+Masafumi Imai
+     
+Our view and understanding of Jupiter's auroras and magnetosphere are
+ever-changing as Juno continues to explore these regions in situ with
+coordinated efforts from Earth-based observatories such as Hubble,
+Hisaki, Keck, etc. These new measurements have illuminated new and
+exciting discoveries that are challenging our theoretical ideas. This
+session seeks submissions covering new observations and
+interpretations, theories, and models of Jupiter's auroral regions,
+magnetosphere and/or ionosphere and their connection. Specifically,
+this session will cover the following topics: observation and theory of
+auroral acceleration including wave-particle interactions; auroral
+phenomenology, magnetosphere-ionosphere coupling; plasma sheet
+dynamics; outer boundary structure and dynamics, and particle
+acceleration and transport. This session aims to share the most recent
+observations and ideas regarding Jupiter's magnetosphere, while
+providing a forum that takes a multidisciplinary approach to furthering
+our knowledge of this system.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+THE 9TH PLANETARY CRATER CONSORTIUM MEETING
+
+The 9th Planetary Crater Consortium meeting will be held August 8-10,
+2018, at the Southwest Research Institute in Boulder, CO. The Planetary
+Crater Consortium is open to all planetary scientists interested in any
+aspect of impact cratering on solar system bodies, including
+observational, theoretical, experimental, and numerical studies.
+Contributions on terrestrial impact crater field studies are
+encouraged, as well as presentations about cratering on other solar
+system bodies. The meeting is a combination of contributed talks,
+posters, and open discussion. Abstract deadline is Wednesday, August 1,
+2018. 
+
+For more information, see:
+
+www.planetarycraterconsortium.nau.edu/
+
+or contact Nadine Barlow (Nadine.Barlow@nau.edu).
+ 
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+COMMITTEE ON SPACE RESEARCH (COSPAR) AWARDS 2018
+
+To be presented on 15 July during the 42nd COSPAR Scientific Assembly
+14 - 22 July 2018, Pasadena, CA, USA
+
+COSPAR Space Science Award:
+
+Jean-Pierre Bibring (France)
+Bruce T. Tsurutani (USA)
+
+COSPAR International Cooperation Medal:
+
+Stas Barabash (Sweden)
+
+COSPAR William Nordberg Medal:
+
+Christoph Reigber (Germany)
+
+COSPAR Harrie Massey Award:
+
+John Zarnecki (United Kingdom)
+
+COSPAR Distinguished Service Medal:
+
+Mariano Mendez (Netherlands)
+
+Vikram Sarabhai Medal:
+
+Qiugang Zong (China)
+
+Jeoujang Jaw Award:
+
+Sergey Krikalev (Russia)
+
+Yakov B. Zeldovich Medals:
+
+Benjamin Hamlington (USA)
+Shunichi Kamata (Japan)
+Loren C. Chang (Taiwan, China/USA)
+Remya Bhanu (India)
+Volodymyr Savchenko (Switzerland/Ukraine)
+Amir Alexander Bahadori (USA)
+Taishi Yano (Japan)
+Frederico Francisco (Portugal)
+
+For full citations see:
+
+https://cosparhq.cnes.fr/sites/default/files/
+press_release_cospar_awards_2018.pdf
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] PDS - ROSETTA OSIRIS FINAL DATA RELEASE BY THE SMALL BODIES NODE
+
+Small Bodies Node of the NASA Planetary Data System is pleased to
+announce the final release of the Rosetta OSIRIS camera high-resolution
+images. With this release the OSIRIS data release is completed. See the
+links to the recently released data at
+
+https://pdssbn.astro.umd.edu/
+
+Additional information about the OSIRIS archive and a video of the
+final descent of the Rosetta spacecraft compiled from OSIRIS images can
+be found at
+
+http://www.esa.int/Our_Activities/Space_Science/Rosetta/
+Rosetta_image_archive_complete
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+ROSES-18 AMENDMENT 17: NEW OPPORTUNITY IN C.25 SESAME TECHNOLOGY
+DEVELOPMENT
+  
+The Scientific Exploration Subsurface Access Mechanism for Europa
+(SESAME) technology development opportunity supports the formulation
+and maturation of system concepts and the associated technologies
+capable of penetrating ice and accessing the subsurface liquid water on
+ocean worlds such as Europa. The overall goal of this opportunity is to
+define, and ultimately validate, a realistic architecture for deep (>1
+km) subsurface access under flight-like constraints. In addition, the
+endeavor seeks to identify, address, and reduce technical risks for the
+most promising ice-penetration systems so that these systems may
+eventually be infused into potential future flight opportunities. This
+program does not solicit technologies or hardware for a specific flight
+opportunity.
+  
+Step-1 proposals are due by July 27, 2018, and Step-2 proposals are due
+by September 28, 2018.
+ 
+See announcement NNH18ZDA001N at:
+
+http://nspires.nasaprs.com/ 
+ 
+Questions concerning this program element may be directed to Ryan
+Stephan of the Planetary Exploration Science Technology Office at
+Ryan.A.Stephan@nasa.gov.
+
+[Edited for length]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+MARS EXPLORATION ROVERS DATA RELEASE 56
+
+The Planetary Data System (PDS) is pleased to announce Release 56
+of Mars Exploration Rover data. This release includes data primarily
+from Sols 4861 through 4950, rover Opportunity (MER1/B), instruments:
+
+APXS
+Atmospheric Opacity
+HAZCAM
+MI
+NAVCAM
+PANCAM
+SPICE
+
+Correction: there is no RAT or Rover Motion Counter in this release.
+
+There is no Radio Science data in this release, and no more Mini-TES or
+Moessbauer data is expected.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20180626.shtml
+
+The following special services are provided for accessing MER data.
+MER Analyst's Notebook: 
+
+http://an.rsl.wustl.edu/mer
+
+Planetary Image Atlas: 
+
+https://pds-imaging.jpl.nasa.gov/search/mer-opportunity
+
+To access the latest PDS Data Releases, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 15-19, 2018
+Multi-Dimensional Characterization of Distant Worlds: Spectral
+Retrieval and Spatial Mapping
+https://sites.lsa.umich.edu/mira3d
+Ann Arbor, MI
+
+March 4-8, 2019
+Kepler & K2 Science Conference V
+https://keplerscience.arc.nasa.gov/scicon-2019
+Glendale, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu. 
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute        
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

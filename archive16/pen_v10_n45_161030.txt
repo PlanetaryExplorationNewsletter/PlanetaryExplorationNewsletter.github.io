@@ -1,0 +1,319 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 45 (October 30, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Karen R. Stockstill-Cahill 
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. 2017 American Astronomical Society Division of Dynamical Astronomy 
+   Meeting (AAS-DDA)
+2. [NASA] Planetary Science Vision 2050 Workshop
+3. Canada Research Chair (Tier 2) in Planetary Science
+4. [NASA] PDS - Rosetta and New Horizons Data Releases by the Small 
+   Bodies Node
+5. Juno-Supporting Postdoctoral Position, JPL/CalTech Postdoctoral 
+   Program
+6. Assistant Professor of Astronomy, University of Maryland
+7. Meeting Information, Registration, and Hotel Reservations for VEXAG 
+   Meeting #14
+8. Planetary Geomorphology 'Image of the Month'
+9. [NASA] Science Mission Directorate is Seeking Volunteer Reviewers 
+   for PICASSO and LDAP
+10. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+2017 AMERICAN ASTRONOMICAL SOCIETY DIVISION OF DYNAMICAL ASTRONOMY 
+MEETING (AAS-DDA)
+
+Sunday June 11 - Thursday June 15, 2017 at Queen Mary University of 
+London, United Kingdom.
+
+The annual DDA Meeting brings together top researchers in astronomy, 
+astrophysics, planetary science, and astrodynamics for in-depth and 
+stimulating discussions and talks on all aspects of dynamics in the 
+space sciences. Prof. Rosemary F. G. Wyse (FRAS) will be honoured at 
+the 2017 meeting with the AAS-DDA Brouwer Award. The DDA meeting 
+features invited talks on a range of topics, contributed talks (with 
+no parallel sessions), and posters that can be displayed throughout 
+the entire meeting. The 2017 DDA meeting is being co-sponsored by 
+the Royal Astronomical Society.
+
+We hope to see you in London next June.
+
+Additional meeting details can be found on the conference web site:
+
+https://dda.aas.org/meetings/2017
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] PLANETARY SCIENCE VISION 2050 WORKSHOP
+ 
+NASA's Planetary Science Division (PSD) is planning to host a 
+community workshop at NASA headquarters in Washington, DC on February 
+27-28 and March 1, 2017. This workshop is meant to provide PSD with a 
+very long-range vision of what planetary science may look like in the 
+future. The workshop is to gather the leading experts in Solar System 
+planetary science and related disciplines, together with experts in 
+space technologies, to identify potential science goals and enabling 
+technologies that can be implemented by the end of the 2040s and would 
+support the next phase of Solar System exploration.
+ 
+For further information and to register your interest in participating 
+visit the website at:
+
+http://www.hou.usra.edu/meetings/V2050/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+CANADA RESEARCH CHAIR (TIER 2) IN PLANETARY SCIENCE
+
+Faculty position commencing at the level of Assistant or Associate 
+Professor
+Department of Earth and Space Science & Engineering
+York University
+Toronto, Ontario
+
+Applications are solicited from candidates with successful research 
+programs in planetary science. Research areas that complement current 
+activity within the department are laboratory investigations, 
+development of measurement instrumentation, data analysis, and 
+numerical modeling in support of planetary exploration missions.
+
+For a more detailed description, please visit the web site:
+
+http://lassonde.yorku.ca/esse-crc-planetary-science
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS - ROSETTA and NEW HORIZONS DATA RELEASES BY THE SMALL 
+BODIES NODE
+
+Small Bodies Node of the NASA Planetary Data System is pleased to 
+announce that the following Rosetta-Orbiter datasets for comet 
+67P/Churyumov-Gerasimenko have been released:
+
+* MIRO Escort 2 and 3 Raw and Calibrated Data
+* RPCIES Escort 3 Raw Data
+* RPCMAG Extension 1 Raw, Calibrated and Resampled Data
+* VIRTIS Prelanding and Escort 1 Raw Data
+* COSIMA In Flight and 67P Data through October 2015
+* RSI Prelanding Gravity Data for 08/2014
+* NavCam Extension 2 and 3 Raw Data
+
+The datasets are ESA PSA certified. To see and download the data as 
+well as mission and instrument information, go to: 
+
+http://pdssbn.astro.umd.edu/
+
+The data can be also accessed through the ESA PSA website:
+
+http://www.sciops.esa.int/index.php?project=PSA&page=rosetta
+
+PDS Small Bodies Node has also released the following data for the 
+New Horizons mission instruments
+
+* SDC Pluto Encounter Raw and Calibrated data
+* SWAP Pluto Encounter Raw and Calibrated data
+* Pluto Cruise data for all instruments.
+
+The datasets are released as PDS certified, in lien resolution; the 
+data, as well as mission and instrument information, are available at: 
+
+http://pdssbn.astro.umd.edu/
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+JUNO-SUPPORTING POSTDOCTORAL POSITION, JPL/CALTECH POSTDOCTORAL PROGRAM
+
+The California Institute of Technology (Caltech), Postdoctoral Scholars 
+Program at the Jet Propulsion Laboratory (JPL) invites applications for 
+a postdoctoral research position in JPL's Planetary Science Section.
+
+The research will involve coordination of Earth-based supporting 
+observations for the Juno mission and Juno observations themselves. 
+Dr. Glenn Orton, in JPL's Planetary and Exoplanetary Atmospheres Group, 
+will serve as JPL postdoctoral advisor to the selected candidate. The 
+appointee will carry out research in collaboration with the JPL 
+advisor, resulting in publications in the open literature. 
+
+Candidates should have a recent PhD in planetary science with a strong 
+background in atmospheres. Experience in radiative transfer and 
+spacecraft observations is highly desirable. Candidates who have 
+received their PhD within the past five years since the date of their 
+application are eligible. Postdoctoral Scholar positions are awarded 
+for a minimum of one-year period and may be renewed up to a maximum of 
+three years.
+
+For more information, see website:
+
+http://postdocs.jpl.nasa.gov/researchapplicants/jobpostings/index.cfm?
+FuseAction=ShowJobPosting&JobPostingID=693
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+ASSISTANT PROFESSOR OF ASTRONOMY, UNIVERSITY OF MARYLAND
+
+The Department of Astronomy at the University of Maryland (located in 
+College Park, MD) invites applications for a tenure-track faculty 
+position. Accomplished candidates in any area of astronomy, 
+astrophysics, or planetary science are encouraged to apply. We are 
+searching for candidates at the Assistant Professor (tenure-track) 
+level, but will consider applications for tenured ranks in exceptional 
+cases. A PhD in astronomy, physics, planetary science, or a related 
+discipline is required, and the successful candidate must have an 
+established record of research excellence. Candidates are expected to 
+have a demonstrated commitment to excellence in teaching and 
+mentorship at both the undergraduate and graduate levels.
+
+For more details and to apply, visit: 
+
+www.astro.umd.edu/employment 
+
+To receive full consideration, applications must be submitted by 
+December 1, 2016.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MEETING INFORMATION, REGISTRATION, AND HOTEL RESERVATIONS FOR VEXAG 
+MEETING #14
+
+Venus Exploration Analysis Group (VEXAG) Meeting #14 will be held on 
+Tuesday-Thursday - November 29 - December 1, 2016 at James E. Webb 
+Memorial Auditorium, NASA Headquarters, 300 E Street SW, Washington, 
+DC. 
+
+Meeting Information, Registration, Hotel Reservations can be accessed 
+at:
+
+Invitation: 
+
+http://www.cvent.com/d/bvqsfb/1Q
+
+Event Summary: 
+
+http://www.cvent.com/d/bvqsfb
+
+Registration: 
+
+http://www.cvent.com/d/bvqsfb/4W
+
+Hotel Reservations: 
+
+http://www.marriott.com/meeting-event-hotels/group-corporate-travel/
+groupCorp.mi?resLinkData=NASA%20VEXAG%20Panel%20Meeting%5Ewascp%60VEX
+VEXA%60182.00%60USD%60false%601%6011/28/16%6012/1/16%6011/7/16&app=
+resvlink&stop_mobi=yes
+
+A block of sleeping rooms is currently on-hold at the Marriott 
+Residence Inn Washington DC/Capitol Hotel, located at 333 E Street, 
+SW Washington, DC 20024, across the street form NASA Headquarters. 
+Cut-off date for reservations is Monday, November 7th. As Housing 
+will be in high demand, it is strongly advised that you secure 
+accommodations as soon as possible. 
+
+Current plans are:
+29 November 2016 (Tuesday) - NASA and Mission reports - Poster 
+Session (PM)
+30 November 2016 (Wednesday) - Venus Science and Technology reports
+01 December 2016 (Thursday) - VEXAG activities and Venus Conferences 
+(adjourn at mid-day)
+
+A preliminary agenda is now available at VEXAG Web-Site: 
+
+http://www.lpi.usra.edu/vexag/
+
+You are encouraged to bring a poster for the Poster Session - Tuesday, 
+29 November 2016 - 5:00 PM, NASA Headquarters. Contact Bob Grimm 
+(grimm@boulder.swri.edu) if you plan to bring a poster.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH' 
+
+The November image of the month is now available at the IAG's
+Planetary Geomorphology web page: 
+
+http://planetarygeomorphology.wordpress.com/ 
+
+This month's topic is " It is Mercury's fault(s)... ".
+ 
+Post contributed by Valentina Galluzzi, INAF, Istituto di Astrofisica 
+e Planetologia Spaziali (IAPS), Rome, Italy.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook (http://www.facebook.com/PlanetaryGeomorphology) or Twitter 
+@PlanetGeomorpho. 
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] SCIENCE MISSION DIRECTORATE IS SEEKING VOLUNTEER REVIEWERS FOR 
+PICASSO AND LDAP
+
+NASA's Science Mission Directorate is seeking subject matter experts 
+to serve as mail-in and/or panel meeting reviewers of proposals to 
+ROSES-2016 program element C.8 LDAP and C.12 PICASSO. Volunteers may 
+sign up using the new forms at:
+
+http://science.nasa.gov/researchers/volunteer-review-panels/
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+January 16-18 2017
+ALMA Band 1 Science Workshop
+http://events.asiaa.sinica.edu.tw/workshop/20170116/
+Taipei, Taiwan
+
+February 20-24, 2017
+Formation of the Solar System and the Origin of Life 
+http://www.lorentzcenter.nl/lc/web/2017/864/info.php3?wsid=864&venue=Oort
+Leiden, The Netherlands
+
+June 11-15, 2017
+2017 American Astronomical Society Division of Dynamical Astronomy Meeting (AAS-DDA)
+https://dda.aas.org/meetings/2017
+London, United Kingdom
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org  
+*                                   
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu   
+*                                   
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                   
+* Please send all replies and submissions to pen_editor at psi.edu.  
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job  
+* announcements. Title plus text is limited to 200 words. Go to    
+* http://planetarynews.org/submission.html for complete submission   
+* directions.                             
+*                                   
+* PEN is a service provided by the Planetary Science Institute     
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                      
+***********************************************************************

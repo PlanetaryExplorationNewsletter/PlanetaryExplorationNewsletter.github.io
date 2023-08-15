@@ -1,0 +1,154 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 1 (January 3, 2021)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes
+Co-Editors: Elisabeth Adams, Georgiana Kramer
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+HAPPY NEW YEAR!
+
+1. Postdoctoral Associate at Lowell Observatory
+2. [NASA] Aperiodic PDS Data Releases in 2020.12
+3. Planetary Geomorphology Image of the Month
+4. Planetary Meeting Calendar Additions
+5. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTDOCTORAL ASSOCIATE AT LOWELL OBSERVATORY
+
+Lowell Observatory in Flagstaff, Arizona is currently seeking 
+applications for a Postdoctoral Associate in Near-Earth Objects 
+Studies.
+
+A complete job description and instructions on how to apply can be 
+found on our employment page: 
+
+https://lowell.edu/about/employment/
+
+Inquiries may be sent to Catie Blazek at humanresources@lowell.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] APERIODIC PDS DATA RELEASES IN 2020.12
+
+In December 2020, PDS ingested and made available the following data,
+none of which were regularly released with an ongoing mission:
+
+2020.12.02 Apollo Passive Seismic Experiment Expanded Event Catalog
+2020.12.08 Rosetta: SREM data, complete
+2020.12.21 Rosetta: NAVCAM L3 data
+2020.12.21 Rosetta: RPCLAP data, complete
+2020.12.21 Mars Express: Mars MRS 1/2/3 Extended Mission 5 3825 to 3829
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20201231.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The January image of the month is now available at the IAG's Planetary 
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "The Mysterious Morphology of Hekla Cavus, 
+Pluto", contributed by Dr Caitlin Ahrens (NASA Goddard Space Flight 
+Center, USA).
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Twitter: @PlanetGeomorpho 
+
+or Facebook: 
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+March 22-24, 2021
+TRiple EvolutioN and DYnamics 3
+https://sites.northwestern.edu/trendy3/
+Online
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Exploring Trans-Neptunian Space with TESS: A Targeted Shift-Stacking 
+Search for Planet Nine and Distant TNOs in the Galactic Plane
+Malena Rice and Gregory Laughlin 2020 PSJ 1:81
+http://doi.org/10.3847/PSJ/abc42c
+
+Volatile-rich Asteroids in the Inner Solar System
+Joseph A. Nuth III et al. 2020 PSJ 1:82
+http://doi.org/10.3847/PSJ/abc26a
+
+Intensity Distribution in the Heads of Comets
+L. Haser et al. 2020 PSJ 1:83
+http://doi.org/10.3847/PSJ/abc17b
+
+Seeing the Bigger Picture: Rosetta Mission Amateur Observing Campaign 
+and Lessons for the Future
+Helen Usher et al. 2020 PSJ 1:84
+http://doi.org/10.3847/PSJ/abca46
+
+Spatial Variations in the Altitude of the CH 4 Homopause at Jupiter's
+Mid-to-high Latitudes, as Constrained from IRTF-TEXES Spectra
+James A. Sinclair et al. 2020 PSJ 1:85
+http://doi.org/10.3847/PSJ/abc887
+
+Risks for Life on Proxima b from Sterilizing Impacts
+Amir Siraj and Abraham Loeb 2020 PSJ 1:86
+http://doi.org/10.3847/PSJ/abc692
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet to accommodate the PEN tag. Alternatively, 
+* the editorial staff will create one for you. Go to 
+* http://planetarynews.org/submission.html for complete submission 
+* directions. 
+*
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************

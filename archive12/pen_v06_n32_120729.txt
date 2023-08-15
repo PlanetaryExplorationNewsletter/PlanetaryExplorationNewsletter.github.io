@@ -1,0 +1,504 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 6, Number 32 (July 29, 2012)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Melissa Lane
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. AGU Fall 2012 Special Session P006. Cratering Processes Throughout 
+   the Solar System
+2. AGU Fall 2012 Special Session P011. Laboratory Investigations 
+   Supporting Analysis of Datasets from Mars, the Moon, and Other 
+   Planetary Bodies
+3. AGU Fall 2012 Special Session P012. Lunar Science in the Wake of 
+   Human Exploration: Four Decades of Samples and Surface Data
+4. AGU Fall 2012 Special Session P025. Recent Advances in Lunar 
+   Science: Of, On and From the Moon
+5. AGU Fall 2012 Session P032. Using Numerical Models to Understand 
+   the Venus Atmosphere and Surface
+6. AGU Fall 2012 Session P034. What Lurks in the Martian Rocks and
+   Soil? Investigations of Sulfates, Phosphates, and Perchlorates
+7. Volcano-Lithosphere Interactions on the Terrestrial Planets 
+   Postdoctoral Fellowship: Lunar and Planetary Institute
+8. Planetary Geophysics Postdoctoral Fellowship
+9. NASA Postdoctoral Fellowships
+10. Explore Mars Announces the Humans to Mars Summit (H2M)
+11. Faculty Opening - Physics Department of Washington University in 
+    St. Louis
+12. OSIRIS-REx Mission Team Image Processing Scientist
+13. Update: NASA Juice Pre-Proposal Conference Details
+14. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+AGU FALL 2012 SPECIAL SESSION P006. CRATERING PROCESSES THROUGHOUT THE 
+SOLAR SYSTEM
+
+Dear colleagues,
+
+We're happy to announce a cratering session at the 2012 AGU fall 
+meeting:
+
+http://fallmeeting.agu.org/2012/session-search/single/
+cratering-processes-throughout-the-solar-system/
+
+Abstract:
+Impact cratering on planetary and asteroidal surfaces provides a 
+window into the physics of hypervelocity impact. In addition to the 
+basic physics questions surrounding the formation of impact features 
+on planetary surfaces, detailed knowledge of the mechanics of crater 
+formation is essential to unraveling the impact history of cratered 
+bodies. This session investigates cratering on all length scales, 
+ranging from micrometeoroid impacts through multi-kilometer 
+planetary features. Spacecraft observations, laboratory experiments, 
+and computational studies investigating features of hypervelocity 
+impacts are encouraged.
+
+The 2012 AGU fall meeting is December 3-7 in San Francisco, CA, 
+and the deadline for submission is August 8th at 23:59ET.  
+Abstracts can be submitted at:
+
+http://agu-fm12.abstractcentral.com/ 
+
+We look forward to your submissions and don't hesitate to contact 
+us if you have any questions. 
+
+Conveners:
+Andrew Collette, University of Colorado, 
+ Andrew.Collette@lasp.colorado.edu
+Luke Dones, SWRI, luke@boulder.swri.edu
+Brendan Hermalyn, University of Hawaii/NAI, hermalyn@ifa.hawaii.edu
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU FALL 2012 SPECIAL SESSION P011. LABORATORY INVESTIGATIONS 
+SUPPORTING ANALYSIS OF DATASETS FROM MARS, THE MOON, AND OTHER 
+PLANETARY BODIES
+
+Planetary missions over the past decade have gathered a wealth of data, 
+including spectral (e.g., TES, OMEGA, CRISM, M3), thermophysical (e.g., 
+Diviner, THEMIS), and geochemical/mineralogical (e.g., GRS, APXS, MB,
+CheMin, ChemCam, SAM). Rigorous laboratory investigations are required 
+for instrument calibration and refinement of data interpretation. This 
+session will focus on measurements/experiments that relate to 
+interpretation of remote sensing or in situ data from planetary 
+bodies. Studies that utilize multiple methods/datasets, analog 
+materials, and advance quantitative compositional analyses of orbital 
+data or the interpretation of MSL/MER instrument data are especially
+encouraged.
+
+Abstract deadline: August 8th
+
+http://fallmeeting.agu.org/2012/session-search/single/laboratory-
+investigations-supporting-analysis-of-datasets-from-mars-the-moon-
+and-other-planetary-bodies-cosponsored-by-msa/
+
+Conveners:
+Christopher S. Edwards (Arizona State University/California 
+ Institute of Technology)
+Bethany L. Ehlmann (California Institute of Technology/Jet Propulsion 
+ Laboratory)
+Timothy D. Glotch (Stony Brook University)
+
+Cosponsored by MSA.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU FALL 2012 SPECIAL SESSION P012. LUNAR SCIENCE IN THE WAKE OF 
+HUMAN EXPLORATION: FOUR DECADES OF SAMPLES AND SURFACE DATA
+
+In December 1972 Apollo 17 completed the first era of human exploration 
+of the Moon. In the 40 years since this event our understanding of the 
+Moon and its history have evolved as a result of analysis of lunar 
+samples, surface experiments, and recent orbital missions. Building 
+upon the solid foundation provided by the Apollo-era exploration and 
+science results, new views of the Moon have flourished in the past 
+decade due to improved analytical techniques and enhanced 
+instrumentation. This session will highlight lessons from the Apollo 
+exploration of the Moon as well as what has been learned over the 
+past 40 years, focusing on the latest analysis of samples and results 
+from recent and ongoing orbital missions.
+
+Abstract deadline: August 8th
+
+http://fallmeeting.agu.org/2012/session-search/single/
+lunar-science-in-the-wake-of-human-exploration-four-decades-of-
+samples-and-surface-data/
+
+Conveners:
+Noah E Petro, noah.e.petro@nasa.gov
+Bradley L Jolliff, blj@levee.wustl.edu
+Richard R Vondrak, richard.vondrak@nasa.gov
+James W Rice, james.w.rice@nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU FALL 2012 SPECIAL SESSION P025. RECENT ADVANCES IN LUNAR SCIENCE: 
+OF, ON AND FROM THE MOON
+
+This session will feature science reports focused on lunar science 
+including geology/geochemistry, impact cratering, lunar formation 
+and solar system dynamics, space plasma/exosphere and surface 
+interactions, and volatile characterization as well as the unique 
+astronomy and cosmology enabled by the radio-quiet far side of the 
+Moon.
+
+Abstract deadline: August 8th
+
+http://fallmeeting.agu.org/2012/session-search/single/
+recent-advances-in-lunar-science-of-on-and-from-the-moon/
+
+Conveners:
+
+Brad Bailey, NASA Lunar Science Institute, brad.bailey@nasa.gov
+David Morrison, NASA Lunar Science Institute, david.morrison@nasa.gov
+Yvonne J Pendleton, NASA Lunar Science Institute, 
+ yvonne.pendleton@nasa.gov
+Mihaly Horanyi, University of Colorado, horanyi@colorado.edu
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU FALL 2012 SESSION P032. USING NUMERICAL MODELS TO UNDERSTAND THE 
+VENUS ATMOSPHERE AND SURFACE
+
+Numerical models are essential tools used to integrate the 
+increasingly complex observations of the Venus atmosphere and surface 
+into self-consistent scientific hypotheses about the structure, 
+microphysics, and circulation of the Venus atmosphere. The abundance 
+of observations from Venus Express and the 2012 transit presents a 
+unique opportunity to discuss the best implementations and uses of 
+these models.
+
+Presentations will discuss observation models that are used in 
+retrieval/inversion of observations of the atmosphere and surface 
+(e.g., composition retrieval), and models that simulate physical 
+processes driving the thermal structure, composition, and circulation
+of the atmosphere (e.g., microphysics models, GCMs).
+
+
+Please consider submitting an abstract for this session. Visit the 
+session website:
+
+http://fallmeeting.agu.org/2012/session-search/single/
+using-numerical-models-to-understand-the-venus-atmosphere-and-surface/
+
+The abstract submission website:
+
+http://agu-fm12.abstractcentral.com/
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+Conveners:
+Christopher Lee, Ashima Research (lee@ashimaresearch.com)
+Kevin McGouldrick, University of Colorado 
+ (Kevin.McGouldrick@lasp.colorado.edu)
+Con Tsang, Southwest Research Institute (con@boulder.swri.edu)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU FALL 2012 SESSION P034. WHAT LURKS IN THE MARTIAN ROCKS AND SOIL?
+INVESTIGATIONS OF SULFATES, PHOSPHATES, AND PERCHLORATES
+
+Sulfates, phosphates, and perchlorates have been found on Mars from
+orbit and/or from surface missions. Identification of these minerals
+(suites) can enable constraints on the Martian geochemical
+environments. This session will generate a discussion regarding the
+conditions for the formation of these minerals on Mars, and methods for
+identifying their geological environments and related fluid chemistry.  
+Abstracts describing discoveries of sulfates, phosphates, or
+perchlorates from surface missions and orbital spacecraft data, and
+those covering laboratory analyses and thermodynamic modeling relating
+to the hydration state of these minerals and their stability on Mars
+are welcome.
+
+Abstract deadline: August 8, 2012, 23:59ET/3:59+1 GMT
+
+For abstract submission policies see:
+
+http://fallmeeting.agu.org/2012/scientific-program/abstract-submission-
+policies/
+
+Invited speakers include:
+Richard Quinn
+Mariam Sowe
+Penny King
+
+Conveners:
+Melissa Lane (Planetary Science Institute)
+Janice Bishop (SETI Institute/NASA Ames Research Center)
+Darby Dyar (Mount Holyoke College)
+
+***SPECIAL NOTE: Papers from this session (and other future relevant
+submissions) will be considered for publication as a Special Section
+on Martian soils in the journal, American Mineralogist.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+VOLCANO-LITHOSPHERE INTERACTIONS ON THE TERRESTRIAL PLANETS 
+POSTDOCTORAL FELLOWSHIP: LUNAR AND PLANETARY INSTITUTE
+
+The Universities Space Research Association - Houston invites 
+applications for a postdoctoral fellowship in geophysical studies of 
+the growth/evolution of large volcanic edifices and provinces on the 
+terrestrial planets.
+
+The candidate will work with Dr. Patrick McGovern exploring mechanical 
+interactions between intrusive and extrusive volcanic edifice growth, 
+lithospheric flexural response, and magma ascent, using numerical 
+modeling techniques, including Finite Element (FEM) and Distinct 
+Element (DEM) Methods. Research will also entail analysis of imagery,
+topography, gravity, and spectral datasets for large planetary 
+volcanoes in order to constrain the modeling efforts. Potential 
+bodies of interest include Venus, Io, the Moon, Earth, and Mars.
+
+Requirements are a recent Ph.D. in geophysics or geology. Experience 
+quantitative modeling of geophysical, geological, or magmatic 
+processes with advanced codes as COMSOL Multiphysics (FEM) and PFC 
+(DEM). Programming languages, MATLAB or FORTRAN 95 desirable. The 
+position is two years with a possible extension to three years.
+
+Send letter of interest, curriculum vita with a list of relevant 
+publications, brief statement of research interests, and three 
+references to resume@lpi.usra.edu. Further information may be 
+found at:
+
+www.lpi.usra.edu.
+
+The Universities Space Research Association is an Equal Opportunity 
+Employer.
+ 
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY GEOPHYSICS POSTDOCTORAL FELLOWSHIP
+
+The Universities Space Research Association's Lunar and Planetary 
+Institute (LPI), in Houston Texas, invites applications for a 
+postdoctoral fellowship in planetary geophysics.
+
+The successful candidate will work with Dr. Walter Kiefer on a NASA-
+funded project studying the nature of mantle convection on Mars and 
+its effects on the thermal evolution and volcanic history of the 
+planet. The candidate will also have the opportunity to conduct 
+research in planetary geophysics of his or her own choosing.
+
+The position requires a Ph.D. in Planetary Science or Geophysics with 
+experience in computer programming and numerical modeling methods, 
+particularly finite elements. Experience with parallel computing in 
+a Linux environment will be an asset. The position will be offered 
+for an initial period of two years with a possible extension to a 
+maximum of three years.
+
+Applicants should send a letter of interest, a curriculum vita listing 
+relevant publications, a brief (maximum three pages) statement of 
+research interests, and a list of three references to 
+resume@lpi.usra.edu.  Further information about LPI can be found at:
+
+www.lpi.usra.edu.
+
+USRA is an Equal Opportunity Employer.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U. S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high cost-
+of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, 
+and November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org
+
+ 
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+EXPLORE MARS ANNOUNCES THE HUMANS TO MARS SUMMIT (H2M)
+ 
+Join us at the Humans to Mars Summit (H2M). Co-sponsored by Explore 
+Mars and the George Washington University Space Policy Institute, 
+H2M will be held on May 6-8, 2013 at the Lisner Auditorium at George
+Washington University in Washington, DC.  H2M will be a comprehensive 
+Mars exploration conference to address the major technical, scientific, 
+and policy related challenges that need to be overcome to send humans 
+to Mars by 2030.
+
+Topics will include: robotic and human precursor missions; launch 
+systems; Mars transit challenges; human factors; entry, decent and 
+landing; in situ resource utilization; space suit design; surface 
+power; science goals; and many other topics. H2M will also discuss 
+space policy as well as ways to stimulate private sector participation 
+in Mars exploration.
+
+Some of the tentative speakers already include Doug Mccuistion, 
+James Garvin, Andrew Chaikin, David Beaty, Chris McKay, and many 
+others.
+
+Take advantage of our special "Pre-Launch" registration today and 
+save money before the registration fee increases after 
+September 12, 2012:
+
+http://h2m.eventbrite.com 
+
+or visit our website at:
+
+www.exploremars.org
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+FACULTY OPENING - PHYSICS DEPARTMENT OF WASHINGTON UNIVERSITY IN 
+ST. LOUIS
+
+The Department of Physics at Washington University announces a faculty 
+opening in experimental physics at the level of Associate Professor 
+with tenure in space sciences, particularly cosmochemistry or 
+extraterrestrial materials. Candidates at the Assistant Professor 
+level who are exceptionally well qualified and who have a demonstrated 
+aptitude for teaching and original research will also be considered. 
+Duties include teaching and advising students, conducting original 
+research, and participating in departmental and university service. 
+A PhD in a relevant field is required. Demonstrated success in 
+obtaining research funding is highly desirable. The appointment 
+will begin fall 2013. Applications should consist of the following: 
+cover letter, current resume including publication record, statement 
+of research interests and plans (up to 5 pages), statement of teaching 
+interests and approach (up to 3 pages), and names and complete contact
+information (including email addresses) of three references. 
+Application materials must be submitted electronically by email as 
+a single file in editable PDF format to:
+spacesciencesearch@wuphys.wustl.edu
+
+For full consideration applications should be submitted on or before 
+November 15, 2012. Washington University is an equal opportunity/equal 
+access/affirmative action institution. Women and minorities are 
+encouraged to apply.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+OSIRIS-REx MISSION TEAM IMAGE PROCESSING SCIENTIST
+
+The University of Arizona's Lunar and Planetary Laboratory is leading 
+the OSIRIS-REx mission to a primitive asteroid. Images from the 
+spacecraft's cameras will be critical to many elements of the mission, 
+including optical navigation, global mapping to secure a shape model 
+to define a reference coordinate system, the search for valid and 
+viable sampling sites, monitoring of the sample acquisition process 
+and the search for any satellites and dust plumes around the asteroid. 
+We seek a full-time staff scientist who will help define and create 
+the image processing requirements and algorithms needed to achieve 
+this goal. During asteroid proximity operations, they will use their 
+knowledge of image processing and tools to manage routine pipeline 
+processing of returned images, and the creation of ad-hoc imaging 
+products. They will also support the creation of image data products 
+to support the selection of a sampling site.
+
+We are searching for a PhD in an appropriate field with 3-4 years of
+experience OR a bachelors or higher degree in an appropriate field 
+and 10 years of experience.
+
+To read more about the job or to apply, visit the University of 
+Arizona's Human Resources Website at:
+
+https://www.uacareertrack.com/ 
+
+and search for Job Number 50477.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+UPDATE: NASA JUICE PRE-PROPOSAL CONFERENCE DETAILS
+ 
+Webex and teleconference line information for the NASA Pre-Proposal 
+Conference to discuss the NASA JUICE AO have been posted at:
+
+http://soma.larc.nasa.gov/juice/
+
+The Pre-Proposal conference is scheduled for Monday, July 30, from 
+9 am to 12 pm eastern time.
+ 
+This is a virtual meeting and travel to attend in person is not 
+necessary.
+ 
+Dr. Curt Niebur
+curt.niebur@nasa.gov
+202-358-0390
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+April 17-19, 2013
+UK Astrobiology Conference
+http://www.astrobiology.ac.uk/astrobiology-conference-2013
+Edinburgh, Scotland
+
+September 24-28, 2013
+2nd International Congress of Astronbiology in Columbia
+http://www.astrobiologia.org/2-congreso-internacional-de-astrobiologia.html
+Medellin, Columbia
+
+November 11-14, 2013
+2nd Exobiology Workshop
+http://www.exobiologie.fr/index.php/actualites/evenements/rencontres-sfe-2012/
+Frejus, France
+
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+**********************************************************************

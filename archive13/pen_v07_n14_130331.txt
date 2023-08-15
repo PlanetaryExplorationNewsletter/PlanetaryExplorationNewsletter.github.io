@@ -1,0 +1,338 @@
+PLANETARY EXPLORATION NEWSLETTER 
+Volume 7, Number 14 (March 31, 2013)
+
+PEN Website: http://planetarynews.org
+Editor: Melissa Lane
+Co-Editors: Susan Benecchi, Mark V. Sykes
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Postponement of the 8th International Mars Conference to 2014
+2. Cosmochemistry and Planet Formation Theme at Goldschmidt 2013 
+   Meeting
+3. Research Positions at University of Oslo, Norway
+4. Postdoc Available Researching Pluto's Extended Atmosphere
+5. NASA Postdoctoral Fellowships
+6. 10th International Planetary Probe Workshop
+7. Director, NASA Astrobiology Institute
+8. Planetary Atmospheres Researcher (GSFC/CRESST/University of 
+   Maryland)
+9. Goldschmidt Session: Martian Evolution - Ancient Messengers and 
+   Modern Measurements
+10. Staff Scientist Position Petrology/Meteorites 
+11. Planetary Meeting Calendar Additions
+ 
+o---------------------------------------------------------------------o
+ 
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+POSTPONEMENT OF THE 8TH INTERNATIONAL MARS CONFERENCE TO 2014
+
+The impacts of sequestration on the Federal budget have led to new 
+travel policies that severely constrain the participation of NASA 
+center employees, including JPL, and other government employees (e.g., 
+the U. S. Geological Survey) in scientific conferences, including the 
+planned 8th International Mars Conference set for July 15-19 on the 
+Caltech campus.  The current fiscal environment is sufficiently 
+restrictive that we, the organizers of the conference, have decided 
+to delay the meeting for one year, holding it instead in June/July of 
+2014. We sought advice from the MEPAG Executive Committee, which 
+unanimously concurred with our decision.
+
+Although it was our strong preference to hold the conference this year, 
+the meeting in 2014 will include even more results from Mars, including 
+Curiosity’s further exploration of Gale Crater, as the rover will then 
+be well into the second year of its primary science mission.  We look 
+forward to a full conference in June/July 2014 and hope to see you 
+there.
+ 
+Dan McCleese / Dave Beaty / Rich Zurek
+8th International Mars Conference conveners
+
+[Edited for length.]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+COSMOCHEMISTRY AND PLANET FORMATION THEME AT GOLDSCHMIDT 2013 MEETING
+
+Goldschmidt 2013 will be held August 25-30 in Florence, Italy, and 
+feature a Cosmochemistry and Planet Formation Theme, with the 
+following special sessions:
+
+- Refractory Grains, Volatiles, and Organic Molecules Inherited from 
+  the Interstellar Medium
+- Martian Evolution; Ancient Messengers and Modern Measurements
+- Planet Formation and Bombardment
+- Comparative Planetology of Crust Formation
+- Accretion and Differentiation of Primitive Parent Bodies
+- Chronology of Molecular Cloud Collapse, First Solids Formation, and 
+  Earliest Accretion
+- Origins of Life: Environments, Mineral Surfaces, and Prebiotic
+- Dynamics and Chemistry in Protoplanetary Disks
+- The Volatile Inventory of the Moon and Mercury
+- In Situ, High Spatial Resolution Isotopic Measurements Applied to 
+  Extraterrestrial Materials
+
+Abstract deadline: April 12, 2013
+
+Additional details available at:
+
+http://goldschmidt.info/2013/program/programViewThemes#theme02
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+RESEARCH POSITIONS AT UNIVERSITY OF OSLO, NORWAY
+
+Positions at the newly founded Centre for Earth Evolution and Dynamics 
+(CEED) at the University of Oslo, Norway, include:
+ 
+1 Research Associate position - Research Associate in Computational 
+  Mineral Physics  (application deadline: May 6, 2013)
+5 PhD fellowships-
+
+PhD Research Fellowship in Comparative Planetology
+PhD Research Fellowship in Deep Earth Mineralogy and Mineral Physics
+PhD Research Fellowship in Geological Processes and Earth Crises
+PhD Research Fellowship in Global Subduction Systems /or/ Evolution 
+  of Oceanic Regions, Palaeo-circulation and Climate
+PhD Research Fellowship in Numerical Modelling of Earth Processes
+
+For more information, please see:
+
+http://www.mn.uio.no/ceed/english/
+ 
+The fellowships are for a period of 3 years. The start date is autumn 
+2013. The application deadline is May 15, 2013.
+
+CEED seeks candidates, who are willing to work in an interdisciplinary 
+environment, and who want to study the link between surface evolution 
+and interior dynamics of the Earth and planets.
+
+Informal enquiries are welcome and can be made to the director of CEED: 
+Professor Trond H. Torsvik (t.h.torsvik@geo.uio.no) or any of the other 
+contact persons specified in the separate announcements, which are 
+listed here:
+
+http://www.mn.uio.no/ceed/english/about/vacancies/
+
+[Edited for content.]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+POSTDOC AVAILABLE RESEARCHING PLUTO'S EXTENDED ATMOSPHERE
+
+The University of Texas Center for Aeromechanics Research has a 
+postdoc position available to develop a three dimensional DSMC 
+simulation of Pluto's extended atmosphere. A researcher in the field 
+of planetary atmospheres with a strong background in programming, 
+especially on parallel architectures, is desired. Knowledge of the 
+direct simulation Monte Carlo method or related molecular-based 
+modeling would be very helpful.
+
+Candidates should have a PhD in a relevant discipline and a strong 
+interest in upper atmospheric physics. Position is available 
+immediately.
+
+To apply, please contact David Goldstein at david(at)ices.utexas.edu.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+NASA POSTDOCTORAL FELLOWSHIPS
+
+The NASA Postdoctoral Program (NPP) offers scientists and engineers 
+unique opportunities to conduct research at NASA Centers. Each NPP 
+fellowship opportunity is designed to advance NASA research in a 
+specific project related to space science, earth science, aeronautics, 
+exploration systems, lunar science, astrobiology, or astrophysics.
+
+Applicants must have a Ph.D. or equivalent degree in hand before 
+beginning the fellowship, but may apply while completing the degree 
+requirements. U.S. citizens, Lawful Permanent Residents, and foreign 
+nationals eligible for J-1 status as a Research Scholar may apply.
+
+Stipends start at $53,500 per year, with supplements for high 
+cost-of-living areas and for certain academic specialties. Financial 
+assistance is available for relocation and health insurance, and 
+$8,000 per year is provided for professional travel.
+
+Applications are accepted three times each year: March 1, July 1, and 
+November 1.
+
+For further information and to apply, visit:
+
+http://nasa.orau.org/postdoc/description/index.htm
+
+Questions may be submitted by e-mail to nasapostdoc@orau.org 
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+10TH INTERNATIONAL PLANETARY PROBE WORKSHOP
+ 
+Sending space vehicles to other worlds is one of humankind’s most 
+challenging and rewarding ventures. The 10th International Planetary 
+Probe Workshop (IPPW-10) will bring together engineers, technologists, 
+scientists, mission designers, space agency leaders, and students from 
+around the world for a compelling, week-long collaboration focused on 
+exploring solar system destinations via in-situ missions.
+
+This 10th workshop will build upon the IPPW tradition by encouraging 
+international cooperation in planetary probe missions, new 
+technologies, and scientific discoveries. In addition, students from 
+around the world will have a unique opportunity to present their work 
+and to interact with the leaders in their discipline areas.
+ 
+Abstract Submission Deadline is Wednesday, 3 April 2013!
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DIRECTOR, NASA ASTROBIOLOGY INSTITUTE
+
+NASA seeks a new Director for the NASA Astrobiology Institute (NAI).  
+The ideal candidate will be an internationally recognized scientist 
+with proven experience in leading large, multi-disciplinary, multi-site 
+research programs or projects, possessed with a vision for leading the 
+Institute into the future.  Established in 1998 as part of NASA’s 
+Astrobiology Program, the NAI is a collaboration between NASA, US 
+academic institutions, and foreign institutions, governments and 
+research organizations. The NAI, currently headquartered at NASA Ames 
+Research Center in the heart of California’s Silicon Valley, functions 
+as a virtual institute, its members linked by modern information 
+technologies.
+ 
+The NAI Director, a member of the federal Senior Executive Service 
+(SES), is both the senior scientific officer and chief operating 
+officer of the NAI.
+ 
+U.S. citizenship is required. Interested applicants should apply 
+directly to USAJobs to vacancy number AR13S0001 at: 
+
+http://www.usajobs.gov/GetJob/ViewDetails/339239100  
+
+This website also provides additional details and the application 
+deadline.
+ 
+NASA Ames Research Center does not discriminate in employment on the 
+basis of race, color, religion, sex, national origin, political 
+affiliation, sexual orientation, gender identity, marital status, 
+disability and genetic information, age, membership in an employee 
+organization, or other non-merit factor.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+PLANETARY ATMOSPHERES RESEARCHER (GSFC/CRESST/UNIVERSITY OF MARYLAND)
+
+The NASA Goddard Space Flight Center's (GSFC) Planetary Environments
+Laboratory, in conjunction with the Center for Research and 
+Exploration in Space Science and Technology (CRESST), is soliciting 
+applications for a researcher in the field of Planetary Atmospheres to 
+support Mars upper atmosphere investigations with the MAVEN mission. 
+Additional details are available at: 
+
+http://www.astro.umd.edu/employment/
+
+Candidates should have a Ph.D. in a relevant discipline with a strong 
+and demonstrated interest in and understanding of upper atmospheric 
+physics. IDL skills and experience in acquisition and analysis of 
+data from space flight instruments are highly desirable.
+
+The University of Maryland is an equal opportunity employer. All 
+applications received by Monday, April 29, 2013 will receive full 
+consideration.
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+GOLDSCHMIDT SESSION: MARTIAN EVOLUTION - ANCIENT MESSENGERS AND MODERN 
+MEASUREMENTS
+
+We would like to encourage you to participate in the session 02b 
+"Martian Evolution; Ancient Messengers and Modern Measurements" at the 
+next Goldschmidt conference which will take place in beautiful 
+Florence on August 25-30, 2013.
+ 
+Keynote speaker: Laurie Leshin (Rensselaer Polytechnic Institute)
+The deadline for submitting abstracts is Friday, April 12th, 2013, 
+23.59 GMT. For more information, see: 
+
+http://goldschmidt.info/2013/index
+ 
+Our knowledge of formation and geochemical evolution of Mars is 
+rapidly increasing through chemical, isotopic, and petrologic analysis 
+of martian meteorites, direct analysis and modeling of modern surfaces, 
+and studies of analogue sites such as impact and volcanic crater 
+environments. Deciphering these records and place them in proper 
+context on Mars is particularly important to enhance our understanding 
+of the conditions for the formation of interior and surface of planets 
+present within the habitable zone. We strongly encourage a broad 
+participation of planetary scientists to present new mineralogical, 
+geochemical, geophysical, and biogeochemical studies relevant to 
+terrestrial planet evolution and astrobiological processes related to 
+Mars in order to better portray these systems in depth and through 
+time.
+ 
+We hope to see you in Florence!
+Audrey Bouvier (University of Minnesota) and Desmond Moser (University 
+of Western Ontario)
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+STAFF SCIENTIST POSITION PETROLOGY/METEORITES
+
+The Natural History Museum Vienna (NHM), Austria, announces the 
+availability of a staff scientist position in petrology with a focus 
+on meteorite research at the museum's Department of Mineralogy and 
+Petrography. This position involves research, curatorial work on the 
+rock and meteorite collections, as well as museum-related outreach 
+activities. Preference will be given to candidates with several years 
+of post-doctoral experience, proven research funding record, and 
+knowledge of German. Application deadline May 17, 2013. For details, 
+and information on how to apply, see: 
+
+http://www.nhm-wien.ac.at/en/information/jobs
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+June 2-6, 2013
+First Laboratory Astrophysics Division (LAD) Meeting
+http://aas.org/aas-222nd-meeting/laboratory-astrophysics-division-
+sessions
+Indianapolis, IN
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which you think your colleagues should be aware, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu).                                                
+***********************************************************************

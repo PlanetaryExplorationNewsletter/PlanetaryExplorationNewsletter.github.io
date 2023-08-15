@@ -1,0 +1,294 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 20 (April 6, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Nic Richmond
+Co-Editors: Mark V. Sykes, Matt Balme
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS Releases ROSETTA Alice Data
+2. Mars High-Resolution Digital Terrain Model Data Set Release
+3. NASA Planetary Science Subcommittee Presentations, Report and
+   Recommendations
+4. Special Issue on the Tharsis Province, Mars
+5. VEXAG Meeting #5, May 7-8, 2008, University of Maryland
+6. Reminder - Mars Express OMEGA-HRSC Data Workshop
+7. 11th Mars Crater Consortium Meeting
+8. GIS for Planetary Mappers Workshop, October 1-2, 2008
+9. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS RELEASES ROSETTA ALICE DATA
+
+The NASA Planetary Data System is pleased to announce the first 
+delivery of data from the ROSETTA mission. The delivery includes raw 
+and calibrated data from the Alice UV imaging spectrometer acquired
+during the following mission phases:
+
+COMMISSIONING 1 (includes C/2002 T7 (LINEAR))
+CRUISE 1 CHECKOUT
+COMMISSIONING 2
+EARTH SWING-BY 1
+CRUISE 2 (includes 9P/Tempel 1)
+MARS SWING-BY (includes Jupiter and the Io plasma torus)
+
+To see and download the data as well as mission and instrument
+information, go to:
+
+http://pdssbn.astro.umd.edu/missions/rosetta/index.html
+
+For access to all data archived in the PDS, go to:
+http://pds.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+MARS HIGH-RESOLUTION DIGITAL TERRAIN MODEL DATA SET RELEASE
+
+Dear colleagues,
+
+We would like to inform you that the high-resolution Digital Terrain
+Model data set, based on data from the HRSC camera on Mars Express, 
+has been released and is available from the ESA Planetary Science 
+Archive.
+
+The web release:
+
+http://www.esa.int/SPECIALS/Mars_Express/SEM8Q2PR4CF_0.html
+
+Access to the ESA archive:
+
+http://www.rssd.esa.int/index.php?project=PSA
+
+Link to the Mars Express HRSC data viewer:
+
+http://hrscview.fu-berlin.de/
+
+If you have any questions on the ESA archive, or on the use of the
+Digital Terrain Model, please contact psahelp@rssd.esa.int
+
+Kind Regards
+
+Olivier Witasse
+Mars Express Deputy Project Scientist
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+NASA PLANETARY SCIENCE SUBCOMMITTEE PRESENTATIONS, REPORT AND
+RECOMMENDATIONS
+
+The Presentations, Report and Recommendations from the March 3-4,
+2008, Meeting of Planetary Sciences Subcommittee of the NASA Advisory
+Council are now available online at the "unofficial" website for the
+Subcommittee:
+
+http://www.lpi.usra.edu/pss/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+SPECIAL ISSUE ON THE THARSIS PROVINCE, MARS
+
+Journal of Volcanology and Geothermal Research (JVGR) special issue:
+
+Tectonic and Volcanic History of the Tharsis Province, Mars
+
+Guest Editors; Jacob Bleacher, James Dohm
+
+This message is to notify you of an upcoming publication opportunity 
+through JVGR. A thematic issue entitled "Tectonic and Volcanic History
+of the Tharsis Province, Mars" is in preparation and it will include a
+suite of papers based on analyses of post-Viking era data. 
+
+We would like to invite you to submit a manuscript if your work is 
+related to this topic. All manuscripts will be subject to the 
+standard review process maintained by JVGR, and must be deemed by the 
+editorial staff to be within the scope of the thematic volume.  The 
+goal for this issue is to follow a strict schedule with publication 
+before the end of 2008.  The deadline for submission is May 16th, 2008.
+If you anticipate submitting a manuscript, please e-mail either:
+
+Jacob Bleacher, Jacob.Bleacher-1@nasa.gov
+James Dohm, jmd@hwr.arizona.edu   
+ 
+Provide a title and an author list.  This information will help us 
+assemble reviewers so that they will be in place by the submission 
+deadline.  We plan to provide reviews within two months of submission 
+in order to maintain our publication deadline. 
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+VEXAG MEETING #5, MAY 7-8, 2008, UNIVERSITY OF MARYLAND
+
+The next VEXAG Meeting will be held on Wednesday-Thursday, May 7-8, 
+2008 at the University of Maryland Conference Center.
+
+A key topic for this meeting will be an interim report by the Venus 
+STDT, reporting on their progress since starting in January 2008. 
+Other topics of interest will be progress reports on ESA's Venus 
+Express and JAXA's Venus Climate Orbiter,follow-ups to the Venus-Earth 
+Climate Connections session from the November meeting as well NASA 
+Headquarters reports on their perspectives for Venus Exploration and 
+Venus Technology Development. Input on laboratory measurements needed 
+to support the science objectives described in the VEXAG white paper 
+will also be discussed.
+
+As before, there will special science reports and opportunities for 
+open mike presentations (1-2 slides, up to 10 minutes). If you wish 
+to make an open mike presentation, please send an email with a title 
+to Tommy Thompson: Thomas.W.Thompson@jpl.nasa.gov
+
+Student participation is encouraged, and some travel funds will be 
+available: 
+
+http://www.lpi.usra.edu/vexag/may2008/student_travel.html 
+
+For further information visit the VEXAG Meeting web-site: 
+
+http://www.lpi.usra.edu/vexag/meetings.html 
+
+If you intend to attend the meeting, please pre-register at: 
+
+http://www.lpi.usra.edu/vexag/may2008/iofi/ 
+
+Local hotel information and directions will be provided shortly on the 
+meeting web site, and will be sent out in a future email.
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+REMINDER - MARS EXPRESS OMEGA-HRSC DATA WORKSHOP
+
+A 3-day Mars Express OMEGA-HRSC Data Workshop will be held on 
+Wednesday, Thursday, Friday (May 21-23, 2008) at PDS Geosciences 
+Node, Washington University, St. Louis in order to provide graduate 
+students, post-doc's and other Mars investigators with a working 
+knowledge of how to use the Mars Express OMEGA (Observatoire pour la 
+Mineralogie, l'Eau, les Glaces et l'Activity) and HRSC (High 
+Resolution Stereo Camera) data sets. This workshop will provide:
+
+- Tutorials and hands-on with Mars Express data
+- Explore data from ESA Planetary Science Archive
+- Use data and tools with Instrument science teams
+
+Workshop attendees are expected to supply their own computers equipped 
+with IDL. Workshop attendance will be limited to 30. If interested in 
+participating, contact Tommy Thompson (JPL, twhompson@jpl.nasa.gov, 
+818-354-3881 ). A block of rooms at near-by Crowne-Plaza-Clayton Hotel: 
+
+http://www.ichotelsgroup.com/h/d/cp/1/en/hotel/STLCM/ 
+
+will be available for booking until April 19.
+
+Workshop Web-Site: 
+
+http://www.rssd.esa.int/mexdataworkshops/
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+11TH MARS CRATER CONSORTIUM MEETING
+
+The 11th Mars Crater Consortium meeting will take place Sept. 29-30,
+2008, at the US Geological Survey in Flagstaff, AZ.  For more
+information about the meeting, please visit the Mars Crater Consortium
+website at http://www.marscraterconsortium.nau.edu/ or contact Nadine
+Barlow (Nadine.Barlow@nau.edu).
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+GIS FOR PLANETARY MAPPERS WORKSHOP, OCTOBER 1-2, 2008
+
+The US Geological Survey in Flagstaff, AZ, will host a 2-day hands-on
+training workshop on "GIS for Planetary Mappers".  Seating is limited 
+to 24 people.  For more information and to register, go to
+http://webgis.wr.usgs.gov/pigwad/docs/ or contact Trent Hare
+(thare@usgs.gov). 
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html 
+
+April 26-27, 2008
+Ares V Astronomy Workshop
+http://event.arc.nasa.gov/aresv/
+Moffett Field, CA
+
+June 1, 2008
+SOFIA Early Science Workshop II
+http://www.sofia.usra.edu/Science/AASworkshops/workshops.html
+St. Louis, MO
+
+July 26-27, 2008
+Workshop on Antarctic Meteorites: Search, Recovery, and 
+Classification
+http://www.metsoc2008.jp/workshop/
+Matsue, Japan
+
+September 15-17, 2008
+MSL (Mars Science Laboratory) 3rd Landing Site Workshop
+Contact: Matt Golombek (golombek@jpl.nasa.gov)
+Pasadena, CA
+
+September 18-19, 2008
+MEPAG (Mars Exploration Program Analysis Group) Meeting #19
+Contact: Jack Mustard (john_mustard@brown.edu)
+Pasadena, CA
+
+September 25-28, 2008
+Caves of Mars Field Meeting: Lavatubes and their Extraterrestrial 
+Analog Value for Mars, and Possibly Other Bodies
+http://www.highmars.org/niac
+Grants, NM
+
+October 26-30, 2008
+New Light on Young Stars: Spitzer's View of Circumstellar Disks
+http://www.ipac.caltech.edu/spitzer2008/
+Pasadena, CA
+
+October 28-31, 2008
+Joint Annual Meeting of LEAG-ICEUM-SRR
+http://www.lpi.usra.edu/meetings/leagilewg2008/
+Cape Canaveral, Florida
+
+October 18-23, 2009
+The Sixth International Conference on The Inspiration of 
+Astronomical Phenomena Celebrating the 400th Anniversary of Galileo's 
+First Astronomical Uses of the Telescope
+http://dipastro.astro.unipd.it/insap6/
+Venice, Italy
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+*
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+*
+* http://planetarynews.org
+*
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+*
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+*
+* Please send all replies and submissions to pen_editor at psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Go to the PEN website for submission directions.
+************************************************************************
+

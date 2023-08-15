@@ -1,0 +1,307 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 15, Number 45 (October 31, 2021)
+PEN Website: https://planetarynews.org
+
+Editor: Alex Morgan
+Co-Editors: Georgiana Kramer, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+1. NASA JPL Job Opening: Deputy Project Scientist, Europa Clipper
+2. Biosignature Standards of Evidence Whitepaper Now Available for 
+   Public Comment and Co-signing
+3. UC Berkeley Space Sciences Laboratory Recruiting Assistant 
+   Specialist
+4. Frontier Development Lab (FDL): Call for Challenges
+5. [NASA] SMD Seeks Volunteer Reviewers
+6. Postdoctoral Scholar in Planetary Science at Texas A&M
+7. EGU 2022 Session PS7.2: Ice Giant System Exploration
+8. Open Search for Department Chair, University of Texas at San Antonio
+9. Planetary Meeting Calendar Additions
+10. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NASA JPL JOB OPENING: DEPUTY PROJECT SCIENTIST, EUROPA CLIPPER
+
+Location: Pasadena, CA
+
+The Science Division of the Jet Propulsion Laboratory (JPL) and the 
+Europa Clipper Project, managed for NASA by JPL, seek a Deputy Project 
+Scientist for the development, cruise operations, and tour operations 
+phases of the Europa Clipper mission. The purpose of the Europa 
+Clipper mission is to investigate the habitability of Jupiter's moon, 
+Europa. This mission seeks to address the NASA's strategic science 
+goal of ascertaining the potential for life elsewhere in the Solar 
+System by investigating the capacity of Europa and its deep ocean to 
+harbor life. The mission is currently in its final system design and 
+fabrication phase, toward a planned launch in October 2024, arrival at 
+Jupiter in 2030, and first encounter with Europa in 2031; the nominal 
+end of prime mission is 2034. The successful candidate will be a 
+highly motivated individual with previous direct mission experience 
+and broad planetary science expertise.
+
+To view the full description of this unique opportunity (including EEO 
+statement and NASA requirements) and apply, please visit:
+
+https://bit.ly/3mrwMeL
+
+Applications received by November 30, 2021, will receive full 
+consideration.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+BIOSIGNATURE STANDARDS OF EVIDENCE WHITEPAPER NOW AVAILABLE FOR PUBLIC 
+COMMENT AND CO-SIGNING
+
+Dear Astrobiology Community,
+
+In July, 2021 the Nexus for Exoplanet System Science (NExSS) and the 
+Network for Life Detection (NfoLD) Research Coordination Networks 
+hosted a community workshop on Biosignature Standards of Evidence. 
+During this workshop, participants developed a generalized framework 
+for biosignature detection and assessment, and discussed and 
+identified best practices needed to develop a reporting protocol for 
+potential biosignature detection. 
+
+The participants have now completed a draft whitepaper report 
+summarizing the workshop discussions and major findings. The white 
+paper sections describe the motivation for community development of 
+biosignature assessment and reporting protocols, a description of the 
+generalized assessment framework, worked examples of how the framework 
+could be applied for specific biosignatures and measurement 
+techniques, a discussion of how the framework can be applied 
+throughout a spaceflight mission life cycle, discussions on the 
+reporting protocol development, and a summary of key takeaways and 
+future work.
+
+The workshop participants are now soliciting community comments and 
+offering members of the scientific community the opportunity to 
+co-sign the whitepaper on this website:
+
+https://www.nfold.org/soe-endorsements
+
+The comment period will close on November 10th.
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+UC BERKELEY SPACE SCIENCES LABORATORY RECRUITING ASSISTANT SPECIALIST
+
+The Space Sciences Laboratory (SSL) at the University of California, 
+Berkeley seeks applications for an Assistant Specialist position at 
+100% time. For more information about the position, including required 
+qualifications application materials, and deadlines, go to:
+
+https://aprecruit.berkeley.edu/JPF03190
+
+The position will remain open until filled. For questions, please 
+email Dr. Robert Lillis at rlillis@berkeley.edu.
+
+All qualified applicants will receive consideration for employment 
+without regard to race, color, religion, sex, sexual orientation, 
+gender identity, national origin, disability, age, or protected 
+veteran status.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+FRONTIER DEVELOPMENT LAB (FDL): CALL FOR CHALLENGES
+
+FDL is a public private partnership between NASA, the SETI Institute, 
+Trillium Technologies and commercial AI, space and Earth science. FDL 
+applies AI technologies to science to push frontiers and develop new 
+tools to solve challenges that are important to NASA's goals - and all 
+Humankind.
+
+FDL is inviting academic researchers and research focused 
+organizations to submit applied AI challenge opportunities for 
+consideration for the FDL 2022 research cycle. The goal of this open 
+solicitation is for researchers with applied AI ideas to engage with 
+FDL's ML researcher and partner community. We're looking for applied 
+AI challenge concepts from the space and Earth science which extend 
+and build on the broad research themes of previous FDLs (e.g. Lunar 
+exploration, Heliophysics, Earth Science, Planetary Defense, 
+Astrobiology, Disaster Response, Mission Operations and Exploration 
+Medicine) - although we are happy to hear ideas in adjacent or related 
+domains. All FDL research is conducted in the spirit of open science.
+
+The closing date for challenge submission is November 7, 2021, 
+Midnight AoE (anywhere on Earth).
+
+To learn more about our Open Solicitation process please visit the FDL 
+website at:
+
+https://frontierdevelopmentlab.org
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] SMD SEEKS VOLUNTEER REVIEWERS
+
+New Volunteer Reviewer Opportunities Posted
+
+NASA's Science Mission Directorate is seeking subject matter experts 
+to serve as external (email) and/or virtual panel reviewers of 
+proposals to the "ROSES" research solicitation. All of the reviewer 
+volunteer forms may be accessed from the landing page at:
+
+https://science.nasa.gov/researchers/volunteer-review-panels
+
+or just follow the links below to the individual forms. Once there, 
+click the boxes to indicate the topics in which you consider yourself 
+to be a subject matter expert. If your skills match our needs for that 
+review and there are not too many organizational conflicts of 
+interest, we will contact you to discuss scheduling.
+
+20 volunteer reviewer forms are currently open and new forms posted 
+this month include:
+
+- SERVIR Applied Sciences Team
+- Terrestrial Ecology: Arctic-Boreal Vulnerability Experiment (ABoVE) 
+  Phase 3
+- EnVision VenSAR Science Team
+- Payloads and Research Investigations on the Surface of the Moon (now 
+  with Space Biology topics)
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+POSTDOCTORAL SCHOLAR IN PLANETARY SCIENCE AT TEXAS A&M
+
+We are seeking a postdoctoral researcher to work on the application 
+and development of automated boulder-detection software. Working with 
+the software will require experience and proficiency working with 
+large datasets, Python code, and GIS platforms. Applicants must have 
+interest and experience working with remote sensing data, large 
+datasets, and statistics.
+
+Applicants will be expected to assist in the production of data for a 
+NASA Mars Data Analysis Program grant. This work will require manual 
+mapping of surface features as well as the production and 
+interpretation of automated mapping results. The mapping results will 
+be used to interpret potentially ongoing surface processes in the 
+northern lowlands of Mars related to boulder production and ice-driven 
+surface motion. In addition, applicants will be expected to assist in 
+writing scientific papers and conference presentations related to the 
+work.
+
+Time Frame: As Soon as Possible - August 2023
+
+https://bit.ly/3Ev8w1H
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+EGU 2022 SESSION PS7.2: ICE GIANT SYSTEM EXPLORATION
+
+Date: April 3-8, 2022
+
+Session Description: The Ice Giant System Exploration session welcomes 
+papers addressing the exploration of the ice giant systems, including 
+the composition and structure of, and processes within ice giant 
+atmospheres, the internal structure of the ice giants, and ice giant 
+systems including magnetospheres, satellites, and rings. Topics 
+related to future ice giant system exploration, instrumentation, 
+mission concepts, technology developments, and international 
+cooperation are also of significant interest.
+
+Conveners: David H. Atkinson, Thibault Cavalie, Kathleen Mandt, 
+Olivier Mousis, Alena Probst
+
+Please submit abstracts at:
+
+https://meetingorganizer.copernicus.org/EGU22/abstractsubmission/44171
+
+The deadline for abstract submission January 12, 2022, 13:00 CET. 
+Please note that EGU has a One-Abstract Rule: Authors are allowed as 
+first author to submit either one regular abstract plus one abstract 
+solicited by a convener, or two solicited abstracts.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OPEN SEARCH FOR DEPARTMENT CHAIR, UNIVERSITY OF TEXAS AT SAN ANTONIO
+
+The Department of Earth and Planetary Sciences at the University of 
+Texas at San Antonio has initiated an international search for a 
+dedicated and resourceful Tenured Professor/Chair beginning Fall 2022, 
+and is accepting nominations and applications for this position. 
+Initial screening of applications will begin on November 12th, but 
+applications will be accepted until the position is filled. We are 
+seeking exceptional candidates with (1) a record of high-quality 
+research and scholarship, (2) excellence in undergraduate and graduate 
+education, (3) leadership experience and (4) a demonstrated commitment 
+to diversity and inclusion.
+
+The University of Texas at San Antonio is a Hispanic Serving 
+University specializing in cyber, health, fundamental futures, and 
+social-economic development. With more than 34,000 students, it is the 
+largest university in the San Antonio metropolitan region. UTSA 
+advances knowledge through research and discovery, teaching and 
+learning, community engagement and public service. The university 
+embraces multicultural traditions and serves as a center for 
+intellectual and creative resources as well as a catalyst for 
+socioeconomic development and the commercialization of intellectual 
+property-for Texas, the nation and the world.
+
+For more information and a link to apply, please visit:
+
+https://bit.ly/3mu8UHG
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY MEETING CALENDAR ADDITIONS 
+
+April 3-8. 2022
+EGU General Assembly 2022
+https://www.egu22.eu
+Vienna, Austria
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Editor, Faith Vilas
+http://psj.aas.org
+
+Idunn Mons: Evidence for Ongoing Volcano-tectonic Activity and 
+Atmospheric Implications on Venus
+P. D'Incecco et al. 2021 PSJ 2:215
+https://doi.org/10.3847/PSJ/ac2258
+
+Was Venus Ever Habitable? Constraints from a Coupled Interior-
+Atmosphere-Redox Evolution Model
+Joshua Krissansen-Totton et al. 2021 PSJ 2:216
+https://doi.org/10.3847/PSJ/ac2580
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+* 
+* To subscribe, go to https://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor@psi.edu
+* 
+* To unsubscribe, send an email to pen_editor@psi.edu
+* 
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+* 
+* PEN is a service provided by the Planetary Science Institute 
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

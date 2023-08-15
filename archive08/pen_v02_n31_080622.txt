@@ -1,0 +1,110 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 2, Number 31 (June 22, 2008)
+
+PEN Website: http://planetarynews.org
+Editor: Matt Balme 
+Co-Editors: Mark V. Sykes, Nic Richmond
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Reminder: Great planet Debate Abstract Deadline Approaching
+2. ESA Mars Express Data Available through the PDS
+3. Postdoctoral Research Fellow Position Available at the Swedish 
+   Institute of Space Physics, Kiruna, Sweden
+4. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+REMINDER: GREAT PLANET DEBATE ABSTRACT DEADLINE APPROACHING
+
+Abstracts for The Great Planet Debate: Science As Process are due June
+27. Go to 
+
+http://gpd.jhuapl.edu/ 
+
+for details about submission and the conference.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ESA MARS EXPRESS DATA AVAILABLE THROUGH PDS
+
+Through a cooperative agreement between NASA and the European Space 
+Agency (ESA), the Planetary Data System hosts copies of archives from
+ESA’s Mars Express mission. The latest additions to the archives are
+the raw and derived data sets from the MARSIS Subsurface Sounding 
+Radar/Altimeter. The primary objective of MARSIS is to map the 
+distribution of water and ice in the upper portions of the Martian 
+crust. The instrument analyzes reflections of radio waves in the upper
+2-3 km of Martian crust to reveal the subsurface structure. The MARSIS
+Principal Investigator is Prof. Giovanni Picardi, Universita di Roma 
+'La Sapienza', Rome, Italy.
+
+- Mars Express MARSIS Experiment Data Record
+- Mars Express MARSIS Reduced Data Record Subsurface
+- Mars Express MARSIS RDR Active Ionosphere Sounding
+
+These data sets may be accessed at this Planetary Data System URL:
+
+http://pds-geosciences.wustl.edu/missions/mars_express/marsis.htm.
+
+The primary resource for MARSIS data is the ESA Planetary Science 
+Archive at this URL:
+
+http://www.rssd.esa.int/index.php?project=PSA&page=MarsExpress. 
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOCTORAL RESEARCH FELLOW POSITION AVAILABLE AT THE SWEDISH
+INSTITUTE OF SPACE PHYSICS, KIRUNA, SWEDEN
+
+Research in space physics such as space plasma physics, planetology,
+interaction between the planets and the solar wind, and the evolution
+of planetary atmospheres and climate. The focus is Mars and analysis
+of satellite data.
+
+Application information can be found at:
+
+http://www.irf.se/Topical/Vacancies/?group=P3&vacid=6&chosen=topical
+
+More information about the Swedish Institute of Space Physics: 
+
+http://www.irf.se
+
+Contact: Prof. Stas Barabash, +46 980 79122, stas.barabash@irf.se
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or 
+workshop that you think your colleagues should be aware of, please 
+send the date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* 
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at
+* 
+* http://planetarynews.org
+* 
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html
+* 
+* To unsubscribe, go to http://planetarynews.org/pen_unsubscribe.html
+* 
+* Please send all replies and submissions to pen_editor at psi.edu. 
+* Announcements and other messages should be brief with links to URLs 
+* for extended information, including detailed descriptions for job 
+* announcements. Go to the PEN website for submission directions.
+************************************************************************

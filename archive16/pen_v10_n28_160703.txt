@@ -1,0 +1,546 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 10, Number 28 (July 3, 2016)
+
+PEN Website: http://planetarynews.org
+Editor: Susan Benecchi 
+Co-Editors: Mark V. Sykes, Karen R. Stockstill-Cahill
+Email: pen_editor at psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. In Memoriam: Edgard G. Yanovitskij (1937 - 2016)
+2. In Memoriam: Gerald J. Wasserburg (1927-2016)
+3. JWST Solar System Workshop
+4. Open positions in the Uni Bern's Planetary Imaging Group
+5. Dust, Atmospheres, and Plasmas (DAP) 2017
+6. AGU 2016 Session P030: The Early Mars Environment - Warm and Wet, 
+   Cold and Wet, or Cold and Icy?
+7. AGU 2016 Session P033: Titan - Constraining an Ocean World
+8. AGU 2016 Session SH009: ICME and Energetic Particle 
+   Interactions in the Heliosphere and at Solar System Bodies 
+9. Faculty Position at West Virginia Wesleyan
+10. Lunar Workshops 2016 Call for Abstracts
+11. Committee on Space Research (COSPAR) Awards 2016
+12. MAPS Special Issue: "Issues in Crater Studies"
+13. Job Announcement: Research Geologist
+14. Odyssey Data Release 56
+15. Planetary Geomorphology 'Image of the Month'
+16. OPAG 2016 Summer Meeting - Information Circular
+17. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+IN MEMORIAM: EDGARD G. YANOVITSKIJ (1937 - 2016)
+
+The Ukrainian scientific community is sad to announce the passing 
+of Professor Edgard G. Yanovitskij on 23 June 2016. Dr. Yanovitskij 
+spent his entire professional life as a leading researcher at the Main
+Astronomical Observatory of the Ukrainian National Academy of Sciences
+in Kyiv. As a prominent member of the famous Soviet school of
+radiative transfer founded by Academicians Viktor Ambartsumian and
+Viktor Sobolev, he had devoted most of his exemplary career to the
+study of radiative energy transport in planetary atmospheres and
+analyses of spectrophotometric observations of planets. His most
+profound accomplishments include the general analysis of principles of
+invariance, the analytical theory of radiative transfer in vertically
+inhomogeneous atmospheres, and the development of extremely efficient
+and numerically accurate computer solvers of the radiative transfer
+equation. His seminal contributions were summarized in the monograph
+on "Light Scattering in Inhomogeneous Atmospheres" published by
+Springer. For many years, Dr. Yanovitskij served as an Editorial Board
+Member for the "Journal of Quantitative Spectroscopy and Radiative
+Transfer" and "Kinematics and Physics of Celestial Bodies." His
+research accomplishments were celebrated by numerous professional
+awards, including the National Prize of Ukraine in Science and
+Technology. Professor Yanovitsky will always be remembered as an 
+outstanding scientist and an exceptional human being.
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+IN MEMORIAM: GERALD J. WASSERBURG (1927-2016)
+
+Gerald J. Wasserburg was an American geologist. At the time of his 
+death, he was the John D. MacArthur Professor of Geology and 
+Geophysics, Emeritus, at the California Institute of Technology. 
+
+Wasserburg was deeply involved in the Apollo program with the 
+returned lunar samples. He pioneered the precise measurement of 
+ultra-small samples under strict clean room conditions with
+minimal contamination. He was also the co-inventor of the Lunatic 
+Spectrometer (the first fully digital, mass spectrometer with 
+computer controlled magnetic field scanning and rapid switching) 
+and founder of the "Lunatic Asylum" research laboratory at Caltech, 
+which specialized in high-precision, high-sensitivity isotopic
+analyses of meteorites and lunar samples. He and his co-workers were 
+major contributors to establishing a chronology for the Moon and 
+proposed the hypothesis of the late heavy bombardment (LHB) of the 
+whole inner solar system.
+
+Wasserburg's research led to a better understanding of the origins 
+and history of the solar system and its component bodies and the 
+precursor stellar sources contributing to the solar system. This 
+research established a timescale for the development of the early 
+solar system, including the processes of nucleosynthesis and the 
+formation and evolution of the planets, the Moon, and the meteorites.
+
+The complete tribute can be found at:
+
+https://dps.aas.org/news/gerald-j.-wasserburg-1927-2016
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+JWST SOLAR SYSTEM WORKSHOP
+
+Exploring the infrared Solar System with the James Webb Space Telescope
+31 Aug to 2 Sept 2016
+ 
+The aim of this workshop is to encourage and inform Solar System 
+scientists about the use of the James Webb Space Telescope for 
+infrared observations of Solar System targets. The workshop will be 
+a mixture of scientific presentations and practical sessions including 
+the use of the JWST Astronomy Planning Tool and Exposure Time 
+Calculator.
+ 
+Registration is now open for the workshop, from 31 August to 
+2 September in London (at the Royal Astronomical Society) at:
+
+https://jwst-workshop.eventbrite.co.uk
+ 
+Speakers include:
+Michele Dougherty (Imperial College London)
+Leigh Fletcher (Leicester)
+Stefanie Milam (GSFC)
+Thomas Mueller (MPE)
+John Stansberry (STScI)
+Gillian Wright (UKATC)
+ 
+JWST is a joint mission between NASA, ESA and CSA.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+OPEN POSITIONS IN THE UNI BERN'S PLANETARY IMAGING GROUP
+
+The University of Bern's Planetary Imaging Group has a post-doctoral 
+vacancy for Mars and/or cometary research in connection to surface 
+ices. There are also possibilities at PhD level and in addition a 
+position for persons with experience in visualization techniques for 
+imaging data. Further details at:
+
+http://pig.space.unibe.ch/open-positions.html
+
+Nicolas Thomas
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+DUST, ATMOSPHERES, AND PLASMAS (DAP) 2017
+
+The Dust, Atmosphere and Plasma environment of the Moon and Small 
+Bodies (DAP-2017) workshop will be a forum:
+
+(i) to discuss our current understanding of the surface environment 
+  of the Moon, the moons of Mars, and asteroids, 
+(ii) to share new results from past and ongoing missions to airless 
+  bodies and comets, and 
+(iii) to describe expectations for planned upcoming missions to 
+  airless bodies and comets.
+
+Location: Boulder
+Host: LASP 
+Date: January 11-13
+
+It will be focused on the open science questions, the status and 
+future of our supporting modeling and laboratory experimental 
+capabilities, the definition of the required measurements and 
+instrument capabilities for future investigations from orbit or 
+landed on surfaces.
+
+The invited Speakers are:
+
+Dan Britt: Surface Properties of Asteroids
+Jim Burch: Rosetta Results on Cometary Plasmas
+Jasper Halekas: Plasma Environment of the Moon
+Vicky Hamilton: Osiris Rex
+Sascha Kempf: Europa Dust Environment
+Mark Showalter: Search for the dust torus around Mars
+Jamey Szalay: Dust Environment of the Moon
+Alexander Zakharov: Mars, Phobos, Deimos Dust environment
+
+We plan to have numerous contributed talks and encourage your 
+submission(s).
+
+The abstract submission deadline: September 15, 2016.
+
+Please visit: 
+
+http://impact.colorado.edu/dap_meeting.html 
+
+The organizers:
+Alan Stern and Mihaly Horanyi
+
+[Edited for length.]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU 2016 SESSION P030: THE EARLY MARS ENVIRONMENT - WARM AND WET, COLD 
+AND WET, OR COLD AND ICY?
+
+We invite contributions to a session focused on the environment of 
+early Mars, at the 2016 AGU Fall Meeting in San Francisco, CA, 
+December 12-16.
+
+Geological, geochemical and mineralogical evidence indicative of 
+flowing and ponding liquid water on the surface of ancient Mars 
+appears abundantly across most of the Martian landscape. However, 
+the presence of liquid water on the surface of early Mars is difficult 
+to reconcile with the reduced solar luminosity at 3.8 Ga and before, 
+unless greenhouse warming is considered. But the scarcity of carbonate 
+rocks on the martian surface and the absence of evidence for vigorous 
+recycling of volatiles cause many researchers to regard warming 
+mechanisms as speculative. This leaves still open the question of 
+how the observed fluvial features could have formed. We invite 
+contributions from climate modeling, geomorphology, geochemistry 
+and mineralogy that address the question of whether early Mars 
+climate was "warm and wet", "cold and wet" or "cold and icy". This 
+session will focus on both sharing new results from different 
+perspectives and fostering communication among the community.
+
+For more information, visit:
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13359
+
+Submission deadline: August 5, 2016.
+
+Conveners:
+Alberto G. Fairen, Stephen M. Clifford and James F. Kasting
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU 2016 SESSION P033: TITAN - CONSTRAINING AN OCEAN WORLD
+ 
+San Francisco 12-16th December 2016
+We welcome submission of abstracts via the AGU portal at: 
+
+https://fallmeeting.agu.org/2016/abstract-submissions/
+ 
+The joint NASA/ESA Cassini mission has established Titan as a prime 
+location for investigating the limits of life. Cassini has studied 
+Titan's interior, seasonal changes on its surface and atmosphere, 
+and the atmosphere's interaction with an energetic magnetosphere. 
+Cassini finds surface-atmosphere interactions producing erosional 
+features similar to Earth's, including dunes, mountains, rivers, 
+alluvial deposits, and features suggesting recent cryovolcanism.   
+There is also evidence for a salty ocean interior and accumulations 
+of liquid hydrocarbons are evident on its surface. The atmosphere's 
+interaction with the magnetosphere produces a continuous supply of 
+new organic material. The inclusion of Titan as a target for 
+exploration by missions under NASA's New Frontiers program highlights 
+broad solar system community interest in this scientifically rich moon.  
+This session will explore new results that intend to provide a 
+comprehensive and integrated understanding of Titan's interior, 
+surface, and atmosphere, along with the atmosphere's interaction with 
+the Saturn's energetic environment.
+
+Deadline for abstracts: Wednesday, 3 August 23:59 EDT.
+ 
+Conveners: Robert M. Nelson (PSI), Rosaly Lopes (JPL), 
+Conor A Nixon (NASA GFSC), Joseph H Westlake (JHU APL) 
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU 2016 SESSION SH009: ICME AND ENERGETIC PARTICLE INTERACTIONS 
+IN THE HELIOSPHERE AND AT SOLAR SYSTEM BODIES 
+
+We invite contributions to the special session SH009, at the AGU Fall
+Meeting in San Francisco, December 12-16. The session is cross-listed 
+with Planetary Sciences and SPA-Magnetospheric Physics.
+
+Simultaneous measurement of radiation, plasma, and magnetic fields 
+at multiple locations (e.g., the Moon, Mars, comets) has ushered in 
+an era where it is possible to study energetic solar events as they
+propagate through the Solar System. The effects of the same energetic 
+solar events on different types of bodies can also be compared and 
+contrasted. The publicly available analysis tools at the Community 
+Coordinated Modeling Center facilitate these studies by helping 
+identify conjunctions or magnetic connections between observing 
+locations. This session aims to tie together topics on interplanetary 
+coronal mass ejections (ICMEs) and energetic particle propagation and 
+evolution in the heliosphere, along with resulting effects on Solar 
+System bodies; such as those relating to space weathering of the 
+surface and subsurface, as well as changes to magnetospheres, 
+ionospheres, or exospheres.
+
+To submit an abstract (Deadline August 3rd, 2016):
+
+https://agu.confex.com/agu/fm16/preliminaryview.cgi/Session13423
+
+Conveners: Reka Winslow, Timothy Stubbs, Jingnan Guo, Thomas Knight
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+FACULTY POSITION AT WEST VIRGINIA WESLEYAN
+
+The Physics Department at West Virginia Wesleyan College 
+(https://www.wvwc.edu/dptphysics) is seeking a geophysicist or 
+planetary geophysicist to fill a full-time faculty position. The 
+College is primarily an undergraduate institution, with 1500 students, 
+and is best known for its strong liberal arts and science programs. 
+There are 100 undergraduate physics majors in a department that 
+emphasizes applied physics. Nearby are excellent astrophysics 
+scientists and facilities at West Virginia University and at Green 
+Bank Observatory. WV Wesleyan is a member of the NASA-West Virginia 
+Space Grant Consortium and has faculty and students working on 
+NASA-related research. The College seeks a diverse faculty and would 
+welcome individuals with ties to national research organizations who 
+have particular interest in good teaching and working with 
+undergraduate students in small groups. Start-up research funds are 
+available. Applications and letters of inquiry may be sent to 
+Dr. G. Albert Popson, Physics Chair, at: popson@wvwc.edu.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+LUNAR WORKSHOPS 2016 CALL FOR ABSTRACTS
+
+The Lunar Workshops 2016 will hold its annual workshop from 
+September 26th through October 2, 2016 in Seattle, Washington. This 
+event will include our Lunar Surface Applications Workshop, LunarCubes 
+Workshop, and a weekend hackathon, Hack the Moon.
+
+We invite you to submit an abstract in research, project or 
+theoretical/conceptual format to be considered for presentation at
+this conference:
+
+Abstracts welcome in the following areas:
+ Lunar Landers
+ Lunar Rovers
+ Lunar Surface Science
+ Google Lunar XPrize Updates
+ Lunar Cubes
+ Satellite Communication
+ Cislunar Science
+ CubeQuest
+ Embedded Software
+ VR and AR Visualization
+
+Submit your abstract today at:
+
+www.lunarcubes.com 
+
+or 
+
+www.lsaworkshops.com
+
+Abstracts must be submitted by August 31, 2016 for consideration 
+in the Lunar Workshop 2016 event.
+
+Questions? Please call Faith at 321-626-2778 or 888-874-0560.
+ 
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+COMMITTEE ON SPACE RESEARCH (COSPAR) AWARDS 2016
+
+To be presented on 1 August during the 41st COSPAR Scientific Assembly
+30 July - 7 August 2016
+Istanbul, Turkey
+
+The Committee on Space Research (COSPAR) has both National Scientific 
+Institutions and International Scientific Unions as members. Moreover, 
+approximately 9000 scientists actively engaged in space research are 
+COSPAR Associates. Companies and organizations interested in 
+supporting COSPAR activities may also become Associated Supporters 
+of the Committee.
+
+A complete list of award recipients may be found at:
+
+https://cosparhq.cnes.fr/content/award-citations
+
+Further information on COSPAR is available at:
+
+https://cosparhq.cnes.fr/
+
+or from the Secretariat cospar@cosparhq.cnes.fr
+
+[Edited for length.]
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+MAPS SPECIAL ISSUE: "ISSUES IN CRATER STUDIES"
+
+The Meteoritics & Planetary Science journal (MAPS) has begun to accept 
+submissions for our Special Issue about the state of crater population 
+studies. Both new research or techniques into crater population 
+studies and review-style papers are solicited.
+
+To submit to this special issue, follow the normal submission steps 
+for MAPS, and on Step 5, select the button to indicate "Yes" this is 
+for a special issue, and then select "Issues in Crater Studies" from 
+the drop-down list of special issues further down the page.
+
+Submissions to this issue are expected to close on September 1, 2016.  
+If you plan to submit to this issue, please let Stuart Robbins 
+(stuart@boulder.swri.edu) know. Please also feel free to contact him 
+with any questions you may have.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+JOB ANNOUNCEMENT: RESEARCH GEOLOGIST
+
+The Center for Earth and Planetary Studies at the Smithsonian National 
+Air and Space Museum is advertising for a Research Geologist. The 
+USAJOBS links for applicants to this position are provided below. 
+Please share this message to anyone who may be interested.
+
+https://www.usajobs.gov/GetJob/ViewDetails/443132700
+ 
+https://www.usajobs.gov/GetJob/ViewDetails/443130700
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+ODYSSEY DATA RELEASE 56
+
+The Planetary Data System (PDS) is pleased to announce a new delivery of
+Odyssey Data, Release 56, for the following instruments:
+
+* GRS
+* THEMIS
+* RADIO SCIENCE (Releases 166-167)
+* SPICE
+
+The gamma sensor component of the GRS instrument suite no longer returns
+data. The HEND and neutron spectrometer components continue to operate.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/tools/subscription_service/SS-20160701.shtml
+
+To access the latest PDS Data Releases, please visit:
+
+https://pds.nasa.gov/tools/subscription_service/SS-Release.shtml
+
+All available PDS data may be found at:
+  
+https://pds.nasa.gov/tools/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+The PDS Team
+pds_operator@jpl.nasa.gov
+(818) 393-7165
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY GEOMORPHOLOGY 'IMAGE OF THE MONTH'
+
+The July 'Image of the Month' is now available at the IAG's Planetary
+Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com/
+
+This month's topic is "Debris-Covered Glaciers on Earth and Mars".
+Contributed by David P. Mayer, Department of Geophysical Science, the 
+University of Chicago, USA.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter @PlanetGeomorpho.
+
+Susan Conway (Chair, IAG Planetary Geomorphology working group)
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+OPAG 2016 SUMMER MEETING - INFORMATION CIRCULAR
+
+We cordially invite you to attend a face-to-face meeting of the 
+Outer Planets Assessment Group (OPAG), scheduled for 2 days, 
+August 11–12, 2016, in Flagstaff, AZ. 
+
+We will also introduce 6 new members of the OPAG steering 
+committee: Kunio Sayanagi, Carol Paty, Terry Hurford, Jeff Bowman, 
+Amanda Hendrix, Scott Edgington
+
+Given the full schedule, the meeting will start at 8:00 AM each day. 
+
+For registration and accommodation information see:
+
+http://www.cvent.com/d/3vqnfc 
+
+or
+
+http://www.lpi.usra.edu/opag/
+
+The meeting is open to all members of the planetary science 
+community, including our international colleagues.
+
+Poster presentations on technology developments: If you want to 
+present a Technology poster, particularly if relevant to Ocean 
+Worlds or Ice Giants, please send title and authors to Pat 
+Beauchamp, pbeaucha@jpl.nasa.gov and prepare a 1-2 slide 
+'advertisement' for the poster. 
+
+We will also broadcast the meeting via Adobe Connect or 
+WebEx for those who cannot attend in person.
+
+We look forward to seeing you in Flagstaff!
+
+[Edited for length.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Posted at http://planetarynews.org/meetings.html
+
+October 25-27, 2016
+8th International Workshop on Planetary, Solar and Heliospheric 
+Radio Emissions (PRE VIII)
+http://pre8.oeaw.ac.at
+Graz, Austria
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor at psi.edu.]
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.php, or
+* send a request to pen_editor at psi.edu     
+*                                                                     
+* To unsubscribe, send an email to pen_editor at psi.edu 
+*                                                                      
+* Please send all replies and submissions to pen_editor at psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements.  Title plus text is limited to 200 words.  Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.                                            
+***********************************************************************

@@ -1,0 +1,382 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 12, Number 47 (November 4, 2018)
+
+PEN Website: http://planetarynews.org
+Editor: Mark V. Sykes 
+Co-Editors: Karen Stockstill-Cahill, Elisabeth Adams
+Email: pen_editor@psi.edu
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] Program Scientist - Office of the Deputy Associate 
+   Administrator for Exploration
+2. JUNO Data Release 6
+3. Graduate Student Research Opportunities in Planetary Science at York
+   University, Toronto
+4. EGU 2019 PS1.8/AS4.58: Atmospheres and Exospheres of Terrestrial 
+   Planets, Satellites, and Exoplanets
+5. The NASA Roadmap to Ocean Worlds
+6. European Lunar Symposium, Expression of Interest
+7. Planetary Geomorphology Image of the Month
+8. Amazonian Mars: Climate and Processes
+9. Mars Exploration Science Monthly Newsletter for November 2018
+10. [NASA] ROSES-18 Amendment 36: D.7 K2 GO Retired from ROSES
+11. Endorsement of Exoplanet and Astrobiology Strategies
+12. UTSA Department Chair Job Posting
+13. Planetary Meeting Calendar Additions
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PROGRAM SCIENTIST - OFFICE OF THE DEPUTY ASSOCIATE ADMINISTRATOR 
+FOR EXPLORATION
+
+Position Title: AST, Science Program Management: Program Scientist 
+- Office of the Deputy Associate Administrator for Exploration
+
+Institution: NASA Headquarters
+
+Brief Job Description:
+
+The position will function as the Program Scientist to the DAA for 
+Exploration in support of the development of exploration strategies 
+and execution plans and processes for landers, rovers, instruments, 
+and orbital capabilities in alignment with the Agency 
+cross-directorate exploration campaign, as well as the Lunar Discovery 
+and Exploration Program managed by the DAA for Exploration. 
+
+For further details please refer to the following links.
+
+HQ19C0012: 
+
+http://www.usajobs.gov/GetJob/ViewDetails/515541900
+
+HQ19D0005: 
+
+http://www.usajobs.gov/GetJob/ViewDetails/515542200
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+JUNO DATA RELEASE 6
+
+The Planetary Data System announces the sixth release of data from
+the JUNO mission. The release includes EDR and RDR level data acquired
+between 2017-12-16 and 2018-04-01, which covers Juno Orbits 11 and 12.
+
+Data sets from the following experiments are now available:
+
+  Gravity
+  JIRAM (infrared auroral mapper)
+  JunoCam (camera)
+  MWR (microwave radiometer)
+  SPICE
+  UVS (ultraviolet imaging spectrometer)
+
+FGM, JADE, JEDI, and Waves data will be available shortly.
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20181027.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+GRADUATE STUDENT RESEARCH OPPORTUNITIES IN PLANETARY SCIENCE AT YORK 
+UNIVERSITY, TORONTO
+
+The Earth and Space Science and Engineering Department at York 
+University welcomes graduate student applications related to planetary 
+sciences with a focus on active atmospheric and surface processes on 
+Mars and on ices throughout the solar system. Students entering the 
+program will focus on how various ices affect the surface and 
+atmosphere/climate of a planetary body. Opportunities for data 
+analysis, laboratory experiments, and computer simulations are 
+available.
+
+ESSE has state of the art laboratory facilities, including two 
+pressure chambers, in which to perform experiments in relevant 
+conditions.
+
+Canadian citizenship is not required. Please contact Isaac Smith: 
+ibsmith@yorku.ca for more details.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+EGU 2019 PS1.8/AS4.58: ATMOSPHERES AND EXOSPHERES OF TERRESTRIAL 
+PLANETS, SATELLITES, AND EXOPLANETS
+
+The abstract submission is open for EGU2019, held in Vienna on 7-12 
+April, 2019.
+
+The deadline for the abstract submission is 10 January 2019, 13:00 CET 
+or, for those applying for EGU Roland Schlich travel support, 
+1 December 2018, 13:00 CET.
+
+I would like to draw your attention to our session: Atmospheres and 
+exospheres of terrestrial planets, satellites, and exoplanets
+
+This session primarily focuses on the neutral atmospheres of 
+terrestrial bodies other than the Earth. This includes not only Venus 
+and Mars, but also exoplanets with comparable envelopes and satellites 
+carrying dense atmospheres such as Titan or exospheres such as 
+Ganymede. We welcome contributions dealing with processes affecting the 
+atmospheres of these bodies, from the surface to the exosphere. We 
+invite abstracts concerning observations, both from Earth or from 
+space, modeling and theoretical studies, or laboratory work. 
+Comparative planetology abstracts will be particularly appreciated.
+
+If you consider submitting an abstract in this session, you can use the 
+following link:
+
+https://meetingorganizer.copernicus.org/EGU2019
+/abstractsubmission/31969
+
+Hope to see you in Vienna!
+
+Best regards,
+
+The conveners,
+
+Francisco Gonzalez-Galindo, Arnaud Beth, Arianna Piccialli
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+THE NASA ROADMAP TO OCEAN WORLDS
+
+We would like to bring to your attention the publication of a paper in 
+Astrobiology, written by the OPAG Roadmaps to Ocean Worlds (ROW) team. 
+This is a community-based assessment of science questions to be 
+addressed, and priorities of, a NASA Ocean Worlds program:
+
+https://www.liebertpub.com/doi/10.1089/ast.2018.1955
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+EUROPEAN LUNAR SYMPOSIUM, EXPRESSION OF INTEREST
+
+The 7th European Lunar Symposium (ELS) will be held in Manchester, UK, 
+on 21-23 May 2019. The meeting, organised in partnership with NASA's 
+Solar System Exploration Research Virtual Institute (SSERVI), will 
+cover current advances and prospects in lunar science and exploration 
+in Europe and elsewhere. 
+
+Building upon successful previous ELS meetings and acknowledging a 
+growing interest in lunar science exploration worldwide, we 
+anticipate a larger number of participants for ELS 2019. In order to 
+make necessary logistical arrangements, we would like your help in 
+letting us know before the 5 December 2018 about your firm intention 
+to attend ELS 2019.
+
+Please register your interest on the ELS 2019 website main page: 
+
+https://els2019.arc.nasa.gov
+
+Romain Tartese (romain.tartese@manchester.ac.uk), Katherine Joy 
+(katherine.joy@manchester.ac.uk) and Mahesh Anand 
+(mahesh.anand@open.ac.uk)
+
+(on behalf of the ELS Organizers)
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The November image of the month is now available at the IAG's 
+Planetary Geomorphology web page:
+
+http://planetarygeomorphology.wordpress.com
+
+This month's topic is "Sandstone outcrops seen with the ExoMars PanCam 
+emulator". Contributed by Dr. Peter Fawdon, The Open University, UK.
+
+You can follow IAG Planetary Geomorphology Image of the Month on 
+Facebook:
+
+http://www.facebook.com/PlanetaryGeomorphology
+
+or Twitter: @PlanetGeomorpho
+
+Tjalling de Haas (Chair, IAG Planetary Geomorphology working group)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AMAZONIAN MARS: CLIMAGE AND PROCESSES
+
+Planetary and Space Science has approved a special issue on "Amazonian 
+Mars: Climate and Processes," with submissions accepted November 1, 
+2018 to February 28, 2019. Papers that describe the climate history as 
+well as geological and environmental processes that pertain to the 
+Amazonian period of Mars' history which includes the present-day are 
+solicited. The Amazonian period encompasses the most recent 3 billion 
+years of Mars history, which has strongly shaped the evolution of the 
+surface that we observe today. This special issue was prompted by the 
+recent Mars Workshop on Amazonian and Present-day Climate; submissions 
+are welcome from the community and the lead guest editor is John Moores 
+(York University). More information is available at: 
+
+https://www.journals.elsevier.com/planetary-and-space-science
+/call-for-papers/special-issue-on-amazonian-mars-climate-processes
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+MARS EXPLORATION SCIENCE MONTHLY NEWSLETTER FOR NOVEMBER 2018
+
+On behalf of Jeff Johnson (MEPAG Chair), Dave Beaty, Rich Zurek, and 
+Kelly Perry of the Mars Program Science Office, the November 2018 
+edition of the Mars Exploration Science Monthly Newsletter can be found 
+on the web at: 
+
+http://mepag.jpl.nasa.gov
+
+Please send your Mars community announcements and calendar items for 
+inclusion in the newsletter to Barbara at: 
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] ROSES-18 AMENDMENT 36: D.7 K2 GO RETIRED FROM ROSES
+
+ROSES-18 Amendment 36 removes from ROSES program element D.7 the K2 
+Guest Observer (GO) Program.
+
+Earlier this year ROSES program element D.7 K2 GO was solicited 
+"contingent on the spacecraft health and fuel condition". Since the 
+Kepler space telescope has run out of fuel needed for further science 
+operations, this opportunity is being removed from ROSES. For more 
+information see: 
+
+https://www.nasa.gov/press-release/nasa-retires-kepler-space
+-telescope-passes-planet-hunting-torch
+
+Although the mission operations of Kepler/K2 have ceased, science using 
+archival data will still be solicited in ROSES-2019, primarily via 
+program element D.2 Astrophysics Data Analysis, but also via program 
+elements E.3 the Exoplanets Research Program and D.4 the Astrophysics 
+Theory Program.
+
+The NASA point of contact for programmatic information is Mario Perez 
+who may be reached at mario.perez@nasa.gov.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+
+ENDORSEMENT OF EXPLANET AND ASTROBIOLOGY STRATEGIES
+
+Please consider adding your name to the list of endorsers of the 
+Exoplanet Science and Astrobiology Science Strategy reports, as input 
+to the upcoming Astrophysics Decadal Survey. The science cross-cuts 
+astrophysical and planetary realms.   
+
+https://docs.google.com/document/d
+/1IiVH3zyY8im1wUIsbqRE2jqXmOtBJ85BDXjjSrWtCyo/edit
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+UTSA DEPARTMENT CHAIR JOB POSTING
+
+https://jobs.utsa.edu/postings/10633
+
+The Department of Physics and Astronomy at the University of Texas at 
+San Antonio (UTSA) is seeking a dynamic Chair that can lead the 
+department to preeminence in an extraordinarily diverse University that 
+is focused on a significant expansion of its research mission. Areas of 
+research excellence within the department include astrophysics, 
+biophysics, computational physics, condensed matter, materials science, 
+nanotechnology, and space and planetary science. The Department has a 
+joint Ph.D. degree with the Southwest Research Institute (SwRI) 
+allowing its faculty and Ph.D. students access to over $400M of 
+research projects that include leadership roles in NASA’s space physics 
+and planetary missions. UT San Antonio’s future will focus on student 
+success and building one of the nation’s most diverse research 
+intensive universities. The Department Chair will play a critical role 
+in linking the Department to this growth and success.
+
+Required qualifications: a Ph.D. in physics, astronomy or related area 
+of physical science or engineering; an active research program with a 
+distinguished publication record and a strong international 
+reputation. Descriptions of current departmental research efforts can 
+be found at: 
+
+http://www.utsa.edu/physics/ 
+
+Screening of completed applications will begin immediately and will 
+continue until the position is filled. 
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+April 4-6, 2019
+2nd International Conference on Astronomy, Astrophysics & Astrobiology
+http://kindcongress.com/congress/astronomy-congress-2019/
+Auckland, New Zealand
+
+May 21-23, 2019
+European Lunar Symposium
+https://els2019.arc.nasa.gov
+Manchester, United Kingdom
+
+June 18-19, 2019
+International Meeting on Paleoclimate: Changes and Adaptation,
+https://paleoclimate2019.wixsite.com/paleoclimate2019
+Coimbra, Portugal
+
+June 24-28, 2019
+2019 Astrobiology Science Conference (AbSciCon)
+https://astrobiology.nasa.gov/news/abscicon-2019-save-the-date/
+Seattle, WA
+
+July 8-12, 2019
+International Planetary Probe Workshop 2019
+https://ippw2019.uk/
+Oxford, United Kingdom
+
+September 10-12, 2019
+NASEM's Committee on Astrobiology and Planetary Science (CAPS)
+http://sites.nationalacademies.org/SSB/SSB_067577#Meetings_and_Events
+Irvine, CA
+
+Posted at http://planetarynews.org/meetings.html
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop of which your colleagues should be aware, please send the 
+date, title, URL and location to pen_editor@psi.edu.]
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at http://planetarynews.org   
+*                                                                     
+* To subscribe, go to http://planetarynews.org/pen_subscribe.html, or
+* send a request to pen_editor@psi.edu
+*                                                                     
+* To unsubscribe, send an email to pen_editor@psi.edu
+*                                                                      
+* Please send all replies and submissions to pen_editor@psi.edu.    
+* Announcements and other messages should be brief with links to URLs  
+* for extended information, including detailed descriptions for job    
+* announcements. Title plus text is limited to 200 words. Go to        
+* http://planetarynews.org/submission.html for complete submission     
+* directions.                                                          
+*                                                                      
+* PEN is a service provided by the Planetary Science Institute         
+* (http://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+**********************************************************************
