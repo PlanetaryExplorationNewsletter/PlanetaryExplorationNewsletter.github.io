@@ -1,0 +1,491 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 33 (July 30, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes,
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Celebrating the Impact of the Planetary Science Journal
+2. AGU Session DI002: Exploring the Interiors of Rocky Bodies with
+   Meteoritical, Experimental, Modelling, and Observational Approaches
+3. AGU Session DI010: Of Cores We Can - Interdisciplinary Studies of
+   Earth and Planetary Cores
+4. AGU Session DI016: Tracing Chemical and Isotopic Signatures during
+   Rocky Body Evolution - Integrating Experimental and Computational
+   Approaches
+5. AGU Session P042: Ultraviolet Observing of Solar System Targets
+6. AGU Session SM009: Fields Across the Solar System - A Comparative
+   Study of Non-Relativistic Planetary Magnetospheric Processes
+7. AGU Session SM027: Three-Dimensional Magnetosphere Structure and
+   Dynamics during Geomagnetic Storms
+8. Postdoc Position on Cryovolcanism on Ceres at MPI for Solar System
+   Research, Germany
+9. EPSP New Graduate Student Mentorship Program
+10. Venus as a System Conference Abstract Notice
+11. [NASA] PDS: Mars 2020 Mission Release 7
+12. Astromaterials Data System Town Hall & Lunch at MetSoc 2023
+13. Planetary Meeting Calendar Additions
+14. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+CELEBRATING THE IMPACT OF THE PLANETARY SCIENCE JOURNAL
+
+Since 2020, the Planetary Science Journal (PSJ) has been home to some
+of the most impactful research in planetary science. Owned by the
+American Astronomical Society and its Division for Planetary Sciences,
+the journal is fully open-access and run by scientists, for scientists.
+
+PSJ has published over 700 papers in the last three years and has now
+received its first-ever impact factor. This milestone highlights how
+PSJ is supporting researchers in providing a high-quality resource to
+publish their latest work:
+
+Journal Impact Factor (TM): 3.4
+CiteScore (TM): 3.0
+Downloads in 2022: 353,845
+
+Learn more:
+
+https://tinyurl.com/hkctzrv6
+
+Watch PSJ editor Faith Vilas talk about the journal and its first,
+just-released Journal Impact Factor (TM):
+
+https://www.youtube.com/watch?v=Q6GlB8tdyJc&feature=youtu.be
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION DI002: EXPLORING THE INTERIORS OF ROCKY BODIES WITH
+METEORITICAL, EXPERIMENTAL, AND OBSERVATIONAL APPROACHES
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/190340
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+The Solar System contains a diversity of rocky bodies, including large
+terrestrial planets, smaller differentiated planets and moons, and
+populations of even smaller asteroids and trans-Neptunian objects.
+Though the interiors of these bodies exhibit a wide range of
+chemistries, internal pressures, and styles of geological processing,
+there is considerable overlap in the techniques used to investigate
+them. This includes analysis of meteoritic samples combined with high
+pressure experiments, which are complemented by spacecraft measurements
+of composition, gravity, and magnetic fields. This session will
+facilitate conversations regarding the contributions of various fields
+to understanding the phenomena which occur inside the rocky bodies of
+our Solar System, their long-term evolution, and the interactions
+between their interiors and surfaces. Equal emphasis will be given to
+new results based on computational modeling, spacecraft mission data,
+meteorite chemistry, and geophysical experiments.
+
+Conveners:
+
+Matthew C. Brennan (LANL, Los Alamos, NM)
+Terry-Ann Suer (LLE, Rochester, NY)
+Emily Dunham (UCLA, Los Angeles, CA)
+Simone Marchi (SwRI, Boulder, CO)
+ 
+Invited Speaker: Kaitlyn McCain, NASA JSC
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION DI010: OF CORES WE CAN - INTERDISCIPLINARY STUDIES OF EARTH
+AND PLANETARY CORES
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/188890
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+A planet's core is often its most enigmatic and extreme region. A
+core's dynamic evolution results from the combination of its thermal,
+material, and electrical properties, which manifest in its magnetic
+and seismic structures. Our understanding of these deep interior
+regions is made possible through synergistic insights, and affects our
+outlook on planet formation, evolution, habitability and more. With
+current abilities to seismically image different planetary cores,
+observe core dynamo fields with better spatio-temporal resolution,
+replicate chemistry and properties at extreme conditions in labs, and
+simulate their complex conditions and dynamics, we are poised for
+transformative insights on planetary cores.
+
+We bring together studies from Earth and space science disciplines
+and across planetary bodies with a common goal of holistically
+understanding the complex systems of Earth and planetary cores. We
+encourage contributions from disciplines including, but not limited
+to, seismology, mineral physics, geochemistry, paleo- and
+geomagnetism, and dynamics.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION DI016: TRACING CHEMICAL AND ISOTOPIC SIGNATURES DURING
+ROCKY BODY EVOLUTION - INTEGRATING EXPERIMENTAL AND COMPUTATIONAL
+APPROACHES
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/191987
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+The chemical and isotopic signatures of rocky bodies in the Solar
+System result from complex processes spanning their growth from dust to
+their present-day states. Trends in major and trace, refractory and
+volatile, and siderophile and lithophile elements, record planetary
+scale processes and formation conditions. The goal of this session is
+to discuss the diverse processes that influence the chemical and
+isotopic reservoirs of rocky bodies during initial condensation, magma
+ocean crystallization and crust formation. We invite studies that
+employ interdisciplinary techniques that enhance our understanding of
+the chemistry of rocky planetary bodies and the early Solar System,
+including high P-T experiments, ab-initio calculations, impact and melt
+simulations, and extraterrestrial sample analysis. Submissions from
+early career researchers and members of underrepresented groups are
+strongly encouraged.
+
+Conveners:
+Susana Hoyos - MIT
+Gabriel Nathan - Michigan State University
+Jesse Gu - Harvard University
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P042: ULTRAVIOLET OBSERVING OF SOLAR SYSTEM TARGETS
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/192562
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+Ultraviolet spectroscopy and imaging have a decades-long history as
+valuable techniques for studying atmospheres, aurorae, plumes and
+surface composition and volatiles on asteroids, comet nuclei and moons.
+While there continue to be opportunities for UV remote sensing from
+Earth orbit and in future robotic missions, the infrastructure for UV
+instrumentation is at a crossroads. Existing orbital facilities are
+nearing the end of their useful lives and there continue to be many
+phenomena that cannot be effectively studied with existing,
+high-heritage instrument designs. Exciting advances in UV-optimized
+technologies promise new capabilities that can be incorporated into the
+next generation of robotic probes, flexible SmallSat missions, and
+large aperture space-based observatories. This session welcomes
+abstracts covering UV science results, as well as reports on progress
+toward developing new technologies such as UV detectors, high
+performance coatings and novel sensor designs. We welcome submissions
+from early career scientists and new members of the discipline.
+
+Amanda Hendrix, Faith Vilas Co-Convenors
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION SM009: FIELDS ACROSS THE SOLAR SYSTEM - A COMPARATIVE STUDY
+OF NON-RELATIVISTIC PLANETARY MAGNETOSPHERIC PROCESSES
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/192064
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+The Solar System hosts a variety of magnetospheric systems: e.g.,
+Mercury and Earth's Dungey-cycle, the Gas Giants' Vasyliunas-cycle, the
+moon dynamo of Ganymede, and the Ice Giants' complex multipolar
+configurations, as well as the unmagnetized solar wind interactions at
+Mars and Venus. This diversity provides valuable insights into
+fundamental physical processes and their operation in different
+conditions throughout the Solar System and beyond. To achieve this, the
+Heliophysics and Planetary Science communities must delve deeper into
+the physics behind the similarities and differences between these
+magnetospheric systems. This session aims to make progress on the
+topic of comparative magnetospheric system science by identifying
+common and distinct mechanisms of non-relativistic plasma that govern
+the behavior of planetary magnetospheres such as solar
+wind-magnetosphere coupling; magnetotail dynamics; global magnetosphere
+mass, momentum, and energy transport; and magnetosphere-ionosphere
+coupling. Studies focusing on in-situ spacecraft analysis, remote
+sensing observations, and/or theory and modeling are welcome.
+
+We look forward to seeing you at AGU!
+
+Joe Caggiano
+Gwen Hanley
+Brian Walsh
+Lucas Liuzzo
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION SM027: THREE-DIMENSIONAL MAGNETOSPHERE STRUCTURE AND
+DYNAMICS DURING GEOMAGNETIC STORMS
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/186496
+
+The AGU Fall Meeting is December 11-15, 2023
+Abstract deadline: August 2, 23:59 EST
+
+The Earth's magnetic field and solar wind interplanetary magnetic field
+are coupled through the exchange of mass and energy. This coupling
+plays out in dramatic fashion during geomagnetic storms, when ground
+and space based assets are most susceptible to space weather effects.
+Topics in this session include: (1) Magnetospheric structure and
+dynamics during geomagnetic storm conditions. (2) Global consequences
+of magnetic reconnection during geomagnetic storm conditions. In-situ
+space-borne observations and remote/ground-based measurements are
+invited covering all regions of Earth's magnetosphere. The goal of this
+session is to reveal three-dimensional connections of the dynamic
+storm-time magnetosphere through the use of multi-point observations
+and global simulations.
+
+Conveners: Brandon Burkholder, Patricia Reiff, Tsige Atilaw,
+Anthony Sciola
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC POSITION ON CRYOVOLCANISM ON CERES AT MPI FOR SOLAR SYSTEM
+RESEARCH, GERMANY
+
+The project is intended to search for further signs of cryo-volcanism
+on the surface of Ceres by using Dawn Framing Camera color imagery of
+unprecedented accuracy and spectral data of the VIR instrument. The
+deadline for this application is September 4, 2023.
+
+For details, see:
+
+https://tinyurl.com/85bwpdf3
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+EPSP NEW GRADUATE STUDENT MENTORSHIP PROGRAM
+
+Are you a new grad student studying Earth and Planetary Surface
+Processes (EPSP) embarking on your advanced degree? Or are you nearing
+graduation with valuable insights to pass on and looking for mentorship
+experience? There's a place for you in the EPSP Student Mentorship
+Program.
+
+Interested individuals may apply to either give or receive mentorship
+throughout the Fall 2023 semester. In this EPSP-sponsored program, new
+grad students with at least one year of graduate school remaining will
+receive guidance in a one-on-one discussion format from experienced
+graduate students. Experienced graduate students with at least two
+years of graduate school experience will have the opportunity to lead
+three structured discussions with new grad students. The topics for
+these discussions will vary with each group, but potential options
+include networking opportunities, pursuing research, attending
+conferences, and the scientific publishing process. Suggested
+discussion materials and group training sessions will be provided to
+the mentors with the hope that their personal experience will
+supplement the discussion.
+
+This is a great opportunity for both early and late-stage graduate
+students to learn from one another and build connections across age
+and experience. Participation will be limited, so apply today:
+
+https://tinyurl.com/59tsz4fb
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+VENUS AS A SYSTEM CONFERENCE ABSTRACT NOTICE
+
+Calling Venusians far and wide!
+
+We would like to draw your attention to the upcoming three-day Venus
+as a System conference to be held November 1-3, 2023, immediately
+following VExAG in Albuquerque, New Mexico.  
+
+The abstract submission site is now live, and abstracts are due
+August 25.  
+
+Please consider submitting a one-page abstract to the conference. Go
+to:
+
+https://www.hou.usra.edu/meetings/venussystem2023/abstracts/
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: MARS 2020 MISSION RELEASE 7
+
+The NASA Planetary Data System announces Release 7 of data from the
+Mars 2020 Perseverance Rover mission to Mars. This release contains
+raw, calibrated, and derived data products covering sols 660-779 of the
+mission, December 28, 2022, through April 30, 2023. The data are
+archived at various PDS Nodes. Links to all the archives can be found
+at:
+
+https://pds-geosciences.wustl.edu/missions/mars2020/
+
+Data from the following science investigations are included in this
+release:
+
+- Mastcam-Z - Mast-mounted Zoom Camera System
+- Engineering Hazard and Navigation Cameras
+- Helicopter Cameras
+- EDLCam - Entry, Descent, and Landing System Cameras
+- MEDA - Mars Environmental Dynamics Analyzer
+- MOXIE - Mars Oxygen ISRU Experiment
+- PIXL - Planetary Instrument for X-ray Lithochemistry
+- RIMFAX - Radar Imager for Mars Subsurface Exploration
+- SHERLOC - Scanning Habitable Environments with Raman and
+  Luminescence for Organics and Chemicals
+- SuperCam - LIBS, Raman, Time-Resolved Fluorescence, VIS/IR
+  spectrometers, Remote Micro-Imager and microphone
+- SPICE - Observation geometry and ancillary data
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+ASTROMATERIALS DATA SYSTEM TOWN HALL & LUNCH AT METSOC 2023
+
+Tuesday, August 15, 2023
+12:00 - 1:00 PM
+UCLA, Luskin Conference Center, Level 1, Pathways Room
+
+The Astromaterials Data System (Astromat) is organizing a townhall and
+lunch at the MetSoc on Tuesday to learn about the latest opportunities
+and developments from the Astromaterials Data System.  
+
+There will be a brief presentation about how you can submit your
+astromaterials sample data to Astromat and access, filter, and refine
+published astromaterials data from 1.2M+ data points in the synthesis
+database. There'll be plenty of time afterward for Q&A.
+
+Registration is required (for both in-person and virtual participants),
+but there is no fee. Boxed lunches will be provided on a first-come,
+first-served basis. Vegan option available. You can register through
+this Google form:
+
+https://forms.gle/YpffuWN7B8r2Fnjb6
+
+A virtual option to join via Zoom will be available. Connection details
+will be emailed to registrants in advance.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+October 23-25, 2023
+Accelerating Space Commerce, Exploration, and New Discovery
+https://tinyurl.com/z92z5ctm
+Las Vegas, NV
+
+November 1-3, 2023
+Venus as a System
+https://www.hou.usra.edu/meetings/venussystem2023/abstracts/
+Albuquerque, NM
+
+December 11-15, 2023
+AGU 2023
+https://www.agu.org/Fall-Meeting
+San Francisco, CA
+
+April 15-18, 2024
+ASCE Earth and Space 2024
+https://earthspace2024.fiu.edu
+Miami, FL
+
+July 8-14, 2024
+Eighth International Conference on Mars Polar Science and Exploration
+https://www.hou.usra.edu/meetings/marspolar2024/
+Whitehorse, Canada
+
+July 22-25, 2024
+Tenth International Conference on Mars
+https://www.hou.usra.edu/meetings/marspolar2024/
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Physical Properties of the Asteroid Belts from Brightness-limited
+Surveys
+Cesar Gallegos et al. 2023 PSJ 4:128
+https://doi.org/10.3847/PSJ/ace116
+
+Development of an Empirical Model of the Force between Paramagnetic
+Particles in Uniform Magnetic Field on M-type Asteroids
+Anmol Sikka et al. 2023 PSJ 4:129
+https://doi.org/10.3847/PSJ/ace323
+
+The State of CO and CO2 Ices in the Kuiper Belt as Seen by
+JWST
+Michael E. Brown and Wesley C. Fraser 2023 PSJ 4:130
+https://doi.org/10.3847/PSJ/ace2ba
+
+Post-flight Evaluation of Lidar-based Digital Terrain Models for
+OSIRIS-REx Navigation at Bennu
+Jason M. Leonard et al. 2023 PSJ 4:131
+https://doi.org/10.3847/PSJ/acd539
+
+Bolometric Hemispherical Albedo Map of Pluto from New Horizons
+Observations
+Jason D. Hofgartner et al. 2023 PSJ 4:132
+https://doi.org/10.3847/PSJ/ace3ab
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

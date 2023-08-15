@@ -1,0 +1,555 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 30 (July 9, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes,
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. [NASA] PDS: Insight Data Release 17
+2. [NASA] PDS: Odyssey Data Release 84
+3. [NASA] PDS: Juno Data Release 23
+4. [NASA] PDS: Aperiodic PDS Data Releases in 2023.06
+5. Apply for the Culturally Inclusive Planetary Engagement Workshop
+6. New Master's Degree Programme at TU Braunschweig, Germany
+7. Planetary Geomorphology Image of the Month
+8. AGU Session P011: Enceladus - From Inner Workings to the Potential
+   for Life
+9. AGU Session P020: Giant Planet Interiors
+10. GSA Session T32: Engaging the Public in Science - Promoting a
+    Deeper Understanding of Our World and Beyond
+11. PhD Student in Space Physics for Studies of Space Weather
+12. Planetary Photogrammetry Workshop Announcement
+13. Ice Giant Systems Seminar Series
+14. 15th International Conference on Substorms (ICS-15)
+15. [NASA] ROSES-23 D.16: Astrophysics Decadal Survey Precursor Science
+    Final Text and Due Dates
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+[NASA] PDS: INSIGHT DATA RELEASE 17
+
+The NASA Planetary Data System announces Release 17 of data from the
+InSight Lander mission to Mars. This release contains raw, calibrated,
+and derived data products from the entire mission. The data are
+archived at various PDS nodes.
+ 
+- SEIS (Seismometer) at the Geosciences Node
+- HP3/RAD (Heat Flow and Physical Properties Package / Radiometer) at
+  the Geosciences Node
+- RISE (Radio Science) at the Geosciences Node
+- IDA (Instrument Deployment Arm) at the Geosciences Node
+- APSS (Temperature, Wind, and Pressure) at the Atmospheres Node
+- IFG (Insight Fluxgate Magnetometer) at the PPI Node
+- ICC/IDC (Instrument Context Camera / Instrument Deployment Camera) at
+  the Cartography and Imaging Sciences Node
+- SPICE at the NAIF Node
+ 
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/insight/
+ 
+InSight releases occur every three months. The next and final release
+is scheduled for September 29, 2023.
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+NASA PDS: ODYSSEY DATA RELEASE 84
+
+The NASA Planetary Data System announces Release 84 of data from the
+Mars Odyssey Orbiter. This release contains raw, calibrated, and
+derived data products nominally covering the time period October 1,
+2022, through December 31, 2022, for the GRS/HEND/NS suite, and
+September 2, 2022, through December 1, 2022, for THEMIS.
+
+Since the previous Mars Odyssey release, two raw Radio Science data
+volumes have been released, with data covering the period January 1,
+2023 to April 30, 2023.
+
+GRS/HEND/NS and Radio Science data are archived at the PDS Geosciences
+Node, THEMIS data at the THEMIS Data Node, and SPICE data at the PDS
+NAIF Node.
+
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/odyssey/
+
+or from a dataset-centered view:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230630.shtml
+
+Odyssey releases occur every three months. The next release is
+scheduled for September 29, 2023.
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] PDS: JUNO DATA RELEASE 23
+
+The Planetary Data System announces the 23rd release of data from the
+JUNO mission. The release includes EDR and RDR level data acquired
+between 2022-08-17 and 2022-12-15, which covers Juno Orbits 45, 46, 47.
+Data sets from the following experiments are now available:
+
+- FGM (magnetometer)
+- Gravity
+- JADE (plasma)
+- JEDI (energetic particle detector)
+- JIRAM (infrared auroral mapper)
+- JunoCam (camera)
+- MWR (microwave radiometer)
+- SPICE
+- UVS (ultraviolet imaging spectrometer)
+- Waves (radio and plasma wave science)
+
+This release includes three new datasets:
+
+- JNO-J-JAD-5-MOMENTS-V1.0
+- JNO-J/SW-JAD-5-CALIBRATED-V1.0
+- JNO-J-RSS-5-JUGR-V1.0
+
+To access the above data, please visit the following link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230701.shtml
+
+JUNO data are archived at the PDS Atmospheres (ATM), Imaging (IMG),
+NAIF, and Planetary Plasma Interactions (PPI) Nodes. The data can be
+accessed from these nodes' web sites and from the main PDS home page:
+
+https://pds.nasa.gov
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] PDS: APERIODIC PDS DATA RELEASES IN 2023.06
+
+In June 2023, PDS ingested and made available the following data, none
+of which were regularly released with an ongoing mission:
+
+- 2023.06.30 LRO: LOLA RDR release 54, delayed
+- 2023.06.12 MRO: SHARAD RDR release 65, delayed
+- 2023.06.12 MRO: SHARAD EDR release 65, delayed
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230630.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+ 
+APPLY FOR THE CULTURALLY INCLUSIVE PLANETARY ENGAGEMENT WORKSHOP
+
+Planetary scientists and astrobiologists are invited to apply to attend
+the Culturally Inclusive Planetary Engagement professional development
+workshop at the Perez Art Museum Miami, August 17-19, 2023. During
+the two-day workshop, planetary scientists/astrobiologists and informal
+educators are paired together and supported in bi-directional
+conversations around diversity and inclusion in engaging Black and
+Latinx audiences in planetary science. On August 19, participants will
+lead hands-on activities during a co-designed public engagement event
+following the workshop held in collaboration with the Perez Art Museum
+Miami.
+
+During the workshop, participants team-up to:
+
+- Explore the importance of building equitable partnerships with
+  organizations, subject matter experts, and informal educators serving
+  Black and Latinx audiences
+- Learn evidence-based culturally relevant authentic approaches to
+  nurture connections with Black and Latinx individuals
+- Practice planetary science engagement approaches through a culturally
+  inclusive lens
+
+The deadline to apply is July 15, 2023. Space is limited to 10 informal
+educators and 10 scientists.
+
+Stipends are available for participants able to accept them.
+
+More information, including a link to the application, is available at:
+
+https://www.lpi.usra.edu/planetary-reach/workshops/miami/
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+NEW MASTER'S DEGREE PROGRAMME AT TU BRAUNSCHWEIG, GERMANY
+
+In the winter term of 2023/2024, the TU Braunschweig will launch an
+English-language master's degree programme in the Physics of the Solar
+System. Students will acquire the necessary qualifications for studying
+the Solar System, participating in space missions, and conducting
+scientific analysis of the collected data. Graduates will have access
+to challenging career opportunities in the aerospace industry, space
+management, and research institutions.
+
+The standard duration of the programme will be 4 semesters. Starting is
+possible in both the winter and the summer term. There will be no
+tuition fees.
+
+More information is available here:
+
+https://tinyurl.com/fntw9kax
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The July image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+
+https://planetarygeomorphology.wordpress.com
+
+This month's topic is 'The effect of gravity on river deltas',
+contributed by Dr Lisanne Braat, from the European Space Agency.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter (@PlanetGeomorpho) or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+Best wishes,
+
+Frances Butcher (Chair, IAG Planetary Geomorphology working group)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+AGU SESSION P011: ENCELADUS - FROM INNER WORKINGS TO THE POTENTIAL FOR
+LIFE
+
+Dear planetary and astrobiology colleagues,
+
+We welcome you to the 18th year of this session on Saturn's moon
+Enceladus! We seek contributions spanning a range of topics fundamental
+to how Enceladus works and whether it might host life. Topics of
+interest include (but are not limited to) Enceladus's origin and
+orbital evolution, plume physics and subsurface plumbing, surface
+geology, chemistry, and ice tectonics, interior structure, subsurface
+ocean composition and dynamics, hydrothermal activity, organic
+evolution and the possible emergence of life, habitability through
+time, and biosignature potential. We will foster a collegial
+atmosphere and promote diverse perspectives. We encourage the
+participation of planetary scientists, astrobiologists, astronomers,
+microbiologists, geologists, geophysicists, geochemists,
+volcanologists, and oceanographers. Results from analogue field work,
+Cassini and telescopic data analyses, modeling studies, laboratory
+experiments, and mission/instrument development are welcome, as are
+comparisons with other ocean worlds.
+
+This session will showcase the vibrancy of our community to cap off
+another year of exciting advancements.
+
+Please submit here:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/186494
+
+Abstracts are due Wednesday, 2 August 2023.
+
+We look forward to seeing you in San Francisco and online!
+
+Chris Glein, Doug Hemingway, Ashley Schoenfeld
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+AGU SESSION P020: GIANT PLANET INTERIORS
+
+Our understanding of planet formation and evolution depends on setting
+new constraints to the present-day interior structure and dynamics of
+the giant planets. New measurements from the Juno and Cassini missions
+have recently revealed novel fundamental aspects of the interiors of
+Jupiter and Saturn. The recently prioritized Uranus Orbiter and Probe
+flagship-class mission motivates new studies of Uranus to set the stage
+for the acquisition and retrieval of a wealth of new data. Here we will
+bring together theory and observations capable of advancing our
+understanding of giant planet interiors within the Solar System and
+beyond. We welcome submissions within a broad range of topics,
+including: ring and Doppler seismology, gravity fields, normal mode
+oscillations, zonal flows and differential rotation, dynamo magnetic
+fields, core detection and characterization, stable stratification,
+helium and heavy element bulk composition, formation scenarios, and
+evolutionary pathways.
+
+We welcome submissions until the abstract deadline August 2, 2023:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/186541
+
+Conveners: Benjamin Idini, Ravit Helled, Daniele Durante, and Scott
+Bolton
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GSA SESSION T32: ENGAGING THE PUBLIC IN SCIENCE - PROMOTING A DEEPER
+UNDERSTANDING OF OUR WORLD AND BEYOND
+
+Are you a geoscientist or educator managing or participating in a
+program with the goal of strengthening and diversifying the future STEM
+workforce? Please consider submitting an abstract to the GSA Connects
+2023 topical session "Engaging the Public in Science: Promoting a
+Deeper Understanding of Our World and Beyond." The session will
+highlight programs and projects utilizing evidence-based strategies to
+engage public audiences, particularly underrepresented communities, in
+science disciplines across the geosciences. Potential submitters are
+strongly encouraged to share lessons learned and/or include evaluation
+data demonstrating program, or project, success.
+
+Abstract deadline: Tuesday, July 25, 11:59 PM Pacific Time
+
+https://tinyurl.com/4jytxar8
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+PHD STUDENT IN SPACE PHYSICS FOR STUDIES OF SPACE WEATHER
+
+The Swedish Institute of Space Physics (IRF) is seeking a highly
+motivated individual to join a space-weather research project to
+investigate geomagnetically induced currents (GICs) in the Swedish
+power grid. The project is part of an ongoing collaboration between
+IRF, the Swedish Research Defence Agency, the Swedish Civil
+Contingencies Agency, and Svenska Kraftnat to improve awareness and
+resilience to space weather effects in Sweden.
+
+GICs are unwanted currents that flow in ground-based infrastructure
+caused by varying conditions in space, often due to plasma eruptions
+from the Sun. They can cause physical damage and lead to disruptions
+such as blackouts, and thus, it is of high societal importance to
+mitigate this hazard. One of the outstanding questions is identifying
+the transmission lines at risk to GICs in Sweden.
+
+The PhD project will focus on evaluating and understanding the causes
+of GICs in Sweden using state-of-the-art ground- and space-based
+experimental data, advanced plasma simulations, as well as 3D ground
+conductivity modelling.
+
+The position is available at the Uppsala office at IRF, located at
+the Angstrom Laboratory.
+
+Applications sent by email to: registrator@irf.se
+
+Closing date for applications: 21 August 2023
+
+More information:
+
+https://tinyurl.com/bdzv27cm
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+PLANETARY PHOTOGRAMMETRY WORKSHOP ANNOUNCEMENT
+
+As part of the Planetary Data Training Program, the University of
+Arizona Space Imagery Center will hold a planetary photogrammetry
+workshop on September 12-15, 2023.
+ 
+In this workshop we introduce the basic principles of photogrammetry
+and the skills necessary to make a Digital Terrain Model from stereo
+image pairs. Participants will go through the process of creating a
+DTM and orthorectified images with a HiRISE stereo pair using BAE's
+SOCET SET software and 3D hardware. We will also cover the use of Ames
+Stereo Pipeline and Structure-from-Motion (SfM) using Agisoft
+Metashape. The workshop is intended for researchers at any level who
+want to learn to generate their own stereo products. No prior expertise
+is required.
+
+Due to the specialized hardware required, attendance is in-person
+only and is limited to 10 people. There is no fee to attend, but
+participants are responsible for their own travel expenses. Thanks to
+support from NASA's Topical Workshops, Symposia, and Conferences (TWSC)
+program, we offer two travel grants of up to $2000 each that focus on
+new planetary students from underrepresented communities (applications
+are due August 12th).
+
+Further information at:
+
+https://sic.lpl.arizona.edu/workshops/sept2023
+
+Contact Shane Byrne with any questions at: shane@lpl.arizona.edu
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+ICE GIANT SYSTEMS SEMINAR SERIES
+
+Date/Time: July 11, 11am ET
+Speaker: Dr. Henrik Melin (University of Leicester)
+Topic: The ever-changing ionosphere of Uranus
+
+The Ice Giant Systems Seminar Series showcases recent developments in
+scientific topics covering all aspects of the ice giant systems,
+including atmospheres, satellites, rings, magnetic fields, interior
+structures, and science related to formation and evolution.
+
+We have a new website! To access the virtual seminar, view the seminar
+schedule, and "Stay Informed", visit the series website here:
+
+https://icegiantsseminar.jhuapl.edu
+
+Mallory Kinczyk & Jodi Berdis
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+15TH INTERNATIONAL CONFERENCE ON SUBSTORMS (ICS-15)
+
+We are pleased to announce that the 15th International Conference on
+Substorms (ICS-15) will be held this year, from October 16-20, in
+Deqing (the scenic suburb of Hangzhou), China. The conference aims to
+bring together scientists from the magnetospheric, ionospheric, and
+planetary communities to review the recent discoveries in light of
+recent space missions and numerical simulations, and to discuss the
+current status and future direction of substorm research.
+
+The meeting will be a hybrid meeting with online components. But we
+strongly encourage in-person participation, since the conference series
+are known for the atmosphere of lively discussions. We will start each
+day with a tutorial lecture on a specific topic, and we will provide
+sufficient time for questions and dialogues in each session.
+
+The abstract submission is now open at the meeting website:
+
+https://ics15.cssr.org.cn/
+
+Registration and housing pages will be open soon. The deadline for
+abstract submission is July 31, 2023. We look forward to meeting you in
+China!
+
+Xuzhi Zhou & Zuyin Pu
+On behalf of the Scientific Organizing Committee of ICS-15
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] ROSES-23 D.16: ASTROPHYSICS DECADAL SURVEY PRECURSOR SCIENCE
+FINAL TEXT AND DUE DATES
+
+The Astrophysics Decadal Survey Precursor Science (ADSPS, D.16) program
+supports research in areas related to the recommendations from the
+National Academy of Science and Engineering report, "Pathways to
+Discovery in Astronomy and Astrophysics for the 2020s":
+
+https://tinyurl.com/yx79kdvn
+
+These include 1) a large Infrared/Optical/Ultraviolet space mission to
+search for biosignatures from nearby exoplanets and to perform
+transformative astrophysics investigations, 2) a large Far Infrared
+mission, and 3) a large X-ray mission. Research proposals to ADSPS
+should describe how scientific progress in the areas being investigated
+will either reduce the design and development risk for one or more of
+these future large missions or help to define the requirements such
+missions must meet to enable transformative discoveries.
+
+Mandatory NOIs are due March 29, 2024, and proposals are due April 26,
+2024.
+
+Go to:
+
+https://solicitation.nasaprs.com/ROSES2023
+
+Questions concerning D.16 ADSPS may be directed to Doris Daou at
+Doris.Daou@nasa.gov.
+
+ 
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+September 12-15, 2023
+Planetary Photogrammetry Workshop
+https://sic.lpl.arizona.edu/workshops/sept2023
+Tucson, AZ
+
+October 16-20, 2023
+15th International Conference on Substorms (ICS-15)
+https://ics15.cssr.org.cn/
+Deqing, China
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Energetic Constraints on Ocean Circulations of Icy Ocean Worlds
+Malte F. Jansen et al. 2023 PSJ 4:117
+https://doi.org/10.3847/PSJ/acda95
+
+Titan's North-South Haze Asymmetry Ratio and Boundary at Visible
+Wavelengths over the Cassini Mission
+Aadvik S. Vashist et al. 2023 PSJ 4:118
+https://doi.org/10.3847/PSJ/acdd05
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

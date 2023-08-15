@@ -1,0 +1,297 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 31 (July 16, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Mars Exploration Science Program Newsletter for July 2023
+2. [NASA] Science Mission Directorate Quarterly Community Town Hall
+3. PostDoc Position in Exoplanet atmospheres at the Space Research
+   Institute IIWF
+4. MPEC Watch, A Web-based Digestion of Minor Planet Electronic
+   Circulars
+5. AGU Session GP016: Planetary Magnetism and Protoplanetary Disk
+   Magnetism
+6. AGU Session P032: Onward to the Moon - A New Era of Science
+7. AGU Session EP036: Surface Processes Across the Solar System
+8. Planetary Meeting Calendar Additions
+9. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR JULY 2023
+
+On behalf of Vicky Hamilton (MEPAG Chair), Rich Zurek, Michael Mischna,
+Brandi Carrier and Jonathan Bapst of the Mars Program Science Office,
+the July 2023 edition of the Mars Exploration Science Monthly
+Newsletter can be found on the web at:
+
+https://mepag.jpl.nasa.gov.
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+[NASA] SCIENCE MISSION DIRECTORATE QUARTERLY COMMUNITY TOWN HALL
+
+Date: July 27, 2023
+Time: 1:00 pm - 2:00 pm Eastern Time
+
+NASA's Science Mission Directorate will hold the quarterly community
+town hall meeting with Associate Administrator for Science Nicky Fox
+and her leadership team at 1:00 p.m. Eastern Time on Thursday, July 27,
+2023. Participants are invited to submit their questions below and/or
+vote up questions already posted. Members of SMD, the science
+community, academia, the media, and the public are invited to
+participate by joining the WebEx link below:
+ 
+https://tinyurl.com/48m6rj6n
+ 
+If prompted, please use event number 2760 096 4056, followed by event
+password yuWjQCB*723 (98957220 from phones).
+ 
+Participants are invited to submit their questions and/or vote up
+questions already posted at:
+
+https://nasa.cnf.io/sessions/pdsd/#!/dashboard
+ 
+Users must provide their first and last name and organization and can
+submit their own questions or vote up questions submitted by others.
+The meeting leaders will try to answer as many of the submitted
+questions as possible.
+ 
+Presentation materials will be available for download and a recording
+will be available later that day at:
+
+https://science.nasa.gov/researchers/virtual-townhall
+ 
+If you are unable to join the WebEx, we will be live streaming the town
+hall to YouTube at:
+
+https://www.youtube.com/@NASAScience/streams
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+POSTDOC POSITION IN EXOPLANET ATMOSPHERES AT THE SPACE RESEARCH
+INSTITUTE IIWF
+ 
+The Space Research Institute (IWF) of the Austrian Academy of Sciences
+(OeAW), is offering a PostDoc Position in Exoplanet atmospheres - links
+to observations. The successful candidate will join the IWF research
+group "Exoplanets: Weather & Climate" led by Prof. Christiane Helling
+as part of the OeAW's efforts to expand the theme of exoplanet research
+at the IWF in Graz, Austria. The candidate is expected to contribute by
+linking complex modelling results to observations and by doing
+scientific data interpretation and preparation for PLATO, Ariel, and
+other future missions.
+ 
+The applicant must hold a PhD in the relevant fields of astrophysics.
+The appointment begins as early as November 1, 2023 and will be for
+three years.
+ 
+Applications must include (1) CV, (2) publication list, (3) research
+experience statement (max 2 pages) and research plan (max 1 page), (4)
+academic certificates, and (5) two references letters. Please send the
+application as one PDF file, mentioning Job ID: IWF051PD123 to Cosima
+Muck, cosima.muck@oeaw.ac.at, no later than July 20, 2023.
+ 
+Further information can be found here:
+ 
+https://www.oeaw.ac.at/fileadmin/Institute/iwf/pdf/jobs/IWF051PD123.pdf
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+MPEC WATCH, A WEB-BASED DIGESTION OF MINOR PLANET ELECTRONIC CIRCULARS
+
+MPEC Watch is a web-based utility that digests the IAU Minor Planet
+Center's "Minor Planet Electronic Circulars" (MPECs), developed and
+maintained by the NASA Planetary Data System's Small Bodies Node. It
+presents statistical summaries, plots and metrics of the observations
+and orbits of near-Earth objects, comets, trans-Neptunian objects, and
+natural satellites, breaking down to aggregate annual totals, as well
+as for individual observing sites. The service is fed by a curated
+SQLite database that contains metadata for all MPECs dating back to the
+first Circular in 1993.
+
+MPEC Watch is available at:
+
+https://sbnmpc.astro.umd.edu/mpecwatch/
+
+The source code is available through its GitHub repository. The SQLite
+database will be made publicly available in the near future. The
+service is continuously being upgraded, and we welcome feedback and
+suggestions from the community.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION GP016: PLANETARY MAGNETISM AND PROTOPLANETARY DISK
+MAGNETISM
+
+We invite you to submit an abstract to the GP016 session at AGU 2023.
+We seek contributions related to planetary and protoplanetary magnetic
+fields. Please see the abstract below for more information:
+
+Magnetic fields of various origins allow for the study of the internal
+structure and geologic history of planetary bodies, and the evolution
+of the early Solar System. Magnetic data are typically available from
+satellites, meteorites, or from surface measurements. In this session
+we welcome contributions that cover observational, experimental, and
+theoretical investigations (including method development) of the
+magnetosphere, crustal magnetism, core dynamics, protoplanetary disk
+magnetism and other planetary-body internal magnetic sources.
+
+Please submit your abstract at:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/189550  
+
+Feel free to reach out with any questions!
+
+Caue Borlina, Alain Plattner, Anna Mittelholz and Rachel Maxwell
+GP016 Session Conveners
+
+ 
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P032: ONWARD TO THE MOON - A NEW ERA OF SCIENCE
+ 
+We welcome you to join us at this year's AGU Fall Meeting, showcasing
+early career research!
+
+The return to the Moon represents an exciting new era for lunar
+science. Missions such as the Artemis, Chang'e, Chandrayaan, and
+commercial programs offer incredible opportunities to develop a deeper
+scientific understanding of our nearest celestial neighbor. This
+session calls for novel and interdisciplinary approaches to
+investigating the Moon, not only through existing and future
+surface-based measurements and remote sensing, but also their
+integration with laboratory investigations and computational modeling.
+Areas of particular interest include dust, volatiles, radiation,
+geological processes and their mutual interactions. Early career
+researchers, including graduate students, are especially encouraged to
+submit for oral presentations!
+ 
+Please submit here:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/188846
+ 
+Abstracts are due Wednesday, 2 August 2023.
+ 
+We look forward to seeing you in San Francisco and online!
+ 
+Li Hsia Yeo, Phillip Phipps, Ramin Lolachi, Caitlin Ahrens, Alexander
+Michels
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+AGU SESSION EP036: SURFACE PROCESSES ACROSS THE SOLAR SYSTEM
+
+Terrestrial bodies across the Solar System are shaped by surface
+processes. As such, geomorphic principles and models derived for the
+Earth are often applied to extraterrestrial landscapes, providing
+critical insights into their geologic and climatic histories, as well
+as their habitability potential. This session's goal is to explore the
+interplays between quantitative models of planetary surface processes
+and the challenges imposed on these models by new planetary data. We
+invite contributions in the field of planetary surface processes that
+use theoretical and numerical modeling, terrestrial analogues,
+laboratory experiments, and planetary exploration data from robotic
+spacecraft. We intend for this session to foster more collaboration
+between members of the Planetary Science (PS) and the Earth and
+Planetary Surface Processes (EPSP) sections, and to continue to build
+a diverse community founded on interdisciplinary and collaborative
+approaches.
+
+Please submit your abstract by August 2:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/193885
+
+Hope to see you at AGU!
+
+Session Convenors: Marisa Palucis (Dartmouth College), Mackenzie Day
+(UCLA), and Una Gaylin Schneck (MIT)
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+July 16-18, 2024
+Planetary Science Informatics and Data Analytics (PSIDA)
+https://psida.rsl.wustl.edu
+St. Louis, MO
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+A Past Episode of Rapid Tidal Evolution of Enceladus?
+Matija Cuk and Maryame El Moutamid 2023 PSJ 4:119
+https://doi.org/10.3847/PSJ/acde80
+
+Orbits and Masses of the Small Satellites of Pluto
+Simon B. Porter and Robin M. Canup 2023 PSJ 4:120
+https://doi.org/10.3847/PSJ/acde77
+
+First Optical Constants of Laboratory-generated Organic Refractory
+Materials (Tholins) Produced in the NASA Ames COSmIC Facility from the
+Visible to the Near Infrared (0.4-1.6 um): Application to Titan's
+Aerosols
+Ella Sciamma-O'Brien et al. 2023 PSJ 4:121
+https://doi.org/10.3847/PSJ/acd83f
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

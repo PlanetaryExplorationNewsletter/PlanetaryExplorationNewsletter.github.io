@@ -1,0 +1,493 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 29 (July 2, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Alex Morgan
+Co-Editors: Mark V. Sykes, Matthew R Perry
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. New Masters in Astrobiology and Planetary Science at the University
+   of Edinburgh
+2. AGU Session P002: A Return to the Lunar Surface
+3. AGU Session P008: Concepts for Future Planetary Science Missions
+   and Instruments
+4. AGU Session P040: The Ice Giants - Exploring the Planetary Systems
+   of Uranus and Neptune
+5. AGU Session B078: Targeting Microhabitats for Life Detection and
+   Biological Investigations
+6. Fluvial Aeolian InteRactions on PLAnetarY Surfaces Workshop
+   (FAIRPLAY) Workshop Abstract and Registration Now Open
+7. DPS-EPSC Abstract Submission Extension to July 12
+8. OSIRIS-REx TAGCAMS V12.0 Release
+9. VICAR Mars Programs (VISOR) Released Open Source
+10. Mastcam Stereo Analysis and Mosaics (MSAM) Data Released to PDS
+11. Labelocity, a PDS Label Generator
+12. [NASA] F.23 SMD Bridge Seed Funding: Office Hours This Week
+13. Mars Exploration Science Program Newsletter for June 2023
+14. Special Icarus Issue on Lunar Polar Volatiles
+15. Planetary Meeting Calendar Additions
+16. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+NEW MASTERS IN ASTROBIOLOGY AND PLANETARY SCIENCE AT THE UNIVERSITY OF
+EDINBURGH
+
+In support of growing the breadth and depth of talent across
+broad-based space and planetary science subject areas, the University
+of Edinburgh has launched a new 1-year taught Masters in Astrobiology
+and Planetary Sciences. Whilst this particular new course is of a
+taught nature and the advertised application deadlines for this year
+have passed, those preparing for success during the 2024 enrolment
+call should note that they will have the opportunity to conduct a
+modest research project over a three-month period to culminate in a
+dissertation.
+
+Contact points, entry requirements, and further information about this
+postgraduate course - with some links to possible scholarships for
+eligible candidates - can be accessed here:
+
+https://tinyurl.com/cvj4hktz
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+AGU SESSION P002: A RETURN TO THE LUNAR SURFACE
+
+Dear lunar colleagues,
+
+When you are looking at what session to submit to at AGU, we hope you
+will consider submitting abstracts related to current and future lunar
+near-surface science.
+
+A cadre of upcoming lunar science opportunities are currently in
+development, including Artemis missions, near-term Commercial Lunar
+Payload Services (CLPS) deliveries, and international missions all to
+the lunar surface. This session highlights lunar science results from
+recent missions, as well as preparations for upcoming surface
+missions. We invite contributions that describe the new observational
+capabilities and the transformative science enabled by upcoming
+robotic and crewed lunar missions, or that place these in the context
+of the current state of knowledge of the Moon, the Earth-Moon system,
+and the Solar System. Future lunar science instruments and mission
+concepts are also of interest.
+
+Abstract deadline: August 2, 2023
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/189242
+
+Session Conveners:
+
+Heidi Haviland, Jasper Halekas, Renee Weber, Ryan Watkins
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P008: CONCEPTS FOR FUTURE PLANETARY SCIENCE MISSIONS AND
+INSTRUMENTS
+
+Planetary science thrives on a steady stream of new data that results
+from fresh, daring missions with progressively advancing complements
+of instrumentation. NASA and other space agencies rely heavily on a
+pipeline of innovative instrument and mission concepts, one that is
+more varied and diverse that ever, ranging from atmospheric probes to
+surface rovers, and spacecraft that orbit distant worlds or quickly
+flyby to collect fleeting but important information. Likewise, the
+instruments manifested on spacecraft come in a vast range of types and
+complexities, from multi-stage mass spectrometers to simple
+temperature sensors, deep-penetrating seismometers to space plasma
+measurements and remote sensing imagers. Advanced spacecraft autonomy
+and on-board data processing including machine-learning algorithms can
+increase mission capabilities as well as the information content of
+the returned data. We welcome cutting-edge science and technology
+ideas for future planetary missions and instruments to showcase the
+very forefront of next-generation planetary science research.
+
+Abstract deadline is 2 August at 23:59 (EDT).
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/185729
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P040: THE ICE GIANTS - EXPLORING THE PLANETARY SYSTEMS OF
+URANUS AND NEPTUNE
+
+The Uranus and Neptune planetary systems are among the most intriguing
+and least explored in our Solar System, presenting exciting
+opportunities for discoveries and serving as high-priority targets for
+future space missions. This session invites submissions of
+interdisciplinary topics covering all aspects of ice giant systems,
+including interior structure, atmospheres, ionospheres,
+magnetospheres, rings, satellites (including Triton), formation, and
+evolution. The session welcomes presentations that advance our
+understanding of ice giant systems from a range of perspectives
+including observations, modeling, theory, and laboratory work.
+
+With a Uranus orbiter and probe ranked as the highest-priority new
+Flagship mission by the Planetary Decadal Survey (2023-2032), we
+warmly welcome relevant studies in preparation for future remote
+sensing and in situ explorations, including mission concepts and
+instrument design studies relevant to the ice giant systems. We also
+encourage comparative studies between the Uranus/Neptune systems and
+other planetary bodies, within our solar system and beyond.
+
+Please submit your abstract by August 2:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/186895
+
+We hope to see you at AGU!
+
+Session Convenors: Kunio Sayanagi (NASA Langley), Vincent Hue
+(Aix-Marseille University), Erin Leonard (JPL/Caltech), Amy Simon
+(NASA Goddard), Ashley Walker (Howard University)
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION B078: TARGETING MICROHABITATS FOR LIFE DETECTION AND
+BIOLOGICAL INVESTIGATIONS
+
+Please consider sharing your science as part of our AGU session.
+Abstacts are due 11:59 EDT August 2, 2023.
+
+Current techniques to search and sample for life on other worlds are
+typically designed to operate at "bulk" scales on the order of 1 cm3
+or larger. Recent work examining microorganisms in native substrates
+on Earth have shown life in ice-rich environments exists in
+substantially smaller environments: hypersaline brines between ice
+grains, sediment grains, or inside rock vesicles. Microhabitat
+investigations, in conjunction with bulk sampling, enable us to
+understand the geologic, climatic, geochemical, biological processes
+that occur during the formation, maintenance, and alteration of icy
+environments. These processes have implications both for life on Earth
+and the search for life on other planetary bodies. Contributions that
+investigate ice-rich microhabitats, instrumentation and technologies
+that enable sampling, analysis of icy microhabitats on Earth, Mars,
+and the Ocean Worlds, and analog field testing campaigns that explore
+icy microhabitats to understand how life persists in these
+environments to guide our search for life elsewhere.
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/185578
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+FLUVIAL AEOLIAN INTERACTIONS ON PLANETARY SURFACES WORKSHOP (FAIRPLAY)
+WORKSHOP ABSTRACT AND REGISTRATION NOW OPEN
+
+We invite you to submit abstracts for oral and poster presentations
+for the first Fluvial Aeolian InteRactions on PLAnetarY surfaces
+workshop (FAIRPLAY) on 1 - 3 November 2023 at the European Space
+Research and Technology Centre (ESTEC), European Space Agency (ESA),
+Noordwijk, Netherlands. Abstract submission and registration is free.
+
+Abstract Submission:
+
+https://www.cosmos.esa.int/web/fairplay/abstract-submission
+
+The deadline for abstract submission is midnight (GMT+1) on 31 July.
+
+Registration:
+
+https://www.cosmos.esa.int/web/fairplay/registration
+
+The deadline for registration is midnight (GMT+1) on 14 September for
+in-person attendees and midnight (GMT+1) on 27 October for online
+attendees.
+
+The FAIRPLAY workshop aims to promote synergy between different
+scientific communities directly or indirectly involved in researching
+aeolian-fluvial interactions on planetary surfaces (particularly
+Earth, Mars and Titan).
+
+Further information on the workshop can be found here:
+
+https://www.cosmos.esa.int/web/fairplay/home
+
+We offer travel and expenses grants to a limited number of students
+and early-career scientists (you must not have been awarded your PhD
+degree more than 3 years ago); apply via in the registration form.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+DPS-EPSC ABSTRACT SUBMISSION EXTENSION TO JULY 12
+
+The DPS-EPSC Science Organizing Committee (SOC) is excited to provide
+an excellent science program for the upcoming meeting in downtown San
+Antonio, TX on Oct 1 - 6.
+
+The abstract deadline has been extended to July 12. Abstract
+submission is now available! One first-author scientific abstract is
+permitted per individual; a total of up to two first-author abstracts
+are permitted if at least one is in the area of historical astronomy,
+workforce, education, outreach or DEIA (diversity, equity, inclusion,
+accessibility).
+
+https://aas.org/meetings/dps55/abstracts
+
+Please reach out to the DPS-EPSC chairs (Akos Kereszturi, Stavro
+Lambrov, and Tracy Becker - tbecker@swri.edu) with any questions you
+may have.
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+OSIRIS-REX TAGCAMS V12.0 RELEASE
+
+This release of OSIRIS-REx TAGCAMS V12.0 data includes the following
+data:
+
+- Miscellaneous collection added containing the OSIRIS-REx Sample
+  Return Capsule (SRC) monitoring images acquired by the StowCam
+  component of the TAGCAMS instrument suite.
+- Documentation updated with the tagcams_jpg_image_description.pdf
+  describing this miscellaneous collection.
+
+These data are available at:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230626.shtml
+
+or more directly at
+
+https://arcnav.psi.edu/urn:nasa:pds:orex.tagcams
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+VICAR MARS PROGRAMS (VISOR) RELEASED OPEN SOURCE
+
+We are pleased to announce the version 5 release of the open source
+VICAR image processing system.
+
+As part of this release, we are including for the first time VISOR
+(Vicar In-Situ Operations for Robotics), which is the set of programs
+that do in-situ processing for all the recent NASA Mars surface
+missions.
+
+The community can now, for the first time, reproduce results for the
+bulk of the Mars in-situ derived products in PDS. We look forward to
+enhanced collaboration with the community via this open source release.
+
+The software can be obtained here:
+
+https://github.com/NASA-AMMOS/VICAR
+
+Description provided in an abstract from the 6th Planetary Data
+Workshop here:
+
+https://www.hou.usra.edu/meetings/planetdata2023/pdf/7070.pdf
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+MASTCAM STEREO ANALYSIS AND MOSAICS (MSAM) DATA RELEASED TO PDS
+
+The MSAM data set is now available in PDS:
+
+https://tinyurl.com/extehc3w
+
+MSAM is a ROSES 2016 PDART project that performed comprehensive,
+systematic processing of MSL Mastcam data from the beginning of the
+mission to Sol 2579.
+
+Comprising 37.7 TB of data, MSAM produced disparity maps, XYZ data,
+terrain meshes, and more for the 18,399 Mastcam stereo pairs in the
+data range. It also produced 6 types of mosaics, including
+Mastcam-Navcam context mosaics, orthorectified mosaics and DEMs,
+stereo mosaics, and finder mosaics.
+
+An abstract from the 6th Planetary Data Workshop with more information
+is:
+
+https://www.hou.usra.edu/meetings/planetdata2023/pdf/7070.pdf
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+LABELOCITY, A PDS4 LABEL GENERATOR
+
+Labelocity is a flexible, customizable, multimission automated system
+for PDS4 label production, created by the NASA Jet Propulsion
+Laboratory (JPL). It has been used to create most of the image,
+browse, mesh, calibration and documentation labels for several key
+missions, including the InSight and Mars 2020 missions. It is
+designed to be extensible to new missions.
+
+Labelocity consists of an extensive set of reusable Velocity macros,
+and driver scripts with a wrapper around the PDS tool "mi-label". It
+can create labels from a variety of data sources, including ODL
+(PDS3), VICAR images, and JSON metadata.
+
+Labelocity is available open source here:
+
+https://github.com/NASA-AMMOS/labelocity
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+[NASA] F.23 SMD BRIDGE SEED FUNDING: OFFICE HOURS THIS WEEK
+
+The SMD Bridge team is available every day for the rest of this week
+to assist proposing teams, through virtual office hours. This is an
+opportunity to get any of your questions answered about proposals in
+response to ROSES F.23 SMD Bridge Seed Funding, and/or to discuss the
+program with the team. The SMD Bridge team encourages proposals
+submitted by Friday, June 30, which will then be considered in the
+first round of funding.
+
+Please visit the form link to select the session or sessions you wish
+to attend:
+
+https://tinyurl.com/yjfnehwe
+
+The form also allows you the option to identify the topic(s) you wish
+to discuss during the office hours.
+
+A Microsoft Teams link will be sent prior to the session. Available
+sessions are:
+
+- Tuesday, June 27: 4-5:30pm EDT
+- Wednesday, June 28: 12-1:30pm EDT
+- Thursday, June 29: 12:30-2:00pm EDT
+- Friday, June 30: 10-11:30am EDT
+
+Please see the complete set of documents related to F.23 SMD Bridge
+Program Seed Funding on the NSPIRES Webpage.
+
+Questions may be directed to padi.boyd@nasa.gov.
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR JUNE 2023
+
+Mars Community,
+
+On behalf of Vicky Hamilton (MEPAG Chair), Rich Zurek, Michael
+Mischna, Brandi Carrier and Jonathan Bapst of the Mars Program Science
+Office, the June 2023 edition of the Mars Exploration Science Monthly
+Newsletter can be found attached and on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+SPECIAL ICARUS ISSUE ON LUNAR POLAR VOLATILES
+
+We are happy to announce a new special issue in Icarus which will
+focus on the the study of lunar polar volatiles, following a meeting
+held in Boulder, CO last year. The special issue aims to showcase the
+current state of knowledge on volatiles trapped in the lunar polar
+regions, derived from theory, models, and observations, as well as
+outstanding questions and goals that will be addressed by missions
+anticipated in the coming decade.
+
+We solicit articles that would illuminate the present-day inventory
+and spatial distribution of lunar polar volatiles, as well as
+processes affecting their history of accumulation, modification, and
+erosion inside permanently shadowed regions. Testable predictions and
+comparative analyses among cold-trapped volatiles on the Moon, Ceres,
+and Mercury are also encouraged, as well as studies on upcoming
+missions or mission concepts related to polar volatiles.
+
+Please visit this link for more information:
+
+https://www.sciencedirect.com/journal/icarus/about/call-for-papers
+
+Best Regards,
+Lior Rubanenko, Paul Hayne, Ariel Deutsch and Shuai Li
+Guest Editors
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Observation of a Lunar Eclipse at 89, 150, and 183 GHz
+Martin J. Burgdorf et al. 2023 PSJ 4:112
+https://doi.org/10.3847/PSJ/acd76e
+
+Mechanical Modification of Chondrule Fine-grained Rims by Dusty
+Nebular Shocks
+Augusto Carballido et al. 2023 PSJ 4:113
+https://doi.org/10.3847/PSJ/acd758
+
+Spitzer IRS Observations of Titan as a Precursor to JWST MIRI
+Observations
+Brandon Park Coy et al. 2023 PSJ 4:114
+https://doi.org/10.3847/PSJ/acd10f
+
+Synchronous Rotation in the (136199) Eris-Dysnomia System
+Gary M. Bernstein et al. 2023 PSJ 4:115
+https://doi.org/10.3847/PSJ/acdd5f
+
+Astrobiology eXploration at Enceladus (AXE): A New Frontiers Mission
+Concept Study
+K. Marshall Seaton et al. 2023 PSJ 4:116
+https://doi.org/10.3847/PSJ/acd119
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

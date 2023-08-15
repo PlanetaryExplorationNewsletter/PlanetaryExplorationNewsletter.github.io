@@ -1,0 +1,498 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 28 (June 25, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. PhD Position at German Aerospace Center in Berlin
+2. Postdoctoral Research Fellowship in New Zealand
+3. [NASA] SMD: HQ Program Scientist Job Announcement Closing Soon
+4. [NASA] SMD: Innovation Corps Pilot Informational Webinar
+5. [NASA] Webinar on NASA Public Access Plan for Scientific Research
+6. [NASA] Mars Sample Return: Call for Membership on the Sample
+   Receiving Project Measurement Definition Team
+7. SIMS Community Facility Workshop Survey: Looking for Feedback!
+8. Abstract Submission Open for Blue Sky 2023 Workshop on Earth and
+   Planetary Clouds/Aerosols  
+9. Libraries Around the Nation Looking for Eclipse Programs and Help
+10. GSA Session T102: Geomorphology and Landscape Evolution of Mars
+11. AGU Session P014: Exploring Archean Earth to Understand
+    Archean-like Exoplanets
+12. AGU Session P026: Martian Sulfates Studied Using Orbital, Ground,
+    Laboratory, and Earth Data
+13. AGU Session P027: Mercury in the Solar Wind
+14. AGU Session P031: Ocean Worlds and Search for Life - Horizons in
+    Icy Satellite Science at the Launch of the Historic Europa Clipper
+    Mission  
+15. AGU Session P041: The New Mars Underground
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PHD POSITION AT GERMAN AEROSPACE CENTER IN BERLIN
+
+At the Institute of Optical Sensorsystems in Berlin, Germany, which is
+part of the German Aerospace Center, we are looking for a PhD student
+to investigate the use of machine learning for the analysis of in-situ
+spectroscopic planetary data. A main objective of the position will be
+to combine scientific knowledge about spectroscopy with data-driven
+methods, also known as scientific machine learning. The announcement is
+available at:
+
+https://tinyurl.com/ykt2k8nb
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+POSTDOCTORAL RESEARCH FELLOWSHIP IN NEW ZEALAND
+
+The School of Physical and Chemical Sciences welcomes applications for
+the inaugural Elaine P. Snowden Fellowship at the University of
+Canterbury, New Zealand. The three-year independent research fellowship
+is open to any area of astronomy and astrophysics, including planetary
+science. Applicants should be nearing submission or within 4 years of
+their PhD. People from historically marginalized communities are
+particularly encouraged to apply. Due by July 15.
+
+https://jobregister.aas.org/ad/36e6f4af
+
+https://jobs.canterbury.ac.nz/jobdetails?jobmc=15468AAS#
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+[NASA] SMD: HQ PROGRAM SCIENTIST JOB ANNOUNCEMENT CLOSING SOON
+
+NASA SMD at HQ is seeking candidates to serve as Program Scientists
+within multiple organizations. These positions may be located in the
+Earth Science, Heliophysics, Planetary Science, Biological and Physical
+Sciences, and Astrophysics Divisions, the Exploration Science Strategy
+& Integration Office, Front Office, and/or other SMD program offices.
+Duties range from overseeing research programs, reviewing proposals,
+and leading research with academia and industry.
+ 
+Job Announcement Number: HQ-23-DE-11986063-DS
+Closing Date: Wednesday, June 28, 2023
+Title: Program Scientist (AST Science Program Management)
+Grade: GS-1301-14/15
+Vacancy Link:
+
+https://www.usajobs.gov/job/732100400
+
+Questions may be directed to Juana Sosa at juana.e.sosa@nasa.gov
+
+[Edited for length]
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+[NASA] SMD: INNOVATION CORPS PILOT INFORMATIONAL WEBINAR
+
+An informational webinar about the NASA Innovation Corps (I-Corps)
+Pilot will occur on Wednesday, July 19, 2023 at 1 p.m. Eastern Time.
+
+The webinar will: (1) provide an overview of the NASA I-Corps Pilot,
+(2) describe the proposal process and requirements, and (3) allow for
+webinar attendees to submit questions. Attendees will have the
+opportunity to ask questions to the NASA I-Corps Pilot Point of Contact
+and the National Science Foundation's I-Corps Program Director, Dr.
+Ruth Shuman.
+
+Questions regarding the webinar, or the NASA I-Corps Pilot, may be
+directed to Maggie Yancey at margaret.a.yancey@nasa.gov. Additionally,
+to request other reasonable accommodations for the webinar, please
+email Maggie Yancey
+
+Register for the I-Corps Pilot informational webinar using this link:
+
+https://nasa-gov.zoomgov.com/webinar/register/WN_pFRKg6bAT6GtY4YhAEc3pA
+
+To submit questions prior or during the webinar, please register for
+the event and use to this link to submit questions:
+
+https://nasa.cnf.io/sessions/ndn3/#!/dashboard.
+
+All questions will be submitted anonymously and may be upvoted.
+
+For general information about the NASA I-Corps Pilot, visit:
+
+https://go.nasa.gov/3OUWWC7
+
+[Edited for length]
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+[NASA] WEBINAR ON NASA PUBLIC ACCESS PLAN FOR SCIENTIFIC RESEARCH
+
+Webinar Date: 1-2 pm Eastern Time, July 17, 2023
+RFI Submission Date: August 17, 2023
+
+In response to the White House Office of Science and Technology
+Policy's memorandum on "Ensuring Free, Immediate, and Equitable Access
+to Federally Funded Research", NASA released an updated draft plan for
+access to federal funded research: "NASA's Public Access Plan:
+Increasing Access to the Results of Scientific Research". NASA seeks
+public input on the updated draft plan through a request for
+information that closes on August 17, 2023. Early comments are
+encouraged. Comments received after this date will be considered to the
+extent practicable.
+
+NASA is hosting a webinar July 17 from 1-2 pm Eastern Time on this
+updated draft plan for access to federal funded research, to explain
+what has changed, to discuss scientific publications, data (and data
+management plans), and software (and software management plans). There
+will be time after the presentation for questions.
+ 
+Register at:
+
+https://tinyurl.com/53p46d3b
+ 
+For the full text of the RFI and response instructions, see the Federal
+Register Notice for this RFI:
+
+https://tinyurl.com/2jt5tvhw
+
+Please contact Louis Barbier at louis.m.barbier@nasa.gov with any
+questions about this event.
+
+[Edited for length]
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+[NASA] MARS SAMPLE RETURN: CALL FOR MEMBERSHIP ON THE SAMPLE RECEIVING
+PROJECT MEASUREMENT DEFINITION TEAM
+
+The National Aeronautics and Space Administration (NASA) and European
+Space Agency (ESA) invite individuals to apply for membership in a new
+committee - the Mars Sample Return (MSR) Sample Receiving Project (SRP)
+Measurement Definition Team 1 (MDT-1). To respond to this solicitation
+a letter of application of no more than 800 words is needed by July 17,
+2023 at 15:00 UTC (08:00 PDT, 11:00 EDT, 17:00 CEST), accompanied by an
+up to date CV, and letter of support (for non-US applicants).
+
+A Q&A session for applicants is planned on June 28, 2023, at 8:00 am
+PDT / 11:00 am EDT/ 5:00 pm CEST. The meeting link will be posted on
+the Call webpage:
+
+https://tinyurl.com/3mh5nmuh
+
+Michael A. Meyer & Gerhard Kminek
+MSR Lead Scientists
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SIMS COMMUNITY FACILITY WORKSHOP SURVEY: LOOKING FOR FEEDBACK!
+
+From 2012-2020 the NSF-supported Secondary Ion Mass Spectrometry (SIMS)
+Community Facility at Arizona State University has hosted annual
+in-person workshops. We have enjoyed sharing our lab with the many
+workshop participants over the years. However, we recognize this may
+not be the best way to reach all the interested parties.
+
+We are looking for your input on how to proceed with our workshop
+programming. The survey below will only take 5 mins or less! We are
+considering taking a more proactive approach by assisting graduate
+students and/or early career scientists to acquire pilot data for
+future science proposals.
+
+Please fill out the following survey by July 31, 2023:
+
+https://forms.gle/SsBaaMkKSW4yTbRu7
+
+For further questions please contact sims@asu.edu.
+
+Follow us on Instagram @ASU_SIMSLab
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+ABSTRACT SUBMISSION OPEN FOR BLUE SKY 2023 WORKSHOP ON EARTH AND
+PLANETARY CLOUDS/AEROSOLS
+
+We invite you to submit abstracts for presentations and posters for the
+Blue Sky 2023 Workshop on Earth and Planetary Clouds and Aerosols on
+August 2-4, 2023, at the Caltech Campus, Pasadena CA.
+
+To submit an abstract and obtain additional workshop information go to:
+
+https://easychair.org/cfp/BlueSky2023
+
+The workshop is a hybrid event and focuses on research involving
+aerosol and cloud formations of Earth, Solar System bodies, and
+exoplanets.
+
+The following topics will be covered:
+
+- Cloud and Aerosol Investigations on
+  - Earth
+  - Mars
+  - Venus
+  - Titan
+  - Gas Giants
+  - Ice Giants
+  - Exoplanets
+- Cloud and Aerosol Investigation methods:
+  - Remote Sensing
+  - In situ measurements
+  - Instruments
+  - Modeling
+  - Laboratory investigations
+- Breakout Sessions on:
+  - Aerosol and Cloud Investigation Methods
+  - Unifying Scientific Themes
+  - Mission Opportunities
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+LIBRARIES AROUND THE NATION LOOKING FOR ECLIPSE PROGRAMS AND HELP  
+
+In preparation for the eclipse-of-the-Sun "double-header" that will be
+visible across the U.S. this October and next April, about ten thousand
+public libraries will make 5 million safe-solar-viewing glasses (and
+information packets) available to their communities, thanks to a major
+grant from the Gordon and Betty Moore Foundation.  
+ 
+The librarians, most of whom do not have science training, are looking
+for help with public outreach from people who know about eclipse
+science and safe solar-viewing techniques. To learn more and volunteer
+to help your local library (or virtually support any library across the
+nation!), please go to:
+
+https://www.starnetlibraries.org/eclipse-expert-application/  
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+GSA SESSION T102: GEOMORPHOLOGY AND LANDSCAPE EVOLUTION OF MARS
+
+The geomorphology of Mars provides insight into the planet's complex
+history. Detailed observations and analyses of the surface allows for
+interpretations not only of the mechanics and processes at work on
+Mars, but on Earth as well. This session focuses on aeolian, fluvial,
+glacial, lacustrine, and crater degradation processes to investigate
+the geomorphology, geology, and climate history of Mars. We welcome
+abstracts describing research utilizing orbital and in situ Martian
+datasets, as well as terrestrial analogues, to better understand the
+landscape evolution of Mars. Research at all stages from members of the
+community at all levels and backgrounds are encouraged to share their
+work in this session.  
+ 
+We're excited to welcome Lior Rubanenko (Stanford) and Claire Mondro
+(Caltech) as our session's invited speakers!
+ 
+The abstract deadline is July 25, 2023. For more information, or to
+access the abstract submission portal, please visit:
+
+https://gsa.confex.com/gsa/2023AM/cfp.cgi
+
+Elena Favaro, Matt Chojnacki, Sharon Wilson Purdy, Becky Williams, &
+Nicholas Warner (co-convenors).
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+AGU SESSION P014: EXPLORING ARCHEAN EARTH TO UNDERSTAND ARCHEAN-LIKE
+EXOPLANETS
+
+Whilst Archean Earth had a habitable ecosystem with signs of an
+extensive microbial biosphere, it was distinct from modern Earth in
+many ways. With a fainter young Sun, CO2 partial atmospheric pressures
+were likely much higher than today, O2 was negligible, and total
+surface pressure may have been lower. The area of exposed continents
+was possibly smaller, plate tectonics may have operated in a different
+style, and hence weathering and volatile cycling were modified.
+Day-length, ocean circulation and possibly ocean salinity differed from
+today. Rates of atmospheric escape under conditions of higher extreme
+solar ultraviolet and different atmospheric composition remain to be
+explored. Analogs of Archean Earth may exist around stars of other
+types and be more common than modern Earth twins.
+
+We invite presentations related to Archean geological proxies
+(atmosphere, biosphere, geosphere), models (dynamical, thermal,
+geochemical), and possible exoplanet connections (atmospheric
+biosignatures, climate, atmospheric escape).
+
+For details see:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/190184
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+AGU SESSION P026: MARTIAN SULFATES STUDIED USING ORBITAL, GROUND,
+LABORATORY, AND EARTH DATA
+
+The sulfur cycle is an important component of geochemical evolution on
+Mars and its geological influence has been identified in numerous
+rocks, sediments, soils, and aqueous depositional environments.
+Volcanism, climate, weathering, and erosion appear to be key players in
+sulfur cycling throughout the atmosphere, hydrosphere, and lithosphere
+on Mars, which in many cases are similar to Earth. Sulfates are a
+common mineral detected on the martian surface in association with a
+wide range of features, from km-size light-toned deposits to cm-thick
+Ca-sulfate veins within the bedrock. In this session, we invite
+contributions describing advances in current knowledge of sulfates
+detected (i) in orbital observations of Mars, (ii) by the in-situ rover
+investigations, (iii) in field analog studies of sulfate deposits found
+on Earth, (iv) in laboratory measurements (spectral signatures, other
+properties of sulfates), and (v) processes and models describing
+formation and cycling of sulfates on Mars and Earth.
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/184793
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+AGU SESSION P027: MERCURY IN THE SOLAR WIND
+
+Mercury being the Solar System's innermost, smallest and orbitally most
+eccentric planet has a unique interaction with the solar wind. The
+planet is airless but has a surface-originating exosphere, a global
+magnetic field and a large conducting core. These properties result in
+a compact-sized space weather environment with fast phenomena,
+multi-ion plasma composition and highly varying upstream conditions.
+Mercury was extensively observed by the MESSENGER spacecraft and new
+measurements come from the BepiColombo mission en route to Mercury.
+
+Here we welcome all contributions on the physics of the Hermean
+magnetosphere-exosphere-surface-interior solar wind interaction system.
+Foreseen themes include, but are not limited to, the generation,
+structure and dynamics of the foreshock, bow shock, magnetopause,
+magnetotail, waves, instabilities, precipitation, exosphere, particle
+acceleration, magnetic reconnection and induction effects or coulings
+between these. Applied methods can be, for example, spacecraft data
+analysis, numerical simulations, theory, laboratory and remote sensing
+work or novel future approaches.
+
+Abstract submission is open until Aug 2, 2023.
+
+For details see:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/185355
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+AGU SESSION P031: OCEAN WORLDS AND SEARCH FOR LIFE - HORIZONS IN ICY
+SATELLITE SCIENCE AT THE LAUNCH OF THE HISTORIC EUROPA CLIPPER MISSION
+ 
+The Europa Clipper mission is hosting an AGU session open to the
+entirety of the planetary science and exploration community! Please
+consider submitting an abstract per the below text. The session will
+include speakers internal and external to the mission.
+ 
+Topics of the session include research related to the Science Goal and
+Objectives of the mission, organized around the themes of habitability,
+geology, interior, composition, and recent activity of Europa,
+including studies of the interaction of Europa with the Jovian
+environment. Additionally, we welcome comparative studies of other
+Ocean Worlds with implications for Europa, and contributions regarding
+technologies and concepts that would build upon the foundation set by
+Europa Clipper for future exploration.
+ 
+Abstract Deadline: Wednesday, August 2, 23:59 EDT
+
+https://tinyurl.com/EuropaAGU
+
+Convened by the Europa Clipper Project Staff Scientists: Samuel Howell
+(JPL), Kate Craft (JHU-APL), Rachel Klima (JHU-APL), Cynthia Phillips
+(JPL), Erin Leonard (JPL).
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+AGU SESSION P041: THE NEW MARS UNDERGROUND
+
+The characterization of the Martian subsurface is progressing at an
+unprecedented pace, stimulated by several extended missions, the
+preparation for Mars Sample Return, the proposed Mars Life Explorer,
+and human exploration in the coming decades. Ongoing efforts aim at
+characterizing 1) the physical, chemical, and thermodynamical
+properties of the Martian interior; 2) the distribution and stability
+of modern liquid water and water ice inventories; 3) the provenance,
+cycling, and isotopic composition of organics and trace gases that may
+serve as potential biosignatures; and 4) the identification of
+habitable "refugia environments" where local conditions might be
+conducive to support an extant Martian biosphere, should it exist. For
+our sixth "New Mars Underground", we welcome abstracts relevant to
+these themes, and to the characterization of the subsurface in general.
+We anticipate contributions informed by remote observations,
+theoretical modelling, mission concept development, and applied
+experimentation of relevant terrestrial analogs.
+ 
+Abstract deadline: August 2, 2023
+ 
+Abstract submission link:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/184863
+ 
+Sincerely, the Conveners:
+Rachel Lee Harris (Harvard University)
+Sylvain Piqueux (Jet Propulsion Laboratory)
+
+ 
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+August 2-4, 2023
+Blue Sky 2023 Workshop on Earth and Planetary Clouds/Aerosols
+https://easychair.org/cfp/BlueSky2023
+Pasadena, CA
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Giant Planet Lightning in Nonideal Gases
+Yury S. Aglyamov et al. 2023 PSJ 4:111
+https://doi.org/10.3847/PSJ/acd750
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

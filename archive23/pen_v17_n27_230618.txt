@@ -1,0 +1,608 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 27 (June 18, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes,
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. PhD position at German Aerospace Center in Berlin
+2. Abstract Submission Open for FAIRPLAY Workshop
+3. AGU Session P017: Forward to the Moon - Lunar Exploration Science
+4. AGU Session P025: Martian Aqueous Processes Inferred from
+   Observations, Analogs, and Experiments
+5. AGU Session P038: Small Solar System Bodies - Sample Returns, JWST,
+   Ground-based Astronomy and More
+6. AGU Session P042: Ultraviolet Observing of Solar System Targets
+7. Summer School on Volcanism, Plate Tectonics, Hydrothermal Vents and
+   Life
+8. Commercial Space Exploration and Travel - Chances and Risks
+9. NASA Dawn Mission Global Geologic Maps of Vesta and Ceres Available
+   for Download
+10. Io GIS Database V1 Available for Download
+11. [NASA] PDS: Lunar Reconnaissance Orbiter Data Release 54
+12. DPS Travel Grant Available for Underrepresented Minority
+    Communities to Attend DPS and NSBP
+13. LEAG Seeking New Executive Committee Members
+14. [NASA] RFI and July 14 webinar on NASA's Public Access Plan for
+    Scientific Research
+15. National Academies Study Invitation
+16. Planetary Meeting Calendar Additions
+17. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+PHD POSITION AT GERMAN AEROSPACE CENTER IN BERLIN
+
+At the Institute of Optical Sensor Systems in Berlin, Germany, which is
+part of the German Aerospace Center, we are looking for a PhD student
+to investigate the use of machine learning for the analysis of in-situ
+spectroscopic planetary data. A main objective of the position will be
+to combine scientific knowledge about spectroscopy with data-driven
+methods, also known as scientific machine learning. The announcement is
+available at:
+
+https://doi.org/10.3847/PSJ/acbf2d
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+ABSTRACT SUBMISSION OPEN FOR FAIRPLAY WORKSHOP
+
+We invite you to submit abstracts for oral and poster presentations for
+the first Fluvial Aeolian InteRactions on PLAnetarY surfaces workshop
+(FAIRPLAY) on November 1-3, 2023, at the European Space Research and
+Technology Centre (ESTEC), European Space Agency (ESA), Noordwijk,
+Netherlands.
+
+The abstract submission deadline is midnight (GMT+1) on the July 31.
+Go to:
+
+https://www.cosmos.esa.int/web/fairplay/abstract-submission
+
+Registration deadlines:
+September 14 - in-person attendees
+October 27 - online attendees
+
+Go to:
+
+https://www.cosmos.esa.int/web/fairplay/registration
+
+Further information:
+
+https://www.cosmos.esa.int/web/fairplay/home
+
+The workshop is a hybrid event with space for 100 in-person attendees
+and focuses on aeolian-fluvial interactions on Earth, Mars and Titan,
+in the following subject areas:
+
+- aeolian transport and fluvial morphodynamics
+- Sedimentology
+- Coupling between atmospheric and surface processes
+- Measurements
+- Planetary analogues
+- Habitable environments on other planets
+- Future exploration and investigations
+
+Limited travel grants to PhDs of not more than 3 years ago. If you
+would like to apply, please state in the registration form how
+attending the workshop will benefit your research in a maximum of 250
+words. Successful applicants will receive financial support for all
+expenses (food, stay and travel).
+
+FAIRPLAY Organising Committee
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+AGU SESSION P017: FORWARD TO THE MOON - LUNAR EXPLORATION SCIENCE
+
+A new era of human and robotic lunar exploration is opening new vistas
+and scientific understanding as humanity reaches toward the Moon again.
+In partnership with institutions around the globe, NASA's Solar System
+Exploration Research Virtual Institute (SSERVI) focuses on these
+scientific aspects of exploration as they relate to the Moon and other
+airless bodies. This session will feature interdisciplinary,
+exploration-related science centered around the Moon as a human and
+robotic destination. Presentations in this session will focus on the
+theme of science that enables exploration and exploration that enables
+science. We will examine key scientific investigations that will
+facilitate future lunar exploration, as well as investigations of the
+Moon and beyond that will be uniquely enabled by being done from the
+Moon.  
+
+We look forward to receiving your abstracts. Graduate students and
+early career researchers are particularly encouraged to submit for
+oral presentations.
+
+For details see:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/187948
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+AGU SESSION P025: MARTIAN AQUEOUS PROCESSES INFERRED FROM OBSERVATIONS,
+ANALOGS, AND EXPERIMENTS
+
+Aqueous alteration has been prevalent on the surface of Mars, as
+evidenced by interesting disequilibrium diagenetic assemblages at
+Jezero Crater, Gale Crater, Meridiani Planum, and in martian
+meteorites. Large chloride and sulfate deposits have also been
+detected from orbit that could indicate an evaporative period on Mars.
+In addition, the potential for deep liquid aquifers on modern Mars is
+inferred based on the study of water mobile species. These discoveries
+have important habitability implications for Mars and provide an
+improved insight into Mars' aqueous history. In this session, we
+invite contributions describing advances in experimental studies,
+geochemical models, and field studies of aqueous alteration with
+groundwater brines or surface weathering relevant to Mars.
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/185417
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+AGU SESSION P038: SMALL SOLAR SYSTEM BODIES - SAMPLE RETURNS, JWST,
+GROUND-BASED ASTRONOMY AND MORE
+
+Observations returned by space missions (e.g., OSIRIS-REx, Hayabusa 2,
+New Horizons) and large telescopic facilities (e.g., JWST, Adaptive
+optics observations) offer a broad encompassing view of the populations
+of large planetesimals and dwarf planets that formed shortly after
+Solar System formation. Most of these bodies have retained information
+on their accretional environments while others have undergone
+significant internal evolution.
+
+The sample return missions will continue deciphering the Solar System's
+early history with the exploration of near Earth asteroids like Ryugu
+and Bennu. Upcoming flyby missions to visit 16 Psyche and Jupiter
+Trojan asteroids and instruments on the extremely large telescopes
+available in the next decade will provide observations with
+unprecedented details of many large planetesimals.
+
+This session welcomes abstracts that address analyses of returned
+samples, new observations and models of large planetesimals found
+across the Solar System, and contrast the properties of planetesimals
+found in various small body reservoirs.
+
+Conveners: Franck Marchis (SETI Institute & Unistellar), Julie Castillo
+(JPL), Bryan Holler (STSCI)
+
+AGU23, San Francisco & Online Everywhere: 11-15 December 2023
+
+Abstract Deadline: Wednesday, 2 August 2023 at 23:59 EDT
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/187338
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+AGU SESSION P042: ULTRAVIOLET OBSERVING OF SOLAR SYSTEM TARGETS
+
+Ultraviolet spectroscopy and imaging have a decades-long history as
+valuable techniques for studying atmospheres, aurorae, plumes and
+surface composition and volatiles on asteroids, comet nuclei and moons.
+While there continue to be opportunities for UV remote sensing from
+Earth orbit and in future robotic missions, the infrastructure for UV
+instrumentation is at a crossroads. Existing orbital facilities are
+nearing the end of their useful lives and there continue to be many
+phenomena that cannot be effectively studied with existing,
+high-heritage instrument designs. Exciting advances in UV-optimized
+technologies promise new capabilities that can be incorporated into
+the next generation of robotic probes, flexible SmallSat missions,
+and large aperture space-based observatories. This session welcomes
+abstracts covering UV science results, as well as reports on progress
+toward developing new technologies such as UV detectors, high
+performance coatings and novel sensor designs. We welcome submissions
+from early career scientists and new members of the discipline. To
+submit an abstract to this session, please go to:
+
+https://agu.confex.com/agu/fm23/prelim.cgi/Session/192562
+
+Abstracts are due by August 2.
+
+Amanda Hendrix, Faith Vilas Co-Convenors
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+SUMMER SCHOOL ON VOLCANISM, PLATE TECTONICS, HYDROTHERMAL VENTS AND
+LIFE
+
+11-21 October 2023
+Angra do Heroismo, Azores, Portugal
+
+This summer school vill focus on which role volcanism, plate tectonics
+and hydrothermal vents played in the emergence and evolution of life.
+It will give lecturers of leading scientists on this subject. Moreover,
+there will be sampling excursions to lava caves and solfatares as well
+as exercises on genetic characterisation of extremophiles population
+those habitats as well as on cultivation of bacteria. Angra is a
+picturesque city and has plenty of good restaurants and clean and
+affordable hotels with good services. There are flights to the close
+Terceira Lajes airport from both Europe mainland, the US and Canada.
+
+The deadline for applications is 1 July 2023. For further information,
+please go to:
+
+https://europeanastrobiology.eu/azores-ss-home/
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+COMMERCIAL SPACE EXPLORATION AND TRAVEL - CHANCES AND RISKS
+
+25-27 September 2023
+Kiruna, Sweden
+
+The meeting "Commercial Space Exploration and Travel - Chances and
+Risks" will bring scientists, students, politicians, journalists and
+other stakeholders together to discuss the ethical, political legal,
+societal and environmental aspects of commercial space travel.
+
+It will take place at Malmfalten Adult Education Centre in Kiruna,
+Sweden in from 25 September in the morning to 27 September in the
+evening. Apart from offering a very interesting programme, the meeting
+will take place during Lapland's very beautiful Indian Summer, which
+enables good opportunities to see the Northern Lights.
+
+The meeting will cover the following subjects:
+
+- Legal, ethical and societal issues concerning commercial space
+  exploration
+- Environmental issues concerning space exploration
+- Protection of extraterrestrial bodies
+- Spin-offs of scientific space exploration
+- International cooperation in commercial use of space: will space
+  exploration be restricted to a few powerful countries and regions?
+- Space research and exploration as a chance for remote regions in
+  Europe
+- Global governance efforts regarding the commercial use of space
+- Mining of extraterrestrial bodies
+- The future of commercial space travel
+
+The deadline for registration and abstract submissions applications is
+1 August 2023. Please check the website:
+
+https://europeanastrobiology.eu/kiruna-conference-2023/
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+NASA DAWN MISSION GLOBAL GEOLOGIC MAPS OF VESTA AND CERES AVAILABLE FOR
+DOWNLOAD
+
+The NASA Dawn Science Team produced global geologic maps of asteroid
+(4) Vesta and dwarf planet Ceres as part of the nominal missions to
+these bodies. Those geologic maps, unified from quadrangle maps
+published in Icarus (Volume 244, Dec 2014 for Vesta; Volume 316,
+Dec 2018 for Ceres) have been archived and are now publicly available
+as Zipped ArcGIS packages. These packages can be downloaded at:  
+
+https://rgcps.asu.edu/gis_data/
+
+Please contact David.Williams@asu.edu with any questions.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+IO GIS DATAVASE V1 AVAILABLE FOR DOWNLOAD
+
+An ArcGIS database of NASA Galileo-Voyager image mosaics, geologic
+maps, DEMs, and spacecraft and telescopic thermal emission data of
+Jupiter's volcanic moon Io has been archived and is now publicly
+available as a Zipped ArcGIS package. It can be downloaded at:
+
+https://rgcps.asu.edu/gis_data/
+
+Reference, Williams et al., 2021, at:
+
+https://doi.org/10.3847/PSJ/ac097f
+
+Please contact David.Williams@asu.edu for an questions.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+[NASA] PDS: LUNAR RECONNAISSANCE ORBITER DATA RELEASE 54
+
+The NASA Planetary Data System announces Release 54 of data from the
+Lunar Reconnaissance Orbiter mission. This release contains raw,
+calibrated, and derived data products covering the nominal time period
+from December 15, 2022, through March 14, 2023. Some instrument teams
+are delivering more recent data. The data are archived at various PDS
+nodes.
+
+CRaTER at the PPI Node
+Diviner at the Geosciences Node
+LAMP at the Cartography and Imaging Sciences Node
+LEND at the Geosciences Node
+LOLA at the Geosciences Node
+LROC at the LROC Data Node
+Mini-RF at the Geosciences Node
+Radio Science at the Geosciences Node
+SPICE at the NAIF Node
+ 
+The data may be accessed from:
+
+https://pds-geosciences.wustl.edu/missions/lro/
+
+Or for a dataset-oriented perspective:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230615.shtml
+
+LRO releases occur every three months. The next release is scheduled
+for September 15, 2023.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+DPS TRAVEL GRANT AVAILABLE FOR UNDERREPRESENTED MINORITY COMMUNITIES TO
+ATTEND DPS AND NSBP
+
+Within the partnership between the AAS Division of Planetary Sciences
+(DPS) and the National Society of Black Physicists (NSBP), awards are
+available for members of Black/African American, Indigenous, and/or
+Latinx communities to support attendance at the annual DPS meeting
+and/or the annual NSBP meeting. The fund is intended to support DPS or
+NSBP meeting travel (when attending in person) and registration fees,
+and/or DPS or NSBP membership fees. The call is open through Aug 7,
+2023 and award notifications are planned by the end of August. Hartmann
+and Dependent Care grants are also available. See information about all
+at:
+
+https://dps.aas.org/news/travel-grants-dps-55
+
+NSBP meeting early-bird registration closes June 30:  
+
+https://nsbp.org/general/custom.asp?page=preregistration
+
+DPS meeting abstracts are due July 6:
+
+https://aas.org/meetings/dps55
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+LEAG SEEKING NEW EXECUTIVE COMMITTEE MEMBERS
+
+Applications are due on Monday, July 24, 2023.
+
+The Lunar Exploration Analysis Group (LEAG) plans on filling at least
+three positions within its Executive Committee (ExComm) in the next 6  
+months. In an effort to increase an understanding for the different
+ExComm roles as well as transparency to the application process, the
+ExComm has included (1) Information for various positions and (2) the
+evaluation rubric on the LEAG website:
+
+https://www.lpi.usra.edu/leag  
+
+Evaluations in future years may utilize a modified rubric as we work
+to improve our practice for selecting new ExComm members. After
+reviewing the Application Process, elements for each ExComm role, and
+the rubric, if you have any questions, please send an e-mail to the
+LEAG Chair (Amy Fagan, alfagan@wcu.edu), who will be happy to assist.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] RFI AND JULY 14 WEBINAR ON NASA'S PUBLIC ACCESS PLAN FOR
+SCIENTIFIC RESEARCH
+
+Webinar Date: 1-2 pm Eastern Time, July 14, 2023
+
+RFI Info: https://tinyurl.com/bddmh9ap
+RFI Submission Date: August 17, 2023
+
+NASA is hosting a virtual presentation to outline NASA's newly updated
+Public Access Plan for scientific research, NASA's approach to Public
+Access, and explain what has changed to respond to recent Office of
+Science and Technology Policy guidance. We will discuss scientific
+publications, data (and data management plans), and software (and
+software management plans). There will be time after the presentation
+for questions. The webinar will be hosted on July 14 from 1-2 pm EST.
+
+Please contact Louis Barbier at louis.m.barbier@nasa.gov with any
+questions about this event.
+
+Webex Connection details, join from the meeting link:
+
+https://tinyurl.com/3k8mbrha
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+NATIONAL ACADEMIES STUDY INVITATION
+
+The National Academies of Science, Engineering, and Medicine is
+examining how to better promote equity for students and professionals
+in academic science, technology, engineering, and medicine who are also
+unpaid caregivers of loved ones, including dependent children and
+adults with serious or chronic illness or disability.
+
+We are looking to engage ~40 individuals in academic STEMM who have
+caregiving responsibilities outside of work, particularly scientists
+and professionals of color; those who identify as LGBTQ+, first-gen,
+or immigrant; those living with disabilities; and those in heavily
+male-dominated fields (such as physics; computer science; astronomy
+and astrophysics; and civil, aerospace, electrical, and mechanical
+engineering). Those selected will be invited to participate in a 1-hour
+Zoom interview and receive a $75 gift card as a token of thanks.
+
+If you meet these criteria and are interested in being considered for
+the study, please complete a brief screening form at:
+
+https://survey.rti.org/se/1/care  
+
+Feel free to forward this notice to anyone you think might meet the
+criteria and would be interested.
+
+If you have any questions please reach out to Jeffrey Gillis-Davis
+(j.gillis-davis@wustl.edu) and Katie Wullert (KWullert@nas.edu).
+
+ 
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+July 10-14, 2023
+Science with the Habitable Worlds Observatory and Beyond
+https://tinyurl.com/4ms5v3n7
+Baltimore, MD
+
+July 12-13, 2023
+Lunar Proving Grounds Definition Workshop
+https://lsic.jhuapl.edu/Events/Agenda/index.php?id=460
+Laurel, MD
+
+August 8-10, 2023
+UK Exoplanet Meeting 2023
+https://sites.google.com/view/ukexom2023
+London, United Kingdom
+
+August 8-10, 2023
+Towards Starlight Suppression for the Habitable Worlds Observatory
+Workshop
+https://tinyurl.com/ubj2m7tz
+Pasadena, CA
+
+August 8-18, 2023
+Europlanet Summer School 2023
+https://mao.tfai.vu.lt/europlanet2023/
+Vilnius, Lithuania
+
+August 9-11, 2023
+14th Planetary Crater Consortium
+https://www.hou.usra.edu/meetings/crater2023/
+Flagstaff, AZ
+
+August 16-17, 2023
+Geological Mapping to Support Artemis Strategic Decisions
+https://www.hou.usra.edu/meetings/lunarsurface2020/
+Online
+
+August 17-19, 2023
+Exoplanet Conference at IISER Pune
+https://tinyurl.com/duzz88h5
+Pune, India
+
+September 5-14, 2023
+Summer School: Impacts and their Role in the Evolution of Life
+https://europeanastrobiology.eu/summer-school-2023-homepage/
+Nordlingen, Germany
+
+September 11-14, 2023
+PLATO Workshop on 3D Climate and Clouds
+https://tinyurl.com/jhmrsr4x
+Graz, Austria
+
+September 11-15, 2023
+International Annual Meeting of the German Astronomical Society
+https://ag2023.astronomische-gesellschaft.de/index.php
+Berlin, Germany
+
+September 25-27, 2023
+Commercial Space Exploration and Travel - Chances and Risks
+https://europeanastrobiology.eu/kiruna-conference-2023/
+Kiruna, Sweden
+
+October 11-21, 2023
+Summer School on Volcanism, Plate Tectonics, Hydrothermal Vents and
+Life
+https://europeanastrobiology.eu/azores-ss-home/
+Angra do Heroismo, Portugal
+
+October 16-20, 2023
+ESA Brainstorming on Astrobiology
+https://tinyurl.com/4thjnp2t
+Noordwijk, The Netherlands
+
+December 4-8, 2023
+Open Problems in the Astrophysics of Gas Giants
+https://astrofisicamas.cl/opaga/
+Puerto Natales, Chile
+
+July 15-19, 2024
+Two HoRSEs: High-Resolution Exoplanet Characterization Today and in the
+ELT Era
+https://sites.google.com/view/two-horses/
+Berlin, Germany
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Simulating Secondary Electron and Ion Emission from the Cassini
+Spacecraft in Saturn's Ionosphere
+Z. Zhang et al. 2023 PSJ 4:105
+https://doi.org/10.3847/PSJ/acd844
+
+A Shallow-water Model Exploration of Atmospheric Circulation on Sub-
+Neptunes: Effects of Radiative Forcing and Rotation Period
+Ekaterina Landgren et al. 2023 PSJ 4:106
+https://doi.org/10.3847/PSJ/acd551
+
+Investigating the Stability and Distribution of Surface Ice in
+Mercury's Northernmost Craters
+Allison K. Glantzberg et al. 2023 PSJ 4:107
+https://doi.org/10.3847/PSJ/acd68d
+
+New Insights into Variations in Enceladus Plume Particle Launch
+Velocities from Cassini-VIMS Spectral Data
+H. Sharma et al. 2023 PSJ 4:108
+https://doi.org/10.3847/PSJ/acd5d4
+
+Formation, Structure, and Detectability of the Geminids Meteoroid
+Stream
+W. Z. Cukier and J. R. Szalay 2023 PSJ 4:109
+https://doi.org/10.3847/PSJ/acd538
+
+OSSOS. XXVII. Population Estimates for Theoretically Stable Centaurs
+between Uranus and Neptune
+Rosemary C. Dorsey et al. 2023 PSJ 4:110
+https://doi.org/10.3847/PSJ/acd771
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

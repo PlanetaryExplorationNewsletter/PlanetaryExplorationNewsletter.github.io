@@ -1,0 +1,576 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 24 (June 4, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Matthew R. Perry
+Co-Editors: Alex Morgan, Mark V. Sykes
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Open MEPAG Steering and Goals Committee Positions
+2. Planetary Science Advisory Committee (PAC) Meeting
+3. Ice Giant Systems Seminar Series: June 13, Dr. Matt Clement
+4. Anonymous FTP Access to the NAIF Server is Terminating
+5. Planetary Geomorphology Image of the Month
+6. Texas Area Planetary Science Meeting (TAPS)
+7. Microsatellites and Their Use in Planetary and Astrobiology Research
+   Workshop
+8. Life in the Subsurface Conference
+9. Impacts and their Role in the Evolution of Life Summer School
+10. Volcanism, Plate Tectonics, Hydrothermal Vents and Life Summer
+    School
+11. 3 Year Postdoctoral Fellowship Position in Data Science at the
+    Adler Planetarium
+12. Postdoctoral Fellowship Opportunity in Meteorites Studies at
+    Arizona State University
+13. [NASA] SMD: Artemis III Deployed Instruments Final Text and Due
+    Dates
+14. [NASA] SMD: F.23 SMD Bridge Program Seed Funding Clarification
+15. [NASA] PDS: Aperiodic PDS Data Releases in 2023.05
+16. [NASA] PDS: Mars Reconnaissance Orbiter Data Release 65
+17. Planetary Meeting Calendar Additions
+18. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+OPEN MEPAG STEERING AND GOALS COMMITTEE POSITIONS
+ 
+MEPAG is currently seeking one individual to serve on the Steering
+Committee (SC), and three individuals to serve on the Goals Committee
+(GC). This call replaces a recent call from the month of April and
+previous applicants must apply through this updated form.
+
+The application form can be found at:
+
+https://forms.gle/TAkdKKZejH11GWiQ9
+ 
+Participation in the Steering Committee includes a monthly
+teleconference, participation in MEPAG community meetings (virtual and
+hybrid), review of MEPAG reports, occasional participation on Science
+Analysis Groups (SAGs), and related activities.
+ 
+The GC openings are split between Goal II (Climate), Goal III
+(Geology), and Goal IV (Preparation for Humans). Participation in the
+Goals Committee includes periodic reviews of the MEPAG Goals document,
+writing of updates as needed, and other goals-related activities as
+directed by the SC.
+ 
+Committee membership is open to both qualified US and international
+participants. Representation of the diverse membership of the Mars
+science community, including women and minorities, is essential;
+expressions of interest from all career levels, disciplines,
+institutions, and geographic locations are encouraged.
+ 
+The form will close on Friday, June 16 at 5PM Pacific.
+
+[Edited for length]
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+PLANETARY SCIENCE ADVISORY COMMITTEE (PAC) MEETING
+
+The next Planetary Science Advisory Committee (PAC) meeting will take
+place June 21-23, 2023, as a hybrid meeting (at NASA Headquarters
+and on WebEx).
+
+The agenda is posted online, with WebEx connection information:
+
+https://tinyurl.com/2kkzyb7x
+
+Accessibility: Captioning will be provided for this meeting. We are
+committed to providing equal access to this meeting for all
+participants. If you need alternative formats or other reasonable
+accommodations, please contact Ms. KarShelia Kinard, Science Mission
+Directorate, NASA Headquarters, Washington, DC 20546, (202) 358-2355 or
+karshelia.kinard@nasa.gov.  
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+ICE GIANT SYSTEMS SEMINAR SERIES: JUNE 13, DR. MATT CLEMENT
+ 
+Date/Time: June 13, 11am ET
+Speaker: Dr. Matt Clement (JHU/APL)
+Topic: The early secular evolution of the outer Solar System and the
+present state of the Nice Model
+
+The Ice Giant Systems Seminar Series showcases recent developments in
+scientific topics covering all aspects of the ice giant systems,
+including atmospheres, satellites, rings, magnetic fields, interior
+structures, and science related to formation and evolution.
+
+To access the virtual seminar, view the seminar schedule, and and fill
+out "Stay Informed", visit the series website here:
+
+https://neptuneodyssey.jhuapl.edu/Events/
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ANONYMOUS FTP ACCESS TO THE NAIF SERVER IS TERMINATING
+
+NAIF announces that the anonymous FTP access to the NAIF server will be
+terminated on July 1, 2023 in order to comply with the NASA
+cybersecurity policy.
+
+NAIF urges anybody who currently uses anonymous FTP to download files
+from the NAIF server to switch to HTTPS.
+
+Through HTTPS one can access all SPICE kernels and other SPICE
+materials available on the NAIF server starting at top link:
+
+https://naif.jpl.nasa.gov/pub/naif/
+
+For users using wget, the download help page:
+
+https://naif.jpl.nasa.gov/naif/download_tip.html
+
+shows wget options helpful for downloading just directories of interest
+without unnecessary extra HTML files.
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+PLANETARY GEOMORPHOLOGY IMAGE OF THE MONTH
+
+The June image of the month is now available at the IAG's Planetary
+Geomorphology web page:
+ 
+https://planetarygeomorphology.wordpress.com
+ 
+This month's topic is "Flow deposits on Mercury - Impact ejecta flows
+or landslides?", contributed by Alistair Blance, The Open University,
+UK.
+
+You can follow IAG Planetary Geomorphology Image of the Month on
+Twitter: @PlanetGeomorpho
+
+or Facebook:
+
+https://www.facebook.com/PlanetaryGeomorphology
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+TEXAS AREA PLANETARY SCIENCE MEETING (TAPS)
+
+We are thrilled to announce that the website for the first Texas Area
+Planetary Science Meeting (TAPS) is now live! Taking place on August
+17-18, 2023, at the downtown UT San Antonio (UTSA) campus, TAPS aims to
+facilitate interaction, collaboration, and partnerships within the
+Texas planetary science, astrobiology, and exoplanet research
+community.
+
+We invite researchers, faculty, postdocs, and students to visit our
+website and explore the details of this inaugural 1.5-day event. Here
+are some key dates to remember:
+
+June 22: Abstract Submission Deadline;
+June 23: Travel Grant Application Deadline;
+July 14: Registration Deadline;
+August 17-18: TAPS Meeting
+
+Travel support is available for everyone who needs financial support to
+attend the meeting. Applications for travel grants are now open.
+
+Find out more about TAPS, including registration, abstract submission,
+and travel grant application details on our new website:
+
+https://sites.google.com/view/tapsmeeting/home
+
+Mark your calendars and register today! We look forward to welcoming
+you to the first-ever Texas Area Planetary Science Meeting.
+
+For any questions, please contact the TAPS Team at
+TAPSmeeting@gmail.com.
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+MICROSATELLITES AND THEIR USE IN PLANETARY AND ASTROBIOLOGY RESEARCH
+WORKSHOP
+
+The aim of the workshop Microsatellites and their use in planetary and
+astrobiology research (Tartu, Estonia, 1-8 August 2023) will be to
+enable students and early career scientists to design micro-and
+nanosatellite missions tackling scientific themes and target objects
+they have chosen themselves previously. The workshop will consist of
+three parts:
+- a lectured part consisting of in-depth talks
+- a mission designing part where attendees plan these endeavours in
+  detail with the help of satellite technologists
+- a final presentation of all the projects
+
+The workshop aims to:
+- Highlight the possible potential of microsatellites in exploring
+  different targets like the Moon, small bodies and outer satellites
+- Foster the interaction between space researchers and technologists
+- Allow participants to start the design and planning of new space
+  missions
+- Contribute to the training of a new generation of space researchers
+
+The workshop will consist of lectures by leading scientists, planning
+of for different micro- or nanosatellite projects in small groups as
+well as open discussions. Participants will also have the possibility
+to display their own research results in a poster session.
+
+Website:
+
+https://sisu.ut.ee/microsatellites2023/
+
+[Edited for length]
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+LIFE IN THE SUBSURFACE CONFERENCE
+
+Date: October 25-27, 2023
+Location: Angra do Heroismo, Terceira, Azores.
+
+This meeting will focus on the following subjects:
+- Characteristics of (potential) subsurface habitats on Earth and
+  beyond
+- Early evolution of subsurface life including its possible role in
+  emergence of life
+- Diversity, metabolism and survival strategies of subsurface life on
+  Earth
+- Possibility of extraterrestrial subsurface life and its detection.
+- Gaps in the knowledge about subsurface life
+- Subsurface environments and extremophiles on the Azores.
+ 
+Very proficient speakers have been invited to the workshop. It will be
+held at the very modern Centro Cultural e de Congressos offering ideal
+setting. The location Angra is a picturesque city and has plenty of
+good restaurants and clean and affordable hotels with good services.
+The EAI project team "Astrobiology and Art" will organise a multimedia
+event on the first day. There will be a speleological society "Os
+Montanheiros" will organise an exhibition of life in Azorean lava
+caves.
+ 
+The deadline for registration and abstract submission is July 1, 2023.
+
+Please check the website:
+ 
+https://europeanastrobiology.eu/azores-workshop-2023-home/
+ 
+for further information.
+ 
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+IMPACTS AND THEIR ROLE IN THE EVOLUTION OF LIFE SUMMER SCHOOL
+
+Date: 5-14 September, 2023
+Location: Nordlingen, Germany
+
+The course will give the participants a thorough introduction into how
+meteorite, comet, and asteroid impacts participate in shaping life on
+Earth. The following subjects will be covered by the lectures:
+- Roles of impacts in the formation of habitable planets
+- Physical and chemical properties of comets and meteorites
+- Detection and investigation of impact craters by geological methods
+  and remote sensing from space
+- Ecological consequences of impacts and the role of impacts in mass
+  extinctions
+- Transfer of life through meteorite impacts
+- Threat of life on our planet by near-Earth asteroids and comets
+
+The lecture programme will be complemented by practical exercises
+concerning:
+- Investigations of Suevite formations
+- Analysis of pollen indicators impact events.
+- Microscopy of impactites
+- Outreach work for a conference on "Impacts and their role in the
+  evolution of life" in Nordlingen in Autumn 2024
+
+The deadline for applications is 15 June 2023.
+
+Please check the website:
+
+https://europeanastrobiology.eu/summer-school-2023-homepage/
+
+for further information.
+
+[Edited for length]
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+VOLCANISM, PLATE TECTONICS, HYDROTHERMAL VENTS AND LIFE SUMMER SCHOOL
+
+Date: October 11-21, 2023
+Location: Angra do Heroismo, Azores, Portugal
+
+This summer school will focus on which role volcanism, plate tectonics,
+and hydrothermal vents played in the emergence and evolution of life.
+It will give lecturers of leading scientists on this subject. Moreover,
+there will be sampling excursions to lava caves and solfatares as well
+as exercises on genetic characterisation of extremophiles population
+those habitats as well as on cultivation of bacteria. Angra is a
+picturesque city and has plenty of good restaurants and clean and
+affordable hotels with good services. There are flights to the close
+Terceira Lajes airport from both Europe mainland, the US, and Canada.
+ 
+The deadline for applications is July 1, 2023.
+
+Please check the website:
+ 
+https://europeanastrobiology.eu/azores-ss-home/
+ 
+for further information.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+3 YEAR POSTDOCTORAL FELLOWSHIP POSITION IN DATA SCIENCE AT THE ADLER
+PLANETARIUM
+
+The Science Engagement Division at the Adler Planetarium in Chicago is
+seeking candidates for a 3-year Postdoctoral Fellowship position in the
+field of Data Science, with an emphasis on Remote Sensing and
+Geospatial Analysis. The Postdoctoral Fellow will carry out independent
+research with a focus on the analysis of light pollution image data
+collected by the Adler's Far Horizons research program.
+
+Please visit for more details:
+
+https://tinyurl.com/jusdkukf
+
+Please use the following link to apply for the position:
+
+https://tinyurl.com/43hhxhf2
+
+Please reach out to Ken Walczak (kwalczak@adlerplanetarium.org) if you
+have any questions.
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+POSTDOCTORAL FELLOWSHIP OPPORTUNITY IN METEORITES STUDIES AT ARIZONA
+STATE UNIVERSITY
+
+The Arizona State University Buseck Center for Meteorite Studies is
+pleased to announce the search for the inaugural BMCS Meteorite Studies
+Postdoctoral Fellow. Early career individuals, near Ph.D. completion
+and up to 4 years post-Ph.D. with an interest in meteorites and related
+materials, are encouraged to apply at:
+
+https://apply.interfolio.com/126208
+
+Come launch your scientific career in the School of Earth and Space
+Exploration, one of the world's most interdisciplinary planetary
+science schools, working directly with one of the world's largest
+university meteorite collections!  
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+[NASA] SMD: ARTEMIS III DEPLOYED INSTRUMENTS FINAL TEXT AND DUE DATES
+
+F.12 Artemis III Deployed Instruments (A3DI) solicits both standalone
+instruments and instrument suites to conduct high-priority science
+investigations that can be uniquely accomplished by human deployment of
+payloads on the surface of the Moon during Artemis III. Deployed
+instruments consist of autonomous instrument packages installed on the
+lunar surface by astronauts during extravehicular activities (EVAs).
+Proposed deployed instruments must address one or more of the
+scientific objectives outlined in the Artemis III Science Definition
+Team (SDT) Report.
+
+Please refer to the call for more information:
+
+https://tinyurl.com/3yfhm9cp
+ 
+A Pre-proposal Conference is scheduled for June 14, 2023, and a BPS
+Virtual Workshop is scheduled for June 9, 2023; see Section 3.5 for
+more information.
+
+[Edited for length]
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] SMD: F.23 SMD BRIDGE PROGRAM SEED FUNDING CLARIFICATION
+
+The SMD Bridge Seed Funding Program Element of ROSES-2023 (F.23)
+solicits proposals to provide support for faculty investigators and
+their students at under-resourced institutions (URIs) to carry out
+NASA-relevant research. Through the BPSF program, SMD aims to
+facilitate new and expand ongoing partnerships between students and
+faculty at URIs and researchers at NASA Centers that could be expected
+to grow into Bridge partnerships and become well-positioned to submit a
+proposal to the future SMD Bridge Program opportunity in ROSES-2023.
+ 
+Section 1 of F.23 Bridge Program Seed Funding (BPSF) has been clarified
+to indicate that eligibility is based on SMD grant funding, and that
+STEM fields counting toward the 20 PhD graduation limit are those
+relevant to SMD strategic objectives. Sections 1 and 3.5 have been
+updated to clarify requirements for the NASA partner. Section 3.7 has
+been added, to explain rolling submissions and clarify the rules
+regarding resubmissions and duplicate proposals. The email address has
+been updated to hq-smd-bridge@mail.nasa.gov. New text is in bold.
+
+Go to:
+
+https://tinyurl.com/5n8v3t4y
+
+[Edited for length]
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+
+[NASA] APERIODIC PDS DATA RELEASES IN 2023.05
+
+In May 2023, PDS ingested and made available the following data, none
+of which were regularly released with an ongoing mission:
+
+- 2023.05.30 GRAIL: LGRS RDR
+- 2023.05.26 NH: Cosmic Optical Background Observations
+- 2023.05.15 LRO: LROC topography generated by Gaskell
+  Stereophotoclinometry
+- 2023.05.10 MEX: HRSC map projected data
+- 2023.05.10 MEX: HRSC map projected data
+- 2023.05.02 Mission-Independent DSN Calibration Data
+- 2023.05.02 MEX: OMEGA experiment data for mission extension 8
+- 2023.05.02 MEX: HRSC radiometrically calibrated data V4
+
+To access those data:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230531.shtml
+
+To access all data archived in PDS:
+
+https://pds.nasa.gov
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+[NASA] PDS: MARS RECONNAISSANCE ORBITER DATA RELEASE 65
+
+The NASA Planetary Data System announces Release 65 of data from the
+Mars Reconnaissance Orbiter (MRO). This release contains raw,
+calibrated, and derived data products nominally covering the time
+period August 9 through November 8, 2022. Some instrument teams are
+delivering more recent data.  The data are archived at various PDS
+nodes.
+
+- CRISM, SHARAD, and Radio Science data at the Geosciences Node
+- HiRISE, CTX, and MARCI data at the Cartography and Imaging Sciences
+  Node
+- MCS data at the Atmospheres Node
+- SPICE data at the NAIF Node
+
+The data may be accessed at:
+
+https://pds-geosciences.wustl.edu/missions/mro/
+
+For a view centered on this release:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-20230601.shtml
+
+To access the latest PDS Data Releases, please visit the following
+link:
+
+https://pds.nasa.gov/datasearch/subscription-service/SS-Release.shtml
+
+All available PDS data may be found at:
+
+https://pds.nasa.gov/datasearch/data-search/
+
+For further information, see the PDS Home Page:
+
+https://pds.nasa.gov/
+
+MRO data releases occur every three months. The next release is
+scheduled for September 1, 2023.
+
+
+17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17-17
+
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+August 1-8, 2023
+Microsatellites and their use in Planetary and Astrobiology Research
+Workshop
+https://sisu.ut.ee/microsatellites2023/
+Tartu, Estonia
+
+October 25-27, 2023
+Life in the Subsurface Conference
+https://europeanastrobiology.eu/azores-workshop-2023-home/
+Azores, Portugal
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18-18
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Access Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Relation of Gravity, Winds, and the Moment of Inertia of Jupiter and
+Saturn
+Burkhard Militzer and William B. Hubbard 2023 PSJ 4:95
+https://doi.org/10.3847/PSJ/acd2cd
+
+Determining the Pyroxene Mineralogies of Vestoids
+T. H. Burbine et al. 2023 PSJ 4:96
+https://doi.org/10.3847/PSJ/accb98
+
+Depletion of 13C in CO in the Atmosphere of Mars Suggested by
+ExoMars-TGO/NOMAD Observations
+S. Aoki et al. 2023 PSJ 4:97
+https://doi.org/10.3847/PSJ/acd32f
+
+Space Weathering of Genesis Mission Solar-wind Collectors with
+Inferences for Weathering on Airless Bodies
+Amy J. G. Jurewicz et al. 2023 PSJ 4:98
+https://doi.org/10.3847/PSJ/acd33c
+
+Erratum: "Thermal Properties of 1847 WISE-observed Asteroids"
+(2022, PSJ, 3, 56)
+Denise Hung et al. 2023 PSJ 4:99
+https://doi.org/10.3847/PSJ/acd2d6
+
+Dual-band Fourier-transform Millimeter-wave Spectrometry for In Situ
+Gas Sensing
+Brian J. Drouin et al. 2023 PSJ 4:100
+https://doi.org/10.3847/PSJ/acd348
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************

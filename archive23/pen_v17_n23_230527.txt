@@ -1,0 +1,474 @@
+PLANETARY EXPLORATION NEWSLETTER
+Volume 17, Number 23 (May 27, 2023)
+
+PEN Website: https://planetarynews.org
+Editor: Mark V. Sykes,
+Co-Editors: Matthew R. Perry, Alex Morgan
+Email: pen_editor@psi.edu
+Twitter: @pen2tweets
+
+o-------------------------TABLE OF CONTENTS---------------------------o
+
+1. Commercial Lunar Payload Services (CLPS) Data Scientist Position,
+   Jacobs/Critical Mission Solutions
+2. DPS-EPSC Science Themes
+3. Mercury Science and Exploration May 2023 Newsletter Released
+4. Origins of Life Conference
+5. Two Lecturer/Assistant Lecturer Tenure Track Positions in Planetary
+   Atmosphere Modelling and Planetary Sciences
+6. Mars Exploration Science Program Newsletter for May 2023
+7. PHD Position at Aix-Marseille University, France
+8. Postdoc Position in Exoplanet Atmospheres
+9. [NASA] Upcoming Advisory Committee Meetings: NAC Science and PAC
+10. [NASA] Seeking Reviewers for SMD Bridge Program Seed Funding
+    Proposals
+11. NASA TechFlights 2023 Solicitation Is Closing Soon
+12. Hybrid Science Lecture: Exploring the Lunar South Pole, June 8
+13. NASA Office of STEM Engagement TEAM II Data Call for Reviewers
+    (Informal Education)
+14. [NASA] Astrobiology Mission Ideation Factory Application Available
+15. Planetary Meeting Calendar Additions
+16. Planetary Science Journal - New Papers
+
+o---------------------------------------------------------------------o
+
+1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+
+COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) DATA SCIENTIST POSITION,
+JACOBS/CRITICAL MISSION SOLUTIONS
+
+The CLPS Data Scientist will:
+
+- Provide expertise to the Commercial Lunar Payload Services (CLPS)
+  initiative at NASA's Johnson Space Center (JSC)
+- Work with NASA ARES Division / NASA SMD to navigate the export of
+  data from all CLPS missions.
+- Work across NASA HQ, commercial providers, and all individual CLPS
+  project scientists on the development of processes and procedures to
+  enable the timely export of mission data to the public.
+- And more...
+
+Details:
+
+https://tinyurl.com/yc4j5dm2
+
+For more information on Jacobs' partnership with NASA at JSC, please
+visit:
+
+https://www.wehavespaceforyou.com
+
+
+2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2
+
+DPS-EPSC SCIENCE THEMES
+
+The DPS-EPSC Science Organizing Committee (SOC) is excited to provide
+an excellent science program for the upcoming meeting in San Antonio,
+TX on October 1-6, 2023.
+
+Abstract submissions will open in early June and the abstract deadline
+will be July 7. One first-author scientific abstract is permitted per
+individual; a total of up to two first-author abstracts are permitted
+if at least one is in the areas of
+history/DEIA/workforce/education/outreach.
+
+The SOC encourages abstracts in all of (but not necessarily limited to)
+the following areas. Please note that some of the items on the list may
+not traditionally be emphasized at either DPS or EPSC; however, the SOC
+would like to be sure that the community is aware that such abstracts
+are welcome. Submissions in overlapping areas will be welcome and can
+be categorized in up to two relevant areas during submission.
+
+Please reach out to the DPS-EPSC chairs with any questions you may
+have.
+
+- Planetary Space Physics
+- Mission Instrumentation
+- Laboratory Studies
+- Field Analogue Research
+- Processes Across the Solar System
+- Exoplanets and Origins of Planetary Systems
+- Astrobiology
+- Observational Techniques
+- Planetary Science Workforce
+- Amateur Astronomy / Citizen Science
+
+[Edited for length]
+
+
+3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3
+
+MERCURY SCIENCE AND EXPLORATION MAY 2023 NEWSLETTER RELEASED
+
+The Mercury Exploration Assessment Group (MExAG) is circulating Issue
+11 of "The Mercury Newsletter". The quarterly community newsletter can
+be accessed online at:
+
+https://www.lpi.usra.edu/mexag/newsletter/
+
+This edition announces openings on the MExAG Steering Committee
+(applications due May 19), shares Mercury science and exploration news,
+spotlights early-career researchers, notes upcoming meetings, and
+highlights recent publications.
+
+Please send your Mercury community announcements and calendar items
+for inclusion in the newsletter to the MExAG Steering Committee at
+mexag.sc@gmail.com.
+
+
+4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4
+
+ORIGINS OF LIFE CONFERENCE
+
+The 2023 joint ISSOL/IAU meeting in Quito (July 30-August 4, 2023)
+abstract submission deadline has been extended until May 31, 2023.
+Registration and abstract submission information can be found at:
+
+https://www.usfq.edu.ec/en/events/origins-2023
+
+Look under the "Registration and Abstract Submission" tab at the lower
+portion of the website.
+
+Late applications for travel support for younger researchers are still
+being accepted and should be sent to:
+
+https://abb_at_ciencias.unam.mx
+
+
+5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5
+
+TWO LECTURER/ASSISTANT LECTURER TENURE TRACK POSITIONS IN PLANETARY
+ATMOSPHERE MODELLING AND PLANETARY SCIENCES
+
+Division of Space Research and Planetary Sciences, University of Bern,
+Switzerland
+
+The Division of Space Research and Planetary Sciences of the University
+of Bern has two openings, as per 1.1.2024, for a Lecturer / Assistant
+Lecturer Tenure Track in planetary atmosphere modelling and a Lecturer
+/ Assistant Lecturer Tenure Track in planetary sciences. The division
+is one of the leading research groups in Europe in the fields of
+theoretical and experimental planetology and is looking for two
+candidates in a) planetary atmosphere and radiation transport
+modelling, with particular interests in theoretical models of planetary
+atmospheric structures, the computation of relevant spectroscopic
+observables, and the comparison of models with observations. b) in any
+field of planetary sciences broadly defined, including fields like the
+study of properties of planets and minor bodies in the Solar System,
+planetary evolution, habitability, planetary system dynamics,
+comparative (exo)planetology, observations and physico-chemical models
+of planet-forming disks, etc. Applicants using theoretical,
+experimental, and observational approaches for both Solar System
+bodies and exoplanets are welcome. A potential subsequent promotion to
+associate professor is subject to fulfillment of qualification
+criteria.
+
+The application deadline is 15 August 2023. More information can be
+found at:
+
+https://tinyurl.com/3jsxv3wy
+
+
+6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6
+
+MARS EXPLORATION SCIENCE PROGRAM NEWSLETTER FOR MAY 2023
+
+On behalf of Vicky Hamilton (MEPAG Chair), Rich Zurek, Michael Mischna,
+Brandi Carrier and Jonathan Bapst of the Mars Program Science Office,
+the May 2023 edition of the Mars Exploration Science Monthly Newsletter
+can be found on the web at:
+
+https://mepag.jpl.nasa.gov
+
+In this newsletter, we continue to update the upcoming conference
+schedule with postponements, cancellations, and conversions to virtual
+meetings.
+
+We hope everyone remains safe and healthy within these stressful,
+rapidly evolving, social-isolating times.
+
+Please send your Mars community announcements and calendar items for
+inclusion in the newsletter to Barbara at:
+Barbara.A.Saltzberg@jpl.nasa.gov
+
+
+7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7
+
+PHD POSITION AT AIX-MARSEILLE UNIVERSITY, FRANCE
+
+This position is in the experimental study of surface processes of
+Europa under particle bombardment.
+
+In the context of the collaborative project "linking cryovolcanism to
+space weathering on the surface of Europa" between CNRS and University
+of Arizona, we propose a PhD position based at the PIIM laboratory,
+member of the Origins Institute of Marseille, France, with a start
+date no later than December 2023. This project is built around an
+experimental approach - irradiating icy analogs of Europa's surface in
+a vacuum chamber - to determine how radiolytic processes evolve the
+surface from a physico-chemical point of view and how the nature of
+the ice (composition and structure) influences this evolution. The
+recruited person will work on the evolution of the experimental plan,
+the execution of experiments, and the interpretation of resulting data.
+They will develop the skills necessary to operate the Ultra-High Vacuum
+apparatus, as well as perform analysis with infrared spectroscopy, gas
+chromatography/mass spectrometry (GC-MS), and Ultra-High Resolution
+mass spectrometry. A Master's degree or equivalent is required, with a
+background in analytical chemistry/and or physical chemistry. Full
+announcement and application at:
+
+https://tinyurl.com/ydruwjx4
+
+
+8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8
+
+POSTDOC POSITION IN EXOPLANET ATMOSPHERES
+
+The Space Research Institute (IWF) of the Austrian Academy of Sciences
+(OeAW) is offering a postdoc position in exoplanet atmospheres - links
+to observations. The successful candidate will join the IWF research
+group "Exoplanets: Weather & Climate" led by Prof. Christiane Helling
+as part of the OeAW's efforts to expand the theme of exoplanet
+research at the IWF in Graz, Austria. The candidate is expected to
+contribute by linking complex modelling results to observations and by
+doing scientific data interpretation and preparation for PLATO, Ariel,
+and other future missions.
+
+The applicant must hold a PhD in the relevant fields of astrophysics.
+The appointment begins as early as November 1, 2023 and will be for
+three years.
+
+Applications must include (1) CV, (2) publication list, (3) research
+experience statement (max 2 pages) and research plan (max 1 page),
+(4) academic certificates, and (5) two references letters. Please send
+the application as one PDF file, mentioning Job ID: IWF051PD123 to
+Cosima Muck, cosima.muck@oeaw.ac.at, no later than July 20, 2023.
+
+Further information can be found here:
+
+https://tinyurl.com/3x7h6u3r
+
+
+9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9
+
+[NASA] UPCOMING ADVISORY COMMITTEE MEETINGS: NAC SCIENCE AND PAC
+
+The next NASA Advisory Committee (NAC) Science Committee meeting will
+be May 31-June 1. This advisory committee primarily issues findings to
+the NASA Science Mission Directorate (SMD). The upcoming NAC Science
+Committee meeting agenda and other information about this group can be
+found at:
+
+https://science.nasa.gov/science-committee/meetings
+
+The next NASA Planetary Science Committee meeting will be June 21-23.
+This advisory committee primarily issues findings to NASA Planetary
+Science Division (PSD). The agenda for the upcoming PAC meeting is not
+yet posted, but will be available in a few weeks at:
+
+https://science.nasa.gov/researchers/nac/science-advisory-committees/pac
+
+Currently available information includes past meeting agendas and
+findings, committee membership, and a "PAC 101" slide package that
+explains the role and rules of the PAC.
+
+Both of these meetings are open to the public (and virtual connection
+information is usually on the agenda) and there are specific period
+when comments from the community are solicited.
+
+
+10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10
+
+[NASA] SEEKING REVIEWERS FOR SMD BRIDGE PROGRAM SEED FUNDING PROPOSALS
+
+NASA's SMD Bridge Program is seeking reviewers for proposals received
+in response to the Bridge Program Seed Funding call for proposals
+(ROSES-2023, Appendix F.23). Desired areas of expertise include all
+areas of science, engineering, and technology development relevant to
+SMD. We are also seeking reviewers with experience in professional and
+workforce development, including mentoring, Diversity, Equity,
+Inclusion and Accessibility (DEIA) work, and STEM education. Reviewers
+will be compensated for their time.
+
+Volunteer at:
+
+https://tinyurl.com/2hv99w86
+
+Learn more about the Bridge Program Seed Funding solicitation (F.23)
+at:
+
+https://tinyurl.com/4n9bysbb
+
+Please send questions to hq-smd-bridge@mail.nasa.gov.
+
+
+11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11-11
+
+NASA TECHFLIGHTS 2023 SOLICITATION IS CLOSING SOON
+
+TechFlights supports researchers from U.S.-based industry, academia,
+and private research institutions to rapidly test technologies on
+commercial suborbital vehicles or orbital platforms that can host
+payloads.
+
+This year, TechFlights awardees can receive up to $1 million to
+purchase flights from any eligible U.S. commercial flight provider that
+best suits their test needs.
+
+NASA is seeking proposals to address specific agency goals involving
+lunar, low-Earth orbit (LEO), and geosynchronous-Earth orbit (GEO)
+activities.
+
+Go to:
+
+https://tinyurl.com/56xy6hhe
+
+Mandatory Preliminary Proposals due: 5 pm EDT, June 7, 2023
+Full proposals (by invitation only) due: 5 pm EDT, October 4, 2023
+
+For more information about the additional capabilities that enable
+innovative suborbital investigations and technology testing, visit:
+
+https://science.nasa.gov/researchers/suborbital
+
+
+12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12-12
+
+HYBRID SCIENCE LECTURE: EXPLORING THE LUNAR SOUTH POLE, JUNE 8
+
+Join the Lunar and Planetary Institute for a hybrid presentation
+(in-person and online) by Dr. David Kring, Principal Scientist at the
+LPI. Artemis III astronauts will land on a fascinatingly cold and
+rugged terrain in the lunar south polar region. Dr. Kring will discuss
+this unique environment and what astronauts may encounter during
+traverses of this unexplored region.
+
+This event will be held in-person and online on Thursday, June 8. The
+presentation will begin at 7:30 p.m. CT (8:30 p.m. ET/ 6:30 p.m. MT/
+5:30 p.m. PT).
+
+Learn more at:
+
+https://www.lpi.usra.edu/features/2023/051123/cess/
+
+
+13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13-13
+
+NASA OFFICE OF STEM ENGAGEMENT TEAM II DATA CALL FOR REVIEWERS
+(INFORMAL EDUCATION)
+
+If you are interested in potentially participating in the peer review
+process as an online reviewer and/or online panelist, please complete
+the NASA OSTEM TEAM II Data Collection Form:
+
+https://forms.gle/jHbQrw4DvrvrXaAn8
+
+Please note, NASA online reviews are completed using the NASA
+Solicitation and Proposal Integrated Review and Evaluation System
+(NSPIRES) which requires an activated account. If you do not have an
+account, go to the NSPIRES Homepage and click the "Create an Account"
+button. If you already have an activated account, we ask that you
+update your profile to include your current contact information.
+
+Thank you for your continued support of NASA Office of STEM Engagement
+Team II initiatives.
+
+
+14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14
+
+[NASA] ASTROBIOLOGY MISSION IDEATION FACTORY APPLICATION AVAILABLE
+
+The NASA Astrobiology Program has partnered with Knowinnovation (KI)
+to host a pilot Astrobiology Mission Ideation Factory focused on the
+search for life at Mars. NASA would like to provide early career
+researchers the opportunity to develop new concepts for Astrobiology
+missions. This event will be an Ideas Lab-like activity focused on
+developing Astrobiology missions, will provide an enrichment experience
+for the participants, and is intended to be a first step in further
+development of the top ideas. Participants are expected to be early
+career post-docs and graduate students, with an interest in becoming
+more involved in astrobiology-focused space missions. The event is
+scheduled for the week of August 21, 2023 at the NASA Goddard Space
+Flight Center (GSFC) in Greenbelt, MD. We encourage those with an
+interest to submit an application, which is now available.
+
+Go to:
+
+https://app.smartsheet.com/b/form/0d9d41e258df4db0b4643fe0ed2260a8
+
+For more information, go to:
+
+https://knowinnovation.com/ki-workshops/ideas-labs/
+
+
+15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15-15
+ 
+PLANETARY MEETING CALENDAR ADDITIONS
+
+Note: Most face-to-face meetings going forward will have online
+components. Check their websites for details.
+
+Posted at https://planetarynews.org/meetings.html
+
+No new meetings.
+
+[Editor Note: If there is a planetary-related meeting, conference or
+workshop that you think your colleagues should be aware of, please
+send the date, title, URL and location to pen_editor@psi.edu.]
+
+
+16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16-16
+
+PLANETARY SCIENCE JOURNAL - NEW PAPERS
+
+Direct Links to Open Source Papers
+
+Editor, Faith Vilas
+https://psj.aas.org
+
+Using Neural Networks to Model Main Belt Asteroid Albedos as a
+Function of Their Proper Orbital Elements
+Zachary Murray 2023 PSJ 4:90
+https://doi.org/10.3847/PSJ/acd381
+
+Mineralogical Characterization and Phase Angle Study of Two Binary
+Near-Earth Asteroids, Potential Targets for NASA's Janus Mission
+Lucille Le Corre et al. 2023 PSJ 4:91
+https://doi.org/10.3847/PSJ/acd10d
+
+Dating Granites Using CODEX, with Application to In Situ Dating on the
+Moon
+Jonathan Levine et al. 2023 PSJ 4:92
+https://doi.org/10.3847/PSJ/accd6c
+
+The Increasingly Strange Polarimetric Behavior of the Barbarian
+Asteroids
+Joseph R. Masiero et al. 2023 PSJ 4:93
+https://doi.org/10.3847/PSJ/acd383
+
+A Radiative-convective Model for Terrestrial Planets with Self-
+Consistent Patchy Clouds
+James D. Windsor et al. 2023 PSJ 4:94
+https://doi.org/10.3847/PSJ/acbf2d
+
+
+***********************************************************************
+* The Planetary Exploration Newsletter is issued approximately weekly.
+* Current and back issues are available at https://planetarynews.org
+*
+* To subscribe, unsubscribe, or change your email address, go to
+* https://planetarynews.org/pen_subscribe.php.
+*
+* Please send all replies and submissions to pen_editor@psi.edu.
+* Announcements and other messages should be brief with links to URLs
+* for extended information, including detailed descriptions for job
+* announcements. Title plus text is limited to 200 words. All PEN
+* submissions will be tweeted @pen2tweets. Please submit a 234 (or
+* fewer) character tweet. Alternatively, the editorial staff will
+* create one for you. Go to https://planetarynews.org/submission.html
+* for complete submission directions.
+*
+* PEN is a service provided by the Planetary Science Institute
+* (https://www.psi.edu) using no NASA funds. All editorial work is
+* volunteer.
+***********************************************************************
